@@ -1,0 +1,87 @@
+old id = 1092
+Changelog: Covid Tracing Tracker updates as they happen | MIT Technology Review
+2022
+https://www.technologyreview.com/2020/05/15/1001736/changelog-covid-tracing-tracker-updates-as-they-happen
+
+Changelog: Covid Tracing Tracker updates as they happenTechnology Review isrunning a project to monitorand observe the development and deployment of automated contact tracing apps aimed at curbing the spread of covid-19.
+Each weekday we review submissions, source information andupdate our database. This page lists changes, documentation, and reasoning where it is required.
+If you have a change to submit to the database,here's how to do it.
+Wednesday Dec 23Monday November 16We have updated usage numbers for 12 major countries in the public version of ourunderlying spreadsheet.
+India’s limitation rating was upgraded because these limitations are now outlined in its privacy policy. However we’ve downgraded India’s transparency rating, having previously upgraded it when the app was made open source. Despite that, trust amongst usersremains lowand more government outreach around trust and transparency seems necessary.
+ForJapan, we’ve changed the name of the government agency, added Bluetooth to the tech, and upgraded its rating for use limitation based on theprivacy policy.
+In thePhilippines, data will be retained for anundeterminedamount of time. We’ve downgraded the data destruction rating as a result.
+We’ve upgradedGermany’s limitation rating.
+France’s app was relaunched, and it is now calledTousAntiCovid. We have upgraded its use limitation rating based on the privacy policy.
+For theUK, we’ve upgraded voluntariness, limitation, data destruction, minimization and transparency based on the privacy policy and the fact that it’s open source.
+InAustralia, we’ve upgraded the transparency rating based on improved government responsiveness to inquiries.
+Singapore’s voluntariness rating has been downgraded. TraceTogether is no longer voluntary; residents must either use the app or a wearable.
+Monday July 13This project is going on hiatus for the time being.
+Tuesday July 7Added a listing forHungary, which has an app called VirusRadar. It is voluntary andhas more than 10,000 installs so far.
+New usage figures forNew Zealand, where apparently app registrations areupto 588,800.
+Singaporedownloads are now at 2.1 million, 37% of the population. MeanwhileFrancereaches 1.9 million downloads, andGermanyis at 14 million. (All figures fromthis CNBC story.)Adding an entry for thePhilippines, where itsStaysafe.phapp claims 1.26 million users is going to be handed over to the Department of Health by its developer inAugust.
+Belgiumis planning to launch a voluntary app inSeptemberusing the same platform as Germany.
+Wednesday July 1Ireland's app, called CovidTracker,is about to go live. The government says it will be impossible to judge whether it's been effective until it has been running for six months.
+Tuesday June 30Alabamahasannouncedthat its app is to be released July or August, part of a platform it’s calling “Stay Safe Together.”Utahsaysits app now has 53,000 users; 17,000 of them have been referred for testing, and 11,000 ofthosehave tested positive.
+Monday June 29Switzerlandreports500,000 downloads of its app in the first 24 hours.
+InAustralia, downloads areup to 6.44mbut apparently the app has not detected a single case.
+Northern Ireland, which is part of the UK,is developing its own appwith thesame vendoras IrelandInFrance, around 460,000 haveuninstalledthe app.
+In theUnited Arab Emirates, there are two apps we're investigating, but more importantly the government announced that there are fines of up to Dh10.000 ($2,700) for anyone refusing to install or register for a smart tracking app. This appears to only apply to those ordered into quarantine, so we are still rating the app as "voluntary" for now, pending further investigation.
+Latvia's forthcoming app will to use the Google/Apple API .
+Friday June 25Japan's COCOA app hasmore than 4 million downloads.
+New Zealandnow has584,000 registrations.
+Tuesday June 23France's StopCovid App has beendownloaded 1.9 million timesand activated 1.8 million times, but there have been only a handful of notifications (although cases in the country are now in low hundreds per day.)Saudi Arabiahas several covid-19 apps, and two that do contact tracing: Tawakkalna, which is the main government-sanctioned app and serves several purposes, but alsoTabaud. Both are live.
+Vietnamhas an app called Blue Zone.
+Monday June 22Japan’s app has had2.7 million downloadssince launching on Friday.
+Indonesiahas an app calledPeduliLindungiwhich has had 1.9m downloads.
+Added entry forThailand's Chana app, which uses QR codes and isreported at 355,000 users.
+Singaporereports its user numbers are now at2 million.
+The app forFijihaslaunched. It’s mandatory for anyone with a government-related job.
+New Zealand’s apphas some glitches and 573,000 users.
+Friday June 19Canadahasannouncedan upcoming app called Covid Alert. It will bepiloted in Ontarioand is currently planned to go nationwide in July.
+Singapore's app is now in use by1.8 million people.
+Japanhaslaunched a contact tracing app called COCOAwhich uses the Google-Apple API.
+Thursday June 18TheUKhas decided todrop its centralized appin favor of an alternative that uses the Google-Apple API. The database has been updated accordingly.
+Wednesday June 17Iran's app has apparently been downloaded by around4 million people.
+Tuesday June 16Updated entries forFranceandGermanyto reflect that their apps are now live.
+Israel's Hamagen appnow claims more than 2 million users.
+New entries added forAlgeria,Kuwait,Tunisia(all live) andGibraltarandFiji(in development.)Monday June 15Norwayhaspaused use of its appafter case levels dropped and the country's privacy watchdog said the benefits no longer outweighed the risks.
+Thursday June 11Italy's app is live and now in use by approximately2.2 million people.
+Wednesday June 10According to reporting byBusiness Insider,South Carolinais building an app using the Apple-Google exposure notification system. MeanwhileRhode Island,VirginiaandWashingtonare building apps but not using the Apple-Google API. We have added them to the database. 16 US states, meanwhile, say they have no plans to use contact tracing apps: Colorado, Delaware, Florida, Georgia, Hawaii, Indiana, Louisiana, Maryland, Missouri, New Mexico, North Carolina, Ohio, Oregon, Tennessee, Texas, VermontTuesday June 2We've started tracking efforts across US states. First additions:Utah,South Dakota, andNorth Dakota(which has two apps.)Friday May 29India's transparency rating upgraded after its app wasopen sourced.
+Thursday May 28Switzerland's app has launched—the first to use the Google-Apple exposure notification API.
+Added entry forLatvia, which plans to release a service using the Google-Apple API soon.
+Wednesday May 27Adjusted entry forSwitzerland. Initially, the Swiss had opted to use the DP-3T protocol instead of the Google-Apple exposure notification API. Now they will be using both.
+Adjusted entry for theUK. Initially refused to adopt the Google-Apple API, but reports say it is now considering a switch.
+Tuesday May 26Indiaannouncedthat its app would be going open source to make it more transparent. We have not changed its transparency rating, but will review once the code is made available.
+UpgradedBulgaria's ratings for data destruction, minimization and transparency. A new version of the app allows users to delete their own data at will; the app is now open source; and it now collects only that data it needs to work.
+Thursday May 21Added entry forUnited Arab Emirates. Public information about theTraceCovid appis thin, but it appears to be decentralized Bluetooth system that may require users to share an ID number.
+Wednesday May 20Apple and Google announcedthey've released their exposure notification API to 22 countries and several US states.
+UpdatedSingapore's penetration rate. Its TraceTogether app is reported to have 1.5 million users from a population of 5.63m, or 27%.
+Tuesday May 19Added entry forQatar: Its Ehteraz app wasreleased at the end of April.
+Added entry forBahrain.
+Very little public information so far, but the government claims 25% of the population have downloaded it.
+DowngradedIndia's Aarogya Setu app to an N on data minimization due to the amount of data it collects.
+Friday May 15Added entry forEstonia: an-as-yet unlaunched app thatit promiseswill be decentralized and privacy respecting.
+Added entry forMexico.
+Current set of policiesappears quite vague.
+Wednesday May 13DowngradedNorway's rating for minimization because it iscentrally collecting GPS data for every user, infected or not, for 30 days—almost certainly not needed based on what we know about how this technology works.
+DowngradedNorway's rating for transparency.
+They're not entirely clear about how the data collection works, and it is not open source—which isn't disqualifying in and of itself, but isn't supplemented with enough data to counterbalance.
+Tuesday May 12UpgradedItaly's data destruction rating based onthis policy document.
+Updated the entry forCyprus, confirming government involvement, user numbers, location method and upgrading the rating for its data destruction policy.
+Monday May 11UpdatedAustralianuser numbers to5.3 million.
+Added entry forMalaysia.
+Added entry forNorth Macedonia.
+Germanyannouncedit will switch to the Apple-Google protocol.
+DowngradedAustralia's rating for transparency. Key technical details appear to be hidden, and users report a lack of response when submitting bugs or reporting vulnerabilities.
+Friday May 8Added entry forTurkey. People who test positive are mandated to download the app, and data is shared with police.
+Updated language onNorwayto reflect that it launched before the Apple-Google announcement.
+Thursday May 7Project launches publicly.
+SharePopularDeep DiveTech policySouth Africa’s private surveillance machine is fueling a digital apartheidAs firms have dumped their AI technologies into the country, it’s created a blueprint for how to surveil citizens and serves as a warning to the world.
+A quick guide to the most important AI law you’ve never heard ofThe European Union is planning new legislation aimed at curbing the worst harms associated with artificial intelligence.
+Inside the fierce, messy fight over “healthy” sugar techYi-Heng “Percival” Zhang was a leader in rare sugar research. Then things got sticky.
+The secret police: Inside the app Minnesota police used to collect data on journalists at protestsIntrepid Response is a little-known but powerful app that lets police quickly upload and share information across agencies. But what happens to the information it collects?Stay connectedGet the latest updates fromMIT Technology ReviewDiscover special offers, top stories, upcoming events, and more.
+Thank you for submitting your email!It looks like something went wrong.
+We’re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out to us atcustomer-service@technologyreview.comwith a list of newsletters you’d like to receive.
+MIT Technology ReviewOur in-depth reporting reveals what’s going on now to prepare you for what’s coming next.
+Subscribeto support our journalism.
+AboutHelp© 2022 MIT Technology Review

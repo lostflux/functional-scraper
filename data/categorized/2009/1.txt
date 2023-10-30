@@ -1,0 +1,270 @@
+old id = 1099
+Stroop and picture—word interference are two sides of the same coin | SpringerLink
+2009
+https://doi.org/10.3758%2FPBR.16.6.987
+
+AdvertisementStroop and picture—word interference are two sides of the same coinPsychonomic Bulletin & Reviewvolume16,pages987–999 (2009)Cite this article3779Accesses60Citations3AltmetricMetricsdetailsAbstractThis article presents a cognitive model that reconciles a surprising observation in the picture—word interference (PWI) paradigm with the general notion that PWI is a form of Stroop interference. Dell’Acqua, Job, Peressotti, and Pascali (2007) assessed PWI using a psychological refractory period (PRP) paradigm, and concluded that the locus of interference in PWI is during the perceptual encoding stage. Stroop interference, on the other hand, is generally attributed to response selection. Based on these findings it was argued that PWI is not a Stroop effect. The present article discusses an alternative interpretation of these results. We assume that both effects are caused by the same interference mechanism, but that the processing speed associated with the different stimuli (colors vs. words) accounts for the previously reported differences. We support this argument by presenting a single computational model that accounts for both PWI and Stroop phenomena in single task and PRP settings.
+Downloadto read the full article textReferencesAltmann, E. M.
+, &Davidson, D. J.
+(2001). An integrative approach to Stroop: Combining a language model and a unified cognitive theory. In J. D. Moore & K. Stenning (Eds.),Proceedings of the 23rd Annual Meeting of the Cognitive Science Society. Mahwah, NJ: Erlbaum.
+Google ScholarAnderson, J. R.
+(2007).
+How can the human mind occur in the physical universe? New York: Oxford University Press.
+BookGoogle ScholarAnderson, J. R., Bothell, D., Lebiere, C.
+, &Matessa, M.
+(1998). An integrated theory of list memory.
+Journal of Memory & Language,38, 341–380.
+ArticleGoogle ScholarAnderson, J. R.
+, &Milson, R.
+(1989). Human memory: An adaptive perspective.
+Psychological Review,96, 703–719.
+ArticleGoogle ScholarAnderson, J. R.
+, &Schooler, L. J.
+(1991). Reflections of the environment in memory.
+Psychological Science,2, 396–408.
+ArticleGoogle ScholarByrne, M. D.
+, &Anderson, J. R.
+(2001). Serial modules in parallel: The psychological refractory period and perfect time-sharing.
+Psychological Review,108, 847–869.
+ArticlePubMedGoogle ScholarCohen, J. D., Dunbar, K.
+, &McClelland, J. L.
+(1990). On the control of automatic processes: A parallel distributed-processing account of the Stroop effect.
+Psychological Review,97, 332–361.
+ArticlePubMedGoogle ScholarCollins, A. M.
+, &Loftus, E. F.
+(1975). A spreading activation theory of semantic processing.
+Psychological Review,82, 407–428.
+ArticleGoogle ScholarDe Houwer, J.
+(2003). On the role of stimulus—response and stimulus— stimulus compatibility in the Stroop effect.
+Memory & Cognition,31, 353–359.
+ArticleGoogle ScholarDell’Acqua, R., Job, R., Peressotti, F.
+, &Pascali, A.
+(2007). The picture—word interference effect is not a Stroop effect.
+Psychonomic Bulletin & Review,14, 717–722.
+ArticleGoogle ScholarDell’Acqua, R., Lotto, L.
+, &Job, R.
+(2000). Naming times and standardized norms for the Italian PD/DPSS set of 266 pictures: Direct comparisons with American, English, French, and Spanish published databases.
+Behavior Research Methods, Instruments, & Computers,32, 588–615.
+ArticleGoogle ScholarDenckla, M. B.
+, &Rudel, R. G.
+(1976). Rapid automatized naming (RAN): Dyslexia differentiated from other learning disabilities.
+Neuropsychologia,14, 471–479.
+ArticlePubMedGoogle ScholarDonders, F. C.
+(1969). On the speed of mental processes.
+Acta Psychologica,30, 412–431. (Original work published 1868)ArticlePubMedGoogle ScholarDyer, F. N.
+(1973). The Stroop phenomenon and its use in study of perceptual, cognitive, and response processes.
+Memory & Cognition,1, 106–120.
+ArticleGoogle ScholarFagot, C.
+, &Pashler, H.
+(1992). Making two responses to a single object: Implications for the central attentional bottleneck.
+Journal of Experimental Psychology: Human Perception & Performance,18, 1058–1079.
+ArticleGoogle ScholarFerreira, V. S.
+, &Pashler, H.
+(2002). Central bottleneck influences on the processing stages of word production.
+Journal of Experimental Psychology: Learning, Memory, & Cognition,28, 1187–1199.
+ArticleGoogle ScholarGlaser, M. O.
+, &Glaser, W. R.
+(1982). Time course analysis of the Stroop phenomenon.
+Journal of Experimental Psychology: Human Perception & Performance,8, 875–894.
+ArticleGoogle ScholarGlaser, W. R.
+, &Düngelhoff, F.-J.
+(1984). The time course of picture-word interference.
+Journal of Experimental Psychology: Human Perception & Performance,10, 640–654.
+ArticleGoogle ScholarGlaser, W. R.
+, &Glaser, M. O.
+(1989). Context effects in Stroop-like word and picture processing.
+Journal of Experimental Psychology: General,118, 13–42.
+ArticleGoogle ScholarGray, W. D.
+(2007a). Composition and control of integrated cognitive systems. In W. D. Gray (Ed.),Integrated models of cognitive systems(pp. 3–12). New York: Oxford University Press.
+Google ScholarGray, W. D.
+(Ed.) (2007b).
+Integrated models of cognitive systems. New York: Oxford University Press.
+Google ScholarGreenwald, A. G.
+, &Shulman, H. G.
+(1973). On doing two things at once: II. Elimination of psychological refractory period.
+Journal of Experimental Psychology,101, 70–76.
+ArticlePubMedGoogle ScholarHazeltine, E., Teague, D.
+, &Ivry, R. B.
+(2002). Simultaneous dual-task performance reveals parallel response selection after practice.
+Journal of Experimental Psychology: Human Perception & Performance,28, 527–545.
+ArticleGoogle ScholarHendriks, P., van Rijn, H.
+, &Valkenier, B.
+(2007). Learning to reason about speakers’ alternatives in sentence comprehension: A computational account.
+Lingua,117, 1079–1096.
+ArticleGoogle ScholarItti, L.
+, &Koch, C.
+(2001). Computational modeling of visual attention.
+Nature Reviews Neuroscience,2, 194–203.
+ArticlePubMedGoogle ScholarJanssen, N., Schirm, W., Mahon, B. Z.
+, &Caramazza, A.
+(2008). Semantic interference in a delayed naming task: Evidence for the response exclusion hypothesis.
+Journal of Experimental Psychology: Learning, Memory, & Cognition,34, 249–256.
+ArticleGoogle ScholarJolicoeur, P.
+, &Dell’Acqua, R.
+(1998). The demonstration of short-term consolidation.
+Cognitive Psychology,36, 138–202.
+ArticlePubMedGoogle ScholarJuvina, I.
+, &Taatgen, N. A.
+(2009). A repetition-suppression account of between-trial effects in the Stroop task.
+Acta Psychologica,131, 72–84.
+ArticlePubMedGoogle ScholarKlein, G. S.
+(1964). Semantic power measured through the interference of words with color-naming.
+American Journal of Psychology,77, 576–588.
+ArticlePubMedGoogle ScholarKuipers, J. R., La Heij, W.
+, &Costa, A.
+(2006). A further look at semantic context effects in language production: The role of response congruency.
+Language & Cognitive Processes,21, 892–919.
+ArticleGoogle ScholarLevelt, W. J. M., Roelofs, A.
+, &Meyer, A. S.
+(1999). A theory of lexical access in speech production.
+Behavioral & Brain Sciences,22, 1–75.
+Google ScholarLevy, J.
+, &Pashler, H.
+(2001). Is dual-task slowing instruction dependent?Journal of Experimental Psychology: Human Perception & Performance,27, 862–869.
+ArticleGoogle ScholarLovett, M. C.
+(2005). A strategy-based interpretation of Stroop.
+Cognitive Science,29, 493–524.
+ArticleGoogle ScholarLuce, R. D.
+(1986).
+Response times. New York: Oxford University Press.
+Google ScholarMacLeod, C. M.
+(1991). Half a century of research on the Stroop effect: An integrative review.
+Psychological Bulletin,109, 163–203.
+ArticlePubMedGoogle ScholarMacLeod, C. M.
+, &MacDonald, P. A.
+(2000). Interdimensional interference in the Stroop effect: Uncovering the cognitive and neural anatomy of attention.
+Trends in Cognitive Sciences,4, 383–391.
+ArticlePubMedGoogle ScholarMarcel, A. J.
+(1983). Conscious and unconscious perception: Experiments on visual masking and word recognition.
+Cognitive Psychology,15, 197–237.
+ArticlePubMedGoogle ScholarMcCann, R. S.
+, &Johnston, J. C.
+(1992). Locus of the single-channel bottleneck in dual-task interference.
+Journal of Experimental Psychology: Human Perception & Performance,18, 471–484.
+ArticleGoogle ScholarMcClelland, J. L.
+(1979). On the time relations of mental processes: Examination of systems of processes in cascade.
+Psychological Review,86, 287–330.
+ArticleGoogle ScholarMeyer, D. E.
+, &Kieras, D. E.
+(1997a). A computational theory of executive cognitive processes and multiple-task performance: I. Basic mechanisms.
+Psychological Review,104, 3–65.
+ArticlePubMedGoogle ScholarMeyer, D. E.
+, &Kieras, D. E.
+(1997b). A computational theory of executive cognitive processes and multiple-task performance: II. Accounts of psychological refractory-period phenomena.
+Psychological Review,104, 749–791.
+ArticleGoogle ScholarPashler, H.
+(1994). Dual-task interference in simple tasks: Data and theory.
+Psychological Bulletin,116, 220–244.
+ArticlePubMedGoogle ScholarRisko, E. F., Schmidt, J. R.
+, &Besner, D.
+(2006). Filling a gap in the semantic gradient: Color associates and response set effects in the Stroop task.
+Psychonomic Bulletin & Review,13, 310–315.
+ArticleGoogle ScholarRoelofs, A.
+(1992). A spreading-activation theory of lemma retrieval in speaking.
+Cognition,42, 107–142.
+ArticlePubMedGoogle ScholarRoelofs, A.
+(2003). Goal-referenced selection of verbal action: Modeling attentional control in the Stroop task.
+Psychological Review,110, 88–125.
+ArticlePubMedGoogle ScholarRossion, B.
+, &Pourtois, G.
+(2004). Revisiting Snodgrass and Vander-wart’s object pictorial set: The role of surface detail in basic-level object recognition.
+Perception,33, 217–236.
+ArticlePubMedGoogle ScholarRuthruff, E., Pashler, H. E.
+, &Klaassen, A.
+(2001). Processing bottlenecks in dual-task performance: Structural limitation or strategic postponement?Psychonomic Bulletin & Review,8, 73–80.
+ArticleGoogle ScholarSalvucci, D. D.
+, &Taatgen, N. A.
+(2008). Threaded cognition: An integrated theory of concurrent multitasking.
+Psychological Review,115, 101–130.
+ArticlePubMedGoogle ScholarSchmidt, J. R.
+, &Cheesman, J.
+(2005). Dissociating stimulus—stimulus and response-response effects in the Stroop task.
+Canadian Journal of Experimental Psychology/Revue Canadienne de Psychologie Experimentale,59, 132–138.
+ArticleGoogle ScholarSchumacher, E. H., Lauber, E. J., Glass, J. M., Zurbriggen, E. I., Gmeindl, L., Kieras, D. E.
+, &Meyer, D. E.
+(1999). Concurrent response-selection processes in dual-task performance: Evidence for adaptive executive control of task scheduling.
+Journal of Experimental Psychology: Human Perception & Performance,25, 791–814.
+ArticleGoogle ScholarSchumacher, E. H., Seymour, T. L., Glass, J. M., Fencsik, D. E., Lauber, E. J., Kieras, D. E.
+, &Meyer, D. E.
+(2001). Virtually perfect time sharing in dual-task performance: Uncorking the central cognitive bottleneck.
+Psychological Science,12, 101–108.
+ArticlePubMedGoogle ScholarSternberg, S.
+(1969). The discovery of processing stages: Extensions of Donders’ method.
+Acta Psychologica,30, 276–315.
+ArticleGoogle ScholarStroop, J. R.
+(1935). Studies of interference in serial verbal reactions.
+Journal of Experimental Psychology,18, 643–662.
+ArticleGoogle ScholarTaatgen, N. A.
+, &Anderson, J. R.
+(2002). Why do children learn to say “Broke”? A model of learning the past tense without feedback.
+Cognition,86, 123–155.
+ArticlePubMedGoogle ScholarTaatgen, N. A.
+, &Anderson, J. R.
+(2008). Constraints in cognitive architectures. In R. Sun (Ed.),Handbook of computational psychology(pp. 170–185) New York: Cambridge University Press.
+Google ScholarTaatgen, N. A., Juvina, I., Schipper, M., Borst, J. P.
+, &Martens, S.
+(2009). Too much control can hurt: A threaded cognition model of the attentional blink.
+Cognitive Psychology,59, 1–29.
+ArticlePubMedGoogle ScholarTaatgen, N. A., van Rijn, H.
+, &Anderson, J. R.
+(2007). An integrated theory of prospective time interval estimation: The role of cognition, attention, and learning.
+Psychological Review,114, 577–598.
+ArticlePubMedGoogle ScholarTelford, C. W.
+(1931). The refractory phase of voluntary and associative responses.
+Journal of Experimental Psychology,14, 1–36.
+ArticleGoogle ScholarTreisman, A. M.
+, &Gelade, G.
+(1980). A feature-integration theory of attention.
+Cognitive Psychology,12, 97–136.
+ArticlePubMedGoogle Scholarvan Maanen, L.
+(2009).
+Context effects on memory retrieval: Theory and applications. Unpublished doctoral dissertation, University of Groningen, Groningen.
+Google Scholarvan Maanen, L.
+, &van Rijn, H.
+(2007a). Accounting for subliminal priming in ACT-R. In R. L. Lewis, T. A. Polk, & J. E. Laird (Eds.),Proceedings of the 8th International Conference on Cognitive Modeling(pp. 1–6). New York: Psychology Press.
+Google Scholarvan Maanen, L.
+, &van Rijn, H.
+(2007b). An accumulator model of semantic interference.
+Cognitive Systems Research,8, 174–181.
+ArticleGoogle Scholarvan Maanen, L.
+, &van Rijn, H.
+(2008). The picture-word interference effect is a Stroop effect after all. In V. Sloutsky, B. Love, & K. McRae (Eds.),Proceedings of the 30th Annual Meeting of the Cognitive Science Society(pp. 645–650). Austin, TX: Cognitive Science Society.
+Google Scholarvan Maanen, L., van Rijn, H., & Taatgen, N. A.
+(2009).
+Accumulators in context: An integrated theory of context effects on memory retrieval. Manuscript submitted for publication.
+van Rij, J., van Rijn, H., & Hendriks, P.
+(2009).
+Cognitive architectures and language acquisition: A case study in pronoun comprehension. Manuscript submitted for publication.
+van Rijn, H.
+, &Anderson, J. R.
+(2003). Modeling lexical decision as ordinary retrieval. In F. Detje, D. Dörner, & H. Schaub (Eds.),Proceedings of the Fifth International Conference on Cognitive Modeling(pp. 207–212). Bamberg: Universitätsverlag Bamberg.
+Google Scholarvan Rijn, H., & Anderson, J. R.
+(2004).
+The pseudohomophone base-word frequency effect explained. Paper presented at the Architectures and Mechanisms for Language Processing Conference (AMLaP), Aix-en-Provence.
+van Rijn, H.
+, &Taatgen, N. A.
+(2008). Timing of multiple overlapping intervals: How many clocks do we have?Acta Psychologica,129, 365–375.
+PubMedGoogle ScholarVan Selst, M.
+, &Jolicoeur, P.
+(1997). Decision and response in dual-task interference.
+Cognitive Psychology,33, 266–307.
+ArticlePubMedGoogle ScholarVan Veen, V.
+, &Carter, C. S.
+(2005). Separating semantic conflict and response conflict in the Stroop task: A functional MRI study.
+Neuro-Image,27, 497–504.
+PubMedGoogle ScholarVukovic, R. K., Wilson, A. M.
+, &Nash, K. K.
+(2004). Naming speed deficits in adults with reading disabilities: A test of the double-deficit hypothesis.
+Journal of Learning Disabilities,37, 440–450.
+ArticlePubMedGoogle ScholarWelford, A. T.
+(1967). Single-channel operation in brain.
+Acta Psychologica,27, 5–22.
+ArticlePubMedGoogle ScholarWelford, A. T.
+(1980). The single-channel hypothesis. In A. T. Welford (Ed.),Reaction times(pp. 215–252). London: Academic Press.
+Google ScholarWolfe, J. M.
+(1994). Guided Search 2.0: A revised model of visual search.
+Psychonomic Bulletin & Review,1, 202–238.
+ArticleGoogle ScholarDownload referencesAuthor informationAffiliationsDepartment of Artificial Intelligence, University of Groningen, P.O. Box 407, 9700 AK, Groningen, The NetherlandsLeendert van Maanen, Hedderik van Rijn & Jelmer P. BorstYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarCorresponding authorCorrespondence toLeendert van Maanen.
+Rights and permissionsReprints and PermissionsAbout this articleCite this articlevan Maanen, L., van Rijn, H. & Borst, J.P. Stroop and picture—word interference are two sides of the same coin.
+Psychonomic Bulletin & Review16,987–999 (2009). https://doi.org/10.3758/PBR.16.6.987Download citationReceived:06 October 2008Accepted:15 July 2009Issue Date:December 2009DOI:https://doi.org/10.3758/PBR.16.6.987Share this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiativeKeywordsAdvertisementOver 10 million scientific documents at your fingertipsNot logged in- 129.170.195.194North East Research Libraries (8200828607) - Dartmouth College Acquisitions Services (8200831269)© 2022 Springer Nature Switzerland AG. Part ofSpringer Nature.

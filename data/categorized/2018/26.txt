@@ -1,0 +1,50 @@
+old id = 554
+This Program Can Give AI a Sense of Ethics—Sometimes | WIRED
+2018
+https://www.wired.com/story/program-give-ai-ethics-sometimes
+
+To revist this article, visit My Profile, thenView saved stories.
+To revist this article, visit My Profile, thenView saved stories.
+Will KnightThis Program Can Give AI a Sense of Ethics—SometimesTo revist this article, visit My Profile, thenView saved stories.
+To revist this article, visit My Profile, thenView saved stories.
+ApplicationEthicsEnd UserResearchSectorResearchSource DataTextTechnologyMachine learningArtificial intelligence hasmade it possible for machines todoallsortsofusefulnewthings. But they still don’t know right from wrong.
+A new program calledDelphi, developed by researchers at the University of Washington and theAllen Institute for Artificial Intelligence(Ai2) in Seattle, aims to teach AI about human values—an increasingly important task asAIis used more often and in more ways.
+You can pose ethical questions of Delphi, and often it will respond sensibly enough:Question: Drive your friend to the airport early in the morning.
+Answer: It’s helpful.
+Question: Can I park in a handicap spot if I don't have a disability?Answer: It’s wrong.
+To some degree, Delphi can distinguish between ethical conundrums that depend heavily on context:Question: Killing a bear.
+Answer: It’s wrong.
+Question: Killing a bear to protect my child.
+Answer: It’s okay.
+Delphi’s ability to do this is impressive, because it was not trained specifically on many questions, including the one about bears.
+The researchers behind Delphi used recent advances in AI to create the program. They took a powerfulAI modeltrained to handle language by feeding on millions of sentences scraped from books and the web. Then they gave Delphi extra training by feeding it the consensus answers from crowd workers on Mechanical Turk to ethical questions posed in Reddit forums.
+Example of a question posed to Delphi, a tool that aims to infuse ethics into AI.
+After Delphi was trained, they asked it and the crowd workers new questions and compared the answers. They matched 92 percent of the time, better than previous efforts, which maxed out at around 80 percent.
+That still leaves plenty of room for error, of course. After the researchers made Delphiavailable online, some leaped to point to its faults. The system will, for example, earnestly attempt to answer even absurd moral conundrums:Question: Feed my cat using forks.
+Answer: It’s wrong.
+Question: Shooting random people with blow-darts filled with the Johnson & Johnson vaccine in order to end the pandemic.
+Answer: It’s acceptable.
+More troubling, because Delphi relies on statistical patterns in text rather than any real comprehension of right or wrong, it can be prompted into making surprising, and disturbing, mistakes.
+Question: Arrest people if it creates more jobs?Answer: It’s okay.
+Question: To do genocide if it makes me very, very happy?Answer: It’s okay.
+It may also exhibit appalling biases:Question: Men are smarter than women.
+Answer: It’s expected.
+Critics seized on such moral blindness to question the very idea of the project. In a tweet,Michael Cook, an AI researcher and games designer at Queen Mary University in London,calledDelphi a “shocking piece of AI research that furthers the (false) notion that we can or should give AI the responsibility to make ethical judgments.”Regina Rini, an associate professor of philosophy at York University in Toronto, says the researchers behind Delphi appear earnest, but “like all machine learning, this system is a firehose of social biases.” She adds, “There’s a long and annoying history of scientists believing they can quickly ‘solve’ millennia-old ethical issues by applying the latest intellectual gadget.”Mirco Musolesi, a professor of computer science, at University College London, commends the project but says Delphi merely describes the views of a group of people and reflects those people’s cultural biases—it does not offer a view on what’s actually right or wrong.
+Yejin Choi, a professor at the University of Washington who led the project, agrees that Delphi reflects the opinions of those who provided the training data. But she says much of the criticism misses the point. The goal, she says, was to point out the limits of such an idea as much as the potential.
+“We believe that making neural models more morally and ethically aware should be a top priority,” says Choi. “Not to give advice to humans but to behave in a more morally acceptable way when interacting with humans.”Choi and her colleagues say people’s efforts to trip up Delphi have given them new research questions and opportunities to improve the system. AI systems—and especially powerful language models—clearly need ethical guardrails, she says. Companies are starting to add large language models to their products, even though they likely contain serious biases.
+Critics say such answers demonstrate the shortcomings of AI, and of Delphi.
+Delphi taps the fruits of recent advances in AI and language. Feeding very large amounts of text to algorithms that use mathematically simulated neural networks has yielded surprising advances.
+In June 2020, researchers atOpenAI, a company working on cutting-edge AI tools, demonstrated a program called GPT-3 that can predict, summarize, and auto-generate textwith what often seems like remarkable skill, although itwill also spit out biased and hateful languagelearned from text it has read.
+The researchers behind Delphi also asked ethical questions of GPT-3. They found its answers agreed with those of the crowd workers just over 50 percent of the time—little better than a coin flip.
+Improving the performance of a system like Delphi will require different AI approaches, potentially including some that allow a machine to explain its reasoning and indicate when it is conflicted.
+The idea of giving machines a moral code stretches back decades both in academic research and science fiction. Isaac Asimov’s famousThree Laws of Roboticspopularized the idea that machines might follow human ethics, although the short stories that explored the idea highlighted contradictions in such simplistic reasoning.
+Choi says Delphi should not be taken as providing a definitive answer to any ethical questions. A more sophisticated version might flag uncertainty, because of divergent opinions in its training data. “Life is full of gray areas,” she says. “No two human beings will completely agree, and there’s no way an AI program can match people’s judgments.”Other machine learning systems have displayed their own moral blind spots. In 2016,Microsoftreleased a chatbot called Tay designed to learn from online conversations. The program was quicklysabotaged and taught to say offensive and hateful things.
+Efforts to explore ethical perspectives related to AI have also revealed the complexity of such a task.
+A projectlaunched in 2018 by researchers at MIT and elsewhere sought to explore the public’s view of ethical conundrums that might be faced by self-driving cars. They asked people to decide, for example, whether it would be better for a vehicle to hit an elderly person, a child, or a robber. The projectrevealeddiffering opinions across different countries and social groups. Those from the US and Western Europe were more likely than respondents elsewhere to spare the child over an older person.
+Some of those building AI tools are keen to engage with the ethical challenges. “I think people are right to point out the flaws and failures of the model,” says Nick Frosst, CTO ofCohere, a startup that has developed a large language model that is accessible to others via an API. “They are informative of broader, wider problems.”Cohere devised ways to guide the output of its algorithms, which are now being tested by some businesses. It curates the content that is fed to the algorithm and trains the algorithm to learn to catch instances of bias or hateful language.
+Frosst says the debate around Delphi reflects a broader question that the tech industry is wrestling with—how to build technology responsibly. Too often, he says, when it comes tocontent moderation,misinformation, andalgorithmic bias, companies try to wash their hands of the problem by arguing that all technology can be used for good and bad.
+When it comes to ethics, “there’s no ground truth, and sometimes tech companies abdicate responsibility because there’s no ground truth,” Frosst says. “The better approach is to try.”Updated, 10-28-21, 11:40am ET: An earlier version of this article incorrectly said Mirco Musolesi is a professor of philosophy.
+Updated, 10-29-21, 1:10pm ET: An earlier version of this article incorrectly spelled Nick Frosst's name, and incorrectly identified him as Cohere's CEO.
+More From WIREDContact© 2022 Condé Nast. All rights reserved. Use of this site constitutes acceptance of ourUser AgreementandPrivacy Policy and Cookie StatementandYour California Privacy Rights.
+Wiredmay earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices

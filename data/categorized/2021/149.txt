@@ -1,0 +1,15 @@
+old id = 1104
+On the Dangers of Stochastic Parrots | Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
+2021
+https://dl.acm.org/doi/abs/10.1145/3442188.3445922
+
+On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜University of Washington, Seattle, WA, USAUniversity of Washington, Seattle, WA, USABlack in AI, Palo Alto, CA, USABlack in AI, Palo Alto, CA, USAUniversity of Washington, Seattle, WA, USAUniversity of Washington, Seattle, WA, USAThe AetherThe AetherNew Citation Alert added!This alert has been successfully added and will be sent to:You will be notified whenever a record that you have chosen has been cited.
+To manage your alert preferences, click on the button below.
+New Citation Alert!Pleaselog in to your accountSave to BinderFAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and TransparencyABSTRACTThe past 3 years of work in NLP have been characterized by the development and deployment of ever larger language models, especially for English. BERT, its variants, GPT-2/3, and others, most recently Switch-C, have pushed the boundaries of the possible both through architectural innovations and through sheer size. Using these pretrained models and the methodology of fine-tuning them for specific tasks, researchers have extended the state of the art on a wide array of tasks as measured by leaderboards on specific benchmarks for English. In this paper, we take a step back and ask: How big is too big? What are the possible risks associated with this technology and what paths are available for mitigating those risks? We provide recommendations including weighing the environmental and financial costs first, investing resources into curating and carefully documenting datasets rather than ingesting everything on the web, carrying out pre-development exercises evaluating how the planned approach fits into research and development goals and supports stakeholder values, and encouraging research directions beyond ever larger language models.
+ReferencesIndex TermsOn the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜Computing methodologiesArtificial intelligenceNatural language processingCommentsLogin optionsCheck if you have access through your login credentials or your institution to get full access on this article.
+Full AccessPublished inCopyright © 2021 Owner/AuthorSponsorsIn-CooperationPublisherAssociation for Computing MachineryNew York, NY, United StatesPublication HistoryPermissionsRequest permissions about this article.
+QualifiersConferenceFunding SourcesOther MetricsArticle MetricsOther MetricsCited ByPDF FormatView or Download as a PDF file.
+eReaderView online with eReader.
+Digital EditionView this article in digital edition.
+Share this Publication linkhttps://dl.acm.org/doi/abs/10.1145/3442188.3445922Share on Social MediaCaptionExport CitationsAbout Cookies On This SiteWe use cookies to ensure that we give you the best experience on our website.
+Learn more

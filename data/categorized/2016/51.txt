@@ -1,0 +1,15 @@
+old id = 1373
+Argumentation Mining: State of the Art and Emerging Trends: ACM Transactions on Internet Technology: Vol 16, No 2
+2016
+https://dl.acm.org/doi/10.1145/2850417
+
+Argumentation Mining: State of the Art and Emerging TrendsDISI, University of BolognaDISI, University of BolognaDISI, University of BolognaDISI, University of Bologna0000-0002-9253-8638New Citation Alert added!This alert has been successfully added and will be sent to:You will be notified whenever a record that you have chosen has been cited.
+To manage your alert preferences, click on the button below.
+New Citation Alert!Pleaselog in to your accountSave to BinderACM Transactions on Internet TechnologyAbstractArgumentation mining aims at automatically extracting structured arguments from unstructured textual documents. It has recently become a hot topic also due to its potential in processing information originating from the Web, and in particular from social media, in innovative ways. Recent advances in machine learning methods promise to enable breakthrough applications to social and economic sciences, policy making, and information technology: something that only a few years ago was unthinkable. In this survey article, we introduce argumentation models and methods, review existing systems and applications, and discuss challenges and perspectives of this exciting new research area.
+ReferencesIndex TermsArgumentation Mining: State of the Art and Emerging TrendsComputing methodologiesArtificial intelligenceKnowledge representation and reasoningNonmonotonic, default reasoning and belief revisionGeneral and referenceDocument typesSurveys and overviewsInformation systemsInformation retrievalRetrieval tasks and goalsInformation extractionWorld Wide WebWeb miningCommentsLogin optionsCheck if you have access through your login credentials or your institution to get full access on this article.
+Full AccessPublished inDepartment of Computer Science, North Carolina State UniversityCopyright © 2016 ACMSponsorsIn-CooperationPublisherAssociation for Computing MachineryNew York, NY, United StatesPublication HistoryPermissionsRequest permissions about this article.
+Author TagsQualifiersConferenceFunding SourcesOther MetricsArticle MetricsOther MetricsCited ByPDF FormatView or Download as a PDF file.
+eReaderView online with eReader.
+Digital EditionView this article in digital edition.
+Share this Publication linkhttps://dl.acm.org/doi/10.1145/2850417Share on Social MediaCaptionExport CitationsAbout Cookies On This SiteWe use cookies to ensure that we give you the best experience on our website.
+Learn more

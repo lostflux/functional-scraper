@@ -1,0 +1,44 @@
+old id = 521
+2021 35 Innovators Under 35: Visionaries
+2022
+https://www.technologyreview.com/innovators-under-35/2021
+
+Innovators Under 352021The 35 Innovators Under 35 is our yearly opportunity to take a look at not just where technology is now, but where it’s going and who’s taking it there. More than 500 people are nominated every year, and from this group the editors pick the most promising 100 to move on to the semifinalist round. Their work is then evaluated by our panel of judges who have expertise in such areas as artificial intelligence, biotechnology, software, energy, and materials. With the insight gained from these rankings, the editors pick the final list of 35.
+ShareCategoriesPast YearsMoreInventorsShelley AckermanShe co-invented a novel immunotherapy for difficult-to-treat cancers.
+Ryan BabbushEfficient quantum simulation algorithms might help find novel, powerful materials.
+Amay BandodkarHis lightweight sensors could make wearable tech more useful and practical.
+Jonathan GootenbergExpanding the capabilities of gene editing.
+Nicholas HarrisShining light through optical chips might be the fastest way for neural networks to make decisions.
+Yichen ShenOptical chips that can make calculations for neural networks are poised to become big business.
+Virginia SmithHer AI techniques are efficient and accurate while preserving fairness and privacy.
+Xiao SunHe designs imprecise—but energy-efficient—AI hardware and software.
+Jie XuShe makes durable, easy-to-manufacture polymer semiconductors for skin-like electronics.
+Meet the InnovatorsEntrepreneursJacob BecraftHe runs a company that’s figuring out the next steps for messenger RNA.
+Janice ChenShe’s using CRISPR to make new diagnostic tests.
+Tammy HsuHer new dye can make one of the world’s most common types of clothing more environmentally friendly.
+Sara SpangeloHer tiny satellites could bring connectivity to the remotest places on Earth.
+Meet the InnovatorsVisionariesEmma BeedeHer work helps ensure that fancy AI tools perform in the real world.
+Sara BergerEmploying machine learning to make pain management more accessible.
+Priya DontiFinding climate-change solutions via computer science and public policy.
+Leah EllisA new, climate-friendly way to make cement.
+Kayla LeeShe's working to build a more diverse future for quantum computing.
+Dorsa SadighShe uses simulated environments to teach robots to be better collaborators with people.
+Kaitlyn SadtlerHer test was among the first to determine how many people had been infected with covid-19.
+Varun SivaramDesigning new public policies to promote energy innovation.
+Aäron van den OordHis AI system creates artificial voices that sound remarkably human.
+Meet the InnovatorsHumanitariansAadeel AkhtarHis bionic hands combine sensitivity with affordability.
+Sriram ChandrasekaranHis AI systems identify better treatments for tuberculosis.
+Emma PiersonShe employs AI to get to the roots of health disparities across race, gender, and class.
+Shriya SrinivasanHer surgical techniques provide a sense of touch to people with prosthetic limbs.
+Meet the InnovatorsPioneersGeorge BoatengHe built a smartphone-based platform to teach young people to code— and tackle Africa’s IT skills gap in the process.
+Anna GoldieShe uses AI to design microchips much more quickly than humans can.
+Adnan MehonicMemristors can be a new and more efficient building block of modern computers.
+Marc MiskinHe figured out how to give motion to microscopic robots.
+Nako NakatsukaHer miniature biosensors could give scientists better insight into depression and dementia.
+Moses NamaraWorking to break down the barriers keeping young Black people from careers in AI.
+David RolnickHe's employing artificial intelligence in the fight against climate change.
+Max ShulakerHis work with carbon nanotubes could lead to the next generation of computers.
+Jinxing ZhengHe created new physics models for controlling fusion reactions and hot plasma.
+Meet the InnovatorsMIT Technology ReviewOur in-depth reporting reveals what’s going on now to prepare you for what’s coming next.
+Subscribeto support our journalism.
+AboutHelp© 2022 MIT Technology Review

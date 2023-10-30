@@ -1,0 +1,23 @@
+old id = 112
+About the Pandemic Technology Project | MIT Technology Review
+2020
+https://www.technologyreview.com/2020/12/16/1014876/about-the-pandemic-technology-project
+
+About the Pandemic Technology ProjectAs covid-19 began spreading around the world, an avalanche of new digital services and data-driven approaches has emerged to aid pandemic response. From smartphone exposure notifications to vaccine allocation algorithms, these systems have been developed under the watch of politicians, public health officials, scientists and businesses. They have also faced many challenges.
+ThePandemic Technology Projectexamines how these systems are being used in the fight against SARS-CoV-2. Over the course of 2021, it will investigate and report on the various ways that digital technologies are developed and deployed.
+The project is funded by support provided by a grant to MIT Technology Review from the Rockefeller Foundation. Content is editorially independent and output is overseen by MITTR editor Bobbie Johnson. Unless otherwise stated, all material posted by the project reflect the views of the individual contributors, and not the Massachusetts Institute of Technology, or the Rockefeller Foundation.
+How it startedOur coverage started inMarch 2020, as we saw technologists discussing how smartphones could help detect possible exposure to the disease. This led to a flood of apps and systems, which we began monitoring developments through ourCovid Tracing Tracker.
+As the pandemic continued, we saw these technologies supplemented by other digital interventions, including expanding the use of digital health records, the prospect of immunity passports, and other data-driven ways of approaching the spread of covid-19.
+How it's goingIn November 2020, we expanded the project to take in this larger landscape. The project is now funded by a grant from the Rockefeller Foundation, and alongside the core staff of Technology Review, we have dedicated reporters and editors focused on uncovering more about these important questions.
+Principal investigator, project lead:Bobbie JohnsonEditor:Lindsay MuscatoReporters:Cat Ferguson,Mia SatoYou can see a full list of stories we've published on the Pandemic Technology Project page.
+What they're saying about usThe project and tracker have received coverage in news outlets around the world, from international broadcasters to local websites. If you're a member of the press interested in talking to our team about this work or the role of technology in the pandemic, please email lindsay.muscato@technologyreview.comOur work has also been used in public health decisions, and cited in studies and research papers. If you are referencing our work, or have an interest in our data please email ctt@technologyreview.com to let us know.
+Google Scholar citationsbyBobbie JohnsonSharePopularKeep ReadingMost PopularWhy China is still obsessed with disinfecting everythingMost public health bodies dealing with covid have long since moved on from the idea of surface transmission. China’s didn’t—and that helps it control the narrative about the disease’s origins and danger.
+These materials were meant to revolutionize the solar industry. Why hasn’t it happened?Perovskites are promising, but real-world conditions have held them back.
+Anti-aging drugs are being tested as a way to treat covidDrugs that rejuvenate our immune systems and make us biologically younger could help protect us from the disease’s worst effects.
+A quick guide to the most important AI law you’ve never heard ofThe European Union is planning new legislation aimed at curbing the worst harms associated with artificial intelligence.
+Stay connectedGet the latest updates fromMIT Technology ReviewDiscover special offers, top stories, upcoming events, and more.
+Thank you for submitting your email!It looks like something went wrong.
+We’re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out to us atcustomer-service@technologyreview.comwith a list of newsletters you’d like to receive.
+MIT Technology ReviewOur in-depth reporting reveals what’s going on now to prepare you for what’s coming next.
+Subscribeto support our journalism.
+AboutHelp© 2022 MIT Technology Review

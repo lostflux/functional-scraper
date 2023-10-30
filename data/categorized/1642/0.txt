@@ -1,0 +1,22 @@
+old id = 2887
+Rembrandt's huge 'Night Watch' gets bigger thanks to AI | AP News
+1642
+https://apnews.com/article/europe-lifestyle-travel-technology-arts-and-entertainment-d9312050e505c720b8870f0ad0608609
+
+Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AIAMSTERDAM (AP) — One of Rembrandt van Rijn’s biggest paintings just got a bit bigger.
+A marriage of art and artificial intelligence has enabled Amsterdam’s Rijksmuseum to recreate parts of the iconic “Night Watch” painting that were snipped off 70 years after Rembrandt finished it.
+The printed strips now hang flush to the edges of the 1642 painting in the museum’s Honor Gallery. Their addition restores to the work the off-center focal point that that rebellious Golden Age master Rembrandt originally intended.
+“It can breathe now,” museum director Taco Dibbits told The Associated Press on Wednesday.
+The crowded painting’s two main characters, Captain Frans Banninck Cocq and Lieutenant Willem van Ruytenburch, are central in the chopped down painting. With the new digital additions — particularly a strip on the left of the painting that features two men and makes clear that a boy is looking over a balustrade — the main figures effectively are shifted to the right.
+“It really gives the painting a different dynamic,” Dibbits said. “And what it taught us is that Rembrandt never does what you expect.”The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens.
+Researchers and restorers who have painstakingly pored over the work for nearly two years using a battery of high tech scanners, X-rays and digital photography combined the vast amount of data they generated with the Lundens copy to recreate and print the missing strips.
+“We made an incredibly detailed photo of the Night Watch and through artificial intelligence or what they call a neural network, we taught the computer what color Rembrandt used in the Night Watch, which colors, what his brush strokes looked like,” Dibbits said.
+The machine learning also enabled the museum to remove distortions in perspective that are present in the Lundens copy because the artist was sitting at one corner while he painted Rembrandt’s painting.
+The reason the 1642 group portrait of an Amsterdam civil militia was trimmed is simple: It was moved from the militia’s club house to the town hall and there it didn’t fit on a wall between two doors. A bit of very analog cropping with a pair of scissors ensued and the painting took on the dimensions that have now been known for centuries. The fate of the pieces of canvas that were trimmed off remains a mystery.
+The digital recreation that will be on show in coming months come as part of research and restoration project called “Operation Night Watch” that began just under two years ago, before the global pandemic emptied museums for months.
+Under relaxations of the Dutch COVID-19 lockdown, the museum can welcome more visitors from this weekend, but still only about half of its normal capacity.
+During the restoration project, the painting was encased in a specially designed glass room and studied in unprecedented detail from canvas to the final layer of varnish.
+Among that mound of data, researchers created the most detailed photograph ever made of the painting by combining 528 digital exposures.
+The 1642 painting last underwent significant restoration more than 40 years ago after it was slashed by a knife-wielding man and is starting to show blanching in parts of the canvas.
+Dibbits said the new printed additions are not intended to trick visitors into thinking the painting is bigger, but to give them a clear idea of what it was supposed to look like.
+“Rembrandt would have definitely done it more beautifully, but this comes very close,” he said.

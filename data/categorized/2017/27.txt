@@ -1,0 +1,11 @@
+old id = 1126
+Indaba 2021 - Deep Learning Indaba 2021
+2017
+https://deeplearningindaba.com/2021
+
+Indaba Mentorship Programme is live!The Deep Learning IndabaMentorship Programmeaims to strengthen the African ML community via the development of fundamental skills and isLIVEnow!Indaba 5.0Due the seriousness and uncertainty regarding the spread of the virus, we are taking the time to decide on the best course of action for this year’s Indaba. Check back for updates soon!Indaba Community Slack WorkspaceJoin the Indaba Community Slack workspace. Use thisinvite link.
+Indaba Grand ChallengeThe #IndabaGrandChallenge tackles the neglected disease Leishmaniasis. See details of challenge and fundinghere.
+IndabaX-AI4D Innovation GrantsApply for funding to support you research projects for the next 6 months (including funding for the challenge). Detailshere.
+Strengthening African Machine LearningSupport Africa’s community in AI to be owners and shapers of the advanced in technology and artificial intelligence. We do this by building communities, creating leadership, and recognising excellence in the development of machine learning and artificial intelligence across Africa.
+Due to Covid-19, there will be no continent-wide Deep Learning Indaba in 2021. It was decidednotto host a virtual event, as challenges around internet connectivity in some parts of Africa means we would unintentionally exclude too many participants that we would like to include. We’re hoping to host a massive, crazy, creative, colourful reunion in 2022!In the meantime, there areIndabaX eventshappening in 24 countries this year! Have a look at the wealth ofcollaborative activitynear you.
+Contact usDeep Learning IndabaStrengthening African Machine Learninginfo@deeplearningindaba.comCopyright © Deep Learning Indaba 2017 - 2022. All Rights Reserved.

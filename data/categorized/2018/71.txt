@@ -1,0 +1,47 @@
+old id = 1217
+Women in Science, Technology, Engineering, and Mathematics (STEM) (Quick Take) | Catalyst
+2018
+https://www.catalyst.org/research/women-in-science-technology-engineering-and-mathematics-stem
+
+Workplacesthat workfor womenContent TypeTopicTagLanguageRegionDateWomen in Science, Technology, Engineering, and Mathematics (STEM) (Quick Take)Science, technology, engineering, and mathematics (STEM) occupations are expected to experience rapid growth in the coming decade.
+1Technology and engineering are among the top sought-after skills in the United States.
+2However, a gender gap in STEM persists across the world.
+This gap begins in education, fueled by gender stereotypes and expectations regarding “women’s work.”3Despite similar achievement scores among children of all genders in math and science, men are the overwhelming majority of students studying STEM fields in higher education.
+4The few women who begin careers in STEM face male-dominated workplaces with high rates of discrimination.
+5Their contributions are often ignored;6they experience isolation caused by lack of access to women peers, role models, and mentors;7and they are paid less than their male co-workers.
+8Women leave STEM careers at disproportionately higher rates than men, particularly among those who are working parents.
+9Systems of bias that push women and people of color out of STEM careers can also influence the products and services created by STEM organizations, such as artificial intelligence (AI).
+10Organizational strategiesto recruit, retain, and advance women in STEM occupations can help address these issues.
+The following data and findings highlight recent trends in women’s representation in STEMgloballyand inAsia-Pacific,Canada,Europe, and theUnited States.
+GLOBALMen Continue to Dominate the STEM Workforce in Many CountriesAveraged across regions, women accounted forless than a third (29.3%) of those employed in scientific research and development (R&D) across the worldin 2016.
+11Boards of Technology Companies, Historically Lacking Gender Diversity, are Making Progress13When compared to other industries (including non-STEM), the representation of women among board directors in the information technology industry remains low but had the sharpest increase, from 14.8% in 2018 to 17.9% in 2019.
+14Despite Improvements at the Board Level, the Technology Industry Still Lacks Women in Senior Leadership15Globally, women account for only 16% of managers in the information technology industry.
+16ASIA-PACIFICIn Australia, Women’s Employment in STEM Occupations Changed Little Over the Past Decade18Percentage of Women Earning STEM Degrees in Australia, 201819The representation of women working in Australia’s STEM-qualified occupations stood at only 14% in 2019.
+This has barelyimprovedin the past decade, from 11% in 2009.
+20Few Women in India Pursue Engineering DegreesWomen in India earned over half of undergraduate degrees in both information technology and computer (50.7%) and science (54.1%) fields but remained underrepresented in engineering and technology undergraduate degrees overall (31.4%) in 2018–19.
+23Japan Set Targets to Improve Share of Women Researchers in Science24In 2019, undergraduate women in Japan represented just 15.4% of engineering majors and 27.9% of physical science majors.
+25In 2016, the Government of Japan established targets for women researchers in the natural sciences to 30%.
+26CANADAWomen in Canada Are Less Likely to Enter, More Likely to Leave STEM Fields28Canadian women are less likely to pursue higher-paying STEM fields such as engineering or computer science.
+29Among enrolled postsecondary students in 2017-2018, women represented:30In 2017, women earned approximately one-third (35.8%) of all recipients of STEM postsecondary degrees in Canada.
+31Among STEM graduates, men were more likely (41.5%) to work in STEM jobs than women (22.5%) in 2016.
+32EUROPEEurope’s GDP Could Improve by Closing the Gender Gap in STEM Education35Achieving gender equality in STEM education could add up to 1.2 million jobs and EUR 610-820 billion to Europe’s GDP by 2050.
+36Europe’s gender gap in STEM is especially wide in information and communication technologies.
+Women’s Share of Bachelor’s Degrees in STEM Fields, 201837Bright Spot: Women in Europe Are Closing the Gender Gap in Science and Engineering38In 2019, women made up more than a third (40.9%) of scientists and engineers in the EU-28, an increase from 32.4% in 2009.
+39UNITED STATES!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");Women of Color Earn the Smallest Share of STEM DegreesThe share of STEM degrees is even smaller for women of color in the United States.
+In 2017–2018, women of color earned a small percentage (14.1%) of bachelor’s degrees across all STEM fields,41including:42Women, Especially Women of Color, Make Up a Small Share of Scientists and Engineers43Despite accounting for over half of the college-educated workforce, women in the United States made up only 29% of those employed in science and engineering occupations in 2017.
+44Few science and engineering employees in the United States were women of color (11.5%)in 2017,46including:47Few Women Advance to CIO or CTO RolesIn an analysis of the top 1,000 firms in the United States by revenue, women accounted for only 18% of Chief Information Officers or Chief Technology Officers on average across all industries.
+48Women Are More Likely to Hold Lower-Paying STEM Jobs, Contributing to the Pay Gap49In the United States, STEM occupations had a higher average annual wage ($95,350) compared with non-STEM jobs ($50,600) as of May 2019.
+50ADDITIONAL RESOURCESNext StepsCatalyst,Ask Catalyst Express: STEM.
+Catalyst,Knowledge Burst: Retaining Women in STEM.
+(Supporter exclusive.)AnitaB.org, “Resources for Organizations.”ResearchCatalyst,Quick Take: Women in Energy – Gas, Mining, and Oil.
+Catalyst,Quick Take: Women in Healthcare.
+American Association of University Women (AAUW), “The STEM Gap: Women and Girls in Science, Technology, Engineering and Math.”Erin A. Cech and Mary Blair-Loy, “The Changing Career Trajectories of New Parents in STEM,”PNAS(March 5, 2019).
+Cassandra Melvin and Jolie Leblanc,Sponsorship of Women Drives Innovation and Improves Organizational Performance(Accenture, April 1, 2020).
+Allison Scott, Freada Kapor Klein, Frieda McAlear, Alexis Martin, and Sonia Koshy,The Leaky Tech Pipeline: A Comprehensive Framework for Understanding and Addressing the Lack of Diversity Across the Tech Ecosystem(Kapor Center, February 2018).
+DEFINITION:“STEM” refers to the fields of science, technology, engineering, and mathematics. There is no standard definition of a STEM occupation. For the purposes of this Quick Take, STEM incorporates professional and technical support occupations in the areas of life and physical sciences, computer science and mathematics, and engineering. Less agreement has been made on the inclusion of educators, healthcare professionals, and social scientists in STEM; therefore, these occupations are not covered here.
+53How to cite this product:Catalyst,Quick Take: Women in Science, Technology, Engineering, and Mathematics (STEM)(August 4, 2020).
+Topics:Related ContentSTEM: Ask Catalyst ExpressData and credible resources on how STEM (science, technology, engineering, and math) organizations can attract, promote, recruit, and retain women.
+AI and Gender Bias (Trend Brief)Humans may be programming their own biases, including around gender and race, into the algorithms behind artificial intelligence.
+Women in Male-Dominated Industries and Occupations (Quick Take)Women working in male-dominated industries face a variety of challenges including pervasive stereotypes and sexual harassment.
+Founded in 1962, Catalyst drives change with preeminent thought leadership, actionable solutions and a galvanized community of multinational corporations to accelerate and advance women into leadership—because progress for women is progress for everyone.
+var _ctct_m = "20dc9acbbb159cf7b9499c45d801ca78";

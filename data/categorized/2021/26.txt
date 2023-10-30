@@ -1,0 +1,33 @@
+old id = 511
+Exclusive: Ukraine has started using Clearview AI’s facial recognition during war | Reuters
+2021
+https://www.reuters.com/technology/exclusive-ukraine-has-started-using-clearview-ais-facial-recognition-during-war-2022-03-13
+
+Exclusive: Ukraine has started using Clearview AI’s facial recognition during warMembers of the Territorial Defence Force stand guard at a check point, as Russia's invasion of Ukraine continues, at the Independence Square in central Kyiv, Ukraine, March 3, 2022. REUTERS/Valentyn OgirenkoRegister now for FREE unlimited access to Reuters.comMarch 13 (Reuters) - Ukraine's defense ministry on Saturday began using Clearview AI’s facial recognition technology, the company's chief executive told Reuters, after the U.S. startup offered to uncover Russian assailants, combat misinformation and identify the dead.
+Ukraine is receiving free access to Clearview AI’s powerful search engine for faces, letting authorities potentially vet people of interest at checkpoints, among other uses, added Lee Wolosky, an adviser to Clearview and former diplomat under U.S. presidents Barack Obama and Joe Biden.
+The plans started forming after Russia invaded Ukraine and Clearview Chief Executive Hoan Ton-That sent a letter to Kyiv offering assistance, according to a copy seen by Reuters.
+Register now for FREE unlimited access to Reuters.comClearview said it had not offered the technology to Russia, which calls its actions in Ukraine a "special operation."Ukraine's Ministry of Defense did not reply to requests for comment. Previously, a spokesperson for Ukraine's Ministry of Digital Transformation said it was considering offers from U.S.-based artificial intelligence companies like Clearview. Many Western businesses have pledged to help Ukraine, providing internet hardware, cybersecurity tools and other support.
+read moreThe Clearview founder said his startup had more than 2 billion images from the Russian social media service VKontakte at its disposal, out of a database of over 10 billion photos total.
+read moreThat database can help Ukraine identify the dead more easily than trying to match fingerprints and works even if there is facial damage, Ton-That wrote. Research for theU.S. Department of Energyfound decomposition reduced the technology’s effectiveness whilea paperfrom a 2021 conference showed promising results.
+Ton-That's letter also said Clearview's technology could be used to reunite refugees separated from their families, identify Russian operatives and help the government debunk false social media posts related to the war.
+The exact purpose for which Ukraine's defense ministry is using the technology is unclear, Ton-That said. Other parts of Ukraine's government are expected to deploy Clearview in the coming days, he and Wolosky said.
+The VKontakte images make Clearview's dataset more comprehensive than that of PimEyes, a publicly available image search engine that people have used to identify individuals in war photos, Wolosky said. VKontakte did not immediately respond to a request for comment; U.S. social media company Facebook, now Meta Platforms Inc(FB.O), had demanded Clearview stop taking its data.
+At least one critic says facial recognition could misidentify people at checkpoints and in battle. A mismatch could lead to civilian deaths, just like unfair arrests have arisen from police use, said Albert Fox Cahn, executive director of the Surveillance Technology Oversight Project in New York.
+“We’re going to see well-intentioned technology backfiring and harming the very people it’s supposed to help,” he said.
+Ton-That said Clearview should never be wielded as the sole source of identification and that he would not want the technology to be used in violation of the Geneva Conventions, which created legal standards for humanitarian treatment during war.
+Like other users, those in Ukraine are receiving training and have to input a case number and reason for a search before queries, he said.
+Clearview, which primarily sells to U.S. law enforcement, is fighting lawsuits in the United States accusing it of violating privacy rights by taking images from the web. Clearview contends its data gathering is similar to how Google search works. Still, several countries including the United Kingdom and Australia have deemed its practices illegal.
+Cahn described identifying the deceased as probably the least dangerous way to deploy the technology in war, but he said that “once you introduce these systems and the associated databases to a war zone, you have no control over how it will be used and misused.”Register now for FREE unlimited access to Reuters.comOur Standards:The Thomson Reuters Trust Principles.
+Sign up to our tech newsletter to get the latest news and trends in the global technology industry.
+Subscribe to our newsletter to get all the news you need to start your day.
+Site IndexBrowseAbout ReutersStay InformedInformation you can trustReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
+Follow UsThomson Reuters ProductsBuild the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
+The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
+The industry leader for online information for tax, accounting and finance professionals.
+Refinitiv ProductsAccess unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
+Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
+Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
+All quotes delayed a minimum of 15 minutes.
+See here for a complete list of exchanges and delays.
+© 2022 Reuters.
+All rights reserved

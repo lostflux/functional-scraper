@@ -1,0 +1,45 @@
+old id = 4214
+Biz & IT | Ars Technica
+2022
+https://arstechnica.com/information-technology
+
+NavigateFilter by topicSettingsFront page layoutSite themeComment activitySign up or login to join the discussions!Biz & IT/Information TechnologyResearchers find backdoor lurking in WordPress plugin used by schoolsIf you've used School Management Pro, it's time to check your site, stat.
+Dan Goodin–May 20, 2022 10:51 pm UTCTwitter deal leaves Elon Musk with no easy way outStrength of $44B agreement comes into focus as Musk appears to have second thoughts.
+Sujeet Indap & James Fontanella-Khan, Financial Times–May 19, 2022 5:54 pm UTCHow we learned to break down barriers to machine learningDr. Nashlie Sephus schools us on how to get ML on your IT team's radar.
+Lee Hutchinson–May 19, 2022 4:12 pm UTCNew Bluetooth hack can unlock your Tesla—and all kinds of other devicesAll it takes to hijack Bluetooth-secured devices is custom code and $100 in hardware.
+Dan Goodin–May 19, 2022 3:00 pm UTC2 vulnerabilities with 9.8 severity ratings are under exploit. A 3rd loomsSecurity flaws in VMware and F5's BIG-IP are being exploited by malicious hackers.
+Dan Goodin–May 18, 2022 10:58 pm UTCResearchers devise iPhone malware that runs even when device is turned offResearch is largely theoretical but exposes an overlooked security issue.
+Dan Goodin–May 16, 2022 8:20 pm UTCThe tech sector teardown is more catharsis than crisisThe rules of the game are changing for venture-backed startups.
+John Thornhill, Financial Times–May 15, 2022 11:00 am UTCHow a French satellite operator helps keep Russia’s TV propaganda onlineEutelsat refused to stop Russia from broadcasting state-run programming.
+Justin Ling, wired.com–May 14, 2022 12:00 pm UTCSome top 100,000 websites collect everything you type—before you hit submitA number of websites include keyloggers that covertly snag your keyboard inputs.
+Lily Hay Newman, wired.com–May 14, 2022 11:00 am UTCZyxel silently patches command-injection vulnerability with 9.8 severity ratingFlaw makes it possible to install web shell to maintain control of affected devices.
+Dan Goodin–May 12, 2022 8:51 pm UTCBackdoor in public repository used new form of attack to target big firmsDependency confusion attacks exploit our trust in public code repositories.
+Dan Goodin–May 11, 2022 10:07 pm UTCUS and its allies say Russia waged cyberattack that took out satellite networkFebruary outage came an hour before Russia began its invasion of Ukraine.
+Dan Goodin–May 10, 2022 8:29 pm UTCFollow usLatest Ars Video>Paul Sutter walks us through the future of climate change—and things aren’t greatPaul Sutter walks us through the future of climate change—and things aren’t greatThis episode ofEdge of Knowledgefocuses on our rapidly transforming world.
+Read Full ArticleNetflix’s ad-supported tier will reportedly roll out sooner than expectedNYT: Netflix memo to employees said it aims to introduce ad tier in Q4 2022.
+Jon Brodkin–May 10, 2022 6:16 pm UTCHackers are actively exploiting BIG-IP vulnerability with a 9.8 severity ratingFlaw in widely used gear from F5 executes root commands, no password necessary.
+Dan Goodin–May 9, 2022 8:46 pm UTCIt’s Ars Frontiers week—and we’ve got something happening every dayToday at 1 pm ET: Making critical infrastructure safer with Leslie Carhart.
+Lee Hutchinson–May 9, 2022 1:58 pm UTCSmall drones are giving Ukraine an unprecedented edgeConsumer drones are having a huge impact on the country’s defense against Russia.
+Matt Burgess, wired.com–May 8, 2022 10:05 am UTCHow Apple, Google, and Microsoft will kill passwords and phishing in one strokeYou've heard for years that easier, more secure logins are imminent. That day is here.
+Dan Goodin–May 6, 2022 6:33 pm UTCNvidia hid how many GPUs it was selling to cryptocurrency miners, says SECNvidia reported the GPUs were being used for gaming, a less volatile market.
+Andrew Cunningham–May 6, 2022 5:23 pm UTCRussia hammered by pro-Ukrainian hackers following invasion"There are tens of terabytes of data that’s just falling out of the sky."Mehul Srivastava, Financial Times–May 6, 2022 2:30 pm UTCGear from Netgear, Linksys, and 200 others has unpatched DNS poisoning flawVulnerability in 3rd-party libraries can send devices' users to malicious sites.
+Dan Goodin–May 3, 2022 9:15 pm UTCBotnet that hid for 18 months boasted some of the coolest tradecraft everOnce-unknown group uses a tunnel fetish and a chameleon's ability to blend in.
+Dan Goodin–May 3, 2022 12:24 pm UTCElon Musk sold $8.5B in Tesla stock after agreeing to $44B Twitter dealSays "no further" sales planned after offloading portion of his stake in company.
+Richard Waters, Financial Times–Apr 30, 2022 11:00 am UTCOne of the most powerful DDoSes ever targets cryptocurrency platform15.3 million requests per second is HUGE, especially when delivered through HTTPS.
+Dan Goodin–Apr 28, 2022 8:08 pm UTCRussia wages “relentless and destructive” cyberattacks to bolster Ukraine invasionCyberattacks complement and are sometimes timed to military actions.
+Dan Goodin–Apr 27, 2022 9:07 pm UTCBusinesses are adopting Windows 11 more quickly than past versions, says MicrosoftWindows, Surface, Office, Xbox, and LinkedIn all earned more money than in 2021.
+Andrew Cunningham–Apr 27, 2022 6:10 pm UTCMicrosoft finds Linux desktop flaw that gives root to untrusted usersElevation of privilege vulnerabilities can be used to gain persistent root access.
+Dan Goodin–Apr 26, 2022 9:48 pm UTCThe first “Meta Store” is opening in California in MayRetail attempt down the road from Meta's VR labs primarily dedicated to VR headsets.
+Sam Machkovech–Apr 25, 2022 6:14 pm UTCHackers are exploiting 0-days more than everMandiant and Google both reported a spike in 0-day bugs in 2021.
+Lily Hay Newman, wired.com–Apr 23, 2022 11:57 am UTCHackers hammer SpringShell vulnerability in attempt to install cryptominersThousands of hack attempts made in the days following discovery of the vulnerability.
+Dan Goodin–Apr 22, 2022 9:53 pm UTCCritical bug could have let hackers commandeer millions of Android devicesFlaw could be exploited with malicious audio file.
+Dan Goodin–Apr 21, 2022 7:22 pm UTCMajor cryptography blunder in Java enables “psychic paper” forgeriesA failure to sanity check signatures for division-by-zero flaws makes forgeries easy.
+Dan Goodin–Apr 20, 2022 7:28 pm UTCNetflix stock plummets 37% as CEO says company plans ad-supported tierReed Hastings: Ads are "working for Hulu," and Netflix will adopt a similar model.
+Jon Brodkin–Apr 20, 2022 4:10 pm UTCHackers can infect >100 Lenovo models with unremovable malware. Are you patched?Exploiting critical UEFI vulnerabilities could allow malware to hide in firmware.
+Dan Goodin–Apr 19, 2022 8:26 pm UTCYour iOS app may still be covertly tracking you, despite what Apple saysApple's landmark App Tracking Transparency may not be as tough as some people think.
+Dan Goodin–Apr 18, 2022 9:10 pm UTCUS uncovers “Swiss Army knife” for hacking industrial control systems"Pipedream" an extremely versatile malware toolkit for targeting power grids, refineries.
+Andy Greenberg, wired.com–Apr 14, 2022 8:52 pm UTCAmazon adds 5% “fuel and inflation” surcharge to seller fees for Prime shippingAmazon reportedly already "pockets 34% of revenue earned by independent sellers."Jon Brodkin–Apr 14, 2022 4:57 pm UTCNewsletter SignupJoin the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox.
+CNMN CollectionWIRED Media Group© 2022 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of ourUser Agreement(updated 1/1/20) andPrivacy Policy and Cookie Statement(updated 1/1/20) andArs Technica Addendum(effective 8/21/2018). Ars may earn compensation on sales from links on this site.
+Read our affiliate link policy.
+Your California Privacy Rights|Do Not Sell My Personal InformationThe material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices

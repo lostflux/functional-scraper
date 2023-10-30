@@ -1,0 +1,23 @@
+old id = 3098
+NVIDIA to Build Earth-2 Supercomputer to See Our Future | NVIDIA Blog
+unknown
+https://blogs.nvidia.com/blog/2021/11/12/earth-2-supercomputer
+
+NVIDIA to Build Earth-2 Supercomputer to See Our FutureThe earth is warming. The past seven years are on track to be the seven warmest on record. The emissions of greenhouse gases from human activities are responsible for approximately 1.1°C of average warming since the period 1850-1900.
+What we’re experiencing is very different from the global average. We experience extreme weather — historic droughts, unprecedented heatwaves, intense hurricanes, violent storms and catastrophic floods. Climate disasters are the new norm.
+We need to confront climate change now. Yet, we won’t feel the impact of our efforts for decades. It’s hard to mobilize action for something so far in the future. But we must know our future today — see it and feel it — so we can act with urgency.
+To make our future a reality today, simulation is the answer.
+To develop the best strategies for mitigation and adaptation, we need climate models that can predict the climate in different regions of the globe over decades.
+Unlike predicting the weather, which primarily models atmospheric physics, climate models are multidecade simulations that model the physics, chemistry and biology of the atmosphere, waters, ice, land and human activities.
+Climate simulations are configured today at 10- to 100-kilometer resolutions.
+But greater resolution is needed to model changes in the global water cycle — water movement from the ocean, sea ice, land surface and groundwater through the atmosphere and clouds. Changes in this system lead to intensifying storms and droughts.
+Meter-scale resolution is needed to simulate clouds that reflect sunlight back to space. Scientists estimate that these resolutions will demand millions to billions of times more computing power than what’s currently available. It would take decades to achieve that through the ordinary course of computing advances, which accelerate 10x every five years.
+For the first time, we have the technology to do ultra-high-resolution climate modeling, to jump to lightspeed and predict changes in regional extreme weather decades out.
+We can achievemillion-x speedupsby combining three technologies: GPU-accelerated computing; deep learning and breakthroughs in physics-informed neural networks; and AI supercomputers, along with vast quantities of observed and model data to learn from.
+And with super-resolution techniques, we may have within our grasp the billion-x leap needed to do ultra-high-resolution climate modeling. Countries, cities and towns can get early warnings to adapt and make infrastructures more resilient. And with more accurate predictions, people and nations will act with more urgency.
+So, we will dedicate ourselves and our significant resources to direct NVIDIA’s scale and expertise in computational sciences, to join with the world’s climate science community.
+NVIDIA this week revealed plans to build the world’s most powerful AI supercomputer dedicated to predicting climate change. Named Earth-2, or E-2, the system would create adigital twinof Earth inOmniverse.
+The system would be the climate change counterpart to Cambridge-1, the world’s most powerful AI supercomputer for healthcare research. Weunveiled Cambridge-1 earlier this year in the U.K. and it’s being used by a number of leading healthcare companies.
+All the technologies we’ve invented up to this moment are needed to make Earth-2 possible. I can’t imagine a greater or more important use.
+All nvidia newsWhat is Extended Reality?From Cloud to Car: How NIO Develops Intelligent Vehicles on NVIDIA HGX‘Fortnite’ Arrives This GFN Thursday With GeForce Performance You Can TouchAI, Virtual Production and Next-Gen Infrastructure Drive Latest Innovations in BroadcastMission Made Possible: Real-Time Rendering Helps Studio Create Cinematic Battle Between Characters From ‘Diablo Immortal’Post navigationCorporate InformationGet InvolvedNews & EventsNVIDIA websites use cookies to deliver and improve the website experience. See our cookie policy for further details on how we use cookies and how to change your cookie settings.
+Friend's Email AddressYour NameYour Email AddressCommentsSend Email

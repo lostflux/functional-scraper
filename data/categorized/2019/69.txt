@@ -1,0 +1,12 @@
+old id = 1352
+2019 Conference
+2019
+https://iclr.cc/Conferences/2019
+
+Toggle navigationScheduleVideosWe have posted videos for many of the talks that were lived streamed. These videos are linked into the schedule (see the Schedule section above). They are also collectedhere.
+Affinity Group ActivitiesPlease visit theDiversity & Inclusionlink for scheduled program and activities.
+RegistrationPricing »Register starting Feb 02 06 AM PST »Register 02/02 »Child Care »Hotels »Visa Information »Registration Cancellation Policy »General ChairSenior Program ChairProgram ChairsWorkshop ChairsDiversity+Inclusion ChairsContactThe organizers can be contactedhere.
+SponsorsView ICLR 2019 sponsors »SponsorsImportant DatesAbout UsThe International Conference on Learning Representations (ICLR)is the premier gathering of professionalsdedicated to the advancement of the branch of artificial intelligence called representation learning, but generally referred to as deep learning.
+ICLR is globally renowned for presenting and publishingcutting-edge research on all aspects of deep learning used in the fields of artificial intelligence, statistics and data science, as well as important application areas such as machine vision, computational biology, speech recognition, text understanding, gaming, and robotics.
+Participants at ICLR span a wide range of backgrounds,fromacademic and industrial researchers, to entrepreneurs and engineers, to graduate students and postdocs.
+A non-exhaustive list of relevant topics explored at the conference include:societal considerations of representation learning including fairness, safety, privacy

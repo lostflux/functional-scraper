@@ -1,0 +1,31 @@
+old id = 9
+Engineering
+unknown
+https://www.deepmind.com/about/engineering
+
+The engine for creating AI breakthroughs, fasterOverviewOur engineers help accelerate research by building usable research tools, scaling up algorithms, and creating challenging virtual and physical worlds for testing our systems.
+Conducting world-class research requires solving difficult engineering problems. Tools and infrastructure developed by our engineering teams have successfully enabled our most significant research milestones, such asAlphaGo,AlphaStar, andAlphaFold.
+Building for scaleThese systems enable training of large-scale neural networks by unlocking scalable, parallel computation across diverse hardware. Internal tools for research empower our research team to run experiments seamlessly and make rapid scientific progress at scale.
+Our multidisciplinary engineering team, with expertise ranging from software, hardware, and research engineers to designers, artists, and program managers, work across all DeepMind teams to deliver high-impact, state-of-the-art research. Many of our tools, libraries, environments, and papers are available open source.
+EngineeringEngineering in ResearchResearch engineers and software engineers on the Research team tackle unique engineering challenges that combine state-of-the-art computer systems and AI algorithms. This is done by developing prototypes and tools that allow our teams to perform rigorous experimentation at scale. This includes creating complex reinforcement learning agents and training pipelines alongside tools for visualisation, debugging, testing, and running reliable agents.
+Research Platform teamThe Research Platform team’s mission is to create the most efficient platform for our research, maximising use of our resources and enabling new research ideas. Our core team is a group of software engineers within DeepMind Research who work to provide a best-in-class research workflow. We build tools, infrastructure, libraries, frameworks, services, and products to enable and accelerate the next generation of research ideas. We manage and leverage DeepMind’s massive computational resource pool to maximum effectiveness (TPUs, GPUs, and CPUs) and we collaborate with researchers to build innovative and lasting engineering solutions that advance research.
+WorldsProgress in AI requires next-generation environments - rich, interactive virtual worlds in which we can test our systems and allow them to learn a wide variety of tasks. Our Worlds team, who are developers, designers, artists, QA technicians, and program managers with experience in engineering, games, and VFX companies, is responsible for creating these environments.
+We collaborate with researchers to design and build a wide variety of environments and tasks using well-known video game engines such as Unity and Unreal, while creating new platforms and tools that empower researchers to build environments themselves. From bespoke mini-games aimed at answering specific research questions to expansive first-person games using modern 3D engines, the Worlds team plays a fundamental part in every research area at DeepMind.
+RoboticsThe Robotics lab is a group of multidisciplinary research scientists, research engineers, and software engineers who pioneer new approaches in robotics.
+Robotics is a critical part of developing general-purpose learning algorithms because systems must learn to deal with the incredible complexity and ever-changing conditions of the real world. We collaborate with multiple teams across DeepMind to endow our systems with the ability to learn, allowing them to respond and adapt to a variety of variable environments. In particular, we focus on learning complex manipulation and navigation tasks and understanding how systems respond to the physical world.
+Natasha holds a PhD in medical physics from the University of Chicago. Her thesis used deep learning methods for clinical decision-making with dynamic MRIs, mammography, and ultrasound.
+Natasha is currently developing AI models for breast cancer diagnoses based on screening mammograms.
+Cédric has over 12 years of experience in the games industry, working on technical aspects of game design at both small mobile game studios and AAA first-party developers.
+Cédric creates tasks for testing the progress of researchers’ agents that build AGI.
+Jason has a background in pure maths and computer science. He worked on the animation system for the FIFA videogame and developed open source video game tech for Fun Propulsion Labs at Google.
+Jason collaborates with research teams to create virtual environments for agents and games for AIs to play.
+Andreas conducted his postdoc at Imperial College London, working on spiking neural network simulations using GPUs in the Cognitive Robotics Lab.
+Andreas ensures his team are always working on the most important and interesting problems and functioning smoothly, with the best tools and engineering support available.
+Tamara studied computer science at the University of Cambridge. Her dissertation involved implementing a parallel Prolog interpreter.
+Tamara works on creating efficient and flexible, higher-level abstractions for the representation and creation of neural networks. She aims to enable varying and fast-paced research.
+Adrian worked in tech for 15 years before joining DeepMind as COO in 2010. He has established teams from engineering to operations, recruitment, and more.
+Adrian’s team collaborate with research and engineering teams to build virtual worlds for agents to explore and learn from.
+Dan worked as a distinguished engineer at Google, specialising in large-scale systems for search infrastructure.
+Dan is focused on creating an inclusive and collaborative engineering organisation. He oversees long-term projects and engineering strategy and ensures his team are effective and aligned with DeepMind’s research.
+Prior to joining DeepMind, Shibl was the Engineering Site Lead for Google Montreal where he helped grow the team and expand its scope to include both engineering and AI research, as well as contributing to Montreal tech and AI community.
+Shibl is passionate about combining best engineering practices with machine learning research to advance our knowledge of AI and use it to build a better world.

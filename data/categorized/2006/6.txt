@@ -1,0 +1,16 @@
+old id = 1147
+About WiML Workshop
+2006
+https://wimlworkshop.org/about-wiml-workshop
+
+About WiML WorkshopMachine learning is one of the fastest growing areas of computer science research. In spite of the wide reach of machine learning and the variety of theory and applications it covers, the percentage of female researchers is lower than in many other areas of computer science. Most women working in machine learning rarely get the chance to interact with other female researchers, making it easy to feel isolated and hard to find role models.
+The annual Women in Machine Learning (WiML) Workshop, co-located with NeurIPS, is our flagship event. This day-long technical workshop gives female faculty, research scientists, and graduate students in the machine learning community an opportunity to meet, exchange ideas and learn from each other. The workshop started at the 2006 Grace Hopper Celebration and moved to NeurIPS in 2008. AHistory of WiML posterwas created in 2015 to celebrate the 10th workshop.
+In 2020, WiML introduced an “un-workshop” at ICMLbased on the concept of an “un-conference”, a form of discussion on a pre-selected topic that is primarily driven by participants.
+The overall goal of the un-workshop is to advance research through collaboration and increased interaction among participants from diverse backgrounds.
+Professional and technicalThe workshop and “un-workshop” consist of technical talks, discussion, posters as well as opportunities for mentoring and networking.
+Open to all genders and inclusiveWe welcome folks of all genders; however, any formal presentations (posters, talks) are made by women. Underrepresented minorities and undergraduates interested in machine learning research are encouraged to attend.
+Positive and productiveWe strive to create an atmosphere in which participants feel comfortable to engage in technical and career-related conversations.
+WiML OrganizersWiML would like to acknowledge the efforts of previous organizers and faculty advisors whose efforts made WiML into what it is today:If you see any errors or omissions on this page please contact us atinfo@wimlworkshop.orgMedia MentionsIn 2016, WiML was profiled in the Fast.Co article:The Women Changing The Face of AI,and the 2016 edition of the workshop was reviewed inComputer Vision News. The workshop has also been highlighted by others, such asInvesting News. WiML Workshop’s growth has been reported in the AI Index Annual Report: [2018 report], [2019 report]. WiML has been featured in severalTalking Machinesepisodes, including:Here are some other mentions byThe Register,Synced,Thrive Global, WIRED [1,2],PC,Forbes,Technology Review.
+If you have any WiML media mentions to contribute to this page please contact us atinfo@wimlworkshop.org2016 WiML Workshop participant“The best day of the year” … My personal highlight of the workshop was the mentorship roundtable program … So there I was, sitting next to people whose papers I’ve read and who I admire for their work … It was a unique and inspiring experience.
+— https://www.rsipvision.com/ComputerVisionNews-2017January/#36WiMLWe organize events and run programs to support women in the field of machine learning.
+WiML Code of Conduct: https://wimlworkshop.org/conduct/Contact InfoCopyright © Women in Machine Learning

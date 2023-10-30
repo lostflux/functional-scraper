@@ -1,0 +1,859 @@
+old id = 697
+Methicillin-resistant Staphylococcus aureus | Nature Reviews Disease Primers
+2018
+https://doi.org/10.1038%2Fnrdp.2018.33
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+AdvertisementMethicillin-resistantStaphylococcus aureusNature Reviews Disease Primersvolume4, Article number:18033(2018)Cite this article51kAccesses362Citations129AltmetricMetricsdetailsSubjectsAbstractSince the 1960s, methicillin-resistantStaphylococcus aureus(MRSA) has emerged, disseminated globally and become a leading cause of bacterial infections in both health-care and community settings. However, there is marked geographical variation in MRSA burden owing to several factors, including differences in local infection control practices and pathogen-specific characteristics of the circulating clones. Different MRSA clones have resulted from the independent acquisition of staphylococcal cassette chromosomemec(SCCmec), which contains genes encoding proteins that render the bacterium resistant to most β-lactam antibiotics (such as methicillin), by severalS. aureusclones. The success of MRSA is a consequence of the extensive arsenal of virulence factors produced byS. aureuscombined with β-lactam resistance and, for most clones, resistance to other antibiotic classes. Clinical manifestations of MRSA range from asymptomatic colonization of the nasal mucosa to mild skin and soft tissue infections to fulminant invasive disease with high mortality. Although treatment options for MRSA are limited, several new antimicrobials are under development. An understanding of colonization dynamics, routes of transmission, risk factors for progression to infection and conditions that promote the emergence of resistance will enable optimization of strategies to effectively control MRSA. Vaccine candidates are also under development and could become an effective prevention measure.
+IntroductionStaphylococcus aureusis a Gram-positive, nonmotile, coagulase-positive coccoid bacterium of the Firmicutes phylum. Although theStaphylococcusgenus includes 52 species and 28 subspecies (List of Prokaryotic names with Standing in Nomenclature),S. aureusis by far the most clinically relevant.
+S. aureusis found in the human commensal microbiota of the nasal mucosa in 20–40% of the general population1,2. The reported prevalence varies owing to differences in the size and demographics of the study populations, quality of sampling and culture techniques utilized3. When the cutaneous and mucosal barriers are disrupted, for example, owing to chronic skin conditions, wounds or surgical intervention,S. aureuscan gain access to the underlying tissues or the bloodstream and cause infection. Persons with invasive medical devices (such as peripheral and central venous catheters) or compromised immune systems are particularly vulnerable toS. aureusinfection4.
+Methicillin-resistantS. aureus(MRSA) was first described in England in 1961 (Ref.
+5), soon after methicillin was introduced into clinical practice. Methicillin was initially widely used; however, because of its toxicity, it is now no longer marketed for human use and has largely been replaced by similar, more-stable penicillins such as oxacillin, flucloxacillin and dicloxacillin6. Nevertheless, the term methicillin-resistantS. aureuscontinues to be used. In the decade following its initial description, MRSA was responsible for hospital outbreaks (health-care-associated MRSA (HA-MRSA)) in many parts of the world7. A substantial change in MRSA epidemiology was observed when it was detected in individuals without previous health-care contact (referred to as community-associated MRSA (CA-MRSA)), notably among indigenous populations in Australia in the 1980s8and otherwise healthy persons, including children, in the United States in the 1990s9. Since the mid-2000s, it has also been associated with livestock exposure (livestock-associated MRSA (LA-MRSA))10.
+SeveralS. aureusclones (that is, bacteria that are indistinguishable from each other by a variety of genetic tests (for example, pulsed-field gel electrophoresis, multilocus enzyme electrophoresis or ribotyping) or that are so similar that they are presumed to be derived from a common parent11) have developed into MRSA by uptake via horizontal gene transfer of staphylococcal cassette chromosomemec(SCCmec)12, a mobile genetic element that encodes the genesmecAormecC, which confer resistance to methicillin and, therefore, to most β-lactam antibiotics. MRSA is often also resistant to multiple other antibiotic classes. Indeed,S. aureushas the remarkable ability to acquire resistance to any antibiotic7, which has major implications for current as well as future treatment options for this pathogen.
+Individuals with MRSA colonization or carriage (that is, the presence of bacteria that do not cause a detectable host immune response, cellular damage or clinical signs and symptoms of infection) have an increased risk of subsequent infection and are an important source of person-to-person transmission. Health-care facilities host persons who are predisposed to infection (for example, owing to invasive procedures and/or immune compromise) and are environments with high antibiotic selection pressure (which can contribute to the selection of antimicrobial resistance in bacteria) and frequent contact between individuals. These conditions have facilitated the epidemic spread of MRSA in hospitals; MRSA is now endemic in many health-care facilities throughout the world and, as a consequence, it has become a major focus for infection control efforts globally.
+This Primer reviews the epidemiology, pathophysiology, diagnosis, prevention, management and clinical effect of MRSA, focusing on HA-MRSA, and discusses future research priorities. In some aspects of the epidemiology and pathophysiology, where methicillin resistance does not substantially affect the behaviour of the species, data regardingS. aureusin general have also been included.
+EpidemiologyThe emergence and worldwide spread of MRSA represent some of the most important events in the epidemiology of infectious diseases. Although MRSA was first reported in the early 1960s5, whole-genome sequencing (WGS) of 209 early MRSA isolates suggests that MRSA emerged in the mid-1940s — that is, much earlier than the introduction of methicillin13. In fact, it has been hypothesized that it was the extensive use of penicillin rather than the introduction of methicillin that drove the emergence of MRSA13.
+Many countries have experienced an increasing burden of MRSA since the 1960s. The burden of MRSA has notable geographical variation, ranging from low prevalence in Scandinavia to the highest prevalence in parts of America and Asia14(Fig. 1). The spread of MRSA seems to occur by at least two mechanisms: spread of existing resistant clones and acquisition of SCCmecby a methicillin-sensitiveS. aureus(MSSA) strain (a strain is a descriptive subdivision of a species based on phenotypic and/or genotypic characteristics11). Details of the mechanism of horizontal transfer of SCCmecare not well understood, but epidemiological evidence shows that this resistance mechanism has spread to most clones ofS. aureus, in both human and animal pathogenic strains15,16. The following sections discuss the epidemiology of MRSA in different regions; in general, less comprehensive data are available from low-income and middle-income countries.
+The percentage ofStaphylococcus aureusisolates that are resistant to oxacillin (that is, methicillin-resistantS. aureus(MRSA) isolates) is shown. Data include aggregated resistance rates. Owing to differences in the scope of collections and testing methods, caution should be exercised in comparing data across countries. Data represented are adapted from theCenter for Disease Dynamics, Economics & Policy Resistance Map; data for the following countries are adapted from Ref.
+223, Elsevier: Algeria, Bolivia, Brazil, Cameroon, Central African Republic, Chile, Colombia, Egypt, Hong Kong, Indonesia, Ivory Coast, Japan, Kenya, Malta, Morocco, Nigeria, Paraguay, Peru, Senegal, Singapore, South Korea, Sri Lanka, Tunisia and Uruguay.
+PowerPoint slideMRSA in EuropeSurveillance data from European countries show a general trend towards increasing MRSA prevalence from the north to the south of the continent, with <5% ofS. aureusisolated from invasive infections being methicillin-resistant in northern Europe (for example, the Netherlands, Norway, Sweden and Denmark) compared with 25–50% in southern Europe (for example, Portugal, Spain, Italy and Greece)17(Fig. 2). Varying infection control practices and antimicrobial usage are thought to contribute to the observed differences18.
+Surveillance data show that methicillin-resistantStaphylococcus aureus(MRSA) prevalence generally increases from the north to the south of Europe. Between 2001 and 2016, several European countries reported a decreasing trend in the prevalence of MRSA. For example, France and the United Kingdom have experienced declining MRSA rates since the early 2000s, which are largely attributed to improved multifaceted national infection control programmes224,225. Figure adapted with permission fromSurveillance Atlas of Infectious Diseases, European Centre for Disease Prevention and Control.
+PowerPoint slideAfter years of increasing MRSA prevalence, since the early 2000s, steady or decreasing prevalence has been observed in a number of countries17(Fig. 2). This decline has been associated with the implementation of improved national control interventions. However, some experts argue that widespread declines in previously hyperendemic MRSA clones are attributable to changes in the organism itself, with loss in survival fitness resulting in shifts in circulating clones19,20.
+With the declines largely occurring in HA-MRSA, there has been increasing recognition of animal reservoirs for human MRSA in Europe, particularly from food-producing animals such as pigs, cattle and poultry21. This LA-MRSA, predominantly belonging to clonal complex 398 (CC398), has primarily caused infections in those who work with livestock (particularly in the Netherlands, northwestern Germany22and Spain23), but LA-MRSA infections have also been observed among the general population24,25. However, at present, sustained person-to-person transmission of LA-MRSA seems to be uncommon25,26.
+MRSA in AmericaIn the United States,∼53% ofS. aureusclinical isolates were methicillin-resistant in 2005 (Ref.
+27). MRSA has also been identified as the most common cause of skin and soft tissue infections (SSTIs) presenting to US hospital emergency departments, which is largely attributed to the emergence of CA-MRSA (particularly the USA300 clone in the early 2000s)28,29(Fig. 3). The changes in epidemiology since the emergence of CA-MRSA in the country have made the distinction between CA-MRSA and HA-MRSA less clear30,31. A parallel epidemic of CA-MRSA closely related to USA300, the USA300 Latin-American variant (USA300-LV), was first identified in Colombia in 2005 and has emerged as the most prevalent CA-MRSA clone in northern South America32. The geographical spread of USA300 clones from South America to Europe has also been documented by genomic analysis of MRSA isolates in Switzerland33.
+Sequence types (STs) of methicillin-sensitiveStaphylococcus aureus(MSSA) are grouped into clonal complexes (CCs) by their similarity to a founder allelic profile (genotype)226. STs have different molecular properties that enable monitoring of the geographical spread of different clones. STs of MSSA can evolve into MRSA by acquiring staphylococcal cassette chromosomemec(SCCmec), of which there are different types (represented by roman numerals). Commonly used clone names are within parentheses. Numbers in the names of MRSA USA clones are based on pulsed-field gel electrophoresis analysis. ACME, arginine catabolic mobile element; EMRSA, epidemic MRSA; PVL, Panton–Valentine leukocidin;sek2andseq2are staphylococcal genes encoding enterotoxins. Figure adapted with permission from Ref.
+227, Oxford University Press.
+PowerPoint slideSimilar to experiences in Europe, the incidence of HA-MRSA in the United States has shown decreasing trends since 2005, with hospital-onset HA-MRSA infections decreasing by 54%34. In 2007, Veterans Affairs Hospitals throughout the United States introduced a multifaceted prevention strategy including universal MRSA screening, contact precautions, hand hygiene promotion and institutional culture change35. This programme was associated with a significant reduction in MRSA infections by 62% in intensive care units (ICUs) and 45% in other hospital wards. In addition, many US states mandated specific MRSA control measures, and in 2008, the Centers for Medicare and Medicaid Services introduced financial penalties to hospitals for preventable health-care-acquired infections, although a large evaluation of this intervention showed no evidence that it was associated with a reduction in health-care-associated infections36.
+MRSA in the Asia–Pacific regionMRSA is endemic in most hospitals in Asia, and some Asian countries have among the highest MRSA prevalence in the world37. However, most available data are from high-income countries (for example, Japan, South Korea and Singapore), with limited information from other nations. Although there is country-to-country variability, MRSA accounts for up to 50% ofS. aureusbloodstream infections in parts of Asia37. Japan and South Korea have particularly high MRSA prevalence — with >70% of clinical isolates in South Korea being MRSA on the basis of regional surveillance data from 2011 (Refs37,38). High methicillin resistance rates are thought to be related to widespread inappropriate antimicrobial use (for example, self-medication and over-the-counter use) as well as high population density facilitating rapid transmission of multidrug-resistant organisms37. Nevertheless, some countries in Asia (for example, Taiwan39) that experienced a peak in HA-MRSA prevalence in the late 1990s have shown declining prevalence since the early 2000s38.
+In Australia, among health-care-associatedS. aureus, MRSA has accounted for 20–33% of isolates since 2001 (Ref.
+40). Like Europe and the United States, Australia has implemented a range of local and national interventions that have been associated with a reduction in HA-MRSA bloodstream infections since 2002 (Ref.
+41). Since the earliest reports of CA-MRSA in remote indigenous populations in Western Australia in the late 1980s8, several distinct CA-MRSA clones circulating in the region have been identified, including virulent clones such as sequence type 93 (ST93; Queensland clone) and ST30 (Southwest Pacific clone)42.
+MRSA in AfricaMRSA prevalence data from Africa are variable in coverage and quality. Published data are available for South Africa, Nigeria and countries from the Mediterranean basin, but there is a paucity of data from other nations43. Most data are also from single-centre studies, and information from broader surveillance systems is lacking. In addition, most studies have relied on phenotypic methods to identify MRSA, and these tests might be less reliable than genotypic methods depending on the choice of antibiotic used to detect MRSA43.
+MRSA prevalence is estimated at <50% in most countries, with several countries reporting prevalence of <25%43. However, MRSA prevalence has been increasing since the early 2000s in reports from most countries, although it has started to decrease in South Africa (from 36% in 2006 (Ref.
+44) to 24% during 2007–2011 (Ref.
+45))43. Differences in the availability and use of antimicrobials, incidence of HIV infection (a risk factor for MRSA colonization46) and infection control practices could potentially account for some of the variation between countries.
+Mechanisms/pathophysiologyStaphylococcus aureuscolonizationS. aureuscolonization precedes the development of infection in most cases47. Less commonly, infection can occur in the absence of knownS. aureuscolonization, for example, as a result of contamination of catheters or wounds owing to suboptimal infection control practices by health-care workers. The principal site ofS. aureuscolonization is the nose, although colonization at other sites occurs, notably in the throat and perineum48. Longitudinal studies have identified three temporal patterns ofS. aureus(including both MSSA and MRSA) colonization49. ContinuousS. aureuscolonization was found in∼15% of individuals (known as persistent carriers), intermittent colonization was present in 70% of individuals (which means that the majority of individuals can repeatedly acquireS. aureusand spontaneously clear it), andS. aureuswas never detected in 15% of individuals (referred to as non-carriers)49. Similar results were found by other studies50. Studies exploring specific host polymorphisms in genes involved in the inflammatory response51indicate that there are underlying host factors that determine the carriage status. However, the precise nature of these underlying factors is not completely understood. For MRSA in particular, the duration of colonization is variable, and reported estimates could be biased by antibiotic treatment, which can shorten the duration of colonization. In one study in patients with MRSA colonization at the time of hospital discharge52, the median duration of colonization was 282 days; in this population, 81% of individuals had chronic skin lesions, a known risk factor for MRSA colonization, which may have contributed to prolonged carriage. Besides host factors, factors associated with the pathogen itself as well as the nasal microbiota can influence host carrier status.
+Dynamics of colonization.
+DuringS. aureuscolonization, initial bacterial adherence to the host's epithelial cells is mediated by teichoic acid on the cell wall, whereas microbial surface components recognizing adhesive matrix molecules play a part at a later stage of nasal colonization53,54. Of these components,S. aureusclumping factor B (ClfB), has been studied in vitro and in human volunteers55. A wild-type strain and its single locusclfBknockout variant were inoculated into the nose; the knockout variant was cleared significantly more rapidly than the wild-type strain. However, ClfB-deficient strains can still interact with nasal cells, indicating that there are several independent microbial surface components that play a part in colonization56. It must also be noted that only one strain was used in this study.
+Besides host and pathogen factors, the interaction ofS. aureuswith other nasal-colonizing species (for example,Corynebacteriumspp.,Propionibacterium acnes,Staphylococcus lugdunensisandStaphylococcus epidermidis) has a role inS. aureuscolonization. Studies of the nasal microbiota have shown that the presence of some species correlates with the presence or absence ofS. aureus(for example,S. epidermidishas been positively correlated with the presence ofS. aureus)57,58. The organisms of the nasal microbiota are in competition with each other in several ways. For example, they compete for adhesion sites and nutrients: there are low amounts of nutrients in the human nose.
+S. aureuscan survive in environments with lower levels of nutrients than coagulase-negative staphylococci can59, possibly owing to differences in metabolism, and hence is better adapted to the human nose. However, no difference in nutrient levels has been observed between carriers and non-carriers59. Microbiota species also compete by antibiosis, that is, certain strains can produce antimicrobial molecules that inhibit their microbial competitors.
+S. lugdunensis, for example, produces an antimicrobial compound called lugdunin that inhibits and destroysS. aureus(including MRSA) in vitro and in a mouse model, possibly by leading to rapid breakdown of bacterial energy resources60. In humans, nasal colonization withS. lugdunensishas been associated with a sixfold lower risk of colonization withS. aureus. These findings are certainly interesting but explain only a minority of carriage patterns, asS. lugdunensiscolonization has been reported in only 9 – 26% of the general population60,61. Finally,S. aureusalso competes by induction of host defences, that is, it induces the production of host antimicrobial proteins that are less harmful toS. aureusthan to other commensal bacteria62. Many studies support the role of these mechanisms in the interactions betweenS. aureusand the commensal microbiota, but a single mechanism is insufficient to explain all observed carriage patterns.
+VirulenceS. aureushas an extensive arsenal of virulence factors (including adhesive, host-cell damaging and immunomodulatory molecules) that vary in their presence or specificity between clones63,64, a variability that is reflected by the high diversity of infections thatS. aureuscan cause65,66(Table 1). Many virulence genes are found on mobile genetic elements; thus, their combination differs substantially between clones and even between closely related strains. The potential association of specific virulence factors with certain types or aggressiveness ofS. aureusinfections remains elusive, probably because many of these factors have redundant, partially overlapping functions. Furthermore, many virulence factors cannot be investigated in animal models because they are human-specific67. This section focuses on the most prominent virulence mechanisms and typical routes of invasion.
+Initiation of infection.
+S. aureusSSTIs are usually initiated by bacterial transfer (probably via hand contact) from the major reservoir in the nose to open microlesions and wounds on the skin68,69(Fig. 4a).
+S. aureussurface proteins (for example, fibronectin-binding protein A (FnBPA), FnBPB, clumping factor A (ClfA), ClfB and collagen adhesin (Cna)) bind to extracellular matrix proteins and enable the bacteria to attach to and multiply on wounded tissues70. The capacity ofS. aureusto adhere to and form biofilms (that is, sticky agglomerations of microorganisms embedded in an extracellular matrix; biofilms facilitate resistance to mechanical interference, host defences and antibiotic treatment) on artificial plastic or metal surfaces rendersS. aureusa frequent cause of catheter-associated or joint-replacement-associated infections or of ventilator-associated pneumonia71. The subsequent influx of polymorphonuclear leukocytes (PMNs) is manipulated byS. aureus72, which shapes local inflammation73.
+a| Bacteria obtain access to sterile tissues via open wounds and use adhesin proteins, such as fibronectin-binding protein A (FnBPA), FnBPB, iron-regulated surface determinant protein A (IsdA), clumping factor A (ClfA), ClfB and collagen adhesin (Cna), for specific attachment to extracellular matrix proteins, such as fibronectin, cytokeratin 10 and collagen, among others.
+Staphylococcus aureuscan also in part regulate polymorphonuclear leukocyte (PMN) influx in subtle ways involving activators (formylated peptides and phenol-soluble modulin (PSM) peptides) and inhibitors (for example, chemotaxis inhibitory protein ofS. aureus(CHIPS) and FPRL1 inhibitory protein (FLIPr)) of PMN chemotaxis72. PSM peptides also promote the release of pro-inflammatory lipoproteins, the majorS. aureusmicroorganism-associated molecular pattern (MAMP) molecules, which activate Toll-like receptor 2 (TLR2) and contribute to local inflammation73.
+b|S. aureusproduces coagulases to polymerize fibrin and form an encapsulated abscess around the infection site. The capacity of PMNs, which are found in high numbers in an abscess, to eliminateS. aureusis limited by leukocidins and by virulence factors interfering with opsonophagocytosis and PMN killing.
+S. aureuscan compromise effective opsonization by antibodies using a polysaccharide microcapsule and surface proteins (Staphylococcusprotein A (SpA) and immunoglobulin-binding protein Sbi) binding immunoglobulin G (IgG) via the crystallizable fragment (Fc) domain in a futile way66. The bacteria can also inhibit the complement signalling pathway by small secreted inhibitors such as staphylococcal complement inhibitor (SCIN), fibrinogen-binding protein (Efb), extracellular complement-binding protein (Ecb) or staphylococcal superantigen-like protein 7 (SSL7), among others. Phagocytosed bacteria can survive within the PMNs by producing catalase, superoxide dismutase [Mn] 1 (SodA), staphylococcal peroxidase inhibitor (SPIN), staphyloxanthin (against the bactericidal oxidative burst generated by the PMNs)72and extracellular adherence protein (Eap) (against elastase)76, and the cell envelope modifications mediated by multiple peptide resistance factor (MprF) and theD-alanine transfer proteins DltA, DltB, DltC and DltD protect against defensins.
+S. aureusalso secretes cytolytic toxins that can kill PMNs;S. aureusleukocidins include large pore-forming proteins (α-toxin and several two-component leukocidins, such as Panton–Valentine leukocidin (PVL))64and small peptide (PSM peptides)228toxins. Superantigen toxins (toxic shock syndrome toxin 1 (TSST1), enterotoxin type A (SEA), staphylococcal enterotoxin-like X (SEIX) and several others) contribute to exuberant inflammation by nonspecific T cell activation.
+c| Abscesses can release live bacteria to the surface of the skin and/or the bloodstream at later stages; the plasminogen-activating protein staphylokinase might contribute to bacterial dissemination. APC, antigen-presenting cell.
+PowerPoint slideAbscess formation.
+TheS. aureuscoagulase proteins cause the formation of a fibrin pseudo-capsule surrounding bacteria and infiltrated PMNs, thereby preventing further leukocyte influx74(Fig. 4b).
+S. aureuscan impede opsonization, for instance, by production of a polysaccharide microcapsule66and inhibition of the complement cascade75. However, the microcapsule is absent from important MRSA clones such as USA300 (Ref.
+63). Bacteria that are phagocytosed by PMNs can survive not only by counteracting PMN killing mechanisms72,76,77but also by gradually destroying them with the help of cytolytic toxins. For example, many CA-MRSA clones produce pore-forming peptide (phenol soluble modulins (PSMs)) and protein toxins (α-toxin (also known as α-haemolysin) and several bi-component leukocidins such as the Panton–Valentine leukocidin (PVL)), which are host species-specific and bind to host leukocyte membranes, leading to the formation of pores and causing lytic cell death7,78, thereby increasing bacterial virulence. The massive inflammation elicited by activated or necrotic PMNs is further increased byS. aureussuperantigen toxins, which bind to the major histocompatibility complex (MHC) class II of antigen-presenting cells and activate a large percentage of T cells nonspecifically, causing systemic hyper-inflammation referred to as ‘cytokine storms’79.
+Systemic infection.
+Abscesses might be disrupted at later stages, releasing pus and live bacteria either towards the skin surface to promote pathogen transmission or towards the bloodstream to cause bacteraemia (Fig. 4c). EndovascularS. aureuscan adhere to endothelial surfaces and platelets80,81, and this adhesion can initiate endocarditis, promote the formation of metastatic abscesses or induce bacterial uptake into endothelial cells, where the bacteria are difficult to reach by antibiotics and host defence molecules82. The agglutinating activity of coagulases is thought to contribute to systemic blood coagulation, and massive release of microorganism-associated molecular pattern molecules along with superantigen toxin-induced cytokine storms leads to fulminant systemic inflammation, sepsis and multi-organ failure if the endovascular spread of the bacteria cannot be contained83.
+Regulation and adaptation.
+Most of theS. aureusvirulence factors are differentially regulated by the accessory gene regulator (Agr) quorum-sensing system and other regulatory networks84. Many CA-MRSA clones such as USA300 have very active Agr systems, which leads to abundant expression of toxins and corresponds to a high capacity to cause SSTIs and invasive infections even in healthy individuals85. By contrast, many HA-MRSA clones contain an additional SCCmec-encoded phenol-soluble modulin (PSM; PSMmec), whose mRNA dampens Agr expression86. Accordingly, Agr is not very active in many HA-MRSA clones, which produce lower amounts of toxins but higher levels of adhesins and often cause bacteraemia via infected catheters or implanted medical devices. High virulence seems to even be detrimental forS. aureusin bacteraemia, with many isolates from bloodstream infections found to bear Agr-inactivating point mutations87. Elucidating virulence mechanisms whose inhibition would renderS. aureusmost vulnerable will be crucial for the development of new preventive and therapeutic strategies against MRSA.
+Mechanisms of methicillin resistanceA crucial event in the evolution ofS. aureuswas the independent acquisition of the SCCmeccomplex in the early 1960s by several multidrug-resistant strains (resistant to penicillin, streptomycin, tetracycline and erythromycin88), renderingS. aureusresistant to most members of the β-lactam family of antibiotics5(Fig. 3). Twelve known SCCmectypes (I–XII) have been identified and are classified according to the type of cassette chromosome recombinase (ccr) complex and the class of themeccomplex (Table 2). Types I, II and III are large SCCmecelements harbouring genes that confer resistance to several antibiotic classes and are primarily found in HA-MRSA89. Smaller elements, such as types IV and V SCCmec, are found in CA-MRSA, such as USA300 and USA400, but also in some widespread HA-MRSA clones, such as ST22-MRSA-IV, ST45-MRSA-IV and ST5-MRSA-VI (Fig. 3;Table 2). However, over the years, the distinction between the two epidemiological groups (HA-MRSA and CA-MRSA) has become blurred90.
+All SCCmectypes containmecA(with the exception of type XI, which contains the homologuemecC), which encodes penicillin-binding protein 2a (PBP2a)91, a peptidoglycan transpeptidase. PBP2a has extremely low affinity for most β-lactam antibiotics; in the presence of β-lactam antibiotics that inhibit the function of the four nativeS. aureuspenicillin-binding proteins (PBP1, PBP2, PPB3 and PBP4), PBP2a can take over the transpeptidase function of peptidoglycan biosynthesis (Fig. 5). A variant ofmecA, namedmecC, was identified in severalS. aureusclones from animal and human isolates92;mecCencodes PBP2aLGA, named after the MRSA strain LGA251 from which it was first isolated. The mechanism of the control of β-lactam resistance in strain LGA251 was compared with the resistance mechanism in MRSA strains that carrymecA93,94; in the LGA251 strain, the level of methicillin resistance depends onmecCand on genes in the genetic background of the strain. In 2018, plasmid-borne methicillin resistance based onmecBhas been identified inS. aureus95, but the mechanism of resistance encoded bymecBis yet to be clarified.
+Antibiotics have diverse mechanisms of action and target different bacterial structures or metabolic pathways. Existing antibiotic options are in green, new antibiotics approved and on the market are in blue and antibiotics in the pipeline are in orange. DHFA, dihydrofolic acid; PABA, para-aminobenzoic acid; PBP, penicillin-binding protein;S. aureus,Staphylococcus aureus; THFA, tetrahydrofolic acid. Figure adapted from Ref.
+229, Macmillan Publishers Limited.
+PowerPoint slideThe primary control of the expression ofmecAdepends on the regulators encoded bymecI,mecR1andmecR2(Refs96,97) and on the regulators of the expression of the genesblaZ,blaIandblaRI(Ref.
+98). In addition, a surprisingly large number of genes — auxiliary orfemgenes — has a profound influence on the resistant phenotype99. Three lines of evidence show that the level ofmecAtranscription is not predictive of the degree of methicillin resistance. First, the stringent stress response (that is, the bacterial reaction to different stress conditions, such as amino acid, fatty acid and iron limitation and heat shock) induced by the antibiotic mupirocin triggers an increase in PBP2a activity without affectingmecAtranscription100. Second, inactivation ofvraS(a member of the two-component regulatory system involving sensor protein VraS and response regulator protein VraR (VraS–VraR) involved in the control of the cell wall peptidoglycan biosynthesis) inducedmecAtranscription but did not increase the level of PBP2a activity101. Third, the chaperone foldase protein PrsA alters the levels of properly folded PBP2a in the membrane and, therefore, methicillin resistance without affectingmecAtranscription102. The crucial role of the stringent stress response inmecAexpression has been demonstrated using different experimental approaches99,103. A new line of investigation is focusing on the discovery of inhibitors of the stringent stress response that act in combination with β-lactam antibiotics103.
+Of note, over the years, some MRSA clones have also acquired resistance to vancomycin104, the first-line treatment of invasive MRSA infections in hospitalized patients since the 1960s (Box 1).
+Box 1: Vancomycin resistanceVancomycin has been the drug of choice for treating invasive methicillin-resistantStaphylococcus aureus(MRSA) infections in hospitalized patients since the early 1960s. However, over the years, MRSA has acquired resistance to vancomycin104. Vancomycin intermediate-resistantS. aureus(VISA) appeared in Japan in 1997 (Ref.
+215), and since then, it has been identified worldwide. The VISA phenotype results from mutations acquired during antibiotic therapy216. Despite its low vancomycin minimum inhibitory concentration (MIC; the lowest concentration of an antibiotic that prevents bacterial growth) of 3–8 micrograms per millilitre, VISA has been associated with treatment failures215. When cultured, heterogeneous VISA (hVISA) strains are phenotypically susceptible to vancomycin but contain subpopulations of VISA colonies at frequencies of 10−6to 10−5of the cells in the whole population. hVISA seems to be the stage that precedes the development of VISA217. The clinical relevance of hVISA has been extensively debated.
+Vancomycin failure has been reported for some hVISA or VISA infections; nevertheless, several studies have failed to detect an association between infection with hVISA and poor outcomes with therapy with vancomycin218,219. For specific cases of hVISA and/or VISA infection, viable alternatives to vancomycin include a combination of high-dose daptomycin with another antibiotic such as gentamicin, rifampin, linezolid, trimethoprim–sulfamethoxazole or a β-lactam. Similarly, if reduced susceptibility to daptomycin is observed alongside reduced vancomycin susceptibility, then a combination of or use of a single agent among the following is recommended: quinupristin–dalfopristin, trimethoprim–sulfamethoxazole, linezolid or telavancin161.
+Vancomycin-resistantS. aureus(VRSA), which was first detected in the United States in 2002 (Ref.
+220), has a very high vancomycin MIC (≥32 micrograms per millilitre). Vancomycin resistance in VRSA is mediated by thevanAgene, which is believed to have been transferred fromEnterococcus faecalison the plasmid-borne transposon Tn1546(Ref.
+221). VRSA strains are mostly found in diabetic wounds infected by both vancomycin-resistant enterococci andS. aureus, where there is opportunity for horizontal gene transfer of Tn1546harbouringvanA. VRSA has remained extremely rare, possibly owing to the fitness costs associated with acquisition of vancomycin resistance222.
+Diagnosis, screening and preventionMRSA can cause a wide range of infections, such as SSTIs, pneumonia, osteoarticular infections, toxic shock syndrome (a rare, potentially life-threatening complication of infection with certain types of bacteria, includingS. aureus, caused by the release of bacterial toxins and presenting with clinical features that can include fever, rash and hypotension) and bacteraemia, which may be complicated by endocarditis or severe sepsis4. The clinical presentations and risk factors for infection vary between HA-MRSA, CA-MRSA and LA-MRSA strains.
+HA-MRSAHA-MRSA is a cause of bacteraemia, pneumonia and, less commonly, SSTIs (particularly related to invasive procedures, for example, at surgical wounds or vascular access sites) in hospitalized patients105. The organism is often associated with invasive devices, such as intravascular catheters, endotracheal tubes and urinary catheters, probably owing to its capacity to form and survive in biofilms71.
+Individuals who have had lengthy hospitalization, ICU admission, residency in a nursing home, antibiotic exposure (particularly to cephalosporins and fluoroquinolones, leading to antibiotic selection pressure), surgery, haemodialysis, chronic wounds or indwelling invasive devices have an increased risk of infection with HA-MRSA106. In addition, asymptomatic colonization with MRSA is a risk factor for subsequent infection, as individuals with MRSA colonization on admission had a relative risk of infection of 13 (95% CI 2.7–64.0) compared with those with MSSA colonization or 9.5 (95% CI 3.6–25.0) compared with those withoutS. aureuscolonization107.
+CA-MRSAThe most common clinical presentation for CA-MRSA is SSTI, which is often associated with abscesses or pus formation and accounts for∼90% of cases29. CA-MRSA can cause particularly virulent infections. Fulminant infections with CA-MRSA strains have been reported, such as necrotizing pneumonia and necrotizing fasciitis (a rapidly progressive infection of the fascia with secondary necrosis of the subcutaneous tissues)108,109. Possible explanations for the increased virulence observed with CA-MRSA strains are very active Agr systems and the production of PVL. However, the presence of PVL varies from strain to strain, suggesting that other virulence factors contribute7.
+Individuals with CA-MRSA infection usually lack the traditional risk factors associated with HA-MRSA strains. Populations or settings in which outbreaks of CA-MRSA infection have been reported include sports teams, military personnel and prisons110,111. On the basis of these observations, close contact with MRSA carriers (as occurs in households or other communal living environments), shared equipment or personal items and skin trauma (including trauma caused by injecting drug use or body shaving) might be associated with an increased risk of CA-MRSA infection. However, the distinction between CA-MRSA and HA-MRSA is becoming increasingly blurred, with transmission of CA-MRSA strains now being observed in health-care settings in some countries with high CA-MRSA burden, such as Greece112.
+LA-MRSALA-MRSA has been associated with localized infections, such as SSTIs (including abscesses and wound infections) and otitis, as well as severe and invasive infections, such as bacteraemia, pneumonia, osteoarticular infections and endocarditis22. LA-MRSA predominantly colonizes and infects individuals who have direct contact with livestock (including cattle, horses, chickens and turkeys but particularly pigs) and their household members through transmission within the household25. However, there are reports of LA-MRSA in individuals with no connection to livestock, and in these cases, spread via environmental contamination or, less commonly, food-borne transmission has been postulated25.
+Microbiological diagnosisMicrobiological specimens from which MRSA can be isolated can be broadly classified into clinical and screening samples. Clinical samples (for example, specimens of purulent discharge, deep tissues, sputum and blood) are collected from individuals with symptoms or signs to investigate for active infection, whereas screening samples (for example, nasal, perineal and throat swabs) are obtained to detect asymptomatic colonization. An array of phenotypic and non-phenotypic methods can be used to detect MRSA directly from clinical or screening samples or to identify MRSA from presumptive staphylococcal colonies isolated from clinical samples. Phenotypic methods are usually preferred for clinical diagnostics.
+Phenotypic methods.
+PureS. aureuscultures, obtained by plating clinical samples on relevant culture media, can be screened for methicillin resistance by the disk-diffusion method. This method involves applying a cefoxitin disk on Mueller-Hinton agar or supplementing Mueller-Hinton agar with 6 micrograms per millilitre oxacillin and 4% NaCl (Clinical and Laboratory Standards Institute (CLSI) recommendations)113.
+Initially, oxacillin was utilized as the marker antibiotic to detect MRSA; however, CLSI now recommends cefoxitin, as it is a better inducer ofmecAandmecCthan oxacillin and results in a clear recognizable phenotype113. The disk-diffusion method requires strict adherence to temperature (35 °C) and time (reading after 24 hours) to prevent false negative results. This is because themecAencoded PBP2a is less efficient at crosslinking the pentapeptide chains of the cell wall peptidoglycan during cell wall synthesis, resulting in slower growth of the resistant isolates. This phenomenon leads to a heteroresistant population, wherein cells exhibit different levels of resistance and some are phenotypically susceptible114. The above-mentioned susceptibility testing guidelines enable the slower growing MRSA subpopulation to reach detectable levels in a heteroresistant population. Rarely, MRSA may present with phenotypic sensitivity to cefoxitin (and oxacillin) and require an overnight exposure to low concentrations of cefoxitin to exhibit resistance115. In this case, the presence of induciblemecAshould be considered. Methicillin resistance inS. aureuscolonies and cultures can also be detected by means of an antigen–antibody-based latex agglutination test that detects PBP2a by using an anti-PBP2a antibody. Moreover, several automated instruments performing identification and antimicrobial susceptibility testing of staphylococci have shown high sensitivities and specificities for the MRSA strains tested (reviewed in Ref.
+116).
+For direct phenotypic detection of MRSA from positive blood cultures, there is renewed interest in refining bacteriophage-based assays. The KeyPath MRSA/MSSA blood culture test (MicroPhage Inc, Longmont, Colorado, USA) is a US FDA-approved, non-genotypic, rapid test for the identification ofS. aureusand the detection of methicillin resistance directly from positive blood cultures. The assay detects the amplification ofS. aureus-specific bacteriophages in the presence of methicillin with a turnaround time of 5 hours. Multicentre evaluation of this assay on 1,116 blood cultures showed 91.8% sensitivity, 98.3% specificity, 96.3% positive predictive value and 96.1% negative predictive value, with a median turnaround time of 16.9 hours versus 46.9 hours calculated for conventional tests for the identification ofS. aureusand differentiating between MRSA and MSSA in positive blood cultures117.
+Non-phenotypic methods.
+One of the most promising non-genotypic techniques for direct identification of pathogens from positive blood cultures is matrix-assisted laser desorption-ionization time-of-flight mass spectrometry (MALDI-TOF MS)118. Identification is based on the comparison of the protein profile obtained by mass spectrometry from a bacterial or fungal sample with a database of profiles obtained from several characterized microorganisms. However, as the performance of MALDI-TOF MS largely depends on a microorganism's purity and quantity, bacterial enrichment and purification procedures are required from positive blood cultures, which contain high concentrations of interfering non-microbial material118. A retrospective study of 227 cases ofS. aureusbacteraemia comparing turnaround time and therapy adjustment before and after the introduction of MALDI-TOF MS plus real-time PCR to detectmecAshowed a decrease in turnaround time of MRSA identification by nearly 50% compared withS. aureusidentification and β-lactam susceptibility testing by conventional methods. Although the length of hospitalization and rates of adequate empirical antibacterial therapy were similar in the two groups, optimization of therapy occurred more frequently in the group assessed by MALDI-TOF MS119.
+Current DNA-based methods for direct MRSA detection from clinical samples are multiplex real-time PCR assays to detectS. aureusand the presence ofmecA120and are well-validated assays121. Results are obtained in approximately 1.5 hours. The FilmArray (Idaho Technology, Salt Lake City, Utah, USA) is a multiplex PCR-based system designed to detect 25 microorganisms (90–95% of the pathogens involved in blood cultures) along withmecA, as well as the presence of genes encoding resistance to vancomycin (vanAandvanB) and carbapenems (blaKPC)122. This assay has higher sensitivity than MALDI-TOF MS in identifying microorganisms from blood culture bottles before positivity, with an average turnaround time of 2.5 hours123.
+The application of WGS to bacterial pathogens heralded the single most important advance in diagnostic microbiology and surveillance since in vitro culture. However, direct applications of WGS in diagnostic microbiology remain limited, primarily because of the technological constraints in obtaining results within a time frame that can influence patient care and the need for standardized protocols and automated data interpretation. The introduction of the third generation of sequencers (such as the Oxford Nanopore MinION by Pacific BioSciences and Oxford Nanopore, Oxford, UK) has resulted in longer reads (obtained sequence lengths) that can span repeat regions in the bacterial sequence and enable complete bacterial genome assembly, as well as an increased portability of the machinery and a potential reduction in error rates. An important benefit afforded by the Oxford Nanopore MinION sequencer is that sequencing data can be analysed in real time and could lead to strain identification within 30 min and an antibiotic-resistance profile prediction within 10 hours after the start of a run124, making this assay potentially useful for clinical diagnostics. The utility of WGS has been well demonstrated for studying antibiotic resistance and the population biology of MRSA125and has also led to many useful insights regarding transmission of MRSA during hospital outbreaks126and in community settings127.
+Screening methodsScreening measures and their effectiveness are discussed in the Prevention section below. Since the introduction of the first MRSA chromogenic medium (that is, a medium containing synthetic chromogenic enzyme substrates; in the presence of the specific target enzyme, the chromogenic substrate is processed and results in a corresponding bacterial colony of a specific colour, thereby enabling pathogen recognition)128, these media have undergone rapid improvements in terms of sensitivity of the chromogen and the antibiotics used120,129. They have become the primary rapid diagnostic assays utilized for active surveillance for MRSA colonization as well as for patient diagnostics since they were introduced in the 2000s129. In 2005, an external quality assessment in 23 European countries and Israel found that 88% of the participating laboratories utilized a chromogenic medium alone to screen for MRSA130. The combination of chromogenic media with MALDI-TOF MS, which enables the species identification of multiple colonies in <1 hour, has further improved the specificity and turnaround time131. Development of automated colony scoring that could further increase specificity and reduce turnaround time is also being attempted132.
+Application of real-time PCR-based assays for MRSA screening from nasal swabs can decrease turnaround time to 1–2 hours, whereas the results of chromogenic media-based tests can take a minimum of 14–18 hours without confirmatory testing and, therefore, might not always be useful to guide clinical decisions. An observational cohort study demonstrated a significant reduction in MRSA transmission upon screening with a same-day commercial real-time PCR assay compared with screening with conventional culture (swabs incubated overnight in 7% NaCl and subcultured on mannitol salt agar with 2 milligrams per litre oxacillin for 48 hours): MRSA transmission was 4.9 new acquisitions per 1,000 patient bed days with real-time PCR compared with 13.9 new acquisitions per 1,000 patient bed days with culture133. (A patient bed day represents a unit of time during which a patient occupies a bed and stays overnight in a health-care facility; thus, 50 patients in a hospital over a period of 1 day would represent 50 patient bed days.) However, a major study in 13 ICUs in eight European countries did not find any positive effect of screening using PCR-based tests versus chromogenic media in the acquisition and transmission rates of multidrug-resistant bacteria (including MRSA, vancomycin-resistant enterococci and highly-resistant Enterobacteriaceae)134. Similarly, a UK-based study assessing screening by real-time PCR-based tests versus slower laboratory-based methods (MRSA-selective broth and chromogenic medium) reported a significant reduction in turnaround times (from 40.4 to 3.7 hours) but again no effect on MRSA acquisition rates135, thereby rendering the utility of the more-expensive albeit faster PCR-based screening questionable.
+PreventionMRSA control interventions have been widely implemented across health-care facilities. These interventions aim to limit the emergence of MRSA by facilitating judicious use of antimicrobial agents (including introducing restrictions on their prescription), control the reservoir of patients who are carriers, prevent MRSA transmission between patients and prevent the development of infection in carriers. Several measures are usually required to successfully prevent transmission and infection with MRSA136. Decolonization, an important control intervention for which there is growing evidence, is discussed in the Management section.
+Hand hygiene.
+By contact with patients with MRSA colonization or handling MRSA-contaminated equipment, health-care workers can acquire MRSA on their hands, and by this means, MRSA can be transmitted between patients137. Hand hygiene, with alcohol-based hand rub or soap and water, aims to reduce MRSA spread via this route. Indeed, the WHO has identified hand hygiene as an important factor in providing safe patient care and has issued detailed instructions regarding appropriate hand hygiene practices among health-care workers137,138. The effectiveness of improving compliance with hand hygiene among health-care workers in MRSA control has been demonstrated at local as well as national levels139,140. For example, the roll out of a national hand hygiene programme in England and Wales from late 2004 was associated with a fall in the incidence of MRSA bacteraemia from 1.88 to 0.91 per 10,000 patient bed days140. Although the hand hygiene campaign was implemented with other national infection control initiatives, the higher procurement of alcohol hand rub during the campaign was independently associated with reduction in the incidence of MRSA bacteraemia after adjustment for all other interventions140.
+Active surveillance.
+Most patients with MRSA colonization are asymptomatic, and, therefore, relying on culture of clinical samples (which are collected only when an individual develops symptoms or signs of infection) alone to identify carriers of MRSA may fail to identify up to 85% of individuals with MRSA colonization141. Through screening methods, active surveillance programmes can identify this large asymptomatic reservoir of carriers and direct interventions (such as topical decolonization) to reduce transmission or infection risk. MRSA screening may be universal (applied to all patients) or targeted (limited to patients at increased risk of MRSA carriage). Universal MRSA screening has been one of the most controversial areas in infection control since the 2000s, with some studies showing that it is effective in reducing MRSA-associated disease142, whereas other studies found it ineffective143,144. Importantly, recent data also show that universal screening is unlikely to be cost-effective, particularly in settings with low or decreasing MRSA prevalence145. On the basis of this accumulating evidence, many health-care facilities have now abandoned universal MRSA screening. We suggest, however, that changes in practices should be based on careful consideration of local MRSA epidemiology and the vulnerability of the patient population.
+Randomized trials in ICUs have questioned the utility of routine MRSA screening in this high-risk setting146,147. However, a long turnaround time for screening results (a mean of 5.2 days with a culture-based method using a pre-enrichment step at a central laboratory)146or established good hand hygiene practices coupled with universal chlorhexidine bathing147might have contributed to the observed lack of effect of screening. It is argued that ‘horizontal’ strategies (that is, strategies aimed at preventing all health-care-associated infections, including MRSA, such as hand hygiene and universal bathing with antiseptics) are a better use of limited resources.
+Contact precautions and isolation.
+In many facilities, health-care workers use contact precautions (use of disposable gowns and gloves) when caring for patients with MRSA colonization to reduce MRSA transmission associated with contamination of hands and clothing. Although the evidence for this intervention has previously been of low quality, there is now more robust data suggesting that this practice is associated with reduction in MRSA acquisition148. It is also widely recommended that patients with MRSA colonization are isolated in single rooms. However, in a prospective study in an ICU setting where MRSA was endemic and hand hygiene compliance was low, single-room isolation was not effective in reducing MRSA transmission149. Experts have called for a review of this practice and for guidelines to highlight the uncertainties regarding its value150.
+ManagementThe approach to the management of MRSA varies in different geographical regions depending on local MRSA prevalence and availability of antimicrobials, particularly the newer agents.
+Decolonization of carriersMRSA colonization is associated with an increased risk of infection and contributes to transmission. Both MRSA colonization on admission as well as acquisition during hospitalization are associated with an approximately tenfold increased risk of subsequent infection107. Thus, decolonization can contribute to MRSA control by reducing transmission and infection risk. Most decolonization strategies use topical agents applied to the nostrils, the principal site of colonization47. Mupirocin (pseudomonic acid A, which inhibits bacterial isoleucyl tRNA synthetase, preventing protein synthesis) is the principal agent and is often combined with chlorhexidine bathing151. Although mupirocin is the cornerstone for eradication ofS. aureus, resistance is increasing, with some studies reporting resistance rates of up to 80% in MRSA152. Alternative agents are being studied, but to date, experience with these agents is limited153. Thus, it is recommended that mupirocin is used judiciously and that the emergence of resistance is monitored152. Ongoing research into the development and evaluation of new agents that can be effectively used for decolonization is also needed.
+Short-term decolonization.
+Decolonization is most commonly used as a protective strategy during relatively short periods of increased risk of infection, for example, during the peri-operative period or ICU stays. Topical mupirocin to the nares and chlorhexidine body washing before surgery for knownS. aureuscarriers reduced the risk of post-surgicalS. aureusinfection by∼50% in a placebo-controlled study154. A subsequent cost-effectiveness analysis using these data showed that the mean cost saved per treated carrier was €1,911 (Ref.
+155). However, this study was performed in the Netherlands, a country with low MRSA prevalence, and the effects of this short-term decolonization strategy might be different in settings with high MRSA prevalence.
+The results of short-term decolonization interventions in the ICU setting have been variable. A large cluster-randomized trial compared three strategies156: screening and isolation of MRSA carriers (no decolonization); a combination of screening, isolation and decolonization (with mupirocin and chlorhexidine bathing) of MRSA carriers (targeted decolonization); and decolonization of all patients (universal decolonization). No significant differences in MRSA colonization and infection rates were found with the three strategies. However, bloodstream infections from any pathogen were significantly lower in the universal decolonization group. This may have been the result of universal chlorhexidine bathing rather than mupirocin. The authors concluded that universal decolonization was the best approach, as it reduced infections overall without the need for screening. However, as widespread use of topical antibiotics might lead to an increase in drug resistance, their use should be coupled with monitoring for resistance152.
+Permanent decolonization.
+In some situations, permanent MRSA eradication is pursued. Permanent decolonization is a component of the ‘search and destroy strategy’ in countries with a low MRSA prevalence157. For example, the Dutch protocol distinguishes between uncomplicated and complicated carriers on the basis of MRSA strain and host characteristics, as well as colonization site, as treatment failure is three times more likely in individuals with throat colonization than in those without throat colonization158. Of 613 MRSA carriers, 80% were ultimately successfully decolonized, with a median time to decolonization of 10 days; of note, adherence to the protocol was crucial for success. Many other clinical trials evaluating permanent decolonization strategies have been conducted under real-life conditions, with rather disappointing results because of a high rate of endogenous recolonization151.
+Treatment of symptomatic infectionEmpirical treatment and SSTIs.
+We recommend that an antibiotic effective against MRSA should be considered for empirical treatment of infection for patients with several risk factors for HA-MRSA infection or those with presumed severe staphylococcal infections in settings where MRSA prevalence is >20%, although precise thresholds have not been established. The choice, route of administration and duration of antibiotic therapy are determined by the site and severity of infection. Treatment should then be adjusted on the basis of subsequent results of cultures and susceptibility testing.
+Intravenous vancomycin, daptomycin or linezolid can be used for severe SSTIs. Oral therapy as a rule should be avoided in the initial treatment of severe infections. Clindamycin, trimethoprim–sulfamethoxazole and doxycycline are alternative choices for the treatment of mild to moderate SSTIs, depending upon the antibiotic susceptibility testing. For uncomplicated skin abscesses, the use of clindamycin or trimethoprim–sulfamethoxazole in conjunction with incision and drainage has been shown to improve clinical cure rates in the emergency department and other outpatient settings159,160.
+Systemic and severe infections.
+The current recommendations for clinical management of severe MRSA infections include intravenous vancomycin or daptomycin for bacteraemia and intravenous vancomycin or linezolid for hospital-acquired pneumonia161. For severe infections, oral linezolid should not be used for initial therapy. However, when the patient has become stable and can tolerate the oral route, a switch to oral linezolid is recommended. In the setting of infection related to the presence of a medical device (such as central venous catheters), successful treatment usually requires removal of the device when possible161.
+Glycopeptides (such as vancomycin and teicoplanin) have been the mainstay of intravenous treatment for MRSA infections. Vancomycin remains the cornerstone of empirical treatment for systemic infections potentially caused by MRSA, first because of its safety profile and second owing to lack of other fully approved alternatives161,162. Teicoplanin is also commonly used in Europe and has been found to be non-inferior to vancomycin in terms of all-cause mortality, with an improved safety profile, although few patients with serious infections were studied163(Table 3). Of note, glycopeptides have slower bactericidal activity than β-lactam agents, and penetration into tissues is poor.
+Recommendations have been made to increase vancomycin administration to achieve an appropriate ‘trough’ concentration (lowest concentration reached by the drug before the next dose is administered) and, in this way, to maximize the chances of microbiological and clinical cure (eradication of the organism as demonstrated by negative cultures and resolution of signs and symptoms of infection, respectively)161,164. Also, optimization of vancomycin therapy on the basis of pharmacokinetic and pharmacodynamic targets is becoming increasingly relevant, particularly as reports of the incidence of MRSA clinical isolates with minimum inhibitory concentrations (MICs) >1 microgram per millilitre (which is just below the breakpoint) are increasing in several settings. However, higher trough concentrations are associated with an increased risk of nephrotoxicity165and no clear improvement in outcome. Finally, vancomycin is administered in a continuous infusion instead of intermittent injections in some European countries166. However, there are insufficient data to make recommendations regarding this protocol166. In the presence of infections caused by MRSA strains with an MIC higher than the current breakpoint (>2 micrograms per millilitre), vancomycin is not effective, and an alternative agent should be administered167. Switching to daptomycin therapy, on the basis of the daptomycin MIC, should be done as early as possible once an elevated vancomycin MIC is confirmed. Alternative anti-MRSA antibiotics are increasingly being used, but it is important to note that they can have adverse effects, particularly linezolid168(Table 3). Of note, although reports of vancomycin failure have emerged for vancomycin intermediate-resistantS. aureus(VISA) and/or heterogeneous VISA (hVISA) infections, no data demonstrate superior outcomes with alternative antimicrobials agents (Box 1).
+Combination therapy.
+The duration of bacteraemia in patients with MRSA is twice as long as that in patients with MSSA infection169. The increased duration of bacteraemia is associated with complications (such as attributable mortality, complicated infection, embolic stroke or recurrentS. aureusinfection)170. Combination therapy to treatS. aureus(including MRSA) bacteraemia has been used in an attempt to increase bacterial killing, particularly for endocarditis therapy171. However, evidence that combination therapy improves outcomes is lacking171. Several studies have demonstrated in vitro synergy between vancomycin and gentamicin against many MRSA isolates172,173. However, this combination seemed to be numerically inferior to daptomycin alone in the treatment of MRSA bacteraemia and endocarditis in a randomized trial174. Thus, because even low dose gentamicin (1 milligram per kilogram every 8 hours) for a short duration has been associated with substantial nephrotoxicity175and because the clinical effectiveness of vancomycin plus gentamicin is not confirmed, combination therapy with aminoglycosides is difficult to justify176.
+Vancomycin and rifampicin combinations have also been studied, particularly in the context of biofilm infections177. However, the addition of rifampicin to vancomycin is not recommended for MRSA bacteraemia or native valve endocarditis161. In addition, a randomized controlled trial evaluating adjunctive rifampicin inS. aureus(including MRSA) bacteraemia found no overall benefit178.
+The combination of vancomycin and β-lactam antibiotics has shown synergistic bacterial killing in vitro179. However, sufficient clinical evidence in favour of this combination is lacking. In the CAMERA-1 trial (comparing vancomycin versus vancomycin plus flucloxacillin), the mean time to resolution of bacteraemia (primary outcome) in the combination group was 1.94 days, compared with 3.00 days in the vancomycin alone group. According to a negative binomial model, the mean time to resolution of bacteraemia in the combination group was 65% (95% CI 41–102%;P= 0.06) of that in the group that received intravenous vancomycin alone (that is, it was 35% lower), and there was no difference between the two groups in relation to the secondary end points179.
+Ceftaroline plus daptomycin could be another option for refractory staphylococcal bacteraemia. Ceftaroline offers dual benefit via synergy with daptomycin and sensitization to cathelicidin antimicrobial peptide-derived LL-37, a peptide of the host innate immune response; sensitization to cathelicidin could attenuate the virulence of the pathogen180(see New drugs and current pipeline). Other combinations (for example, daptomycin and rifampicin) might be promising options in biofilm-related infections181.
+Other considerations.
+In contrast to many other bacterial infections,S. aureus(including MRSA) infections often require a lengthy course of treatment because of the risk of late-onset complications such as abscesses, osteoarticular infection and other secondary foci caused by haematogenous or direct seeding. In cases of documented bacteraemia, the recommended minimum duration of treatment is 14 days161, as short-course therapy is currently not considered to be safe and effective.
+Options for salvage therapy, based on low-quality data, include linezolid, trimethoprim–sulfamethoxazole, ceftaroline, quinupristin–dalfopristin and telavancin. Tigecycline should be avoided, as it is bacteriostatic against MRSA and has a large volume of distribution with high concentrations in tissues but low concentrations in serum161. No data in MRSA bacteraemia are yet available for other recently approved agents (for example, ceftobiprole, dalbavancin, oritavancin or tedizolid).
+New drugs and current pipelineSeveral new agents have been approved for the treatment of SSTIs and in some cases for pneumonia (Fig. 5;Table 4). However, the efficacy and safety of these antibiotics for invasive infections, for which there is a real need, have largely not been demonstrated. The new treatment options have some advantages over older agents and will probably play a part in the therapy of severe MRSA infections in the near future.
+Ceftaroline and ceftobiprole are the first β-lactams with anti-MRSA activity. Use of the combination of daptomycin with an anti-staphylococcal β-lactam for refractory MRSA infections has been increasing. Multiple case reports have now documented success of the daptomycin–ceftaroline combination for MRSA bacteraemia and endocarditis182. Ceftobiprole for endocarditis has been studied in animal models only, with promising results183, with a single human case report of ceftobiprole plus daptomycin for MRSA endocarditis184. However, resistance to ceftaroline has been observed in MRSA strains185,186. Of particular concern are reports of resistance in clinical MRSA isolates from patients in geographical regions never exposed to the drug187.
+Teicoplanin, introduced in Europe in 1988, was the first natural agent of the lipoglycopeptides class. Synthetic and semisynthetic derivatives of lipoglycopeptides have been produced, including telavancin in 2009 and dalbavancin and oritavancin in 2014 (Ref.
+188). In 10 years of dalbavancin surveillance testing, only 0.35% ofS. aureusisolates exceeded the FDA susceptibility breakpoint and, therefore, were dalbavancin nonsusceptible189. However, the long half-life of dalbavancin could lead to prolonged periods of low-level drug exposure at the end of therapy, potentially increasing the risk of resistance selection190.
+Possible advantages of tedizolid over linezolid include once-daily dosing, better adverse effects profile and lower risk of development of spontaneous resistance and susceptibility to the ribosomal RNA large subunit methyltransferase Cfr mobile resistance mechanism. As experience increases, tedizolid may be an attractive alternative for long-term treatment of osteoarticular and central nervous system infections. Trials in pneumonia are underway.
+Ceftaroline, ceftobiprole, telavancin, dalbavancin and delafloxacin all require renal dose adjustment (that is, the antibiotic dose requires modification in individuals with impaired renal function).
+Quality of lifeClinical effectMRSA infections frequently complicate medical care and cause important treatment challenges. Most experts agree that β-lactam antibiotics are the optimal choice for treating invasive staphylococcal infections171. Thus, MRSA treatment relies on less efficacious (vancomycin) or more expensive (daptomycin or linezolid) therapeutic options. Owing to important prognostic cofactors such as potentially inadequate treatment, patient comorbidities and underlying illness, MRSA infections tend to have higher morbidity and mortality than MSSA infections191.
+However, the true clinical effect of methicillin resistance inS. aureusinfection has been overestimated owing to methodological shortcomings of studies192. More-recent studies using advanced analytical approaches accounting for potential confounders and competing events confirm a non-negligible effect, which is, however, less pronounced than previously hypothesized193,194. For instance, a large international retrospective cohort study in ten European hospitals with endemic MRSA reported that methicillin resistance inS. aureusbacteraemia was not significantly associated with increased probability of in-hospital mortality (adjusted HR 1.26; 95% CI 0.82–1.94) after adjusting for potential confounders and accounting for the timing of events195. In this study, both MSSA and MRSA bacteraemia led to prolonged length of hospital stay, with a nonsignificant difference of 2.5 days (95% CI –3.2 to 8.3) longer for patients with MRSA infection.
+Among patients with bacteraemia caused byS. aureus, methicillin resistance is associated with adverse health outcomes. Several studies show that patients with invasive MRSA infection might have diminished probability of long-term survival, regardless of the adequacy of initial treatment191,196. Furthermore, patients with MRSA infection can experience post-infection sequelae (such as the requirement for amputation owing to the higher risk of treatment failure for MRSA infections of prosthetic joints) and harmful adverse effects related to MRSA treatment197,198. Family members might be overwhelmed with caring for patients with MRSA infection in the community199. By contrast, MRSA carriage may not cause major concern per se, as shown in a Dutch study in which health-related quality of life was not decreased in otherwise healthy pig farmers carrying LA-MRSA200.
+Burden of diseaseMRSA infections add to the global burden of antibiotic resistance. Several studies have shown that increased incidence of HA-MRSA infection occurs in addition to infections caused by MSSA, increasing the total burden of disease201. Furthermore, once endemic levels of MRSA are reached in a clinical setting, physicians are required to treat patients empirically for MRSA in cases of severe nosocomial infection161. This probabilistic approach of adding vancomycin or linezolid to empiric antibiotic coverage might be continued for years, even after MRSA incidence has substantially declined202. Finally, MRSA control requires substantial infrastructure and productivity costs of surveillance, screening and isolation of MRSA carriers203. However, these MRSA control expenditures (for example, universal, nation-wide MRSA screening) may no longer be justified once MRSA prevalence has declined below specific thresholds145.
+OutlookVaccinesThe development of a vaccine could have an enormous effect on the incidence and outcome of MRSA infections. Indeed,S. aureuscarriers have more frequent infections, but the infections are less severe than those developed by non-carriers204, indicating that long-term exposure toS. aureusantigens can lead to protective immunity. A vaccine could prevent infections at the onset and would ideally also impairS. aureuscolonization, thereby strongly reducing the need for antibiotic treatment and extensive infection control measures205. Therapeutic monoclonal antibodies such as the passive vaccine against α-haemolysin by Medimmune (Gaithersburg, Maryland, USA) could provide new treatment opportunities, either alone or in combination with antibiotics. However, despite extensive research and development efforts, a protective vaccine againstS. aureuswill not become available in the next few years.
+Two monovalent vaccine candidates have previously been tested but failed to induce protective immunity in late clinical development. The StaphVax vaccine (Nabi Biopharmaceuticals, Rockville, Maryland, USA), containing the capsular polysaccharide 5 (CP5) and CP8 antigens, and the V710 (Merck, Kenilworth, New Jersey, USA) vaccine, containing the iron-regulated surface determinant protein B (IsdB) antigen, have been protective in animal models but not in placebo-controlled phase III trials206,207. The reasons for failure remain unclear but may be related to the fact that several importantS. aureusclones, including the major MRSA clone USA300, do not express any CPs, that the antigen preparations lacked adjuvants and that immune responses to the antigens used were not consistent enough. Moreover, there is a general concern that the extensive set ofS. aureusimmune evasion factors, such as immunoglobulin G (IgG)-binding protein A, could compromise the efficacy of antibodies, that opsonizing antibodies might not be sufficient to promote protection, whereas toxin-neutralizing antibodies might be equally or even more important, and that appropriate T cell-mediated immunity might be more crucial than previously thought208.
+Advances from basic science provide cues for new and hopefully more-successful vaccination approaches. Immunoproteomics studies have helped to elucidate the most immunogenic and protectiveS. aureusantigens209, and the cell wall glycopolymer wall teichoic acid (WTA) has been identified as a dominant surface antigen210. Several new toxins, whose neutralization by antibodies might contribute to protection, have been identified64. Moreover, it has become clearer which T cell subsets are required for anti-S. aureusimmunity211. Pharmaceutical companies continue to develop polyvalent anti-S. aureusvaccines based on surface proteins (ClfA) and polysaccharides (CP5 and CP8), secreted toxins (α-toxin, LukS-PV, ESAT-6 secretion system extracellular protein A (EsxA) and EsxB) and membrane-bound lipoproteins involved in nutrient uptake (manganese transport system membrane protein MntC and ferric hydroxamate receptor 2 (Fhud2))205. An innovative WTA-targeting monoclonal antibody conjugated to a rifampicin-related antibiotic showed protection in preclinical infection models212. There is hope that some of the ongoing vaccine development efforts may lead to successful completion of clinical trials.
+Research needs and prioritiesMRSA will probably always coexist with humanity. Despite the current focus on multidrug-resistant Gram-negative bacteria and the decline of HA-MRSA infections in some regions, the biomedical research community would be well advised not to abandon its diverse activities in the field of MRSA research. As highlighted by a 2017 WHO report213, MRSA remains among the high-priority multidrug-resistant organisms that need renewed efforts for the research and development of new antibiotics and innovative preventive approaches. In addition to protective vaccines, bacteriophages or bacteriophage-derived lytic proteins could be used for new protective strategies, for instance, for nasal MRSA decolonization in an era of increasing mupirocin resistance214. Overall, there are still many knowledge gaps and important challenges to tackle (Box 2), which require ongoing attention from researchers, policy makers and funders as well as those responsible for MRSA treatment and control.
+MRSA has demonstrated its remarkable ability to evolve and disseminate widely in the 60 years since it was first recognized. Several factors, including a better understanding of the pathogenesis of infection, accurate and rapid diagnostics, ensuring the availability of effective treatment options and optimization of the prevention of transmission and infection, will ultimately facilitate control of this highly successful pathogen.
+Box 2: Future research needsLife cycle and survival fitness of successful methicillin-resistantStaphylococcus aureus(MRSA) clones: prediction modelling and simulation of future introduction of successful community-associated MRSA strains into the health-care environmentVirulence mechanisms: development of new inhibition strategies targeted to prevention and treatment of invasive MRSA infectionsInterplay between the host,S. aureusand competing nasal microbiota: microbiome studies on the competition betweenS. aureusand other commensal microbiotaNew decolonization regimens and approaches to decrease risk of MRSA infection: development and clinical evaluation of new drugs, vaccines and other preventive strategiesNovel treatment approaches: discovery of inhibitors of theS. aureusstringent stress response or otherS. aureusfactors that can sensitize MRSA to β-lactam antibiotics103Whole-genome sequencing (WGS): effectiveness studies on WGS usefulness for clinical diagnostics and rapid antibiotic susceptibility testingBiomarkers: rapid molecular diagnostic tools and biomarkers for individual risk-profiling and treatment approachesMRSA reservoirs in animals: determinants of MRSA host tropism and host jumpsPublisher's noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Reviewer informationNature Reviews Disease Primerswould like to thank L. Cui, P. Wilson and other anonymous reviewer(s) for their contribution to the peer review of this work.
+Related linksCDDEP Resistance MapClinicalTrials.govEuropean Medicines AgencyInternational Working Group on the Staphylococcal Cassette Chromosome elementsList of Prokaryotic names with Standing in NomenclatureSurveillance Atlas of Infectious DiseasesUS Food and Drug AdministrationReferencesWertheim, H. F. et al. The role of nasal carriage inStaphylococcus aureusinfections.
+Lancet Infect. Dis.
+5, 751–762 (2005).
+PubMedGoogle ScholarBecker, K. et al.
+Staphylococcus aureusfrom the German general population is highly diverse.
+Int. J. Med. Microbiol.
+307, 21–27 (2017).
+CASPubMedGoogle ScholarKuehnert, M. J. et al. Prevalence ofStaphylococcus aureusnasal colonization in the United States, 2001–2002.
+J. Infect. Dis.
+193, 172–179 (2006).
+CASPubMedGoogle ScholarLowy, F. D.
+Staphylococcus aureusinfections.
+N. Engi J. Med.
+339, 520–532 (1998).
+CASGoogle ScholarJevons, M. “Celbenin”-resistant staphylococci.
+BMJ1, 124–125 (1961).
+Google ScholarDzintars, K. inKucers’ The Use of Antibiotics(eds Grayson, M. et al.) 136–142 (CRC Press, 2018).
+Google ScholarChambers, H. F. & Deleo, F. R. Waves of resistance:Staphylococcus aureusin the antibiotic era.
+Nat. Rev. Microbiol.
+7, 629–641 (2009).
+This is an in-depth review of the clinical and molecular epidemiology ofS. aureus,including MRSA, with an emphasis on CA-MRSA.
+CASPubMedPubMed CentralGoogle ScholarFaoagali, J. L., Thong, M. L. & Grant, D. Ten years’ experience with methicillin-resistantStaphylococcus aureusin a large Australian hospital.
+J. Hosp. Infect.
+20, 113–119 (1992).
+CASPubMedGoogle ScholarFridkin, S. K. et al. Methicillin-resistantStaphylococcus aureusdisease in three communities.
+N. Engl. J. Med.
+352, 1436–1444 (2005).
+CASPubMedGoogle ScholarVoss, A., Loeffen, F., Bakker, J., Klaassen, C. & Wulf, M. Methicillin-resistantStaphylococcus aureusin pig farming.
+Emerg. Infect. Dis.
+11, 1965–1966 (2005).
+PubMedPubMed CentralGoogle ScholarTenover, F. C. et al. Interpreting chromosomal DNA restriction patterns produced by pulsed-field gel electrophoresis: criteria for bacterial strain typing.
+J. Clin. Microbiol.
+33, 2233–2239 (1995).
+CASPubMedPubMed CentralGoogle ScholarIto, T., Katayama, Y. & Hiramatsu, K. Cloning and nucleotide sequence determination of the entire mec DNA of pre-methicillin-resistantStaphylococcus aureusN315.
+Antimicrob. Agents Chemother43, 1449–1458 (1999).
+CASPubMedPubMed CentralGoogle ScholarHarkins, C. P. et al. Methicillin-resistantStaphylococcus aureusemerged long before the introduction of methicillin into clinical practice.
+Genome Biol.
+18, 130 (2017).
+PubMedPubMed CentralGoogle ScholarDiekema, D. J. et al. Survey of infections due to Staphylococcus species: frequency of occurrence and antimicrobial susceptibility of isolates collected in the United States, Canada, Latin America, Europe, and the Western Pacific region for the SENTRY Antimicrobial Surveillance Program, 1997–1999.
+Clin. Infect. Dis.
+32(Suppl. 2), S114–S132 (2001).
+CASPubMedGoogle ScholarEnright, M. C., Day, N. P., Davies, C. E., Peacock, S. J. & Spratt, B. G. Multilocus sequence typing for characterization of methicillin-resistant and methicillin-susceptible clones of Staphylococcus aureus.
+J. Clin. Microbiol.
+38, 1008–1015 (2000).
+CASPubMedPubMed CentralGoogle ScholarMonecke, S. et al. A field guide to pandemic, epidemic and sporadic clones of methicillin-resistant Staphylococcus aureus.
+PLoS ONE6, e17936 (2011).
+CASPubMedPubMed CentralGoogle Scholar[No authors listed.] European Antimicrobial Resistance Surveillance Network (EARS-Net).
+European Centre for Disease Prevention and Controlhttp://ecdc.europa.eu/en/activities/surveillance/EARS-Net/Pages/index.aspx(2018).
+Kock, R. et al. Methicillin-resistantStaphylococcus aureus(MRSA): burden of disease and control challenges in Europe.
+Eurosurveillance15, 19688 (2010).
+CASPubMedGoogle ScholarNielsen, K. L. et al. Fitness cost: a bacteriological explanation for the demise of the first international methicillin-resistantStaphylococcus aureusepidemic.
+J. Antimicrob. Chemother.
+67, 1325–1332 (2012).
+CASPubMedGoogle ScholarRolain, J. M., Abat, C., Brouqui, P. & Raoult, D. Worldwide decrease in methicillin-resistant Staphylococcus aureus: do we understand something?Clin. Microbiol. Infect.
+21, 515–517 (2015).
+PubMedGoogle ScholarGarcia- Alvarez, L., Dawson, S., Cookson, B. & Hawkey, P. Working across the veterinary and human health sectors.
+J. Antimicrob. Chemother.
+67(Suppl. 1), Í37–Í49 (2012).
+Google Scholarvan Alen, S. et al. In the centre of an epidemic: fifteen years of LA-MRSA CC398 at the University Hospital Munster.
+Vet. Microbiol.
+200, 19–24 (2017).
+CASPubMedGoogle ScholarLozano, C. et al. High prevalence of spa types associated with the clonal lineage CC398 among tetracycline-resistant methicillin-resistantStaphylococcus aureusstrains in a Spanish hospital.
+J. Antimicrob. Chemother.
+67, 330–334 (2012).
+CASPubMedGoogle Scholarvan Cleef, B. A. et al. Livestock-associated methicillin-resistantStaphylococcus aureusin humans, Europe.
+Emerg. Infect. Dis.
+17, 502–505 (2011).
+PubMedPubMed CentralGoogle ScholarLarsen, J. et al. Meticillin-resistantStaphylococcus aureusCC398 is an increasing cause of disease in people with no livestock contact in Denmark, 1999 to 2011.
+Eurosurveillance20, 30021 (2015).
+Google ScholarHetem, D. J., Bootsma, M. C., Troelstra, A. & Bonten, M. J. Transmissibility of livestock-associated methicillin-resistantStaphylococcus aureus. Emerg. Infect. Dis.
+19, 1797–1802 (2013).
+PubMedGoogle ScholarStyers, D., Sheehan, D. J., Hogan, P. & Sahm, D. F. Laboratory-based surveillance of current antimicrobial resistance patterns and trends among Staphylococcus aureus: 2005 status in the United States.
+Ann. Clin. Microbiol. Antimicrob.
+5, 2 (2006).
+PubMedPubMed CentralGoogle ScholarTalan, D. A. et al. Comparison ofStaphylococcus aureusfrom skin and soft-tissue infections in US emergency department patients, 2004 and 2008.
+Clin. Infect. Dis.
+53, 144–149 (2011).
+PubMedGoogle ScholarMoran, G. J. et al. Methicillin-resistantS. aureusinfections among patients in the emergency department.
+N. Engl. J. Med.
+355, 666–674 (2006).
+CASPubMedGoogle ScholarSeybold, U. et al. Emergence of community-associated methicillin-resistantStaphylococcus aureusUSA300 genotype as a major cause of health care-associated blood stream infections.
+Clin. Infect. Dis.
+42, 647–656 (2006).
+CASPubMedGoogle ScholarPopovich, K. J., Weinstein, R. A. & Hota, B. Are community-associated methicillin-resistantStaphylococcus aureus(MRSA) strains replacing traditional nosocomial MRSA strains?Clin. Infect. Dis.
+46, 787–794 (2008).
+PubMedGoogle ScholarPlanet, P. J. et al. Parallel epidemics of community-associated methicillin-resistantStaphylococcus aureusUSA300 infection in North and South America.
+J. Infect. Dis.
+212, 1874–1882 (2015).
+CASPubMedPubMed CentralGoogle ScholarVon Dach, E. et al. Comparative genomics of community-associated methicillin-resistantStaphylococcus aureusshows the emergence of clone ST8-USA300 in Geneva, Switzerland.
+J. Infect. Dis.
+213, 1370–1379 (2016).
+CASPubMedGoogle ScholarDantes, R. et al. National burden of invasive methicillin-resistantStaphylococcus aureusinfections, United States, 2011.
+JAMA Intern. Med.
+173, 1970–1978 (2013).
+PubMedGoogle ScholarJain, R. et al. Veterans Affairs initiative to prevent methicillin-resistantStaphylococcus aureusinfections.
+N. Engl. J. Med.
+364, 1419–1430 (2011).
+CASPubMedGoogle ScholarLee, G. M. et al. Effect of nonpayment for preventable infections in U. S. hospitals.
+N. Engl. J. Med.
+367, 1428–1437 (2012).
+CASPubMedGoogle ScholarChen, C. J. & Huang, Y. C. New epidemiology ofStaphylococcus aureusinfection in Asia.
+Clin. Microbiol. Infect.
+20, 605–623 (2014).
+CASPubMedGoogle ScholarMendes, R. E. et al. Regional resistance surveillance program results for 12 Asia-Pacific nations (2011).
+Antimicrob. Agents Chemother.
+57, 5721–5726 (2013).
+CASPubMedPubMed CentralGoogle ScholarLai, C. C., Lin, S. H., Sheng, W. H. & Hsueh, P. R. Decrease in the incidence of meticillin-resistantStaphylococcus aureusnosocomial bloodstream infections in Taiwan.
+Int. J. Antimicrob. Agents41, 591–592 (2013).
+CASPubMedPubMed CentralGoogle Scholar[No authors listed.] Australian Group on Antimicrobial Resistance (AGAR).
+AGAR Grouphttp://www.agargroup.org.au/(2018).
+Mitchell, B. G., Collignon, P. J., McCann, R., Wilkinson, I. J. & Wells, A. A major reduction in hospital-onsetStaphylococcus aureusbacteremia in Australia-12 years of progress: an observational study.
+Clin. Infect. Dis.
+59, 969–975 (2014).
+PubMedGoogle ScholarWilliamson, D. A., Coombs, G. W. & Nimmo, G. R.
+Staphylococcus aureus‘Down Under’: contemporary epidemiology ofS. aureusin Australia, New Zealand, and the South West Pacific.
+Clin. Microbiol. Infect.
+20, 597–604 (2014).
+CASPubMedGoogle ScholarFalagas, M. E., Karageorgopoulos, D. E., Leptidis, J. & Korbila, I. P. MRSA in Africa: filling the global map of antimicrobial resistance.
+PLoS ONE8, e68024 (2013).
+PubMedPubMed CentralGoogle ScholarBrink, A., Moolman, J., da Silva, M. C., Botha, M. & National Antibiotic Surveillance Forum. Antimicrobial susceptibility profile of selected bacteraemic pathogens from private institutions in South Africa. S.
+Afr. Med. J.
+97, 273–279 (2007).
+CASGoogle ScholarJansen van Rensburg, M. J., Whitelaw, A. C. & Elisha, B. G. Genetic basis of rifampicin resistance in methicillin-resistantStaphylococcus aureussuggests clonal expansion in hospitals in Cape Town, South Africa.
+BMC Microbiol.
+12, 46 (2012).
+CASPubMedPubMed CentralGoogle ScholarZervou, F. N., Zacharioudakis, I. M., Ziakas, P. D., Rich, J. D. & Mylonakis, E. Prevalence of and risk factors for methicillin-resistantStaphylococcus aureuscolonization in HIV infection: a meta-analysis.
+Clin. Infect. Dis.
+59, 1302–1311 (2014).
+CASPubMedPubMed CentralGoogle ScholarKluytmans, J., van Belkum, A. & Verbrugh, H. Nasal carriage of Staphylococcus aureus: epidemiology, underlying mechanisms, and associated risks.
+Clin. Microbiol. Rev.
+10, 505–520 (1997).
+This is a comprehensive review of staphylococcal nasal colonization including its clinical relevance.
+CASPubMedPubMed CentralGoogle ScholarSim, B. L., McBryde, E., Street, A. C. & Marshall, C. Multiple site surveillance cultures as a predictor of methicillin-resistantStaphylococcus aureusinfections.
+Infect. Control Hosp. Epidemiol.
+34, 818–824 (2013).
+PubMedGoogle ScholarEriksen, N. H., Espersen, F., Rosdahl, V. T. & Jensen, K. Carriage ofStaphylococcus aureusamong 104 healthy persons during a 19-month period.
+Epidemiol. Infect.
+115, 51–60 (1995).
+CASPubMedPubMed CentralGoogle ScholarHoffler, U., Bulanda, M., Heczko, P. B. & Pulverer, G. A comparison of staphylococcal nasal carrier rates in Germany and Poland.
+Med. Microbiol. Immunol.
+164, 285–290 (1978).
+CASPubMedGoogle ScholarEmonts, M. et al. Host polymorphisms in interleukin 4, complement factor H, and C-reactive protein associated with nasal carriage ofStaphylococcus aureusand occurrence of boils.
+J. Infect. Dis.
+197, 1244–1253 (2008).
+CASPubMedGoogle ScholarLucet, J. C. et al. Carriage of methicillin-resistantStaphylococcus aureusin home care settings: prevalence, duration, and transmission to household members.
+Arch. Intern. Med.
+169, 1372–1378 (2009).
+PubMedGoogle ScholarBurian, M. et al. Temporal expression of adhesion factors and activity of global regulators during establishment ofStaphylococcus aureusnasal colonization.
+J. Infect. Dis.
+201, 1414–1421 (2010).
+CASPubMedGoogle ScholarWeidenmaier, C. et al. Differential roles of sortase-anchored surface proteins and wall teichoic acid inStaphylococcus aureusnasal colonization.
+Int. J. Med. Microbiol.
+298, 505–513 (2008).
+CASPubMedGoogle ScholarWertheim, H. F. et al. Key role for clumping factor B inStaphylococcus aureusnasal colonization of humans.
+PLoS Med.
+5, e17 (2008).
+PubMedPubMed CentralGoogle ScholarO’Brien, L. M., Walsh, E. J., Massey, R. C., Peacock, S. J. & Foster, T. J.
+Staphylococcus aureusclumping factor B (ClfB) promotes adherence to human type I cytokeratin 10: implications for nasal colonization.
+Cell. Microbiol.
+4, 759–770 (2002).
+PubMedGoogle ScholarLiu, C. M. et al.
+Staphylococcus aureusand the ecology of the nasal microbiome.
+Sci. Adv.
+1, e1400216 (2015).
+PubMedPubMed CentralGoogle ScholarLemon, K. P. et al. Comparative analyses of the bacterial microbiota of the human nostril and oropharynx.
+mBio1, e00129–10 (2010).
+PubMedPubMed CentralGoogle ScholarKrismer, B. et al. Nutrient limitation governsStaphylococcus aureusmetabolism and niche adaptation in the human nose.
+PLoS Pathog.
+10, e1003862 (2014).
+PubMedPubMed CentralGoogle ScholarZipperer, A. et al. Human commensals producing a novel antibiotic impair pathogen colonization.
+Nature535, 511–516 (2016).
+CASPubMedGoogle ScholarKaspar, U. et al. The culturome of the human nose habitats reveals individual bacterial fingerprint patterns.
+Environ. Microbiol.
+18, 2130–2142 (2016).
+CASPubMedGoogle ScholarKrismer, B., Weidenmaier, C., Zipperer, A. & Peschel, A. The commensal lifestyle ofStaphylococcus aureusand its interactions with the nasal microbiota.
+Nat. Rev. Microbiol.
+15, 675–687 (2017).
+This review provides a detailed discussion of the complex interplay betweenS. aureusand other organisms that form part of the nasal microbiota.
+CASPubMedGoogle ScholarBoyle-Vavra, S. et al. USA300 and USA500 clonal lineages ofStaphylococcus aureusdo not produce a capsular polysaccharide due to conserved mutations in the cap5 locus.
+mBio6, e02585–14 (2015).
+PubMedPubMed CentralGoogle ScholarSpaan, A. N., van Strijp, J. A. G. & Torres, V. J. Leukocidins: staphylococcal bi-component pore-forming toxins find their receptors.
+Nat. Rev. Microbiol.
+15, 435–447 (2017).
+This is a comprehensive overview of the various pore-forming protein toxins and their cognate host receptors.
+CASPubMedPubMed CentralGoogle ScholarLaabei, M. et al. Predicting the virulence of MRSA from its genome sequence.
+Genome Res.
+24, 839–849 (2014).
+CASPubMedPubMed CentralGoogle ScholarThammavongsa, V., Kim, H. K., Missiakas, D. & Schneewind, O. Staphylococcal manipulation of host immune responses.
+Nat. Rev. Microbiol.
+13, 529–543 (2015).
+CASPubMedPubMed CentralGoogle ScholarRecker, M. et al. Clonal differences inStaphylococcus aureusbacteraemia-associated mortality.
+Nat. Microbiol.
+2, 1381–1388 (2017).
+This paper reveals how differentS. aureuslineages have adopted different strategies to overcome host responses and cause severe pathology.
+CASPubMedGoogle ScholarKluytmans, J. A. et al. Nasal carriage ofStaphylococcus aureusas a major risk factor for wound infections after cardiac surgery.
+J. Infect. Dis.
+171, 216–219 (1995).
+CASPubMedGoogle Scholarvon Eiff, C., Becker, K., Machka, K., Stammer, H. & Peters, G. Nasal carriage as a source ofStaphylococcus aureusbacteremia.
+N. Engl. J. Med.
+344, 11–16 (2001).
+CASPubMedGoogle ScholarFoster, T. J., Geoghegan, J. A., Ganesh, V. K. & Hook, M. Adhesion, invasion and evasion: the many functions of the surface proteins of Staphylococcus aureus.
+Nat. Rev. Microbiol.
+12, 49–62 (2014).
+CASPubMedPubMed CentralGoogle ScholarVanhommerig, E. et al. Comparison of biofilm formation between major clonal lineages of methicillin resistant Staphylococcus aureus.
+PLoS ONE9, e104561 (2014).
+PubMedPubMed CentralGoogle ScholarSpaan, A. N., Surewaard, B. G., Nijland, R. & van Strijp, J. A. Neutrophils versus Staphylococcus aureus: a biological tug of war.
+Annu. Rev. Microbiol.
+67, 629–650 (2013).
+CASPubMedGoogle ScholarHanzelmann, D. et al. Toll-like receptor 2 activation depends on lipopeptide shedding by bacterial surfactants.
+Nat. Commun.
+7, 12304 (2016).
+CASPubMedPubMed CentralGoogle ScholarCheng, A. G., DeDent, A. C., Schneewind, O. & Missiakas, D. A play in four acts:Staphylococcus aureusabscess formation.
+Trends Microbiol.
+19, 225–232 (2011).
+CASPubMedPubMed CentralGoogle ScholarLaarman, A., Milder, F., van Strijp, J. & Rooijakkers, S. Complement inhibition by gram-positive pathogens: molecular mechanisms and therapeutic implications.
+J. Mol. Med.
+88, 115–120 (2010).
+CASPubMedPubMed CentralGoogle ScholarStapels, D. A. et al.
+Staphylococcus aureussecretes a unique class of neutrophil serine protease inhibitors.
+Proc. Natl Acad. Sci. USA111, 13187–13192 (2014).
+CASPubMedGoogle ScholarPeschel, A. & Sahl, H. G. The co-evolution of host cationic antimicrobial peptides and microbial resistance.
+Nat. Rev. Microbiol.
+4, 529–536 (2006).
+CASPubMedGoogle ScholarLoffler, B. et al.
+Staphylococcus aureuspanton–valentine leukocidin is a very potent cytotoxic factor for human neutrophils.
+PLoS Pathog.
+6, e1000715 (2010).
+PubMedPubMed CentralGoogle ScholarSpaulding, A. R. et al. Staphylococcal and streptococcal superantigen exotoxins.
+Clin. Microbiol. Rev.
+26, 422–447 (2013).
+CASPubMedPubMed CentralGoogle ScholarChavakis, T., Wiechmann, K., Preissner, K. T. & Herrmann, M.
+Staphylococcus aureusinteractions with the endothelium: the role of bacterial “secretable expanded repertoire adhesive molecules” (SERAM) in disturbing host defense systems.
+Thromb. Haemost.
+94, 278–285 (2005).
+CASPubMedGoogle ScholarWeidenmaier, C. et al. Lack of wall teichoic acids inStaphylococcus aureusleads to reduced interactions with endothelial cells and to attenuated virulence in a rabbit model of endocarditis.
+J. Infect. Dis.
+191, 1771–1777 (2005).
+CASPubMedGoogle ScholarLoffler, B., Tuchscherr, L., Niemann, S. & Peters, G.
+Staphylococcus aureuspersistence in non-professional phagocytes.
+Int. J. Med. Microbiol.
+304, 170–176 (2014).
+PubMedGoogle ScholarThomer, L., Schneewind, O. & Missiakas, D. Pathogenesis ofStaphylococcus aureusbloodstream infections.
+Annu. Rev. Pathol.
+11, 343–364 (2016).
+CASPubMedPubMed CentralGoogle ScholarLe, K. Y. & Otto, M. Quorum-sensing regulation in staphylococci-an overview.
+Front. Microbiol.
+6, 1174 (2015).
+PubMedPubMed CentralGoogle ScholarCheung, G. Y., Wang, R., Khan, B. A., Sturdevant, D. E. & Otto, M. Role of the accessory gene regulator agr in community-associated methicillin-resistantStaphylococcus aureuspathogenesis.
+Infect. Immun.
+79, 1927–1935 (2011).
+CASPubMedPubMed CentralGoogle ScholarKaito, C. et al. Mobile genetic element SCCmec-encoded psm-mec RNA suppresses translation of agrA and attenuates MRSA virulence.
+PLoS Pathog.
+9, e1003269 (2013).
+CASPubMedPubMed CentralGoogle ScholarPainter, K. L., Krishna, A., Wigneshweraraj, S. & Edwards, A. M. What role does the quorum-sensing accessory gene regulator system play duringStaphylococcus aureusbacteremia?Trends Microbiol.
+22, 676–685 (2014).
+CASPubMedGoogle ScholarCrisostomo, M. I. et al. The evolution of methicillin resistance inStaphylococcus aureus:similarity of genetic backgrounds in historically early methicillin-susceptible and -resistant isolates and contemporary epidemic clones.
+Proc. Natl Acad. Sci. USA98, 9865–9870 (2001).
+CASPubMedGoogle ScholarInternational Working Group on the Classification of Staphylococcal Cassette Chromosome Elements (IWG-SCC). Classification of staphylococcal cassette chromosome mec (SCCmec): guidelines for reporting novel SCCmec elements.
+Antimicrob. Agents Chemother.
+53, 4961–4967 (2009).
+This paper describes the main SCCmec types and the nomenclature to be followed for the naming of new SCCmec types.
+Google ScholarBal, A. M. et al. Genomic insights into the emergence and spread of international clones of healthcare-, community- and livestock-associated meticillin-resistant Staphylococcus aureus: Blurring of the traditional definitions.
+J. Glob. Antimicrob. Resist6, 95–101 (2016).
+CASPubMedGoogle ScholarHartman, B. J. & Tomasz, A. Low-affinity penicillin-binding protein associated with beta-lactam resistance in Staphylococcus aureus.
+J. Bacteriol.
+158, 513–516 (1984).
+CASPubMedPubMed CentralGoogle ScholarGarcia-Alvarez, L. et al. Meticillin-resistantStaphylococcus aureuswith a novel mecA homologue in human and bovine populations in the UK and Denmark: a descriptive study.
+Lancet Infect. Dis.
+11, 595–603 (2011).
+CASPubMedPubMed CentralGoogle ScholarKim, C. et al. Properties of a novel PBP2A protein homolog fromStaphylococcus aureusstrain LGA251 and its contribution to the beta-lactam-resistant phenotype.
+J. Biol. Chem.
+287, 36854–36863 (2012).
+CASPubMedPubMed CentralGoogle ScholarMilheirico, C., de Lencastre, H. & Tomasz, A. Full-genome sequencing identifies in the genetic background several determinants that modulate the resistance phenotype in methicillin-resistantStaphylococcus aureusstrains carrying the novel mecC gene.
+Antimicrob. Agents Chemother.
+61, e02500–16 (2017).
+CASPubMedPubMed CentralGoogle ScholarBecker, K. et al. Plasmid-encoded transferable mecB-mediated methicillin resistance inStaphylococcus aureus. Emerg. Infect. Dis.
+24, 242–248 (2018).
+CASPubMedGoogle ScholarHiramatsu, K., Asada, K., Suzuki, E., Okonogi, K. & Yokota, T. Molecular cloning and nucleotide sequence determination of the regulator region of mecA gene in methicillin-resistantStaphylococcus aureus(MRSA).
+FEBSLett.
+298, 133–136 (1992).
+CASGoogle ScholarArede, P., Milheirico, C., de Lencastre, H. & Oliveira, D. C. The anti-repressor MecR2 promotes the proteolysis of the mecA repressor and enables optimal expression of beta-lactam resistance in MRSA.
+PLoS Pathog.
+8, e1002816 (2012).
+CASPubMedPubMed CentralGoogle ScholarZhang, H. Z., Hackbarth, C. J., Chansky, K. M. & ≈Chambers, H. F. A proteolytic transmembrane signaling pathway and resistance to beta-lactams in staphylococci.
+Science291, 1962–1965 (2001).
+CASPubMedGoogle ScholarDe Lencastre, H. et al. Antibiotic resistance as a stress response: complete sequencing of a large number of chromosomal loci inStaphylococcus aureusstrain COL that impact on the expression of resistance to methicillin.
+Microb. Drug Resist5, 163–175 (1999).
+PubMedGoogle ScholarKim, C. et al. The mechanism of heterogeneous beta-lactam resistance in MRSA: key role of the stringent stress response.
+PLoS ONE8, e82814 (2013).
+PubMedPubMed CentralGoogle ScholarBoyle-Vavra, S., Yin, S. & Daum, R. S. The VraS/VraR two-component regulatory system required for oxacillin resistance in community-acquired methicillin-resistant Staphylococcus aureus.
+FEMS Microbiol. Lett.
+262, 163–171 (2006).
+CASPubMedGoogle ScholarJousselin, A. et al. TheStaphylococcus aureuschaperone PrsA is a new auxiliary factor of oxacillin resistance affecting penicillin-binding protein 2A.
+Antimicrob. Agents Chemother60, 1656–1666 (2015).
+PubMedGoogle ScholarKim, C. K., Milheirico, C., de Lencastre, H. & Tomasz, A. Antibiotic resistance as a stress response: recovery of high-level oxacillin resistance in methicillin-resistantStaphylococcus aureus“Auxiliary” (fem) mutants by induction of the stringent stress response.
+Antimicrob. Agents Chemother61, e00313-17 (2017).
+PubMedPubMed CentralGoogle ScholarGardete, S. & Tomasz, A. Mechanisms of vancomycin resistance inStaphylococcus aureus. J. Clin. Invest.
+124, 2836–2840 (2014).
+This is a comprehensive review of the mechanisms of vancomycin resistance inS. aureus.
+PubMedGoogle ScholarKlevens, R. M. et al. Invasive methicillin-resistantStaphylococcus aureusinfections in the United States.
+JAMA298, 1763–1771 (2007).
+CASPubMedGoogle ScholarEpstein, L. et al. Risk factors for invasive methicillin-resistantStaphylococcus aureusinfection after recent discharge from an acute-care hospitalization, 2011–2013.
+Clin. Infect. Dis.
+62, 45–52 (2016).
+PubMedGoogle ScholarDavis, K. A., Stewart, J. J., Crouch, H. K., Florez, C. E. & Hospenthal, D. R. Methicillin-resistantStaphylococcus aureus(MRSA) nares colonization at hospital admission and its effect on subsequent MRSA infection.
+Clin. Infect. Dis.
+39, 776–782 (2004).
+PubMedGoogle ScholarFrancis, J. S. et al. Severe community-onset pneumonia in healthy adults caused by methicillin-resistantStaphylococcus aureuscarrying the Panton–Valentine leukocidin genes.
+Clin. Infect. Dis.
+40, 100–107 (2005).
+PubMedGoogle ScholarMiller, L. G. et al. Necrotizing fasciitis caused by community-associated methicillin-resistantStaphylococcus aureusin Los Angeles.
+N. Engl. J. Med.
+352, 1445–1453 (2005).
+CASPubMedGoogle ScholarKazakova, S. V. et al. A clone of methicillin-resistantStaphylococcus aureusamong professional football players.
+N. Engl. J. Med.
+352, 468–475 (2005).
+CASPubMedGoogle ScholarAiello, A. E., Lowy, F. D., Wright, L. N. & Larson, E. L. Meticillin-resistantStaphylococcus aureusamong US prisoners and military personnel: review and recommendations for future studies.
+Lancet Infect. Dis.
+6, 335–341 (2006).
+PubMedGoogle ScholarDrougka, E. et al. A 12-year survey of methicillin-resistantStaphylococcus aureusinfections in Greece: ST80-IV epidemic?Clin. Microbiol. Infect.
+20, O796–803 (2014).
+CASPubMedGoogle ScholarClinical and Laboratory Standards Institute.
+M100-S23. Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Third Informational Supplement(CLSI, 2013).
+Ryffel, C., Strassle, A., Kayser, F. H. & Berger-Bachi, B. Mechanisms of heteroresistance in methicillin-resistant Staphylococcus aureus.
+Antimicrob. Agents Chemother.
+38, 724–728 (1994).
+CASPubMedPubMed CentralGoogle ScholarPenn, C. et al. Wound infections caused by inducible meticillin-resistantStaphylococcus aureusstrains.
+J. Glob. Antimicrob. Resist1, 79–83 (2013).
+PubMedGoogle ScholarWinstanley, T. & Courvalin, P. Expert systems in clinical microbiology.
+Clin. Microbiol. Rev.
+24, 515–556 (2011).
+This reference is a good overview of automated systems for the detection of resistance mechanisms with a critical review of published evaluations of the performance of each system.
+PubMedPubMed CentralGoogle ScholarBhowmick, T. et al. Controlled multicenter evaluation of a bacteriophage-based method for rapid detection ofStaphylococcus aureusin positive blood cultures.
+J. Clin. Microbiol.
+51, 1226–1230 (2013).
+CASPubMedPubMed CentralGoogle ScholarOpota, O., Croxatto, A., Prod’hom, G. & Greub, G. Blood culture-based diagnosis of bacteraemia: state of the art.
+Clin. Microbiol. Infect.
+21, 313–322 (2015).
+CASPubMedGoogle ScholarRomero-Gomez, M. P., Cendejas-Bueno, E., Garcia Rodriguez, J. & Mingorance, J. Impact of rapid diagnosis ofStaphylococcus aureusbacteremia from positive blood cultures on patient management.
+Eur. J. Clin. Microbiol. Infect. Dis.
+36, 2469–2473 (2017).
+CASPubMedGoogle ScholarMalhotra-Kumar, S. et al. Current trends in rapid diagnostics for methicillin-resistantStaphylococcus aureusand glycopeptide-resistant enterococcus species.
+J. Clin. Microbiol.
+46, 1577–1587 (2008).
+PubMedPubMed CentralGoogle ScholarMalhotra- Kumar, S. et al. Evaluation of molecular assays for rapid detection of methicillin-resistant Staphylococcus aureus.
+J. Clin. Microbiol.
+48, 4598–4601 (2010).
+Google ScholarBlaschke, A. J. et al. Rapid identification of pathogens from positive blood cultures by multiplex polymerase chain reaction using the FilmArray system.
+Diagnost. Microbiol. Infect. Dis.
+74, 349–355 (2012).
+CASGoogle ScholarAlmuhayawi, M., Altun, O., Stralin, K. & Ozenci, V. Identification of microorganisms by FilmArray and matrix-assisted laser desorption ionization-time of flight mass spectrometry prior to positivity in the blood culture system.
+J. Clin. Microbiol.
+52, 3230–3236 (2014).
+CASPubMedPubMed CentralGoogle ScholarCao, M. D. et al. Streaming algorithms for identification of pathogens and antibiotic resistance potential from real-time MinION(TM) sequencing.
+GigaScience5, 32 (2016).
+PubMedPubMed CentralGoogle ScholarAanensen, D. M. et al. Whole-genome sequencing for routine pathogen surveillance in public health: a population snapshot of invasiveStaphylococcus aureusin Europe.
+mBio7, e00444-16 (2016).
+PubMedPubMed CentralGoogle ScholarKoser, C. U. et al. Rapid whole-genome sequencing for investigation of a neonatal MRSA outbreak.
+N. Engl. J. Med.
+366, 2267–2275 (2012).
+CASPubMedPubMed CentralGoogle ScholarMillar, E. V. et al. Genomic characterization of USA300 methicillin-resistantStaphylococcus aureus(MRSA) to evaluate intraclass transmission and recurrence of skin and soft tissue infection (SSTI) among high-risk military trainees.
+Clin. Infect. Dis.
+65, 461–468 (2017).
+PubMedPubMed CentralGoogle ScholarMerlino, J., Leroi, M., Bradbury, R., Veal, D. & Harbour, C. New chromogenic identification and detection ofStaphylococcus aureusand methicillin-resistantS. aureus.
+J. Clin. Microbiol.
+38, 2378–2380 (2000).
+CASPubMedPubMed CentralGoogle ScholarPerry, J. D. A. Decade of development of chromogenic culture media for clinical microbiology in an era of molecular diagnostics.
+Clin. Microbiol. Rev.
+30, 449–479 (2017).
+Tqhis is a comprehensive reference reviewing rapid culture methods for the detection of MRSA and other multidrug-resistant organisms.
+CASPubMedPubMed CentralGoogle ScholarGazin, M. et al. Culture-based detection of methicillin-resistantStaphylococcus aureusby a network of European laboratories: an external quality assessment study.
+Eur. J. Clin. Microbiol. Infect. Dis.
+31, 1765–1770 (2012).
+CASPubMedGoogle ScholarLuthje, P. et al. Identification of microorganisms grown on chromogenic media by MALDI-TOF MS.
+J. Microbiol. Methods136, 17–20 (2017).
+CASPubMedGoogle ScholarFaron, M. L. et al. Automated scoring of chromogenic media for detection of methicillin-resistantStaphylococcus aureusby use of WASPLab image analysis software.
+J. Clin. Microbiol.
+54, 620–624 (2016).
+CASPubMedPubMed CentralGoogle ScholarCunningham, R. et al. Effect on MRSA transmission of rapid PCR testing of patients admitted to critical care.
+J. Hosp. Infect.
+65, 24–28 (2007).
+CASPubMedGoogle ScholarDerde, L. P. G. et al. Interventions to reduce colonisation and transmission of antimicrobial-resistant bacteria in intensive care units: an interrupted time series study and cluster randomised trial.
+Lancet Infect. Dis.
+14, 31–39 (2014).
+PubMedPubMed CentralGoogle ScholarWu, P. J., Jeyaratnam, D., Tosas, O., Cooper, B. S. & French, G. L. Point-of-care universal screening for meticillin-resistant Staphylococcus aureus: a cluster-randomized cross-over trial.
+J. Hosp. Infect.
+95, 245–252 (2017).
+CASPubMedPubMed CentralGoogle ScholarCalfee, D. P. et al. Strategies to prevent methicillin-resistantStaphylococcus aureustransmission and infection in acute care hospitals: 2014 update.
+Infect. Control Hosp. Epidemiol.
+35, 772–796 (2014).
+This paper is an expert guidance document, with grading of the quality of the evidence, for MRSA control in acute care facilities.
+PubMedGoogle ScholarWorld Health Organization.
+WHO Guidelines on Hand Hygiene in Health Care. World Alliance for Patient Safety(WHO Press, Geneva, 2009).
+Sax, H. et al. ‘My five moments for hand hygiene’: a user-centred design approach to understand, train, monitor and report hand hygiene.
+J. Hosp. Infect.
+67, 9–21 (2007).
+CASPubMedGoogle ScholarPittet, D. et al. Effectiveness of a hospital-wide programme to improve compliance with hand hygiene.
+Lancet356, 1307–1312 (2000).
+CASPubMedGoogle ScholarStone, S. P. et al. Evaluation of the national Cleanyourhands campaign to reduceStaphylococcus aureusbacteraemia and Clostridium difficile infection in hospitals in England and Wales by improved hand hygiene: four year, prospective, ecological, interrupted time series study.
+BMJ344, e3005 (2012).
+PubMedPubMed CentralGoogle ScholarSalgado, C. D. & Farr, B. M. What proportion of hospital patients colonized with methicillin-resistantStaphylococcus aureusare identified by clinical microbiological cultures?Infect. Control Hosp. Epidemiol.
+27, 116–121 (2006).
+PubMedGoogle ScholarRobicsek, A. et al. Universal surveillance for methicillin-resistantStaphylococcus aureusin 3 affiliated hospitals.
+Ann. Intern. Med.
+148, 409–418 (2008).
+PubMedGoogle ScholarHarbarth, S. et al. Universal screening for methicillin-resistantStaphylococcus aureusat hospital admission and nosocomial infection in surgical patients.
+JAMA299, 1149–1157 (2008).
+CASPubMedGoogle ScholarLee, A. S. et al. Comparison of strategies to reduce meticillin-resistantStaphylococcus aureusrates in surgical patients: a controlled multicentre intervention trial.
+BMJ Open3, e003126 (2013).
+PubMedPubMed CentralGoogle ScholarRobotham, J. V. et al. Cost-effectiveness of national mandatory screening of all admissions to English National Health Service hospitals for meticillin-resistant Staphylococcus aureus: a mathematical modelling study.
+Lancet Infect. Dis.
+16, 348–356 (2016).
+PubMedGoogle ScholarHuskins, W. C. et al. Intervention to reduce transmission of resistant bacteria in intensive care.
+N. Engl. J. Med.
+364, 1407–1418 (2011).
+PubMedPubMed CentralGoogle ScholarDerde, L. P. et al. Interventions to reduce colonisation and transmission of antimicrobial-resistant bacteria in intensive care units: an interrupted time series study and cluster randomised trial.
+Lancet Infect. Dis.
+14, 31–39 (2014).
+PubMedPubMed CentralGoogle ScholarHarris, A. D. et al. Universal glove and gown use and acquisition of antibiotic-resistant bacteria in the ICU: a randomized trial.
+JAMA310, 1571–1580 (2013).
+CASPubMedPubMed CentralGoogle ScholarCepeda, J. A. et al. Isolation of patients in single rooms or cohorts to reduce spread of MRSA in intensive-care units: prospective two-centre study.
+Lancet365, 295–304 (2005).
+PubMedGoogle ScholarFatkenheuer, G., Hirschel, B. & Harbarth, S. Screening and isolation to control meticillin-resistant Staphylococcus aureus: sense, nonsense, and evidence.
+Lancet385, 1146–1149 (2015).
+This commentary provides an update regarding the growing evidence for and against the role of active surveillance in MRSA control.
+PubMedGoogle ScholarLoeb, M., Main, C., Walker-Dilks, C. & Eady, A. Antimicrobial drugs for treating methicillin-resistantStaphylococcus aureuscolonization.
+Cochrane Database Syst. Rev.
+4, CD003340 (2003).
+Google ScholarPoovelikunnel, T., Gethin, G. & Humphreys, H. Mupirocin resistance: clinical implications and potential alternatives for the eradication of MRSA.
+J. Antimicrob. Chemother.
+70, 2681–2692 (2015).
+CASPubMedGoogle ScholarLandelle, C. et al. Randomized, placebo-controlled, double-blind clinical trial to evaluate the efficacy of polyhexanide for topical decolonization of MRSA carriers.
+J. Antimicrob. Chemother.
+71, 531–538 (2016).
+CASPubMedGoogle ScholarBode, L. G. et al. Preventing surgical-site infections in nasal carriers of Staphylococcus aureus.
+N. Engl. J. Med.
+362, 9–17 (2010).
+CASPubMedGoogle Scholarvan Rijen, M. M., Bode, L. G., Baak, D. A., Kluytmans, J. A. & Vos, M. C. Reduced costs forStaphylococcus aureuscarriers treated prophylactically with mupirocin and chlorhexidine in cardiothoracic and orthopaedic surgery.
+PLoS ONE7, e43065 (2012).
+CASPubMedPubMed CentralGoogle ScholarHuang, S. S. et al. Targeted versus universal decolonization to prevent ICU infection.
+N. Engl. J. Med.
+368, 2255–2265 (2013).
+CASPubMedGoogle ScholarAmmerlaan, H. S. et al. Eradication of carriage with methicillin-resistant Staphylococcus aureus: effectiveness of a national guideline.
+J. Antimicrob. Chemother.
+66, 2409–2417 (2011).
+CASPubMedGoogle ScholarAmmerlaan, H. S. et al. Eradication of carriage with methicillin-resistant Staphylococcus aureus: determinants of treatment failure.
+J. Antimicrob. Chemother.
+66, 2418–2424 (2011).
+CASPubMedGoogle ScholarTalan, D. A. et al. Trimethoprim-sulfamethoxazole versus placebo for uncomplicated skin abscess.
+N. Engl. J. Med.
+374, 823–832 (2016).
+CASPubMedPubMed CentralGoogle ScholarDaum, R. S. et al. A placebo-controlled trial of antibiotics for smaller skin abscesses.
+N. Engl. J. Med.
+376, 2545–2555 (2017).
+CASPubMedPubMed CentralGoogle ScholarLiu, C. et al. Clinical practice guidelines by the Infectious Diseases Society of America for the treatment of methicillin-resistantStaphylococcus aureusinfections in adults and children.
+Clin. Infect. Dis.
+52, e18–55 (2011).
+This paper represents an essential and up-to-date guidance document for management of MRSA infection.
+PubMedGoogle ScholarGould, I. M. et al. New insights into meticillin-resistantStaphylococcus aureus(MRSA) pathogenesis, treatment and resistance.
+Int. J. Antimicrob. Agents39, 96–104 (2012).
+CASPubMedGoogle ScholarSvetitsky, S., Leibovici, L. & Paul, M. Comparative efficacy and safety of vancomycin versus teicoplanin: systematic review and meta-analysis.
+Antimicrob. Agents Chemother.
+53, 4069–4079 (2009).
+CASPubMedPubMed CentralGoogle ScholarVandecasteele, S. J., De Vriese, A. S. & Tacconelli, E. The pharmacokinetics and pharmacodynamics of vancomycin in clinical practice: evidence and uncertainties.
+J. Antimicrob. Chemother.
+68, 743–748 (2013).
+CASPubMedGoogle ScholarLodise, T. P., Patel, N., Lomaestro, B. M., Rodvold, K. A. & Drusano, G. L. Relationship between initial vancomycin concentration-time profile and nephrotoxicity among hospitalized patients.
+Clin. Infect. Dis.
+49, 507–514 (2009).
+CASPubMedGoogle ScholarCataldo, M. A., Tacconelli, E., Grilli, E., Pea, F. & Petrosillo, N. Continuous versus intermittent infusion of vancomycin for the treatment of Gram-positive infections: systematic review and meta-analysis.
+J. Antimicrob. Chemother.
+67, 17–24 (2012).
+CASPubMedGoogle ScholarBradley, J. S. Which antibiotic for resistant Gram-positives, and why?J. Infect.
+68(Suppl. 1), S63–75 (2014).
+PubMedGoogle ScholarFalagas, M. E. & Vardakas, K. Z. Benefit-risk assessment of linezolid for serious gram-positive bacterial infections.
+DrugSaf.
+31, 753–768 (2008).
+CASGoogle ScholarCosgrove, S. E. et al. Comparison of mortality associated with methicillin-resistant and methicillin-susceptibleStaphylococcus aureusbacteremia: a meta-analysis.
+Clin. Infect. Dis.
+36, 53–59 (2003).
+PubMedGoogle ScholarFowler, V. G. Jr. et al. Clinical identifiers of complicatedStaphylococcus aureusbacteremia.
+Arch. Intern. Med.
+163, 2066–2072 (2003).
+PubMedGoogle ScholarThwaites, G. E. et al. Clinical management ofStaphylococcus aureusbacteraemia.
+Lancet Infect. Dis.
+11, 208–222 (2011).
+This is an important reference for all persons interested in the optimal treatment ofS. aureusbacteraemia.
+PubMedGoogle ScholarHoulihan, H. H., Mercier, R. C. & Rybak, M. J. Pharmacodynamics of vancomycin alone and in combination with gentamicin at various dosing intervals against methicillin-resistant Staphylococcus aureus-infected fibrin-platelet clots in an in vitro infection model.
+Antimicrob. Agents Chemother.
+41, 2497–2501 (1997).
+CASPubMedPubMed CentralGoogle ScholarTsuji, B. T. & Rybak, M. J. Short-course gentamicin in combination with daptomycin or vancomycin againstStaphylococcus aureusin an in vitro pharmacodynamic model with simulated endocardial vegetations.
+Antimicrob. Agents Chemother.
+49, 2735–2745 (2005).
+CASPubMedPubMed CentralGoogle ScholarRehm, S. J. et al. Daptomycin versus vancomycin plus gentamicin for treatment of bacteraemia and endocarditis due to Staphylococcus aureus: subset analysis of patients infected with methicillin-resistant isolates.
+J. Antimicrob. Chemother.
+62, 1413–1421 (2008).
+CASPubMedPubMed CentralGoogle ScholarFowler, V. G. Jr. et al. Daptomycin versus standard therapy for bacteremia and endocarditis caused by Staphylococcus aureus.
+N. Engl. J. Med.
+355, 653–665 (2006).
+CASPubMedGoogle ScholarBayer, A. S. & Murray, B. E. Initial low-dose aminoglycosides inStaphylococcus aureusbacteremia: good science, urban legend, or just plain toxic?Clin. Infect. Dis.
+48, 722–724 (2009).
+PubMedGoogle ScholarForrest, G. N. & Tamura, K. Rifampin combination therapy for nonmycobacterial infections.
+Clin. Microbiol. Rev.
+23, 14–34 (2010).
+CASPubMedPubMed CentralGoogle ScholarThwaites, G. E. et al. Adjunctive rifampicin forStaphylococcus aureusbacteraemia (ARREST): a multicentre, randomised, double-blind, placebo-controlled trial.
+Lancet391, 668–678 (2018).
+CASPubMedPubMed CentralGoogle ScholarDavis, J. S. et al. Combination of vancomycin and beta-lactam therapy for methicillin-resistantStaphylococcus aureusbacteremia: a pilot multicenter randomized controlled trial.
+Clin. Infect. Dis.
+62, 173–180 (2016).
+CASPubMedGoogle ScholarSakoulas, G. et al. Antimicrobial salvage therapy for persistent staphylococcal bacteremia using daptomycin plus ceftaroline.
+Clin. Ther.
+36, 1317–1333 (2014).
+CASPubMedGoogle ScholarRose, W. E., Berti, A. D., Hatch, J. B. & Maki, D. G. Relationship of in vitro synergy and treatment outcome with daptomycin plus rifampin in patients with invasive methicillin-resistantStaphylococcus aureusinfections.
+Antimicrob. Agents Chemother.
+57, 3450–3452 (2013).
+CASPubMedPubMed CentralGoogle ScholarCosimi, R. A., Beik, N., Kubiak, D. W. & Johnson, J. A. Ceftaroline for severe methicillin-resistantStaphylococcus aureusinfections: a systematic review.
+Open Forum Infect. Dis.
+4, ofx084 (2017).
+PubMedPubMed CentralGoogle ScholarTattevin, P., Basuino, L., Bauer, D., Diep, B. A. & Chambers, H. F. Ceftobiprole is superior to vancomycin, daptomycin, and linezolid for treatment of experimental endocarditis in rabbits caused by methicillin-resistantStaphylococcus aureus. Antimicrob. Agents Chemother.
+54, 610–613 (2010).
+CASPubMedGoogle ScholarOltolini, C. et al. Meticillin-resistantStaphylococcus aureusendocarditis: first report of daptomycin plus ceftobiprole combination as salvage therapy.
+Int. J. Antimicrob. Agents47, 502–504 (2016).
+CASPubMedGoogle ScholarAndrey, D. O. et al. Antimicrobial activity of ceftaroline against methicillin-resistantStaphylococcus aureus(MRSA) isolates collected in 2013–2014 at the Geneva University Hospitals.
+Eur. J. Clin. Microbiol. Infect. Dis.
+36, 343–350 (2017).
+CASPubMedGoogle ScholarLong, S. W. et al. PBP2a mutations causing high-level Ceftaroline resistance in clinical methicillin-resistantStaphylococcus aureusisolates.
+Antimicrob. Agents Chemother.
+58, 6668–6674 (2014).
+PubMedPubMed CentralGoogle ScholarMendes, R. E. et al. Characterization of methicillin-resistantStaphylococcus aureusdisplaying increased MICs of ceftaroline.
+J. Antimicrob. Chemother.
+67, 1321–1324 (2012).
+CASPubMedGoogle ScholarZhanel, G. G. et al. New lipoglycopeptides: a comparative review of dalbavancin, oritavancin and telavancin.
+Drugs70, 859–886 (2010).
+CASPubMedGoogle ScholarMcCurdy, S. P., Jones, R. N., Mendes, R. E., Puttagunta, S. & Dunne, M. W. In vitro activity of dalbavancin against drug-resistantStaphylococcus aureusisolates from a global surveillance program.
+Antimicrob. Agents Chemother.
+59, 5007–5009 (2015).
+CASPubMedPubMed CentralGoogle ScholarWerth, B. J. et al. Emergence of dalbavancin non-susceptible, vancomycin-intermediateStaphylococcus aureus(VISA) after treatment of MRSA central line-associated bloodstream infection with a dalbavancin- and vancomycin-containing regimen.
+Clin. Microbiol. Infect.
+24, 429.e1–429.e5 (2018).
+CASGoogle ScholarYaw, L. K., Robinson, J. O. & Ho, K. M. A comparison of long-term outcomes after meticillin-resistant and meticillin-sensitiveStaphylococcus aureusbacteraemia: an observational cohort study.
+Lancet Infect. Dis.
+14, 967–975 (2014).
+PubMedGoogle ScholarFatkenheuer, G. & Kaasch, A. J. How deadly is meticillin-resistantStaphylococcus aureus?Lancet Infect. Dis.
+14, 905–907 (2014).
+Google ScholarDe Angelis, G. et al. Multistate modelling to estimate the excess length of stay associated with meticillin-resistantStaphylococcus aureuscolonisation and infection in surgical patients.
+J. Hosp. Infect.
+78, 86–91 (2011).
+CASPubMedGoogle ScholarDe Angelis, G., Murthy, A., Beyersmann, J. & Harbarth, S. Estimating the impact of healthcare-associated infections on length of stay and costs.
+Clin. Microbiol. Infect.
+16, 1729–1735 (2010).
+CASPubMedGoogle ScholarStewardson, A. J. et al. The health and economic burden of bloodstream infections caused by antimicrobial-susceptible and non-susceptible Enterobacteriaceae andStaphylococcus aureusin European hospitals, 2010 and 2011: a multicentre retrospective cohort study.
+Eurosurveillance21, 30319 (2016).
+This is a methodologically sound analysis of excess length of stay of MRSA bacteraemia.
+PubMed CentralGoogle ScholarHaessler, S., Mackenzie, T. & Kirkland, K. B. Long-term outcomes following infection with meticillin-resistant or meticillin-susceptible Staphylococcus aureus.
+J. Hosp. Infect.
+69, 39–45 (2008).
+CASPubMedGoogle ScholarPendleton, A. & Kocher, M. S. Methicillin-resistantStaphylococcus aureusbone and joint infections in children.
+J. Am. Acad. Orthop. Surg.
+23, 29–37 (2015).
+PubMedGoogle ScholarSalgado, C. D., Dash, S., Cantey, J. R. & Marculescu, C. E. Higher risk of failure of methicillin-resistantStaphylococcus aureusprosthetic joint infections.
+Clin. Orthop. Relat. Res.
+461, 48–53 (2007).
+PubMedGoogle ScholarGleeson, A., Larkin, P. & O'Sullivan, N. The impact of meticillin-resistantStaphylococcus aureuson patients with advanced cancer and their family members: a qualitative study.
+Palliat. Med.
+30, 382–391 (2016).
+PubMedGoogle Scholarvan Cleef, B. A. et al. Health and health-related quality of life in pig farmers carrying livestock-associated methicillin-resistant Staphylococcus aureus.
+Epidemiol. Infect.
+144, 1774–1783 (2016).
+CASPubMedGoogle ScholarAmmerlaan, H. S. et al. Secular trends in nosocomial bloodstream infections: antibiotic-resistant bacteria increase the total burden of infection.
+Clin. Infect. Dis.
+56, 798–805 (2013).
+This is most likely the best paper evaluating the question of whether MRSA adds to the overall burden of nosocomial infections.
+CASPubMedGoogle ScholarJones, B. E. et al. Variation in empiric coverage versus detection of methicillin-resistantStaphylococcus aureusand Pseudomonas aeruginosa in hospitalizations for community-onset pneumonia across 128 US veterans affairs medical centers.
+Infect. Control Hosp. Epidemiol.
+38, 937–944 (2017).
+PubMedGoogle ScholarHerr, C. E., Heckrodt, T. H., Hofmann, F. A., Schnettler, R. & Eikmann, T. F. Additional costs for preventing the spread of methicillin-resistantStaphylococcus aureusand a strategy for reducing these costs on a surgical ward.
+Infect. Control Hosp. Epidemiol.
+24, 673–678 (2003).
+PubMedGoogle ScholarWertheim, H. F. et al. Risk and outcome of nosocomialStaphylococcus aureusbacteraemia in nasal carriers versus non-carriers.
+Lancet364, 703–705 (2004).
+PubMedGoogle ScholarPozzi, C. et al. Vaccines forStaphylococcus aureusand target populations.
+Curr. Top. Microbiol. Immunol.
+409, 491–528 (2017).
+CASPubMedGoogle ScholarFowler, V. G. et al. Effect of an investigational vaccine for preventingStaphylococcus aureusinfections after cardiothoracic surgery: a randomized trial.
+JAMA309, 1368–1378 (2013).
+CASPubMedGoogle ScholarShinefield, H. et al. Use of aStaphylococcus aureusconjugate vaccine in patients receiving hemodialysis.
+N. Engl. J. Med.
+346, 491–496 (2002).
+PubMedGoogle ScholarFowler, V. G. Jr & Proctor, R. A. Where does aStaphylococcus aureusvaccine stand?Clin. Microbiol. Infect.
+20(Suppl. 5), 66–75 (2014).
+PubMedPubMed CentralGoogle ScholarStentzel, S. et al. Specific serum IgG at diagnosis ofStaphylococcus aureusbloodstream invasion is correlated with disease progression.
+J. Proteom.
+128, 1–7 (2015).
+CASGoogle ScholarKurokawa, K., Takahashi, K. & Lee, B. L. The staphylococcal surface-glycopolymer wall teichoic acid (WTA) is crucial for complement activation and immunological defense againstStaphylococcus aureusinfection.
+Immunobiology221, 1091–1101 (2016).
+CASPubMedGoogle ScholarBekeredjian-Ding, I. Deciphering the significance of the T cell response to Staphylococcus aureus.
+Future Microbiol.
+12, 1023–1026 (2017).
+CASPubMedGoogle ScholarLehar, S. M. et al. Novel antibody-antibiotic conjugate eliminates intracellularS. aureus.
+Nature527, 323–328 (2015).
+CASPubMedGoogle ScholarWorld Health Organization.
+Prioritization of Pathogens to Guide Discovery, Research and Development of New Antibiotics for Drug-Resistant Bacterial Infections, Including Tuberculosis(WHO, Geneva, 2017).
+Idelevich, E. A. et al. In vitro activity againstStaphylococcus aureusof a novel antimicrobial agent, PRF-119, a recombinant chimeric bacteriophage endolysin.
+Antimicrob. Agents Chemother.
+55, 4416–4419 (2011).
+CASPubMedPubMed CentralGoogle ScholarHiramatsu, K. et al. Methicillin-resistantStaphylococcus aureusclinical strain with reduced vancomycin susceptibility.
+J. Antimicrob. Chemother.
+40, 135–136 (1997).
+CASPubMedGoogle ScholarMwangi, M. M. et al. Tracking the in vivo evolution of multidrug resistance inStaphylococcus aureusby whole-genome sequencing.
+Proc. Natl Acad. Sci. USA104, 9451–9456 (2007).
+CASPubMedGoogle ScholarHowden, B. P., Davies, J. K., Johnson, P. D., Stinear, T. P. & Grayson, M. L. Reduced vancomycin susceptibility in Staphylococcus aureus, including vancomycin-intermediate and heterogeneous vancomycin-intermediate strains: resistance mechanisms, laboratory detection, and clinical implications.
+Clin. Microbiol. Rev.
+23, 99–139 (2010).
+CASPubMedPubMed CentralGoogle ScholarKhatib, R. et al. Relevance of vancomycin-intermediate susceptibility and heteroresistance in methicillin-resistantStaphylococcus aureusbacteraemia.
+J. Antimicrob. Chemother.
+66, 1594–1599 (2011).
+CASPubMedGoogle ScholarSatola, S. W. et al. Clinical and laboratory characteristics of invasive infections due to methicillin-resistantStaphylococcus aureusisolates demonstrating a vancomycin MIC of 2 micrograms per milliliter: lack of effect of heteroresistant vancomycin-intermediateS. aureusphenotype.
+J. Clin. Microbiol.
+49, 1583–1587 (2011).
+CASPubMedPubMed CentralGoogle ScholarSievert, D. M. et al. Vancomycin-resistantStaphylococcus aureusin the United States, 2002–2006.
+Clin. Infect. Dis.
+46, 668–674 (2008).
+CASPubMedGoogle ScholarWeigel, L. M. et al. Genetic analysis of a high-level vancomycin-resistant isolate of Staphylococcus aureus.
+Science302, 1569–1571 (2003).
+CASPubMedGoogle ScholarFoucault, M. L., Courvalin, P. & Grillot-Courvalin, C. Fitness cost of VanA-type vancomycin resistance in methicillin-resistantStaphylococcus aureus. Antimicrob. Agents Chemother.
+53, 2354–2359 (2009).
+CASPubMedGoogle ScholarStefani, S. et al. Meticillin-resistantStaphylococcus aureus(MRSA): global epidemiology and harmonisation of typing methods.
+Int. J. Antimicrob. Agents39, 273–282 (2012).
+CASPubMedGoogle ScholarCarlet, J. et al. French national program for prevention of healthcare-associated infections and antimicrobial resistance, 1992-2008: positive trends, but perseverance needed.
+Infect. Control Hosp. Epidemiol.
+30, 737–745 (2009).
+PubMedGoogle ScholarDuerden, B., Fry, C., Johnson, A. P. & Wilcox, M. H. The control of methicillin-resistantStaphylococcus aureusblood stream infections in England.
+Open Forum Infect. Dis.
+2, ofv035 (2015).
+PubMedPubMed CentralGoogle Scholar[No authors listed.] PubMLST.
+University of Oxfordhttps://pubmlst.org/(2018).
+Thurlow, L. R., Joshi, G. S. & Richardson, A. R. Virulence strategies of the dominant USA300 lineage of community-associated methicillin-resistantStaphylococcus aureus(CA-MRSA).
+FEMS Immunol. Med. Microbiol.
+65, 5–22 (2012).
+CASPubMedPubMed CentralGoogle ScholarPeschel, A. & Otto, M. Phenol-soluble modulins and staphylococcal infection.
+Nat. Rev. Microbiol.
+11, 667–673 (2013).
+CASPubMedPubMed CentralGoogle ScholarWright, G. D. Q&A: Antibiotic resistance: where does it come from and what can we do about it?BMC Biol.
+8, 123 (2010).
+PubMedPubMed CentralGoogle ScholarMcCarthy, A. J. & Lindsay, J. A.
+Staphylococcus aureusinnate immune evasion is lineage-specific: a bioinfomatics study.
+Infect. Genet. Evol.
+19, 7–14 (2013).
+CASPubMedGoogle ScholarMarkowitz, N., Quinn, E. L. & Saravolatz, L. D. Trimethoprim-sulfamethoxazole compared with vancomycin for the treatment ofStaphylococcus aureusinfection.
+Ann. Intern. Med.
+117, 390–398 (1992).
+CASPubMedGoogle ScholarLandersdorfer, C. B., Bulitta, J. B., Kinzig, M., Holzgrabe, U. & Sorgel, F. Penetration of antibacterials into bone: pharmacokinetic, pharmacodynamic and bioanalytical considerations.
+Clin. Pharmacokinet.
+48, 89–124 (2009).
+CASPubMedGoogle ScholarSakoulas, G., Alder, J., Thauvin-Eliopoulos, C., Moellering, R. C. Jr & Eliopoulos, G. M. Induction of daptomycin heterogeneous susceptibility inStaphylococcus aureusby exposure to vancomycin.
+Antimicrob. Agents Chemother.
+50, 1581–1585 (2006).
+CASPubMedPubMed CentralGoogle ScholarPertel, P. E. et al. Effects of prior effective therapy on the efficacy of daptomycin and ceftriaxone for the treatment of community-acquired pneumonia.
+Clin. Infect. Dis.
+46, 1142–1151 (2008).
+CASPubMedGoogle ScholarFenton, C., Keating, G. M. & Curran, M. P. Daptomycin.
+Drugs64, 445–455 (2004).
+CASPubMedGoogle ScholarPea, F. et al. Therapeutic drug monitoring may improve safety outcomes of long-term treatment with linezolid in adult patients.
+J. Antimicrob. Chemother.
+67, 2034–2042 (2012).
+CASPubMedGoogle ScholarItani, K. M. et al. Efficacy and safety of linezolid versus vancomycin for the treatment of complicated skin and soft-tissue infections proven to be caused by methicillin-resistant Staphylococcus aureus.
+Am. J. Surg.
+199, 804–816 (2010).
+CASPubMedGoogle ScholarCorey, G. R. et al. CANVAS 1: the first Phase III, randomized, double-blind study evaluating ceftaroline fosamil for the treatment of patients with complicated skin and skin structure infections.
+J. Antimicrob. Chemother.
+65(Suppl. 4), iv41–iv51 (2010).
+CASPubMedGoogle ScholarWilcox, M. H. et al. CANVAS 2: the second Phase III, randomized, double-blind study evaluating ceftaroline fosamil for the treatment of patients with complicated skin and skin structure infections.
+J. Antimicrob. Chemother.
+65(Suppl. 4), iv53–iv65 (2010).
+CASPubMedGoogle ScholarDryden, M., Zhang, Y., Wilson, D., Iaconis, J. P. & Gonzalez, J. A. Phase III, randomized, controlled, non-inferiority trial of ceftaroline fosamil 600 mg every 8 h versus vancomycin plus aztreonam in patients with complicated skin and soft tissue infection with systemic inflammatory response or underlying comorbidities.
+J. Antimicrob. Chemother.
+71, 3575–3584 (2016).
+CASPubMedPubMed CentralGoogle ScholarNoel, G. J., Bush, K., Bagchi, P., Ianus, J. & Strauss, R. S. A randomized, double-blind trial comparing ceftobiprole medocaril with vancomycin plus ceftazidime for the treatment of patients with complicated skin and skin-structure infections.
+Clin. Infect. Dis.
+46, 647–655 (2008).
+PubMedGoogle Scholar[No authors listed.] Vibativ (telavancin) [prescribing information].
+Astellashttp://www.astellas.us/docs/us/VIBATIV_PI_Final.pdf(2009).
+Rubinstein, E. et al. Telavancin versus vancomycin for hospital-acquired pneumonia due to gram-positive pathogens.
+Clin. Infect. Dis.
+52, 31–40 (2011).
+CASPubMedPubMed CentralGoogle ScholarStryjewski, M. E. et al. A randomized Phase 2 trial of telavancin versus standard therapy in patients with uncomplicatedStaphylococcus aureusbacteremia: the ASSURE study.
+BMC Infect. Dis.
+14, 289 (2014).
+PubMedPubMed CentralGoogle ScholarNord, C. E., Rasmanis, G. & Wahlund, E. Effect of dalbavancin on the normal intestinal microflora.
+J. Antimicrob. Chemother.
+58, 627–631 (2006).
+CASPubMedGoogle ScholarRamdeen, S. & Boucher, H. W. Dalbavancin for the treatment of acute bacterial skin and skin structure infections.
+Expert Opin. Pharmacother.
+16, 2073–2081 (2015).
+PubMedPubMed CentralGoogle ScholarMessina, J. A., Fowler, V. G. Jr & Corey, G. R. Oritavancin for acute bacterial skin and skin structure infections.
+Expert Opin. Pharmacother.
+16, 1091–1098 (2015).
+CASPubMedPubMed CentralGoogle ScholarBiedenbach, D. J., Arhin, F. F., Moeck, G., Lynch, T. F. & Sahm, D. F. In vitro activity of oritavancin and comparator agents against staphylococci, streptococci and enterococci from clinical infections in Europe and North America, 2011–2014.
+Int. J. Antimicrob. Agents46, 674–681 (2015).
+CASPubMedGoogle ScholarProkocimer, P., De Anda, C., Fang, E., Mehra, P. & Das, A. Tedizolid phosphate versus linezolid for treatment of acute bacterial skin and skin structure infections: the ESTABLISH-1 randomized trial.
+JAMA309, 559–569 (2013).
+CASPubMedGoogle ScholarMoran, G. J. et al. Tedizolid for 6 days versus linezolid for 10 days for acute bacterial skin and skin-structure infections (ESTABLISH-2): a randomised, double-blind, phase 3, non-inferiority trial.
+Lancet Infect. Dis.
+14, 696–705 (2014).
+CASPubMedGoogle ScholarVan Bambeke, F. Delafloxacin, a non-zwitterionic fluoroquinolone in Phase III of clinical development: evaluation of its pharmacology, pharmacokinetics, pharmacodynamics and clinical efficacy.
+Future Microbiol.
+10, 1111–1123 (2015).
+CASPubMedGoogle ScholarKingsley, J. et al. A randomized, double-blind, Phase 2 study to evaluate subjective and objective outcomes in patients with acute bacterial skin and skin structure infections treated with delafloxacin, linezolid or vancomycin.
+J. Antimicrob. Chemother71, 821–829 (2016).
+CASPubMedGoogle ScholarPullman, J. et al. Efficacy and safety of delafloxacin compared with vancomycin plus aztreonam for acute bacterial skin and skin structure infections: a phase 3, double-blind, randomized study.
+J. Antimicrob. Chemother.
+72, 3471–3480 (2017).
+CASPubMedPubMed CentralGoogle ScholarDownload referencesAcknowledgementsH.d.L. thanks A. Tomasz and C. Milheiriço for helpful discussions while preparing the manuscript. H.d.L.'s research is supported by Project LISBOA-01-0145-FEDER-007660 funded by the European Regional Development Fund through COMPETE2020 (POCI) and by national funds through Fundação para a Ciência e Tecnologia. A.P. thanks S. Heilbronner for helpful discussions and critical reading of the manuscript. A.P.'s research is supported by grants from the Deutsche Forschungsgemeinschaft (TRR34, TRR156, SFB766, SFB685, GRK1708 and PE805/5-1), the Deutsches Zentrum für Infektionsforschung (TTU HAARBI) and the European Innovative Medicines Initiative (COMBACTE). S.H. receives financial support from COMBACTE.
+Author informationAffiliationsDepartments of Infectious Diseases and Microbiology, Royal Prince Alfred Hospital, Sydney, New South Wales, AustraliaAndie S. LeeFaculty of Medicine, University of Sydney, Sydney, New South Wales, AustraliaAndie S. LeeLaboratory of Microbiology and Infectious Diseases, The Rockefeller University, New York, NY, USAHermínia de LencastreLaboratory of Molecular Genetics, Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, PortugalHermínia de LencastreDepartment of Medicine, Hospital Universitari Mutua de Terrassa, Barcelona, SpainJavier GarauDepartment of Infection Control, Amphia Hospital, Breda, NetherlandsJan KluytmansJulius Center for Health Sciences and Primary Care, University Medical Center Utrecht, Utrecht University, Utrecht, NetherlandsJan KluytmansLaboratory of Medical Microbiology, Vaccine and Infectious Disease Institute, Universiteit Antwerpen, Wilrijk, BelgiumSurbhi Malhotra-KumarInfection Biology Department, Interfaculty Institute of Microbiology and Infection Medicine, University of Tübingen, Tübingen, GermanyAndreas PeschelGerman Center for Infection Research, Partner Site Tübingen, Tübingen, GermanyAndreas PeschelInfection Control Programme, University of Geneva Hospitals and Faculty of Medicine, WHO Collaborating Center, Geneva, SwitzerlandStephan HarbarthYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarContributionsIntroduction (A.S.L.); Epidemiology (A.S.L. and S.H.); Mechanisms/pathophysiology (H.d.L., S.M.-K., J.K. and A.P.); Diagnosis, screening and prevention (A.S.L., S.M.-K. and S.H.); Management (J.K., S.H. and J.G.); Quality of life (S.H.); Outlook (A.P. and S.H.); Overview of Primer (S.H. and A.S.L.).
+Corresponding authorsCorrespondence toAndie S. LeeorStephan Harbarth.
+Ethics declarationsCompeting interestsJ.G. has acted as a consultant for Roche, Nabriva, Paratek and Menarini. J.K. acts as a consultant for Pfizer, 3M and Destiny Pharma. S.M.-K. has received grants from Abbott and Agfa Health. She is receiving research grants from Pfizer and Huvepharma and has a service agreement with AiCuris. A.P. receives a consultant fee from Crucell and research grants from Crucell, Medimmune, MorphoSys and Roche; he has a patent pending for lugdunin. S.H. was a temporary member of the speakers’ bureau for Takeda; has participated in the scientific advisory boards of DNA Electronics, Sandoz, GlaxoSmithKline and Bayer; and has received financial support for research activities from Pfizer and B. Braun. A.S.L. and H.d.L. declare no conflicts of interest.
+PowerPoint slidesPowerPoint slide for Fig. 1PowerPoint slide for Fig. 2PowerPoint slide for Fig. 3PowerPoint slide for Fig. 4PowerPoint slide for Fig. 5Rights and permissionsReprints and PermissionsAbout this articleCite this articleLee, A., de Lencastre, H., Garau, J.
+et al.
+Methicillin-resistantStaphylococcus aureus.
+Nat Rev Dis Primers4,18033 (2018). https://doi.org/10.1038/nrdp.2018.33Download citationPublished:31 May 2018DOI:https://doi.org/10.1038/nrdp.2018.33Share this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiativeFurther readingAntimicrobial resistance among GLASS pathogens in Morocco: an epidemiological scoping reviewBMC Infectious Diseases(2022)Nasal carriage of Methicillin-Resistant Staphylococcus aureus among sympatric free-ranging domestic pigs and wild Chlorocebus pygerythrus in a rural African settingBMC Veterinary Research(2022)Multi-site infection by methicillin-resistant Staphylococcus aureus in a six-year old girl: a case reportBMC Infectious Diseases(2022)Fibronectin binding protein B binds to loricrin and promotes corneocyte adhesion by Staphylococcus aureusNature Communications(2022)Natural transformation allows transfer of SCCmec-mediated methicillin resistance in Staphylococcus aureus biofilmsNature Communications(2022)Associated ContentMethicillin-resistantStaphylococcus aureusAdvertisementExplore contentAbout the journalPublish with usSearchAdvanced searchQuick linksNature Reviews Disease Primers (Nat Rev Dis Primers)ISSN2056-676X(online)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature LimitedSign up for theNature Briefingnewsletter — what matters in science, free to your inbox daily.

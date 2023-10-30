@@ -1,0 +1,36 @@
+old id = 2548
+The Variational Quantum Eigensolver — Explained | by Frank Zickert | Quantum Machine Learning | Towards Data Science
+2021
+https://towardsdatascience.com/the-variational-quantum-eigensolver-explained-adcbc9659c3a
+
+Towards Data ScienceFeb 16, 2021SaveThe Variational Quantum Eigensolver — ExplainedA Quantum Machine Learning AlgorithmThis post is part of the book:Hands-On Quantum Machine Learning With Python.
+The Variational Quantum Eigensolver (VQE) is a hybrid quantum-classical algorithm. It aims to find an upper bound of the lowest eigenvalue of a given Hamiltonian.
+If you’re not a physicist, your most appropriate reply is: “what?!”Fortunately,you don’t need a physicist to understand quantum machine learning. So, let me rephrase.
+The VQE is an algorithm running partly on a classical computer and partly on a quantum computer. It lets you find the combination of values that solve a given optimization problem — approximately.
+Solving optimization problems is paramount in machine learning. Machine learning algorithms depend on a set of parameters. During the training, we aim to find the values of these parameters. Since we don’t know the correct values, we try to learn these values from the data.
+But this is not that easy. With an increasing number of parameters, the number of possible combinations of values grows exponentially. Let’s take chess for example.
+There are 64 spaces and there are 16 pieces each. After each player moved a single piece, there are 400 different positions. There are 72,084 positions after two moves of each player, around 9 million after three, and around 288 billion after four moves. There a more 40-move games than the number of atoms in the known observable universe.
+How do we find the best one — or at least a sufficiently good one combination? It is like looking for the needle in the haystack.
+This is where optimization algorithms come into play.
+Let’s say, we have a single parameter, θ. Then, we can print the surface in a two-dimensional graph.
+The X-axis shows the potential values of θ. We map the output of a cost function associated with the respective value of θ on the Y-axis. The cost is usually the result of calculating the error or the loss of the model. The lower the cost the better the solution.
+The goal of the optimization algorithm is to find the point with the lowest cost. The problem is, though, during optimization, you don’t see the graph. You only see the cost associated with a parameter once you try it out. The graph is invisible. The starting point for an optimization algorithm is an empty coordinate-system with no clue on how the graph looks like.
+The algorithm needs to explore the surface.
+One of the most prominent classical optimization algorithms is Gradient Descent. It is an iterative algorithm that operates over an optimization surface. For each value it visits, it calculates the gradient of the cost function. This tells the algorithm the direction to go.
+Once the gradient is zero, the algorithm reached a minimum! But there are many pitfalls for the algorithm. It may have reached only a local minimum or ended up on a plateau.
+Why doesn’t it figure out the shape of the function?, you ask?In a 2D-plot, we might succeed with this approach. But a 2D-plot represents a model that consists of a single parameter. If we have two parameters, we need a 3D surface.
+To represent three parameters, we could animate the 3D-surface (we would use time as a representation dimension). It’s already getting hard to tell the overall shape of the cost function, isn’t it?Now, assume we have ten or twenty parameters. Don’t try it at home, I believe the following image depicts the result of plotting a twenty-dimensional graph pretty accurately.
+Sometimes, the calculation of the cost of a single position is not as easy. In chess, for instance, the value of the position of a piece depends on the overall setting.
+In the simplest case, we would count the pieces and weigh each piece based on its type.
+In a more advanced case, we would evaluate the value of a piece depending on its type and relative position to other pieces. A pawn without a counterpart is much more valuable than a pawn. Isn’t it?This is where the VQE comes into play. It lets us find a solution to a combinatorial problem with a cost function that is hard to calculate. The VQE uses a parameterized quantum circuit to calculate the cost and combines it with an optimizer running on a classical computer.
+The following image shows the components of a VQE and how they interact with each other.
+The process starts with a Hamiltonian. The Hamiltonian is named after William Rowan Hamilton. Simply said, it is the definition of the problem we aim to solve — in the form of a matrix of numbers. If you wonder how we can represent a problem by a matrix, consider that quantum gates (the operations you can apply on qubits) are matrices, too. Thus, you can use quantum gates to formulate the problem.
+We use a set of parameters to control the preparation of a quantum state. How the parameters affect the quantum state is specified by the ansatz.
+The ansatz (the German word for approach) is a mathematical guess as to what the answer may be. It is also a set of quantum gates. But its focus is on transforming the problem into an estimation of its eigenvalue — a measure of the performance if you will. The ansatz takes the parameters and creates a quantum state. Once we measure this state, we get an estimation of how well these parameters perform.
+We use a classical optimizer to calculate a new set of parameters we feed into the quantum circuit again. We iterate until the result converges.
+ConclusionIf this is it, why do we use all this physical jargon?Well, the original scientific paper that described this approach aimed to estimate the ground-state energy of H2-molecules. The ground state is the state of the system with the lowest energy — the eigenvalue. Physical systems tend to lose energy. Once they reach the ground state and is left alone, it stays there forever.
+VQE just means we use a quantum computer to evaluate this energy, and a classical computer to choose how to improve the parameters so that the energy will be lower in the next quantum iteration. The idea of the VQE is to use a quantum computer for one thing only — to get the energy value for a given set of parameters. Everything else happens on a classical computer.
+This post is part of the book:Hands-On Quantum Machine Learning With Python.
+Get the first three chapters for freehere.
+------More from Towards Data ScienceYour home for data science. A Medium publication sharing concepts, ideas and codes.
+Recommended from MediumLinda DoyleJoy PhamJordan WeissAdi BronshteininTowards Data ScienceSmartStopSetinCoinmonksNimur HasanlaxmenaAhmed BesbesinDataDrivenInvestorAboutHelpTermsPrivacyGet the Medium appFrank Zickert | Quantum Machine Learning4K FollowersYou're interested in quantum computing and machine learning. But you don't know how to get started? Let me helpMore from MediumFrank Zickert | Quantum Machine LearninginTowards Data ScienceRenu KhandelwalQiskitinQiskitKeno LeonHelpStatusWritersBlogCareersPrivacyTermsAboutKnowable

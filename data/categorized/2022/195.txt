@@ -1,0 +1,19 @@
+old id = 629
+Microsoft is investing $1 billion in OpenAI to create brain-like machines | MIT Technology Review
+2022
+https://www.technologyreview.com/f/613994/microsoft-is-investing-1-billion-in-openai-to-create-brain-like-machines
+
+Microsoft is investing $1 billion in OpenAI to create brain-like machinesThe AI lab gets to throw Microsoft’s supercomputing and cloud computing muscle at its bid to build artificial general intelligence (AGI).
+The news:Microsoft says OpenAI will help it jointly develop and train new AI technologies for its Azure cloud computing service. It will also work with it to develop new supercomputing hardware to try to achieve AGI—machines with the capacity to learn tasks the way human beings do. That’s a holy grail of AI that still remains (and may always remain) out of reach. OpenAI’s founders, which include Elon Musk and other tech leaders, reckon AGI could help solve longstanding challenges in areas that range from climate change to health care.
+Show me the money:Since it was set up in 2015, OpenAI has developed AI that’s sought todefeat human players at games like Dota 2andfrighteningly effective language AI,among other things. It began as a nonprofit research lab with the mission of developing safe AGI, but AI models need mountains of data to crunch, and that requires huge amounts of expensive computing power. So earlier this year, OpenAI set up a new for-profit arm to help pay for its work. (OpenAI calls its model “capped profit” because investors can achieve a maximum of 100 times return on their investment. Still, not bad.)Go big or go home:The investment is part of Microsoft'snew strategyand will help the firm keep pace with rivals like Google, Facebook, and Amazon, which have all spent big on AI in recent years.
+While many AI researchers believe AGI is unachievable, OpenAI may be hoping to reach it by massively scaling existing deep-learning approaches rather than by developing new ones. There’s no guarantee that throwing more brute computing power at the problem will crack it, if itcaneven be cracked, so Microsoft’s billion-dollar bet is definitely a risky one.
+Sign upherefor our daily newsletter The Download to get your dose of the latest must-read news from the world of emerging tech.
+byMartin GilesSharePopularDeep DiveArtificial intelligenceArtificial intelligence is creating a new colonial world orderAn MIT Technology Review series investigates how AI is enriching a powerful few by dispossessing communities that have been dispossessed before.
+Meta has built a massive new language AI—and it’s giving it away for freeFacebook’s parent company is inviting researchers to pore over and pick apart the flaws in its version of GPT-3This horse-riding astronaut is a milestone in AI’s journey to make sense of the worldOpenAI’s latest picture-making AI is amazing—but raises questions about what we mean by intelligence.
+How the AI industry profits from catastropheAs the demand for data labeling exploded, an economic catastrophe turned Venezuela into ground zero for a new model of labor exploitation.
+Stay connectedGet the latest updates fromMIT Technology ReviewDiscover special offers, top stories, upcoming events, and more.
+Thank you for submitting your email!It looks like something went wrong.
+We’re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out to us atcustomer-service@technologyreview.comwith a list of newsletters you’d like to receive.
+MIT Technology ReviewOur in-depth reporting reveals what’s going on now to prepare you for what’s coming next.
+Subscribeto support our journalism.
+AboutHelp© 2022 MIT Technology Review

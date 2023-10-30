@@ -1,0 +1,46 @@
+old id = 1633
+From the crime scene to the courtroom: the journey of a DNA sample
+1995
+https://theconversation.com/from-the-crime-scene-to-the-courtroom-the-journey-of-a-dna-sample-82250
+
+EditionFrom the crime scene to the courtroom: the journey of a DNA sampleAuthorsHonorary Research Fellow, The University of QueenslandPostDoc Ecological and Evolutionary Genetics, The University of QueenslandDisclosure statementThe authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.
+PartnersUniversity of Queenslandprovides funding as a member of The Conversation AU.
+View all partnersThe O.J. Simpson murder trial in 1995 introduced DNA forensics to the public. The case collapsed, partly because the defence lawyers cast doubt on the validity of the evidence thanks to the inappropriate way the sampleswere handled.
+Things have changed since then. There are now safeguards in place to ensure the integrity of the chain of evidence. Laboratory protocols and procedures have also advanced.
+By following a piece of evidence from the crime scene to the courtroom, we’ll explain just how DNA is studied in the lab and used in the modern legal system.
+Read more:Explainer: Forensic scienceFrom the crime sceneThe DNA sample’s journey begins at the crime scene.
+There areseveral principlesthat guide DNA evidence collection by thecrime scene examiner. In particular, the avoidance of contamination or DNA degradation, and ensuring the chain of custody.
+The risk of contamination (from the collector or other evidence samples) is reduced by using sterile, disposable supplies. Degradation is minimised by drying samples before bagging.
+Storing dried samples inpaper bagsrather than plastic, and maintaining samples at the proper temperature helps preserve the DNA and prevent microbial contamination.
+It is also important to plan what to collect and how – sufficient material may be required for independent testing by the defence.
+To the labWhen any sample arrives in a lab, the first step is to extract the DNA.
+The blood samples analysed in the O.J. Simpson trial were typical of the time when large amounts of DNA were required to conduct testing. Today, small amounts of DNA, known as trace DNA, can be analysed from items such as cigarette butts, hair follicles, saliva, semen, and evenfaeces.
+This is possible because of the invention of a method in the 1980s called the polymerase chain reaction or “PCR”, which allows an individual strand of DNA to be replicated many times. This creates thousands of copies until there is enough DNA to conduct tests.
+Analysis beginsThe mainstay of modern DNA identification isshort tandem repeat(STR) markers, which are small sections of DNA that vary by length (the number of repeats).
+Multiple STR markers are used to create a DNA profile. They are tested using commercial kits that often incorporate a sex determination test (theamelogeningene).
+Mitochondrial DNAAnother method uses mitochondrial DNA.
+Mitochondrial DNA tends to last longer than other types of DNA and is often relied on in cold cases. The sequence of mitochondrial DNA “letters” is passed down from mother to child (with the exception of rare mutations), so mothers and grandmothers share the same DNA sequence as their children (but fathers do not).
+This makes mitochondrial DNA useful in identifying missing persons - the bones of Daniel Morcombewere identified this way.
+Read moreNed Kelly remains are positively identified … but how was it done?The Y chromosomeThe Y chromosome is present only in males and is passed from father to son. This makes Y chromosome STR markers a useful tool in situations such assexual assault caseswhere male and female DNA samples might be mixed and the male suspect’s identity needs to be established.
+In the same way as mitochondrial markers, Y-markers can be used for identification through family matching. The process offamilial matchingin criminal investigations raisesprivacy concernsbut is increasingly commonplace.
+In one recent incident, it was suggested that the surname of a suspect was identified from records of malefamily membersin public genetic ancestry databases.
+DNA databases and sample matchingAustralian law enforcement uses the National Criminal Investigation DNA Database (NCIDD), which is managed by the Australian Criminal Intelligence Commission.
+The more records added to the database, the greater the odds of making an accidental match. This is because the number of potential matches increases.
+To reduce the risk of false “hits”, genetic profiles can be made more complex. Increasing the number of STRs in each profile reduces the risk of a spurious match because the probability of a match (at 20 markers, for example) is estimated by multiplying the probabilities of each STR marker.
+The Australian system originally used nine STR’s and a sex-determination gene. In 2013 this was increased to18 core markers.
+Internationally, there are moves towards a standard set of 24 markers (such asGlobalFiler). With this many markers, the odds of two people having the same profile (twins excepted) are incredibly small. This makes an STR profile a powerful way to exclude suspects as well as making matches.
+In the courtroomModern DNA forensic methods are powerful and sensitive, but great care must be taken to prevent miscarriages of justice.
+It is difficult for people to comprehend probabilities like one in a quadrillion, and the presentation of such numbers in court can become prejudicial.
+In the case ofAytugrul v the Queen, DNA evidence was presented as an exclusion percentage of 99.9, and the defence argued that this would indicate certainty of guilt to the jury.
+Although the High Court of Australia ultimately allowed the DNA evidence presentation inAytugrul v the Queen, survey data suggest that the statistical presentation of genetic evidence may affect how it is understood andused by a jury.
+Such issues have lead toguidelinesby the US Department of Justice, among other justice groups, for the language used in forensic testimony and reports.
+There’s also a risk that contamination might implicate an innocent person. For that reason, DNA evidence is best used in support of other types of evidence.
+In the case ofR v Jama, DNA evidence was the sole basis of the rape case. Only after16 months’imprisonment was it revealed that the sample taken by the doctor was probably contaminated.
+Forensics in the futureDNA forensics will continue to evolve.
+Take a genetic test that can predicteye and hair colour: this test examines (or “genotypes”) 24 single letter DNA variants. These are analysed with a statistical model that provides probabilities for hair and eye colour based on a large database that links DNA variants to appearance.
+Understanding how DNA is linked tofacial featureshas even led to the creation of DNA-basedmugshots.
+“Massively parallel” sequencingmachines are also a significant advance. These can turn the approximately 3.2 billion DNA “letters” of the human genome into digital information in a matter of hours.
+This opens up all of the information contained in our genetic code to law enforcement. For example, some researchers claim it’s possible topredict the age of a suspect from a blood samplewithin a mean error margin of 3.8 years, based on methylation markers in the DNA, and this may be improved with the assistance ofmachine learning.
+The more we understand the link between appearance and DNA, the better its predictive power will be. It’s tempting to speculate how the O.J. Simpson trial may have turned out with modern forensic DNA protocols and technology.
+Want to write?Write an article and join a growing community of more than 146,400 academics and researchers from 4,377 institutions.
+Register nowCopyright © 2010–2022,The Conversation US, Inc.

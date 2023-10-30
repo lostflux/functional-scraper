@@ -1,0 +1,6 @@
+old id = 14
+Applied
+unknown
+https://www.deepmind.com/blog-categories/applied
+
+PostsAppliedMuZero’s first step from research into the real worldAdvancing sports analytics through AI researchTraffic prediction with advanced Graph Neural NetworksUsing WaveNet technology to reunite speech-impaired users with their original voicesAdvanced machine learning helps Play Store users discover personalised appsUsing machine learning to accelerate ecological researchHow evolutionary selection can train more capable self-driving carsSafety-first AI for autonomous data centre cooling and industrial controlDeepMind, meet AndroidHigh-fidelity speech synthesis with WaveNetWaveNet launches in the Google AssistantWaveNet: A generative model for raw audioDeepMind AI Reduces Google Data Centre Cooling Bill by 40%

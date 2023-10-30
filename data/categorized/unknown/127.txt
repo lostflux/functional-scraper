@@ -1,0 +1,7 @@
+old id = 1102
+VizWiz – Algorithms to assist people who are blind
+unknown
+https://vizwiz.org
+
+Algorithms to assist people who are blindAlgorithms to assist people who are blindOverviewA common goal in computer vision research is to build machines that can replicate the human vision system; for example, to recognize and describe objects/scenes. A natural grand challenge for the computer vision community is to design such technology to assist people who are blind to overcome their real daily visual challenges. Towards this aim, we introduce the first datasets and artificial intelligence challenges originating from people who are blind to encourage a larger community to collaborate on developing algorithms for assistive technologies. In particular, we built the datasets with data submitted by users of a mobile phone application, who each took a picture and (optionally) recorded a spoken question about that picture. Ultimately, we hope this work will educate more people about the technological needs of people who are blind while providing an exciting new opportunity for researchers to develop assistive technologies that eliminate their accessibility barriers.
+Publications

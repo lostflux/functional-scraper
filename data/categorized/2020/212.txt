@@ -1,0 +1,152 @@
+old id = 4882
+Global adoption of novel aquaculture feeds could substantially reduce forage fish demand by 2030 | Nature Food
+2020
+https://doi.org/10.1038%2Fs43016-020-0078-x
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+AdvertisementGlobal adoption of novel aquaculture feeds could substantially reduce forage fish demand by 2030Nature Foodvolume1,pages301–308 (2020)Cite this article1398Accesses70Citations132AltmetricMetricsdetailsSubjectsAbstractWith the global supply of forage fish at a plateau, fed aquaculture must continue to reduce dependence on fishmeal and oil in feeds to ensure sustainable sector growth. The use of novel aquaculture feed ingredients is growing, but their contributions to scalable and sustainable aquafeed solutions are unclear. Here, we show that global adoption of novel aquafeeds could substantially reduce aquaculture’s forage fish demand by 2030, maintaining feed efficiencies and omega-3 fatty acid profiles. We combine production data, scenario modelling and a decade of experimental data on forage fish replacement using microalgae, macroalgae, bacteria, yeast and insects to illustrate how reducing future fish oil demand, particularly in high-value species such as salmonids, will be key for the sustainability of fed aquaculture. However, considerable uncertainties remain surrounding novel feed efficacy across different life-cycle stages and taxa, and various social, environmental, economic and regulatory challenges will dictate their widespread use. Yet, we demonstrate how even limited adoption of novel feeds could aid sustainable aquaculture growth, which will become increasingly important for food security.
+Your institute does not have access to this articleAccess optionsSubscribe to Nature+Get immediate online access to the entire Nature family of 50+ journals$29.99monthlySubscribe to JournalGet full journal access for 1 year$119.00only $9.92 per issueAll prices are NET prices.
+VAT will be added later in the checkout.
+Tax calculation will be finalised during checkout.
+Buy articleGet time limited or full article access on ReadCube.
+$32.00All prices are NET prices.
+Additional access options:Data availabilityAquaculture production data are publicly available and were accessed through FishStatJ55. All data products used for analyses in this study are publicly available through a GitHub repository (https://github.com/cottrellr/alternativefeeds). All data that support this study are available from the corresponding author on request.
+Code availabilityAll custom code produced during the analyses were generated using R statistical software version 3.4.3 and are publicly available through a GitHub repository (https://github.com/cottrellr/alternativefeeds).
+ReferencesThe State of World Fisheries and Aquaculture 2018—Meeting the Sustainable Development Goals(FAO, 2018).
+Turchini, G. M., Trushenski, J. T. & Glencross, B. D. Thoughts for the future of aquaculture nutrition: realigning perspectives to reflect contemporary issues related to judicious use of marine resources in aquafeeds.
+N. Am. J. Aquac.
+81, 13–39 (2019).
+ArticleGoogle ScholarFroehlich, H., Jacobsen, N. S., Essington, T. E., Clavelle, T. & Halpern, B. S. Avoiding the ecological limits of forage fish for fed aquaculture.
+Nat. Sustain.
+1, 298–303 (2018).
+ArticleGoogle ScholarShepherd, C. J. & Jackson, A. J. Global fishmeal and fish-oil supply: inputs, outputs and markets.
+J. Fish Biol.
+83, 1046–1066 (2013).
+CASPubMedGoogle ScholarNaylor, R. et al. Feeding aquaculture in an era of finite resources.
+Proc. Natl Acad. Sci. USA106, 15103–15110 (2009).
+ADSCASPubMedArticleGoogle ScholarNaylor, R. et al. Effect of aquaculture on world fish supplies.
+Nature405, 1017–1024 (2000).
+ADSCASPubMedArticleGoogle ScholarWijkstrom, U. inFish as Feed Inputs for Aquaculture: Practices, Sustainability and ImplicationsFisheries and Aquaculture Technical Paper Vol. 518 (eds Hasan, M. & Halwart, M.) 371–407 (2009).
+Turchini, G. M., Torstensen, B. E. & Ng, W. K. Fish oil replacement in finfish nutrition.
+Rev. Aquac.
+1, 10–57 (2009).
+ArticleGoogle ScholarHasan, M. R. & Halwart, M.
+Fish as Feed Inputs for Aquaculture: Practices, Sustainability and Implications(FAO, 2009).
+Troell, M. et al. Does aquaculture add resilience to the global food system?Proc. Natl Acad. Sci. USA111, 13257–13263 (2014).
+ADSCASPubMedArticleGoogle ScholarFrancis, G., Makkar, H. P. S. & Becker, K. Antinutritional factors present in plant-derived alternate fish feed ingredients and their effects in fish.
+Aquaculture199, 197–227 (2001).
+CASArticleGoogle ScholarHamilton, H. A. et al. Investigating cross-sectoral synergies through integrated aquaculture, fisheries, and agriculture phosphorus assessments: a case study of Norway.
+J. Ind. Ecol.
+20, 867–882 (2015).
+ArticleGoogle ScholarKokou, F. & Fountoulaki, E. Aquaculture waste production associated with antinutrient presence in common fish feed plant ingredients.
+Aquaculture495, 295–310 (2018).
+CASArticleGoogle ScholarParker, R. Implications of high animal by-product feed inputs in life cycle assessments of farmed Atlantic salmon.
+Int. J. Life Cycle Assess.
+23, 982–994 (2018).
+CASArticleGoogle ScholarOlsen, R. E. et al. Can mesopelagic mixed layers be used as feed sources for salmon aquaculture?Deep Res. Pt IIhttps://doi.org/10.1016/j.dsr2.2019.104722(2020).
+Saunders, R. A., Hill, S. L., Tarling, G. A. & Murphy, E. J. Myctophid fish (family Myctophidae) are central consumers in the food web of the scotia sea (Southern Ocean).
+Front. Mar. Sci.
+6, 530 (2019).
+ArticleGoogle ScholarHua, K. et al. The future of aquatic protein: implications for protein sources in aquaculture diets.
+One Earth1, 316–329 (2019).
+ArticleGoogle ScholarPelletier, N., Klinger, D. H., Sims, N. A., Yoshioka, J. R. & Kittinger, J. N. Nutritional attributes, substitutability, scalability, and environmental intensity of an illustrative subset of current and future protein sources for aquaculture feeds: joint consideration of potential synergies and trade-offs.
+Environ. Sci. Technol.
+52, 5532–5544 (2018).
+ADSCASPubMedArticleGoogle ScholarFish to 2030: Prospects for Fisheries and Aquaculture(World Bank, 2013).
+Tilman, D. & Clark, M. Global diets link environmental sustainability and human health.
+Nature515, 518–522 (2014).
+ADSCASPubMedArticleGoogle ScholarSmith, A. D. M. et al. Impacts of fishing low-trophic level species on marine ecosystems.
+Science333, 1147–1150 (2011).
+ADSCASPubMedArticleGoogle ScholarShah, M. R. et al. Microalgae in aquafeeds for a sustainable aquaculture industry.
+J. Appl. Phycol.
+30, 197–213 (2018).
+ArticleGoogle ScholarMahan, K. M. et al. Production of single cell protein from agro-waste usingRhodococcus opacus.
+J. Ind. Microbiol. Biotechnol.
+45, 795–801 (2018).
+CASPubMedArticleGoogle ScholarRosas, V. T., Poersch, H., Romano, L. A. & Tesser, M. B. Feasibility of the use ofSpirulinain aquaculture diets.
+Rev. Aquac.
+11, 1367–1378 (2018).
+ArticleGoogle ScholarØverland, M. & Skrede, A. Yeast derived from lignocellulosic biomass as a sustainable feed resource for use in aquaculture.
+J. Sci. Food Agric.
+97, 733–742 (2017).
+PubMedArticleCASGoogle ScholarVan Huis, A. Potential of insects as food and feed in assuring food security.
+Annu. Rev. Entomol.
+58, 563–583 (2013).
+CASPubMedArticleGoogle ScholarHenry, M., Gasco, L., Piccolo, G. & Fountoulaki, E. Review on the use of insects in the diet of farmed fish: past and future.
+Anim. Feed Sci. Technol.
+203, 1–22 (2015).
+CASArticleGoogle ScholarSealey, W. M. et al. Sensory analysis of rainbow trout,Oncorhynchus mykiss, fed enriched black soldier fly prepupae,Hermetia illucens.
+J. World Aquac. Soc.
+42, 34–45 (2011).
+ArticleGoogle ScholarLundy, M. E. & Parrella, M. P. Crickets are not a free lunch: protein capture from scalable organic side-streams via high-density populations ofAcheta domesticus.
+PLoS ONE10, e0118785 (2015).
+PubMedPubMed CentralArticleCASGoogle ScholarHarris, W. S. Omega-3 fatty acids and cardiovascular disease: a case for omega-3 index as a new risk factor.
+Pharmacol. Res.
+55, 217–223 (2007).
+CASPubMedPubMed CentralArticleGoogle ScholarVon Schacky, C. Omega-3 index and cardiovascular health.
+Nutrients6, 799–814 (2014).
+CASPubMedPubMed CentralArticleGoogle ScholarTacon, A. G. J. & Metian, M. Global overview on the use of fish meal and fish oil in industrially compounded aquafeeds: trends and future prospects.
+Aquaculture285, 146–158 (2008).
+CASArticleGoogle ScholarSalmon novelty in France: Supermarché Match launches salmon fed with Veramaris’ innovative natural marine algal oil.
+Veramaris(6 June 2019).
+Protix presents the Friendly SalmonTM, the first insect-fed salmon in the world.
+Protix(6 February 2018).
+Vigani, M. et al. Food and feed products from micro-algae: market opportunities and challenges for the EU.
+Trends Food Sci. Technol.
+42, 81–92 (2015).
+CASArticleGoogle ScholarSprague, M., Betancor, M. B. & Tocher, D. R. Microbial and genetically engineered oils as replacements for fish oil in aquaculture feeds.
+Biotechnol. Lett.
+39, 1599–1609 (2017).
+CASPubMedPubMed CentralArticleGoogle ScholarTaelman, S. E. et al. Bioresource technology the environmental sustainability of microalgae as feed for aquaculture: a life cycle perspective.
+Bioresour. Technol.
+150, 513–522 (2013).
+CASPubMedArticleGoogle ScholarSustainability Report: Global 2017(Skretting, 2017).
+Tacon, A. & Metian, M. Feed matters: satisfying the feed demand of aquaculture.
+Rev. Fish. Sci. Aquac.
+23, 1–10 (2015).
+ArticleGoogle ScholarLlagostera, P. F., Kallas, Z., Reig, L. & Amores de Gea, D. The use of insect meal as a sustainable feeding alternative in aquaculture: current situation, Spanish consumers’ perceptions and willingness to pay.
+J. Clean. Prod.
+229, 10–21 (2019).
+ArticleGoogle ScholarEssington, T. E. et al. Fishing amplifies forage fish population collapses.
+Proc. Natl Acad. Sci. USA112, 6648–6652 (2015).
+ADSCASPubMedArticleGoogle ScholarCao, L. et al. China’s aquaculture and the world’s wild fisheries.
+Science347, 133–135 (2015).
+ADSCASPubMedArticleGoogle ScholarChiu, A. et al. Feed and fishmeal use in the production of carp and tilapia in China.
+Aquaculture414–415, 127–134 (2013).
+ArticleGoogle ScholarCouture, J. L. et al. Environmental benefits of novel nonhuman food inputs to salmon feeds.
+Environ. Sci. Technol.
+53, 1967–1975 (2019).
+ADSCASPubMedArticleGoogle ScholarOonincx, D. G. A. B. et al. An exploration on greenhouse gas and ammonia production by insect species suitable for animal or human consumption.
+PLoS ONE5, e14445 (2010).
+ADSCASPubMedPubMed CentralArticleGoogle ScholarOonincx, D. G. A. B. & de Boer, I. J. M. Environmental impact of the production of mealworms as a protein source for humans—a life cycle assessment.
+PLoS ONE7, e51145 (2012).
+ADSCASPubMedPubMed CentralArticleGoogle ScholarR Core TeamR: A Language and Environment for Statistical Computing(R Foundation for Statistical Computing, 2017).
+Pahlow, M., van Oel, P. R., Mekonnen, M. M. & Hoekstra, A. Y. Increasing pressure on freshwater resources due to terrestrial feed ingredients for aquaculture production.
+Sci. Total Environ.
+536, 847–857 (2015).
+ADSCASPubMedArticleGoogle ScholarPickering, C. & Byrne, J. The benefits of publishing systematic quantitative literature reviews for PhD candidates and other early-career researchers.
+High. Educ. Res. Dev.
+33, 534–548 (2014).
+ArticleGoogle ScholarFøre, M. et al. Review precision fish farming: a new framework to improve production in aquaculture.
+Biosyst. Eng.
+173, 176–193 (2018).
+ArticleGoogle ScholarAlhazzaa, R., Nichols, P. D. & Carter, C. G. Sustainable alternatives to dietary fish oil in tropical fish aquaculture.
+Rev. Aquac.
+11, 1195–1218 (2018).
+ArticleGoogle ScholarHarris, W. S. The omega-3 index as a risk factor for coronary heart disease.
+Am. J. Clin. Nutr.
+87, 1997S–2002S (2008).
+CASPubMedArticleGoogle ScholarHarris, W. S. & von Schacky, C. The omega-3 index: a new risk factor for death from coronary heart disease?Prev. Med.
+39, 212–220 (2004).
+CASPubMedArticleGoogle ScholarBerk, M. sme: Smoothing-splines mixed-effects models. R package v.1.0.2 (rdrr, 2018).
+FishStatJ (FAO, 2019).
+FAOSTAT(FAO, 2019);http://www.fao.org/faostat/en/#dataDownload referencesAcknowledgementsThe authors acknowledge funding and intellectual support from the Centre for Marine Socioecology, University of Tasmania and the Food System Impacts and Sustainability Working Group at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California, Santa Barbara. R.S.C. acknowledges funding from the CSIRO–UTAS Quantitative Marine Science Program and Australian Training Program. H.E.F. and B.S.H. acknowledge funding from the Zegar Family Foundation and, on behalf of M.M., the IAEA is grateful to the Government of the Principality of Monaco for the support provided to its Environment Laboratories.
+Author informationAffiliationsCentre for Marine Socioecology, University of Tasmania, Hobart, Tasmania, AustraliaRichard S. Cottrell & Julia L. BlanchardInstitute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania, AustraliaRichard S. Cottrell & Julia L. BlanchardNational Center for Ecological Analysis and Synthesis, University of California, Santa Barbara, Santa Barbara, CA, USARichard S. Cottrell, Benjamin S. Halpern & Halley E. FroehlichBren School of Environmental Science and Management, University of California, Santa Barbara, Santa Barbara, CA, USABenjamin S. HalpernInternational Atomic Energy Agency Environment Laboratories, Monaco, Principality of MonacoMarc MetianEcology, Evolution and Marine Biology, University of California, Santa Barbara, Santa Barbara, CA, USAHalley E. FroehlichEnvironmental Studies, University of California, Santa Barbara, Santa Barbara, CA, USAHalley E. FroehlichYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarContributionsR.S.C. and H.E.F. designed the study. R.S.C. conducted the analysis and wrote the initial draft. J.L.B., H.E.F., B.S.H. and M.M. contributed to methodological refinements and conceptual considerations. All authors contributed to completion of the manuscript through comments and edits of the text and figures.
+Corresponding authorCorrespondence toRichard S. Cottrell.
+Ethics declarationsCompeting interestsH.E.F. is a scientific advisor on the Aquaculture Stewardship Council Technical Advisory Group.
+Additional informationPublisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary informationSupplementary InformationReporting SummarySupplementary Table 2Rights and permissionsReprints and PermissionsAbout this articleCite this articleCottrell, R.S., Blanchard, J.L., Halpern, B.S.
+et al.
+Global adoption of novel aquaculture feeds could substantially reduce forage fish demand by 2030.
+Nat Food1,301–308 (2020). https://doi.org/10.1038/s43016-020-0078-xDownload citationReceived:24 October 2019Accepted:15 April 2020Published:19 May 2020Issue Date:May 2020DOI:https://doi.org/10.1038/s43016-020-0078-xShare this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiativeFurther readingEffect of micro-algae Schizochytrium sp. supplementation in plant diet on reproduction of female rainbow trout (Oncorhynchus mykiss): maternal programming impact of progenyJournal of Animal Science and Biotechnology(2022)Intensive production of the harpacticoid copepod Tigriopus californicus in a zero-effluent ‘green water’ bioreactorScientific Reports(2022)Expanding ocean food production under climate changeNature(2022)Torula yeast in the diet of Atlantic salmon Salmo salar and the impact on growth performance and gut microbiomeScientific Reports(2022)Farmed animal production in tropical circular food systemsFood Security(2022)Associated ContentCollectionOne Health in AquacultureAdvertisementExplore contentAbout the journalPublish with usSearchAdvanced searchQuick linksNature Food (Nat Food)ISSN2662-1355(online)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature LimitedSign up for theNature Briefingnewsletter — what matters in science, free to your inbox daily.

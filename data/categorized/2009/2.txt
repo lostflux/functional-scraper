@@ -1,0 +1,64 @@
+old id = 1111
+"Computational and Biological Learning Lab, Courant Institute, NYU"
+2009
+http://www.cs.nyu.edu/~yann/index
+
+Our researchis focused on Machine Learning, Computer Vision, Robotics, Computational Neuroscience, and various related topics.
+Contact information:Yann LeCunThe Courant Institute of Mathematical SciencesNew York University715 Broadway, New York, NY 10003, USA.
+Web:http://yann.lecun.com.
+Email: yann [ a t ] cs.nyu.edu;Telephone: (212)998-3283;Rob FergusThe Courant Institute of Mathematical SciencesNew York University715 Broadway, New York, NY 10003, USA.
+Web:http://www.cs.nyu.edu/~fergus.
+Email: fergus [ a t ] cs.nyu.edu;NewsFor an up-to-date list of events and seminarsfollow this link.
+older news and events2010-10-21: There isarticle about Yann and Convolutional Networks in The Economist.
+2009-05-06: Final class projects for Yann's undergraduate courseIntroduction to Roboticswere featured on a number of gadget and robot related blogs, particularlyslashgear, andRoboCommunity. Both blogs mention the final class project, which consisted ingetting Rovio robots to play soccer. The Rovios are controlled through Wifi by laptop computers programmed inLushto run vision and control algorithms.
+2009-05-01:Sebastian Seung(MIT) will give theNYU Computer Science Colloquium:Tracing the brain's wires: image segmentation via machine learning, Friday, May 1, 2009 at 11:30AM, Warren Weaver Hall, Room 1302, 251 Mercer Street, New York, NY, 10012-11102009-04-30: CBLL Thesis Defense:Marc'Aurelio Ranzato:Unsupervised Learning of Feature Hierarchies. Thursday April 30, 2009 at 1:30 PM, VLG: Room 1221, 715/719 Broadway, New York, NY 10003.
+2009-04-19: Announcing the2009 ICML Workshop on Learning Feature Hierarchies. This workshop will take place on June 18, 2009 in Montreal, Canada, in conjunction with the 26th International Conference on Machine Learning (ICML 2009). The organizers are: Kai Yu (NEC Labs-America), Ruslan Salakhutdinov (U. of Toronto), Yann LeCun (Courant Institute, NYU), Geoffrey Hinton (U. of Toronto) and Yoshua Bengio (U. of Montreal).
+2009-04-15:Podcast of an interview with Yann LeCun: mp3 podcast available from theNew York Academy of Science website.
+2009-04-10:New paper on feature learning available:Learning Invariant Features through Topographic Filter Maps, to appear in CVPR 2009. The method describes a method to learn SIFT-like locally-invariant feature detectors from data. The method minimizes a reconstruction criterion under a "block sparsity constraint", which minimizes the number of "pools" of features that are active. filters whose outputs are grouped in a pool end up detecting similar features, and the pool outputs can be interpreted as complex-cell like locally-invariant features.
+2008-11-28:New papers on off-road mobile robot available:Learning Long-Range Vision for Autonomous Off-Road DrivingandA Multi-Range Architecture for Collision-Free Off-Road Robot Navigation. These two long paper will appear in the Journal of Field Robotics. They describe, in gory detail, the off-road mobile robot system we developed for theDARPA LAGR program.
+2008-11-27:New paper on epilepsy seizure prediction available:Comparing SVM and Convolutional Networks for Epileptic Seizure Prediction from Intracranial EEG. The bottom line: our convolutional net-based system can predict epilepsy seizures one hour in advance for all patients in the plublicly available Freiburg dataset with no false alarm.
+2008-10-19:Jeff Han on the Daily Show. Our friend and collaborator Jeff Han was on the Daily Show yesterday showing off his magic touch screen as part of a spoof conspiracy thriller involving John Oliver and CNN's John King. In case you missed it,here is the video.
+2008-10-16:Old Courant Institute Reports at the Internet Archive. TheInternet Archivehas scanned thearchives of old tech reports the Courant Institute of Mathematical Science(our home institution) and put it up on their website. The best thing is that the Archive uses our own DjVu format to distribute the documents (among otherinferiorformats ;-). The collection includesseveral reports by The Man Himself: Richard Courant. The "DjVu" links on the archive website actually fires up a Java DjVu viewer (which is kind of slow), instad of calling your DjVu viewer or DjVu plug-in in your browser. The best is to click on the "http" link, and then click on the DjVu file. This project is funded by a grant from the Sloan foundation to the Archive.
+2008-10-15:upcoming seminars: 10/28: Killian Weinberger (Yahoo), 10/29: Ronan Collobert (NEC), 11/26: Alex Berg (Columbia), 12/03: Fei-Fei Li (Princeton), 12/17: Jason Weston (NEC).
+click here for details.
+2008-10-02:CBLL is awarded an NSF grant from the Energing Frontiers in Research and Innovation programentitled "Deep Learning in the Mammalian Visual Cortex". Collaborators in this project are Ed Boyden (MIT), Yang Dan (Berkeley), Yann LeCun (NYU), Andrew Ng (Stanford), and Sebastian Seung (MIT). There anNSF announcement, and apress release from NYU.
+2008-04-18: A coolVideo of our off-road mobile robotis available below. More details about the project (and more, higher quality videos) are available from ourLAGR project web page.
+2008-04-14:RARE SPECIAL EVENT: Talk by Geoff Hinton (U. of Toronto), Monday 14th at 11:30 at the Courant Institute, Warren Weaver Hall, Room 1302. Title: An efficient way to learn multiplicative interactions2008-04-12:coming CBLL seminars: 04/16: Michael Littman (Rutgers); 04/23: Daqvid Blei (Princeton); 04/30: Tony Jebara (Columbia).
+2008-04-11:Video and slidesof Yann's talk on deep learning at Google and Stanford.
+2008-04-11: A newvideodescribing ourLAGR off-road mobile robot systemisavailable here.
+2008-03-19:[Press]Anotherarticle about Jeff Hawkins, this time in Forbes magazine, in which Yann is quoted. He is described as a "neuroscience professor at MIT". They must have mixed up affiliations and quotes between Yann and Sebastian Seung.
+2008-03-08:[Press]There is anarticle in The Economistthis week about Jeff Hawkins and his new company Numenta, in which Yann and Geoffrey Hinton are quoted.
+2008-02-26:[Press]There is anarticle about our robotics project (LAGR)on the on-line version ofScientific American.
+2008-02-25:[Press]new videos of a15 minute interview of Yann LeCunon machine learning research, lecturing styles, where NIPS is going, the philosophy of science, and various other topics. (provided by Video Lectures).
+2008-02-25: new videos and slides available on thetalk page, including Yann's talks at the Deep Learning NIPS 2007 satellite session, and at the NIPS workshop on large-scale and efficient learning.
+2008-02-24: slides and videos of all the talks at the Deep Learning NIPS 2007 satellite session are now available at themeeting's main web site.
+2007-04-18: RARE EVENT:Geoffrey Hintonis giving a talk at NYU on April 18th at 11:30 AM (seeannouncement).
+2007-04-11: CBLL seminar byPradeep Ravikumarfrom CMU. CBLL, April 11th at 11:30 AM.
+2007-03-01:A new paper on the limitations of kernel methods and the challenges of scaling up learning algorithmsisavailable.
+2006-08-21:A tutorial paper on Energy-Based Learningisfinally available. The slides of the corresponding tutorial talk arealso available.
+2006-02-06:[Press]an article in Computerworldabout machine learning talks about Yann and mentions convolutional networks.
+2005-10-20:CBLL seminar by Sebastian Seung. See detailshere.
+2005-09-07:Yann's 4-hour tutorial at the 2005 IPAM Graduate Summer Schoolon Intelligent Extraction of Information from Graphs and High Dimensional Data, is available.
+The slides and the streaming video of the lectures are available here. The tutorial includes such topics as energy-based models, convolutional nets, trainable metrics, and graph transformer networks, with applications (including live demos) to handwriting recognition, invariant object recognition, face detection, image segmentation, and vision-based obstacle avoidance for mobile robots. TheSummer school's main web siteincludes videos and slides of all the talks.
+2005-02-28: upcomingCS colloquia on machine learning: Lawrence Saul (02/28), Tong Zhang (03/09), Alex Gray (03/11), David Blei (04/04), Gert Lanckriet (04/20), Guy Lebanon (04/22).
+2005-02-03: upcomingseminarsby Alex Pouget, John Langford, and Larry Carin.
+2005-02-02: new web pages for theface detection projectand theEnergy-Baed Model project.
+2005-02-01: Yann will speak at two summer schools this year: theMachine Learning Summer Schoolat Chicago, May 16-27 2005, and the IPAM summer school onIntelligent Extraction of Information from Graphs and High Dimensional Datato be held atIPAM/UCLA, July 11-292004-12-01: CBLL in partnership with Net-Scale Technologies, has been selected as of one of the 8 teams that will participate in he US government-fundedLAGRproject (Learning Applied to Ground Robots).
+2004-08-24: CBLL has an open postdoc position for a research project on vision-based robot navigation using machine learning methods.
+2004-08-23: The NORB dataset for object recognition isavailableCalendar of Talks and Seminars at CBLL and around >>>>.
+News and Events >>>>Research at CBLLClick here for a full list of past and present projects at CBLL.
+The Computational and Biological Learning Lab at the Courant Institute was founded in September 2003. Our main research goal is to devise new methods, theories, and algorithms to derive knowledge from data: the process commonly known aslearning. Understanding learning is a necessary step toward building intelligent systems that can learn from experience. It may also give us a better understanding of the mechanisms that underly human and animal intelligence.
+Over the last several years, Machine Learning methods have been applied with considerable success to such tasks as prediction, classification, detection, recognition, diagnosis, and to practically every areas of data modeling and decision making. Our interests at the CBLL include:"Deep" Learning, Unsupervised Learning: learning "deep" feature hierarchies: learning high-level internal representation of data from unlabeled examples.
+Large-scale learning: the design of large-scale learning systems involving tens of thousands of input variables, and millions of training samples;Biological learning: Elucidating the neural mechanisms of learning in animals and humans. What is the learning algorithm of the cortex?Energy-Based Models: non-probabilistic graphical models without intractable partition functions.
+Learning, perception, vision: visual perception is one of the most challenging domains for learning. We are developing learning systems for such tasks as thedetectionandrecognitionof objects in natural images.
+Computational models of biological vision: what better way to understand biological vision systems than to build and artificial one?Mobile Robots: building trainable vision systems to makemobile robotsnavigate and avoid obstacles in rugged terrain.
+Relational Graphical Models for Regression: we are building new types of relational graphical model for regression problems. The main application is predicting house prices.
+End-to-end learning: using learning in every stages and components of a system, from raw inputs to ultimate output;Applications: we work on all applications of machine learning and pattern recognition: data mining, biological data analysis, mobile robotics, face detection/recognition, object recognition in images, document understanding...
+Other topics:NEW!:Multi-Touch Interaction Panels (seeJeff Han's uber-kewl multi-touch panel).
+Programming languages and prototyping environments for research (seeLush).
+We are also interested in the following topics, but have no active projects in these areas at the moment:Digital Libraries: image compression, document understanding, electronic preservation and dissemination of Culture (seeDjVu).
+Signal processing, image processing, data compression (seeDjVu).
+Information theory, and the physical foundations of computing.
+Click here for more information about research projects at CBLL with papers, pictures, demos, videos...
+.
+"Courses (past and present)"Visit theindex of courses, with course descriptions, slides, reading lists, homework...

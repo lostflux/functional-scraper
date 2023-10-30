@@ -1,0 +1,90 @@
+old id = 2830
+Protein function prediction for newly sequenced organisms | Nature Machine Intelligence
+2021
+https://www.nature.com/articles/s42256-021-00419-7
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+AdvertisementProtein function prediction for newly sequenced organismsNature Machine Intelligencevolume3,pages1050–1060 (2021)Cite this article1421Accesses1Citations21AltmetricMetricsdetailsSubjectsAbstractRecent successes in protein function prediction have shown the superiority of approaches that integrate multiple types of experimental evidence over methods that rely solely on homology. However, newly sequenced organisms continue to represent a difficult challenge, because only their protein sequences are available and they lack data derived from large-scale experiments. Here we introduce S2F (Sequence to Function), a network propagation approach for the functional annotation of newly sequenced organisms. Our main idea is to systematically transfer functionally relevant data from model organisms to newly sequenced ones, thus allowing us to use a label propagation approach. S2F introduces a novel label diffusion algorithm that can account for the presence of overlapping communities of proteins with related functions. As most newly sequenced organisms are bacteria, we tested our approach in the context of bacterial genomes. Our extensive evaluation shows a great improvement over existing sequence-based methods, as well as four state-of-the-art general-purpose protein function prediction methods. Our work demonstrates that employing a diffusion process over networks of transferred functional data is an effective way to improve predictions over simple homology. S2F is applicable to any type of newly sequenced organism as well as to those for which experimental evidence is available. A free, easy to run version of S2F is available athttps://www.paccanarolab.org/s2f.
+This is a preview of subscription contentAccess optionsSubscribe to Nature+Get immediate online access to the entire Nature family of 50+ journals$29.99monthlySubscribe to JournalGet full journal access for 1 year$99.00only $8.25 per issueAll prices are NET prices.
+VAT will be added later in the checkout.
+Tax calculation will be finalised during checkout.
+Buy articleGet time limited or full article access on ReadCube.
+$32.00All prices are NET prices.
+Additional access options:Data availabilityThe input sequence files25in FASTA format for all the organisms used in this paper are available athttps://doi.org/10.5281/zenodo.5514323. The same URL also contains the detailed list of all organisms excluded when testing each specific bacterium.
+Code availabilityThe code for S2F is freely available and maintained athttps://www.paccanarolab.org/s2f. The exact version26used for this publication is available athttps://doi.org/10.5281/zenodo.5513071.
+ReferencesCruz, L. M., Trefflich, S., Weiss, V. A. & Castro, M. A. A. Protein function prediction.
+Methods Mol. Biol.
+1654, 55–75 (2017).
+ArticleGoogle ScholarShehu, A., Barbará, D. & Molloy, K. inBig Data Analytics in Genomics(ed. Wong, K.-C.) 225–298 (Springer, 2016);https://doi.org/10.1007/978-3-319-41279-5_7Jiang, Y. et al. An expanded evaluation of protein function prediction methods shows an improvement in accuracy.
+Genome Biol.
+17, 184 (2016).
+ArticleGoogle ScholarAshburner, M. et al. Gene Ontology: tool for the unification of biology.
+Nat. Genet.
+25, 25–29 (2000).
+ArticleGoogle ScholarCowen, L., Ideker, T., Raphael, B. J. & Sharan, R. Network propagation: a universal amplifier of genetic associations.
+Nat. Rev. Genet.
+18, 551–562 (2017).
+ArticleGoogle ScholarZhou, N. et al. The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens.
+Genome Biol.
+20, 244 (2019).
+ArticleGoogle ScholarValentini, G. True path rule hierarchical ensembles for genome-wide gene function prediction.
+IEEE/ACM Trans. Comput. Biol. Bioinform.
+8, 832–847 (2011).
+Google ScholarFriedberg, I. & Radivojac, P. inThe Gene Ontology Handbook(eds Dessimoz, C. & Škunca, N.) 133–146 (Springer, 2017);https://doi.org/10.1007/978-1-4939-3743-1_10Obozinski, G., Lanckriet, G., Grant, C., Jordan, M. I. & Noble, W. S. Consistent probabilistic outputs for protein function prediction.
+Genome Biol.
+9, S6 (2008).
+ArticleGoogle ScholarMitchell, A. L. et al. InterPro in 2019: improving coverage, classification and access to protein sequence annotations.
+Nucleic Acids Res.
+47, D351–D360 (2019).
+ArticleGoogle ScholarWalhout, A. J. et al. Protein interaction mapping inC. elegansusing proteins involved in vulval development.
+Science287, 116–122 (2000).
+ArticleGoogle ScholarYu, H. et al. Annotation transfer between genomes: protein-protein interologs and protein-DNA regulogs.
+Genome Res.
+14, 1107–1118 (2004).
+ArticleGoogle ScholarBen-Hur, A. & Noble, W. S. Kernel methods for predicting protein-protein interactions.
+Bioinformatics21, i38–i46 (2005).
+ArticleGoogle ScholarSharan, R. et al. Conserved patterns of protein interaction in multiple species.
+Proc. Natl Acad. Sci. USA102, 1974–1979 (2005).
+ArticleGoogle ScholarSzklarczyk, D. et al. STRING v11: protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets.
+Nucleic Acids Res.
+47, D607–D613 (2019).
+ArticleGoogle ScholarMostafavi, S., Ray, D., Warde-Farley, D., Grouios, C. & Morris, Q. GeneMANIA: a real-time multiple association network integration algorithm for predicting gene function.
+Genome Biol.
+9, S4 (2008).
+ArticleGoogle ScholarHuntley, R. P. et al. The GOA database: gene ontology annotation updates for 2015.
+Nucleic Acids Res.
+43, D1057–D1063 (2015).
+ArticleGoogle ScholarLavezzo, E., Falda, M., Fontana, P., Bianco, L. & Toppo, S. Enhancing protein function prediction with taxonomic constraints—the Argot2.5 web server.
+Methods93, 15–23 (2016).
+ArticleGoogle ScholarKulmanov, M. & Hoehndorf, R. DeepGOPlus: improved protein function prediction from sequence.
+Bioinformatics36, 422–429 (2020).
+Google ScholarYou, R. et al. GOLabeler: improving sequence-based large-scale protein function prediction by learning to rank.
+Bioinformatics34, 2465–2473 (2018).
+ArticleGoogle ScholarYou, R. et al. NetGO: improving large-scale protein function prediction with massive network information.
+Nucleic Acids Res.
+47, W379–W387 (2019).
+ArticleGoogle ScholarMakrodimitris, S., van Ham, R. C. H. J. & Reinders, M. J. T. Automatic gene function prediction in the 2020s.
+Genes11, 1264 (2020).
+ArticleGoogle ScholarCao, M. et al. Going the distance for protein function prediction: a new distance metric for protein interaction networks.
+PLoS ONE8, e76339 (2013).
+ArticleGoogle ScholarZhou, D., Bousquet, O., Lal, T. N., Weston, J. & Schölkopf, B. Learning with local and global consistency. InProc. 16th International Conference on Neural Information Processing Systems(eds Thrun, S. et al.) 321–328 (MIT, 2004).
+Torres, M., Yang, H., Romero, A. E. & Paccanaro, A. Input data for 'Protein function prediction for newly sequenced organisms'.
+Zenodohttps://doi.org/10.5281/ZENODO.5514323(2021).
+Torres, M., Yang, H., Romero, A. E. & Paccanaro, A. Source code for 'Protein function prediction for newly sequenced organisms'.
+Zenodohttps://doi.org/10.5281/ZENODO.5513071(2021).
+UniProt Consortium UniProt: a worldwide hub of protein knowledge.
+Nucleic Acids Res.
+47, D506–D515 (2019).
+Download referencesAcknowledgementsThe first idea for this project was conceived in discussions with T. Gianoulis, who we remember dearly for her intelligence, kindness, enthusiasm and passion for research. We also thank P. Bhat, T. Nepusz, J. Caceres, M. Frasca, G. Valentini, A. Devoto, L. Bögre, R. Sasidharan and M. Gerstein for many important and stimulating discussions. A.P. was supported by Biotechnology and Biological Sciences Research Council (https://bbsrc.ukri.org/) grants numbers BB/K004131/1, BB/F00964X/1 and BB/M025047/1, Medical Research Council (https://mrc.ukri.org) grant number MR/T001070/1, Consejo Nacional de Ciencia y Tecnología Paraguay (https://www.conacyt.gov.py/) grants numbers 14-INV-088 and PINV15–315, National Science Foundation Advances in Bio Informatics (https://www.nsf.gov/) grant number 1660648, Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro grant number E-26/201.079/2021 (260380) and Fundação Getulio Vargas.
+Author informationThese authors contributed equally: Mateo Torres, Haixuan Yang, Alfonso E. Romero.
+AffiliationsEscola de Matemática Aplicada, Fundação Getulio Vargas, Rio de Janeiro, BrazilMateo Torres & Alberto PaccanaroSchool of Mathematics and Statistical Sciences, National University of Ireland Galway, Galway, IrelandHaixuan YangDepartment of Computer Science, Centre for Systems and Synthetic Biology, Royal Holloway, University of London, Egham, UKAlfonso E. Romero & Alberto PaccanaroYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarContributionsA.P. conceived the study. A.P. and H.Y. devised the algorithms, developed the prototype and performed preliminary evaluations. M.T. and A.E.R. implemented and extended the algorithms and evaluation metrics, performed large-scale experiments and analysed the results. A.P., M.T. and A.E.R. wrote the manuscript and evaluated the biological relevance of the results. All authors discussed the results and implications. A.P. supervised the project.
+Corresponding authorCorrespondence toAlberto Paccanaro.
+Ethics declarationsCompeting interestsThe authors declare no competing interests.
+Additional informationPeer review informationNature Machine Intelligencethanks Jiecong Lin and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary informationSupplementary InformationSupplementary Figs. 1–58, Notes 1–18 and Table 1.
+Reporting SummaryRights and permissionsReprints and PermissionsAbout this articleCite this articleTorres, M., Yang, H., Romero, A.E.
+et al.
+Protein function prediction for newly sequenced organisms.
+Nat Mach Intell3,1050–1060 (2021). https://doi.org/10.1038/s42256-021-00419-7Download citationReceived:08 December 2020Accepted:26 October 2021Published:09 December 2021Issue Date:December 2021DOI:https://doi.org/10.1038/s42256-021-00419-7Share this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiativeFurther readingCombining views for newly sequenced organismsNature Machine Intelligence(2021)Associated ContentCombining views for newly sequenced organismsAdvertisementExplore contentAbout the journalPublish with usSearchAdvanced searchQuick linksNature Machine Intelligence (Nat Mach Intell)ISSN2522-5839(online)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature LimitedSign up for theNature Briefingnewsletter — what matters in science, free to your inbox daily.

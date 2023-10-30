@@ -1,0 +1,14 @@
+old id = 2583
+Welcome to the Artificial Intelligence Incident Database
+2020
+https://incidentdatabase.ai
+
+Welcome to the Artificial Intelligence Incident Database⇨Hiring⇦Latest Incident ReportKOTA KINABALU, Feb 19 — The Malaysian judiciary passed sentences for the first time today using artificial intelligence (AI) technology in the Kota Kinabalu magistrate court. Four cases, under Sectio...
+(Read More)Quick Add New Report URLAbout the DatabaseThe AI Incident Database is dedicated to indexing the collective history of harms or near harms realized in the real world by the deployment of artificial intelligence systems. Like similar databases in aviation and computer security, the AI Incident Database aims to learn from experience so we can prevent or mitigate bad outcomes.
+You are invited tosubmitincident reports, whereupon submissions will be indexed and madediscoverableto the world. Artificial intelligence will only be a benefit to people and society if we collectively record and learn from its failings.
+(Learn More)Latest Blog PostThe AI Incident Database launched publicly in November 2020 as a dashboard of AI harms realized in the real world. Inspired by similar…...
+(Read More)By Responsible AI CollaborativeThe Database in PrintRead about the database on thePAI Blog,Vice News,Venture Beat,Wired, andarXivamong other outlets.
+Founding ReportThe AI Incident Database is a project of the Responsible AI Collaborative, an organization chartered to advance the AI Incident Database. The governance of the Collaborative is architected around the participants in AI Incident Database programming. For more details, we invite you to read thefounding reportand learn more on ourboard and contributors.
+Database Founding SponsorAs a founding sponsor of the AIID,Partnership on AIwas instrumental in supporting the start-up of the database, as well as providing ongoing support and guidance. Partnership on AI also invested in promoting the social benefits of the AIID to their Partners and other stakeholders and have an ongoing interest in supporting its outcomes.
+Incident Report Submission LeaderboardsWordcountsThese are the most common rooted and stemmed words across all incident reports. More details are available on itsdata summary page.
+Random ReportsGoogle Image search for 'three black teenagers' vs 'three white teenagers' causes outrageGoogle’s self-driving car has been involved in its worst crash yetGoogle Sentiment Analysis API gives a biased outputMicrosoft made an AI algorithm to predict pregnancies of specific preteen girlsDozens of Amazon employees taken to hospital after robot unleashes bear spray

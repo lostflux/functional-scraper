@@ -1,0 +1,13 @@
+old id = 1174
+2018 Symposium
+2018
+https://ainowinstitute.org/symposia/2018-symposium
+
+AI NOW 2018 SymposiumOctober 16, 2018NYU Skirball Center, New York, NYEthics, Organizing, and AccountabilityOver the past year, research and advocacy have continued to expose bias, error, and misuse of Artificial Intelligence technologies–from law enforcement’s use of facial recognition to healthcare algorithms that drastically and erroneously cut benefits for the sick. Yet even in the face of increased public awareness and concern, the rapid adoption of these systems across sensitive social and political domains continues, with little oversight or transparency.
+Efforts to grapple with these challenges frequently focus on the importance of “AI Ethics,” but questions remain about how to translate ethical promises into meaningful accountability. In parallel, we have also witnessed a shift in urgency and tactics, as academics, advocates, and tech workers organize against the unchecked influence and impact of AI systems.
+The AI Now 2018 Symposium addressed the intersection of AI, ethics, organizing, and accountability–examining the landmark events of the past year that have brought these topics squarely into focus. What can we learn from them and where is there more work to be done?VideosKate CrawfordandMeredith WhittakerAI Now InstituteA panel on the implications of face recognition technologies and their increasingly widespread use.
+Nicole Ozer(Chair), ACLU of CaliforniaTimnit Gebru, Google AI; Black in AISherrilyn Ifill, NAACP Legal Defense FundA discussion with Astra Taylor, Director of ‘What Is Democracy?’, on her work examining the hidden labor behind AI.
+Astra Taylor, Writer, Documentarian, OrganizerIn conversation withKate Crawford, AI Now InstituteA panel on the increasing use of AI and automated decision systems at a time of rising inequality.
+Vincent Southerland(Chair), Center on Race, Inequality, and the Law at NYUPhilip Alston, NYU School of LawVirginia Eubanks, University at Albany, SUNYA discussion with lawyer and advocate Kevin De Liban on leading the court case against a flawed Arkansas state Medicaid algorithm.
+Kevin De Liban, Legal Aid of ArkansasIn conversation withKate Crawford, AI Now InstituteA panel on the role of research and organizing in holding powerful technical systems, and those who deploy them, accountable.
+Meredith Whittaker(Chair), AI Now InstituteRashida Richardson, AI Now InstituteLucy Suchman, Lancaster UniversityKate CrawfordandMeredith WhittakerAI Now InstituteSectionsA research institute examining the social implications of artificial intelligenceThis work is licensed under aCreative Commons Attribution-NoDerivatives 4.0 International License.

@@ -1,0 +1,38 @@
+old id = 141
+AlphaFold
+unknown
+https://deepmind.com/research/case-studies/alphafold
+
+AlphaFoldBuilding blocks of lifeInside every cell in your body, billions of tiny molecular machines are hard at work. They’re what allow your eyes to detect light, your neurons to fire, and the ‘instructions’ in your DNA to be read, which make you the unique person you are.
+Theseexquisite, intricate machinesareproteins. They underpin not just the biological processes in your body but every biological process in every living thing. They’re the building blocks of life.
+Currently, there are around100 million known distinct proteins, with many more found every year. Each one has a unique 3D shape that determines how it works and what it does.
+But figuring out the exact structure of a protein remains an expensive and often time-consuming process, meaning we only know theexact 3D structureof a tiny fraction of the proteins known to science.
+Finding a way to close this rapidly expanding gap and predict the structure of millions of unknown proteins could not only help us tackle disease and more quickly find new medicines but perhaps also unlock the mysteries of how life itself works.
+The protein folding problemIf you could unravel a protein you would see that it’s like a string of beads made of a sequence of different chemicals known as amino acids.
+These sequences are assembled according to the genetic instructions of an organism'sDNA.
+Attraction and repulsion between the 20 different types ofamino acidscause the string to fold in a feat of ‘spontaneousorigami’, forming the intricate curls, loops, and pleats of a protein’s 3D structure.
+Fordecades, scientistshave been trying to find a method to reliably determine a protein’s structure just from its sequence of amino acids.
+This grand scientific challenge is known as theprotein foldingproblem.
+What is AlphaFold?We started working on this challenge in 2016 and have since created an AI system known as AlphaFold.
+It was taught by showing it the sequences and structures of around100,000 known proteins.
+Experimental techniques for determining structures are painstakingly laborious and time consuming (sometimes taking years and millions of dollars).
+Ourlatest versioncan now predict the shape of a protein, at scale and in minutes, down to atomic accuracy.
+This is a significant breakthrough and highlights the impact AI can have on science.
+Joining a global research communityIn 1994, scientists interested in protein folding formed CASP (Critical Assessment of protein Structure Prediction).
+CASPis a community forum that allows researchers to share progress on the protein folding problem. The community also organises a biennial challenge for research groups to test the accuracy of their predictions against real experimental data.
+Teams are given a selection of amino acid sequences for proteins which have had their exact 3D shape mapped but have not yet been released into the public domain. Groups must submit their best predictions to see how close they are to the subsequently revealed structures.
+Among the teams that participated inCASP13(2018), AlphaFoldplaced first in the protein structure prediction challenge. AtCASP14(2020), we presented our latest version ofAlphaFold, which has now reached a level of accuracy considered to solve the protein structure prediction problem.
+Our work builds upon decades of research by CASP’s organisers and the protein folding community, and we’re indebted to the countless number of people who have contributed protein structures over the years, making such rigorous evaluations possible.
+A treasure troveWe’ve made AlphaFold predictions freely available to anyone in the scientific community.
+TheAlphaFold Protein Structure Database, created in partnership with Europe’s flagship laboratory for life sciences (EMBL’s European Bioinformatics Institute), builds on decades of painstaking work done by scientists using traditional methods to determine the structure of proteins.
+Ourfirst releasecovers over 350,000 structures, including the human proteome - all of the ~20,000 known proteins expressed in the human body - along with the proteomes of 20 additional organisms important for biological research, including yeast, the fruit fly and the mouse.
+These organisms are central to modern biological research, including Nobel Prize winning discoveries and life-saving drug development.
+Their release dramatically expands our knowledge of protein structures and more than doubles the number of high-accuracy human protein structures available to scientists around the world.
+Accelerating scientific discoveryA system like AlphaFold that is able to accurately predict the structure of proteins could accelerate progress in many areas of research that are important for society.
+AlphaFold is already being used by our partners. For instance, theDrugs for Neglected Diseases Initiative(DNDi) hasadvanced their research into life-saving curesfor diseases that disproportionately affect the poorer parts of the world, and theCentre for Enzyme Innovationat the University of Portsmouth (CEI) is using AlphaFold's predictions to help engineer faster enzymes for recycling some of our most polluting single-use plastics.
+A team at the University of Colorado Boulder is finding promise in using AlphaFold predictions to study antibiotic resistance, while a group at the University of California San Francisco has used them toincreasetheir understanding of SARS-CoV-2 biology.
+Looking to the futureOur research on AlphaFold continues, but our work so far strengthens our hope that its predictions will continue to unlock new possibilities in biological research that will benefit society.
+In the coming months we plan to vastly expand the AlphaFold Protein Structure Database to almost every sequenced protein known to science. Adding predictions of more than 100 million structures contained in the UniProt reference database, the most comprehensive resource of protein sequences, will create a veritable protein almanac of the world.
+And the system and database will periodically be updated as we continue to invest in future improvements to AlphaFold.
+We’re excited about this next phase of AlphaFold’s journey, and look forward to continuing our work with the global scientific community to unlock the potential of the building blocks of life.
+Further readingPutting the power of AlphaFold into the world’s hands

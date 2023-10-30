@@ -1,0 +1,13 @@
+old id = 1128
+IndabaX - Deep Learning Indaba 2022
+2022
+https://deeplearningindaba.com/2022/indabax
+
+IndabaXJune - December 2022Applications to host an IndabaX in 2022 are not open yet. Please check back soon for more info!We introduce the IndabaX: a way to experiment with the ways in which we can strengthen our Machine Learning community, and to allow more people to contribute to the conversation.
+An IndabaX is a locally-organised Indaba (i.e gathering) that helps develop knowledge and capacity in machine learning and artificial intelligence in individual countries across Africa.
+A Deep Learning IndabaX is a locally-organised Indaba that helps spread knowledge and builds capacity in machine learning.
+Key Dates for #DLIndabaX2022For more info, see theCall for Hostsor get in touch with theCentral Steering Committee.
+The IndabaX programme started in 2018 as an experiment in strengthening our machine learning community beyond the annual Deep Learning Indaba, to allow more people to contribute to the conversation on artificial intelligence and machine learning. We join hands across our beautiful continent. The initiative continues in 2021, and it is YOUR initiative!In 2018, we supported 13 IndabaX events that were run locally in different countries across Africa.
+In 2019, the IndabaX grew to include 27 countries! The events range from roughly 50 attendees per event, up to some of the larger ones which exceeded 300, allowing our community to grow to several thousand attendees.
+In 2021, due to the global pandemic, and after a one year break, IndabaX came back with 23 countries. Whether online or in hybrid format, these events were a success everywhere they went, with organisers coming up with brilliant and innovative solutions to have the events be as interactive as possible.
+Directory'+ beach[0] +'When: '+ beach[4] +'Host Institution: '+ beach[6] +'Attendees: '+ beach[5] +'Visit SiteContact usDeep Learning IndabaStrengthening African Machine Learninginfo@deeplearningindaba.comCopyright © Deep Learning Indaba 2017 - 2022. All Rights Reserved.

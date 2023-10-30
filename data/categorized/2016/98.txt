@@ -1,0 +1,483 @@
+old id = 4683
+Brain–computer interfaces for communication and rehabilitation | Nature Reviews Neurology
+2016
+https://doi.org/10.1038%2Fnrneurol.2016.113
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+AdvertisementBrain–computer interfaces for communication and rehabilitationNature Reviews Neurologyvolume12,pages513–525 (2016)Cite this article9262Accesses351Citations41AltmetricMetricsdetailsSubjectsACorrigendumto this article was published on 17 February 2017This article has beenupdatedKey PointsBrain–computer interfaces (BCIs) are starting to prove their efficacy as assistive and rehabilitative technologies in patients with severe motor impairmentsBCIs can be invasive or noninvasive, and designed to detect and decode a variety of brain signalsAssistive BCIs are intended to enable paralyzed patients to communicate or control external robotic devices; rehabilitative BCIs are intended to facilitate neural recoveryEEG-based BCIs have enabled some paralyzed patients to communicate, but near-infrared spectroscopy combined with a classical conditioning paradigm is the only successful approach for complete locked-in syndromeThe combination of EEG-based BCIs with behavioural physiotherapy is a feasible option for rehabilitation in stroke; the approach is to induce neuroplasticity and restore lost function after strokeThere is an urgent need for more large randomized controlled clinical trials using invasive and noninvasive BCIs with long-term follow-ups in patients rather than healthy populationsAbstractBrain–computer interfaces (BCIs) use brain activity to control external devices, thereby enabling severely disabled patients to interact with the environment. A variety of invasive and noninvasive techniques for controlling BCIs have been explored, most notably EEG, and more recently, near-infrared spectroscopy. Assistive BCIs are designed to enable paralyzed patients to communicate or control external robotic devices, such as prosthetics; rehabilitative BCIs are designed to facilitate recovery of neural function. In this Review, we provide an overview of the development of BCIs and the current technology available before discussing experimental and clinical studies of BCIs. We first consider the use of BCIs for communication in patients who are paralyzed, particularly those with locked-in syndrome or complete locked-in syndrome as a result of amyotrophic lateral sclerosis. We then discuss the use of BCIs for motor rehabilitation after severe stroke and spinal cord injury. We also describe the possible neurophysiological and learning mechanisms that underlie the clinical efficacy of BCIs.
+Your institute does not have access to this articleAccess optionsSubscribe to JournalGet full journal access for 1 year$59.00only $4.92 per issueAll prices are NET prices.
+VAT will be added later in the checkout.
+Tax calculation will be finalised during checkout.
+Buy articleGet time limited or full article access on ReadCube.
+$32.00All prices are NET prices.
+Additional access options:Change history17 February 2017In the initial version of this article, details of the BrainGate2 study were omitted from Table 1. This error has been corrected in the HTML and PDF versions of the article.
+ReferencesWyrwicka, W. & Sterman, M. B. Instrumental conditioning of sensorimotor cortex EEG spindles in the waking cat.
+Physiol. Behav.
+3, 703–707 (1968).
+ArticleGoogle ScholarKamiya, J. inAltered states of consciousness. (ed Tart, C.) 519–529 (New York: Wiley, 1969).
+Google ScholarFetz, E. E. & Baker, M. A. Operantly conditioned patterns on precentral unit activity and correlated responses in adjacent cells and contralateral muscles.
+J. Neurophysiol.
+36, 179–204 (1973).
+ArticleCASPubMedGoogle ScholarVidal, J.-J. Toward direct brain-computer communication.
+Annu. Rev. Biophys. Bioeng.
+2, 157–180 (1973).
+The first paper describing a brain computer interface and the hypothetical learning mechanisms involved.
+ArticleCASPubMedGoogle ScholarSterman, M. B., Wyrwicka, W. & Roth, S. Electrophysiological correlates and neural substrates of alimentary behavior in the cat.
+Ann. NY Acad. Sci.
+157, 723–739 (1969).
+ArticleCASPubMedGoogle ScholarSterman, M. & Friar, L. Suppression of seizures in epileptic Following on sensorimotor EEG feedback training.
+Electroencephalogr. Clin. Neurophysiol.
+33, 89–95 (1972).
+ArticleCASPubMedGoogle ScholarLubar, J. F. & Shouse, M. N. EEG and behavioral changes in a hyperkinetic child concurrent with training of the sensorimotor rhythm (SMR) - A preliminary report.
+Biofeedback Self Regul.
+1, 293–306 (1976).
+ArticleCASPubMedGoogle ScholarSterman, M. B. & Macdonald, L. R. Effects of central cortical EEG feedback training on incidence of poorly controlled seizures.
+Epilepsia19, 207–222 (1978).
+ArticleCASPubMedGoogle ScholarChapin, J. K., Moxon, K. A., Markowitz, R. S. & Nicolelis, M. A. L. Real-time control of a robot arm using simultaneously recorded neurons in the motor cortex.
+Nat. Neurosci.
+2, 664–670 (1999).
+ArticleCASPubMedGoogle ScholarDonoghue, J. P. Connecting cortex to machines: recent advances in brain interfaces.
+Nat. Neurosci.
+5, 1085–1088 (2002).
+ArticleCASPubMedGoogle ScholarNicolelis, M. A. L. Actions from thoughts.
+Nature409, 403–407 (2001).
+ArticleCASPubMedGoogle ScholarVelliste, M., Perel, S., Spalding, M. C., Whitford, A. S. & Schwartz, A. B. Cortical control of a prosthetic arm for self-feeding.
+Nature453, 1098–1101 (2008).
+ArticleCASPubMedGoogle ScholarTaylor, D. M., Tillery, S. I. H. & Schwartz, A. B. Direct Cortical Control of 3D Neuroprosthetic Devices.
+Sci.
+296, 1829–1832 (2002).
+ArticleCASGoogle ScholarSanthanam, G., Ryu, S. I., Yu, B. M., Afshar, A. & Shenoy, K. V. A high-performance brain-computer interface.
+Nature442, 195–198 (2006).
+ArticleCASPubMedGoogle ScholarWessberg, J.
+et al. Real-time prediction of hand trajectory by ensembles of cortical neurons in primates.
+Nature408, 361–365 (2000).
+ArticleCASPubMedGoogle ScholarSerruya, M. D., Hatsopoulos, N. G., Paninski, L., Fellows, M. R. & Donoghue, J. P. Brain-machine interface: Instant neural control of a movement signal.
+Nature416, 141–142 (2002).
+ArticleCASPubMedGoogle ScholarCarmena, J. M.
+et al. Learning to control a brain–machine interface for reaching and grasping by primates.
+PLoS Biol.
+1, e2 (2003).
+This paper provides the most advanced and detailed neurophysiological analysis of the neuronal mechanisms behind brain–computer interface control of complex movements.
+ArticleCASGoogle ScholarHochberg, L. R.
+et al. Neuronal ensemble control of prosthetic devices by a human with tetraplegia.
+Nature442, 164–171 (2006).
+ArticleCASPubMedGoogle ScholarDonoghue, J. P., Nurmikko, A., Black, M. & Hochberg, L. R. Assistive technology and robotic control using motor cortex ensemble-based neural interface systems in humans with tetraplegia.
+J. Physiol.
+579, 603–611 (2007).
+ArticleCASPubMedPubMed CentralGoogle ScholarBirbaumer, N., Ramos Murguialday, A., Weber, C. & Montoya, P. Chapter 8 neurofeedback and brain-computer Interface: clinical applications.
+Int. Rev. Neurobiol.
+86, 107–117 (2009).
+ArticlePubMedGoogle ScholarFuchs, T., Birbaumer, N., Lutzenberger, W., Gruzelier, J. H. & Kaiser, J. Neurofeedback treatment for attention-deficit / hyperactivity disorder in children: a comparison with methylphenidate.
+Appl. Psychophysiol. Biofeedback28, 1–12 (2003).
+ArticlePubMedGoogle ScholarMonastra, V. J.
+et al. Electroencephalographic biofeedback in the treatment of attention-deficit / hyperactivity disorder.
+J. Neurother.
+9, 5–34 (2006).
+ArticleGoogle ScholarKotchoubey, B.
+et al. Modification of slow cortical potentials in patients with refractory epilepsy: a controlled outcome study.
+Epilepsia42, 406–416 (2001).
+ArticleCASPubMedGoogle ScholarGilja, V.
+et al. Clinical translation of a high-performance neural prosthesis.
+Nat. Med.
+21, 1142–1145 (2015).
+ArticleCASPubMedPubMed CentralGoogle ScholarHochberg, L. R.
+et al. Reach and grasp by people with tetraplegia using a neurally controlled robotic arm.
+Nature485, 372–375 (2012).
+The first paper describing multidemensional movement control of an arm–hand robotic device using an implanted microelectrode array in the primary motor cortex of a paralyzed patient.
+ArticleCASPubMedPubMed CentralGoogle ScholarJarosiewicz, B.
+et al. Virtual typing by people with tetraplegia using a stabilized, self-calibrating intracortical brain-computer interface.
+IEEE BRAIN Gd. Challenges Conf. Washington, DC7, 1–11 (2014).
+Google ScholarPfurtscheller, G., Müller, G. R., Pfurtscheller, J., Gerner, H. J. & Rupp, R. 'Thought ' – control of functional electrical stimulation to restore hand grasp in a patient with tetraplegia.
+Neurosci. Lett.
+351, 33–36 (2003).
+ArticleCASPubMedGoogle ScholarCaria, A., Sitaram, R. & Birbaumer, N. Real-time fMRI: a tool for local brain regulation.
+Neuroscientist.
+18, 487–501 (2012).
+ArticlePubMedGoogle ScholarChaudhary, U., Birbaumer, N. & Curado, M. R. Brain-machine interface (BMI) in paralysis.
+Ann. Phys. Rehabil. Med.
+58, 9–13 (2015).
+ArticleCASPubMedGoogle ScholarNijboer, F.
+et al. An auditory brain–computer interface (BCI).
+J. Neurosci. Methods167, 43–50 (2008).
+ArticlePubMedGoogle ScholarChatterjee, A., Aggarwal, V., Ramos, A., Acharya, S. & Thakor, N. V. A brain-computer interface with vibrotactile biofeedback for haptic information.
+J. Neuroeng. Rehabil.
+4, 1–12 (2007).
+ArticleGoogle ScholarLugo, Z. R.
+et al. A vibrotactile p300-based brain-computer interface for consciousness detection and communication.
+Clin. EEG Neurosci.
+45, 14–21 (2014).
+ArticlePubMedGoogle ScholarBansal, A. K., Truccolo, W., Vargas-Irwin, C. E. & Donoghue, J. P. Decoding 3D reach and grasp from hybrid signals in motor and premotor cortices: spikes, multiunit activity, and local field potentials.
+J. Neurophysiol.
+107, 1337–1355 (2012).
+ArticlePubMedGoogle ScholarFlint, R. D., Wright, Z. A., Scheid, M. R. & Slutzky, M. W. Long term, stable brain machine interface performance using local field potentials and multiunit spikes.
+J. Neural Eng.
+10, 056005 (2013).
+ArticlePubMedPubMed CentralGoogle ScholarSo, K., Dangi, S., Orsborn, A. L., Gastpar, M. C. & Carmena, J. M. Subject-specific modulation of local field potential spectral power during brain-machine interface control in primates.
+J. Neural Eng.
+11, 026002 (2014).
+ArticlePubMedGoogle ScholarMehring, C.
+et al. Comparing information about arm movement direction in single channels of local and epicortical field potentials from monkey and human motor cortex.
+J. Physiol. Paris98, 498–506 (2004).
+ArticlePubMedGoogle ScholarGeorgopoulos, A. P., Schwartz, A. B. & Kettner, R. E. Neuronal population coding of movement direction.
+Science233, 1416–1419 (1986).
+ArticleCASPubMedGoogle ScholarGeorgopoulos, A. P. & Kettner, R. E. & Schwartz, A. B. Primate motor cortex and free arm movements to visual targets in three-dimensional space. II. Coding of the direction of movement by a neuronal population.
+J. Neurosci.
+8, 2928–2937 (1988).
+ArticleCASPubMedGoogle ScholarSerruya, M., Hatsopoulos, N., Paninski, L., Fellows, M. R. & Donoghue, J. P. Brain-machine interface: Instant neural control of a movement signal.
+Nature416, 121–142 (2002).
+ArticleGoogle ScholarLeuthardt, E. C., Schalk, G., Wolpaw, J. R., Ojemann, J. G. & Moran, D. W. A brain–computer interface using electrocorticographic signals in humans.
+J. Neural Eng.
+1, 63–71 (2004).
+ArticlePubMedGoogle ScholarFelton, E. a, Wilson, J. A., Williams, J. C. & Garell, P. C. Electrocorticographically controlled brain-computer interfaces using motor and sensory imagery in patients with temporary subdural electrode implants. Report of four cases.
+J. Neurosurg.
+106, 495–500 (2007).
+ArticlePubMedGoogle ScholarClancy, K. B., Koralek, A. C., Costa, R. M., Feldman, D. E. & Carmena, J. M. Volitional modulation of optically recorded calcium signals during neuroprosthetic learning.
+Nat. Neurosci.
+17, 807–809 (2014).
+ArticleCASPubMedPubMed CentralGoogle ScholarBirbaumer, N., Elbert, T., Canavan, A. & Rockstroh, B. Slow potentials of the cerebral cortex and behavior.
+Physiol. Rev.
+70, 1–41 (1990).
+ArticleCASPubMedGoogle ScholarKubler, A.
+et al. Brain-computer communication: self regulation of slow cortical potentials for verbal communication.
+Arch. Phys. Med. Rehabil.
+82, 1533–1539 (2001).
+ArticleCASPubMedGoogle ScholarBirbaumer, N., Hinterberger, T., Kübler, A. & Neumann, N. The thought-translation device (TTD): neurobehavioral mechanisms and clinical outcome.
+IEEE Trans. Neural Syst. Rehabil. Eng.
+11, 120–123 (2003).
+ArticlePubMedGoogle ScholarPfurtscheller, G. & Aranibar, A. Evaluation of event-related desynchronization (ERD) preceding and following voluntary self-paced movement.
+Electroencephalogr. Clin. Neurophysiol.
+46, 138–146 (1979).
+ArticleCASPubMedGoogle ScholarKübler, A.
+et al. Patients with ALS can use sensorimotor rhythms to operate a brain-computer interface.
+Neurology64, 1775–1777 (2005).
+ArticlePubMedGoogle ScholarWolpaw, J. R.
+et al. Brain-computer interfaces for communication and control.
+Clin. Neurophysiol.
+113, 767–791 (2002).
+ArticlePubMedGoogle ScholarFarwell, L. A. & Donchin, E. Talking off the top of your head: toward a mental prosthesis utilizing event-related brain potentials.
+Electroencephalogr. Clin. Neurophysiol.
+70, 510–523 (1988).
+ArticleCASPubMedGoogle ScholarKübler, A.
+et al. A brain-computer interface controlled auditory event-related potential (p300) spelling system for locked-in patients.
+Ann. NY Acad. Sci.
+1157, 90–100 (2009).
+ArticlePubMedGoogle ScholarHalder, S.
+et al. An auditory oddball brain-computer interface for binary choices.
+Clin. Neurophysiol.
+121, 516–523 (2010).
+ArticleCASPubMedGoogle ScholarPires, G., Nunes, U. & Castelo-Branco, M. Statistical spatial filtering for a P300-based BCI: Tests in able-bodied, and patients with cerebral palsy and amyotrophic lateral sclerosis.
+J. Neurosci. Methods195, 270–281 (2011).
+ArticlePubMedGoogle ScholarSellers, E. W. & Donchin, E. A P300-based brain-computer interface: Initial tests by ALS patients.
+Clin. Neurophysiol.
+117, 538–548 (2006).
+ArticlePubMedGoogle ScholarSellers, E. W., Vaughan, T. M. & Wolpaw, J. R. A brain-computer interface for long-term independent home use.
+Amyotroph. Lateral Scler.
+11, 449–455 (2010).
+ArticlePubMedGoogle ScholarLesenfants, D.
+et al. An independent SSVEP-based brain-computer interface in locked-in syndrome.
+J. Neural Eng. Neural Eng.
+11, 035002 (2014).
+ArticleCASGoogle ScholarZhu, D., Bieger, J., Molina, G. G. & Aarts, R. M. A survey of stimulation methods used in SSVEP-based BCIs.
+Comput. Intell. Neurosci.
+http://dx.doi.org/10.1155/2010/702357(2010).
+Chavarriaga, R. & Millán, J. del R. Learning from EEG error-related potentials in noninvasive brain-computer interfaces.
+IEEE Trans. Neural Syst. Rehabil. Eng.
+18, 381–388 (2010).
+ArticlePubMedGoogle ScholarLogothetis, N. K., Pauls, J., Augath, M., Trinath, T. & Oeltermann, A. Neurophysiological investigation of the basis of the fMRI signal.
+Nature412, 150–157 (2001).
+ArticleCASGoogle ScholarBirbaumer, N., Ruiz, S. & Sitaram, R. Learned regulation of brain metabolism.
+Trends Cogn. Sci.
+17, 295–302 (2013).
+An extensive review of basic and clinical neurofeedback studies using learning of metabolic brain resonses (BOLD or oxygenation) and the effects on behaviour and cognition.
+ArticlePubMedGoogle ScholarDeCharms, R. C.
+et al. Learned regulation of spatially localized brain activation using real-time fMRI.
+Neuroimage21, 436–443 (2004).
+ArticlePubMedGoogle ScholarRota, G., Handjaras, G., Sitaram, R., Birbaumer, N. & Dogil, G. Reorganization of functional and effective connectivity during real-time fMRI-BCI modulation of prosody processing.
+Brain Lang.
+117, 123–132 (2011).
+ArticlePubMedGoogle ScholarWeiskopf, N.
+et al. Physiological self-regulation of regional brain activity using real-time functional magnetic resonance imaging (fMRI): methodology and exemplary data.
+Neuroimage19, 577–586 (2003).
+ArticlePubMedGoogle ScholarYoo, S. S.
+et al. Brain computer interface using fMRI: spatial navigation by thoughts.
+Neuroreport15, 1591–1595 (2004).
+ArticlePubMedGoogle ScholarBirbaumer, N.
+et al. Deficient fear conditioning in psychopathy: a functional magnetic resonance imaging study.
+Arch. Gen. Psychiatry62, 799–805 (2005).
+ArticlePubMedGoogle ScholarLinden, D. E. J.
+et al. Real-time self-regulation of emotion networks in patients with depression.
+PLoS Onehttp://dx.doi.org/10.1371/journal.pone.0038115(2012).
+Li, X.
+et al. Volitional reduction of anterior cingulate cortex activity produces decreased cue craving in smoking cessation: A preliminary real-time fMRI study.
+Addict. Biol.
+18, 739–748 (2013).
+ArticlePubMedGoogle ScholarChaudhary, U., Hall, M., DeCerce, J., Rey, G. & Godavarty, A. Frontal activation and connectivity using near-infrared spectroscopy: verbal fluency language study.
+Brain Res. Bull.
+84, 197–205 (2011).
+ArticlePubMedGoogle ScholarChaudhary, U.
+et al. Motor response investigation in individuals with cerebral palsy using near infrared spectroscopy: pilot study.
+Appl. Opt.
+53, 503–510 (2014).
+ArticleCASPubMedGoogle ScholarObrig, H. NIRS in clinical neurology - a 'promising' tool?Neuroimage85, 535–546 (2014).
+ArticlePubMedGoogle ScholarGallegos-Ayala, G.
+et al. Brain communication in a completely locked-in patient using bedside near-infrared spectroscopy.
+Neurology82, 1930–1932 (2014).
+The first report of a controlled case study with BCI in a completely paralyzed, locked-in patient restoring communication.
+ArticlePubMedPubMed CentralGoogle ScholarNaito, M.
+et al. A communication means for totally locked-in ALS patients based on changes in cerebral blood volume measured with near-infrared light.
+IEICE Trans. Inf. Syst.
+E90D, 1028–1037 (2007).
+ArticleGoogle ScholarBirbaumer, N.
+et al. A spelling device for the paralysed.
+Nature398, 297–298 (1999).
+ArticleCASPubMedGoogle ScholarRamos-Murguialday, A.
+et al. Brain-machine interface in chronic stroke rehabilitation: a controlled study.
+Ann. Neurol.
+74, 100–108 (2014).
+ArticleGoogle ScholarBirbaumer, N., Murguialday, A. R. & Cohen, L. Brain-computer interface in paralysis.
+Curr. Opin. Neurol.
+21, 634–638 (2008).
+ArticlePubMedGoogle ScholarChou, S. M. & Norris, F. H. Amyotrophic lateral sclerosis: Lower motor neuron disease spreading to upper motor neurons.
+Muscle Nerve16, 864–869 (1993).
+ArticleCASPubMedGoogle ScholarBauer, G., Gerstenbrand, F. & Rumpl, E. Varieties of the Locked-in Syndrome.
+J. Neurol.
+221, 77–91 (1979).
+ArticleCASPubMedGoogle ScholarBeukelman, D., Fager, S. & Nordness, A. Communication support for people with ALS.
+Neurol. Res. Int.
+2011, 714693 (2011).
+ArticlePubMedPubMed CentralGoogle ScholarBeukelman, D. & Mirenda, P.
+Augmentative & alternative communication: Supporting children & adults with complex communication needs. (Paul, H. Brookes, Baltimore, MD, 2005).
+Google ScholarBirbaumer, N. & Cohen, L. G. Brain-computer interfaces: communication and restoration of movement in paralysis.
+J. Physiol.
+579, 621–636 (2007).
+ArticleCASPubMedPubMed CentralGoogle ScholarKennedy, P. R. & Bakay, R. A. Restoration of neural output from a paralyzed patient by a direct brain connection.
+Neuroreport9, 1707–1711 (1998).
+ArticleCASPubMedGoogle ScholarKennedy, P. R., Bakay, R. A., Moore, M. M., Adams, K. & Goldwaithe, J. Direct control of a computer from the human central nervous system.
+IEEE Trans. Rehabil. Eng.
+8, 198–202 (2000).
+ArticleCASPubMedGoogle ScholarKennedy, P.
+et al. Using human extra-cortical local field potentials to control a switch.
+J. Neural Eng.
+1, 72–77 (2004).
+ArticlePubMedGoogle ScholarWilhelm, B., Jordan, M. & Birbaumer, N. Communication in locked-in syndrome: effects of imagery on salivary pH.
+Neurology67, 534–535 (2006).
+ArticleCASPubMedGoogle ScholarMurguialday, A. R.
+et al. Transition from the locked in to the completely locked-in state: a physiological analysis.
+Clin. Neurophysiol.
+122, 925–933 (2011).
+ArticlePubMedGoogle ScholarBirbaumer, N. Breaking the silence: brain-computer interfaces (BCI) for communication and motor control.
+Psychophysiology43, 517–532 (2006).
+ArticlePubMedGoogle ScholarKübler, A. & Birbaumer, N. Brain-computer interfaces and communication in paralysis: extinction of goal directed thinking in completely paralysed patients?Clin. Neurophysiol.
+119, 2658–2666 (2008).
+ArticlePubMedPubMed CentralGoogle ScholarWolpaw, J. R. & McFarland, D. J. Control of a two-dimensional movement signal by a noninvasive brain-computer interface in humans.
+Proc. Natl Acad. Sci. USA101, 17849–17854 (2004).
+ArticleCASPubMedGoogle ScholarBai, O., Lin, P., Huang, D., Fei, D. Y. & Floeter, M. K. Towards a user-friendly brain-computer interface: initial tests in ALS and PLS patients.
+Clin. Neurophysiol.
+121, 1293–1303 (2010).
+ArticlePubMedPubMed CentralGoogle ScholarThorns, J.
+et al. Movement initiation and inhibition are impaired in amyotrophic lateral sclerosis.
+Exp. Neurol.
+224, 389–394 (2010).
+ArticlePubMedGoogle ScholarBirbaumer, N., Piccione, F., Silvoni, S. & Wildgruber, M. Ideomotor silence: the case of complete paralysis and brain-computer interfaces (BCI).
+Psychol. Res.
+76, 183–191 (2012).
+ArticlePubMedGoogle ScholarHinterberger, T.
+et al. Neuronal mechanisms underlying control of a brain – computer interface.
+Eur. J. Neurosci.
+21, 3169–3181 (2005).
+ArticlePubMedGoogle ScholarHinterberger, T.
+et al. Voluntary brain regulation and communication with electrocorticogram signals.
+Epilepsy Behav.
+13, 300–306 (2008).
+ArticlePubMedGoogle ScholarKoralek, A. C.
+et al. Corticostriatal plasticity is necessary for learning intentional neuroprosthetic skills.
+Nature483, 331–335 (2012).
+ArticleCASPubMedPubMed CentralGoogle ScholarDworkin, B. R. & Miller, N. E. Failure to replicate visceral learning in the acute curarized rat preparation.
+Behav. Neurosci.
+100, 299–314 (1986).
+This paper describes the failure to establish instrumental learning of physiological responses in the curarized rat and possible reasons for this problem.
+ArticleCASPubMedGoogle ScholarStocco, A., Lebiere, C. & Anderson, J. R. Conditional routing of information to the cortex: a model of the basal ganglia's role in cognitive coordination.
+Psychol. Rev.
+117, 541–574 (2010).
+ArticlePubMedPubMed CentralGoogle ScholarBirbaumer, N. & Chaudhary, U. Learning from brain control: clinical application of brain–computer interfaces.
+e-Neuroforum6, 87–95 (2015).
+ArticleGoogle ScholarFurdea, A.
+et al. A new (semantic) reflexive brain-computer interface: in search for a suitable classifier.
+J. Neurosci. Methods203, 233–240 (2012).
+ArticleCASPubMedGoogle ScholarRuf, C. A., De Massari, D., Wagner-Podmaniczky, F., Matuz, T. & Birbaumer, N. Semantic conditioning of salivary pH for communication.
+Artif. Intell. Med.
+59, 1–8 (2013).
+ArticleGoogle ScholarDe Massari, D.
+et al. Brain communication in the locked-in state.
+Brain136, 1989–2000 (2013).
+ArticlePubMedGoogle ScholarLulé, D.
+et al. Brain responses to emotional stimuli in patients with amyotrophic lateral sclerosis (ALS).
+J. Neurol.
+254, 519–527 (2007).
+ArticlePubMedGoogle ScholarLulé, D.
+et al. Life can be worth living in locked-in syndrome.
+Prog. Brain Res.
+177, 339–351 (2009).
+ArticlePubMedGoogle ScholarLulé, D.
+et al. Quality of life in fatal disease: the flawed judgement of the social environment.
+J. Neurol.
+260, 2836–2843 (2013).
+ArticlePubMedGoogle ScholarChaudhary, U. & Birbaumer, N. Communication in locked-in state after brainstem stroke: a brain- computer-interface approach.
+Ann. Transl. Med.
+3, 2–4 (2015).
+Google ScholarSimeral, J. D., Kim, S. P., Black, M. J., Donoghue, J. P. & Hochberg, L. R. Neural control of cursor trajectory and click by a human with tetraplegia 1000 days after implant of an intracortical microelectrode array.
+J. Neural Eng.
+8, 025027 (2011).
+ArticleCASPubMedPubMed CentralGoogle ScholarKübler, A.
+et al. Self-regulation of slow cortical potentials in completely paralyzed human patients.
+Neurosci. Lett.
+252, 171–174 (1998).
+ArticleGoogle ScholarPiccione, F.
+et al. P300-based brain computer interface: reliability and performance in healthy and paralysed participants.
+Clin. Neurophysiol.
+117, 531–537 (2006).
+ArticleCASPubMedGoogle ScholarSellers, E. W., Ryan, D. B. & Hauser, C. K. Noninvasive brain-computer interface enables communication after brainstem stroke.
+Sci. Transl. Med.
+6, 257re7 (2014).
+ArticlePubMedPubMed CentralGoogle ScholarCirstea, M. C., Ptito, A. & Levin, M. F. Arm reaching improvements with short-term practice depend on the severity of the motor deficit in stroke.
+Exp. Brain Res.
+152, 476–488 (2003).
+ArticleCASPubMedGoogle ScholarYoung, J. & Forster, A. Review of stroke rehabilitation.
+BMJ334, 86–90 (2007).
+ArticlePubMedPubMed CentralGoogle ScholarSaka, O., McGuire, A. & Wolfe, C. Cost of stroke in the United Kingdom.
+Age Ageing38, 27–32 (2008).
+ArticleGoogle ScholarLanghorne, P., Bernhardt, J. & Kwakkel, G. Stroke rehabilitation.
+Lancet377, 1693–1702 (2015).
+ArticleGoogle ScholarHendricks, H. T., van Limbeek, J., Geurts, A. C. & Zwarts, M. J. Motor recovery after stroke: a systematic review of the literature.
+Arch. Phys. Med. Rehabil.
+83, 1629–1637 (2002).
+ArticlePubMedGoogle ScholarWard, N. S. & Cohen, L. G. Mechanisms underlying recovery of motor function after stroke.
+Arch. Neurol.
+61, 1844–1848 (2004).
+ArticlePubMedPubMed CentralGoogle ScholarTaub, E., Uswatte, G. & Pidikiti, R. Constraint-induced movement therapy: a new family of techniques with broad application to physical rehabilitation – a clinical review.
+J. Rehabil. Res. Dev.
+36, 237–251 (1999).
+CASPubMedGoogle ScholarWolf, S. L.
+et al. Effect of constraint-induced movement therapy on upper extremity function 3 to 9 months after stroke: the EXCITE randomized clinical trial.
+JAMA296, 2095–2104 (2006).
+ArticleCASPubMedGoogle ScholarBuch, E. R.
+et al. Parietofrontal integrity determines neural modulation associated with grasping imagery after stroke.
+Brain135, 596–614 (2012).
+ArticlePubMedPubMed CentralGoogle ScholarBelda-Lois, J.-M.
+et al. Rehabilitation of gait after stroke: a review towards a top-down approach.
+J. Neuroeng. Rehabil.
+8, 66 (2011).
+ArticlePubMedPubMed CentralGoogle ScholarChollet, F.
+et al. Fluoxetine for motor recovery after acute ischaemic stroke (FLAME): a randomised placebo-controlled trial.
+Lancet Neurol.
+10, 123–130 (2011).
+ArticleCASPubMedGoogle ScholarSavitz, S. I.
+et al. Stem cells as an emerging paradigm in stroke 3: enhancing the development of clinical trials.
+Stroke45, 634–639 (2014).
+ArticlePubMedGoogle ScholarGanguly, K., Dimitrov, D. F., Wallis, J. D. & Carmena, J. M. Reversible large-scale modification of cortical networks during neuroprosthetic control.
+Nat. Neurosci.
+14, 662–667 (2011).
+ArticleCASPubMedPubMed CentralGoogle ScholarGulati, T.
+et al. Robust neuroprosthetic control from the stroke perilesional cortex.
+J. Neurosci.
+35, 8653–8661 (2015).
+ArticleCASPubMedPubMed CentralGoogle ScholarNishimura, Y., Perlmutter, S. I., Eaton, R. W. & Fetz, E. E. Spike-timing-dependent plasticity in primate corticospinal connections induced during free behavior.
+Neuron80, 1301–1309 (2013).
+This paper describes the neurophysiological bases of BCI applications in spinal cord injury.
+ArticleCASPubMedPubMed CentralGoogle ScholarLucas, T. H. & Fetz, E. E. Myo-cortical crossed feedback reorganizes primate motor cortex output.
+J. Neurosci.
+33, 5261–5274 (2013).
+ArticleCASPubMedPubMed CentralGoogle ScholarAng, K. K.
+et al. Brain-computer interface-based robotic end effector system for wrist and hand rehabilitation: results of a three-armed randomized controlled trial for chronic stroke.
+Front. Neuroeng.
+http://dx.doi.org/10.3389/fneng.2014.00030(2014).
+Ono, T.
+et al. Brain-computer interface with somatosensory feedback improves functional recovery from severe hemiplegia due to chronic stroke.
+Front. Neuroeng.
+http://dx.doi.org/10.3389/fneng.2014.00019(2014).
+Pichiorri, F.
+et al. Brain–computer interface boosts motor imagery practice during stroke recovery.
+Ann. Neurol.
+77, 851–865 (2015).
+ArticlePubMedGoogle ScholarKasahara, K., DaSalla, C. S., Honda, M. & Hanakawa, T. Neuroanatomical correlates of brain–computer interface performance.
+Neuroimage110, 95–100 (2015).
+ArticlePubMedGoogle ScholarBensmaia, S. J. & Miller, L. E. Restoring sensorimotor function through intracortical interfaces: progress and looming challenges.
+Nat. Rev. Neurosci.
+15, 313–325 (2014).
+ArticleCASPubMedGoogle ScholarRen, X.
+et al. Enhanced low-latency detection of motor intention from EEG for closed-loop brain-computer interface applications.
+Biomed. Eng. IEEE Trans.
+61, 288–296 (2014).
+ArticleGoogle ScholarJiang, N., Gizzi, L., Mrachacz-Kersting, N., Dremstrup, K. & Farina, D. A brain–computer interface for single-trial detection of gait initiation from movement related cortical potentials.
+Clin. Neurophysiol.
+126, 154–159 (2015).
+ArticlePubMedGoogle ScholarCollinger, J. L.
+et al. High-performance neuroprosthetic control by an individual with tetraplegia.
+Lancet381, 557–564 (2013).
+ArticlePubMedPubMed CentralGoogle ScholarOuzký, M. Towards concerted efforts for treating and curing spinal cord injury (Council of Europe Parliamentary Assembly document 9401).
+https://assembly.coe.int/nw/xml/XRef/X2H-Xref-ViewHTML.asp?FileID=9680&lang=en(2002)Van Den Berg, M. E., Castellote, J. M., Mahillo-Fernandez, I. & De Pedro-Cuesta, J. Incidence of spinal cord injury worldwide: a systematic review.
+Neuroepidemiology34, 184–192 (2010).
+ArticleCASPubMedGoogle ScholarWolpaw, J. R. The complex structure of a simple memory.
+Trends Neurosci.
+20, 588–594 (1997).
+ArticleCASPubMedGoogle ScholarWang, W.
+et al. An electrocorticographic brain interface in an individual with tetraplegia.
+PLoS ONEhttp://dx.doi.org/10.1371/journal.pone.0055344(2013).
+Pfurtscheller, G., Müller, G. R., Pfurtscheller, J. & Gerner, H. J. & Rupp, R. 'Thought' - Control of functional electrical stimulation to restore hand grasp in a patient with tetraplegia.
+Neurosci. Lett.
+351, 33–36 (2003).
+ArticleCASPubMedGoogle ScholarNguyen, J. S., Su, S. W. & Nguyen, H. T. Experimental study on a smart wheelchair system using a combination of stereoscopic and spherical vision.
+Conf. Proc. IEEE Eng. Med. Biol. Soc.
+2013, 4597–4600 (2013).
+PubMedGoogle ScholarKasashima-Shindo, Y.
+et al. Brain–computer interface training combined with transcranial direct current stimulation in patients with chronic severe hemiparesis: proof of concept study.
+J. Rehabil. Med.
+47, 318–324 (2015).
+ArticlePubMedGoogle ScholarEnzinger, C.
+et al. Brain motor system function in a patient with complete spinal cord injury following extensive brain-computer interface training.
+Exp. Brain Res.
+190, 215–223 (2008).
+ArticlePubMedGoogle ScholarKing, C. E.
+et al. The feasibility of a brain-computer interface functional electrical stimulation system for the restoration of overground walking after paraplegia.
+J. Neuroeng. Rehabil.
+12, 80 (2015).
+ArticlePubMedPubMed CentralGoogle ScholarPfurtscheller, G., Guger, C., Müller, G., Krausz, G. & Neuper, C. Brain oscillations control hand orthosis in a tetraplegic.
+Neurosci. Lett.
+292, 211–214 (2000).
+The first paper demonstrating noninvasive brain control using a sensorimotor rhythm brain–computer interface in a high spinal cord patient.
+ArticleCASPubMedGoogle ScholarCourtine, G. & Bloch, J. Defining Ecological Strategies in Neuroprosthetics.
+Neuron86, 29–33 (2015).
+ArticleCASPubMedGoogle Scholarvan den Brand, R.
+et al. Restoring voluntary control of locomotion after paralyzing spinal cord injury.
+Science336, 1182–1185 (2012).
+ArticleCASPubMedGoogle ScholarCombaz, A.
+et al. A comparison of two spelling brain-computer interfaces based on visual P3 and SSVEP in locked-in syndrome.
+PLoS ONEhttp://dx.doi.org/10.1371/journal.pone.0073691(2013).
+Bardin, J. C.
+et al. Dissociations between behavioural and functional magnetic resonance imaging-based evaluations of cognitive function after brain injury.
+Brain134, 769–782 (2011).
+ArticlePubMedPubMed CentralGoogle ScholarMonti, M. M.
+et al. Willful modulation of brain activity in disorders of consciousness.
+N. Engl. J. Med.
+362, 579–589 (2010).
+ArticleCASPubMedGoogle ScholarSchnakers, C.
+et al. Detecting consciousness in a total locked-in syndrome: an active event-related paradigm.
+Neurocase15, 271–277 (2009).
+ArticlePubMedGoogle ScholarLulé, D.
+et al. Probing command following in patients with disorders of consciousness using a brain-computer interface.
+Clin. Neurophysiol.
+124, 101–106 (2013).
+ArticlePubMedGoogle ScholarDownload referencesAcknowledgementsThe authors are funded by Deutsche Forschungsgemeinschaft (DFG, Bi195, Kosellek), Stiftung Volkswagenwerk (VW), German Ministry of Education and Research (BMBF, grant number MOTOR-BIC (FKZ 136W0053), Ministry of Science, Research and the Arts of Baden Wüttemberg (Az: 32–729.63-0/5-5), Baden-Württemberg Stiftung (ROB-1), EMOIO from the Federal Ministry of Education and Research (BMBF, 524-4013-16SV7196) and Eva and Horst Köhler-Stiftung, (Berlin), EU (Horizon 2020) grant “Brain Train” and “Luminous”, Brain Products, Munich, Germany, and the Wyss Foundation, Geneva, Switzerland.
+Author informationAffiliationsInstitute of Medical Psychology and Behavioural Neurobiology, University of Tübingen, Silcherstrasse 5, Tübingen, 72076, GermanyUjwal Chaudhary, Niels Birbaumer & Ander Ramos-MurguialdayWyss-Center for Bio- and Neuro-Engineering, Chenin de Mines 9, Geneva, Ch 1202, SwitzerlandNiels BirbaumerHealth Department, TECNALIA, Neural Engineering Laboratory, San Sebastian, Paseo Mikeletegi 1, San Sebastian, 20009, SpainAnder Ramos-MurguialdayYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarContributionsAll authors contributed equally to all aspects of preparing the manuscript.
+Corresponding authorsCorrespondence toUjwal ChaudharyorAnder Ramos-Murguialday.
+Ethics declarationsCompeting interestsThe authors declare no competing financial interests.
+Related linksFURTHER INFORMATIONNational Spinal Cord Injury Statistical CenterPowerPoint slidesPowerPoint slide for Fig. 1PowerPoint slide for Fig. 2PowerPoint slide for Table 1GlossaryNeural oscillations in the frequency range of 8–13 Hz, indicating widespread inhibitory activity in neuronal tissue.
+A type of learning in which the strength of a behaviour or a physiological response is modified by its consequences (reward or punishment).
+Graded neuroelectrical changes in voltage, generated by the summed synaptic currents flowing from multiple nearby neurons within a small volume of nervous tissue, recorded from inserted microelectrodes.
+Action potentials of single neurons, recorded using inserted microelectrodesAction potentials of multiple neurons,recorded using an array of multiple microelectrodes.
+Cortical preparation occurs before a cognitive, motor or emotional response, and is detectable with EEG as a negatively polarized voltage shift.
+Contingency is an associative connection between stimuli or responses that are usually paired within a short time period of milliseconds to seconds.
+Classical conditioning, also called Pavlovian conditioning, is a learning process in which two stimuli are repeatedly paired until one elicits a reflexive behavioural or physiological response that relates to the other.
+Rights and permissionsReprints and PermissionsAbout this articleCite this articleChaudhary, U., Birbaumer, N. & Ramos-Murguialday, A. Brain–computer interfaces for communication and rehabilitation.
+Nat Rev Neurol12,513–525 (2016). https://doi.org/10.1038/nrneurol.2016.113Download citationPublished:19 August 2016Issue Date:September 2016DOI:https://doi.org/10.1038/nrneurol.2016.113Share this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiativeFurther readingSpelling interface using intracortical signals in a completely locked-in patient enabled via auditory neurofeedback trainingNature Communications(2022)A neurophysiologically interpretable deep neural network predicts complex movement components from brain activityScientific Reports(2022)Influence of EEG channel reduction on lower limb motor imagery during electrical stimulation in healthy and paraplegic subjectsResearch on Biomedical Engineering(2022)BCI based on pedal end-effector triggered through pedaling imagery to promote excitability over the feet motor areaResearch on Biomedical Engineering(2022)Effects of Training with a Brain–Computer Interface-Controlled Robot on Rehabilitation Outcome in Patients with Subacute Stroke: A Randomized Controlled TrialNeurology and Therapy(2022)AdvertisementExplore contentAbout the journalPublish with usSearchAdvanced searchQuick linksNature Reviews Neurology (Nat Rev Neurol)ISSN1759-4766(online)ISSN1759-4758(print)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature LimitedSign up for theNature Briefingnewsletter — what matters in science, free to your inbox daily.

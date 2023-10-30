@@ -1,0 +1,304 @@
+old id = 2140
+Quantum Computing in the NISQ era and beyond – Quantum
+1236
+https://doi.org/10.22331%2Fq-2018-08-06-79
+
+the open journal for quantum scienceQuantum Computing in the NISQ era and beyondQuantum Computing in the NISQ era and beyondJohn PreskillInstitute for Quantum Information and Matter and Walter Burke Institute for Theoretical Physics, California Institute of Technology, Pasadena CA 91125, USAFind this paper interesting or want to discuss?Scite or leave a comment on SciRate.
+AbstractNoisy Intermediate-Scale Quantum (NISQ) technology will be available in the near future. Quantum computers with 50-100 qubits may be able to perform tasks which surpass the capabilities of today's classical digital computers, but noise in quantum gates will limit the size of quantum circuits that can be executed reliably. NISQ devices will be useful tools for exploring many-body quantum physics, and may have other useful applications, but the 100-qubit quantum computer will not change the world right away - we should regard it as a significant step toward the more powerful quantum technologies of the future. Quantum technologists should continue to strive for more accurate quantum gates and, eventually, fully fault-tolerant quantum computing.
+► BibTeX data► References[1]P. W. Shor, Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer, SIAM Rev. 41, 303-332 (1999), 10.1137/​S0036144598347011.
+https:/​/​doi.org/​10.1137/​S0036144598347011[2]A. P. Lund, M. J. Bremner, and T. C. Ralph, Quantum sampling problems, BosonSampling, and quantum supremacy, npj Quantum Information 3: 15 (2017), arXiv:1702.03061, 10.1038/​s41534-017-0018-2.
+https:/​/​doi.org/​10.1038/​s41534-017-0018-2arXiv:1702.03061[3]A. W. Harrow and A. Montanaro, Quantum computational supremacy, Nature 549, 203-209 (2017), 10.1038/​nature23458.
+https:/​/​doi.org/​10.1038/​nature23458[4]S. P. Jordan, Quantum algorithm zoo, http:/​/​math.nist.gov/​quantum/​zoo/​.
+http:/​/​math.nist.gov/​quantum/​zoo/​[5]A. Montanaro, Quantum algorithms: an overview, npj Quantum Information, 15023 (2016), arXiv:1511.04206, 10.1038/​npjqi.2015.23.
+https:/​/​doi.org/​10.1038/​npjqi.2015.23arXiv:1511.04206[6]L. Grover, Quantum mechanics helps in searching for a needle in a haystack, Phys. Rev. Lett. 79, 325 (1997), arXiv:quant-ph/​9706033, 10.1103/​PhysRevLett.79.325.
+https:/​/​doi.org/​10.1103/​PhysRevLett.79.325arXiv:quant-ph/9706033[7]C. H. Bennett, E. Bernstein, G. Brassard, and U. Vazirani, Strengths and weaknesses of quantum computing, SIAM J. Comput. 26, 1510-1523 (1997), arXiv:quant-ph/​9701001, 10.1137/​S0097539796300933.
+https:/​/​doi.org/​10.1137/​S0097539796300933arXiv:quant-ph/9701001[8]R. B. Laughlin and D. Pines, The theory of everything, PNAS 97, 28-31 (2000), 10.1073/​pnas.97.1.28.
+https:/​/​doi.org/​10.1073/​pnas.97.1.28[9]R. P. Feynman, Simulating physics with computers, Int. J. Theor. Physics 21, 467-488 (1982).
+[10]D. Gottesman, An introduction to quantum error correction and fault-tolerant quantum computation, Proceedings of Symposia in Applied Matthematics 68 (2010), arXiv:0904.2557.
+arXiv:0904.2557[11]S. Boixo, S. V. Isakov, V. N. Smelyansky, R. Babbush, N. Ding, Z. Jiang, M. J. Bremner, J. M. Martinis, and H. Neven, Characterizing quantum supremacy in near-term devices, Nature Physics 14, 595-600 (2018), arXiv:1608.00263 (2016), 10.1038/​s41567-018-0124-x.
+https:/​/​doi.org/​10.1038/​s41567-018-0124-xarXiv:1608.00263[12]S. Aaronson and L. Chen, Complexity-theoretic foundations of quantum supremacy experiments, arXiv:1612.05903 (2017).
+arXiv:1612.05903[13]E. Pednault, J. A. Gunnels, G. Nannicini, L. Horesh, T. Magerlein, E. Solomonik, and R. Wisnieff, Breaking the 49-qubit barrier in the simulation of quantum circuits, arXiv:1710.05867 (2017).
+arXiv:1710.05867[14]C. J. Ballance, T. P. Harty, N. M. Linke, M. A. Sepiol, and D. M. Lucas, High-fidelity quantum logic gates using trapped-ion hyperfine qubits, Phys. Rev. Lett. 117, 060504 (2016), arXiv:1512.04600, 10.1103/​PhysRevLett.117.060504.
+https:/​/​doi.org/​10.1103/​PhysRevLett.117.060504arXiv:1512.04600[15]R. Barends, J. Kelly, A. Megrant, A. Veitia, D. Sank, E. Jeffrey, T. C. White, J. Mutus, A. G. Fowler, B. Campbell, Y. Chen, Z. Chen, B. Chiaro, A. Dunsworth, C. Neill, P. O'Malley, P. Roushan, A. Vainsencher, J. Wenner, A. N. Korotkov, A. N. Cleland, and J. M. Martinis, Superconducting quantum circuits at the surface code threshold for fault tolerance, Nature 508, 500-503 (2014), arXiv:1402.4848, 10.1038/​nature13171.
+https:/​/​doi.org/​10.1038/​nature13171arXiv:1402.4848[16]D. J. Bernstein, J. Buchmann, E. Dahmen, editors, Post-Quantum Cryptography, Springer (2009), 10.1007/​978-3-540-88702-7.
+https:/​/​doi.org/​10.1007/​978-3-540-88702-7[17]R. Alléaume, C. Branciard, J. Bouda, T. Debuisschert, M. Dianati, N. Gisin, M. Godfrey, P. Grangier, T. Länger, N. Lütkenhaus, C. Monyk, P. Painchault, M. Peev, A. Poppe, T. Pornin, J. Rarity, R. Renner, G. Ribordy, M. Riguidel, L. Salvail, A. Shields, H. Weinfurter, and A. Zeilinger, Using quantum key distribution for cryptographic purposes: a survey, Theoretical Computer Science 560, 62-81 (2014), arXiv:quant-ph/​0701168, 10.1016/​j.tcs.2014.09.018.
+https:/​/​doi.org/​10.1016/​j.tcs.2014.09.018arXiv:quant-ph/0701168[18]S. Muralidharan, L. Li, J. Kim, N Lütkenhaus, M. D. Lukin, and L. Jiang, Efficient long distance quantum communication, Scientific Reports 6, 20463 (2016), arXiv:1509.08435, 10.1038/​srep20463.
+https:/​/​doi.org/​10.1038/​srep20463arXiv:1509.08435[19]P. Bierhorst, E. Knill, S. Glancy, Y. Zhang, A. Mink, S. Jordan, A. Rommal, Y.-K. Liu, B. Christensen, S. W. Nam, M. J. Stevens, and L. K. Shalm, Experimentally generated randomness certified by the impossibility of superluminal signals, Nature 556, 223-226 (2018), arXiv:1803.06219, 10.1038/​s41586-018-0019-0.
+https:/​/​doi.org/​10.1038/​s41586-018-0019-0arXiv:1803.06219[20]Z. Brakerski, P. Christiano, U. Mahadev, U. Vazirani, and T. Vidick, Certifiable randomness from a single quantum device, arXiv:1804.00640 (2018).
+arXiv:1804.00640[21]C. L. Degen, F. Reinhard, and P. Cappellaro, Quantum sensing, Rev. Mod. Phys. 89, 035002 (2017), arXiv:1611.04691, 10.1103/​RevModPhys.89.035002.
+https:/​/​doi.org/​10.1103/​RevModPhys.89.035002arXiv:1611.04691[22]J. Preskill, Quantum computing and the entanglement frontier, 25th Solvay Conference on Physics (2011), arXiv:1203.5813.
+arXiv:1203.5813[23]S. Khot, Hardness of approximation, Proceedings of the International Congress of Mathematicians (2014).
+[24]E. Farhi, J. Goldstone, and S. Gutmann, A quantum approximate optimization algorithm, arXiv:1411.4028 (2014).
+arXiv:1411.4028[25]J. R. McClean, J. Romero, R. Babbush, and A. Aspuru-Guzik, The theory of variational hybrid quantum-classical algorithms, New J. Phys. 18, 023023 (2016), arXiv:1509.04279, 10.1038/​ncomms5213.
+https:/​/​doi.org/​10.1038/​ncomms5213arXiv:1509.04279[26]D. A. Spielman and S.-H. Teng, Smoothed analysis of algorithms: why the simplex algorithm usually takes polynomial time, Journal of the ACM 51, 385-463 (2004), arXiv:cs/​0111050, 10.1145/​990308.990310.
+https:/​/​doi.org/​10.1145/​990308.990310arXiv:cs/0111050[27]Y. LeCun, Y. Bengio, and G. Hinton, Deep learning, Nature 521, 436-444 (2015), 10.1038/​nature14539.
+https:/​/​doi.org/​10.1038/​nature14539[28]T. F. Rønnow, Z. Wang, J. Job, S. Boixo, S. V. Isakov, D. Wecker, J. M. Martinis, D. A. Lidar, and M. Troyer, Defining and detecting quantum speedup, Science 345, 420-424 (2014), 10.1126/​science.1252319.
+https:/​/​doi.org/​10.1126/​science.1252319[29]S. Mandrà, H. G. Katzgraber, and C. Thomas, The pitfalls of planar spin-glass benchmarks: raising the bar for quantum annealers (again), Quantum Sci. Technol. 2, 038501 (2017), arXiv:1703.00622, 10.1088/​2058-9565/​aa7877.
+https:/​/​doi.org/​10.1088/​2058-9565/​aa7877arXiv:1703.00622[30]T. Albash and D. A. Lidar, Adiabatic quantum computing, Rev. Mod. Phys. 90, 015002 (2018), arXiv:1611.04471, 10.1103/​RevModPhys.90.015002.
+https:/​/​doi.org/​10.1103/​RevModPhys.90.015002arXiv:1611.04471[31]D. Aharonov, W. van Dam, J. Kempe, Z. Landau, S. Lloyd, and O. Regev, Adiabatic quantum computation is equivalent to standard quantum computation, SIAM Rev. 50, 755-787 (2008), arXiv:quant-ph/​0405098.
+arXiv:quant-ph/0405098[32]S. Bravyi, D. DiVincenzo, R. I. Oliveira, and B. M. Terhal, The complexity of stoquastic local Hamiltonian problems, Quant. Inf. Comp. 8, 0361-0385 (2008), arXiv:quant-ph/​0606140.
+arXiv:quant-ph/0606140[33]M. Jarret, S. P. Jordan, and B. Lackey, Adiabatic optimization versus diffusion Monte Carlo, Phys. Rev. A 94, 042318 (2016), arXiv:1607.03389, 10.1103/​PhysRevA.94.042318.
+https:/​/​doi.org/​10.1103/​PhysRevA.94.042318arXiv:1607.03389[34]A. D. King, J. Carrasquilla, I. Ozfidan, J. Raymond, E. Andriyash, A. Berkley, M. Reis, T. M. Lanting, R. Harris, G. Poulin-Lamarre, A. Yu. Smirnov, C. Rich, F. Altomare, P. Bunyk, J. Whittaker, L. Swenson, E. Hoskinson, Y. Sato, M. Volkmann, E. Ladizinsky, M. Johnson, J. Hilton, and M. H. Amin, Observation of topological phenomena in a programmable lattice of 1,800 qubits, arXiv:1803.02047 (2018).
+arXiv:1803.02047[35]I. H. Kim, Noise-resilient preparation of quantum many-body ground states, arXiv:1703.00032 (2017).
+arXiv:1703.00032[36]I. H. Kim and B. Swingle, Robust entanglement renormalization on a noisy quantum computer, arXiv:1711.07500 (2017).
+arXiv:1711.07500[37]J. Biamonte, P. Wittek, N. Pancotti, P. Rebentrost, N. Wiebe, and S. Lloyd, Quantum machine learning, Nature 549, 195-202 (2017), arXiv:1611.09347, 10.1038/​nature23474.
+https:/​/​doi.org/​10.1038/​nature23474arXiv:1611.09347[38]S. Aaronson, Read the fine print, Nature Physics 11, 291-293 (2015), 10.1038/​nphys3272.
+https:/​/​doi.org/​10.1038/​nphys3272[39]X. Gao, Z. Zhang, and L. Duan, An efficient quantum algorithm for generative machine learning, arXiv:1711.02038 (2017).
+arXiv:1711.02038[40]A. W. Harrow, A. Hassidim, and S. Lloyd, Quantum algorithm for linear systems of equations, Phys. Rev. Lett. 103, 150502 (2009), arXiv:0811.3171, 10.1103/​PhysRevLett.103.150502.
+https:/​/​doi.org/​10.1103/​PhysRevLett.103.150502arXiv:0811.3171[41]B. D. Clader, B. C. Jacobs, and C. R. Sprouse, Preconditioned quantum linear system algorithm, Phys. Rev. Lett. 110, 250504 (2013), arXiv:1301.2340, 10.1103/​PhysRevLett.110.250504.
+https:/​/​doi.org/​10.1103/​PhysRevLett.110.250504arXiv:1301.2340[42]A. Montanaro and S. Pallister, Quantum algorithms and the finite element method, Phys. Rev. A 93, 032324 (2016), arXiv:1512.05903, 10.1103/​PhysRevA.93.032324.
+https:/​/​doi.org/​10.1103/​PhysRevA.93.032324arXiv:1512.05903[43]P. C. S. Costa, S. Jordan, and A. Ostrander, Quantum algorithm for simulating the wave equation, arXiv:1711.05394 (2017).
+arXiv:1711.05394[44]I. Kerenidis and A. Prakash, Quantum recommendation systems, arXiv:1603.08675 (2016).
+arXiv:1603.08675[45]E. Tang, A quantum-inspired classical algorithm for recommendation systems, Electronic Colloquium on Computational Complexity, TR18-12 (2018).
+[46]F. G. S. L. Brandão and K. Svore, Quantum speed-ups for semidefinite programming, Proceedings of FOCS 2017, arXiv:1609.05537 (2017).
+arXiv:1609.05537[47]F. G. S. L. Brandão, A. Kalev, T. Li, C. Y.-Y. Lin, K. M. Svore, and X. Wu, Exponential quantum speed-ups for semidefinite programming with applications to quantum learning, arXiv:1710.02581 (2017).
+arXiv:1710.02581[48]M. Reiher, N. Wiebe, K. M. Svore, D. Wecker, and M. Troyer, Elucidating reaction mechanisms on quantum computers, PNAS 117, 7555-7560 (2017), arXiv:1605.03590, 10.1073/​pnas.1619152114.
+https:/​/​doi.org/​10.1073/​pnas.1619152114arXiv:1605.03590[49]D. Wecker, M. B. Hastings, N. Wiebe, B. K. Clark, C. Nayak, and M. Troyer, Solving strongly correlated electron models on a quantum computer, Phys. Rev. A 92, 062310 (2015), arXiv:1506.05135, 10.1103/​PhysRevA.92.062318.
+https:/​/​doi.org/​10.1103/​PhysRevA.92.062318arXiv:1506.05135[50]J. Olson, Y. Cao, J. Romero, P. Johnson, P.-L. Dallaire-Demers, N. Sawaya, P. Narang, I. Kivlichan, M. Wasielewski, A. Aspuru-Guzik, Quantum information and computation for chemistry, NSF Workshop Report, arXiv:1706.05413 (2017).
+arXiv:1706.05413[51]H. Bernien, S. Schwartz, A. Keesling, H. Levine, A. Omran, H. Pichler, S. Choi, A. S. Zibrov, M. Endres, M. Greiner, V Vuletić, and M. D. Lukin, Probing many-body dynamics on a 51-atom quantum simulator, Nature 551, 579-584 (2017), arXiv:1707.04344, 10.1038/​nature24622.
+https:/​/​doi.org/​10.1038/​nature24622arXiv:1707.04344[52]J. Zhang, G. Pagano, P. W. Hess, A. Kyprianidis, P. Becker, H. Kaplan, A. V. Gorshkov, Z.-X. Gong, and C. Monroe, Observation of a many-body dynamical phase transition with a 53-qubit quantum simulator, arXiv:1708.01044 (2017), 10.1038/​nature24654.
+https:/​/​doi.org/​10.1038/​nature24654arXiv:1708.01044[53]E. T. Campbell, B. M. Terhal, and C. Vuillot, The steep road towards robust and universal quantum computation, arXiv:1612.07330 (2016).
+arXiv:1612.07330[54]J. J. Wallman and J. Emerson, Noise tailoring for scalable quantum computation via randomized compiling, Phys. Rev. A 94, 052325 (2016), arXiv:1512:01098, 10.1103/​PhysRevA.94.052325.
+https:/​/​doi.org/​10.1103/​PhysRevA.94.052325arXiv:1512[55]J. Combes, C. Granade, C. Ferrie, and S. T. Flammia, Logical randomized benchmarking, arXiv:1702.03688 (2017).
+arXiv:1702.03688[56]A. G. Fowler, M. Mariantoni, J. M. Martinis, and A. N. Cleland, Surface codes: towards practical large-scale quantum computation, Phys. Rev. A 86, 032324 (2012), arXiv:1208.0928, 10.1103/​PhysRevA.86.032324.
+https:/​/​doi.org/​10.1103/​PhysRevA.86.032324arXiv:1208.0928[57]S. Das Sarma, M. Freedman, and C. Nayak, Majorana zero modes and topological quantum computation, npj Quantum Information 1, 15001 (2015), arXiv:1501.02813, 10.1038/​npjqi.2015.1.
+https:/​/​doi.org/​10.1038/​npjqi.2015.1arXiv:1501.02813Cited by[1] Vojtěch Havlíček, Antonio D. Córcoles, Kristan Temme, Aram W. Harrow, Abhinav Kandala, Jerry M. Chow, and Jay M. Gambetta, "Supervised learning with quantum-enhanced feature spaces",Nature 567 7747, 209 (2019).
+[2] Abhinav Kandala, Kristan Temme, Antonio D. Córcoles, Antonio Mezzacapo, Jerry M. Chow, and Jay M. Gambetta, "Error mitigation extends the computational reach of a noisy quantum processor",Nature 567 7749, 491 (2019).
+[3] Andrew D. King, Juan Carrasquilla, Jack Raymond, Isil Ozfidan, Evgeny Andriyash, Andrew Berkley, Mauricio Reis, Trevor Lanting, Richard Harris, Fabio Altomare, Kelly Boothby, Paul I. Bunyk, Colin Enderud, Alexandre Fréchette, Emile Hoskinson, Nicolas Ladizinsky, Travis Oh, Gabriel Poulin-Lamarre, Christopher Rich, Yuki Sato, Anatoly Yu. Smirnov, Loren J. Swenson, Mark H. Volkmann, Jed Whittaker, Jason Yao, Eric Ladizinsky, Mark W. Johnson, Jeremy Hilton, and Mohammad H. Amin, "Observation of topological phenomena in a programmable lattice of 1,800 qubits",Nature 560 7719, 456 (2018).
+[4] Panagiotis Kl. Barkoutsos, Jerome F. Gonthier, Igor Sokolov, Nikolaj Moll, Gian Salis, Andreas Fuhrer, Marc Ganzhorn, Daniel J. Egger, Matthias Troyer, Antonio Mezzacapo, Stefan Filipp, and Ivano Tavernelli, "Quantum algorithms for electronic structure calculations: Particle-hole Hamiltonian and optimized wave-function expansions",Physical Review A 98 2, 022322 (2018).
+[5] Sam McArdle, Suguru Endo, Alan Aspuru-Guzik, Simon Benjamin, and Xiao Yuan, "Quantum computational chemistry",arXiv:1808.10402.
+[6] Victor V. Albert, Kyungjoo Noh, Kasper Duivenvoorden, Dylan J. Young, R. T. Brierley, Philip Reinhold, Christophe Vuillot, Linshu Li, Chao Shen, S. M. Girvin, Barbara M. Terhal, and Liang Jiang, "Performance and structure of single-mode bosonic codes",Physical Review A 97 3, 032346 (2018).
+[7] Seth Lloyd and Christian Weedbrook, "Quantum Generative Adversarial Learning",Physical Review Letters 121 4, 040502 (2018).
+[8] J. Preskill, "Simulating quantum field theory with a quantum computer", The 36th Annual International Symposium on Lattice Field Theory. 22-28 July 24 (2018).
+[9] Tameem Albash and Daniel A. Lidar, "Demonstration of a Scaling Advantage for a Quantum Annealer over Simulated Annealing",Physical Review X 8 3, 031016 (2018).
+[10] Jianxin Chen, Fang Zhang, Cupjin Huang, Michael Newman, and Yaoyun Shi, "Classical Simulation of Intermediate-Size Quantum Circuits",arXiv:1805.01450.
+[11] Guillaume Verdon, Michael Broughton, Jarrod R. McClean, Kevin J. Sung, Ryan Babbush, Zhang Jiang, Hartmut Neven, and Masoud Mohseni, "Learning to learn with quantum neural networks via classical neural networks",arXiv:1907.05415.
+[12] Aram Harrow and John Napp, "Low-depth gradient measurements can improve convergence in variational hybrid quantum-classical algorithms",arXiv:1901.05374.
+[13] Pierre-Luc Dallaire-Demers and Nathan Killoran, "Quantum generative adversarial networks",Physical Review A 98 1, 012324 (2018).
+[14] Gavin E. Crooks, "Gradients of parameterized quantum gates using the parameter-shift rule and gate decomposition",arXiv:1905.13311.
+[15] Edward Grant, Marcello Benedetti, Shuxiang Cao, Andrew Hallam, Joshua Lockhart, Vid Stojevic, Andrew G. Green, and Simone Severini, "Hierarchical quantum classifiers",npj Quantum Information 4, 65 (2018).
+[16] Zhang Jiang, Kevin J. Sung, Kostyantyn Kechedzhi, Vadim N. Smelyanskiy, and Sergio Boixo, "Quantum Algorithms to Simulate Many-Body Physics of Correlated Fermions",Physical Review Applied 9 4, 044036 (2018).
+[17] Jonathan Romero and Alan Aspuru-Guzik, "Variational quantum generators: Generative adversarial quantum machine learning for continuous distributions",arXiv:1901.00848.
+[18] Ramis Movassagh, "Quantum supremacy and random circuits",arXiv:1909.06210.
+[19] Sebastien Piat, Nairi Usher, Simone Severini, Mark Herbster, Tommaso Mansi, and Peter Mountney, "Image classification with quantum pre-training and auto-encoders",International Journal of Quantum Information 16 8, 1840009-332 (2018).
+[20] Xun Gao and Luming Duan, "Efficient classical simulation of noisy quantum computation",arXiv:1810.03176.
+[21] Guillaume Verdon, Jason Pye, and Michael Broughton, "A Universal Training Algorithm for Quantum Deep Learning",arXiv:1806.09729.
+[22] Eric R. Anschuetz, Jonathan P. Olson, Alán Aspuru-Guzik, and Yudong Cao, "Variational Quantum Factoring",arXiv:1808.08927.
+[23] Xi Chen, Bin Cheng, Zhaokai Li, Xinfang Nie, Nengkun Yu, Man-Hong Yung, and Xinhua Peng, "Experimental Cryptographic Verification for Near-Term Quantum Cloud Computing",arXiv:1808.07375.
+[24] Sumsam Ullah Khan, Ahsan Javed Awan, and Gemma Vall-Llosera, "K-Means Clustering on Noisy Intermediate Scale Quantum Computers",arXiv:1909.12183.
+[25] Brian Swingle and Nicole Yunger Halpern, "Resilience of scrambling measurements",Physical Review A 97 6, 062113 (2018).
+[26] Ling Hu, Shu-Hao Wu, Weizhou Cai, Yuwei Ma, Xianghao Mu, Yuan Xu, Haiyan Wang, Yipu Song, Dong-Ling Deng, Chang-Ling Zou, and Luyan Sun, "Quantum generative adversarial learning in a superconducting quantum circuit",Science Advances 5 1, eaav2761 (2019).
+[27] Yuxuan Du, Min-Hsiu Hsieh, Tongliang Liu, and Dacheng Tao, "The Expressive Power of Parameterized Quantum Circuits",arXiv:1810.11922.
+[28] Kentaro Heya, Yasunari Suzuki, Yasunobu Nakamura, and Keisuke Fujii, "Variational Quantum Gate Optimization",arXiv:1810.12745.
+[29] Alwin Zulehner and Robert Wille, "Compiling SU(4) Quantum Circuits to IBM QX Architectures",arXiv:1808.05661.
+[30] Yudong Cao, Jonathan Romero, Jonathan P. Olson, Matthias Degroote, Peter D. Johnson, Mária Kieferová, Ian D. Kivlichan, Tim Menke, Borja Peropadre, Nicolas P. D. Sawaya, Sukin Sim, Libor Veis, and Alán Aspuru-Guzik, "Quantum Chemistry in the Age of Quantum Computing",arXiv:1812.09976.
+[31] Zhang Jiang, Jarrod McClean, Ryan Babbush, and Hartmut Neven, "Majorana Loop Stabilizer Codes for Error Mitigation in Fermionic Quantum Simulations",Physical Review Applied 12 6, 064041 (2019).
+[32] Salonik Resch and Ulya R. Karpuzcu, "Quantum Computing: An Overview Across the System Stack",arXiv:1905.07240.
+[33] Javier Gil Vidal and Dirk Oliver Theis, "Calculus on parameterized quantum circuits",arXiv:1812.06323.
+[34] Mark Fingerhuth, Tomáš Babej, and Christopher Ing, "A quantum alternating operator ansatz with hard and soft constraints for lattice protein folding",arXiv:1810.13411.
+[35] A. Garcia-Saez and J. I. Latorre, "Addressing hard classical problems with Adiabatically Assisted Variational Quantum Eigensolvers",arXiv:1806.02287.
+[36] Swamit S. Tannu and Moinuddin K. Qureshi, "A Case for Variability-Aware Policies for NISQ-Era Quantum Computers",arXiv:1805.10224.
+[37] C. M. Wilson, J. S. Otterbach, N. Tezak, R. S. Smith, A. M. Polloreno, Peter J. Karalekas, S. Heidel, M. Sohaib Alam, G. E. Crooks, and M. P. da Silva, "Quantum Kitchen Sinks: An algorithm for machine learning on near-term quantum computers",arXiv:1806.08321.
+[38] Bryan O'Gorman, William J. Huggins, Eleanor G. Rieffel, and K. Birgitta Whaley, "Generalized swap networks for near-term quantum computing",arXiv:1905.05118.
+[39] Sergey Bravyi, Dan Browne, Padraic Calpin, Earl Campbell, David Gosset, and Mark Howard, "Simulation of quantum circuits by low-rank stabilizer decompositions",arXiv:1808.00128.
+[40] Gushu Li, Yufei Ding, and Yuan Xie, "Tackling the Qubit Mapping Problem for NISQ-Era Quantum Devices",arXiv:1809.02573.
+[41] Kazuki Ikeda, Yuma Nakamura, and Travis S. Humble, "Application of Quantum Annealing to Nurse Scheduling Problem",Scientific Reports 9, 12837 (2019).
+[42] Nai-Hui Chia, András Gilyén, Tongyang Li, Han-Hsuan Lin, Ewin Tang, and Chunhao Wang, "Sampling-based sublinear low-rank matrix arithmetic framework for dequantizing quantum machine learning",arXiv:1910.06151.
+[43] Maria Schuld and Nathan Killoran, "Quantum machine learning in feature Hilbert spaces",arXiv:1803.07128.
+[44] Ali Mortezapour and Rosario Lo Franco, "Protecting quantum resources via frequency modulation of qubits in leaky cavities",Scientific Reports 8, 14304 (2018).
+[45] Juan Carrasquilla, Giacomo Torlai, Roger G. Melko, and Leandro Aolita, "Reconstructing quantum states with generative models",arXiv:1810.10584.
+[46] Tameem Albash, Victor Martin-Mayor, and Itay Hen, "Analog errors in Ising machines",Quantum Science and Technology 4 2, 02LT03 (2019).
+[47] Suguru Endo, Qi Zhao, Ying Li, Simon Benjamin, and Xiao Yuan, "Mitigating algorithmic errors in Hamiltonian simulation",arXiv:1808.03623.
+[48] Jiayin Chen and Hendra I. Nurdin, "Learning nonlinear input-output maps with dissipative quantum systems",Quantum Information Processing 18 7, 198 (2019).
+[49] Jin-Guo Liu and Lei Wang, "Differentiable Learning of Quantum Circuit Born Machine",arXiv:1804.04168.
+[50] Zhong-Xiao Man, Yun-Jie Xia, and Rosario Lo Franco, "Temperature effects on quantum non-Markovianity via collision models",Physical Review A 97 6, 062104 (2018).
+[51] Alexander McCaskey, Eugene Dumitrescu, Mengsu Chen, Dmitry Lyakh, and Travis Humble, "Validating quantum-classical programming models with tensor network simulations",PLoS ONE 13 12, e0206704 (2018).
+[52] Kostyantyn Kechedzhi, Vadim Smelyanskiy, Jarrod R. McClean, Vasil S. Denchev, Masoud Mohseni, Sergei Isakov, Sergio Boixo, Boris Altshuler, and Hartmut Neven, "Efficient population transfer via non-ergodic extended states in quantum spin glass",arXiv:1807.04792.
+[53] Shin Nishio, Yulu Pan, Takahiko Satoh, Hideharu Amano, and Rodney Van Meter, "Extracting Success from IBM's 20-Qubit Machines Using Error-Aware Compilation",arXiv:1903.10963.
+[54] Prakash Murali, Norbert Matthias Linke, Margaret Martonosi, Ali Javadi Abhari, Nhung Hong Nguyen, and Cinthia Huerta Alderete, "Full-Stack, Real-System Quantum Computer Studies: Architectural Comparisons and Design Insights",arXiv:1905.11349.
+[55] Cupjin Huang, Michael Newman, and Mario Szegedy, "Explicit lower bounds on strong quantum simulation",arXiv:1804.10368.
+[56] Juan Miguel Arrazola, Thomas R. Bromley, and Patrick Rebentrost, "Quantum approximate optimization with Gaussian boson sampling",Physical Review A 98 1, 012322 (2018).
+[57] Mingxia Huo and Ying Li, "Self-consistent tomography of temporally correlated errors",arXiv:1811.02734.
+[58] Yuta Matsuzawa and Yuki Kurashige, "A Jastrow-type decomposition in quantum chemistry for low-depth quantum circuits",arXiv:1909.12410.
+[59] Ian C. Cloët, Matthew R. Dietrich, John Arrington, Alexei Bazavov, Michael Bishof, Adam Freese, Alexey V. Gorshkov, Anna Grassellino, Kawtar Hafidi, Zubin Jacob, Michael McGuigan, Yannick Meurice, Zein-Eddine Meziani, Peter Mueller, Christine Muschik, James Osborn, Matthew Otten, Peter Petreczky, Tomas Polakovic, Alan Poon, Raphael Pooser, Alessandro Roggero, Mark Saffman, Brent VanDevender, Jiehang Zhang, and Erez Zohar, "Opportunities for Nuclear Physics & Quantum Information Science",arXiv:1903.05453.
+[60] Ramis Movassagh, "Efficient unitary paths and quantum computational supremacy: A proof of average-case hardness of Random Circuit Sampling",arXiv:1810.04681.
+[61] Aniruddha Bapat and Stephen Jordan, "Bang-bang control as a design principle for classical and quantum optimization algorithms",arXiv:1812.02746.
+[62] Nai-Hui Chia, Tongyang Li, Han-Hsuan Lin, and Chunhao Wang, "Quantum-inspired sublinear algorithm for solving low-rank semidefinite programming",arXiv:1901.03254.
+[63] Kanav Setia, Richard Chen, Julia E. Rice, Antonio Mezzacapo, Marco Pistoia, and James Whitfield, "Reducing qubit requirements for quantum simulation using molecular point group symmetries",arXiv:1910.14644.
+[64] Wolfgang Lechner, "Quantum Approximate Optimization with Parallelizable Gates",arXiv:1802.01157.
+[65] Shouvanik Chakrabarti, Yiming Huang, Tongyang Li, Soheil Feizi, and Xiaodi Wu, "Quantum Wasserstein Generative Adversarial Networks",arXiv:1911.00111.
+[66] Ruslan Shaydulin, Ilya Safro, and Jeffrey Larson, "Multistart Methods for Quantum Approximate Optimization",arXiv:1905.08768.
+[67] Taewan Kim and Byung-Soo Choi, "Efficient decomposition methods for controlled-R<SUB>n</SUB> using a single ancillary qubit",Scientific Reports 8, 5445 (2018).
+[68] X. Fu, L. Riesebos, M. A. Rol, J. van Straten, J. van Someren, N. Khammassi, I. Ashraf, R. F. L. Vermeulen, V. Newsum, K. K. L. Loh, J. C. de Sterke, W. J. Vlothuizen, R. N. Schouten, C. G. Almudever, L. DiCarlo, and K. Bertels, "eQASM: An Executable Quantum Instruction Set Architecture",arXiv:1808.02449.
+[69] Omar Shehab, Isaac H. Kim, Nhung H. Nguyen, Kevin Landsman, Cinthia H. Alderete, Daiwei Zhu, C. Monroe, and Norbert M. Linke, "Noise reduction using past causal cones in variational quantum algorithms",arXiv:1906.00476.
+[70] Mohammad H. Ansari, "Exact quantization of superconducting circuits",arXiv:1807.00792.
+[71] Frederic Bapst, Wahid Bhimji, Paolo Calafiura, Heather Gray, Wim Lavrijsen, and Lucy Linder, "A pattern recognition algorithm for quantum annealers",arXiv:1902.08324.
+[72] Karthik Chinni, Pablo Poggi, and Ivan Deutsch, "Reliable Analog Quantum Simulation and Quantum Complexity", APS March Meeting Abstracts 2019, C42.011 (2019).
+[73] Young-Hyun Oh, Hamed Mohammadbagherpoor, Patrick Dreher, Anand Singh, Xianqing Yu, and Andy J. Rindos, "Solving Multi-Coloring Combinatorial Optimization Problems Using Hybrid Quantum Algorithms",arXiv:1911.00595.
+[74] Yuxuan Du, Min-Hsiu Hsieh, and Dacheng Tao, "Efficient Online Quantum Generative Adversarial Learning Algorithms with Applications",arXiv:1904.09602.
+[75] Toshinari Itoko, Rudy Raymond, Takashi Imamichi, and Atsushi Matsuo, "Optimization of Quantum Circuit Mapping using Gate Transformation and Commutation",arXiv:1907.02686.
+[76] Hamed Mohammadbagherpoor, Young-Hyun Oh, Patrick Dreher, Anand Singh, Xianqing Yu, and Andy J. Rindos, "An Improved Implementation Approach for Quantum Phase Estimation on Quantum Computers",arXiv:1910.11696.
+[77] Ruslan Shaydulin, Hayato Ushijima-Mwesigwa, Ilya Safro, Susan Mniszewski, and Yuri Alexeev, "Community Detection Across Emerging Quantum Architectures",arXiv:1810.07765.
+[78] James Stokes and John Terilla, "Probabilistic Modeling with Matrix Product States",Entropy 21 12, 1236 (2019).
+[79] Alexandru Paler, "SurfBraid: A concept tool for preparing and resource estimating quantum circuits protected by the surface code",arXiv:1902.02417.
+[80] Kyle Cormier, Riccardo Di Sipio, and Peter Wittek, "Unfolding measurement distributions via quantum annealing",Journal of High Energy Physics 2019 11, 128 (2019).
+[81] Siddhartha Das, "Bipartite Quantum Interactions: Entangling and Information Processing Abilities",arXiv:1901.05895.
+[82] Abdullah Ash Saki, Mahabubul Alam, and Swaroop Ghosh, "Study of Decoherence in Quantum Computers: A Circuit-Design Perspective",arXiv:1904.04323.
+[83] Ciarán Ryan-Anderson, "Quantum Algorithms, Architecture, and Error Correction",arXiv:1812.04735.
+[84] Zhi-Yuan Li, Hai-Feng Yu, Xin-Sheng Tan, Shi-Ping Zhao, and Yang Yu, "Manipulation of superconducting qubit with direct digital synthesis",Chinese Physics B 28 9, 098505 (2019).
+[85] Eyal Bairey, Itai Arad, and Netanel H. Lindner, "Learning a local Hamiltonian from local measurements",arXiv:1807.04564.
+[86] Narayanan Rengaswamy, Robert Calderbank, Swanand Kadhe, and Henry D. Pfister, "Logical Clifford Synthesis for Stabilizer Codes",arXiv:1907.00310.
+[87] Cristian S. Calude and Elena Calude, "The Road to Quantum Computational Supremacy",arXiv:1712.01356.
+[88] David P. Franke, James S. Clarke, Lieven M. K. Vandersypen, and Menno Veldhorst, "Rent's rule and extensibility in quantum computing",arXiv:1806.02145.
+[89] Zhenyu Cai and Simon C. Benjamin, "Constructing Smaller Pauli Twirling Sets for Arbitrary Error Channels",Scientific Reports 9, 11281 (2019).
+[90] Keisuke Fujii, "Quantum speedup in stoquastic adiabatic quantum computation",arXiv:1803.09954.
+[91] Gushu Li, Yufei Ding, and Yuan Xie, "SANQ: A Simulation Framework for Architecting Noisy Intermediate-Scale Quantum Computing System",arXiv:1904.11590.
+[92] Tongyang Li, Shouvanik Chakrabarti, and Xiaodi Wu, "Sublinear quantum algorithms for training linear and kernel-based classifiers",arXiv:1904.02276.
+[93] Travis L. Scholten, Yi-Kai Liu, Kevin Young, and Robin Blume-Kohout, "Classifying single-qubit noise using machine learning",arXiv:1908.11762.
+[94] Yuxuan Du, Tongliang Liu, and Dacheng Tao, "Bayesian Quantum Circuit",arXiv:1805.11089.
+[95] Ning Bao and Junyu Liu, "Quantum algorithms for conformal bootstrap",Nuclear Physics B 946, 114702 (2019).
+[96] Neal Solmeyer, Norbert M. Linke, Caroline Figgatt, Kevin A. Landsman, Radhakrishnan Balu, George Siopsis, and C. Monroe, "Demonstration of a Bayesian quantum game on an ion-trap quantum computer",Quantum Science and Technology 3 4, 045002 (2018).
+[97] Seth Lloyd and Reevu Maity, "Efficient implementation of unitary transformations",arXiv:1901.03431.
+[98] Naeimeh Mohseni, Marek Narozniak, Alexey N. Pyrkov, Valentin Ivannikov, Jonathan P. Dowling, and Tim Byrnes, "Error suppression in adiabatic quantum computing with qubit ensembles",arXiv:1909.09947.
+[99] Mark B. Ritter, "Near-term Quantum Algorithms for Quantum Many-body Systems",Journal of Physics Conference Series 1290 1, 012003 (2019).
+[100] K. Bertels, A. Sarkar, A. A. Mouedenne, T. Hubregtsen, A. Yadav, A. Krol, and I. Ashraf, "Quantum Computer Architecture: Towards Full-Stack Quantum Accelerators",arXiv:1903.09575.
+[101] Dorit Aharonov and Leo Zhou, "Hamiltonian sparsification and gap-simulations",arXiv:1804.11084.
+[102] Johannes S. Otterbach, "Optimizing Variational Quantum Circuits using Evolution Strategies",arXiv:1806.04344.
+[103] Prakash Murali, Ali Javadi-Abhari, Frederic T. Chong, and Margaret Martonosi, "Formal Constraint-based Compilation for Noisy Intermediate-Scale Quantum Systems",arXiv:1903.03276.
+[104] Ruslan Shaydulin, Hayato Ushijima-Mwesigwa, Ilya Safro, Susan Mniszewski, and Yuri Alexeev, "Network Community Detection On Small Quantum Computers",arXiv:1810.12484.
+[105] F. Tacchino, A. Chiesa, M. D. LaHaye, I. Tavernelli, S. Carretta, and D. Gerace, "Digital Quantum Simulations of Spin Models on Hybrid Platform and Near-Term Quantum Processors",arXiv:1902.04971.
+[106] Marina Radulaski, Jingyuan Linda Zhang, Yan-Kai Tzeng, Konstantinos G. Lagoudakis, Hitoshi Ishiwata, Constantin Dory, Kevin A. Fischer, Yousif A. Kelaita, Shuo Sun, Peter C. Maurer, Kassem Alassaad, Gabriel Ferro, Zhi-Xun Shen, Nicholas Melosh, Steven Chu, and Jelena Vučković, "Nanodiamond integration with photonic devices",arXiv:1610.03183.
+[107] Sergey Novikov, Robert Hinkey, Steven Disseler, James I. Basham, Tameem Albash, Andrew Risinger, David Ferguson, Daniel A. Lidar, and Kenneth M. Zick, "Exploring More-Coherent Quantum Annealing",arXiv:1809.04485.
+[108] Stefan Krastanov, Victor V. Albert, and Liang Jiang, "Optimized Entanglement Purification",arXiv:1712.09762.
+[109] Xavier Waintal, "What determines the ultimate precision of a quantum computer?",arXiv:1702.07688.
+[110] Ajinkya Borle and Josh McCarter, "On Post-Processing the Results of Quantum Optimizers",arXiv:1905.13107.
+[111] V. O. Shkolnikov and Guido Burkard, "Effective Hamiltonian theory of the geometric evolution of quantum systems",arXiv:1810.00193.
+[112] Yosi Atia, Yonathan Oren, and Nadav Katz, "Robust Diabatic Grover Search by Landau-Zener-Stückelberg Oscillations",Entropy 21 10, 937 (2019).
+[113] Yongshan Ding, Adam Holmes, Ali Javadi-Abhari, Diana Franklin, Margaret Martonosi, and Frederic T. Chong, "Magic-State Functional Units: Mapping and Scheduling Multi-Level Distillation Circuits for Fault-Tolerant Quantum Architectures",arXiv:1809.01302.
+[114] Damian S. Steiger, Thomas Häner, and Matthias Troyer, "Advantages of a modular high-level quantum programming framework",arXiv:1806.01861.
+[115] V. E. Zobov and I. S. Pichkovskiy, "Sequences of selective rotation operators to engineer interactions for quantum annealing on three qutrits",International Conference on Micro- and Nano-Electronics 2018 11022, 110222V (2019).
+[116] Daniel Vert, Renaud Sirdey, and Stéphane Louise, "Revisiting old combinatorial beasts in the quantum age: quantum annealing versus maximal matching",arXiv:1910.05129.
+[117] Kelvin Loh, "Fairness evaluation during the conceptual design of heat grids with quantum annealers",arXiv:1910.09929.
+[118] Stefano Gandolfi, "Cloud Quantum Computing Tackles Simple Nucleus",Physics Online Journal 11, 51 (2018).
+[119] Adam Holmes, Yongshan Ding, Ali Javadi-Abhari, Diana Franklin, Margaret Martonosi, and Frederic T. Chong, "Resource Optimized Quantum Architectures for Surface Code Implementations of Magic-State Distillation",arXiv:1904.11528.
+[120] Ryan Bennink, Ajay Jasra, Kody J. H. Law, and Pavel Lougovski, "Estimation and uncertainty quantification for the output from quantum simulators",arXiv:1903.02964.
+[121] Patrick Rall, "Simulating Quantum Circuits by Shuffling Paulis",arXiv:1804.05404.
+[122] Anurag Mishra and Alireza Shabani, "High-Quality Protein Force Fields with Noisy Quantum Processors",arXiv:1907.07128.
+[123] Shusen Liu, Yinan Li, and Runyao Duan, "Distinguishing Unitary Gates on the IBM Quantum Processor",arXiv:1807.00429.
+[124] Ruslan Shaydulin, Caleb Thomas, and Paige Rodeghero, "Making Quantum Computing Open: Lessons from Open-Source Projects",arXiv:1902.00991.
+[125] Michael Broughton, Guillaume Verdon, Trevor McCourt, Antonio J. Martinez, Jae Hyeon Yoo, Sergei V. Isakov, Philip Massey, Ramin Halavati, Murphy Yuezhen Niu, Alexander Zlokapa, Evan Peters, Owen Lockwood, Andrea Skolik, Sofiene Jerbi, Vedran Dunjko, Martin Leib, Michael Streif, David Von Dollen, Hongxiang Chen, Shuxiang Cao, Roeland Wiersema, Hsin-Yuan Huang, Jarrod R. McClean, Ryan Babbush, Sergio Boixo, Dave Bacon, Alan K. Ho, Hartmut Neven, and Masoud Mohseni, "TensorFlow Quantum: A Software Framework for Quantum Machine Learning",arXiv:2003.02989.
+[126] Danijela Marković and Julie Grollier, "Quantum neuromorphic computing",Applied Physics Letters 117 15, 150501 (2020).
+[127] Atchade Parfait Adelomou, Elisabet Golobardes Ribe, and Xavier Vilasis Cardona, "Using the Parameterized Quantum Circuit combined with Variational-Quantum-Eigensolver (VQE) to create an Intelligent social workers' schedule problem solver",arXiv:2010.05863.
+[128] Peter Nimbe, Benjamin Asubam Weyori, and Adebayo Felix Adekoya, "Models in quantum computing: a systematic review",Quantum Information Processing 20 2, 80 (2021).
+[129] Dan-Bo Zhang, Hongxi Xing, Hui Yan, Enke Wang, and Shi-Liang Zhu, "Selected topics of quantum computing for nuclear physics",arXiv:2011.01431.
+[130] Benjamin A. Cordier, Nicolas P. D. Sawaya, Gian G. Guerreschi, and Shannon K. McWeeney, "Biology and medicine in the landscape of quantum advantages",arXiv:2112.00760.
+[131] Sarmed A Rahman, Randy Lewis, Emanuele Mendicelli, and Sarah Powell, "SU(2) lattice gauge theory on a quantum annealer",arXiv:2103.08661.
+[132] Stefan H. Sack, Raimel A. Medina, Alexios A. Michailidis, Richard Kueng, and Maksym Serbyn, "Avoiding barren plateaus using classical shadows",arXiv:2201.08194.
+[133] Chun-Jun Cao, "From Quantum Codes to Gravity: A Journey of Gravitizing Quantum Mechanics",Universe 8 1, 1 (2021).
+[134] Bhupesh Bishnoi, "Quantum Computation",arXiv:2006.02799.
+[135] Jonah Kudler-Flam, Ramanjit Sohal, and Laimei Nie, "Information Scrambling with Conservation Laws",SciPost Physics 12 4, 117 (2022).
+[136] Yongdan Yang, Bing-Nan Lu, and Ying Li, "Accelerated Quantum Monte Carlo with Mitigated Error on Noisy Quantum Computer",PRX Quantum 2 4, 040361 (2021).
+[137] Bálint Koczor and Simon C. Benjamin, "Quantum natural gradient generalised to non-unitary circuits",arXiv:1912.08660.
+[138] Barnaby van Straaten and Bálint Koczor, "Measurement Cost of Metric-Aware Variational Quantum Algorithms",PRX Quantum 2 3, 030324 (2021).
+[139] Deanna M. Abrams, Nicolas Didier, Blake R. Johnson, Marcus P. da Silva, and Colm A. Ryan, "Implementation of the XY interaction family with calibration of a single pulse",arXiv:1912.04424.
+[140] Nikita A. Nemkov, Evgeniy O. Kiktenko, Ilia A. Luchnikov, and Aleksey K. Fedorov, "Efficient variational synthesis of quantum circuits with coherent multi-start optimization",arXiv:2205.01121.
+[141] Mark Hodson, Brendan Ruck, Hugh Ong, David Garvin, and Stefan Dulman, "Portfolio rebalancing experiments using the Quantum Alternating Operator Ansatz",arXiv:1911.05296.
+[142] Matthew Otten and Stephen K. Gray, "Accounting for errors in quantum algorithms via individual error reduction",npj Quantum Information 5, 11 (2019).
+[143] D. Chivilikhin, A. Samarin, V. Ulyantsev, I. Iorsh, A. R. Oganov, and O. Kyriienko, "MoG-VQE: Multiobjective genetic variational quantum eigensolver",arXiv:2007.04424.
+[144] Jonah Kudler-Flam, Vladimir Narovlansky, and Shinsei Ryu, "Distinguishing Random and Black Hole Microstates",PRX Quantum 2 4, 040340 (2021).
+[145] Casper Gyurik, Chris Cade, and Vedran Dunjko, "Towards quantum advantage via topological data analysis",arXiv:2005.02607.
+[146] András Gilyén, Zhao Song, and Ewin Tang, "An improved quantum-inspired algorithm for linear regression",arXiv:2009.07268.
+[147] Philip Taranto, Faraj Bakhshinezhad, Andreas Bluhm, Ralph Silva, Nicolai Friis, Maximilian P. E. Lock, Giuseppe Vitagliano, Felix C. Binder, Tiago Debarba, Emanuel Schwarzhans, Fabien Clivaz, and Marcus Huber, "Landauer vs. Nernst: What is the True Cost of Cooling a Quantum System?",arXiv:2106.05151.
+[148] Rui Chao, Dawei Ding, Andras Gilyen, Cupjin Huang, and Mario Szegedy, "Finding Angles for Quantum Signal Processing with Machine Precision",arXiv:2003.02831.
+[149] Kyle Poland, Kerstin Beer, and Tobias J. Osborne, "No Free Lunch for Quantum Machine Learning",arXiv:2003.14103.
+[150] Prakash Murali, David C. McKay, Margaret Martonosi, and Ali Javadi-Abhari, "Software Mitigation of Crosstalk on Noisy Intermediate-Scale Quantum Computers",arXiv:2001.02826.
+[151] Stefan H. Sack and Maksym Serbyn, "Quantum annealing initialization of the quantum approximate optimization algorithm",Quantum 5, 491 (2021).
+[152] Paul K. Faehrmann, Mark Steudtner, Richard Kueng, Maria Kieferova, and Jens Eisert, "Randomizing multi-product formulas for improved Hamiltonian simulation",arXiv:2101.07808.
+[153] Andrea Matic, Maureen Monnet, Jeanette Miriam Lorenz, Balthasar Schachtner, and Thomas Messerer, "Quantum-classical convolutional neural networks in radiological image classification",arXiv:2204.12390.
+[154] Matteo G. Pozzi, Steven J. Herbert, Akash Sengupta, and Robert D. Mullins, "Using Reinforcement Learning to Perform Qubit Routing in Quantum Compilers",arXiv:2007.15957.
+[155] Rafael I. Nepomechie, "Bethe ansatz on a quantum computer?",arXiv:2010.01609.
+[156] Jasvith Raj Basani and Aranya B Bhattacherjee, "Continuous-Variable Deep Quantum Neural Networks for Flexible Learning of Structured Classical Information",arXiv:2006.10927.
+[157] Martin Kliesch and Ingo Roth, "Theory of quantum system certification: a tutorial",arXiv:2010.05925.
+[158] Bálint Koczor, "The dominant eigenvector of a noisy quantum state",New Journal of Physics 23 12, 123047 (2021).
+[159] Lin Htoo Zaw, Yuanzheng Paul Tan, Long Hoang Nguyen, Rangga P. Budoyo, Kun Hee Park, Zhi Yang Koh, Alessandro Landra, Christoph Hufnagel, Yung Szen Yap, Teck Seng Koh, and Rainer Dumke, "Ghost factors in Gauss-sum factorization with transmon qubits",arXiv:2104.11368.
+[160] K. Bertels, A. Sarkar, A. Krol, R. Budhrani, J. Samadi, E. Geoffroy, J. Matos, R. Abreu, G. Gielen, and I. Ashraf, "Quantum Accelerator Stack: A Research Roadmap",arXiv:2102.02035.
+[161] Huo Chen and Daniel A. Lidar, "HOQST: Hamiltonian Open Quantum System Toolkit",arXiv:2011.14046.
+[162] Ian MacCormack, Conor Delaney, Alexey Galda, Nidhi Aggarwal, and Prineha Narang, "Branching Quantum Convolutional Neural Networks",arXiv:2012.14439.
+[163] Alexander M. Dalzell, Nicholas Hunter-Jones, and Fernando G. S. L. Brandão, "Random quantum circuits transform local noise into global white noise",arXiv:2111.14907.
+[164] Nur R. Ayukaryana, Mohammad H. Fauzi, and Eddwi H. Hasdeo, "The quest and hope of Majorana zero modes in topological superconductor for fault-tolerant quantum computing: An introductory overview",American Institute of Physics Conference Series 2382 1, 020007 (2021).
+[165] Qihao Guo, Yuan-Yuan Zhao, Markus Grassl, Xinfang Nie, Guo-Yong Xiang, Tao Xin, Zhang-Qi Yin, and Bei Zeng, "Testing a quantum error-correcting code on various platforms",Science Bulletin 66 1, 29 (2021).
+[166] Connor T. Hann, Gideon Lee, S. M. Girvin, and Liang Jiang, "Resilience of Quantum Random Access Memory to Generic Noise",PRX Quantum 2 2, 020311 (2021).
+[167] Hyeokjea Kwon and Joonwoo Bae, "A hybrid quantum-classical approach to mitigating measurement errors",arXiv:2003.12314.
+[168] Youle Wang, Guangxi Li, and Xin Wang, "A Hybrid Quantum-Classical Hamiltonian Learning Algorithm",arXiv:2103.01061.
+[169] Freek Witteveen, Volkher Scholz, Brian Swingle, and Michael Walter, "Quantum Circuit Approximations and Entanglement Renormalization for the Dirac Field in 1+1 Dimensions",Communications in Mathematical Physics 389 1, 75 (2022).
+[170] Thomas Gabor, Leo Sünkel, Fabian Ritz, Thomy Phan, Lenz Belzner, Christoph Roch, Sebastian Feld, and Claudia Linnhoff-Popien, "The Holy Grail of Quantum Artificial Intelligence: Major Challenges in Accelerating the Machine Learning Pipeline",arXiv:2004.14035.
+[171] Akash Kundu and Jarosław Adam Miszczak, "Variational certification of quantum devices",arXiv:2011.01879.
+[172] Shaopeng Zhu, Shih-Han Hung, Shouvanik Chakrabarti, and Xiaodi Wu, "On the Principles of Differentiable Quantum Programming Languages",arXiv:2004.01122.
+[173] Kevin Slagle, "Testing Quantum Mechanics using Noisy Quantum Computers",arXiv:2108.02201.
+[174] Dominik Hangleiter, "Sampling and the complexity of nature",arXiv:2012.07905.
+[175] Evandro Chagas Ribeiro da Rosa and Bruno G. Taketani, "QSystem: bitwise representation for quantum circuit simulations",arXiv:2004.03560.
+[176] Sam McArdle, "Learning from Physics Experiments with Quantum Computers: Applications in Muon Spectroscopy",PRX Quantum 2 2, 020349 (2021).
+[177] Minsung Kim, Davide Venturelli, and Kyle Jamieson, "Leveraging Quantum Annealing for Large MIMO Processing in Centralized Radio Access Networks",arXiv:2001.04014.
+[178] Elija Perrier, Akram Youssry, and Chris Ferrie, "QDataset: Quantum Datasets for Machine Learning",arXiv:2108.06661.
+[179] Christian W. Bauer, Plato Deliyannis, Marat Freytsis, and Benjamin Nachman, "Practical considerations for the preparation of multivariate Gaussian states on quantum computers",arXiv:2109.10918.
+[180] Marc Illa and Martin J. Savage, "Basic Elements for Simulations of Standard Model Physics with Quantum Annealers: Multigrid and Clock States",arXiv:2202.12340.
+[181] Scott Aaronson, "Open Problems Related to Quantum Query Complexity",arXiv:2109.06917.
+[182] Srinivasan Arunachalam and Reevu Maity, "Quantum Boosting",arXiv:2002.05056.
+[183] Narayanan Rengaswamy, "Classical Coding Approaches to Quantum Applications",arXiv:2004.06834.
+[184] Ramin Ayanzadeh, Poulami Das, Swamit S. Tannu, and Moinuddin Qureshi, "EQUAL: Improving the Fidelity of Quantum Annealers by Injecting Controlled Perturbations",arXiv:2108.10964.
+[185] Philipp Schleich, Jakob S. Kottmann, and Alán Aspuru-Guzik, "Improving the Accuracy of the Variational Quantum Eigensolver for Molecular Systems by the Explicitly-Correlated Perturbative [2]$_\text{R12}$-Correction",arXiv:2110.06812.
+[186] Ariel Shlosberg, Andrew J. Jena, Priyanka Mukhopadhyay, Jan F. Haase, Felix Leditzky, and Luca Dellantonio, "Adaptive estimation of quantum observables",arXiv:2110.15339.
+[187] William Cappelletti, Rebecca Erbanni, and Joaquín Keller, "Polyadic Quantum Classifier",arXiv:2007.14044.
+[188] V. S. Shchesnovich, "On the classical complexity of sampling from quantum interference of indistinguishable bosons",International Journal of Quantum Information 18 7, 2050044-458 (2020).
+[189] Leo Zhou and Dorit Aharonov, "Strongly Universal Hamiltonian Simulators",arXiv:2102.02991.
+[190] Pedro Rivero, Ian C. Cloët, and Zack Sullivan, "An optimal quantum sampling regression algorithm for variational eigensolving in the low qubit number regime",arXiv:2012.02338.
+[191] Ramin Ayanzadeh, John Dorband, Milton Halem, and Tim Finin, "Multi-qubit correction for quantum annealers",Scientific Reports 11, 16119 (2021).
+[192] Nivedita Dey, Mrityunjay Ghosh, Subhra Samir kundu, and Amlan Chakrabarti, "QDLC -- The Quantum Development Life Cycle",arXiv:2010.08053.
+[193] J. A. Montanez-Barrera, M. R. von Spakovsky, C. E. Damian-Ascencio, and S. Cano-Andrade, "Decoherence predictions in a superconductive quantum device using the steepest-entropy-ascent quantum thermodynamics framework",arXiv:2203.08329.
+[194] Ying Chen, Yunheng Ma, and Shun Zhou, "Quantum Simulations of the Non-Unitary Time Evolution and Applications to Neutral-Kaon Oscillations",arXiv:2105.04765.
+[195] Inés de Vega, "The quantum dynamical map of the spin boson model",arXiv:2001.04236.
+[196] Chenyi Zhang, Jiaqi Leng, and Tongyang Li, "Quantum algorithms for escaping from saddle points",arXiv:2007.10253.
+[197] P. A. M. Casares and M. A. Martin-Delgado, "A quantum interior-point predictor-corrector algorithm for linear programming",Journal of Physics A Mathematical General 53 44, 445305 (2020).
+[198] Bill Poirier, "Efficient Evaluation of Exponential and Gaussian Functions on a Quantum Computer",arXiv:2110.05653.
+[199] Mark Hodson, Brendan Ruck, Hugh Ong, Stefan Dulman, and David Garvin, "Finding the optimal Nash equilibrium in a discrete Rosenthal congestion game using the Quantum Alternating Operator Ansatz",arXiv:2008.09505.
+[200] Evandro Chagas Ribeiro da Rosa and Rafael de Santiago, "Classical and Quantum Data Interaction in Programming Languages: A Runtime Architecture",arXiv:2006.00131.
+[201] Poulami Das, Swamit Tannu, Siddharth Dangwal, and Moinuddin Qureshi, "ADAPT: Mitigating Idling Errors in Qubits via Adaptive Dynamical Decoupling",arXiv:2109.05309.
+[202] Susan M. Clark, Daniel Lobser, Melissa Revelle, Christopher G. Yale, David Bossert, Ashlyn D. Burch, Matthew N. Chow, Craig W. Hogle, Megan Ivory, Jessica Pehr, Bradley Salzbrenner, Daniel Stick, William Sweatt, Joshua M. Wilson, Edward Winrow, and Peter Maunz, "Engineering the Quantum Scientific Computing Open User Testbed (QSCOUT): Design details and user guide",arXiv:2104.00759.
+[203] Xuanqiang Zhao, Benchi Zhao, Zihan Xia, and Xin Wang, "Information recoverability of noisy quantum states",arXiv:2203.04862.
+[204] Piotr Migdał, Klementyna Jankiewicz, Paweł Grabarz, Chiara Decaroli, and Philippe Cochin, "Visualizing quantum mechanics in an interactive simulation -- Virtual Lab by Quantum Flytrap",arXiv:2203.13300.
+[205] Runyao Duan, "Quantum Adiabatic Theorem Revisited",arXiv:2003.03063.
+[206] Weijie Du, James P. Vary, Xingbo Zhao, and Wei Zuo, "Ab initio nuclear structure via quantum adiabatic algorithm",arXiv:2105.08910.
+[207] H. W. L. Naus and H. Polinder, "Bell inequality violation on small NISQ computers",arXiv:2006.13794.
+[208] David Fitzek, Toheed Ghandriz, Leo Laine, Mats Granath, and Anton Frisk Kockum, "Applying quantum approximate optimization to the heterogeneous vehicle routing problem",arXiv:2110.06799.
+[209] Thomas Häner and Mathias Soeken, "Lowering the T-depth of Quantum Circuits By Reducing the Multiplicative Depth Of Logic Networks",arXiv:2006.03845.
+[210] Tanvi P. Gujarati, Tyler Takeshita, Andreas Hintennach, and Eunseok Lee, "A Heuristic Quantum-Classical Algorithm for Modeling Substitutionally Disordered Binary Crystalline Materials",arXiv:2004.00957.
+[211] Poulami Das, Swamit Tannu, and Moinuddin Qureshi, "JigSaw: Boosting Fidelity of NISQ Programs via Measurement Subsetting",arXiv:2109.05314.
+[212] Casey Duckering, Jonathan M. Baker, Andrew Litteken, and Frederic T. Chong, "Orchestrated Trios: Compiling for Efficient Communication in Quantum Programs with 3-Qubit Gates",arXiv:2102.08451.
+[213] Jelmer J. Renema, "Simulability of Imperfect Gaussian and Superposition Boson Sampling",arXiv:1911.10112.
+[214] Jyoti Faujdar and Atul Kumar, "A comparative study to analyze efficiencies of (N +2 ) -qubit partially entangled states in real conditions from the perspective of N controllers",Quantum Information Processing 20 2, 64 (2021).
+[215] Samudra Dasgupta and Travis S. Humble, "Characterizing the Stability of NISQ Devices",arXiv:2008.09612.
+[216] Mahmoud Mahdian and H. Davoodi Yeganeh, "Incoherent quantum algorithm dynamics of an open system with near-term devices",Quantum Information Processing 19 9, 285 (2020).
+[217] Minsung Kim, Davide Venturelli, and Kyle Jamieson, "Towards Hybrid Classical-Quantum Computation Structures in Wirelessly-Networked Systems",arXiv:2010.00682.
+[218] Rodrigo S. Sousa, Priscila G. M. dos Santos, Tiago M. L. Veras, Wilson R. de Oliveira, and Adenilton J. da Silva, "Parametric Probabilistic Quantum Memory",arXiv:2001.04798.
+[219] Leigh S. Martin, "Quantum feedback for measurement and control",arXiv:2004.09766.
+[220] Ellis Wilson, Frank Mueller, Lindsay Bassman, and Constin Iancu, "Empirical Evaluation of Circuit Approximations on Noisy Quantum Devices",arXiv:2107.06701.
+[221] Youle Wang, Benchi Zhao, and Xin Wang, "Quantum algorithms for estimating quantum entropies",arXiv:2203.02386.
+[222] David W. Kribs, Ningping Cao, Chi-Kwong Li, Yiu-Tung Poon, Bei Zeng, and Mike Nelson, "Higher Rank Matricial Ranges and Hybrid Quantum Error Correction",arXiv:1911.12744.
+[223] Haozhen Situ and Zhimin He, "Machine learning distributions of quantum ansatz with hierarchical structure",International Journal of Modern Physics B 34 20, 2050196-3746 (2020).
+[224] Tongyang Li, Chunhao Wang, Shouvanik Chakrabarti, and Xiaodi Wu, "Sublinear classical and quantum algorithms for general matrix games",arXiv:2012.06519.
+[225] Bill Poirier and Jonathan Jerke, "Full-dimensional Schrödinger wavefunction calculations using tensors and quantum computers: the Cartesian component-separated approach",Physical Chemistry Chemical Physics (Incorporating Faraday Transactions) 24 7, 4437 (2022).
+[226] Philip Taranto and Simon Milz, "Hidden Quantum Memory: Is Memory There When Somebody Looks?",arXiv:2204.08298.
+[227] Yan Zhu, Ge Bai, Yuexuan Wang, Tongyang Li, and Giulio Chiribella, "Quantum autoencoders for communication-efficient quantum cloud computing",arXiv:2112.12369.
+[228] Arit Kumar Bishwas, Ashish Mani, and Vasile Palade, "Parts of Speech Tagging in NLP: Runtime Optimization with Quantum Formulation and ZX Calculus",arXiv:2007.10328.
+[229] Gregory Slepyan, "Super-operator Fredholm-like Linear Integral Equations for Quantum-optical Applications",arXiv:2112.09882.
+[230] H. W. L. Naus, "NISQ computing for decision making under uncertainty",arXiv:1911.06167.
+[231] Poulami Das, Suhas K. Vittal, and Moinuddin Qureshi, "ForeSight: Reducing SWAPs in NISQ Programs via Adaptive Multi-Candidate Evaluations",arXiv:2204.13142.
+[232] Hao-Kai Zhang, Chengkai Zhu, Geng Liu, and Xin Wang, "Fundamental limitations on optimization in variational quantum algorithms",arXiv:2205.05056.
+The above citations are fromSAO/NASA ADS(last updated successfully 2022-05-22 04:57:49). The list may be incomplete as not all publishers provide suitable and complete citation data.
+Could not fetchCrossref cited-by dataduring last attempt 2022-05-22 04:57:45: cURL error 28: Operation timed out after 10000 milliseconds with 790632 bytes receivedThis Paper is published in Quantum under theCreative Commons Attribution 4.0 International (CC BY 4.0)license. Copyright remains with the original copyright holders such as the authors or their institutions.
+16 thoughts on “Quantum Computing in the NISQ era and beyond”Pingback:January 9, 2019 – NRS NotesPingback:IBM and Quantum Computing – Linux ClusterPingback:Noisy Quantum Computers Could Be Good for Chemistry Problems – On.Share.co.vePingback:Remote connections? Detangling entanglement in quantum physics - Phys.Org - TodaytellsPingback:Noisy Quantum Computers Could Be Good for Chemistry Problems -Pingback:Quantum Computing Beyond the Lab – QuantumlyPingback:A caccia di applicazioni utili per i computer quantistici – Centro Studi PanzarellaPingback:What is quantum entanglement? - Cosmos MagazinePingback:Quantum codes for a Quantum leap – IITM TECH TALKPingback:My experience with TensorFlow Quantum – Google News AppPingback:La supremazia quantistica dimostrata con i fotoni – Chiara SabelliPingback:How does a Quantum Computer work? - Science and EngineeringPingback:Stairway to Quantum | SIGARCHPingback:私を物理の世界に誘い込んだ本たち | | Piece of ColorPingback:What is quantum entanglement?Pingback:Чим квантові комп’ютери кращі за звичайні і скільки їх ще чекати — VEXPRESSQuantum is an open-access peer-reviewed journal for quantum science and related fields.
+Quantum is non-profit and community-run: an effort by researchers and for researchers to make science more open and publishing more transparent and efficient.
+PeopleCoordinating editorsEditorsExecutive BoardChristian GogolinMarcus HuberLídia del RioSteering BoardSupportersMemberships and Indexing©Verein zur Förderung des Open Access Publizierens in den Quantenwissenschaften.
+Some rights reserved.
+Terms and conditionsImpressumData protection and privacy policyhttps://doi.org/10.22331/qISSN 2521-327XQuantum practicesopen accounting.
+Privacy Overview

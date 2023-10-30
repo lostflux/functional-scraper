@@ -1,0 +1,918 @@
+old id = 1624
+Regulation and mechanisms of mammalian double-strand break repair | Oncogene
+2003
+https://doi.org/10.1038%2Fsj.onc.1206679
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+AdvertisementRegulation and mechanisms of mammalian double-strand break repairOncogenevolume22,pages5792–5812 (2003)Cite this article7423Accesses430Citations7AltmetricMetricsdetailsAbstractThe double-strand break (DSB) is believed to be one of the most severe types of DNA damage, and if left unrepaired is lethal to the cell. Several different types of repair act on the DSB. The most important in mammalian cells are nonhomologous end-joining (NHEJ) and homologous recombination repair (HRR). NHEJ is the predominant type of DSB repair in mammalian cells, as opposed to lower eucaryotes, but HRR has recently been implicated in critical cell signaling and regulatory functions that are essential for cell viability. Whereas NHEJ repair appears constitutive, HRR is regulated by the cell cycle and inducible signal transduction pathways. More is known about the molecular details of NHEJ than HRR in mammalian cells. This review focuses on the mechanisms and regulation of DSB repair in mammalian cells, the signaling pathways that regulate these processes and the potential crosstalk between NHEJ and HRR, and between repair and other stress-induced pathways with emphasis on the regulatory circuitry associated with the ataxia telangiectasia mutated (ATM) protein.
+You have full access to this article via your institution.
+IntroductionMammalian cells have evolved a number of repair systems to deal with various types of DNA damage and to maintain genomic integrity (Friedberg et al., 1995). The double-strand break (DSB) is generally regarded as the most toxic of all DNA lesions. DSBs are induced by a number of different mechanisms, including exposure to ionizing radiation (IR) and radiomimetic drugs, collapse of replication forks when the replication machinery encounters single-stranded breaks (SSBs) in the template DNA, and programmed cleavage by specific endonucleases during meiotic recombination and immunoglobulin gene rearrangement (Haber, 2000;Karran, 2000;Norbury and Hickson, 2001;Bassing et al., 2002b). Errors in DSB repair, in addition to generating small deletion or insertion mutations at the site of the DSBs, can also result in chromosome translocations and genomic instability that could lead to malignancy (Elliott and Jasin, 2002;Thompson and Schild, 2002). In addition, DSBs are potent triggers of cell cycle arrest and apoptosis under certain circumstances (Jackson, 2001;Norbury and Hickson, 2001). Specific cellular surveillance proteins appear to determine cell fate and the balance between cell cycle arrest, DNA repair and apoptosis (Dasika et al., 1999;Bernstein et al., 2002), such as the protein mutated in ataxia telangiectasia (ATM), ATM- and RAD3-related (ATR), and DNA-PK (Abraham, 2001;Durocher and Jackson, 2001). In addition, the tumor suppressors P53, BRCA1, and BRCA2 are also important for DSB repair (Khanna and Jackson, 2001), and all three have broad effects on cellular physiology and genomic stability. In the recent past, a number of reviews have covered DSB repair and radiation-induced signaling in mammalian cells (Petrini et al., 1997;Kanaar et al., 1998;Dasika et al., 1999;Schmidt-Ullrich et al., 2000;Durocher and Jackson, 2001;Jackson, 2001;Johnson and Jasin, 2001;Khanna and Jackson, 2001;Thompson and Schild, 2001;Daboussi et al., 2002;Rouse and Jackson, 2002). In this review, we focus on the regulation and mechanisms of mammalian DSB repair, the signaling pathways that are involved, and the interplay between different types of DSB repair and other stress-induced pathways, with emphasis on ATM and its effectors in response to IR.
+There are two major types of DSB repair pathways – homologous recombination repair (HRR) and nonhomologous end-joining (NHEJ). A third type, single-strand annealing (SSA), shares components with both NHEJ and HRR. HRR is divided further into gene conversion with or without crossing-over, and break-induced replication (Kanaar et al., 1998;Haber, 2000). The fundamental difference between HRR and NHEJ is the dependence on DNA homology in the former. NHEJ uses little to no sequence homology in a process that may or may not be error-free. The relative contribution of each of these types of repair in mammalian DSB repair is controversial (Kanaar et al., 1998;Haber, 2000;Johnson and Jasin, 2001), but it is generally believed that NHEJ plays a more important role than HRR in mitotically replicating cells (Jackson and Jeggo, 1995). HRR may play a more prominent role during meiosis and when sister chromatids are available during late S and G2 stages of the cell cycle (Haber, 2000;Morrison et al., 2000), whereas NHEJ is more important during G1 and early S stages (Lee SE et al., 1997;Takata et al., 1998).
+Studies on the relative importance of NHEJ and HRR in human cells have yielded conflicting results. Using engineered cell clones with unique restriction sites, it has been estimated that HRR accounts for between 10 and 50% of total DSB repair in hamster cells (Sargent et al., 1997;Liang et al., 1998). In human glioma cells, HRR repairs∼10% of I-SceI-generated DSBs, whereas 90% are repaired by end-joining (S Golding and K Valerie, in preparation). Biochemical DSB repair assays, for example, pulsed-field gel electrophoresis (PFGE), seem to indicate that the majority of radiation-induced breaks are resealed by NHEJ. For example, cells deficient in BRCA1 show a severe decrease in specific HRR-mediated events (Moynahan et al., 1999), but show no deficiency in overall rejoining (Wang et al., 2001b). Nevertheless, BRCA1-deficient cells are radiosensitive (Scully et al., 1999), raising the possibility that like ATM a BRCA1-dependent HRR pathway is required for a subset of difficult-to-repair DSBs whose accurate repair is important for cell survival. Alternatively, HRR may process DSBs at some stage subsequent to initial physical rejoining by NHEJ (Saintigny et al., 2001a;Wang et al., 2001b,2001c), in a manner that improves repair fidelity or otherwise increases survival. Measurements of HRR and NHEJ repair at sites of cleavage by rare-cutting enzymes often indicate a relatively higher proportion of HRR (Sargent et al., 1997;Taghian and Nickoloff, 1997;Liang et al., 1998), but such assays may be prejudiced by the fact that only a subset of the possible rejoining events are detected. During DNA replication, HRR is believed to be more important than NHEJ (Haber, 1999,2000). In fact, the generation of DSBs during replication may be a very common event see (Thompson and Schild (2002) for a discussion on the topic).
+Nonhomologous end-joiningDespite the controversy over the relative importance of HRR and NHEJ in mammalian cells, it is generally agreed that at least in the G1/G0 phase, the great majority of DSBs are rejoined by NHEJ (Lee SE et al., 1997;Takata et al., 1998). That the cell uses this somewhat error-prone process rather than HRR is presumably due to the difficulty of matching the damaged sequence to its intact copy on the homologous chromosome (which is typically at a distant site in the nucleus) and bringing the two into close proximity. Nevertheless, rodent and, in some cases, human cells lacking the proteins required for NHEJ are viable – a fact that has greatly facilitated both the cloning of the genes encoding these factors and elucidation of their specific roles in the end-joining process. Known NHEJ proteins include KU, DNA-PKcs, DNA ligase IV, its cofactor XRCC4 (Chu, 1997;Calsou et al., 1999;Karran, 2000;Chen S et al., 2001), and probably DNA polymeraseμand/or (Mahajan et al., 2002) and polynucleotide kinase/phosphatase (PNKP) (Chappell et al., 2002). Additional candidates for participation in NHEJ include Artemis (Ma et al., 2002), the MRE11/RAD50/NBS1 MRN complex (Huang and Dynan, 2002), BRCA1 (Zhong et al., 2002), tyrosyl-DNA phosphodiesterase (TDP1) (Inamdar et al., 2002) and APE1 (Demple and Harrison, 1994;Suh et al., 1997). Much of the DNA processing associated with NHEJ was first described inXenopus laevisegg extracts (Thode et al., 1990;Gu et al., 1996, 1998;Labhart, 1999), but nearly all the findings from this system have proven valid in the more recently developed mammalian systems (Baumann and West, 1998;Feldmann et al., 2000;Chen S et al., 2001).
+Structural and biochemical properties of end-joining proteinsThe KU heterodimer, consisting of a tight complex of KU70 (70 kDa) and KU80 (86 kDa), forms a close-fitting asymmetrical ring that threads onto a free end of DNA as a nut on a bolt (Walker et al., 2001). Although KU tends to cling to the DNA end, it can translocate into the interior, allowing multiple KU heterodimers to load onto longer DNA molecules (Mimori and Hardin, 1986;Paillard and Strauss, 1991;Cary et al., 1997;Pang et al., 1997;Yaneva et al., 1997). The end-bound KU occupies approximately 16–18 bp, as indicated by X-ray crystallography (Walker et al., 2001), DNase footprinting and ultraviolet crosslinking (Yoo and Dynan, 1999). Structural studies by cryoelectron microscopy and electron crystallography indicate that the catalytic subunit DNA-PKcs also has an open channel that could accommodate∼12 bp of double-helical DNA (Chiu et al., 1998;Leuther et al., 1999). Ultraviolet crosslinking suggests that when KU recruits DNA-PKcs to a DNA end, DNA-PKcs then occupies the extreme end of DNA, displacing KU∼10 bp into the interior (Yoo and Dynan, 1999). DNase footprinting suggests that this DNA-PK holoenzyme complex occupies a fixed position with a clearly defined boundary∼30 bp from the DNA end (KV Inamdar, SP Lees-Miller and LF Povirk, unpublished). Formation of the DNA-PK holoenzyme complex (KU and DNA-PKcs) on a DNA end results in activation of its kinase activity (Smith and Jackson, 1999). However, DNA-PKcs can be activated in the absence of KU as long as the concentration of DNA ends is sufficiently high and the ionic strength sufficiently low to support DNA-PKcs binding to the DNA ends (Hammarsten and Chu, 1998;West et al., 1998). Studies with various oligomeric substrates suggest that activation involves localized denaturation of the extreme end of DNA and threading of a few bases of the single strands into defined channels (Hammarsten et al., 2000). Activation is relatively insensitive to structural modifications in these single strands (Weinfeld et al., 1997;Gu et al., 1998;Martensson and Hammarsten, 2002), suggesting that even severely damaged termini could still activate DNA-PK. Activated DNA-PK phosphorylates a variety of DNA-binding proteins (Anderson and Lees-Miller, 1992), including several with known or putative roles in end-joining such as KU (Lees-Miller et al., 1990;Chan et al., 1999;Labhart, 1999), XRCC4 (Leber et al., 1998), WRN (Yannone et al., 2001) and the Artemis nuclease (Ma et al., 2002). Activated DNA-PKcs also phosphorylates itself, resulting in its dissociation from DNA (Chan and Lees-Miller, 1996).
+The XRCC4 gene was originally isolated by complementation of radiosensitivity, V(D)J recombination deficiency and DSB repair deficiency of the CHO derivative XR-1 (Li et al., 1995). As revealed by X-ray crystallography (Junop et al., 2000), XRCC4 consists of a globular head plus a long (∼120 Å)α-helical tail. In the crystal, four XRCC4 monomers form a dumbbell-shaped homotetramer with two globular heads at each end and the ends linked by the four interacting tails. In cells, DNA ligase IV is present in a tight complex with XRCC4 (Lee et al., 2000), and ligase IV is not detectable in cells lacking XRCC4 (Bryans et al., 1999). Ligase IV binds to XRCC4 at a site near the middle of theα-helical tail (Sibanda et al., 2001).
+KU, DNA-PKcs, and XRCC4 all promote end-to-end association of linear DNAs, both alone and in concert with each other (Cary et al., 1997;Pang et al., 1997;Yaneva et al., 1997;DeFazio et al., 2002). Such an association involves interaction between two molecules of KU (Cary et al., 1997) or DNA-PKcs (DeFazio et al., 2002), one on each DNA end. The effects of KU and DNA-PK on ligation of compatible ends by XRCC4/ligase IV are complex, under some conditions promoting ligation as much as 20-fold (Nick McElhinny et al., 2000), while under other conditions inhibiting ligation or favoring inter- over intra-molecular ligation (Chen et al., 2000). Binding of XRCC4/ligase IV to DNA-PK is mediated primarily by contacts between KU and ligase IV, and between DNA-PKcs and XRCC4, and the sum of these interactions may be required for stable association of XRCC4/ligase IV with DNA-PK at the DNA termini (Hsu et al., 2001).
+WRN, Artemis and MRE11 are all nucleases with putative roles in end-joining. WRN (Kamath-Loeb et al., 1998;Cooper et al., 2000;Li and Comai, 2000) and MRE11 (Paull and Gellert, 2000;Trujillo et al., 1998) are 3′ → 5′ exonucleases with a preference for recessed 3′ ends, and WRN is stimulated by KU (Cooper et al., 2000;Li and Comai, 2001) but inhibited by DNA-PKcs (Yannone et al., 2001). WRN can displace DNA-PKcs from DNA-PK holoenzyme bound to a DNA end (Li and Comai, 2002). As discussed later, WRN also has an associated DNA helicase activity important for HRR. Artemis has intrinsic 5′ → 3′ exonuclease activity, and upon phosphorylation by DNA-PK acquires an endonuclease activity that opens hairpin loops, removes 5′ overhangs and shortens 3′ overhangs (Ma et al., 2002). Despite clear evidence that deficiency in Artemis nearly ablates V(D)J recombination, this same deficiency is associated with only mild (∼twofold) radiosensitivity, no apparent change in the proportions of accuratevsresection-based end-joining of transfected substrates (Noordzij et al., 2003), and no gross defect in DSB repair as measured by PFGE (Nicolas et al., 1996;Rooney et al., 2002; SM Yannone and DJ Chen, personal communication). Inasmuch as complementation of this radiosensitivity by ectopic Artemis expression has yet to be demonstrated, a direct role for Artemis in NHEJ (except in the specific case of V(D)J recombination) is still in doubt.
+End-joining of free radical-mediated double-strand breaksThe hallmark of NHEJ is its ability to join noncomplementary and otherwise nonligatable DNA ends. This feature is essential for the rejoining of radiation-induced DSBs, which usually occur by free radical-mediated fragmentation of DNA sugars (Hutchinson, 1985;Isildar et al., 1981;Ward, 1988). If the stagger between breaks in each strand (which presumably is random) is at least two nucleotide positions, the result will be a DSB with partially complementary 3′ or 5′ overhangs and a one-base gap in each strand. The breaks will usually have 5′-phosphate (occasionally 5′-hydroxyl) termini, while the 3′ ends will be blocked by phosphates or by deoxyribose fragments, most commonly 3′-phosphoglycolate (-PO4CH2COOH; PG) (Isildar et al., 1981;Henner et al., 1983;Ward, 1988). In theory, it is possible to repair these breaks accurately by a mechanism consisting of the removal of 3′ blocking groups, restoration of 5′-phosphates, annealing of the residual complementary nucleotides, and fill-in of the one-base gaps followed by ligation (Figure 1). There is considerable evidence that cellular end-joining systems have activities capable of carrying out all these processes (Pfeiffer et al., 1994;Roth and Wilson, 1986;Daza et al., 1996;Pastwa et al., 2001; Guet al.
+, 1996, 1998). Moreover, although it is clear that end-joining frequently results in deletions at the repair junction, data from several extract-based systems indicate that breaks with a 2-bp residual complementarity are usually rejoined accurately (Chen S et al., 2001). For residual complementarities⩾3 bp, the final ligation can be carried out even if there are mismatches within the complementary sequence (Pfeiffer et al., 1994), suggesting that accurate repair of a radiation-induced DSB could be completed despite ancillary base damage in the overhangs. Whether a similar degree of fidelity is achievedin vivois difficult to assess, as mostin vivoassays detect only the subset of end-joining events that result in a change of DNA sequence (Phillips and Morgan, 1994;Rouet et al., 1994). However, there is evidence that blunt ends, at least, are usually joined without deletion of any terminal nucleotides (Povirk et al., 1994;Winegar et al., 1992).
+Accurate repair of a 3′-staggered radiation-induced DSB by NHEJ. Following removal of terminal 3′ blocking groups, annealing of a residual complementarity in 3′ overhangs allows alignment-based gap filling, followed by ligation. The original sequence is thus restored without reference to an intact copy of the sequence, despite destruction of nucleotides in both DNA strands. A similar mechanism provides for accurate repair of 5′-staggered DSBs (not shown)Two enzymes capable of processing 3′-PGs on DSB ends have been identified. The apurinic/apurinic endonuclease APE1 can remove PGs from blunt and recessed 3′ ends, but not from protruding 3′ ends (Demple and Harrison, 1994;Suh et al., 1997). Conversely, TDP1 acts preferentially on protruding 3′ ends but removes only glycolate, leaving a 3′-phosphate (Inamdar et al., 2002). PNKP can remove 3′-phosphates from blunt, recessed or protruding 3′ termini (Jilani et al., 1999;Karimi-Busheri et al., 1999). PNKP also phosphorylates 5′-hydroxyl ends, and this phosphorylation appears to be coupled to the end-joining process (Chappell et al., 2002). Kinetic studies show that at least in extracts, much of the PG removal from 3′ overhangs occurs within the first few minutes, suggesting that it does not require the formation of the full repair complex (Inamdar et al., 2002). Indeed, the kinetics data suggest that as ends become sequestered by DNA-PK (and possibly additional proteins), PG removal is dramatically suppressed. This result raises the possibility that there may be additional 3′-PG processing enzymes that act in the context of the repair complex.
+A diverse body of evidence from studies with cell-free extracts and purified proteins implicates both KU and XRCC4/ligase IV in the alignment of partially cohesive ends for gap filling (Cary et al., 1997;Pang et al., 1997;Yaneva et al., 1997;Chen et al., 2000;Feldmann et al., 2000;Chen S et al., 2001;Lee et al., 2003). The gap-filling polymerase is most likely either DNA polymeraseμ(POLμor POLλ). The efficient use of dideoxynucleotides during end-joiningin vitro(Chen S et al., 2001;Thode et al., 1990) implicates some member of the POLX family, which includes POLβ, POLλand POLμ(Aoufouchi et al., 2000). However, POLμforms a stable complex with XRCC4/ligase IV on DNA, while POLβdoes not (Mahajan et al., 2002). Moreover, the combination of purified KU, POLμand XRCC4/ligase IV can carry out gap filling on DNA ends bearing 3′ overhangs with a 4-bp complementarity (Mahajan et al., 2002). These and other results (Lee et al., 2003) suggest that such gap filling occurs in the context of a complex containing these three components. POLμhas a domain structure very similar to that of terminal transferase (Aoufouchi et al., 2000); thus, the two enzymes may interact with the end-joining complex in a similar fashion but in different situations, with polμcatalyzing accurate gap filling in DSB repair, and terminal transferase catalyzing random nucleotide addition without templates in V(D)J recombination. Surprisingly, however, cells from POLμ-deficient cells are not radiosensitive (C-A Reynaud, personal communication), suggesting that there may be an alternative gap-filling enzyme. POLλ would be the most likely candidate, because like POLμand unlike POLβ, POLλhas a BRCT (BRCA1 carboxyl terminus) motif (Aoufouchi et al., 2000), which has been implicated in interaction with XRCC4, based on studies with the corresponding yeast proteins (Tseng and Tomkinson, 2002). The final ligation step is carried out by XRCC4/ligase IV. Presumably, KU would remain threaded onto the ligated DNA, although this has not been definitively demonstrated.
+In contrast to V(D)J recombination, none of the essential steps involved in the repair of radiation-induced DSBs (Figure 1) appears to require DNA-PKcs. Accurate repair of such breaks can be carried out by extracts of the DNA-PKcs-deficient CHO derivative XR-C1 (Chen S et al., 2001). Nonetheless, available evidence suggests that DNA-PKcs serves at least two functions. First, DNA-PKcs probably plays a direct role in the initial juxtapositioning of DNA ends, as it is much more efficient in this regard than KU (DeFazio et al., 2002); this function may be more importantin vivothanin vitro, where DNA ends are relatively abundant.
+A second function of DNA-PKcs is to phosphorylate itself. There are at least five sites of DNA-PKcs autophosphorylation, the most frequent of which is T2609 (Chan et al., 2002;Douglas et al., 2002). CHO cells harboring DNA-PKcs with a T2609A mutation have radiosensitivity midway between normal and DNA-PKcs-deficient cells (Chan et al., 2002), suggesting that this autophosphorylation is functionally significant. Early studies with extracts ofX. laeviseggs suggested that during end-joining, biochemical processing of the termini is preceded by DNA end-to-end association and by a DNA-PK-catalyzed phosphorylation of some protein within the repair complex (Gu et al., 1996, 1998). These and other results have led to the hypothesis that DNA-PKcs sequesters DNA ends, protecting them from degradation until an end-joining partner is found. At this point, the two end-bound DNA-PKcs molecules may synapse, phosphorylate each other and dissociate (or at least relinquish their position at the extreme end of DNA), thereby allowing processing of the aligned ends to proceed (Chu, 1997;Calsou et al., 1999;Karran, 2000;Chen S et al., 2001). Recent kinetic data suggesting that such synapsis is required for DNA-PKcs activation lend further support to such a model (DeFazio et al., 2002). This proposal is also consistent with data fromin vitroassays using various mammalian cell extracts, showing that end-joining is sensitive to the DNA-PK inhibitor wortmannin only if the extracts contain sufficient DNA-PKcs to sequester quantitatively DNA ends (KV Inamdar, JW Lee and LF Povirk, unpublished). Similarly, in another system with HeLa cell nuclear extracts, end-joining of simple cohesive DNA ends is initially dependent on DNA-PK activity but loses this dependence as end-joining activity is further purified (Huang and Dynan, 2002). In apparent conflict with these studies is the finding that extracts of DNA-PKcs-deficient M059J human glioma cells cannot rejoin even simple restriction cuts unless exogenous DNA-PKcs is added (Hanakahi et al., 2000). This result could be explained by the presence of a second inhibitory protein, which, like DNA-PKcs, must be phosphorylated by DNA-PK in order for end-joining to proceed.
+A third possible DNA-PKcs function is to phosphorylate Artemis, which then acquires endonuclease activity that opens hairpins during V(D)J recombination and may also remove or shorten long 3′ and 5′ overhangs at the DSBs (Ma et al., 2002). Although Artemis-deficient cells show no gross DSB repair deficiency (Nicolas et al., 1996; SM Yannone and DJ Chen, personal communication), Artemis may nevertheless be necessary for optimal rejoining of a subset of DSBs with long overhangs. DNA-PK may recruit and coordinate the activity of other NHEJ proteins in ways that may not be apparentin vitro. For example, the functional relevance of DNA-PK-catalyzed phosphorylations of XRCC4, KU70 and KU80 remains to be determined.
+A working model for the joining of a specific type of free radical-mediated DSB, with short 3′ overhangs, is shown inFigure 2. A revision from previous models (Chu, 1997;Gu et al., 1998;Karran, 2000;Lee et al., 2000;Jones et al., 2002) is the recruitment of XRCC4/ligase IV to the repair complex prior to gap filling by POLμor POLλ, as suggested by POLμ–XRCC4 interactions (Mahajan et al., 2002) and by a requirement for XRCC4/ligase IV in gap filling during end-joining in CHO cell extracts (Lee et al., 2003). KU is assumed to align the extreme ends of the two DNA molecules. The DNA-binding motif in the globular head of XRCC4 could then bind just distal to KU, potentially positioning ligase IV, which binds to XRCC4 near the center of its C-terminal tail for final ligation of the nicks in each strand (Junop et al., 2000;Sibanda et al., 2001;Jones and Gellert, 2002). Since DNA-PKcs is known to dissociate upon autophosphorylation (Chan and Lees-Miller, 1996) and is not required for gap filling and ligation (Chen S et al., 2001), it seems likely that DNA-PKcs relinquishes its position at the extreme end of DNA prior to gap filling, as threading of DNA-PKcs onto the end would appear to sterically preclude proper positioning of the putative end-bound KU/XRCC4/ligase IV/POLμcomplex. Precisely when and with what stoichiometry XRCC4/ligase IV binds is not certain. It has been proposed that a single 2:2 XRCC4/ligase IV tetramer could bind to and bridge two DNA ends already aligned by KU (Jones and Gellert, 2002;Lee et al., 2000). However, X-ray crystallography data suggest that the stoichiometry of the XRCC4/ligase IV complex may be 2 : 1 (as shown inFigure 2) rather than 2 : 2. Moreover, the strong interaction between XRCC4 and DNA-PKcs (Hsu et al., 2001) tends to suggest that XRCC4/ligase IV binds before DNA-PKcs dissociates from the complex.
+Proposed model for accurate NHEJ of a 3′-staggered radiation-induced DSB. Following initial binding of the DNA end by KU, 3′-phosphoglycolate and 3′-phosphate groups are removed by the combined action of TDP1 and PNKP. KU recruits DNA-PKcs, which blocks further processing and promotes juxtapositioning of the two DNA ends. (The exact order of KU binding, DNA-PKcs binding, and removal of 3′ blocking groups has not been definitively determined.) DNA-PKcs, when activated by synapsis of the two end-bound DNA-PK complexes, phosphorylates itself and possibly other proteins in the complex, resulting in the release of DNA-PKcs from the extreme end of DNA, and possibly from the complex as a whole. A complex of KU, XRCC4, DNA ligase IV and a DNA polymerase (probably POLμ) then forms at the end-to-end junction and catalyzes alignment-based gap filling and ligation (seeFigure 1), completing the repair process and restoring the original sequenceDespite compelling evidence for many features of this model, other diverse data indicate that it is still a considerable oversimplification. First, in at least onein vitrosystem, binding of inositol hexaphosphate to KU is required, but it is not known which specific events in the pathway are dependent on such binding (Hanakahi et al., 2000). Second, although Artemis appears to play only a minor role in repair, it may nevertheless be normally present at some point as part of the repair complex. Third, the recently reported accumulation of nuclear foci of T2609-phosphorylated DNA-PKcs in irradiated cells suggests that either there is significant phosphorylation of DNA-PKcs that is not end-bound, or several DNA-PKcs molecules undergo end-binding, phosphorylation and dissociation prior to rejoining of a break (Chan et al., 2002). This phenomenon may be related to the large multimeric complexes of DNA and DNA-PK that form under certain conditionsin vitro(Merkle et al., 2002). Fourth, there appear to be additional factors other than DNA-PKcs (one of which may be the MRN complex (Huang and Dynan, 2002)) that enhance end-joining by KU plus XRCC4/ligase IV. Finally, it is clear from studies with restriction and rare-cutting nucleases that even compatible DNA ends sometimes suffer terminal deletions in the course of repair by end-joining (Phillips and Morgan, 1994;Rouet et al., 1994). As discussed in the next section, these deletions probably involve exonucleolytic 3′ → 5′ resection and SSA. It is not known what causes this resection-based pathway to be used instead of the more conservative end-joining pathway described above.
+When multiple DSBs are formed nearby in a single nucleus, there is also the possibility that the incorrect ends will be joined. Given the severe consequences of DSB misjoining (dicentric chromosomes, acentric fragments and chromosomal translocations), it seems likely that there would be some mechanism to prevent it. Exchanged DSB ends are frequently misjoined (Wang et al., 1997;Richardson and Jasin, 2000b;Wang P et al., 2002), but the fact that there is more misjoining in NHEJ-deficient cells than in normal cells (Evans et al., 1996;Rothkamm et al., 2001) suggests that NHEJ has some means, other than just proximity, for identifying the correct ends. One possibility is that overhangs of multiple DSB ends could be compared and those with the best matches preferentially joined. However, there is as yet no direct evidence for such a process.
+Single-strand annealingIn addition to the canonical NHEJ and HRR DSB repair pathways, there is a nonconservative process referred to as SSA or strand exposure and repair. The hallmark of SSA is the splicing of two DNA ends at direct repeats in double-stranded regions some distance from the terminus, with retention of only one copy of the repeat and deletion of all sequences between the repeats and the termini (Figure 3). SSA presumably begins with the generation of ss overhangs on DNA ends by an exonuclease or helicase, followed by annealing of homologies in the exposed strands, trimming of the remaining overhangs and ligation (Thacker et al., 1992). Both the extent of ss exposure and the length of the annealed homology can range from just a few bases (‘microhomologies’) to hundreds of bases. At present, there are much conflicting data on the enzymology of SSA, and there may be several wholly or partially independent SSA pathways.
+Single-strand annealing – a repair pathway shared between NHEJ and HRR. SSA could occur when, at a DSB, the DNA strand is resected by a nuclease, for example, MRE11 to leave ssDNA overhangs. The length of the overhangs and the extent of homology ranging from microhomologies to several hundred bases or longer most likely determine how SSA is executed. In the case of long homologies between direct repeats on the overhangs, RPA and RAD52 are necessary for facilitating DNA pairing followed by removal of the tails by ERCC1/XPF nuclease and gap filling by DNA polymerase as shown in the figure. Sensors, such as ATM, may signal and attract nucleases to the DSB. Microhomology-based SSA, although similar in principle, probably has quite a different enzymology (see text)In one pathway of long-homology SSA (Figure 3), the DNA ends are first resected by an exonuclease, most likely the MRN complex, to yield long ss overhangs, just as in the initial stage of HRR (see the next section). However, once a homology between the exposed overhangs is found, the homology is annealed, and the protruding ends are trimmed by the ERCC1/XPF nuclease (Adair et al., 2000;Sargent et al., 2000) similar to the situation in yeast with RAD1/RAD10 (Ivanov and Haber, 1995). Contrary to canonical HRR, this SSA pathway does not need RAD51 but requires RAD52 (Van Dyck et al., 2001). RAD52 binds to DNA ends and resected DSBs as a heptameric ring structure, which promotes the association between complementary DNA termini.
+The enzymology of microhomology-based SSA is less well defined.
+In vitrostudies suggest that this type of repair is initiated by 3′ → 5′ resection, followed by annealing, trimming and ligation. MRE11 has been implicated in the resection step by virtue of its remarkable ability to align two DNA ends and digest one end 3′ → 5′, pausing when it encounters a microhomology between the exposed 5′ overhang and an existing 5′ overhang on the other DNA end.
+In vitro, addition of DNA ligase I results in ligation of the existing 5′ overhang to the resected 3′ terminus (Paull and Gellert, 2000). On the other hand, the WRN helicase/exonuclease is implicated by virtue of its interaction with and stimulation by KU (Cooper et al., 2000;Li and Comai, 2001). DNase III, which is the dominant 3′ → 5′ exonuclease in mammalian cell extracts, may also play a role, as it can digest 3′ overhangs (Hoss et al., 1999;Mazur and Perrino, 1999), which are relatively resistant to MRE11 and WRN (Kamath-Loeb et al., 1998;Cooper et al., 2000;Huang et al., 2000;Li and Comai, 2000). Notably, however, a number ofin vitroandin vivostudies suggest that microhomology-based SSA, unlike accurate end-joining, can occur in the absence of KU (Gottlich et al., 1998;Kabotyanski et al., 1998;Chen S et al., 2001). One exception is a study examining the repair at a chromosomally integrated I-SceI site that suggests a requirement for KU (Liang et al., 1996). Thus, even within the realm of microhomology-based SSA, there may be two distinct pathways, only one of which is KU-dependent. Whether RAD52 or ERCC1/XPF is involved in microhomology-based SSA is not yet known. Altogether, there appears to be no general agreement on how SSA events should be classified. Perhaps long-homology SSA should be considered a branch of HRR, while microhomology-based SSA, even though it may share some of the same enzymology, is more akin to NHEJ.
+Mechanism of homologous recombinationIn contrast to NHEJ, few details of HRR have been elucidated. In order for this repair process to take place, homologous sequences in the form of sister chromatids, homologous chromosomes or DNA repeats are required. HRR events can be classified according to whether or not they result in crossing-over between the homologous sequences. Generally, HRR is considered error-free and most active in late S/G2 (Takata et al., 1998). HRR appears to involve a large number of proteins, including RAD51, RAD52, RAD54, BRCA1, BRCA2, the RAD51 paralogs RAD51b, c, d, XRCC2 and XRCC3, and the MRN complex (Karran, 2000;Thompson and Schild, 2001). In addition to these factors known to be directly involved in HRR, there are a number of molecules required for triggering DNA damage stress responses that act as ‘sensors’ for damage that are also important in cell cycle regulation and perhaps in the repair process itself. These sensors include ATM, ATR and DNA-PKcs (for recent reviews, seeAbraham, 2001;Durocher and Jackson, 2001).
+A schematic outline of HRR with its variations is shown inFigure 4. The first event believed to occur during HRR is resection of the DNA to yield single-strand overhangs. Based on analogy to yeast models, this resection is assumed to be 5′ → 3′ and to involve the MRN complex; if so, other factors must also be involved as the MRE11 subunit itself has ssDNA endonuclease and 3′ → 5′ exonuclease, but not 5′ → 3′ exonuclease activity (Paull and Gellert, 1998;Trujillo et al., 1998). This step could be controlled by ATM since NBS1 is part of the MRN complex and is a direct substrate for ATM phosphorylation (Lim et al., 2000). The RAD50 subunit of MRN has ATPase activity that is believed to facilitate DNA unwinding (Paull and Gellert, 1999), whereas the NBS1 subunit appears to be important for nuclear transport and for transmitting signals from DNA damage sensors to MRN (Gatei et al., 2000b;Lim et al., 2000;Wu et al., 2000;Zhao et al., 2000;Desai-Mehta et al., 2001). RAD51, the equivalent of the bacterial RECA protein (Shinohara and Ogawa, 1999), and its paralogs, together with RPA (human single-strand binding (SSB) protein), RAD52 and RAD54 promote ATP-dependent homologous DNA pairing and strand exchange (Baumann et al., 1996;Gupta et al., 1997). The RAD51, protein forms nucleoprotein complexes on ss DNA tails coated by RPA to initiate strand exchange. The RAD51 paralogs act as accessory proteins and are believed to facilitate the action of RAD51, as appears to be the case in yeast with RAD55 and RAD57 (Sung, 1997).
+Homologous recombination. In the earliest stages of DSB repair by HRR, ATM senses and perhaps binds to the DSB, and phosphorylates H2AX, which would then attract BRCA1 and NBS1, also phosphorylated by ATM. BRCA1 may help serve as an anchor and coordinator of the repair events that follow. The MRN complex, most likely with the help of other nucleases, resects the DNA to provide ssDNA overhangs necessary for DNA pairing and strand exchange. Since the MRN complex is only known to possess 3′ → 5′ but not 5′ → 3′ exonuclease activity, other nucleases might be involved. The 5′ → 3′ resection shown in the figure is based on the yeast HRR model, in which 3′ overhangs are essential intermediates. BRCA2, attracted to the DSB by BRCA1, facilitates the loading of RAD51 onto RPA-coated DNA overhangs with the help of RAD51 paralogs that in turn attract RAD52 and RAD54, perhaps with the help of the BLM and/or WRN helicases. The tumor suppressor P53, known to interact with BRCA1, RAD51, BLM and WRN, is also likely found in this DNA–protein complex. BLM and WRN interact with Holliday junctions. From this point, there are two possibilities to finish HRR: (1) either by non-crossing-over in which case the Holliday junctions disengage and DNA strands pair followed by gap filling, or (2) by a crossing-over resulting from Holliday junction resolution and gap filling. It is not known as to which DNA polymerase and ligase are involved in the polymerization and ligation stepsThe RAD52 and RAD54 proteins act at an early point in HRR (for a recent review, seeThompson and Schild, 2001). RAD52 helps RAD51 form DNA exchange intermediates andin vitrostudies have demonstrated that RAD52 forms ring structures consisting of seven RAD52 monomers forming a hole that interacts with both ss and dsDNA (Van Dyck et al., 1998,1999). The RAD54 protein has ATPase activity and is related to DNA helicases; however, so far noin vitrohelicase activity has been detected (Swagemakers et al., 1998). On the other hand, RAD54 does change the topological status of nicked plasmid DNAin vitroby demonstrating negative super-coiling activity (Tan et al., 1999). Thus, it is possible that RAD54 helps RAD51 and RAD52 unwind the DNA at the DSB to facilitate access of other repair factors. RAD54 might act as a gatekeeper between HRR and homology-directed SSA since RAD54 influences the cell's choice of repair by either inhibiting SSA or promoting HRR (Dronkert et al., 2000).
+The proteins mutated in inherited forms of breast cancer, BRCA1 and BRCA2, are also involved at an early point of DSB repair. Recently, it was demonstrated that BRCA2 interacts with RAD51 and RPA at the DSB and helps load RAD51 onto the DNA or to organize RAD51 filaments (Yang et al., 2002a). Immunoprecipitation experiments suggest that BRCA1 and BRCA2 associate with RAD51in vivo(Scully et al., 1997b;Sharan et al., 1997;Chen et al., 1998). BRCA1 and BRCA2 are physically associated with DSB repair foci, together with RAD51 and PCNA (Scully et al., 1997b;Chen et al., 1998;Moynahan et al., 1999,2001). Similar to ATM (Smith et al., 1999a), BRCA1 binds to DNAin vitro(Paull et al., 2001). ATM directly phosphorylates BRCA1 and c-ABL, which then phosporylates RAD51 on several sites (Chen et al., 1999;Cortez et al., 1999;Xu et al., 2001,2002;Yuan et al., 1998). Altogether, BRCA1 and BRCA2 are believed to be important at early points of HRR and perhaps coordinate repair with other cellular processes. Although considerable indirect evidence suggests that BRCA1 plays a direct role in HRR, the repair effects could be indirect through cell cycle control (Deming et al., 2001).
+It is believed that the RECQ-like 3′ → 5′ helicases encoded by the BLM and WRN genes, associated with Bloom's syndrome (BS) and Werner's syndrome (WS), are also important in HRR (for recent reviews, seeHickson et al., 2001;Shen and Loeb, 2001). Both BS and WS are genetic recessive disorders that lead to increased cancer and premature aging. There is relatively strong evidence for an involvement of the BLM helicase in HRR because BLM interacts with Holliday junctions (Mohaghegh et al., 2001), is phosphorylated by ATM (Ababou et al., 2000;Franchitto and Pichierri, 2002), and forms foci with RAD51 after IR exposure (Wu et al., 2001). The BLM helicase is also part of the BRCA1-associated genome surveillance complex (BASC) believed to act as a sensor of DNA damage (Wang Y et al., 2000). On the other hand, the WRN helicase is also a 3′ → 5′ exonuclease (Huang et al., 1998). Similar to BLM, the WRN protein can use the Holliday junction as substrate (Constantinou et al., 2000), and WS cells appear to have a defect in the resolution step of HRR (Saintigny et al., 2002). The WRN protein interacts with a number of proteins involved in DSB repair including RPA, KU and P53, and WRN is phosphorylated by DNA-PK (Yannone et al., 2001). Moreover, the lack of WRN is associated with deletions at DNA ends that are repaired by end-joining (Oshima et al., 2002) (see an earlier section), suggesting that WRN may be involved in NHEJ as well.
+Following sister-chromatid pairing and strand invasion of DNA overhangs, HRR can go in either of two directions. Noncrossing-over, resulting from disengagement of the Holliday junction followed by DNA pairing and gap filling in the damaged homologue, appears to be strongly favored during HRR in mammalian cells (Johnson and Jasin, 2000). This is quite different from the classical path, in which the Holliday junctions are resolved by endonucleolytic cleavage, with an equal probability of yielding either a crossover or a noncrossover event. Finally, the gaps are filled in by DNA polymerase and the breaks sealed by ligase. However, the DNA polymerase and ligase necessary for this step have not been identified as yet. In the case of radiation-induced DSBs, 3′-terminal blocking groups would also have to be removed prior to gap filling, but it is not known when this occurs in the pathway or by what enzyme(s) it is catalyzed.
+Attempts to assess the biological consequences of defects in specific HRR factors have been hampered by the embryonic lethality of many mouse knockouts targeting genes involved in HRR. For example, RAD51 and the RAD51 paralogs, RAD50, NBS1, MRE11, BRCA1 and BRCA2 are all essential genes (for a recent review, see (Thompson and Schild, 2002)). RAD54 knockout mice are viable, and embryonic fibroblasts of HRR-defective RAD54 knockout mice are radiosensitive (Essers et al., 1997,2000). RAD54 deficiency does not confer radiosensitivity in otherwise normal adult mice, but further enhances the radiosensitivity of NHEJ-deficient Scid mice (with a mutation in DNA-PKcs). These results suggest that HRR may be a more important repair component in embryonic cells than in normal adult somatic cells. Studies of both knockout mice and repair-deficient cultured cells suggest that disruption of any factor involved in HRR results in chromosomal instability and (for those defects that are not lethal) cancer predisposition (Thompson and Schild, 2001;van Gent et al., 2001).
+Altogether, HRR is critical for maintaining genomic integrity, in part because of its role in DSB repair. While the majority of DSBs are rejoined by NHEJ, the role of HRR is enhanced in embryonic cells and late S/G2-phase cells. In some situations, such as during DNA replication, HRR improves DSB repair fidelity and, as a result, increases cell survival following IR. Thus, HRR may be required for efficient and accurate repair of a specific subset of DSBs that are refractory to NHEJ alone.
+Signal transduction pathways regulating DSB repairPIKKs as DNA damage sensorsIR and other genotoxic stresses have effects on transcription, DNA synthesis, cell cycle regulation and apoptosis (for recent reviews, seeDasika et al., 1999andBernstein et al., 2002). However, little is known about the role of DNA damage-induced signaling important for the actual repair of DSBs. The DNA damage sensors, ATM, ATR and DNA-PK, all phosphorylate P53 and a number of proteins involved in DSB repair (Durocher and Jackson, 2001). All three proteins belong to a large family of proteins referred to as phosphatidylinositol 3-kinase–like kinases (PIKKs) (Durocher and Jackson, 2001), which mediate and coordinate responses to DNA damage including cell cycle checkpoints, apoptosis and DNA repair. These PIKKs are large (350–450 kDa) proteins that have associated kinase activites and phosphorylate protein targets on serine or threonine residues followed by glutamine (Kim et al., 1999). These sensors are believed to act in large complexes that monitor the genome for DNA damage, and upon encountering damage, signal to other proteins and coordinate the cellular response. One such putative damage-sensing complex is BASC (Wang Y et al., 2000). In addition to ATM, BASC also includes BRCA1, the mismatch DNA repair proteins MSH2, MSH6 and MLH1, the MRN protein complex and DNA replication factor C (RFC), a protein complex that facilitates the loading of proliferating cell nuclear antigen (PCNA) onto DNA (Wang Y et al., 2000).
+In addition to having PI3 K domains, ATM and ATR also have similar mTOR/FRAP-like catalytic domains. In fact, this similarity is how the ATR cDNA was first isolated after a computer DNA homology search (Cimprich et al., 1996). The targets of phosphorylation are very similar for ATM and ATR (Kim et al., 1999), but since only the latter is essential they must serve different functions (Brown and Baltimore, 2000;de Klein et al., 2000). It is generally believed that ATR is important for sensing UV and other types of bulky damage, whereas ATM is the damage sensor for IR- and radiomimetic drug-induced DNA damage. ATR, however, serves as a backup for ATM (Abraham, 2001). Furthermore, ATR appears to be the primary sensor of replicative blockade resulting from DNA lesions other than DSBs or by mechanisms other than direct DNA damage such as those occurring in response to DNA synthesis inhibitors.
+The role of DNA-PK signaling in cell cycle regulation and apoptosis is less clear than for ATM and ATR. In contrast to an early report suggesting a role for DNA-PK in checkpoint control in response to DSBs (Woo et al., 1998), more recent studies (Rathmell et al., 1997;Burma et al., 1999;Jhappan et al., 2000), support a role for DNA-PK in apoptosis (Wang S et al., 2000) but not in cell cycle checkpoints. The evidence for DNA-PK signaling important for NHEJ is based on studies that have shown that during NHEJ, initial binding of DNA ends by KU is followed by recruitment of DNA-PKcs, resulting in activation of its kinase activity (Gottlieb and Jackson, 1993;Lees-Miller et al., 1990). Protein kinase inhibitors, such as wortmannin, inhibit NHEJin vitro(Gu et al., 1996, 1998;Chen S et al., 2001), suggesting that the kinase activity of DNA-PK is important for NHEJ in mammalian cells. However, a separate study suggested that DNA-PK is not necessary for NHEJ but is for sensing the damage (Cheong et al., 1999). It is also possible that DNA-PK recruits other factors such as XRCC4/ligase IV onto the DSB or allows for subsequent DNA processing, which could perhaps require signaling.
+AT cells are extremely sensitive to radiation and radiomimetic agents (Painter and Young, 1980), display radioresistant DNA synthesis (RDS) (Painter, 1981), and show defects in G1, S and G2 checkpoint regulation (for a recent review, seeAbraham (2001)). ATM regulates the G1 checkpoint by directly phosphorylating P53 at S15 and by phorphorylating CHK2 at T68. CHK2, in turn, phosphorylates P53 at S20. Furthermore, ATM phosphorylates the P53 inhibitor MDM2 at S395, attenuating, in part, the inhibitory potential of MDM2 on P53 nuclear-cytoplasmic shuttling (Maya et al., 2001). ATR is believed to serve as a parallel G1 checkpoint regulator and backup for ATM-CHK2 signaling by phosphorylating P53 at S15 and CHK1 at S345. CHK1 then also phosphorylates P53 at S20. All in all, through the combined phosphorylation of P53 at S15 and S20, and MDM2 at S395, P53 is stabilized and able to activate transcriptionally a number of P53-responsive genes, including the CDK inhibitor P21waf1, which results in cell cycle arrest in G1/S or, alternatively, apoptosis.
+When cells are irradiated in G2, ATM also regulates the G2 checkpoint by phosphorylating CHK2 at T68, which in turn inhibits CDC25C phosphatase that prevents cyclin B-CDC2 kinase from promoting G2/M transition. CDC25C is also inhibited through the ATR-CHK1 pathway. This arm of the G2 checkpoint is believed to occur primarily when cells are irradiated in G1 and S. Recently, it was discovered that ATM phosphorylates CHK1 at S317 in an NBS1-dependent fashion, suggesting that the ATR and ATM signaling pathways are not parallel pathways, but rather that significant crosstalk and backup mechanisms exist between ATR and ATM in G1 and G2 checkpoint control (Gatei et al., 2003).
+In S phase, the PIKK sensors have to deal with the complexity and coordination of both DNA replication and repair. A hallmark of AT is RDS, which could be the result of impairing two separate, parallel signaling pathways (Falck et al., 2001, 2002). First, in response to IR during S phase, ATM phosphorylates CHK2, which in turn phosphorylates CDC25A, a protein phosphatase acting on the cyclin E/A–CDK2 complex, important for the G1 to S transition and for the initiation of replication. The phosphorylation of CDC25A results in degradation of the protein and the inhibition of DNA synthesis in normal cells. CDK2 is also required for loading of CDC45 onto replication origins, and thus the CHK2/CDC25A/CDK2 arm or the pathway could control the initiation of new replicons in cells already in S, which is blocked following irradiation in normal cells but not AT cells (Painter, 1981;Falck et al., 2002). However, complete loss of this ‘intra-S’ checkpoint appears to require abrogation of both the CHK2 and NBS1 branches of the pathway (Falck et al., 2002). The second signaling pathway is also triggered by ATM that phosphorylates NBS1 on at least three sites, S343, S397 and S615 (Gatei et al., 2000b;Lim et al., 2000;Wu et al., 2000;Zhao et al., 2000), which might signal to the MRN complex and repair machinery and promote DSB repair. BRCA1 is also an important target for ATM and ATR phosphorylation in the S-phase checkpoint (Cortez et al., 1999;Gatei et al., 2000a;Tibbetts et al., 2000). Some BRCA1 phosphorylation sites are shared between ATM and ATR, and some are unique (Gatei et al., 2001), reflecting parallel and somewhat overlapping functions of these two PIKKs in S-phase checkpoint regulation.
+Another target for ATM and ATR phosphorylation in S phase is the 9-1-1 complex (Thelen et al., 1999;Burtelow et al., 2001;Lindsey-Boltz et al., 2001). Both the 9-1-1 complex and PIKKs are required for CHK1 activation in fission yeast in response to IR (Brondello et al., 1999). RAD9, HUS1 and RAD1 form the heterotrimeric 9-1-1 complex believed to act as a clamp similar to PCNA during DNA replication. The RAD17 protein is believed to act as a clamp loader together with four subunits of RFC constituting the RAD17-RFC factor. ATM/ATR phosphorylates RAD9 at S272, and RAD17 on S635 and S645 (Bao et al., 2001;Chen MJ et al., 2001;Post et al., 2001). Conceivably, the 9-1-1 complex might sense DNA damage during S phase with the help of ATM and/or ATR and modulate DNA replication. RDS may reflect an impairment in this process. However, a recent finding suggested that the loading of the 9-1-1 complex onto chromatin is independent of ATM/ATR, implying that any regulatory aspects of PIKKs must be a proximal event in checkpoint signaling (Roos-Mattjus et al., 2002). Whereas it is quite clear that PIKKs and the 9-1-1 complex are required for CHK1 activation and the G2 checkpoint, it is not presently known what association the 9-1-1 complex has with DSB repair.
+Caffeine, a xanthine derivative, is an abrogator of the IR-induced G2 checkpoint (Schlegel and Pardee, 1986), the duration of which seems to depend on P.53 (Iliakis and Nusse, 1983) (Powell et al., 1995). Caffeine in the low millimolar range inhibits ATM and ATR, but not DNA-PKin vitro(Sarkaria et al., 1999), and abolishes the G2 checkpoint by inhibiting ATM and subsequently the activation of CHK2 and CDC25C (Blasina et al., 1999;Zhou et al., 2000). DSB repair is also affected by caffeine. Recently, a study showed that caffeine inhibited HRR but not NHEJ in hamster cells (Asaad et al., 2000), but the evidence for a lack of effect on NHEJ was only indirect. More work is needed to demonstrate unambiguously a specific and direct participation of ATM in HRR in mammalian cells and human cells in particular.
+ATM targets involved in DSB repairAs the regulatory roles of ATM and ATR overlap to a large extent and ATM is more relevant to IR-induced DSB signaling and repair, we will focus our review on ATM. Genetic studies using highly recombinogenic chicken lymphoblastoid DT40 knockout cells have demonstrated that ATM and KU70 act in separate DSB repair pathways as would be expected if the HRR and NHEJ pathways were affected, respectively (Morrison et al., 2000). In line with this finding, double knockout DT40 (ATM RAD54) cells were more similar to single knockout cells in their radiosensitivity, suggesting that RAD54 and ATM act in the same DSB repair pahway, that is, HRR (Morrison et al., 2000). Thus, ATM seems to control specifically HRR in this system.
+A direct role for ATM in DSB repair has not been conclusively demonstrated except for correlative findings. DNA damage caused by neocarzinostatin (a drug causing radiomimetic DNA damage (Povirk, 1996)) results in ATM tightly associating with DNA, suggesting that ATM binds directly to DSBs (Andegeko et al., 2001). This finding is supported byin vitrostudies showing that ATM binds to the ends of DNA (Smith et al., 1999a). The ATM kinase appears to be stimulated by DNAin vitro, but this property is controversial and may depend on how ATM is purified from cells (Kim et al., 1999;Smith et al., 1999a;Chan et al., 2000). What is clear is that divalent cations such as Mn2+stimulate thein vitrokinase activity of ATM, perhaps by mimicking the effect of DNA on ATM (Durocher and Jackson, 2001;Jackson, 2001). Recently, two studies showed that ATM autophosphorylation is important for the activation of the associated kinase (Bakkenist and Kastan, 2003;Kozlov et al., 2003). It was proposed that ATM is sequestered in unperturbed cells as a dimer with its kinase domain interacting with an internal domain of a neighboring ATM molecule spanning S1981 (Bakkenist and Kastan, 2003). After DNA damage, one ATM molecule phosphorylates its dimer partner at S1981, dissociating the dimer and making the ATM kinase free to phosphorylate other substrates in the cell. It was also proposed that ATM might get activated by sensing changes in chromatin structure as a result of the DSBs and not necessarily by directly binding to the DNA (Bakkenist and Kastan, 2003).
+In any case, ATM by an as yet undefined mechanism senses DSBs and phosphorylates proteins directly involved in HRR, such as the NBS1 part of the MRN complex, the BLM helicase and BRCA1 (Figure 5). ATM phosphorylates NBS1 at S343, S397 and S615 (Gatei et al., 2000b;Lim et al., 2000;Zhao et al., 2000), BLM at T99 and T122 (Beamish et al., 2002), BRCA1 at S1387, S1423 and S1524 (Gatei et al., 2001;Xu et al., 2001,2002), and RAD51 at T54 and T315 indirectly through c-ABL (Chen et al., 1999;Yuan et al., 1998). Recently, it was also shown that SMC1, a protein possibly involved in various processes associated with chromosome maintenance and DNA repair, is phosphorylated at S957 and S966 by ATM (Kim et al., 2002). However, a direct role of SMC1 in DSB repair has not yet been established.
+Proteins important for regulating DSB repair. A DSB attracts ATM, or other PIKK that phosphorylates H2AX at S139, which in turn attracts BRCA1 and NBS1, which also become phosphorylated by ATM. NBS1 is part of the MRN nuclease/helicase complex believed to resect the DNA to obtain ssDNA overhangs. ATM phosphorylates c-ABL at S465, resulting in the dissociation of an ATM–c–ABL-BRCA1 complex. Activated c-ABL in turn phosphorylates RAD51 at T54 and/or T315, which could lead to increased repair (T315) or apoptosis (T54). BRCA2 (not shown), perhaps attracted to the DSB by binding to BRCA1, helps load T351-RAD51 onto RPA-coated ssDNA overhangs (RPA is phosphorylated in response to IR in an ATM-dependent manner but the site(s) and the kinase catalyzing the phosphorylation are not known (Liu and Weaver, 1993;Wang et al., 2001a). Blm helicase is phosphorylated by ATM at T99 and T122, which could then control and help RAD51 and it's paralogs (not shown) promote DNA pairing and strand exchange. P53 is phosphorylated by ATM at S15 and binds to BLM, BRCA2 and RAD51, which could coordinate the repair process with cell cycle regulation and apoptosis. The balance between HRR and NHEJ could also be modulated by P53. FANCD2, which interacts with BRCA1 and BRCA2, is phosphorylated by ATM at S222. FANCD2 seems to be important for processing DNA and/or for modulating S-phase HRR directly. The checkpoint kinase CDK2 is phosphorylated by ATM at T68 at the DSB contributing to G2/M arrest and may also help cells arrest in G1/S. Only proteins known to be phosphorylated by ATM and their partners important for DNA repair are shownIt is not known whether phosphorylation of these factors is stimulatory or inhibitory to DSB repair. Many of these phosphorylated proteins have been found in ‘repair foci’ (Celeste et al., 2002;Schultz et al., 2000;Wang B et al., 2002), that is, DSB repair or events associated with this process have been scored in irradiated cells by colocalization or ‘foci formation’ of proteins involved in DSB repair using immunohistochemistry. The formation of these foci was explained as the colocalization of MRE11 and RAD50, or alternatively RAD51, but not both at sites of DSBs (Maser et al., 1997;Nelms et al., 1998). Since then a number of studies have reported that these and other factors form these foci. At this point, it is not clear whether these foci constitute repair-competent complexes, completed repair or the accumulation of proteins that failed to repair the damage (for a discussion on the topic, seePaull et al., 2000).
+The earliest recorded event (1–3 min) during foci formation is the phosphorylation of histone H2AX at S139 by ATM or other wortmannin-sensitive PIKKs (Paull et al., 2000;Burma et al., 2001), followed by colocalization of BRCA1, RAD54, and either RAD50 or RAD51 (Scully et al., 1997a;Nelms et al., 1998;Tan et al., 1999;Gatei et al., 2000b;Paull et al., 2000). Whether both ATM and ATR initiate H2AX phosphorylation necessary for DSB repair is uncertain (Mirzoeva and Petrini, 2001;Paull et al., 2000). The phosphorylation of H2AX is believed to serve as a focal point for the assembly of repair proteins at the DSB since cells that do not express H2AX show impaired recruitment of NBS1, 53BP1 and BRCA1, but not RAD51, to irradiation-induced foci (Celeste et al., 2002).
+Other recently identified proteins that seem important for DSB sensing and focus formation are the 53BP1 and NFBD1/KIAA0170 proteins (Iwabuchi et al., 1994;Schultz et al., 2000;Anderson et al., 2001;Rappold et al., 2001;Xu and Stern, 2002). The former protein is believed to function as a transcriptional coactivator with P53 and has a BRCT domain resembling the RAD9 protein. NFBD1/KIAA0170 is a nuclear factor with an amino-terminal FHA (forkhead-associated) domain and a tandem repeat of BRCT domains. These domains are present in a number of proteins involved in DNA repair and/or DNA damage signaling pathways. Both proteins are regulated by ATM and are found in foci after exposure of cells to IR or other DNA damaging agents (Shang et al., 2002;Xu and Stern, 2002). 53BP1 is phosphorylated by ATM (Rappold et al., 2001) and is part of the complex associated with early recognition/processing of the DSB, also containing phosphorylated H2AX, CHK2 and BRCA1 (Fernandez-Capetillo et al., 2002;Wang B et al., 2002).
+Recently, it was demonstrated that cells from H2AX knockout mice are extremely sensitive to radiation but are proficient in V(D)J recombination (Bassing et al., 2002a), suggesting that NHEJ is left intact in these cells. Thus, at a minimum, DNA damage-induced signaling facilitates DSB repair by invoking cell cycle checkpoints, modulates HRR and perhaps determines the balance between HRR and NHEJ. In addition, signaling could have more direct effects on the repair machinery itself (seeFigure 5). The DSB repair factors RAD51, BRCA1 and NBS1 are indirect or direct targets, respectively, for ATM-mediated phosphorylation, and P53 may participate directly in repair (Mummenbrauer et al., 1996) or affect the balance between HRR and NHEJ and other processes, such as cell cycle regulation and apoptosis (Bernstein et al., 2002). The multiple processes triggered by DSB signaling are intertwined, making it difficult to ascribe any given aspect of the DNA damage response to a specific signaling pathway or process, complicating the interpretation of how these proteins work.
+Role of P53 and other tumor suppressors in DSB repairOne protein that could regulate the cell's choice of using HRR or NHEJ is P53 (Gebow et al., 2000). However, the exact role of P53 in the repair of DSBs remains controversial, in particular when it comes to NHEJ. There are several reasons for this confusion. The multifactorial nature of P53 function on DNA repair, cell cycle regulation and apoptosis complicates any analysis attempting to attribute a specific effect of P53 on any given process. The use of different assays with different cells makes it difficult to make any general conclusions. A further complication is that HRR and NHEJ are rarely examined in the same study.
+Nevertheless,in vitrostudies demonstrate that P53 binds both ss and dsDNA (Oberosler et al., 1993;Bakalkin et al., 1994), possesses a 3′ → 5′ exonuclease activity and promotes DNA reannealing (Oberosler et al., 1993;Mummenbrauer et al., 1996). Furthermore, P53 also binds to mismatches and three-stranded DNA substrates (Lee et al., 1995;Dudenhoffer et al., 1998), and to Holliday junctions, thereby facilitating their resolution (Lee S et al., 1997); complexes with and inhibits RAD51 (Sturzbecher et al., 1996;Buchhop et al., 1997); interacts with BRCA2 (Marmorstein et al., 1998); complexes with BLM and WRN (Blander et al., 1999;Spillare et al., 1999;Wang XW et al., 2001); and regulates the BLM and WRN helicase activities on Holliday junctionsin vitro(Blander et al., 1999;Spillare et al., 1999;Wang XW et al., 2001;Yang et al., 2002b). Ectopic overexpression of wild-type P53 suppresses HRR on extrachromosomal and chromosomal DNA substrates (Wiesmuller et al., 1996). In contrast, mutant P53 expression or inactivation of wild-type P53 increases HRR several orders of magnitude (Wiesmuller et al., 1996;Bertrand et al., 1997;Mekeel et al., 1997;Dudenhoffer et al., 1998,1999;Saintigny et al., 1999). Altogether, these findings suggest that P53 is intricately involved in monitoring and suppressing the DNA strand exchanges in complexes with RAD51, BRCA2, BLM and WRN during HRR.
+The relation between P53 and NHEJ is even less clear and somewhat contradictory (Bill et al., 1997;Yang et al., 1997;DiBiase et al., 1999;Tang et al., 1999), possibly because of the use of different cell types and assays in different studies. A recent report using an I-SceI endonuclease-based cell system in human leukemic and lymphoblastoid cells demonstrated that expression of wild-type P53 in P53 null cells inhibits HRR as well as microhomology-directed NHEJ. Thus, P53 may restrain DNA exchange between imperfectly homologous sequences (Akyuz et al., 2002). More studies are needed to confirm these findings using chromosomal substrates instead of DSBs generated by a rare-cutting endonuclease and under conditions when other P53 effects are controlled.
+Studies comparing the effects of wild-type and mutant P53 indicate that wild-type but not mutant P53 suppresses end-joining (Bill et al., 1997). Phosphorylation-mimicking P53 mutants (S15D and S37D) and wild-type P53 were equally effective in binding DNA ends and protecting them against 5′ → 3′ exonuclease attack, but showed marked differences in suppression of end-joining activity (Okorokov et al., 2002). It was suggested that ATM- or DNA-PK-directed S15 phosphorylation is required for relieving P53-dependent suppression of end-joining and for the disassembly of P53 from the repair complex at the DSB instead of facilitating end-joining. This scenario allows for potential crosstalk between DSB repair and other cellular processes affected by P53, such as cell cycle control and apoptosis. Further investigations in this area will help establish whether specific post-translational P53 modifications are needed for DSB repair that may be different from those required during, for example, apoptosis.
+The tumor suppressors BRCA1 and BRCA2 have clear associations with DSB repair. BRCA1-deficient cells, like AT cells, are extremely radiosensitive, are impaired in G2 checkpoint arrest following irradiation, and show RDS (Xu et al., 2001). The first indication of a role for BRCA1 in DSB repair came with the discovery that BRCA1 associates with RAD51 in ‘foci’ (Scully et al., 1997a) and binds to the MRN complex (Zhong et al., 1999). The latter process seems important for end-joiningin vitro(Zhong et al., 2002). Later studies confirmed that BRCA1-deficient cells are also impaired in HRR (Moynahan et al., 1999). BRCA2 binds directly to RAD51, is required for RAD51 complex formationin vivo(Bertwistle and Ashworth, 1998;Katagiri et al., 1998;Marmorstein et al., 1998;Yuan et al., 1999;Yang et al., 2002a), and seems to affect HRR but not NHEJ (Xia et al., 2001). In addition, ATM phosphorylates a BRCA1-binding protein, CtIP, that results in the dissociation of BRCA1 and CtIP and the transcriptional activation of GADD45 (Li et al., 2000). However, whether dissociation of BRCA1 and CtIP occurs in the process is controversial (Wu-Baer and Baer, 2001). Interestingly, BRCA1 and BRCA2 are only found in higher eucaryotes, suggesting that these proteins are required to deal with the greater complexity of larger genomes and the interplay between DNA repair and other cellular processes only found in higher eucaryotes.
+Similar to AT, Fanconi anemia (FA) is a rare, recessively inherited chromosomal instability disease with eight complementation groups (A, B, C, D1, D2, E, F and G). All six known FA genes have been cloned (A, C, D2, E, F and G) (for recent reviews, seeAhmad et al. (2002)andGrompe and D'Andrea (2001)). The B and D1 complementation groups were shown to have homozygous mutations in BRCA2, suggesting that these genes are the same as BRCA2 (Howlett et al., 2002). Cells from FA patients are sensitive to drugs that cause DNA crosslinks, such as mitomycin C (Friedberg et al., 1995). However, FA cells are only mildly sensitive to IR. The FA complex interacts with BRCA1, directly linking the FA proteins to DSB repair (Garcia-Higuera et al., 2001). In response to DNA damage, the FaNCA, C, E–G proteins form a complex that monoubiquitinates FaNCD2, which results in nuclear colocalization with BRCA1 (Garcia-Higuera et al., 2001). Recently, it was demonstrated that the FaNCD2 protein is directly phosphorylated by ATM on S222, a step necessary for the S-phase checkpoint in response to IR (Taniguchi et al., 2002). Owing to the close ties with the BRCA1, BRCA2 and ATM proteins, it is believed that the FA proteins are involved in the processing of DNA after DNA damage, but do not necessarily play a direct role in DSB repair, although a direct role for FA proteins in DSB repairin vitrowas recently reported (Donahue and Campbell, 2002).
+Crosstalk between signaling pathways important for DSB repairHRR and NHEJ interactionsIt should be noted that NHEJ and HRR are not necessarily independent, since the coordinated action of both pathways is invoked by the cell in order to repair a DSB with minimal error (Richardson and Jasin, 2000a;Saintigny et al., 2001a). Thus, despite their apparent redundancy, both HRR and NHEJ repair pathways are required to maintain genomic integrity, even in the absence of a specific genotoxic insult. Several studies in hamster cells have suggested that when NHEJ is impaired, HRR seems to increase andvice versa(Richardson and Jasin, 2000a;Allen et al., 2002). Furthermore, cells obtained from DNA-PKcs-deficient Scid mice that are impaired in NHEJ and V(D)J recombination show normal and even compensatory levels of HRR (Pluth et al., 2001). There is a reported interaction between ATM and DNA breaks at the site of V(D)J recombination (Perkins et al., 2002), suggesting that ATM also plays a role in NHEJ and V(D)J recombination. Altogether, different types of DSB repair are intricately linked together in a dynamic fashion with cell cycle regulation, but with sufficient flexibility to allow for redundancy and backups should one factor or type of repair fail.
+Growth factor receptor and mitogenic signalingIn addition to inducing DSBs, IR also triggers cytoplasmic signaling pathways (e.g., growth factor receptors and downstream kinases) to stimulate growth signaling cascades to the nucleus (Reardon et al., 1999;Schmidt-Ullrich et al., 2000). It has been difficult to dissociate these signaling events from those induced by DNA damage, and thus any means of activating one and not the other would be extremely helpful for dissecting nuclear vs. cytoplasmic signaling effects on DSB repair. It is not yet certain as to whether IR-induced growth factor receptor activation results from ‘inside-out’ signaling from DSBs to the cell membrane or more directly from IR-induced free radicals within the membrane (Figure 6). However, ATM is known to be important for epidermal growth factor (EGF) stimulation since activation of the EGF receptor is defective in AT cells and sustained stimulation of cells with EGF downregulates ATM protein in normal but not in AT cells (Gueven et al., 2001;Keating et al., 2001). Furthermore, expression of another important receptor, insulin growth factor I receptor (IGF-IR), appears to require ATM since it was demonstrated recently that AT cells express low levels of IGF-IR and show decreased IGF-IR promoter activity compared with wild-type cells, which can be rescued by transfection of IGF-IR cDNA (Peretz et al., 2001). At the same time, with increasing IGF-IR expression, radioresistance also increases, suggesting that ATM functions as a link between IGF-IR expression and radiosensitivity (Peretz et al., 2001). In a related study, it was demonstrated that IGF-IR downregulation in mouse melanoma cells resulted in increased radiosensitization, reduced S18 (equivalent to human S15) P53 phosphorylation in response to IR, and radiation-resistant DNA synthesis (Macaulay et al., 2001). Thus, signaling through the regular networks of growth factor receptors and downstream cytoplasmic kinases, including cascades that promote survival, is likely to influence the quality of DSB repair and cell fate after IR exposure.
+Inside-out and outside-in signaling potentially affecting DSB repair. Radiation triggers the activation of signaling originating in the nucleus, cytoplasm and the plasma membrane. DSBs activate ATM and other PIKKs that signal to P53 and other effector molecules that regulate the cell cycle, and the balance between different types of DSB repair (NHEJ and HRR, and their subtypes). Simultaneously, radiation causes activation of GFRs and direct activation of kinases/phosphatases located in the cytoplasm that channel signals through the regular signaling pathways. Should the damage be too severe, stress pathways are triggered that could result in apoptosis. How the DSB signal is transmitted from the nucleus to the plasma membrane and cytoplasm and the nature of the effector molecules are not knownStress signalingThe involvement of stress signal transduction pathways, including the JNK and P38 pathways in the regulation of DSB repair, is almost completely unknown, but there are several findings that link these pathways to the DSB sensor ATM. For example, it is known that AT cells are abnormal in signaling through the JNK/c-JUN pathway (Hallahan et al., 1996;Lee et al., 1998;Zhang et al., 1998). Recently, a dual-specificity phosphatase of the MAP kinase phosphatase family, MKP-5, was found to be downregulated in AT cells after exposure to neocarzinostatin (Bar-Shira et al., 2002). MKP-5 dephosphorylates and inactivates the stress-activated MAP kinases JNK and P38. Thus, ATM appears to affect these stress responses when triggered by DSBs. In line with these findings, the AP-1 transcription factor, comprising members of the JUN and FOS families, is constantly active in the brains of ATM-deficient mice not treated with DNA damaging agents (Weizman et al., 2002). Whereas normal mice are capable of responding to IR by activating stress responses such as the AP-1 pathway, ATM-deficient mice show higher basal AP-1 activity but gradually lose their ability to activate AP-1 DNA binding activity in response to IR, suggesting that inactivation of ATM results in a state of constant stress (Weizman et al., 2002). A link between JNK/c-JUN signaling and ATM is provided by c-ABL, which binds to MEKK-1, an upstream kinase in the SEK-1/JNK pathway (Kharbanda et al., 2000). In response to DNA damage, c-ABL activates MEKK-1, which in turn phosphorylates and activates JNK. Since ATM activates c-ABL in response to DNA damage (Baskaran et al., 1997b;Shafman et al., 1997), it is possible that the ATM-c-ABL-JNK-c-JUN pathway is abnormal in AT cells.
+Recently, it was suggested that ATM also acts through the MKK6/P38 MAPK pathway in human carcinoma cells to regulate the G2 checkpoint in response to radiation (Wang X et al., 2000). It was suggested that the activation of P38γis dependent on ATM and leads to activation of CHK2. However, it is not known whether MKK6/P38 signaling affects DSB repair.
+In contrast to the multiple links between HRR and the overall DNA damage response, the only well-documented implication of end-joining factors in signaling is the DNA-PKcs-catalyzed phosphorylation of P53 involved in some forms of apoptosis. This phenomenon was first reported in thymocytes of DNA-PKcs knockout mice, which failed to undergo P53-dependent apoptosis following irradiation (Wang S et al., 2000). More recently, formation of DNase-sensitive complexes of P53 and DNA-PKcs, leading to phosphorylation of P53 on S18 (equivalent to human S15) and subsequent apoptosis, was reported in irradiated mouse embryonic fibroblasts, although only when G1 arrest was abrogated by expression of the adenovirus E1A protein (Woo et al., 2002). Similar complexes have been seen in lymphoblasts treated with the DNA chain-terminating nucleoside gemcitabine, with similar consequences (Achanta et al., 2001). The apparent conflict between these data and a report of an intact P53-dependent apoptotic response in another DNA-PKcs-deficient mouse strain remains to be resolved (Jhappan et al., 2000). There has been one report implicating DNA-PK in the JNK-mediated stress response and the association of JNK proteins with KU and DNA-PKcs being enhanced by DNA damage (Park et al., 2001).
+Consistently, data from DNA-PKcs-deficient cells suggest that P53 stabilization and ATM/P53-mediated cell cycle arrest is independent of DNA-PK (Allalunis-Turner et al., 1997;Rathmell et al., 1997;Burma et al., 1999;Jimenez et al., 1999;Jhappan et al., 2000;Wang S et al., 2000). On the other hand, KU- or DNA-PKcs-deficient cells show prolonged intra-S-phase arrest (Guan et al., 2000;Zhou et al., 2002), and DNA-PKcs-deficient cells also show prolonged G2/M arrest (Allalunis-Turner et al., 1997). These results suggest a possible role in the recovery from arrest, but the possibility that this phenomenon may be due to the deficiency in DSB repair, rather than any direct role of KU or DNA-PK in cell cycle signaling, has not been resolved. The MRN complex, as discussed above, may link end-joining to cell cycle signaling, but this link is still tenuous in mammalian cells. Other than the local autophosphorylation, primarily on T2609, of DNA-PKcs at each DSB (Chan et al., 2002Douglaset al.
+, 2002), there is no evidence for global self-regulation of end-joining by DNA-PKcs or other end-joining factors.
+Altogether, in response to IR numerous signaling events occur simultaneously, originating in the nucleus, cytoplasm and plasma membrane. Whereas the radiation-induced activation of GFRs results in triggering downstream kinase cascades in accordance with the regular network, it is not known how nuclear signaling results in the activation of extranuclear kinases (seeFigure 6). The communication between the nucleus and cytoplasm and how this signaling modulates DSB repair and other DNA damage-induced cellular processes are thus of great interest.
+DSB repair and apoptosisIn addition to the crosstalk and coordination between different types of DSB repair, there is also a balance between pro- and antisurvival mechanisms that potentially modulates repair (reviewed inBernstein et al. (2002)). As ATM phosphorylates H2AX, P53, NBS1, BRCA1 and CHK2, and these proteins are found at the DSB (Scully et al., 1997a;Paull et al., 2000;Ward et al., 2001;Celeste et al., 2002), ATM could be directly involved in the damage recognition and repair process of DSBs. It is also possible that some of these post-translational changes are not associated with increased DSB repair but rather with faulty or incomplete repair. For example, S15 phosphorylation of P53 is associated with apoptosis rather than repair, whereas dephosphorylation in the carboxy-terminus may be more important for repair (Offer et al., 2002). DSB repair and apoptosis are two processes that likely counteract each other after cellular insult such as radiation (Bernstein et al., 2002), a concept emphasized by the fact that many of the factors involved in DSB repair are also partaking in apoptosis, for example, ATM and ATR (Lin et al., 2001), DNA-PK (Wang S et al., 2000;Woo et al., 2002), BRCA1 (Thangaraju et al., 2000) and P53 (Chen et al., 1996). It is also known that ATM directly phosphorylates the transcription factor E2F1, which results in increased P73 (a P53 analog) expression and apoptosis in the absence of P53 (Irwin et al., 2000;Lin et al., 2001). In response to high doses of IR, ATM is cleaved by a protease consistent with caspase 3 (Smith et al., 1999b;Tong et al., 2000), generating a kinase-inactive ATM that retains its DNA binding ability. This cleavage product could act as an inhibitor of DNA damage signaling and repair and thus direct the cell toward destruction instead of survival. ATM is required for apoptosis in mouse thymocytes and differentiated neurons (Xu et al., 1996;Lee and McKinnon, 2000). The latter process depends on both P53 and BAX (Chong et al., 2000;Lee and McKinnon, 2000). DSB repair is positively affected by the overexpression of proteins involved in antiapoptotic processes, such as BCL-2 and BCL-XL (Saintigny et al., 2001b;Wiese et al., 2002), suggesting that prosurvival factors enhance DNA repair.
+One protein that could modulate DSB repair and the balance between repair and apoptosis is c-ABL (for a review, seeKharbanda et al. (1998)). Although c-ABL is involved in many cellular processes it seems to play a particularly important role in apoptosis in response to DNA damage. ATM phosphorylates c-ABL at S465 after DNA damage (Baskaran et al., 1997a). c-ABL in turn phosphorylates RAD51 at T54 and T315 (Yuan et al., 1998;Chen et al., 1999). Whereas T54 phosphorylation inactivates the ability of RAD51 to bind DNA and presumably promotes DNA strand exchange (Yuan et al., 1998), T315 phosphorylation is associated with increased RAD51 and HRR activity since this step promotes an interaction with RAD52 (Chen et al., 1999). Thus, under certain conditions, depending on the cell cycle and the extent of damage, phosphorylation at T54 might inhibit HRR and result in apoptosis, whereas under different conditions, T315 phosphorylation might enhance HRR and at the same time suppress apoptosis. Since inactivation of the RAD51 gene results in embryonic lethality in mice (Tsuzuki et al., 1996), kills chicken DT40 cells (Sonoda et al., 1998), and RAD51plays such an important and exclusive role in HRR, the c-ABL-RAD51 complex might act as a gatekeeper between increased repair and cell survival, and inhibition of repair and cell death.
+The decision between repair and apoptosis in response to IR may also depend on the disassembly of a complex formed between c-ABL, BRCA1 and ATM (Foray et al., 2002). These three factors interact constitutively, suppressing the c-ABL kinase under normal conditions. After irradiation, ATM phosphorylates both BRCA1 and c-ABL and as a consequence disrupts the complex, which stimulates the c-ABL kinase. This process might affect repair and apoptosis.
+Altogether, there are very close ties between processes important for DSB repair and apoptosis. Phosphorylation of critical factors occurs as a result of both processes. Until there are experimental systems that allow for examination of repair effects without any influence of apoptosis, causative links between specific protein modification and effects on repair are difficult to assess.
+Concluding remarksThe last few years have produced a wealth of new information about DSB repair and the importance of signaling in stress responses that affect cell cycle regulation, apoptosis and DSB repair. In the years to come it will be important to dissect these responses in more detail. For proteins that function in multiple pathways, it will be challenging but ultimately essential to define the individual catalytic activities and protein–protein interactions that are required in each individual pathway. It will be particularly important to identify the post-translational modifications that directly affect DSB repair and to determine whether these modifications have positive or negative effects on the efficiency and fidelity of repair. Based on this knowledge, it should also be possible to design novel, molecular approaches that target DSB repair and signaling for the treatment of cancer.
+Abbreviationsataxia telangiectasiaAT mutatedATM and RAD-3-relatedBRCA1-associated genome surveillance complexBloom's syndromeBRCA1 carboxy-terminaldouble-strand breakepidermal growth factorFanconi anemiagrowth factor receptorGrayhomologous recombination repairinsulin growth factor I receptorionizing radiationMRE11/RAD50/NBS1nonhomologous end-joiningpulse-field gel electrophoresisphosphoglycolatephosphatidylinositol 3′-kinase-like kinaseradioresistant DNA synthesissingle-strand annealingsingle-strand breaktyrosyl-DNA phosphodiesteraseWerner's syndromeReferencesAbabou M, Dutertre S, Lecluse Y, Onclercq R, Chatton B and Amor-Gueret M . (2000).
+Oncogene,19, 5955–5963.
+Abraham RT . (2001).
+Genes Dev.
+,15, 2177–2196.
+Achanta G, Pelicano H, Feng L, Plunkett W and Huang P . (2001).
+Cancer Res.
+,61, 8723–8729.
+Adair GM, Rolig RL, Moore-Faver D, Zabelshansky M, Wilson JH and Nairn RS . (2000).
+EMBO J.
+,19, 5552–5561.
+Ahmad SI, Hanaoka F and Kirk SH . (2002).
+Bioessays,24, 439–448.
+Akyuz N, Boehden GS, Susse S, Rimek A, Preuss U, Scheidtmann KH and Wiesmuller L . (2002).
+Mol. Cell. Biol.
+,22, 6306–6317.
+Allalunis-Turner J, Barron GM and Day III RS . (1997).
+Radiat. Res.
+,147, 284–287.
+Allen C, Kurimasa A, Brenneman MA, Chen DJ and Nickoloff JA . (2002).
+Proc. Natl. Acad. Sci. USA,99, 3758–3763.
+Andegeko Y, Moyal L, Mittelman L, Tsarfaty I, Shiloh Y and Rotman G . (2001).
+J. Biol. Chem.
+,276, 38224–38230.
+Anderson CW and Lees-Miller SP . (1992).
+Crit. Rev. Eukaryot. Gene Expr.
+,2, 283–314.
+Anderson L, Henderson C and Adachi Y . (2001).
+Mol. Cell. Biol.
+,21, 1719–1729.
+Aoufouchi S, Flatter E, Dahan A, Faili A, Bertocci B, Storck S, Delbos F, Cocea L, Gupta N, Weill JC and Reynaud CA . (2000).
+Nucleic Acids Res.
+,28, 3684–3693.
+Asaad NA, Zeng ZC, Guan J, Thacker J and Iliakis G . (2000).
+Oncogene,19, 5788–5800.
+Bakalkin G, Yakovleva T, Selivanova G, Magnusson KP, Szekely L, Kiseleva E, Klein G, Terenius L and Wiman KG . (1994).
+Proc. Natl. Acad. Sci. USA,91, 413–417.
+Bakkenist CJ and Kastan MB . (2003).
+Nature,421, 499–506.
+Bao S, Tibbetts RS, Brumbaugh KM, Fang Y, Richardson DA, Ali A, Chen SM, Abraham RT and Wang XF . (2001).
+Nature,411, 969–974.
+Bar-Shira A, Rashi-Elkeles S, Zlochover L, Moyal L, Smorodinsky NI, Seger R and Shiloh Y . (2002).
+Oncogene,21, 849–855.
+Baskaran R, Wood LD, Whitaker LL, Canman CE, Morgan SE, Xu Y, Barlow C, Baltimore D, Wynshaw-Boris A, Kastan MB and Wang JY . (1997a).
+Nature,387, 516–519.
+Baskaran R, Wood LD, Whitaker LL, Canman CE, Morgan SE, Xu Y, Barlow C, Baltimore D, Wynshaw-Boris A, Kastan MB and Wang JY . (1997b).
+Nature,387, 516–519.
+Bassing CH, Chua KF, Sekiguchi J, Suh H, Whitlow SR, Fleming JC, Monroe BC, Ciccone DN, Yan C, Vlasakova K, Livingston DM, Ferguson DO, Scully R and Alt FW . (2002a).
+Proc. Natl. Acad. Sci. USA,99, 8173–8178.
+Bassing CH, Swat W and Alt FW . (2002b).
+Cell,109(Suppl), S45–55.
+Baumann P, Benson FE and West SC . (1996).
+Cell,87, 757–766.
+Baumann P and West SC . (1998).
+Proc. Natl. Acad. Sci. USA,95, 14066–14070.
+Beamish H, Kedar P, Kaneko H, Chen P, Fukao T, Peng C, Beresten S, Gueven N, Purdie D, Lees-Miller S, Ellis N, Kondo N and Lavin MF . (2002).
+J. Biol. Chem.
+,277, 30515–30523.
+Bernstein C, Bernstein H, Payne CM and Garewal H . (2002).
+Mutat. Res.
+,511, 145–178.
+Bertrand P, Rouillard D, Boulet A, Levalois C, Soussi T and Lopez BS . (1997).
+Oncogene,14, 1117–1122.
+Bertwistle D and Ashworth A . (1998).
+Curr. Opin. Genet. Dev.
+,8, 14–20.
+Bill CA, Yu Y, Miselis NR, Little JB and Nickoloff JA . (1997).
+Mutat. Res.
+,385, 21–29.
+Blander G, Kipnis J, Leal JF, Yu CE, Schellenberg GD and Oren M . (1999).
+J. Biol. Chem.
+,274, 29463–29469.
+Blasina A, Price BD, Turenne GA and McGowan CH . (1999).
+Curr. Biol.
+,9, 1135–1138.
+Brondello JM, Boddy MN, Furnari B and Russell P . (1999).
+Mol. Cell. Biol.
+,19, 4262–4269.
+Brown EJ and Baltimore D . (2000).
+Genes Dev.
+,14, 397–402.
+Bryans M, Valenzano MC and Stamato TD . (1999).
+Mutat. Res.
+,433, 53–58.
+Buchhop S, Gibson MK, Wang XW, Wagner P, Sturzbecher HW and Harris CC . (1997).
+Nucleic Acids Res.
+,25, 3868–3874.
+Burma S, Chen BP, Murphy M, Kurimasa A and Chen DJ . (2001).
+J. Biol. Chem.
+,276, 42462–42467.
+Burma S, Kurimasa A, Xie G, Taya Y, Araki R, Abe M, Crissman HA, Ouyang H, Li GC and Chen DJ . (1999).
+J. Biol. Chem.
+,274, 17139–17143.
+Burtelow MA, Roos-Mattjus PM, Rauen M, Babendure JR and Karnitz LM . (2001).
+J. Biol. Chem.
+,276, 25903–25909.
+Calsou P, Frit P, Humbert O, Muller C, Chen DJ and Salles B . (1999).
+J. Biol. Chem.
+,274, 7848–7856.
+Cary RB, Peterson SR, Wang J, Bear DG, Bradbury EM and Chen DJ . (1997).
+Proc. Natl. Acad. Sci. USA,94, 4267–4272.
+Celeste A, Petersen S, Romanienko PJ, Fernandez-Capetillo O, Chen HT, Sedelnikova OA, Reina-San-Martin B, Coppola V, Meffre E, Difilippantonio MJ, Redon C, Pilch DR, Olaru A, Eckhaus M, Camerini-Otero RD, Tessarollo L, Livak F, Manova K, Bonner WM, Nussenzweig MC and Nussenzweig A . (2002).
+Science,296, 922–927.
+Chan DW, Chen BP, Prithivirajsingh S, Kurimasa A, Story MD, Qin J and Chen DJ . (2002).
+Genes Dev.
+,16, 2333–2338.
+Chan DW and Lees-Miller SP . (1996).
+J. Biol. Chem.
+,271, 8936–8941.
+Chan DW, Son SC, Block W, Ye R, Khanna KK, Wold MS, Douglas P, Goodarzi AA, Pelley J, Taya Y, Lavin MF and Lees-Miller SP . (2000).
+J. Biol. Chem.
+,275, 7803–7810.
+Chan DW, Ye R, Veillette CJ and Lees-Miller SP . (1999).
+Biochemistry,38, 1819–1828.
+Chappell C, Hanakahi LA, Karimi-Busheri F, Weinfeld M and West SC . (2002).
+EMBO J.
+,21, 2827–2832.
+Chen G, Yuan SS, Liu W, Xu Y, Trujillo K, Song B, Cong F, Goff SP, Wu Y, Arlinghaus R, Baltimore D, Gasser PJ, Park MS, Sung P and Lee EY . (1999).
+J. Biol. Chem.
+,274, 12748–12752.
+Chen J, Silver DP, Walpita D, Cantor SB, Gazdar AF, Tomlinson G, Couch FJ, Weber BL, Ashley T, Livingston DM and Scully R . (1998).
+Mol. Cell,2, 317–328.
+Chen L, Trujillo K, Sung P and Tomkinson AE . (2000).
+J. Biol. Chem.
+,275, 26196–26205.
+Chen MJ, Lin YT, Lieberman HB, Chen G and Lee EY . (2001).
+J. Biol. Chem.
+,276, 16580–16586.
+Chen S, Inamdar KV, Pfeiffer P, Feldmann E, Hannah MF, Yu Y, Lee JW, Zhou T, Lees-Miller SP and Povirk LF . (2001).
+J. Biol. Chem.
+,276, 24323–24330.
+Chen X, Ko LJ, Jayaraman L and Prives C . (1996).
+Genes Dev.
+,10, 2438–2451.
+Cheong N, Perrault AR, Wang H, Wachsberger P, Mammen P, Jackson I and Iliakis G . (1999).
+Int. J. Radiat. Biol.
+,75, 67–81.
+Chiu CY, Cary RB, Chen DJ, Peterson SR and Stewart PL . (1998).
+J. Mol. Biol.
+,284, 1075–1081.
+Chong MJ, Murray MR, Gosink EC, Russell HR, Srinivasan A, Kapsetaki M, Korsmeyer SJ and McKinnon PJ . (2000).
+Proc. Natl. Acad. Sci. USA,97, 889–894.
+Chu G . (1997).
+J. Biol. Chem.
+,272, 24097–24100.
+Cimprich KA, Shin TB, Keith CT and Schreiber SL . (1996).
+Proc. Natl. Acad. Sci. USA,93, 2850–2855.
+Constantinou A, Tarsounas M, Karow JK, Brosh RM, Bohr VA, Hickson ID and West SC . (2000).
+EMBO Rep.
+,1, 80–84.
+Cooper MP, Machwe A, Orren DK, Brosh RM, Ramsden D and Bohr VA . (2000).
+Genes Dev.
+,14, 907–912.
+Cortez D, Wang Y, Qin J and Elledge SJ . (1999).
+Science,286, 1162–1166.
+Daboussi F, Dumay A, Delacote F and Lopez B . (2002).
+Cell Signal.
+,14, 969.
+Dasika GK, Lin SC, Zhao S, Sung P, Tomkinson A and Lee EY . (1999).
+Oncogene,18, 7883–7899.
+Daza P, Reichenberger S, Gottlich B, Hagmann M, Feldmann E and Pfeiffer P . (1996).
+Biol. Chem.
+,377, 775–786.
+de Klein A, Muijtjens M, van Os R, Verhoeven Y, Smit B, Carr AM, Lehmann AR and Hoeijmakers JH . (2000).
+Curr. Biol.
+,10, 479–482.
+DeFazio LG, Stansel RM, Griffith JD and Chu G . (2002).
+EMBO J.
+,21, 3192–3200.
+Deming PB, Cistulli CA, Zhao H, Graves PR, Piwnica-Worms H, Paules RS, Downes CS and Kaufmann WK . (2001).
+Proc. Natl. Acad. Sci. USA,98, 12044–12049.
+Demple B and Harrison L . (1994).
+Annu. Rev. Biochem.
+,63, 915–948.
+Desai-Mehta A, Cerosaletti KM and Concannon P . (2001).
+Mol. Cell. Biol.
+,21, 2184–2191.
+DiBiase SJ, Guan J, Curran Jr WJ and Iliakis G . (1999).
+Int. J. Radiat Oncol. Biol. Phys.
+,45, 743–751.
+Donahue SL and Campbell C . (2002).
+J. Biol. Chem.
+,277, 46243–46247.
+Douglas P, Sapkota GP, Morrice N, Yu Y, Goodarzi AA, Merkle D, Meek K, Alessi DR and Lees-Miller SP . (2002).
+Biochem. J.
+,368, 243–251.
+Dronkert ML, Beverloo HB, Johnson RD, Hoeijmakers JH, Jasin M and Kanaar R . (2000).
+Mol. Cell. Biol.
+,20, 3147–3156.
+Dudenhoffer C, Kurth M, Janus F, Deppert W and Wiesmuller L . (1999).
+Oncogene,18, 5773–5784.
+Dudenhoffer C, Rohaly G, Will K, Deppert W and Wiesmuller L . (1998).
+Mol. Cell. Biol.
+,18, 5332–5342.
+Durocher D and Jackson SP . (2001).
+Curr. Opin. Cell Biol.
+,13, 225–231.
+Elliott B and Jasin M . (2002).
+Cell. Mol. Life Sci.
+,59, 373–385.
+Essers J, Hendriks RW, Swagemakers SM, Troelstra C, de Wit J, Bootsma D, Hoeijmakers JH and Kanaar R . (1997).
+Cell,89, 195–204.
+Essers J, van Steeg H, de Wit J, Swagemakers SM, Vermeij M, Hoeijmakers JH and Kanaar R . (2000).
+EMBO J.
+,19, 1703–1710.
+Evans JW, Liu XF, Kirchgessner CU and Brown JM . (1996).
+Radiat Res.
+,145, 39–46.
+Falck J, Mailand N, Syljuasen RG, Bartek J and Lukas J . (2001).
+Nature,410, 842–847.
+Falck J, Petrini JH, Williams BR, Lukas J and Bartek J . (2002).
+Nat. Genet.
+,30, 290–294.
+Feldmann E, Schmiemann V, Goedecke W, Reichenberger S and Pfeiffer P . (2000).
+Nucleic Acids Res.
+,28, 2585–2596.
+Fernandez-Capetillo O, Chen HT, Celeste A, Ward I, Romanienko PJ, Morales JC, Naka K, Xia Z, Camerini-Otero RD, Motoyama N, Carpenter PB, Bonner WM, Chen J and Nussenzweig A . (2002).
+Nat. Cell Biol.
+,4, 993–997.
+Foray N, Marot D, Randrianarison V, Venezia ND, Picard D, Perricaudet M, Favaudon V and Jeggo P . (2002).
+Mol. Cell. Biol.
+,22, 4020–4032.
+Franchitto A and Pichierri P . (2002).
+J. Cell Biol.
+,157, 19–30.
+Friedberg EC, Walker GC and Siede W . (1995).
+DNA and Repair Mutagenesis. ASM Press: Washington, DC.
+Google ScholarGarcia-Higuera I, Taniguchi T, Ganesan S, Meyn MS, Timmers C, Hejna J, Grompe M and D'Andrea AD . (2001).
+Mol. Cell,7, 249–262.
+Gatei M, Scott SP, Filippovitch I, Soronika N, Lavin MF, Weber B and Khanna KK . (2000a).
+Cancer Res.
+,60, 3299–3304.
+Gatei M, Sloper K, Sorensen C, Syljuasen R, Falck J, Hobson K, Savage K, Lukas J, Zhou BB, Bartek J and Khanna KK . (2003).
+J. Biol. Chem.
+,278, 14806–14811.
+Gatei M, Young D, Cerosaletti KM, Desai-Mehta A, Spring K, Kozlov S, Lavin MF, Gatti RA, Concannon P and Khanna K . (2000b).
+Nat. Genet.
+,25, 115–119.
+Gatei M, Zhou BB, Hobson K, Scott S, Young D and Khanna KK . (2001).
+J. Biol. Chem.
+,276, 17276–17280.
+Gebow D, Miselis N and Liber HL . (2000).
+Mol. Cell. Biol.
+,20, 4028–4035.
+Gottlich B, Reichenberger S, Feldmann E and Pfeiffer P . (1998).
+Eur. J. Biochem.
+,258, 387–395.
+Gottlieb TM and Jackson SP . (1993).
+Cell,72, 131–142.
+Grompe M and D'Andrea A . (2001).
+Hum. Mol. Genet.
+,10, 2253–2259.
+Gu XY, Bennett RA and Povirk LF . (1996).
+J. Biol. Chem.
+,271, 19660–19663.
+Gu XY, Weinfeld MA and Povirk LF . (1998).
+Biochemistry,37, 9827–9835.
+Guan J, DiBiase S and Iliakis G . (2000).
+Nucleic Acids Res.
+,28, 1183–1192.
+Gueven N, Keating KE, Chen P, Fukao T, Khanna KK, Watters D, Rodemann PH and Lavin MF . (2001).
+J. Biol. Chem.
+,276, 8884–8891.
+Gupta RC, Bazemore LR, Golub EI and Radding CM . (1997).
+Proc. Natl. Acad. Sci. USA,94, 463–468.
+Haber JE . (1999).
+Trends Biochem Sci.
+,24, 271–275.
+Haber JE . (2000).
+Trends Genet.
+,16, 259–264.
+Hallahan DE, Dunphy E, Kuchibhotla J, Kraft A, Unlap T and Weichselbaum RR . (1996).
+Int. J. Radiat. Oncol. Biol. Phys.
+,36, 355–360.
+Hammarsten O and Chu G . (1998).
+Proc. Natl. Acad. Sci. USA,95, 525–530.
+Hammarsten O, DeFazio LG and Chu G . (2000).
+J. Biol. Chem.
+,275, 1541–1550.
+Hanakahi LA, Bartlet-Jones M, Chappell C, Pappin D and West SC . (2000).
+Cell,102, 721–729.
+Henner WD, Rodriguez LO, Hecht SM and Haseltine WA . (1983).
+J. Biol. Chem.
+,258, 711–713.
+Hickson ID, Davies SL, Li JL, Levitt NC, Mohaghegh P, North PS and Wu L . (2001).
+Biochem. Soc. Trans.
+,29, 201–204.
+Hoss M, Robins P, Naven TJ, Pappin DJ, Sgouros J and Lindahl T . (1999).
+EMBO J.
+,18, 3868–3875.
+Howlett NG, Taniguchi T, Olson S, Cox B, Waisfisz Q, De Die-Smulders C, Persky N, Grompe M, Joenje H, Pals G, Ikeda H, Fox EA and D'Andrea AD . (2002).
+Science,297, 606–609.
+Hsu HL, Yannone SM and Chen DJ . (2001).
+DNA Repair,1, 225–235.
+Huang J and Dynan WS . (2002).
+Nucleic Acids Res.
+,30, 667–674.
+Huang S, Beresten S, Li B, Oshima J, Ellis NA and Campisi J . (2000).
+Nucleic Acids Res.
+,28, 2396–2405.
+Huang S, Li B, Gray MD, Oshima J, Mian IS and Campisi J . (1998).
+Nat. Genet.
+,20, 114–116.
+Hutchinson F . (1985).
+Prog. Nucleic Acid Res. Mol. Biol.
+,32, 115–154.
+Iliakis G and Nusse M . (1983).
+Int. J. Radiat. Biol. Relat. Stud. Phys. Chem. Med.
+,43, 649–663.
+Inamdar KV, Pouliot JJ, Zhou T, Lees-Miller SP, Rasouli-Nia A and Povirk LF . (2002).
+J. Biol. Chem.
+,277, 27162–27168.
+Irwin M, Marin MC, Phillips AC, Seelan RS, Smith DI, Liu W, Flores ER, Tsai KY, Jacks T, Vousden KH and Kaelin Jr WG . (2000).
+Nature,407, 645–648.
+Isildar M, Schuchmann MN, Schulte-Frohlinde D and von Sonntag C . (1981).
+Int. J. Radiat. Biol. Relat. Stud. Phys. Chem. Med.
+,40, 347–354.
+Ivanov EL and Haber JE . (1995).
+Mol. Cell. Biol.
+,15, 2245–2251.
+Iwabuchi K, Bartel PL, Li B, Marraccino R and Fields S . (1994).
+Proc. Natl. Acad. Sci. USA,91, 6098–6102.
+Jackson SP . (2001).
+Biochem. Soc. Trans.
+,29, 655–661.
+Jackson SP and Jeggo PA . (1995).
+Trends Biochem. Sci.
+,20, 412–415.
+Jhappan C, Yusufzai TM, Anderson S, Anver MR and Merlino G . (2000).
+Mol. Cell. Biol.
+,20, 4075–4083.
+Jilani A, Ramotar D, Slack C, Ong C, Yang XM, Scherer SW and Lasko DD . (1999).
+J. Biol. Chem.
+,274, 24176–24186.
+Jimenez GS, Bryntesson F, Torres-Arzayus MI, Priestley A, Beeche M, Saito S, Sakaguchi K, Appella E, Jeggo PA, Taccioli GE, Wahl GM and Hubank M . (1999).
+Nature,400, 81–83.
+Johnson RD and Jasin M . (2000).
+EMBO J.
+,19, 3398–3407.
+Johnson RD and Jasin M . (2001).
+Biochem. Soc. Trans.
+,29, 196–201.
+Jones JM and Gellert M . (2002).
+EMBO J.
+,21, 4162–4171.
+Jones JM, Gellert M and Yang W . (2002).
+Structure (Camb.),9, 881–884.
+Junop MS, Modesti M, Guarne A, Ghirlando R, Gellert M and Yang W . (2000).
+EMBO J.
+,19, 5962–5970.
+Kabotyanski EB, Gomelsky L, Han JO, Stamato TD and Roth DB . (1998).
+Nucleic Acids Res.
+,26, 5333–5342.
+Kamath-Loeb AS, Shen JC, Loeb LA and Fry M . (1998).
+J. Biol. Chem.
+,273, 34145–34150.
+Kanaar R, Hoeijmakers JH and van Gent DC . (1998).
+Trends Cell Biol.
+,8, 483–489.
+Karimi-Busheri F, Daly G, Robins P, Canas B, Pappin DJ, Sgouros J, Miller GG, Fakhrai H, Davis EM, Le Beau MM and Weinfeld M . (1999).
+J. Biol. Chem.
+,274, 24187–24194.
+Karran P . (2000).
+Curr. Opin. Genet. Dev.
+,10, 144–150.
+Katagiri T, Saito H, Shinohara A, Ogawa H, Kamada N, Nakamura Y and Miki Y . (1998).
+Genes Chromosomes Cancer,21, 217–222.
+Keating KE, Gueven N, Watters D, Rodemann HP and Lavin MF . (2001).
+Oncogene,20, 4281–4290.
+Khanna KK and Jackson SP . (2001).
+Nat. Genet.
+,27, 247–254.
+Kharbanda S, Pandey P, Yamauchi T, Kumar S, Kaneki M, Kumar V, Bharti A, Yuan ZM, Ghanem L, Rana A, Weichselbaum R, Johnson G and Kufe D . (2000).
+Mol. Cell. Biol.
+,20, 4979–4989.
+Kharbanda S, Yuan ZM, Weichselbaum R and Kufe D . (1998).
+Oncogene,17, 3309–3318.
+Kim ST, Lim DS, Canman CE and Kastan MB . (1999).
+J. Biol. Chem.
+,274, 37538–37543.
+Kim ST, Xu B and Kastan MB . (2002).
+Genes Dev.
+,16, 560–570.
+Kozlov S, Gueven N, Keating K, Ramsay J and Lavin MF . (2003).
+J. Biol. Chem.
+,278, 9309–9317.
+Labhart P . (1999).
+Mol. Cell. Biol.
+,19, 2585–2593.
+Leber R, Wise TW, Mizuta R and Meek K . (1998).
+J. Biol. Chem.
+,273, 1794–1801.
+Lee JW, Yannone SM, Chen DJ and Povirk LP . (2003).
+Cancer Res.
+,63, 22–24.
+Lee KJ, Huang J, Takeda Y and Dynan WS . (2000).
+J. Biol. Chem.
+,275, 34787–34796.
+Lee S, Cavallo L and Griffith J . (1997).
+J. Biol. Chem.
+,272, 7532–7539.
+Lee S, Elenbaas B, Levine A and Griffith J . (1995).
+Cell,81, 1013–1020.
+Lee SA, Dritschilo A and Jung M . (1998).
+J. Biol. Chem.
+,273, 32889–32894.
+Lee SE, Mitchell RA, Cheng A and Hendrickson EA . (1997).
+Mol. Cell. Biol.
+,17, 1425–1433.
+Lee Y and McKinnon PJ . (2000).
+Apoptosis,5, 523–529.
+Lees-Miller SP, Chen YR and Anderson CW . (1990).
+Mol. Cell. Biol.
+,10, 6472–6481.
+Leuther KK, Hammarsten O, Kornberg RD and Chu G . (1999).
+EMBO J.
+,18, 1114–1123.
+Li B and Comai L . (2000).
+J. Biol. Chem.
+,275, 28349–28352.
+Li B and Comai L . (2001).
+J. Biol. Chem.
+,276, 9896–9902.
+Li B and Comai L . (2002).
+Nucleic Acids Res.
+,30, 3653–3661.
+Li S, Ting NS, Zheng L, Chen PL, Ziv Y, Shiloh Y, Lee EY and Lee WH . (2000).
+Nature,406, 210–215.
+Li Z, Otevrel T, Gao Y, Cheng HL, Seed B, Stamato TD, Taccioli GE and Alt FW . (1995).
+Cell,83, 1079–1089.
+Liang F, Han M, Romanienko PJ and Jasin M . (1998).
+Proc. Natl. Acad. Sci. USA,95, 5172–5177.
+Liang F, Romanienko PJ, Weaver DT, Jeggo PA and Jasin M . (1996).
+Proc. Natl. Acad. Sci. USA,93, 8929–8933.
+Lim DS, Kim ST, Xu B, Maser RS, Lin J, Petrini JH and Kastan MB . (2000).
+Nature,404, 613–617.
+Lin WC, Lin FT and Nevins JR . (2001).
+Genes Dev.
+,15, 1833–1844.
+Lindsey-Boltz LA, Bermudez VP, Hurwitz J and Sancar A . (2001).
+Proc. Natl. Acad. Sci. USA,98, 11236–11241.
+Liu VF and Weaver DT . (1993).
+Mol. Cell. Biol.
+,13, 7222–7231.
+Ma Y, Pannicke U, Schwarz K and Lieber MR . (2002).
+Cell,108, 781–794.
+Macaulay VM, Salisbury AJ, Bohula EA, Playford MP, Smorodinsky NI and Shiloh Y . (2001).
+Oncogene,20, 4029–4040.
+Mahajan KN, Nick McElhinny SA, Mitchell BS and Ramsden DA . (2002).
+Mol. Cell. Biol.
+,22, 5194–5202.
+Marmorstein LY, Ouchi T and Aaronson SA . (1998).
+Proc. Natl. Acad. Sci. USA,95, 13869–13874.
+Martensson S and Hammarsten O . (2002).
+J. Biol. Chem.
+,277, 3020–3029.
+Maser RS, Monsen KJ, Nelms BE and Petrini JH . (1997).
+Mol. Cell. Biol.
+,17, 6087–6096.
+Maya R, Balass M, Kim ST, Shkedy D, Leal JF, Shifman O, Moas M, Buschmann T, Ronai Z, Shiloh Y, Kastan MB, Katzir E and Oren M . (2001).
+Genes Dev.
+,15, 1067–1077.
+Mazur DJ and Perrino FW . (1999).
+J. Biol. Chem.
+,274, 19655–19660.
+Mekeel KL, Tang W, Kachnic LA, Luo CM, DeFrank JS and Powell SN . (1997).
+Oncogene,14, 1847–1857.
+Merkle D, Douglas P, Moorhead GB, Leonenko Z, Yu Y, Cramb D, Bazett-Jones DP and Lees-Miller SP . (2002).
+Biochemistry,41, 12706–12714.
+Mimori T and Hardin JA . (1986).
+J. Biol. Chem.
+,261, 10375–10379.
+Mirzoeva OK and Petrini JH . (2001).
+Mol. Cell. Biol.
+,21, 281–288.
+Mohaghegh P, Karow JK, Brosh Jr RM, Bohr Jr VA and Hickson ID . (2001).
+Nucleic Acids Res.
+,29, 2843–2849.
+Morrison C, Sonoda E, Takao N, Shinohara A, Yamamoto K and Takeda S . (2000).
+EMBO J.
+,19, 463–471.
+Moynahan ME, Chiu JW, Koller BH and Jasin M . (1999).
+Mol. Cell,4, 511–518.
+Moynahan ME, Cui TY and Jasin M . (2001).
+Cancer Res.
+,61, 4842–4850.
+Mummenbrauer T, Janus F, Muller B, Wiesmuller L, Deppert W and Grosse F . (1996).
+Cell,85, 1089–1099.
+Nelms BE, Maser RS, MacKay JF, Lagally MG and Petrini JH . (1998).
+Science,280, 590–592.
+Nick McElhinny SA, Snowden CM, McCarville J and Ramsden DA . (2000).
+Mol. Cell. Biol.
+,20, 2996–3003.
+Nicolas N, Finnie NJ, Cavazzana-Calvo M, Papadopoulo D, Le Deist F, Fischer A, Jackson SP and de Villartay JP . (1996).
+Eur. J. Immunol.
+,26, 1118–1122.
+Noordzij JG, Verkaik NS, van der Burg M, van Veelen LR, de Bruin-Versteeg S, Wiegant W, Vossen JM, Weemaes CM, de Groot R, Zdzienicka MZ, van Gent DC and van Dongen JJ . (2003).
+Blood,101, 1446–1452.
+Norbury CJ and Hickson ID . (2001).
+Annu. Rev. Pharmacol. Toxicol.
+,41, 367–401.
+Oberosler P, Hloch P, Ramsperger U and Stahl H . (1993).
+EMBO J.
+,12, 2389–2396.
+Offer H, Erez N, Zurer I, Tang X, Milyavsky M, Goldfinger N and Rotter V . (2002).
+Carcinogenesis,23, 1025–1032.
+Okorokov AL, Warnock L and Milner J . (2002).
+Carcinogenesis,23, 549–557.
+Oshima J, Huang S, Pae C, Campisi J and Schiestl RH . (2002).
+Cancer Res.
+,62, 547–551.
+Paillard S and Strauss F . (1991).
+Nucleic Acids Res.
+,19, 5619–5624.
+Painter RB . (1981).
+Mutat. Res.
+,84, 183–190.
+Painter RB and Young BR . (1980).
+Proc. Natl. Acad. Sci. USA,77, 7315–7317.
+Pang D, Yoo S, Dynan WS, Jung M and Dritschilo A . (1997).
+Cancer Res.
+,57, 1412–1415.
+Park SJ, Oh EJ, Yoo MA and Lee SH . (2001).
+DNA Cell Biol.
+,20, 637–645.
+Pastwa E, Neumann RD and Winters TA . (2001).
+Nucleic Acids Res.
+,29, E78.
+Paull TT, Cortez D, Bowers B, Elledge SJ and Gellert M . (2001).
+Proc. Natl. Acad. Sci. USA,98, 6086–6091.
+Paull TT and Gellert M . (1998).
+Mol. Cell,1, 969–979.
+Paull TT and Gellert M . (1999).
+Genes Dev.
+,13, 1276–1288.
+Paull TT and Gellert M . (2000).
+Proc. Natl. Acad. Sci. USA,97, 6409–6414.
+Paull TT, Rogakou EP, Yamazaki V, Kirchgessner CU, Gellert M and Bonner WM . (2000).
+Curr. Biol.
+,10, 886–895.
+Peretz S, Jensen R, Baserga R and Glazer PM . (2001).
+Proc. Natl. Acad. Sci. USA,98, 1676–1681.
+Perkins EJ, Nair A, Cowley DO, Van Dyke T, Chang Y and Ramsden DA . (2002).
+Genes Dev.
+,16, 159–164.
+Petrini JH, Bressan DA and Yao MS . (1997).
+Semin. Immunol.
+,9, 181–188.
+Pfeiffer P, Thode S, Hancke J and Vielmetter W . (1994).
+Mol. Cell. Biol.
+,14, 888–895.
+Phillips JW and Morgan WF . (1994).
+Mol. Cell. Biol.
+,14, 5794–5803.
+Pluth JM, Fried LM and Kirchgessner CU . (2001).
+Cancer Res.
+,61, 2649–2655.
+Post S, Weng YC, Cimprich K, Chen LB, Xu Y and Lee EY . (2001).
+Proc. Natl. Acad. Sci. USA,30, 30.
+Povirk LF . (1996).
+Mutat. Res.
+,355, 71–89.
+Povirk LF, Bennett RA, Wang P, Swerdlow PS and Austin MJ . (1994).
+J. Mol. Biol.
+,243, 216–226.
+Powell SN, DeFrank JS, Connell P, Eogan M, Preffer F, Dombkowski D, Tang W and Friend S . (1995).
+Cancer Res.
+,55, 1643–1648.
+Rappold I, Iwabuchi K, Date T and Chen J . (2001).
+J. Cell Biol.
+,153, 613–620.
+Rathmell WK, Kaufmann WK, Hurt JC, Byrd LL and Chu G . (1997).
+Cancer Res.
+,57, 68–74.
+Reardon DB, Contessa JN, Mikkelsen RB, Valerie K, Amir C, Dent P and Schmidt-Ullrich RK . (1999).
+Oncogene,18, 4756–4766.
+Richardson C and Jasin M . (2000a).
+Mol. Cell Biol.
+,20, 9068–9075.
+Richardson C and Jasin M . (2000b).
+Nature,405, 697–700.
+Rooney S, Sekiguchi J, Zhu C, Cheng HL, Manis J, Whitlow S, DeVido J, Foy D, Chaudhuri J, Lombard D and Alt FW . (2002).
+Mol. Cell,10, 1379–1390.
+Roos-Mattjus P, Vroman BT, Burtelow MA, Rauen M, Eapen AK and Karnitz LM . (2002).
+J. Biol. Chem.
+,277, 43809–43812.
+Roth DB and Wilson JH . (1986).
+Mol. Cell. Biol.
+,6, 4295–4304.
+Rothkamm K, Kuhne M, Jeggo PA and Lobrich M . (2001).
+Cancer Res.
+,61, 3886–3893.
+Rouet P, Smih F and Jasin M . (1994).
+Mol. Cell. Biol.
+,14, 8096–8106.
+Rouse J and Jackson SP . (2002).
+Science,297, 547–551.
+Saintigny Y, Delacote F, Vares G, Petitot F, Lambert S, Averbeck D and Lopez BS . (2001a).
+EMBO J.
+,20, 3861–3870.
+Saintigny Y, Dumay A, Lambert S and Lopez BS . (2001b).
+EMBO J.
+,20, 2596–2607.
+Saintigny Y, Makienko K, Swanson C, Emond MJ and Monnat Jr RJ . (2002).
+Mol. Cell Biol.
+,22, 6971–6978.
+Saintigny Y, Rouillard D, Chaput B, Soussi T and Lopez BS . (1999).
+Oncogene,18, 3553–3563.
+Sargent RG, Brenneman MA and Wilson JH . (1997).
+Mol. Cell. Biol.
+,17, 267–277.
+Sargent RG, Meservy JL, Perkins BD, Kilburn AE, Intody Z, Adair GM, Nairn RS and Wilson JH . (2000).
+Nucleic Acids Res.
+,28, 3771–3778.
+Sarkaria JN, Busby EC, Tibbetts RS, Roos P, Taya Y, Karnitz LM and Abraham RT . (1999).
+Cancer Res.
+,59, 4375–4382.
+Schlegel R and Pardee AB . (1986).
+Science,232, 1264–1266.
+Schmidt-Ullrich RK, Dent P, Grant S, Mikkelsen RB and Valerie K . (2000).
+Radiat. Res.
+,153, 245–257.
+Schultz LB, Chehab NH, Malikzay A and Halazonetis TD . (2000).
+J. Cell Biol.
+,151, 1381–1390.
+Scully R, Chen J, Ochs RL, Keegan K, Hoekstra M, Feunteun J and Livingston DM . (1997a).
+Cell,90, 425–435.
+Scully R, Chen J, Plug A, Xiao Y, Weaver D, Feunteun J, Ashley T and Livingston DM . (1997b).
+Cell,88, 265–275.
+Scully R, Ganesan S, Vlasakova K, Chen J, Socolovsky M and Livingston DM . (1999).
+Mol. Cell,4, 1093–1099.
+Shafman T, Khanna KK, Kedar P, Spring K, Kozlov S, Yen T, Hobson K, Gatei M, Zhang N, Watters D, Egerton M, Shiloh Y, Kharbanda S, Kufe D and Lavin MF . (1997).
+Nature,387, 520–523.
+Shang YL, Bodero AJ and Chen PL . (2002).
+J. Biol. Chem.
+,278, 6323–6329.
+Sharan SK, Morimatsu M, Albrecht U, Lim DS, Regel E, Dinh C, Sands A, Eichele G, Hasty P and Bradley A . (1997).
+Nature,386, 804–810.
+Shen J and Loeb LA . (2001).
+Mech. Ageing Dev.
+,122, 921–944.
+Shinohara A and Ogawa T . (1999).
+Mutat. Res.
+,435, 13–21.
+Sibanda BL, Critchlow SE, Begun J, Pei XY, Jackson SP, Blundell TL and Pellegrini L . (2001).
+Nat. Struct. Biol.
+,8, 1015–1019.
+Smith GC, Cary RB, Lakin ND, Hann BC, Teo SH, Chen DJ and Jackson SP . (1999a).
+Proc. Natl. Acad. Sci. USA,96, 11134–11139.
+Smith GC, d'Adda di Fagagna F, Lakin ND and Jackson SP . (1999b).
+Mol. Cell. Biol.
+,19, 6076–6084.
+Smith GC and Jackson SP . (1999).
+Genes Dev.
+,13, 916–934.
+Sonoda E, Sasaki MS, Buerstedde JM, Bezzubova O, Shinohara A, Ogawa H, Takata M, Yamaguchi-Iwai Y and Takeda S . (1998).
+EMBO J.
+,17, 598–608.
+Spillare EA, Robles AI, Wang XW, Shen JC, Yu CE, Schellenberg GD and Harris CC . (1999).
+Genes Dev.
+,13, 1355–1360.
+Sturzbecher HW, Donzelmann B, Henning W, Knippschild U and Buchhop S . (1996).
+EMBO J.
+,15, 1992–2002.
+Suh D, Wilson III DM and Povirk LF . (1997).
+Nucleic Acids Res.
+,25, 2495–2500.
+Sung P . (1997).
+Genes Dev.
+,11, 1111–1121.
+Swagemakers SM, Essers J, de Wit J, Hoeijmakers JH and Kanaar R . (1998).
+J. Biol. Chem.
+,273, 28292–28297.
+Taghian DG and Nickoloff JA . (1997).
+Mol. Cell. Biol.
+,17, 6386–6393.
+Takata M, Sasaki MS, Sonoda E, Morrison C, Hashimoto M, Utsumi H, Yamaguchi-Iwai Y, Shinohara A and Takeda S . (1998).
+EMBO J.
+,17, 5497–5508.
+Tan TL, Essers J, Citterio E, Swagemakers SM, de Wit J, Benson FE, Hoeijmakers JH and Kanaar R . (1999).
+Curr. Biol.
+,9, 325–328.
+Tang W, Willers H and Powell SN . (1999).
+Cancer Res.
+,59, 2562–2565.
+Taniguchi T, Garcia-Higuera I, Xu B, Andreassen PR, Gregory RC, Kim ST, Lane WS, Kastan MB and D'Andrea AD . (2002).
+Cell,109, 459–472.
+Thacker J, Chalk J, Ganesh A and North P . (1992).
+Nucleic Acids Res.
+,20, 6183–6188.
+Thangaraju M, Kaufmann SH and Couch FJ . (2000).
+J. Biol. Chem.
+,275, 33487–33496.
+Thelen MP, Venclovas C and Fidelis K . (1999).
+Cell,96, 769–770.
+Thode S, Schafer A, Pfeiffer P and Vielmetter W . (1990).
+Cell,60, 921–928.
+Thompson LH and Schild D . (2001).
+Mutat. Res.
+,477, 131–153.
+Thompson LH and Schild D . (2002).
+Mutat. Res.
+,509, 49–78.
+Tibbetts RS, Cortez D, Brumbaugh KM, Scully R, Livingston D, Elledge SJ and Abraham RT . (2000).
+Genes Dev.
+,14, 2989–3002.
+Tong X, Liu B, Dong Y and Sun Z . (2000).
+Int. J. Radiat. Biol.
+,76, 1387–1395.
+Trujillo KM, Yuan SS, Lee EY and Sung P . (1998).
+J. Biol. Chem.
+,273, 21447–21450.
+Tseng HM and Tomkinson AE . (2002).
+J. Biol. Chem.
+,277, 45630–45637.
+Tsuzuki T, Fujii Y, Sakumi K, Tominaga Y, Nakao K, Sekiguchi M, Matsushiro A, Yoshimura Y and MoritaT . (1996).
+Proc. Natl. Acad. Sci. USA,93, 6236–6240.
+Van Dyck E, Hajibagheri NM, Stasiak A and West SC . (1998).
+J. Mol. Biol.
+,284, 1027–1038.
+Van Dyck E, Stasiak AZ, Stasiak A and West SC . (1999).
+Nature,398, 728–731.
+Van Dyck E, Stasiak AZ, Stasiak A and West SC . (2001).
+EMBO Rep.
+,2, 905–909.
+van Gent DC, Hoeijmakers JH and Kanaar R . (2001).
+Nat. Rev. Genet.
+,2, 196–206.
+Walker JR, Corpina RA and Goldberg J . (2001).
+Nature,412, 607–614.
+Wang B, Matsuoka S, Carpenter PB and Elledge SJ . (2002).
+Science,298, 1435–1438.
+Wang H, Guan J, Perrault AR, Wang Y and Iliakis G . (2001a).
+Cancer Res.
+,61, 8554–8563.
+Wang H, Zeng ZC, Bui TA, DiBiase SJ, Qin W, Xia F, Powell SN and Iliakis G . (2001b).
+Cancer Res.
+,61, 270–277.
+Wang H, Zeng ZC, Bui TA, Sonoda E, Takata M, Takeda S and Iliakis G . (2001c).
+Oncogene,20, 2212–2224.
+Wang P, Lee JW, Yu Y, Turner K, Zou Y, Jackson-Cook CK and Povirk LF . (2002).
+Nucleic Acids Res.
+,30, 2639–2646.
+Wang P, Zhou RH, Zou Y, Jackson-Cook CK and Povirk LF . (1997).
+Proc. Natl. Acad. Sci. USA,94, 12018–12023.
+Wang S, Guo M, Ouyang H, Li X, Cordon-Cardo C, Kurimasa A, Chen DJ, Fuks Z, Ling CC and Li GC . (2000).
+Proc. Natl. Acad. Sci. USA,97, 1584–1588.
+Wang X, McGowan CH, Zhao M, He L, Downey JS, Fearns C, Wang Y, Huang S and Han J . (2000).
+Mol. Cell. Biol.
+,20, 4543–4552.
+Wang XW, Tseng A, Ellis NA, Spillare EA, Linke SP, Robles AI, Seker H, Yang Q, Hu P, Beresten S, Bemmels NA, Garfield S and Harris CC . (2001).
+J. Biol. Chem.
+,276, 32948–32955.
+Wang Y, Cortez D, Yazdi P, Neff N, Elledge SJ and Qin J . (2000).
+Genes Dev.
+,14, 927–939.
+Ward IM, Wu X and Chen J . (2001).
+J. Biol. Chem.
+,276, 47755–47758.
+Ward JF . (1988).
+Prog. Nucleic Acid. Res. Mol. Biol.
+,35, 95–125.
+Weinfeld M, Chaudhry MA, D'Amours D, Pelletier JD, Poirier GG, Povirk LF and Lees-Miller SP . (1997).
+Radiat. Res.
+,148, 22–28.
+Weizman N, Shiloh Y and Barzilai A . (2002).
+J. Biol. Chem278, 6741–6747.
+West RB, Yaneva M and Lieber MR . (1998).
+Mol. Cell. Biol.
+,18, 5908–5920.
+Wiese C, Pierce AJ, Gauny SS, Jasin M and Kronenberg A . (2002).
+Cancer Res.
+,62, 1279–1283.
+Wiesmuller L, Cammenga J and Deppert WW . (1996).
+J. Virol.
+,70, 737–744.
+Winegar RA, Lutze LH, Rufer JT and Morgan WF . (1992).
+Mutagenesis,7, 439–445.
+Woo RA, Jack MT, Xu Y, Burma S, Chen DJ and Lee PW . (2002).
+EMBO J.
+,21, 3000–3008.
+Woo RA, McLure KG, Lees-Miller SP, Rancourt DE and Lee PW . (1998).
+Nature,394, 700–704.
+Wu L, Davies SL, Levitt NC and Hickson ID . (2001).
+J. Biol. Chem.
+,276, 19375–19381.
+Wu X, Ranganathan V, Weisman DS, Heine WF, Ciccone DN, O'Neill TB, Crick KE, Pierce KA, Lane WS, Rathbun G, Livingston DM and Weaver DT . (2000).
+Nature,405, 477–482.
+Wu-Baer F and Baer R . (2001).
+Nature,414, 36.
+Xia F, Taghian DG, DeFrank JS, Zeng ZC, Willers H, Iliakis G and Powell SN . (2001).
+Proc. Natl. Acad. Sci. USA,98, 8644–8649.
+Xu B, Kim S and Kastan MB . (2001).
+Mol. Cell. Biol.
+,21, 3445–3450.
+Xu B, O'Donnell AH, Kim ST and Kastan MB . (2002).
+Cancer Res.
+,62, 4588–4591.
+Xu X and Stern DF . (2002).
+J. Biol. Chem,278, 8785–8803.
+Xu Y, Ashley T, Brainerd EE, Bronson RT, Meyn MS and Baltimore D . (1996).
+Genes Dev.
+,10, 2411–2422.
+Yaneva M, Kowalewski T and Lieber MR . (1997).
+EMBO J.
+,16, 5098–5112.
+Yang H, Jeffrey PD, Miller J, Kinnucan E, Sun Y, Thoma NH, Zheng N, Chen PL, Lee WH and Pavletich NP . (2002a).
+Science,297, 1837–1848.
+Yang Q, Zhang R, Wang XW, Spillare EA, Linke SP, Subramanian D, Griffith JD, Li JL, Hickson ID, Shen JC, Loeb LA, Mazur SJ, Appella E, Brosh RM, Jr, Karmakar P, Bohr VA and Harris CC . (2002b).
+J. Biol. Chem.
+,277, 31980–31987.
+Yang T, Namba H, Hara T, Takmura N, Nagayama Y, Fukata S, Ishikawa N, Kuma K, Ito K and Yamashita S . (1997).
+Oncogene,14, 1511–1519.
+Yannone SM, Roy S, Chan DW, Murphy MB, Huang S, Campisi J and Chen DJ . (2001).
+J. Biol. Chem.
+,276, 38242–38248.
+Yoo S and Dynan WS . (1999).
+Nucleic Acids Res.
+,27, 4679–4686.
+Yuan SS, Lee SY, Chen G, Song M, Tomlinson GE and Lee EY . (1999).
+Cancer Res.
+,59, 3547–3551.
+Yuan ZM, Huang Y, Ishiko T, Nakada S, Utsugisawa T, Kharbanda S, Wang R, Sung P, Shinohara A, Weichselbaum R and Kufe D . (1998).
+J. Biol. Chem.
+,273, 3799–3802.
+Zhang N, Chen P, Gatei M, Scott S, Khanna KK and Lavin MF . (1998).
+Oncogene,17, 811–818.
+Zhao S, Weng YC, Yuan SS, Lin YT, Hsu HC, Lin SC, Gerbino E, Song MH, Zdzienicka MZ, Gatti RA, Shay JW, Ziv Y, Shiloh Y and Lee EY . (2000).
+Nature,405, 473–477.
+Zhong Q, Boyer TG, Chen PL and Lee WH . (2002).
+Cancer Res.
+,62, 3966–3970.
+Zhong Q, Chen CF, Li S, Chen Y, Wang CC, Xiao J, Chen PL, Sharp ZD and Lee WH . (1999).
+Science,285, 747–750.
+Zhou BB, Chaturvedi P, Spring K, Scott SP, Johanson RA, Mishra R, Mattern MR, Winkler JD and Khanna KK . (2000).
+J. Biol. Chem.
+,275, 10342–10348.
+Zhou XY, Wang X, Wang H, Chen DJ, Li GC, Iliakis G and Wang Y . (2002).
+Oncogene,21, 6377–6381.
+Download referencesAcknowledgementsThis study was supported by P01CA72955 and CA40615. We thank Ross Mikkelsen, William Kaufmann, Steve Yannone and David Chen for valuable comments.
+Author informationAffiliationsDepartment of Radiation Oncology, Medical College of Virginia Commonwealth University, Richmond, 23298-0058, VA, USAKristoffer ValerieDepartments of Pharmacology and Toxicology, Medical College of Virginia Commonwealth University, Richmond, 23298-0058, VA, USALawrence F PovirkMassey Cancer Center, Medical College of Virginia Commonwealth University, Richmond, 23298-0058, VA, USAKristoffer Valerie & Lawrence F PovirkYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarCorresponding authorCorrespondence toKristoffer Valerie.
+Rights and permissionsReprints and PermissionsAbout this articleCite this articleValerie, K., Povirk, L. Regulation and mechanisms of mammalian double-strand break repair.
+Oncogene22,5792–5812 (2003). https://doi.org/10.1038/sj.onc.1206679Download citationPublished:28 August 2003Issue Date:01 September 2003DOI:https://doi.org/10.1038/sj.onc.1206679Share this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiativeKeywordsFurther readingRadio-adaptive response and correlation of non-homologous end joining repair gene polymorphisms [XRRC5 (3R/2R/1R/0R), XRCC6(C/G) and XRCC7 (G/T)] in human peripheral blood mononuclear cells exposed to gamma radiationGenes and Environment(2021)Age and sex modify cellular proliferation responses to oxidative stress and glucocorticoid challenges in baboon cellsGeroScience(2021)The molecular basis and disease relevance of non-homologous DNA end joiningNature Reviews Molecular Cell Biology(2020)Veliparib in ovarian cancer: a new synthetically lethal therapeutic approachInvestigational New Drugs(2020)In silico prediction of short hairpin RNA and in vitro silencing of activin receptor type IIB in chicken embryo fibroblasts by RNA interferenceMolecular Biology Reports(2019)You have full access to this article via your institution.
+AdvertisementExplore contentAbout the journalPublish with usSearchAdvanced searchQuick linksOncogene (Oncogene)ISSN1476-5594(online)ISSN0950-9232(print)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature Limited

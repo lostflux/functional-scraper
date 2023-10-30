@@ -1,0 +1,18 @@
+old id = 3978
+Quanta Magazine
+unknown
+https://www.quantamagazine.org/tag/fluid-dynamics
+
+PhysicsMathematicsBiologyComputer ScienceTopicsArchiveWhat's up influid dynamicsfluid dynamicsMathematicians Coax Fluid Equations Into Nonphysical SolutionsByLeila SlomanRead LaterThe famed Navier-Stokes equations can lead to cases where more than one result is possible, but only in an extremely narrow set of situations.
+mathematical physicsDeep Learning Poised to ‘Blow Up’ Famed Fluid EquationsByJordana CepelewiczRead LaterFor centuries, mathematicians have tried to prove that Euler’s fluid equations can produce nonsensical answers. A new approach to machine learning has researchers betting that “blowup” is near.
+fluid dynamicsAn Injection of Chaos Solves Decades-Old Fluid MysteryByAdam MannRead LaterIn the 1960s, drillers noticed that certain fluids would firm up if they flowed too fast. Researchers have finally explained why.
+mathematical physicsMathematicians Prove Melting Ice Stays SmoothByMordechai RorvigRead LaterAfter decades of effort, mathematicians now have a complete understanding of the complicated equations that model the motion of free boundaries, like the one between ice and water.
+geometryMathematicians Identify Threshold at Which Shapes Give WayByMordechai RorvigRead LaterA new proof establishes the boundary at which a shape becomes so corrugated, it can be crushed.
+Abstractions blogNew Quantum Algorithms Finally Crack Nonlinear EquationsByMax G. LevyRead LaterTwo teams found different ways for quantum computers to process nonlinear systems by first disguising them as linear ones.
+combinatoricsA Mathematician’s Unanticipated Journey Through the Physical WorldByKevin HartnettRead LaterLauren Williams has charted an adventurous mathematical career out of the pieces of a fundamental object called the positive Grassmannian.
+fluid dynamicsAn Unexpected Twist Lights Up the Secrets of TurbulenceByDavid H. FreedmanRead LaterHaving solved a central mystery about the “twirliness” of tornadoes and other types of vortices, William Irvine has set his sights on turbulence, the white whale of classical physics.
+MultimediaThe Map of MathematicsByKevin HartnettRead LaterExplore our surprisingly simple, absurdly ambitious and necessarily incomplete guide to the boundless mathematical universe.
+Follow QuantaPast MonthMost Read ArticlesThis Data is Current Loading...
+This Data is Current Loading...
+This Data is Current Loading...
+The Quanta NewsletterGet highlights of the most important news delivered to your email inboxRecent newsletters"byline\">Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional, misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can only accept comments written in English.

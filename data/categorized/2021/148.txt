@@ -1,0 +1,9 @@
+old id = 1101
+VQA: Visual Question Answering
+2021
+https://visualqa.org/workshop
+
+Visual Question Answering Workshopat CVPR 2021, June 19Zoom and Gatherly links on CVPR 2021 website:LinkNavigate to: Workshops -> Sat, June 19 -> Search for "Visual Question Answering" workshop entryHomeProgramPoster SpotlightsIntroductionThe primary goal of this workshop is two-fold. First is to benchmark progress in Visual Question Answering.
+Invited SpeakersRaquel FernándezVittorio FerrariHe HeAnirudh KoulOlga RussakovskyAida NematzadehJustin JohnsonDamien TeneyMohit BansalKaterina FragkiadakiProgramLivePrerecordedSubmission InstructionsWe invite submissions of extended abstracts of at most 2 pages (excluding references) describing work in areas such as: Visual Question Answering, Visual Dialog, (Textual) Question Answering, (Textual) Dialog Systems, Commonsense knowledge, Video Question Answering, Video Dialog, Vision + Language, and Vision + Language + Action (Embodied Agents). Accepted submissions will be presented as posters at the workshop. The extended abstract should follow the CVPR formatting guidelines and be emailed as a single PDF to theemail idmentioned below.
+DatesMarch 2021Challenge AnnouncementsMay 21, 2021ExtendedWorkshop Paper Submissionmid-May 2021Challenge Submission DeadlinesMay 28, 2021Notification to AuthorsJune 19, 2021WorkshopOrganizersAyush ShrivastavaGeorgia TechYash KantGeorgia TechSashank GondalaGeorgia TechSatwik KotturFacebook AIDhruv BatraGeorgia Tech / Facebook AI ResearchDevi ParikhGeorgia Tech / Facebook AI ResearchAishwarya AgrawalUniversity of Montreal / Mila / DeepmindSponsorsThis work is supported by grants awarded to Dhruv Batra and Devi Parikh.
+Contact:visualqa.workshop@gmail.com

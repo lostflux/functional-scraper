@@ -1,0 +1,21 @@
+old id = 953
+All topics | MIT Technology Review
+2022
+http://www.technologyreview.com/all-topics
+
+All topics10 Breakthrough TechnologiesOur annual list of 10 Breakthrough Technologies highlights the technological advances that we think will have the biggest impact on the world in the years to come.
+35 Innovators Under 35The 35 Innovators Under 35 is our yearly opportunity to take a look at not just where technology is now, but where it’s going and who’s taking it there.
+Artificial intelligenceWhat is AI? It’s the quest to build machines that can reason, learn, and act intelligently, and it has barely begun. We cover the latest advances in machine learning, neural networks, and robots.
+Face recognition|Machine learning|Robots|Voice assistantsThe Big StoryThe Big Story is a home for MIT Technology Review’s most important, ambitious reporting—stories that take a deep look at the technologies that are coming next and what they will mean for us and the world we live in.
+BiotechnologyBiotechnology is the industry that uses the molecules of life (DNA, RNA, and proteins mostly) to treat and diagnose disease. We report on the latest biomedical science and technological research.
+CRISPR|DNA testing|Genetic engineering|Genomic medicineBlockchainWhat is a blockchain? Distributed ledger technology underlies cryptocurrencies like bitcoin and could be the future of money, security, and online privacy. But there’s also a ton of hype.
+Bitcoin|Cryptocurrency|Ethereum|ICOs|Smart contractsClimate changeClimate change is making the Earth a warmer and weirder place, forcing researchers, companies and governments to understand, confront and adapt to rising dangers.
+Battery technology|Carbon sequestration|Clean energy|Electric cars|GeoengineeringComputingComputer technology news and in-depth analysis of computer tech, looking at the latest advances in computing being driven by innovations in everything from microchips to quantum computing.
+Cloud computingCybersecurity|Edge computing|Microchips|Quantum computing|SupercomputingCoronavirusYou can read our most essential coverage of the coronavirus/COVID-19 outbreak for free, and also sign up for our coronavirus newsletter. But please consider subscribing to support our nonprofit journalism.
+Humans and technologyA look at how technologies from AR/VR, brain-computer interfaces, and chip implants to health trackers, biometrics and social media are changing the most basic aspects of human life—work, friendship, love, aging, sickness, parenting, learning, and building community.
+AR|Biohacking|Brain-computer interface|VRPandemic Technology ProjectCovid-19 has altered our lives in countless ways. We’re tracking technology that’s responding to the pandemic, with support from The Rockefeller Foundation.
+Silicon ValleyGoogle, Facebook, Apple, Amazon, and other Silicon Valley Big Tech companies are built on innovation. But how are these corporate behemoths dealing with the ramifications of their power?Amazon|Apple|Facebook|Google|Smart citiesGovernments around the world are trying to improve urban life by adopting digital technologies and creating Smart Cities filled with sensors. Who are these projects benefiting and how smart are they?5G|IoT|Self-driving carsSpaceHumanity is pushing further outside of our atmosphere. We take a look at the space tech coming out of places like NASA, SpaceX, and Blue Origin that is powering the space exploration of tomorrow.
+Astronomy|NASA news|Space exploration|SpaceX news|The MoonTech policyWho’s responsible when technology causes harm? We look at how the world is dealing with problems like fake news and misinformation, AI bias, Big Tech’s power, genetic discrimination, privacy intrusions, mass surveillance, and more.
+AI Ethics|Kids and tech|Privacy|Tech and healthMIT Technology ReviewOur in-depth reporting reveals what’s going on now to prepare you for what’s coming next.
+Subscribeto support our journalism.
+AboutHelp© 2022 MIT Technology Review

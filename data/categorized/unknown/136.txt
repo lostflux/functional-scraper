@@ -1,0 +1,24 @@
+old id = 1138
+TensorFlow
+unknown
+https://www.tensorflow.org
+
+Why TensorFlowTensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
+Easy model buildingBuild and train ML models easily using intuitive high-level APIs like Keras with eager execution, which makes for immediate model iteration and easy debugging.
+Robust ML production anywhereEasily train and deploy models in the cloud, on-prem, in the browser, or on-device no matter what language you use.
+Powerful experimentation for researchA simple and flexible architecture to take new ideas from concept to code, to state-of-the-art models, and to publication faster.
+Solutions to common ML problemsSimple step-by-step walkthroughs to solve common ML problems with TensorFlow.
+Train a neural network to classify images of clothing, like sneakers and shirts, in this fast-paced overview of a complete TensorFlow program.
+Start with building and training a retrieval model to predict a set of movies that a user is likely to watch, and then use a ranking model to create recommendations.
+Train a generative adversarial network to generate images of handwritten digits, using the Keras Subclassing API.
+Powered by TensorFlowA diverse community of developers, enterprises and researchers are using ML to solve challenging, real-world problems. Learn how their research and applications are being#PoweredbyTFand how you canshare your story.
+Companies using TensorFlowNews & announcementsCheck out theTensorFlow blogfor additional updates, and subscribe to our TensorFlow newsletter to get the latest announcements sent directly to your inbox.
+Explore the latest developments in Google’s machine learning ecosystem that can be applied to your ML-powered apps and cutting edge research.
+Dev Library is a showcase of what developers have created with Google technologies. See what’s being built with ML, and submit your own!Discover solutions to help you integrate machine learning in your mobile and web apps, and new Google Developers learning pathways to guide you through common ML scenarios and custom use cases.
+Explore our new discussion platform to share ideas, find answers to technical questions, and learn the latest from members of the community and the TensorFlow team. Create an account and join the conversation!Resources and community supportWe are committed to fostering an open and welcoming ML community. Join the TensorFlow community and help grow the ecosystem.
+Join the TensorFlow Forum to share ideas, discuss technical questions and connect with the TensorFlow community.
+We post regularly to the TensorFlow Blog, with content from the TensorFlow team and the best articles from the community.
+Our YouTube Channel focuses on machine learning and AI with TensorFlow. Explore a number of new shows, including TensorFlow Meets, Ask TensorFlow, and Coding TensorFlow.
+For up-to-date news and updates from the community and the TensorFlow team, follow @tensorflow on Twitter.
+Join the TensorFlow announcement mailing list to learn about the latest release updates, security advisories, and other important information from the TensorFlow team.
+Sign up for the TensorFlow newsletterBuild, deploy, and experiment easily with TensorFlowStay connectedSupport

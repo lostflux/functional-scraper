@@ -1,0 +1,88 @@
+old id = 1464
+How to defuse a demographic time bomb: the way forward? | Eye
+2017
+https://doi.org/10.1038%2Feye.2017.114
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+AdvertisementHow to defuse a demographic time bomb: the way forward?Eyevolume31,pages1519–1522 (2017)Cite this article768Accesses10CitationsMetricsdetailsSubjectsThe pressure of rising demand on ophthalmic services in the United Kingdom, and the negative effect of capacity shortfall on clinical outcomes are well-attested.
+1With the major ophthalmic conditions of public health interest, cataract, glaucoma, age-related macular degeneration (AMD), and diabetic retinopathy (DR), being strongly associated with increasing age, the capacity/demand disequilibrium is expected to worsen with an ageing demographic. Epidemiological modelling for The Royal College of Ophthalmologists (RCOphth) commissioned Way Forward project predicted that between 2015 and 2035 the United Kingdom will experience a growth in case numbers of about 44% for glaucoma, 50% for operable cataract, and 59% for AMD (https://www.rcophth.ac.uk/standards-publications-research/the-way-forward/). Published projections suggest that diabetic numbers will also rise by ~50%.
+2,3Rising prevalence is compounded by expansion of cost-effective but labour-intensive treatment options and lower treatment thresholds without a commensurate growth in resources. Human resources are a particular problem with a global shortage of ophthalmologists,4and realisation that recruitment of staff from the health systems of countries with far greater ophthalmic human resource problems than the United Kingdom is no longer ethically acceptable.
+5A paradigm shift is required in the delivery of ophthalmic care to protect patients. The Way Forward project was constructed to facilitate shared learning as innovations in service design are identified and disseminated. The full reports are available online (www.rcophth.ac.uk/standards-publications-research/the-way-forward); this article provides a summary of the findings with exemplars.
+Way Forward methodologyA literature review was conducted, and semi-structured telephone interviews, offered via lead clinicians, were completed with consultant ophthalmologists responsible for glaucoma (n=43), cataract (50), DR (36), and AMD (30) from December 2015 to June 2016.
+GlaucomaDemand managementTypically ~40% of community optometrist referrals for suspected glaucoma are false positives6,7and are amenable to reduction by referral filtering schemes.
+6,7,8,9Two-thirds of glaucoma consultants reported such schemes in their locality, so for one-third, the opportunity exists to, at least, start a repeat measures scheme for intra-ocular pressure (IOP)-based referrals.
+Pathway redesignOptimal utilisation of the decision-making ability of senior ophthalmologists for complex cases is essential. This is not a new concept with early innovators running modified services in the 1990s.
+10Stratification of cases by risk permits allocation of low-risk cases to either a virtual clinic, or a multi-disciplinary team (MDT) clinic, with optometrists/nurse practitioners/orthoptists (non-medical health-care practitioners (HCPs)) requesting consultant input only as required. Virtual clinics involve visual acuity (VA), IOP, and visual field data acquisition by HCPs/technicians, often also obtaining disc images, pachymetry, and even gonioscopy. Consultant review of the data/images is then undertaken (typically 10–12 patients reviewed per hour) and letters sent to patients to inform them of the outcome.
+Task shiftingTask shifting can be a two-step process.
+11Once appropriate complexity patients are being managed satisfactorily by MDT in the hospital, the location of this devolved clinical work may be shifted into the community; convenient for patients but potentially more expensive.
+12,13CataractDemand managementA survey in England showed that 71/151 commissioning bodies explicitly ration access to cataract surgery despite poor evidence to guide criteria setting,14,15and it being contrary to RCOphth guidelines.
+16Pathway redesignBilateral cataract patients can be treated with just three hospital visits (Figure 1); safety in this pathway is permitted by easy-access symptom-driven post-operative review, autorefraction guiding second eye lens selection. A less radical change, well established in many units is to discharge uncomplicated second eye cataract patients from theatre. This is an easy win demand reduction, but refractive outcome data collection must be monitored.
+The lightest cataract pathway involved no routine review after first or second eye.
+Task shiftingNine out of ten departments still routinely reviewing post-operative cataract patients use non-ophthalmologists. More difficult to replicate perhaps is the one in five departments who has trained HCPs seeing cataract referrals; ophthalmologists only see the patient for surgery. This pathway relies on high-quality MDT members and does not adhere to current RCOphth guidelines.
+Efficient surgical service deliveryDespite the recommendation from RCOphth and Monitor that one cataract operation is carried out every 30 min,17the mode number of cases reported at interview was 6 on 4 h lists both for training and consultant-only lists. However, five departments routinely scheduled ≥10 cases. The expense of anaesthetists can be saved on dedicated local anaesthetic lists, provided staff have appropriate life support training.
+Age-related macular degenerationDemand managementReferral refinement was not a perceived need, but two-thirds of departments run virtual AMD clinics (VA/OCT/photo), and for some, this is their standard initial evaluation for all new referrals to minimise delays for high-risk cases, and discharge of false-positive referrals.
+Pathway redesignAMD pathways are in a state of evolution nationally.
+18Almost one-third of departments offer one-stop assessment/injection for first visits, and almost half do for follow-ups.
+Task shiftingVirtual clinics can be quality assured, hence many consultants pass on the virtual review work to trained HCPs. Non-ophthalmologist injection services are commonplace, however over one-third of departments still have all injections given by ophthalmologists.
+19Diabetic retinopathyDemand managementRepeated local audits showed >50% of new DR referrals were for maculopathy that did not require intervention.
+20Half of the consultants interviewed had virtual review clinics for maculopathy, and in some cases, the screening programme itself has taken on this work.
+21Screeners time can be freed up by automated computer disease/no disease grading removing 30% of images from their workload.
+22Task shiftingAs well as referral refinement, the pool of experienced DR screening graders can be utilised for monitoring treated proliferative disease.
+23Pathway redesignCapacity wastage from failure to attend (DNA) must be minimised using the evidence-based interventions that exist (Figure 2).
+24Strategic intentional demand capacity management is essential.
+DiscussionThe Way Forward project has given some sense of the scale of the future demand facing UK eye departments, and some of the options to deal with this demand already in use by colleagues around the country. Inaction is not an option. It is incumbent on each department in the United Kingdom to identify opportunities for service redesign to maximise efficiency and reduce unwarranted variation. Tasks that can be safely devolved to trained HCPs or areas where technology may offer time savings should also be explored, such that senior ophthalmologists are fully engaged in activities that genuinely require the training, knowledge, and experience that they have, and so that every MDT member, the ophthalmologist included, is operating at the top of their grade.
+ReferencesFoot B, MacEwen C . Surveillance of sight loss due to delay in ophthalmic treatment or review: frequency, cause and outcome.
+Eye (Lond)2017;31(5): 771–775.
+CASArticleGoogle ScholarWaldeyer R, Brinks R, Rathmann W, Giani G, Icks A . Projection of the burden of type 2 diabetes mellitus in Germany: a demographic modelling approach to estimate the direct medical excess costs from 2010 to 2040.
+Diabet Med2013;30: 999–1008.
+CASArticleGoogle ScholarHuang ES, Basu A, O'Grady M, Capretta JC . Projecting the future diabetes population size and related costs for the U.S.
+Diabetes Care2009;32(12): 2225–2229.
+ArticleGoogle ScholarResnikoff S, Felch W, Gauthier TM, Spivey B . The number of ophthalmologists in practice and training worldwide: a growing gap despite more than 200,000 practitioners.
+Br J Ophthalmol2012;96(6): 783–787.
+ArticleGoogle ScholarBastawrous A, Hennig BD . The global inverse care law: a distorted map of blindness.
+Br J Ophthalmol2012;96(10): 1357–1358.
+ArticleGoogle ScholarHenson DB, Spencer AF, Harper R, Cadman EJ . Community refinement of glaucoma referrals.
+Eye2003;17(1): 21–26.
+CASArticleGoogle ScholarRatnarajan G, Newsom W, Vernon SA, Fenerty C, Henson D, Spencer Fet al. The effectiveness of schemes that refine referrals between primary and secondary care—the UK experience with glaucoma referrals: the Health Innovation & Education Cluster (HIEC) Glaucoma Pathways Project.
+BMJ Open2013;3, pii e002715.
+ArticleGoogle ScholarBourne RR, French KA, Chang L, Borman AD, Hingorani M, Newsom WD . Can a community optometrist-based referral refinement scheme reduce false-positive glaucoma hospital referrals without compromising quality of care? The community and hospital allied network glaucoma evaluation scheme (CHANGES).
+Eye2010;24(5): 881–887.
+CASArticleGoogle ScholarDevarajan N, Williams GS, Hopes M, O'Sullivan D, Jones D . The Carmarthenshire Glaucoma Referral Refinement Scheme, a safe and efficient screening service.
+Eye2011;25(1): 43–49.
+CASArticleGoogle ScholarVernon SA, Adair A . Shared care in glaucoma: a national study of secondary care lead schemes in England.
+Eye2010;24(2): 265–269.
+CASArticleGoogle ScholarHoltzer-Goor KM, Plochg T, Lemij HG, van Sprundel E, Koopmanschap MA, Klazinga NS . Why a successful task substitution in glaucoma care could not be transferred from a hospital setting to a primary care setting: a qualitative study.
+Implement Sci2013;8: 14.
+ArticleGoogle ScholarSpry PG, Spencer IC, Sparrow JM, Peters TJ, Brookes ST, Gray Set al. The Bristol Shared Care Glaucoma Study: reliability of community optometric and hospital eye service test measures.
+Br J Ophthalmol1999;83(6): 707–712.
+CASArticleGoogle ScholarCoast J, Spencer IC, Smith L, Spry PG . Comparing costs of monitoring glaucoma patients: hospital ophthalmologists versus community optometrists.
+J Health Serv Res Policy1997;2(1): 19–25.
+CASArticleGoogle ScholarMcLaughlan BWS, Benjamin L, Cassels-Brown A, Smith R.
+Don’t turn back the clock: cataract surgery – the need for patient-centred care. RNIB, RCOphth, UK, 2011..
+Coronini-Cronberg S, Lee H, Darzi A, Smith P . Evaluation of clinical threshold policies for cataract surgery among English commissioners.
+J Health Serv Res Policy2012;17(4): 241–247.
+ArticleGoogle ScholarDay AC, Wormald R, Coronini-Cronberg S, Smith R . Royal College of Ophthalmologists Cataract Surgery Commissioning Guidance Development Group. The Royal College of Ophthalmologists' Cataract Surgery Commissioning Guidance: executive summary.
+Eye (Lond)2016;30(3): 498–502.
+CASArticleGoogle ScholarMacEwen C, Mascie-Taylor H, Wilton T.
+Helping NHS providers improve productivity in elective care. Monitor/RCOphth/British Orthopaedic Association, UK, 2015..
+Amoaku W, Blakeney S, Freeman M, Gale R, Johnston R, Kelly SPet al. Action on AMD. Optimising patient management: act now to ensure current and continual delivery of best possible patient care.
+Eye2012;26(Suppl 1): S2–21.
+ArticleGoogle ScholarDaCosta J, Hamilton R, Nago J, Mapani A, Kennedy E, Luckett Tet al. Implementation of a nurse-delivered intravitreal injection service.
+Eye2014;28(6): 734–740.
+CASArticleGoogle ScholarLooker HC, Nyangoma SO, Cromie DT, Olson JA, Leese GP, Black MWet al. Rates of referable eye disease in the Scottish National Diabetic Retinopathy Screening Programme.
+Br J Ophthalmol2014;98(6): 790–795.
+CASArticleGoogle ScholarManjunath V, Papastavrou V, Steel DH, Menon G, Taylor R, Peto Tet al. Wide-field imaging and OCT vs clinical evaluation of patients referred from diabetic retinopathy screening.
+Eye2015;29(3): 416–423.
+CASArticleGoogle ScholarPhilip S, Fleming AD, Goatman KA, Fonseca S, McNamee P, Scotland GSet al. The efficacy of automated "disease/no disease" grading for diabetic retinopathy in a systematic screening programme.
+Br J Ophthalmol2007;91(11): 1512–1517.
+CASArticleGoogle ScholarNegretti GS, Vafidis GC . Is it safe to discharge treated proliferative diabetic retinopathy patients from the hospital eye service to a community screening programme?Eye (Lond)2014;28(6): 696–700.
+CASArticleGoogle ScholarThompson AC, Thompson MO, Young DL, Lin RC, Sanislo SR, Moshfeghi DMet al. Barriers to follow-up and strategies to improve adherence to appointments for care of chronic eye diseases.
+Invest Ophthalmol Vis Sci2015;56(8): 4324–4331.
+ArticleGoogle ScholarDownload referencesAcknowledgementsContribution is acknowledged from the Way Forward Steering Committee and Reference Group: Tom Bremridge, Barny Foot, David Morsman, Rachel Pilling, Richard Smith, John Somner, John Sparrow, Rachel Stancliffe, and Peter Tiffin. The Way Forward project was funded by the Royal College of Ophthalmologists. Subsequent Salary support for JCB is provided by the Queen Elizabeth Diamond Jubilee Trust through the Commonwealth Eye Health Consortium.
+Author informationAffiliationsInternational Centre for Eye Health, London School of Hygiene and Tropical Medicine, London, UKJ C BuchanUniversity of Nottingham, Academic Ophthalmology, Eye and ENT Centre, University Hospital QMC, Nottingham, UKW AmoakuThe Royal College of Ophthalmologists, London, UKB BarnesDepartment of Ophthalmology, St James’s University Hospital, Leeds, UKA Cassels-Brown & B Y ChangEye Department, Aberdeen Royal Infirmary, Aberdeen, UKJ HarcourtLeeds Institute of Health Sciences, University of Leeds, Leeds, UKD ShickleManchester Royal Eye Hospital, Manchester, UKA F SpencerThe BMI Park Hospital, Nottingham, UKS A VernonNinewells Hospital, Dundee, UKC MacEwenYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarCorresponding authorCorrespondence toJ C Buchan.
+Ethics declarationsCompeting interestsThe authors declare no conflict of interest.
+Rights and permissionsReprints and PermissionsAbout this articleCite this articleBuchan, J., Amoaku, W., Barnes, B.
+et al.
+How to defuse a demographic time bomb: the way forward?.
+Eye31,1519–1522 (2017). https://doi.org/10.1038/eye.2017.114Download citationPublished:16 June 2017Issue Date:November 2017DOI:https://doi.org/10.1038/eye.2017.114Share this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiativeFurther readingThe Royal College of Ophthalmologists’ National Ophthalmology Database study of cataract surgery: Report 7, immediate sequential bilateral cataract surgery in the UK: Current practice and patient selectionEye(2020)Failing to plan and planning to fail. Can we predict the future growth of demand on UK Eye Care Services?Eye(2019)Comment on: 'How to defuse a demographic time bomb: the way forward?'Eye(2018)Clinically applicable deep learning for diagnosis and referral in retinal diseaseNature Medicine(2018)AdvertisementExplore contentAbout the journalPublish with usSearchAdvanced searchQuick linksEye (Eye)ISSN1476-5454(online)ISSN0950-222X(print)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature Limited

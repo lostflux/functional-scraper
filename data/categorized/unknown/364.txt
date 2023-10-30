@@ -1,0 +1,18 @@
+old id = 3975
+Quanta Magazine
+unknown
+https://www.quantamagazine.org/computer-science
+
+PhysicsMathematicsBiologyComputer ScienceTopicsArchiveWhat's up inComputer ScienceQ&AHow to Write Software With Mathematical PerfectionBySheon HanRead LaterLeslie Lamport revolutionized how computers talk to each other. Now he’s working on how engineers talk to their machines.
+algorithmsPowerful ‘Machine Scientists’ Distill the Laws of Physics From Raw DataByCharlie WoodRead LaterResearchers say we’re on the cusp of “GoPro physics,” where a camera can point at an event and an algorithm can identify the underlying physics equation.
+cryptographyWhich Computational Universe Do We Live In?ByErica KlarreichRead LaterCryptographers want to know which of five possible worlds we inhabit, which will reveal whether truly secure cryptography is even possible.
+neural networksResearchers Gain New Understanding From Simple AIByMordechai RorvigRead LaterLanguage processing programs are notoriously hard to interpret, but smaller versions can provide important insights into how they work.
+View All TopicsFollow QuantaPast MonthMost Read in Computer ScienceThis Data is Current Loading...
+This Data is Current Loading...
+This Data is Current Loading...
+computational complexityResearchers Identify ‘Master Problem’ Underlying All CryptographyByErica KlarreichRead LaterThe existence of secure cryptography depends on one of the oldest questions in computational complexity.
+artificial intelligenceMachine Learning Reimagines the Building Blocks of ComputingByNick ThiemeRead LaterTraditional algorithms power complicated computational tools like machine learning. A new approach, called algorithms with predictions, uses the power of machine learning to improve algorithms.
+neural networksWill Transformers Take Over Artificial Intelligence?ByStephen OrnesRead LaterA simple algorithm that revolutionizes how neural networks approach language is now taking on image classification as well. It may not stop there.
+cryptographyCryptographers Achieve Perfect Secrecy With Imperfect DevicesByMordechai RorvigRead LaterFor the first time, experiments demonstrate the possibility of sharing secrets with perfect privacy — even when the devices used to share them cannot be trusted.
+neural networksAI Overcomes Stumbling Block on Brain-Inspired HardwareByAllison WhittenRead LaterAlgorithms that use the brain’s communication signal can now work on analog neuromorphic chips, which closely mimic our energy-efficient brains.
+The Quanta NewsletterGet highlights of the most important news delivered to your email inboxRecent newsletters"byline\">Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional, misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can only accept comments written in English.

@@ -1,0 +1,13 @@
+old id = 3398
+About 40% of Europe’s “AI companies” don’t use any AI at all | MIT Technology Review
+2022
+https://www.technologyreview.com/the-download/613078/about-40-of-europes-ai-companies-dont-actually-use-any-ai-at-all
+
+About 40% of Europe’s “AI companies” don’t use any AI at allA surprising number of firms are jumping on the artificial-intelligence bandwagon—without actually investing in any AI.
+What?Yes, I’m afraid so. MMC Ventures, an investment firm in London, looked at 2,830 European companies that claim to make use of AI. It found that a whopping 40% of them are not using any machine learning, a field of AI that has taken off in recent years both academically and commercially.
+Numbers game:One companysingled out in an article in the FT ($)said it was gathering “data and knowledge to enable the implementation of AI.” That’s pretty embarrassing, but also hardly surprising. The report claims that “AI-focused” startups receive 15% more funding on average, so it’s going to be pretty tempting to stretch the definition a little.
+AI or not AI?Another problem, of course, is that “artificial intelligence” refers to a huge field of academic research. So it can be used to refer to the most basic forms of software automation or the kind of advanced machine learning seen in AlphaGo. This makes it a lot easier for companies to convince investors—and perhaps themselves—that they are involved in AI.
+To get the real lowdown on AI, you should sign up for our AI newsletter The Algorithm. To have it directly delivered to your inbox,sign up herefor free.
+byWill KnightSharePopularMagazineThe Money issueMoney changes everything: But who is the shift toward digital transactions really helping?Latest contentMIT Technology ReviewOur in-depth reporting reveals what’s going on now to prepare you for what’s coming next.
+Subscribeto support our journalism.
+AboutHelp© 2022 MIT Technology Review

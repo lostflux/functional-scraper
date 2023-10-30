@@ -1,0 +1,18 @@
+old id = 1606
+Science
+unknown
+https://deepmind.com/about/science
+
+Exploring the frontiers of scienceOverviewOur Science team aims to better understand the world around us and accelerate progress on some of today’s most fundamental and fascinating scientific challenges.
+We accomplish this by combining expertise in a broad range of natural sciences with cutting-edge AI research.
+Like the astronomers who built and used powerful telescopes to expand our understanding of the universe, our Science team builds innovative AI and machine learning systems. This work is pushing the boundaries of possibility in diverse fields such as climate science, protein folding, and quantum chemistry.
+Joining together from a broad range of backgrounds, our pioneering research scientists, research engineers, and software engineers extend their abilities by partnering with industry experts and specialists to explore new topics and conduct experimental research.
+Since 2016, our Science team has been working on an AI system that can accurately predict the 3D shape of proteins regarded as one of the biggest challenges in biology. Four years later,AlphaFoldsolved the problem, showing the potential of AI to help solve scientific problems. One day soon, this research could help us create treatments for rare diseases, find ways to break down plastic waste or even capture carbon from the atmosphere.
+Pushmeet holds a PhD in combinatorial optimisation problems found in computer vision. Before joining DeepMind, he was the director of research at Microsoft Research.
+Pushmeet manages impactful AI projects across the natural sciences. He also leads the team ensuring DeepMind’s models and agents are robust and consistent.
+John has a PhD in chemistry from the University of Chicago. Before that, he worked on molecular dynamics simulations of proteins and supercooled liquids.
+John leads the development of next-generation AlphaFold models. He designs algorithms, acts as a domain expert, and ensures that DeepMind’s work beneficially solves challenges in protein biology.
+Tim studied physics as at the University of Cambridge and conducted his DPhil and postdoc at the University of Oxford, predicting NMR properties of materials.
+Tim works on solving protein structure predictions through machine learning research and helping his team maximise DeepMind’s computational resources.
+Kathryn completed her PhD in systems approaches to biomedical science at the University of Oxford. She then worked on vehicle routing and geospatial data at Ocado Technology.
+Kathryn ensures DeepMind’s infrastructure works smoothly. This ranges from setting up data processing pipelines to enabling the use of externally developed scientific software.

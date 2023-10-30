@@ -1,0 +1,31 @@
+old id = 11
+Operations
+unknown
+https://www.deepmind.com/about/operations
+
+Maximising the chance of unexpected discoveriesOverviewDeepMind has a remarkable track record of scientific breakthroughs. Such extraordinary work is a direct result of the brilliant and diverse people we bring together.
+Our Operations team works hard to make DeepMind the best environment in the world for advancing AI research. This means we do things differently.
+From machine learning and neuroscience to robotics and philosophy, we meticulously bring together researchers from an unusually wide range of disciplines. Our goal is to create environments that maximise the chance for unexpected discoveries.
+Collaborative cultureWe develop the world’s best technical tools for cutting-edge AI research and use Google’s computing infrastructure to go from idea to experiment to breakthrough in record time.
+We think hard about the spaces we build and ensure our labs support different working styles and interests, as well as fast-paced collaboration.
+We create a culture where everyone’s expertise is recognised and where everyone is continually learning and supported to be the best leaders, managers, and collaborators they can be.
+Public engagementAnd we find new ways to make our work accessible to the public, through exhibitions, events, podcasts, videos, and more, ensuring that the hopes, fears, and ideas of the public are heard loudly at the heart of DeepMind.
+Our operations teams take on all these challenges and more, which means we’re home to people with a huge range of skills and backgrounds.
+Simon has worked on large-scale software and technology programs for companies such as IBM, Virgin Media, and Barclays.
+Simon ensures that the Program team are planning for the future growth of the company.
+Letitia studied history and Russian at the University of Manchester, with a focus on gender and race.
+Letitia project manages part of the Diversity & Inclusion programme, partners with the recruitment team, and focuses on raising internal awareness. She also develops team training and workshops, outreach, and conference presence.
+Nathalie studied psychology and then worked in the video game industry on game development, web development, digital marketing, and publishing teams.
+Nathalie supports the Paris team, both on an organisational and an individual level, maximising delivery, efficiency, and team collaboration.
+Tom is an accomplished recruiter with multi-sector, international experience. Before DeepMind, he worked for a global media investment group and an executive search firm.
+Tom and his team recruit across all DeepMind locations. He also supports projects that drive candidate experience and engagement.
+Becca has worked on HR teams at Urban Outfitters and the Arcadia Group.
+Becca aims to create, maintain, and grow a mission-aligned culture at DeepMind. She supports the growth of individuals, teams, and leaders and helps solve the challenges they face while building AGI.
+Lorrayne earned a masters in electronic engineering from the University of Surrey, and a certificate in coaching & mentoring from the University of Warwick. She has worked in publishing, media, and FinTech.
+Lorrayne helps individuals and teams find solutions and develops organisational techniques that facilitate research progress.
+Previously, Natalie worked in healthcare at Canada’s Blood Bank where she carried out various roles from biologics production, phlebotomy and finally office support for a blood stem cell production lab.
+Natalie’s main focus is to ensure smooth office operations, create awesome team retreats, events and ensure moral in the office is high by creating an enjoyable space for staff to come to work each day.
+Jackson has experience working as a product director in Nike’s Sport Science Research and Innovation Lab, developing data science tools and techniques to better understand athletes.
+Jackson spends his days collaboratively innovating and implementing strategies for accelerating the pace and safety of AGI research.
+Diana has a background in conference interpreting and was previously in charge of the event management at the Max Planck Institute for Intelligent Systems in Tübingen, Germany.
+Diana provides the Montreal team with the operational support that they need to do excellent research, making sure that the office is running smoothly and we uphold a strong team spirit.

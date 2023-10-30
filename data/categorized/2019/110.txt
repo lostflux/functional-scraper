@@ -1,0 +1,12 @@
+old id = 3093
+Joint Statement from McDonald’s and IBM
+2019
+https://newsroom.ibm.com/Joint-Statement-from-McDonalds-and-IBM
+
+Latest NewsToday, IBM, a leader in AI for business and AI-powered customer care, entered into an agreement with McDonald’s, the world’s largest restaurant company, to further accelerate the development...
+Today, IBM, a leader in AI for business and AI-powered customer care, entered into an agreement withMcDonald’s, the world’s largest restaurant company, to further accelerate the development and deployment of its Automated Order Taking (AOT) technology. Under the agreement, IBM will acquire McD Tech Labs, which was created to advance employee and customer facing innovations following McDonald’s 2019 acquisition of Apprente. As part of McDonald’s strategic growth plan, "Accelerating the Arches," the company is committed to innovation across Digital, Delivery and Drive Thru. This agreement will accelerate McDonald’s efforts to provide an even more convenient and unique customer and crew experience.
+McDonald’s development and testing of AOT technology in restaurants has shown substantial benefits to customers and the restaurant crew experience. Moving forward, IBM’s expertise in building customer care solutions with AI and natural language processing will help scale the AOT technology across markets and tackle integrations including additional languages, dialects and menu variations.
+The acquisition of McD Tech Labs will complement IBM's existing work to develop and deliver AI-driven customer care solutions with IBM Watson. Businesses across industries from financial services and healthcare to telecommunications and retail are using Watson to drive business outcomes.
+AOT will continue to be integrated into McDonald’s highly secure technology ecosystem. All IBM business engagements are bound by the ethical, responsible advancement of technology. IBM and McDonald’s are both committed to adopting AI responsibly by embedding ethical principles into AI applications and processes to build systems based on trust and transparency.
+The transaction is subject to regulatory approvals and other customary closing conditions. It is expected to close in December 2021. Upon closing, the McD Tech Labs team will become part of the IBM Cloud & Cognitive Software division.
+Article CategoriesCategoriesYearAdditional AssetsMore »

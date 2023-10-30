@@ -1,0 +1,18 @@
+old id = 2423
+AI21 Labs
+2021
+https://www.ai21.com
+
+When Machines Become Thought PartnersAI has a way to go before it matches human intelligence.
+We aim to get it a little bit closer.
+NLP is the NextAI FrontierWe are at the start of a revolution in Natural Language Processing (NLP), or the ability of machines to understand and generate natural text. It’s no coincidence that language is a unique human ability, so making significant progress in NLP calls for considerable scientific and engineering innovations.
+At AI21 we aim to lead this revolution. And if we succeed, we'll have turned machines into the ultimate thought partners.
+ReimaginingReading and WritingWe believe both writing and reading can be radically transformed by making them AI-first experiences. Machines should work alongside humans and empower them to be better versions of their writing and reading selves.
+Your thoughtsin wordsAI21's premier product is a writing companion tool that helps you rephrase your writing to say exactly what you mean.
+A revolutionaryreading experienceWordtune Read is an AI reader that summarizes long documents so you can understand more, faster.
+Advancing the EcosystemWe make our sophisticated language models available to other developers who want to createAI-poweredproducts at scale, inspiring them to dream up exciting applications in every domain.
+Build scalable & efficient applications powered by AI21's state of the art language models that can process any language comprehension or generation task. No NLP expertise needed.
+OurTechnologyWe believe that pattern recognition at scale - of the sort offered by current deep language models - is necessary but not sufficient to achieve our goals. We’re building enriched models that understand context and semantics at unprecedented levels.
+Research & moreDive into our demos, watch talks from our leadership, and read more about our advancements in natural language processing and machine learning.
+Jurassic-X: Crossing the Neuro-Symbolic Chasm with the MRKL SystemWe present the next evolution in natural language processing – the Modular Reasoning, Knowledge and Language (MRKL, pronounced “miracle”) system – and Jurassic-X, AI21 Labs’ implementation of it. MRKL systems include one or more language models, and augment them with external knowledge sources as well as symbolic reasoning experts that can handle tasks that lie beyond the reach of neural models.
+Introducing Wordtune ReadAI21 Labs newest product joins its writing counterpart to tackle information overload & help everyone read more productivelyDiscover Use Cases for AI21 Studio and Jurassic-1Learn how to use Jurassic-1 to perform summarization, idea generation, classification and many other language tasksWe are always on the lookout for outstanding peopleAll Rights Reserved © AI21 Labs, 2021

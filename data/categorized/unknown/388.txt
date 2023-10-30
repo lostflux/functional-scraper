@@ -1,0 +1,27 @@
+old id = 4192
+Google's AI has written some amazingly mournful poetry | WIRED UK
+unknown
+http://www.wired.co.uk/article/google-artificial-intelligence-poetry
+
+We may earn a commission if you buy something from any affiliate links on our site.
+Learn more.
+Matt BurgessGoogle's AI has written some amazingly mournful poetryArtificial intelligence cancontrol self-driving cars, beat the best humans atincredibly complex board games, andfight cancer; but one thing it can't do perfectly is communicate.
+To help solve the problem, Google has been feeding it's AI with more than 11,000 unpublished books, including 3,000 steamy romance titles. In response, the AI has penned its own mournful poems:i went to the store to buy some groceries. i store to buy some groceries. i were to buy any groceries. horses are to buy any groceries. horses are to buy any animal. horses the favorite any animal. horses the favorite favorite animal. horses are my favorite animal.
+no. he said. "no,” he said. "no," i said. "i know," she said. "thank you," she said. "come with me," she said. "talk to me," she said. "don’t worry about it," she said.
+Google's team fed the unpublished works into aneural networkand gave the system two sentences from the book. It was then up to the AI to create its own poetry based on the available information.
+In the example above, the researchers gave theartificial intelligencetwo sentences, one about buying groceries and one about horses being a favourite animal (the first and last lines of the passage). The team then told the AI to morph between the two sentences.
+In a research paperthe team explained the AI system was able to "generate coherent and diverse sentences through purely continuous sampling".
+Using anautoencoder, atype of AI networkthat uses a data set to reproduce a result (in this case writing sentences) using fewer steps, the team produced the sentences.
+The principle behind the research is to create an AI that is able to communicate via "natural language sentences".
+This work could eventually lead to the development of a system that is capable of communicating in a more human-like way. Such a breakthrough is key in the creation of more useful and responsive chat bots and AI-powered personal assistants such as Siri and Google Now.
+In asimilar project, Google researchers have been teaching AI how to understand language by predicting and replicating the work of dead authors archived on Project Gutenberg.
+The separate Google team fed the AI an input sentence and asked it to predict what would come next. By analysing the texts, the AI was able to identify what author was likely to have written a sentence and emulate its style.
+In June 2015, another Google team developed achatbot that threatened its creators. The artificial intelligence learned the art of conversation by analysing millions of movie scripts, allowing it to muse on the meaning of life, the colour of blood, morality and even get angry with its human inquisitor. When questioned what the meaning of life was, the chatbot replied: "To live forever".
+Elsewhere,Facebookhas also been teaching its artificial intelligence with children's' books. According to theNew Scientistthe social network has been using novels such asThe Jungle Book,Peter PanandAlice in Wonderland, to teach its networks.
+Here are some more of Google's 'poems'.
+youre right. "all right. you're right. okay, fine. "okay, fine. yes, right here. no, not right now. "no, not right now. "talk to me right now. please talk to me right now. i'll talk to you right now. "i'll talk to you right now. "you need to talk to me now.
+amazing, isn't it? so, what is it? it hurts, isnt it? why would you do that? "you can do it. "i can do it. I can't do it. "i can do it. "don't do it. "i can do it. i couldn't do it.
+there is no one else in the world. there is no one else in sight. they were the only ones who mattered. they were the only ones left. he had to be with me. she had to be with him. i had to do this. i wanted to kill him. i started to cry. i turned to him.
+i dont like it, he said. i waited for what had happened. it was almost thirty years ago. it was over thirty years ago. that was six years ago. he had died two years ago. ten, thirty years ago. – "it's all right here. "everything is all right here. "it's all right here. it's all right here. we are all right here. come here in five minutes. "but you need to talk to me now.
+Update May 18 10:00am: This article has been clarified to reflect the AI morphing between two sentences.
+© Condé Nast Britain 2022.

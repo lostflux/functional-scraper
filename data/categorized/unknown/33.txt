@@ -1,0 +1,20 @@
+old id = 134
+You and AI | Royal Society
+unknown
+https://royalsociety.org/topics-policy/projects/machine-learning/you-and-ai
+
+You currently have JavaScript disabled in your web browser, please enable JavaScript to view our website as intended.
+Here are the instructions of how to enable JavaScript in your browser.
+You and AIThroughout 2018, The Royal Society supported by DeepMind brought you the world's leading thinkers in AI, in order to help build a greater understanding of what machine learning and AI are, how the technology works, and the ways it may affect our lives.
+The launch of You and AI followed the Royal Society’s in-depth assessment of public views ofmachine learningwhich found that just one in ten members of the UK public recognised the term "machine learning", even though the technology – a form of artificial intelligence (AI) – is already part of our everyday lives.
+Thiswritten summary (PDF)gives a sense of the issues covered in the series, and you can watch the videos at the links below.
+Supported by DeepMind.
+Machine Learning Q&AMathematician Professor Marcus Du Sautoy answers your social media questions on machine learning.
+You and AI in ManchesterProfessor Jim Al-Khalili OBE FRS poses your questions about artificial intelligence to a panel of experts.
+The future of workProfessor Joseph E. Stiglitz explores how AI might affect work and working life, and how its benefits might be shared (or not) across society.
+The history of AIIn the first of our You and AI series, DeepMind co-founder and CEO Demis Hassabis leads us through the history and aspirations for AI technologies.
+Machine learning and biasProfessor Kate Crawford discusses the biases built into machine learning, and what that means for the social implications of AI.
+Making machines play fairProfessor Cynthia Dwork explores the emerging theory of algorithmic fairness and the challenges in ensuring that machines make objective decisions.
+The applications of AIProfessor Marcus du Sautoy presents four speakers from the worlds of science and tech, to discuss how AI is revolutionising their respective fields.
+What is machine learning?An interactive infographic that lets you test yourself against machine learning and share your results.
+Share:

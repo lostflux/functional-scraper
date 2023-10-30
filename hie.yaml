@@ -1,0 +1,28 @@
+cradle:
+  cabal:
+    - path: "src"
+      component: "zeta:lib:MyData"
+
+    - path: "app/Main.hs"
+      component: "zeta:exe:zeta"
+
+    - path: "src/Main.hs"
+      component: "zeta:exe:zeta"
+
+    - path: "app/MyData.hs"
+      component: "zeta:exe:zeta"
+
+    - path: "app/MyData/Parser.hs"
+      component: "zeta:exe:zeta"
+
+    - path: "app/MyData/Trie.hs"
+      component: "zeta:exe:zeta"
+
+    - path: "src/MyData.hs"
+      component: "zeta:exe:zeta"
+
+    - path: "src/MyData/Parser.hs"
+      component: "zeta:exe:zeta"
+
+    - path: "src/MyData/Trie.hs"
+      component: "zeta:exe:zeta"

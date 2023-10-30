@@ -1,0 +1,15 @@
+old id = 2016
+Mobileye | Autonomous Driving & ADAS (Advanced Driver Assistance Systems)
+unknown
+https://www.mobileye.com
+
+Mobileye Autonomous Vehicles Reach the Streets of Miami and StuttgartWith the addition of two more locations in Florida and Germany, we have tested AVs in ten cities in six countries across three continents around the world.
+Robotaxi Night Drive Demonstrates Full Sensing Suite in ActionOur fifth unedited autonomous-driving video follows our robotaxi on a nighttime cruise through Jerusalem, demonstrating the capabilities of True Redundancy™ sensing.
+Under the Hood: an Hour with Amnon at CES 2022Mobileye CEO Prof. Amnon Shashua explains how Mobileye will deliver economically viable consumer autonomous vehicles to the world.
+Mobileye Autonomous Cars Piloting in ParisEmployees from world-famous Galeries Lafayette in Paris can experience first autonomous rides by Mobileye and RATP Group.
+Celebrating 100 Million EyeQ®s on the RoadOur highly efficient, scalable, and proven System-on-Chip, EyeQ® is the brain behind everything Mobileye does. And we’ve shipped over 100 million of them to date.
+In Numbers25+Global automakers rely on Mobileye technology to make their vehicles safer100M+Vehicles worldwide are equipped with Mobileye technology300+Car models with Mobileye insideOur TechnologyFrom the beginning, two decades ago, hardware and software have lived under one roof at Mobileye. Our growing team of over 1,700 employees is dedicated to our tradition of leveraging the newest technology, including AI, deep learning and crowdsourcing, to create the hardware and software needed to help our over 25 OEM partners enable ADAS systems and eventually fully autonomous vehicles.
+Read moreWatch Prof. Amnon Shashua on Our Unique TechnologyPillars of MobileyeMobileye's business is based on three technological innovations with realistic, scalable go-to-market strategiesAutomated DrivingMobileye's self-driving system is designed with a backbone of a camera-centric configuration. Building a robust system that can drive solely based on cameras allows us to pinpoint the critical safety segments for which we truly need redundancy from radars and lidars. This effort to avoid unnecessary over-engineering or “sensor overload” is key to keeping the cost low.
+Advanced Driver Assistance SystemsBeyond the fact that ADAS is the core of life-saving technology, it allows us to validate the technological building blocks of autonomous vehicles through our numerous production programs with automakers that submit our technology to the most stringent safety testing. Our ADAS programs – more than 60 million vehicles on roads today – provide the financial “fuel” to sustain autonomous development activity for the long run.
+MappingAutonomous vehicles will require many system redundancies to deal with unforeseen circumstances. A high-definition map is required for precise localization of the vehicle, relative to road boundaries and intersections, under all conditions. Mobileye's Road Experience Management (REM™), which uses crowd-sourcing, is a unique, low-cost solution for building and rapidly updating this HD map.
+Contact Us

@@ -1,0 +1,23 @@
+old id = 463
+ISTA  | Lemeshko Group
+2019
+https://ist.ac.at/en/research/lemeshko-group
+
+DE/ ENLemeshko GroupTheoretical Atomic, Molecular, and Optical Physics“The whole is greater than the sum of its parts.” Aristotle’s saying also holds true in many systems studied in quantum physics. Mikhail Lemeshko investigates how macroscopic quantum phenomena emerge in ensembles of atoms and molecules.
+Most polyatomic systems in physics, chemistry, and biology are strongly correlated: their complex behavior cannot be deduced from the properties of their individual components. Despite considerable effort, understanding strongly correlated, many-body systems still present a formidable challenge. For instance, given a single atom of a certain kind, it is hard to predict whether the resulting bulk material will be solid, gaseous, or liquid, crystalline or amorphous, magnetic or non-magnetic, conductive or insulating. The Lemeshko group studies how many-particle quantum phenomena emerge in ensembles of atoms and molecules, and in so doing, answers questions such as: How many particles are sufficient for a given property to emerge? How does an external environment modify the properties of quantum systems? Their theoretical efforts aim to explain experiments on cold molecules and ultra-cold quantum gases, as well as predict novel, previously unobserved phenomena.
+Group LeaderMikhail LemeshkoProfessor+43 2243 9000 6001mikhail.
+lemeshko@ist.ac.atAdministrative SupportCaroline PetzAssistant to Professors+43 2243 9000 2210caroline.
+petz@ist.ac.atOn this site:TeamAlberto CappellaroPostdocalberto.
+cappellaro@ist.ac.atAreg GhazaryanPostdocareg.
+ghazaryan@ist.ac.atVolker KarlePhD Studentvolker.
+karle@ist.ac.atGeorgios KoutentakisPostdocgeorgios.
+koutentakis@ist.ac.atMikhail MaslovPhD Studentmikhail.
+maslov@ist.ac.atEkaterina PaerschkePostdocekaterina.
+paerschke@ist.ac.atFumika SuzukiPostdocfumika.
+suzuki@ist.ac.atArtem VolosnievPostdocartem.
+volosniev@ist.ac.atCurrent ProjectsUnderstanding angular momentum properties of quantum many-particle systems | Studying open quantum systems and understanding how dissipation acts at the microscopic scale | Many-body physics of ultra-cold quantum gases | Developing techniques to manipulate atoms, molecules, and interactions between them with electromagnetic fieldsPublicationsMaslov M, Lemeshko M, Volosniev A. 2022. Impurity with a resonance in the vicinity of the Fermi energy. Physical Review Research. 4, 013160.
+ViewRzadkowski W. 2022. Analytic and machine learning approaches to composite quantum impurities. IST Austria.
+ViewEvers F, Aharony A, Bar-Gill N, Entin-Wohlman O, Hedegård P, Hod O, Jelinek P, Kamieniarz G, Lemeshko M, Michaeli K, Mujica V, Naaman R, Paltiel Y, Refaely-Abramson S, Tal O, Thijssen J, Thoss M, Van Ruitenbeek JM, Venkataraman L, Waldeck DH, Yan B, Kronik L. 2022. Theory of chirality induced spin selectivity: Progress and challenges. Advanced Materials., 2106629.
+ViewCherepanov I, Bighin G, Schouder CA, Chatterley AS, Albrechtsen SH, Muñoz AV, Christiansen L, Stapelfeldt H, Lemeshko M. 2021. Excited rotational states of molecules in a superfluid. Physical Review A. 104(6), L061303.
+ViewGhazaryan A, Nica EM, Erten O, Ghaemi P. 2021. Shadow surface states in topological Kondo insulators. New Journal of Physics. 23(12), 123042.
+ViewReX-Link:Mikhail LemeshkoCareersince 2019 Professor, Institute of Science and Technology Austria (ISTA)2014 – 2019 Assistant Professor, Institute of Science and Technology Austria (ISTA)2011 – 2014 ITAMP Postdoctoral Fellow, Harvard University, Cambridge, USA2011 PhD, Fritz Haber Institute of the Max Planck Society, Berlin, GermanySelected Distinctions2018 ERC Starting Grant2017 Ludwig Boltzmann Prize, Austrian Physical Society2012 One of four finalists, worldwide Thesis Prize competition, AMO division of the American Physical Society2011 ITAMP Postdoctoral FellowshipAdditional InformationOpen Lemeshko group websiteSubscribe to the ISTA NewsletterFOLLOW US

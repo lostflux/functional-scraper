@@ -1,0 +1,19 @@
+old id = 1149
+WiML Social @ ICLR 2022
+unknown
+https://wimlworkshop.org/sh_events/wiml-social-iclr-2022
+
+Time LeftWiML Social @ ICLR 2022A one hour Virtual Panel session (45 min + 15 min Q&A from the audience) which will take place onApril 25th, 19:00-20:00 GMT.
+The topic of the panel will bethe interplay of academia and geographic location.
+During the Virtual Panel we hope to encourage discussions about geographically specific challenges experienced in academia.
+To apply for registration funding go to: https://forms.gle/A6zyMdXt21kHQZNSAModerated byDr. Caroline WeisPanelists Include:Akiko Eriguchi,Senior Researcher, Microsoft.
+Akikois a Senior Researcher at Microsoft. Her research interests lie in multilingual NLP and deep learning. With her position in the Microsoft Translator team, she has developed MT systems and multilingual NLP applications. Her work has been published in ACL, EMNLP, etc. She has served as a reviewer for ACL, EMNLP, NeurIPS, AAAI. She is also a 2021-2022 co-organizer of the Workshop on Asian Translation.
+Prior to joining Microsoft, she was a Research Fellow (DC1) at the Japan Society for the Promotion of Science. She obtained her doctoral degree from the University of Tokyo, Japan, where her PhD thesis received the sixth AAMT Nagao Student award from the Asia-Pacific Association for Machine Translation.
+Nora Hollenstein,Assistant Professor, University of Copenhagen.
+Norais an assistant professor in NLP & Cognitive Science at the University of Copenhagen. Before joining the Center for Language Technology at the University of Copenhagen, Nora was a PhD candidate at DS3Lab at ETH Zurich working on cognitively inspired natural language processing. She was also a lecturer at the Institute of Computational Linguistics of the University of Zurich.
+The focus of her research lies in enhancing NLP applications with cognitive data such as eye-tracking and brain activity recordings. She is especially interested in multi-modal learning, learning from limited data, and the interpretability and cognitive plausibility of machine learning models.
+Jessica Schrouff,Senior Research Scientist,Google Research.
+Jessicais a Senior Research Scientist at Google Research working on machine learning for healthcare. Before joining Google in 2019, she was a Marie Curie post-doctoral fellow at University College London (UK) and Stanford University (USA), developing machine learning techniques for neuroscience discovery and clinical predictions.
+Throughout her career, Jessica’s interests have lied not only in the technical advancement of machine learning methods, but also in critical aspects of their deployment such as their credibility, fairness, robustness or interpretability.
+WiMLWe organize events and run programs to support women in the field of machine learning.
+WiML Code of Conduct: https://wimlworkshop.org/conduct/Contact InfoCopyright © Women in Machine Learning

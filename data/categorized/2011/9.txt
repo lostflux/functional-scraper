@@ -1,0 +1,20 @@
+old id = 3304
+Artificial Intelligence Explodes: New Deal Activity Record For AI
+2011
+https://www.cbinsights.com/blog/artificial-intelligence-funding-trends
+
+Join 800,000+ CB Insights newsletter readersArtificial Intelligence Explodes: New Deal Activity Record For AI StartupsWhere is this data coming from?Start your free trial todayWhere is this data coming from?Start your free trial todayEquity deals to startups in artificial intelligence — including companies applying AI solutions to verticals like healthcare, advertising, and finance as well as those developing general-purpose AI tech — increased nearly 6x, from roughly 70 in 2011 to nearly 400 in 2015.
+The State of Artificial IntelligenceA deep dive into the AI trends reshaping industries and economies.
+Q1’16 saw a new peak in deal activity to the category.
+Using the CB Insights database, we studied funding trends to AI-based companies, including:So far in 2016 (as of 6/15/2016), over 200 AI-focused companies have raised nearly $1.5B in equity funding. Our analysis includes all equity funding rounds and convertible notes.
+Annual financing historyDeals and dollars reached a new high in 2015. Last year, personal-loan startupAvant, which uses machine learning, raised a mega-round, a $325M Series E round, backed by investors including August Capital, DFJ Growth Fund, and RRE Ventures.
+The 65% annual growth in funding to startups using artificial intelligence in 2014 was driven by 4 mega-rounds of $100M+ raised byAvant, sales startupInsideSales.com, medical diagnostics companyButterfly Network, and deep-learning startupSentient Technologies.
+Quarterly financing historyDeal activity reached an all-time quarterly high in Q1’16, with nearly 145 deals and companies includingTrifacta, Indigo,Pathway Genomicsand Digital Reasoning Systems raising equity funding rounds from investors including Goldman Sachs, Accel Partners, Greylock Partners, and the IBM Watson Group.
+Investment in the peak quarter for funding, Q4’14, was driven by the previously mentioned mega-rounds raised byAvant,Butterfly Network, andSentient Technologies.
+Deal share by stageA majority of the deals, 65% or more, across the five years between 2011 and 2015, went to early-stage AI-focused startups raising seed/angel or Series A rounds. Only just over 20 companies raised Series D rounds or beyond in the last 5 years.
+Dollar Share by stageMajority of the dollar share went to early-stage startups in 2011 and 2012. Mid-stage dollar share (Series B and C rounds) dominated in later years.
+Late-stage dollar share (Series E+) rose to 21% last year from less than 10% in the previous years. This was driven by two megarounds:Avant’s$325M Series E round and ad companyTaboola’s$117M Series E round.
+Most active VC investorsKhosla Ventures emerged as the most active VC investor in AI-based companies. The investor backed over 15 unique companies in the space, includingAtomwise,MetaMind(recently acquired by Salesforce),Scaled Inference, andLiftIgniter.
+Two companies were tied for second place: Intel Capital (which backed startups includingLumiata,DataRobot,Perfant TechnologyandParallel Machines) and Data Collective (backer ofBlue River Technology,Descartes Labs,SigOpt, andNervana Systems).
+The rankings below are based on unique companies invested in.
+Related ResearchArtificial Intelligence Explodes: New Deal Activity Record For AI StartupsYou might also like:Artificial Intelligence Explodes: New Deal Activity Record For AI StartupsPopular Data VisualizationsThe United States Of Tech Startups100 Startups Using Artificial Intelligence To Transform IndustriesGoogle's Biggest AcquisitionsYou might also like:Artificial Intelligence Explodes: New Deal Activity Record For AI StartupsWhere is this data coming from?Start your free trial todayWhere is this data coming from?Start your free trial todayMOST POPULAR RESEARCH

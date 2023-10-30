@@ -1,0 +1,67 @@
+old id = 3086
+Understanding Zero-Shot Learning — Making ML More Human | by Ekin Tiu | Towards Data Science
+2021
+https://towardsdatascience.com/understanding-zero-shot-learning-making-ml-more-human-4653ac35ccab
+
+Towards Data ScienceJun 23, 2021SaveUnderstanding Zero-Shot Learning — Making ML More HumanAn intuitive overview of how a model can recognize what it hasn’t seen.
+Introduction — What is Zero-Shot Learning?Zero-shot learning allows a model to recognize what ithasn’t seen before.
+Imagine you’re tasked with designing the latest and greatest machine learning model that can classify all animals.
+Yes, all animals.
+Using your machine learning knowledge, you immediately understand that we need a labeled dataset with at least one example for every single animal. There’s 1,899,587 described species in the world, so you’re gonna need a dataset with roughly 2 million different classes.
+Yikes.
+As you’ve probably noticed by now, getting large quantities of high quality labeled data is hard. Very hard.
+It doesn’t help when there are a gazillion different classes (i.e. animal species) that your model has to learn.
+So how do we solve this problem?One way is todecrease our models’ reliance on labeled data. This is the motivation behindzero-shot learning,in which your model learns how to classify classes that it hasn’t seen before.
+In the animal species classification example, your model may be able to predict that the image on the bottom right corner is a “Panda”, even though it didn’t explicitly see a labeled example of a “Panda” during training.
+Crazy huh?!In the next section, we’ll learn how this seemingly magical method works through some examples of models that employ a zero-shot setup.
+How does Zero-Shot Learning Work?Although there are multiple approaches to zero-shot learning in literature, this article focuses on a recent method called Contrastive Language-Image Pretraining (CLIP) proposed by OpenAI that has performed well in a zero-shot setting[2].
+The goal of CLIP is to learn how toclassify imageswithout any explicit labels.
+IntuitionJust like traditional supervised models, CLIP has two stages:the training stage (learning)and theinference stage (making predictions).
+In thetraining stage, CLIP learns about images by “reading” auxiliary text (i.e. sentences) corresponding to each image like in the example below.
+As a human (assuming you’ve never seen a cat before), you can read this text, and probably decipher that the threethingsin the image are “cats”. If you saw enough pictures of cats paired with captions with the word “cat” in it, chances are, you’d get really good at determining whether or not there are cats in an image.
+Similarly, by seeing 400 million image-text pairings of different objects, the model is able to understand how certain phrases and words correspond to certain patterns in the images. Once it has this understanding, the model can use this accumulated knowledge to extrapolate to other classification tasks.
+But wait a second.
+You may be wondering, isn’t this “auxiliary text” technically a type of label, thereby rendering this processnotthe label-free learning that I promised at the beginning?While the auxiliary information (i.e. captions)area form of supervision, theyare not labels!Through this auxiliary information, we are able to useinformation-richunstructured datainstead of having to parse the unstructured data ourselves to handcraft a single label (i.e. “these are my three cute cats…” → “cats”).
+Designing a label takes time and prunes potentially useful information. By using CLIP’s methodology, we get to bypass this bottleneck and maximize the amount of information the model has access to.
+Diving Deeper — Zero-Shot TrainingHowexactlyis the model able to learn from these auxiliary texts?As suggested by the architecture’s name, CLIP uses a technique calledcontrastive learningin order to understand the relationship between image and text pairings. If you’re unfamiliar with contrastive learning, I suggest checking out this article on contrastive learning before continuing.
+Understanding Contrastive LearningLearn how to learn without labels.
+towardsdatascience.comIn essence, CLIP aims tominimize the difference between the encodings of the image and it’s corresponding text.
+In other words, the model should learn to make the encodings of the images and the encodings of its corresponding textas similar as possible.
+Let’s break down this idea a bit more.
+What are encodings?Encodings are simply lower-dimensional representations of data (green and purple boxes in the figure above). Ideally, encodings for an image or a text should representthe most important, distinguishable, informationof that image or text respectively.
+For instance, all images of cats should havesimilar encodingssince they all have cats in them, while they should bedistinctfrom encodings of dogs.
+Notice that in this ideal world where encodings of similar objects are also similar and encodings of different objects are also different, that it becomes really easy toclassify the images.
+If we feed an image into the model and the encoding is similar to some other “cat” encodings the model has seen, it can say that it’s a “cat”!It seems like the key to good image classification then is learningideal image encodings. This is actually the entire premise behind CLIP (and most of deep learning)! We start with terrible encodings (i.e. random encodings per image), and we want the model tolearnideal encodings (i.e. cat images have similar encodings).
+For more intuition behind this idea of learning representations of data, I recommend the following article:Understanding Latent Space in Machine LearningLearn a fundamental, yet often ‘hidden,’ concept of deep learningtowardsdatascience.comWhy should the image encoding be as similar as possible to it’s corresponding text encoding?Now that we know what an encoding is and why it’s important to learn good encodings, we can explore why we are forcing the model to make image and text encodings similar.
+Recall that our ultimate goal is to learn how to classifyimages,and we therefore need to learn good image representations (encodings). When we had labels, we were able to learn good encodings by minimizing the difference between themodel outputand theexpected output(the label).
+However, in the case of CLIP, we don’t have a singlemodel output, and we don’t have a singleexpected output. Instead, we can treat the image encodings of the training images as the model output, and the text encodings of the corresponding captions as the expected output.
+In fact, we can imagine that themodel is learning how to create good labels for us.
+Since the text encoder is also updated in the process, over time, the model learns how to extractmore important informationfrom the text, thereby giving us a better text encoding (expected output).
+With this in mind, it makes sense that we should try to minimize the difference between the image and text encodings.
+It’s because we know that images that are similar will likely have similar text encodings,just like in the labeled setup where images that are similar will have the same label. As a result, the model will learn to generate similar encodings for similar images.
+Diving Deeper — Zero-Shot InferenceOnce the model is trained on enough image-text pairings, it can be used forinference (use the model to make predictions on unseen data).
+This is where the setup gets really clever.
+In theinferencestage, we setup the typicalclassification taskby first obtaining a list ofall possible labels. So if we were predicting animal species, we would need a list of all animal species (i.e. Penguins, Pandas, Spiny lumpsucker¹, etc.)(Step 2 in figure).
+Each label will then be encoded by the pretrained text encoder from Step 1.
+Now that we have the label encodings, T₁ to Tₙ, we can take the image that we want to classify, feed it through the pretrained image encoder, and compute howsimilarthe image encoding is toeach text label encodingusing a distance metric calledcosine similarity.
+We now classify the image as the labelwith the greatest similarityto the image. We can do this since we know the model has learned to generate encodings for images that are as similar as possible to it’s textual counterpart, most of which likely contained the label we are trying to classify.
+And voila! We’ve achieved zero-shot capabilities!²Interestingly,CLIPis a relatively new method that has a unique level of simplicity compared to more traditional zero-shot learning approaches. Some of these concepts, including theembedding based approachand thegenerative approachare explained intuitively in the article below.
+Zero-Shot Learning: Can you classify an object without seeing it before? - KDnuggetsDeveloping machine learning models that can perform predictive functions on data it has never seen before has become an…www.kdnuggets.comRegardless of which approach is used, a common theme of zero-shot learning is that we can use someauxiliary information (i.e. textual descriptions)that aren’t explicit labels as a weak form of supervision.
+Potential Applications of Zero-Shot LearningIn general, zero-shot learning is most useful in scenarios where large annotated datasets are necessary, but not easy to obtain.
+Below, we examine some potential real-world applications outlined in[3].
+COVID-19 Chest X-Ray DiagnosisCOVID-19 chest x-ray diagnosisis a perfect (and topical if you’re reading this in 2021) example of how zero-shot learning may be applied in a medically relevant and low-label setting.
+Since there were few COVID-19 positive chest x-rays in the initial stages of the pandemic, it was difficult to create a high performing model that could distinguish COVID from non-COVID, or COVID from a more common respiratory disease such as Pneumonia.
+To solve this issue of few labels, we want a model that can learn about COVID-19 having only seen images of other diseases and some auxiliary information about COVID-19 chest x-rays — no explicit labels of COVID.
+In this case, we may be able to use text descriptions of COVID-19 chest x-rays as a form of auxiliary info. An example is included below.
+“Bilateral multifocal patchy GGOs and consolidation can be seen.” —[3]To the best of my knowledge, there are no formally published works that demonstrate zero-shot applied to COVID classification yet. However, the availability of auxiliary text information highlights the potential of zero-shot learning to be applied to such a medically important task.
+Autonomous VehiclesAnother crucial example of an AI that will almost certainly see something it hasn’t seen before is theperception systemof anautonomous vehicle.
+In fact, even humans see new objects on the road that they don’t know how to react to. If we want to design safe and robust self-driving cars, we need to give them the ability to adapt to unseen circumstances.
+Again, to the best of my knowledge, there are few works that have applied zero-shot approaches to self-driving perception systems. However, some interesting ideas include using textual descriptions of concept cars³ to teach a model to differentiate from regular cars [3] and transferring policies learned in simulation to a city in a zero-shot fashion [1].
+Key TakeawaysThe works explained in this article are only the tip of the iceberg! As the field progresses, we steadily work towards the AI that many of us envision: one that’s not strictly limited by the structure of labeled data, one that can understand things it hasn’t seen before, and one that’s more human.
+References[1] Jang, K., Vinitsky, E., Chalaki, B., Remer, B., Beaver, L., Malikopoulos, A. A., & Bayen, A. (2019, April). Simulation to scaled city: zero-shot policy transfer for traffic control via autonomous vehicles. InProceedings of the 10th ACM/IEEE International Conference on Cyber-Physical Systems(pp. 291–300).
+[2] Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., … & Sutskever, I. (2021). Learning transferable visual models from natural language supervision.
+arXiv preprint arXiv:2103.00020.
+[3] Rezaei, M., & Shahidi, M. (2020). Zero-shot learning and its applications from autonomous vehicles to covid-19 diagnosis: A review.
+Intelligence-based medicine, 100005.
+Notes------More from Towards Data ScienceYour home for data science. A Medium publication sharing concepts, ideas and codes.
+Recommended from MediumWise ManGilbert TannerinTowards Data ScienceSiddharth IvaninAnalytics VidhyaHumans in the LoopAmit ChauhaninTowards AIAndrewpynchbusinessQuentin DelfosseMike ThisyamondolAboutHelpTermsPrivacyGet the Medium appEkin Tiu686 FollowersCS @ Stanford University | Stanford ML GroupMore from MediumSFUMLitesinSFU Professional Computer ScienceLeadtek 麗臺科技Rik KraaninTowards Data ScienceSiothrún (Jeffrey) SardinainDev GeniusHelpStatusWritersBlogCareersPrivacyTermsAboutKnowable

@@ -1,0 +1,25 @@
+old id = 885
+Keysight Discover
+2022
+https://ad.doubleclick.net/ddm/trackclk/N1212560.8266TECHNOLOGYREVIEW/B27134372.327774041;dc_trk_aid=519760172;dc_trk_cid=165864526;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=
+
+Quantum is Changing the Rules of Technology InnovationLatest StoriesKeysight DiscoverRecent SearchesShare this HubKeysight DiscoverKeysight DiscoverLatest ContentOur latest insights on the breakthroughs impacting how new technologies are designed, developed, and manufactured.
+Determining the Potential of Your AI Algorithm Starts with MeasurementJeff Harris explains the role of measurement depth in determining the potential of an AI algorithm.
+ArticleHow 6G Will Change the Way We Interact with TechnologyKeysight and Nokia discuss the paradigm shift ushered in by 6G that will require innovating testing approaches that can adapt to the evolving definition of "next-next-generation."ArticleIoT's Importance is Growing Rapidly, But Its Security Is Still WeakMarie Hattar details how the explosive growth of IoT devices opens an extensive attack surface that needs to be addressed.
+ArticleCollaboration Pushes the Quantum Community ForwardKeysight and its collaborator FormFactor worked together to help Seeqc reduce the development cycle for quantum qubits.
+ArticlePushing the Envelope in QuantumDr. Joseph Emerson, head of quantum strategy at Keysight Technologies, shares how Keysight’s quantum engineering solutions group is pushing the envelope in quantum computing.
+VideoThe Race for Controlling Quantum Dot QubitsRIKEN’s Quantum Functional System Research Group are focused on technologies to control the quantum state to process information faster with low energy consumption.
+Read FlipbookAll Things 5G: What’s So Cool About 5G?In this episode of All Things 5G, tech power couple Dean Anthony Gratton and Sarah-Jayne Gratton discuss where 5G is today and where it's going.
+ArticleThe Genesis of Artificial Intelligence and Digital TwinsJeff Harris discusses the shift to AI-driven product development using automating test functions and digital twins.
+ArticleError - something went wrong!Want a head start on tomorrow's technologies? Sign up for monthly insightsThank you!Paving the Way for 6G CommercializationBringing the first phases of these 6G technologies to market by 2030 starts with ensuring that early research doesn’t become fragmented — which would make it harder to commercialize later.
+ArticleBuilding a More Sustainable Future with 6GWhile 5G is still a few years out from being mainstream, 6G research is already underway and is expected to be commercialized by 2030.
+Article6G: Going Beyond 100 Gbps to 1 TbpsIncreasing data throughput from 100 Gpbs to 1 Tbps is key to achieving 6G. Learn the three fundamental approaches to increasing data throughput.
+Read FlipbookGet up to Speed on Quantum Testing at Keysight UniversityOpen RAN is an Indicator of More Than Just Open ArchitecturesPerhaps the most profound change in the RAN for 5G is the rethinking of the architecture and the move to open RAN systems. The most visible work is happening in the O-RAN Alliance.
+ArticleAll Things 5G: Network Digital TwinsDive deep into network digital twins with Rajive Bagrodia, a pioneer in the field and the founder of Scalable Network Technologies, and learn more about all things 5G.
+ArticleFour Technology Trends That Will Shape Innovation In 2022Keysight CEO Ron Nersesian shares the four technology trends will shape innovation in 2022 and beyond.
+ArticleThe Anatomy of AIJeff Harris breaks down the anatomy of artificial intelligence and how to achieve it.
+ArticleAutomakers, Regulators Take On CybersecurityMike Hodge explores how new automotive cybersecurity standards and regulations will impact automakers.
+ArticleStrategies to Support Women’s Professional Growth in TechStrengthening professional development programs for women in STEM is a business imperative. Leslie Camino shares lessons learned developing initiatives to help women thrive in tech.
+ArticleDelivering on the 5G and 6G VisionKailash Narayanan discusses three pivotal trends transforming the communications industry.
+ArticleHow Are Industry Standards Changing?All Things 5G: 6G - The Next Frontier in WirelessRoger Nichols, head of Keysight’s 6G program, gives an update on the status of the sixth-generation wireless communication technologyListen to PodcastEven in a Pandemic World, Innovation Never SleepsJeff Harris shares a snapshot of how our experts expect 6G, quantum computing, and AI-infused application to come to fruition – and when.
+ArticleLoading More...

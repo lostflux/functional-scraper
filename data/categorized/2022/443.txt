@@ -1,0 +1,9 @@
+old id = 1346
+Announcing ICLR 2022 Keynote Speakers – ICLR Blog
+2022
+https://blog.iclr.cc/2022/02/22/announcing-iclr-2022-keynote-speakers
+
+Announcing ICLR 2022 Keynote SpeakersYan Liu2022 ConferenceICLR 2022,Keynote TalkBy ICLR 2022 Senior Program Chair Yan Liu and Program Chairs Chelsea Finn, Yejin Choi, Marc DeisenrothWe are thrilled to host the following keynote speakers at ICLR 2022:The keynote talks will cover a diverse set of research topics, ranging from fundamental research in deep learning, such as deep reinforcement learning, interpretability, computer vision, AI ethics, and ML systems, to breakthroughs of deep learning in scientific domains, such as protein structure prediction, neuroscience, and global health and infectious diseases. At ICLR 2022, each invited speaker will give a 30-min talk, followed by a live Q&A. We hope that the talks will provoke us into thinking deeply about both the technical foundations of deep learning and its increasing impact on society.
+We solicited keynote speaker nominations from area chairs and senior area chairs of ICLR 2022 as well as the public. Among more than 60 nominations, we prioritized candidates who not only have conducted exciting research but also have contributed to diversity in the community. We would like to thank all ACs/SACs who submitted nominations of excellent speaker candidates and the Diversity Equity & Inclusion Chairs, Krystal Maughan and Rosanne Liu for their valuable input.
+We cannot wait to see the invited talks and participate in the live Q&A for all speakers at ICLR 2022.
+Related Posts2022 ConferenceAnnouncing the ICLR 2022 Outstanding Paper Award Recipients2022 ConferenceMentorship Program for New Reviewers at ICLR 20222022 ConferenceAnnouncing the Accepted Workshops at ICLR 2022Recent PostsRecent Comments

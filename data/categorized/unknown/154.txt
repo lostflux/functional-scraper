@@ -1,0 +1,10 @@
+old id = 1170
+Algorithmic Accountability for the Public Sector Report
+unknown
+https://ainowinstitute.org/pages/algorithmic-accountability-for-the-public-sector-report
+
+Algorithmic Accountability for the Public Sector ReportAugust 24, 2021Learning from the first wave of policy implementationTheAda Lovelace Institute (Ada), AI Now Institute (AI Now), andOpen Government Partnership (OGP)have partnered to launch the first global study to analyse the initial wave of algorithmic accountability policy for the public sector.
+As governments are increasingly turning to algorithms to support decision-making for public services, there is growing evidence that suggests that these systems can cause harm and frequently lack transparency in their implementation. Reformers in and outside of government are turning to regulatory and policy tools, hoping to ensure algorithmic accountability across countries and contexts. These responses are emergent and shifting rapidly, and they vary widely in form and substance – from legally binding commitments, to high-level principles and voluntary guidelines.
+This report presents evidence on the use of algorithmic accountability policies in different contexts from the perspective of those implementing these tools, and explores the limits of legal and policy mechanisms in ensuring safe and accountable algorithmic systems.
+Read the executive summary for key findings and the full report for further detail on these findings and practical case studies of implemented policies.
+Downloads:Algorithmic Accountability for the Public Sector -Executive SummaryAlgorithmic Accountability for the Public Sector -Full ReportSectionsA research institute examining the social implications of artificial intelligenceThis work is licensed under aCreative Commons Attribution-NoDerivatives 4.0 International License.

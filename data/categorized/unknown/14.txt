@@ -1,0 +1,14 @@
+old id = 25
+Safety & Ethics
+unknown
+https://www.deepmind.com/safety-and-ethics
+
+We want AI to benefit the world, so we must be thoughtful about how it’s built and usedSafety and EthicsAI can provide extraordinary benefits, but like all technology, it can have negative impacts unless it’s built and used responsibly. How can AI benefit society without reinforcing bias or unfairness? How can we build computer systems that invent new ideas, but also reliably behave in ways we want?Our approachOur teams working on technical safety, ethics, and public engagement aim to address these questions and more. We help anticipate short and long-term risks, explore ways to prevent these risks from happening, and find ways to address them if they do.
+We believe this approach also means ruling out the use of AI technology in certain fields. For example, we’ve signedpublic pledgesagainst using our technologies for lethal autonomous weapons, alongside many others from the AI community.
+These issues go well beyond any one organisation. Our ethics team works with many brilliant non-profits, academics, and other companies, and creates forums for the public to explore some of the toughest issues. Our safety team also collaborates with other leading research labs, including our colleagues atGoogle,OpenAI, theAlan Turing Institute, and elsewhere.
+It’s also important that the people building AI reflect the broader society. We’re working with universities onscholarshipsfor people from underrepresented backgrounds, and support community efforts such asWomen in Machine Learningand the AfricanDeep Learning Indaba.
+Technical safetyAI systems can only benefit the world if we make them reliable and safe.
+Technical safety is a core element of our research. Our goal is to ensure that AI systems of the future are proven to be safe - because we’ve built them that way. Just as software engineering has a set of best practices for security and reliability, our AI safety teams develop approaches to specification, robustness, and assurance for AI systems both now and in the future.
+Ethics & SocietyWe support open research and investigation into the wider impacts of AI.
+We created DeepMind Ethics & Society to guide the responsible development and deployment of AI. Our team of ethicists and policy researchers work closely with our AI research team to understand how technical advances will impact society, and find ways to reduce risk.
+We also partner with outside experts and the general public to find answers together. We’ve supported partners including theRoyal Societyand theRSAto carry out public discussions and citizens’ juries around AI ethics, and have given unrestricted financial grants to several universities working on these issues. We also helped co-found thePartnership on AIto bring together academics, charities, and company labs to solve common challenges.

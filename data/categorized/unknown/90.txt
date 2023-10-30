@@ -1,0 +1,344 @@
+old id = 684
+Publications - Innovative Genomics Institute (IGI)
+unknown
+https://innovativegenomics.org/publications
+
+PublicationsBrowse IGI publications in peer-reviewed journals, organized by year and sortable by research program. Click the Altmetric badge for details on social media engagement and press coverage related to each publication.
+Published in 2022Structural biology of CRISPR–Cas immunity and genome editing enzymesWang JY, Pausch P, and Doudna JA.
+Nature Reviews MicrobiologyHigh-level correction of the sickle mutation is amplified in vivo during erythroid differentiationMagis W, DeWitt MA, Wyman SK, Vu JT, Heo S-J, Shao SJ, Hennig F, Romero ZG, Campo-Fernandez B, Said S, McNeill MS, Rettig GR, Sun Y, Wang Y, Behlke MA, Kohn DB, Boffelli D, Walters MC, Corn JE, and Martin DIK.
+iScienceSaccharibacteria harness light energy using type-1 rhodopsins that may rely on retinal sourced from microbial hostsJaffe AL, Konno M, Kawasaki Y, Kataoka C, Béjà O, Kandori H, Inoue K, and Banfield JF.
+The ISME Journal: Multidisciplinary Journal of Microbial EcologyCrystal structure of an RNA/DNA strand exchange junctionCofsky JC, Knott GJ, Gee CL, Doudna JA.
+PLoS OneCRISPR–Cas9 bends and twists DNA to read its sequenceCofsky JC, Soczek KM, Knott GJ, Nogales E, and Doudna JA.
+Nature Structural & Molecular BiologyUnlocking capacities of genomics for the COVID-19 response and future pandemicsKnyazev S, Chhugani K, Sarwal V, Ayyala R, Singh H, Karthikeyan S, Deshpande D, Baykal PI, Comarova Z, Lu A, Porozov Y, Vasylyeva TI, Wertheim JO, Tierney BT, Chiu CY, Sun R, Wu A, Abedalthagafi MS, Pak VM, Nagaraj SH, Smith AL, Skums P, Pasaniuc B, Komissarov A, Mason CE, Bortz E, Lemey P, Kondrashov F, Beerenwinkel N, Lam TT-Y, Wu NC, Zelikovsky A, Knight R, Crandall KA, and Mangul S.
+Nature MethodsHigh-efficiency multiplex biallelic heritable editing in Arabidopsis using an RNA virusNagalakshmi U, Meier N, Liu J-Y, Voytas DF, and Dinesh-Kumar SP.
+Plant PhysiologyA functional map of HIV-host interactions in primary human T cellsHiatt J, Hultquist JF, McGregor MJ, Bouhaddou M, Leenay RT, Simons LM, Young JM, Haas P, Roth TL, Tobin V, Wojcechowskyj JA, Woo JM, Rathore U, Cavero DA, Shifrut E, Nguyen TT, Haas KM, Malik HS, Doudna JA, May AP, Marson A, and Krogan NJ.
+Nature CommunicationsObesity alters pathology and treatment response in inflammatory diseaseBapat SP, Whitty C, Mowery CT, Liang Y, Yoo A, Jiang Z, Peters MC, Zhang L, Vogel I, Zhou C…and Alexander Marson.
+NatureImaging unique DNA sequences in individual cells using a CRISPR-Cas9-based, split luciferase biosensorHeath NG, O’Geen H, Halmai NB, Corn JE, and Segal DJ.
+Frontiers in Genome EditingImpact of COVID-19 pandemic on California farmworkers’ mental health and food securityMora AM, Lewnard JA, Rauch S, Kogut K, Jewell N, Cuevas M, and Eskenazi B.
+Journal of AgromedicineA phage foundry framework to systematically develop viral countermeasures to combat antibiotic resistant bacterial pathogensMutalik VK and Arkin AP.
+iScienceNeutralizing immunity in vaccine breakthrough infections from the SARS-CoV-2 Omicron and Delta variantsServellita V, Syed AM, Morris MK, Brazer N, Saldhi P, Garcia-Knight M, Sreekumar B, Khalid MM, Ciling A, Chen PY, Kumar GR, Gliwa AS, Nguyen J, Sotomayor-Gonzalez A, Zhang Y, Frias E, Prostko J, HackettJr. J, Andino R, Wadford DA, Hanson C, Doudna JA, Ott M, and Chiu CY.
+CellChimeric CRISPR-CasX enzymes and guide RNAs for improved genome editing activityTsuchida CA, Zhang S, Doost MS, Zhao Y, Wang J, O’Brien E, Fang H, Li CP, Li D, Hai ZY, Chuck J, Brötzmann J, Vartoumian A, Burstein D, Chen XW, Nogales E, Doudna JA, and Liu JJG.
+Molecular CellOutsmarting delivery barriers in vivo: Base editing via next-generation virus-like particlesWilson RC.
+GEN BiotechnologyCRISPR activation and interference screens decode stimulation responses in primary human T cellsSchmidt R, Steinhart Z, Layeghi M, Freimer JW, Bueno R, Nguyen VQ, Blaeschke F, Ye CJ, and Marson A.
+ScienceCRISPR–Cas9-mediated nuclear transport and genomic integration of nanostructured genes in human primary cellsLin-Shiao E, Pfeifer WG, Shy BR, Doost MS, Chen E, Vykunta VS, Hamilton JR, Stahl EC, Lopez DM, Espinoza CRS, Deyanov AE, Lew RJ, Poirer MG, Marson A, Castro CE, and Doudna JA.
+Nucleic Acids ResearchPredominance of antibody-resistant SARS-CoV-2 variants in vaccine breakthrough cases from the San Francisco Bay Area, CaliforniaServellita V, Morris MK, Sotomayor-Gonzalez A, Gilwa AS, Torres E, Brazer N, Zhou A, Hernandez KT, Sankaran M, Wang B, Wong D, Wang C, Zhang Y, Reyes KR, Glasner D, Deng X, Streithorst J, Miller S, Frias E, Rodgers M, Cloherty G, Hackett Jr. J, Hanson C, Wadford D, Philip S, Topper S, Sachdev D, and Chiu CY.
+Nature MicrobiologySupervised learning model predicts protein adsorption to carbon nanotubesOuassil N, Pinals RL, Del Bonis-O’Donnell JT, Wang JW, and Landry MP.
+Science AdvancesSoils and sediments host Thermoplasmata archaea encoding novel copper membrane monooxygenases (CuMMOs)Diamond S, Lavy A, Crits-Christoph A, Carnevali PBM, Sharrar A, Williams KH, and Banfield JF.
+The ISME JournalPublished in 2021Robust T cell activation requires an eIF3-driven burst in T cell receptor translationDe Silva D, Ferguson L, Chin GH, Smith BE, Apathy RA, Roth TL, Blaeschke F, Kudla M, Marson A, Ingolia NT, and Cate JHD.
+eLifeAcid-sensitive surfactants enhance the delivery of nucleic acidsRøise JJ, Han H, Li J, Kerr DL, Taing C, Behrouzi K, He M, Ruan E, Chan LY, Espinoza EM, Reinhard S, Thakker K, Kwon J, Mofrad MRK, and Murthy N.
+Molecular PharmaceuticsCarbon nanotube biocompatibility in plants is determined by their surface chemistryGonzález-Grandío E, Demirer GS, Jackson CT, Yang D, Ebert S, Molawai K, Keller H, and Landry MP.
+Double stranded DNA breaks and genome editing trigger loss of ribosomal protein RPS27ARiepe C, Zelin E, Frankino PA, Meacham ZA, Fernandez S, Ingolia NT, and Corn JE.
+The FEBS JournalThe genetic basis of phage susceptibility, cross-resistance and host-range in SalmonellaAdler BA, Kazakov AE, Zhong C, Liu H, Kutter E, Lui LM, Nielsen TN, Carion H, Deutschbauer AM, Mutalik VK, and Arkin AP.
+Microbiology SocietyExploiting a Y chromosome-linked Cas9 for sex selection and gene driveGamez S, Chaverra-Rodriguez D, Buchman A, Kandul NP, Mendez-Sanchez SC, Bennett JB, Sánchez C. HM, Yang T, Antoshechkin I, Duque JE, Papathanos PA, Marshall JM, and Akbari OS.
+Nature CommunicationsSpecies- and site-specific genome editing in complex bacterial communitiesRubin BE, Diamond S, Cress BF, Crits-Christoph A, Lou YC, Borges AL, Shivram H, He C, Xu M, Zhou Z, Smith SJ, Rovinsky R, Smock DCJ, Tang K, Owens TK, Krishnappa N, Sachdeva R, Barrangou R, Deutschbauer AM, Banfield JF, and Doudna JA.
+Nature MicrobiologyCRISPR meets caspaseHochstrasser ML and Nuñez JK.
+Nature MicrobiologyMultiplexed SARS-CoV-2 detection in clinical swab and wastewater samplesStahl EC, Gopez AR, Tsuchida CA, Fan VB, Moehle EA, Witkowsky LB, Hamilton JR, Lin-Shiao E, McElroy M, McDevitt SL, Ciling A, Tsui CK, Pestal K, Gildea HK, Keller A, Sylvain IA, Williams C, Hirsh A, Ehrenberg AJ, Kantor R, Metzger M, Nelson KL, Urnov FD, Ringeisen BR, Giannikopoulos P, Doudna JA, and the IGI Testing Consortium.
+PLoS OneHow scientists perceive CRISPR’s translational promise and the implications for individuals with genetic conditionsHalpern J, O’Hara SE, Owen AL, and Paolo D.
+Ethics & Human ResearchRapid assessment of SARS-CoV-2 evolved variants using virus-like particlesSyed AM, Taha TY, Tabata T, Chen IP, Ciling A, Khalid MM, Sreekumar B, Chen P, Hayashi JM, Soczek KM, Ott M, and Doudna JA.
+ScienceImagine CRISPR curesUrnov FD.
+CellThe N-terminal domain of SARS-CoV-2 nsp1 plays key roles in suppression of cellular gene expression and preservation of viral gene expressionMendez AS, Ly M, González-Sánchez AM, Hartenian E, Ingolia NT, Cate JH, and Glaunsinger BA.
+Cell ReportsComprehensive deletion landscape of CRISPR-Cas9 identifies minimal RNA-guided DNA-binding modulesShams A, Higgins SA, Fellmann C, Laughlin TG, Oakes BL, Lew R, Lukarska M, Arnold M, Staahl BT, Doudna JA, and Savage DF.
+Nature CommunicationsRisk factors associated with SARS-CoV-2 infection among farmworkers in Monterey County, CaliforniaMora AM, Lewnard JA, Kogut K, Rauch SA, Hernandez S, Wong MP, Huen K, Chang C, Jewell NP, Holland N, Harris E, Cuevas M, Eskenazi B, and the CHAMACOS-Project-19 Study Team.
+JAMA NetworkA year of genomic surveillance reveals how the SARS-CoV-2 pandemic unfolded in AfricaWilkinson E, Giovanetti M, Tegally H, et al.
+ScienceApplication of gene editing for climate change in agricultureKaravolias KG, Horner W, Abugu MN, and Evanega SN.
+Frontiers in Sustainable Food SystemsDNA interference states of the hypercompact CRISPR–CasΦ effectorPausch P, Soczek KM, Herbst DA, Tsuchida CA, Al-Shayeb B, Banfield JF, Nogales E, and Doudna JA.
+Nature Structural & Molecular BiologyAccelerated RNA detection using tandem CRISPR nucleasesLiu TY, Knott GJ, Smock DCJ, Desmarais JJ, Son S, Bhuiya A, Jakhanwal S, Prywes N, Agrawal S, Díaz de León Derby M, Switz NA, Armstrong M, Harris AR, Charles EJ, Thornton BW, Fozouni P, Shu J, Stephens SI, Kumar GR, Zhao C, Mok A, Iavarone AT, Escajeda AM, McIntosh R, Kim S, Dugan EJ, IGI Testing Consortium, Pollard KS, Tan MX, Ott M, Fletcher DA, Lareau LF, Hsu PD, Savage DF, and Doudna JA.
+Nature Chemical BiologyRobotic RNA extraction for SARS-CoV-2 surveillance using saliva samplesHamilton JR, Stahl EC, Tsuchida CA, LinShiao E, Tsui CK, Pestal K, GildeaI HK, Witkowsky LB, Moehle EA, McDevitt SL, McElroy M, Keller A, Sylvain I, Hirsh A, Ciling A, Ehrenberg AJ, Ringeisen BR, Huberty G, Urnov FD, Giannikopoulos P, Doudna JA, and the IGI SARS-CoV-2 Consortium.
+PLoS OneReflections on conducting research from home during COVID-19Coté LE.
+Project MuseIn planta nanosensors: Understanding biocorona formation for functional designVoke E, Pinals RL, Goh NS, and Landry MP.
+ACS PublicationsPatterns of gene content and co-occurrence constrain the evolutionary path toward animal association in candidate phyla radiation bacteriaJaffe AL, Thomas AD, He C, Keren R, Valentin-Alvarado LE, Munk P, Bouma-Gregson K, Farag IF, Amano Y, Sachdeva R, West PT, and Banfield JF.
+American Society for MicrobiologyLoss of function of a DMR6 ortholog in tomato confers broad-spectrum disease resistanceThomazella DPDT,SeongK, Mackelprang R, Dahlbeck D, Geng Y, Gill US, Qi T, Pham J, Giuseppe P, Lee CY, Ortega A, Cho M-J, Hutton SF, and Staskawicz B.
+PNASChromosome-level genome assembly of a regenerable maize inbred line A188Lin G, He C, Zheng J, Koo DH, Le H, Zheng H, Tamang TM, Lin J, Liu Y, Zhao M, Hao Y, McFraland F, Wang B, Qin Y, Tang H, McCarty DR, Wei H, Cho M-J, Park S, Kaeppler H, Kaeppler SM, Liu Y, Springer N, Schnable PS, Wang G, White FF, and Liu S.
+Genome BiologyCRISPR-Cas9 can cause chromothripsisUrnov FD.
+Nature GeneticsTargeted delivery of CRISPR-Cas9 and transgenes enables complex immune cell engineeringHamilton JR, Tsuchida CA, Nguyen DN, Shy BR, McGarrigle ER, Espinoza CRS, Carr D, Blaeschke F, Marson A, and Doudna JA.
+Cell ReportsLaunching a saliva-based SARS-CoV-2 surveillance testing program on a university campusEhrenberg AJ, Moehle EA, Brook CE, Cate AHD, Witkowsky LB, Sachdeva R, Hirsh A, Barry K, Hamilton JR, Lin-Shiao E, McDevitt S, Valentin-Alvarado L, Letourneau KN, Hunter L, Keller A, Pestal K, Frankino PA, Murley A, Nandakumar D, Stahl EC, Tsuchida CA, Gildea HK, Murdock AG, Hochstrasser ML, O’Brien E, Ciling A, Tsitsiklis A, Worden K, Dugast-Darzacq C, Hays SG, Barber CC, McGarrigle R, Lam EK, Ensminger DC, Bardet L, Sherry C, Harte A, Nicolette G, Giannikopoulos P, Hockemeyer D, Petersen M, Urnov FD, Ringeisen BR, Boots M, and Doudna JA on behalf of the IGI SARS-CoV-2 Testing Consortium.
+PLoS OneEfficient generation of isogenic primary human myeloid cells using CRISPR-Cas9 ribonucleoproteinsHiatt J, Cavero DA, McGregor MJ, Zheng W, Budzik JM, Roth TL, Haas KM, Wu D, Rathore U, Meyer-Franke A, Bouzidi MS, Shifrut E, Lee Y, Kumar VE, Dang EV, Gordon DE, Wojcechowskyj JA, Hultquist JF, Fontaine KA, Pillai SK, Cox JS, Ernst JD, Krogan NJ, and Marson A.
+CellNanoparticles for protein deliveryin plantaWang JW, Cunningham FJ, Goh NS, Boozarpour NN, Pham M, and Landry MP.
+ScienceDirectStructural coordination between active sites of a CRISPR reverse transcriptase-integrase complexWang JY, Hoel CM, Al-Shayeb B, Banfield JF, Brohawn SG, and Doudna JA.
+Nature CommunicationsTargeted DNA insertion in plantsDong OX and Ronald PC.
+PNASXYZeq: Spatially resolved single-cell RNA sequencing reveals expression heterogeneity in the tumor microenvironmentLee Y, Bogdanoff D, Wang Yu, Hartoularos GC, Woo JM, Mowery CT, Nisonoff HM, Lee DS, Sun Y, Lee J, Mehdizadeh S, Cantlon J, Shifrut E, Nguyen DN, Roth TL, Song YS, Marson A, Chow ED, and Ye CJ.
+Science AdvancesTransmission, infectivity, and neutralization of a spike L452R SARS-CoV-2 variantDeng X, Garcia-Knight MA, Khalid MM, Servellita V, Wang C, Morris MK, Sotomayor-González A, Glasner DR, Reyes KR, Gliwa AS, Reddy NP, San Martin CS, Federman S, Cheng J, Balcerek J, Taylor J, Streithorst JA, Miller S, Sreekumar B, Chen PY, Schulze-Gahmen U, Taha TY, Hayashi J, Simoneau CR, Kumar GR, McMahon S, Lidsky PV, Xiao Y, Hemarajata P, Green NM, Espinosa A, Kath C, Haw M, Bell J, Hacker JK, Hanson C, Wadford DA, Anaya C, Ferguson D, Frankino PA, Shivram H, Lareau LF, Wyman SK, Ott M, Andino R, and Chiu CY.
+CellFactors affecting seed germination and establishment of an efficient germination method in sugar pine (pinus lambertiana dougl.)Shen X and Cho M-J.
+HortScienceThiocyanate and organic carbon inputs drive convergent selection for specific autotrophicAfipiaandThiobacillusstrains within complex microbiomesHuddy RJ, Sachdeva R, Kadzinga F, Kantor RS, Harrison STL, and Banfield JF.
+Frontiers in MicrobiologyThe NIH somatic cell genome editing programSaha K, Sontheimer EJ, Brooks PJ, Dwinell MR, Gersbach CA, Liu DR, Murray SA, Tsai SQ, Wilson RC, Anderson DG, Asokan A, Banfield JF, Bankiewicz KS, Bao G, Bulte JWM, Bursac N, Campbell JM, Carlson DF, Chaikof EL, Chen ZY, Cheng RH, Clark KJ, Curiel DT, Dahlman JE, Deverman BE, Dickinson ME, Doudna JA, Ekker SC, Emborg ME, Feng G, Freedman BS, Gamm DM, Gao G, Ghiran IC, Glazer PM, Gong S, Heaney JD, Hennebold JD, Hinson JT, Khvorova A, Kiani S, Lagor WR, Lam KS, Leong KW, Levine JE, Lewis JA, Lutz CM, Ly DH, Maragh S, McCray Jr PB,, McDevitt TC, Mirochnitchenko O, Morizane R, Murthy N, Prather RS, Ronald JA, Roy S, Roy S, Sabbisetti V, Saltzman WM, Santangelo PJ, Segal DJ, Shimoyama M, Skala MC, Tarantal AF, Tilton JC, Truskey GA, Vandsburger M, Watts JK, Wells KD, Wolfe SA, Xu Q, Xue W, Yi G, Zhou J, and The SCGE ConsortiumA CRISPR-Cas9–integrase complex generates precise DNA fragments for genome integrationJakhanwal S,Cress BF,Maguin P,Lobba MJ,Marraffini LA,andJennifer A Doudna.
+Nucleic Acids ResearchSewage, salt, silica, and SARS-CoV-2 (4S): An economical kit-free method for direct capture of SARS-CoV-2 RNA from wastewaterWhitney ON, Kennedy LC, Fan VB, Hinkle A, Kantor R, Greenwald H, Crits-Christoph A, Al-Shayeb B, Chaplin M, Maurer AC, Tjian R, and Nelson KL.
+Environmental Science & TechnologyThe CD28-transmembrane domain mediates chimeric antigen receptor heterodimerization with CD28Muller YD, Nguyen DP, Ferreira LMR, Ho P, Raffin C, Valencia RVB, Congrave-Wilson Z, Roth TL, Eyquem J, Gool FV, Marson A, Perez L, Wells JA, Bluestone JA, and Tang Q.
+Frontiers in ImmunologyExamining the relationship between gene editing knowledge, value predispositions, and general science attitudes among U.S. farmers, scientists, policymakers, and the general public.
+Calabrese C, Featherstone JD, Robbins M, and Barnett GA.
+Journal of Science CommunicationNanotechnology to advance CRISPR-Cas genetic engineering of plantsDemirer GS, Silva TN, Jackson CT, Thomas JB, W Ehrhardt D, Rhee SY, Mortimer JC, Landry MP.
+Nature NanotechnologyGenome editing to model and reverse a prevalent mutation associated with myeloproliferative neoplasms.
+Baik R, Wyman SK, Kabir S, and Corn JE.
+PLoS OneRapid SARS-CoV-2 spike protein detection by carbon nanotube-based near-infrared nanosensors.
+Pinals RL, Ledesma F, Yang D, Navarro N, Jeong S, Pak JE, Kuo L, Chuang Y, Cheng Y, Sun H, and Landry MP.
+Nano LettersAnalysis of intraspecies diversity reveals a subset of highly variable plant immune receptors and predicts their binding sites.
+Prigozhin DM and Krasileva KV.
+The Plant CellCurrent status and impending progress for cassava structural genomics.
+Lyons JB, Bredeson JV, Mansfeld BN, Bauchet GJ, Berry J, Boyher A, Mueller LA, Rokhsar DS, and Bart RS.
+Plant Molecular BiologyValidating sentiment analysis on opinion mining using self-reported attitude scoresFeatherstone JD and Barnett GA.
+IEEE XplorePiloting an integrated SARS-CoV-2 testing and data system for outbreak containment among college students: A prospective cohort study.
+Packel L, Reingold A, Hunter L, Facente S, Li Y, Harte A, Nicolette G, Urnov FD, Lu M, Peterson M, and the IGI Testing Consortium.
+PLoS OneGenome-resolved metagenomics reveals site-specific diversity of episymbiotic CPR bacteria and DPANN archaea in groundwater ecosystems.
+He C, Keren R, Whittaker ML, Farag IF, Doudna JA, Cate JHD, and Banfield JF.
+Nature MicrobiologyGenome sequencing of sewage detects regionally prevalent SARS-CoV-2 variants.
+Crits-Christoph A, Kantor RS, Olm MR, Whitney ON, Al-Shayeb B, Lou YC, Flamholz A, Kennedy LC, Greenwald H, Hinkle A, Hetzel J, Spitzer S, Koble J, Tan A, Hyde F, Schroth G, Kuersten S, Banfield JF, and Nelson KL.
+American Society for MicrobiologyAnti-CRISPRs go viral: The infection biology of CRISPR-Cas inhibitorsLi Y and Bondy-Denomy J.
+Cell Host & MicrobeGenetic screens identify host factors for SARS-CoV-2 and common cold coronaviruses.
+Wang R, Simoneau CR, Kulsuptrakul J, Bouhaddou M, Travisano KA, Hayashi JM, Carlson-Stevermer J, Zengel JR, Richards CM, Fozouni P, Oki J, Rodriguez L, Joehnk B, Walcott K, Holden K, Sil A, Carette JE, Krogan NJ, Ott M, and Puschnik AS.
+CellHuman molecular genetics and genomics — important advances and exciting possibilities.
+Collins FS, Doudna JA, Lander ES, and Rotimi CN.
+The New England Journal of MedicineIdentifying vaccine hesitant communities on twitter and their geolocations: A network approachRuiz JB, Featherstone JD, and Barnett GA.
+ScholarSpacePublished in 2020Controlling and enhancing CRISPR systemsShivram H, Cress BF, Knott GJ, Doudna JA.
+Nature Chemical BiologyComparative host-coronavirus protein interaction networks reveal pan-viral disease mechanisms.
+Gordon DE, Hiatt J, Bouhaddou M, Rezelj VV, Ulferts S, Braberg H, Jureka AS, Obernier K, Guo JZ, Batra J, Kaake RM, Weckstein AR, Owens TW, Gupta M, Pourmal S, Titus EW, Cakir M, Soucheray M, McGregor M, Cakir Z, Jang G, O’Meara MJ, Tummino TA, Zhang Z, Foussard H, Rojc A, Zhou Y, Kuchenov D, Hüttenhain R, Xu J, Eckhardt M, Swaney DL, Fabius JM, Ummadi M, Tutuncuoglu B, Rathore U, Modak M, Haas P, Haas KM, Naing ZZC, Pulido EH, Shi Y, Barrio-Hernandez I, Memon D, Petsalaki E, Dunham A, Marrero MC, Burke D, Koh C, Vallet T, Silvas JA, Azumaya CM, Billesbølle C, Brilot AF, Campbell MG, Diallo A, Dickinson MS, Diwanji D, Herrera N, Hoppe N, Kratochvil HT, Liu Y, Merz GE, Moritz M, Nguyen HC, Nowotny C, Puchades C, Rizo AN, Schulze-Gahmen U, Smith AM, Sun M, Young ID, Zhao J, Asarnow D, Biel J, Bowen A, Braxton JR, Chen J, Chio CM, Chio US, Deshpande I, Doan L, Faust B, Flores S, Jin M, Kim K, Lam VL, Li F, Li J, Li Y, Li Y, Liu X, Lo M, Lopez KE, Melo AA, Moss III FR, Nguyen P, Paulino J, Pawar KI, Peters JK, Pospiech Jr. TH, Safari M, Sangwan S, Schaefer K, Thomas PV, Thwin AC, Trenker R, Tse E, Tsui TKM, Wang F, Whitis N, Yu Z, Zhang K, Zhang Y, Zhou F, Saltzberg D, QCRG Structural Biology Consortium, Hodder AJ, Shun-Shion AS, Williams DM, White KM, Rosales R, Kehrer T, Miorin L, Moreno E, Patel AH, Rihn S, Khalid MM, Vallejo-Gracia A, Fozouni P, Simoneau CR, Roth TL, Wu D, Karim MA, Ghoussaini M, Dunham I, Berardi F, Weigang S, Chazal M, Park J, Logue J, McGrath M, Weston S, Haupt R, Hastie J, Elliott M, Brown F, Burness KA, Reid E, Dorward M, Johnson C, Wilkinson SG, Geyer A, Giesel DM, Baillie C, Raggett S, Leech H, Toth R, Goodman N, Keough KC, Lind AL, Zoonomia Consortium, Klesh RJ, Hemphill KR, Carlson-Stevermer J, Oki J, Holden K, Maures T, Pollard KS, Sali A, Agard DA, Cheng Y, Fraser JS, Frost A, Jura N, Kortemme T, Manglik A, Southworth DR, Stroud RM, Alessi DR, Davies P, Frieman MB, Ideker T, Abate C, Jouvenet N, Kochs G, Shoichet B, Ott M, Palmarini M, Shokat KM, García-Sastre A, Rassen JA, Grosse R, Rosenberg OS, Verba KA, Basler CF, Vignuzzi M, Peden AA, Beltrao P, and Krogan NJ.
+ScienceStructure of the activated ROQ1 resistosome directly recognizing the pathogen effector XopQ.
+Martin R, Qi T, Zhang H, Liu F, King M, Toth C, Nogales E, and Staskawicz B.
+ScienceEfficient isolation of protoplasts from rice calli with pause points and its application in transient gene expression and genome editing assays.
+Poddar S, Tanaka J, Cate JHD, Staskawicz B, and Cho M-J.
+Plant MethodsExploring childhood anti-vaccine and pro-vaccine communities on twitter – a perspective from influential users.
+Featherstone JD, Barnett GA, Ruiz JB, Zhuang Y, and Millam BJ.
+ScienceDirectA compact Cascade–Cas3 system for targeted genome engineering.
+Csörgő B, León LM, Chau-Ly IJ, Vasquez-Rifo A, Berry JD, Mahendra C, Crawford ED, Lewis JD, and Bondy-Denomy J.
+Nature MethodsCytoprotection by a naturally occurring variant of ATP5G1 in Arctic ground squirrel neural progenitor cells.
+Singhal NS, Bai M, Lee EM, Luo S, Cook KR, and Ma DK.
+eLifeHigh-throughput mapping of the phage resistance landscape in E. coli.
+Mutalik VK, Adler BA, Rishi HS, Piya D, Zhong C, Koskella B, Kutter EM, Calendar R, Novichkov PS, Price MN, Deutschbauer AM, and Arkin AP.
+PLoS BiologyModulating gene regulation to treat genetic disorders.
+Matharu N and Ahituv N.
+Nature Reviews Drug DiscoveryFunctional CRISPR dissection of gene networks controlling human regulatory T cell identity.
+Schumann K, Raju SS, Lauber M, Kolb S, Shifrut E, Cortez JT, Skartsis N, Nguyen VQ, Woo JM, Roth TL, Yu R, Nguyen MLT, Simeonov DR, Nguyen DN, Targ S, Gate RE, Tang Q, Bluestone JA, Spitzer MH, Ye CJ, and Marson A.
+Nature ImmunologyStructure of the bacterial ribosome at 2 Å resolutionWatson ZL, Ward FR, Méheust R, Ad O, Schepartz A, Banfield JF, and Cate JHD.
+eLifeNon-viral strategies for delivering genome editing enzymesLi J, Justad Røise J, He M, Das R, Murthy N.
+Advanced Drug Delivery ReviewsRapid, precise quantification of large DNA excisions and inversions by ddPCRWatry HL, Feliciano CM, Gjoni K, Takahashi G, Miyaoka Y, Conklin BR, and Judge LM.
+Nature Scientific ReportsIs this safe? Addressing societal concerns about CRISPR-edited foods without reinforcing GMO framing.
+Doxzen KW and Henderson H.
+Environmental CommunicationNovel bacterial clade reveals origin of form I Rubisco.
+Banda DM, Pereira JH, Liu AK, Orr DJ, Hammel M, He C, Parry MAJ, Carmo-Silva E, Adams PD, Banfield JF, and Shih PM.
+Nature PlantsEvaluation of SARS-CoV-2 serology assays reveals a range of test performance.
+Whitman JD, Hiatt J, Mowery CT, Shy BR, Yu R, Yamamoto TN, Rathore U, Goldgof GM, Whitty C, Woo JM, Gallman AE, Miller TE, Levine AG, Nguyen DN, Bapat SP, Balcerek J, Bylsma SA, Lyons AM, Li S, Wong AW, Gillis-Buck EM, Steinhart ZB, Lee Y, Apathy R, Lipke MJ, Smith JA, Zheng T, Boothby IC, Isaza E, Chan J, Acenas II DD, Lee J, Macrae TA, Kyaw TS, Wu D, Ng DL, Gu W, York VA, Eskandarian HA, Callaway PC, Warrier L, Moreno ME, Levan J, Torres L, Farrington LA, Loudermilk RP, Koshal K, Zorn KC, Garcia-Beltran WF, Yang D, Astudillo MG, Bernstein BE, Gelfand JA, Ryan ET, Charles RC, Iafrate AJ, Lennerz JK, Miller S, Chiu CY, Stramer SL, Wilson MR, Manglik A, Ye CJ, Krogan NJ, Anderson MS, Cyster JG, Ernst JD, Wu AHB, Lynch KL, Bern C, Hsu PD, and Marson A.
+Nature BiotechnologyEngineering DNA nanostructures for siRNA delivery in plants.
+Zhang H, Zhang H, Demirer GS, González-Grandío E, Fan C, and Landry MP.
+Nature ProtocolsChemistry of class 1 CRISPR-Cas effectors: Binding, editing, and regulation.
+Liu TY and Doudna JA.
+Journal of Biological ChemistryA traceless linker for aliphatic amines that rapidly and quantitatively fragments after reduction.
+He M, Li J, Han H, Borges CA, Neiman G, Røise JJ, Hadaczek P, Mendonsa R, Holm VR, Wilson RC, Bankiewicz K, Zhang Y, Sadlowski CM, Healy K, Riley LW, and Murthy N.
+Chemical ScienceUpstream ethical mapping of germline genome editing.
+Halpern J and Paolo D.
+The American Journal of BioethicsATF4 regulates MYB to increase γ-globin in response to loss of β-globin.
+Boontanrart MY, Schröder MS, Stehli GM, Banović M, Wyman SK, Lew RJ, Bordi M, Gowen BG, DeWitt MA, and Corn JE.
+CellDNA capture by a CRISPR-Cas9–guided adenine base editor.
+Lapinaite A, Knott GJ, Palumbo CM, Lin-Shiao E, Richter MF, Zhao KT, Beal PA, Liu DR, and Doudna JA.
+ScienceGenomic surveillance reveals multiple introductions of SARS-CoV-2 into Northern California.
+Deng X, Gu W, Federman S, Plessis LD, Pybus OG, Faria NR, Wang C, Yu G, Bushnell B, Pan CY, Guevara H, Sotomayor-Gonzalez A, Zorn K, Gopez A, Servellita V, Hsu E, Miller S, Bedford T, Greninger AL, Roychoudhury P, Starita LM, Famulare M, Chu HY, Shendure J, Jerome KR, Anderson C, Gangavarapu K, Zeller M, Spencer E, Andersen KG, MacCannell D, Paden CR, Li Y, Zhang J, Tong S, Armstrong G, Morrow S, Willis M, Matyas BT, Mase S, Kasirye O, Park M, Masinde G, Chan C, Yu AT, Chai SJ, Villarino Elsa, Bonin B, Wadford DA, and Chiu CY.
+ScienceExploring childhood vaccination themes and public opinions on Twitter: A semantic network analysisFeatherstone JD, Ruiz JB, Barnett GA, and Millam BJ.
+ScienceDirectCRISPR-CasΦ from huge phages is a hypercompact genome editor.
+Pausch P, Al-Shayeb B, Bisom-Rapp E, Tsuchida CA, Li Z, Cress BF, Knott GJ, Jacobsen SE, Banfield JF, and Doudna JA.
+ScienceGlobal profiling of plant nuclear membrane proteome inArabidopsis.
+Tang Y, Huang A, and Gu Y.
+Nature Plants.
+News & Views.
+Proximity labeling proteomics reveals critical regulators for inner nuclear membrane protein degradation in plants.
+Huang A, Tang Y, Shi X, Jia M, Zhu J, Yan X, Chen H, and Gu Y.
+Nature Communications.
+News & Views.
+The delivery challenge: fulfilling the promise of therapeutic genome editing.
+Haasteren JV, Li J, Scheideler OJ, Murthy N, and Schaffer DV.
+Nature BiotechnologyThe global phosphorylation landscape of SARS-CoV-2 infection.
+Bouhaddou M, Memon D, Meyer B, White KM, Rezelj VV, Marrero MC, Polacco BJ, Melnyk JE, Ulferts S, Kaake RM, Batra J, Richards AL, Stevenson E, Gordon DE, Rojc A, Obernier K, Fabius JM, Soucheray M, Miorin L, Moreno E, Koh C, Tran QD, Hardy A, Robinot R, Vallet T, Nilsson-Payant BE, Hernandez-Armenta C, Dunham A, Weigang S, Knerr J, Modak M, Quintero D, Zhou Y, Dugourd A, Valdeolivas A, Patil T, Li Q, Hüttenhain R, Cakir M, Muralidharan M, Kim M, Jang G, Tutuncuoglu B, Hiatt J, Guo JZ, Xu J, Bouhaddou S, Mathy CJP, Gaulton A, Manners EJ, Félix E, Shi Y, Goff M, Lim JK, McBride T, O’Neal MC, Cai Y, Chang JCJ, Broadhurst DJ, Klippsten S, De wit E, Leach AR, Kortemme T, Shoichet B, Ott M, Saez-Rodriguez J, tenOever BR, Mullins D, Fischer ER, Kochs G, Grosse R, García-Sastre A, Vignuzzi M, Johnson JR, Shokat KM, Swaney DL, Beltrao P, and Krogan NJ.
+CellCarbon nanocarriers deliver siRNA to intact plant cells for efficient gene knockdown.
+Demirer GS, Zhang H, Goh NS, Pinals RL, Chang R, and Landry MP.
+Science AdvancesBlueprint for a pop-up SARS-CoV-2 testing lab.
+Amen AM, Barry KW, Boyle JM, Brook CE, Choo S, Cornmesser LT, Dilworth DJ, Doudna JA, Ehrenberg AJ, Fedrigo I, Friedline SE, Graham TGW, Green R, Hamilton JR, Hirsh A, Hochstrasser ML, Hockemeyer D, Krishnappa N, Lari A, Li H, Lin-Shiao E, Lu T, Lyons EF, Mark KG, Martell LA, Martins ARO, McDevitt SL, Mitchell PS, Moehle EA, Naca C, Nandakumar D, O’Brien E, Pappas DJ, Pestal K, Quach DL, Rubin BE, Sachdeva R, Stahl EC, Syed AM, Tan I, Tsuchida CA, Tollner A, Tsui CK, Turkalo TK, Urnov FD, Warf MB, Whitney ON, and Witkowsky LB. Nature BiotechnologyBuilding a COVID-19 pop-up testing lab.
+Hamilton J.
+The CRISPR JournalSARS-Cov2 clinical diagnostics: academic scientists take on the COVID-19 pandemic.
+Urnov FD.
+MedTargeted Diversification in the S. cerevisiae Genome with CRISPR-Guided DNA Polymerase I.
+Tou CJ, Schaffer DV, and Dueber JE.
+ACS PublicationsMultiplexed heritable gene editing using RNA viruses and mobile single guide RNAs.
+Ellison EE, Nagalakshmi U, Gamo ME, Huang P, Dinesh-Kumar S, and Voytas DF.
+Nature PlantsTimed inhibition of CDC7 increases CRISPR-Cas9 mediated templated repair.
+Wienert B, Nguyen DN, Guenther A, Feng SJ, Locke MN, Wyman SK, Shin J, Kazane KR, Gregory GL, Carter MAM, Wright F, Conklin BR, Marson A, Richardson CD, and Corn JE.
+Nature CommunicationsThe immune receptor Roq1 confers resistance to the bacterial pathogensXanthomonas,Pseudomonas syringae, andRalstoniain tomato.
+Thomas NC, Hendrich CG, Gill US, Allen C, Hutton SF, and Schultink A.
+Frontiers in Plant ScienceCRISPR off-target detection with DISCOVER-seq.
+Wienert B, Wyman SK, Yeh CD, Conklin BR, and Corn JE.
+Nature ProtocolsA calcium signalling network activates vacuolar K+ remobilization to enable plant adaptation to low-K environments.
+Tang RJ, Zhao FG, Yang Y, Wang C, Li K, Kleist TJ, Lemaux P, and Luan S.
+Nature Plants.
+News & Views.
+Bacterial alginate regulators and phage homologs repress CRISPR–Cas immunity.
+Adair L, Borges AL, Castro B, Govindarajan S, Solvik T, Escalante V, and Bondy-Denomy J.
+Nature MicrobiologyA genome-wide ER-phagy screen highlights key roles of mitochondrial metabolism and ER-resident UFMylation.
+Liang JR, Lingeman E, Luong T, Ahmed S, Muah M, Nguyen T, Olzmann JA, and Corn JE.
+CellMarker-free carotenoid-enriched rice generated through targeted gene insertion using CRISPR-Cas9.
+Dong OX, Yu S, Jain R, Zhang N, Duong PQ, Butler C, Li Y, Lipzen A, Martin JA, Barry KW, Schmutz J, Tian L, and Ronald PC.
+Nature CommunicationsTOR dynamically regulates plant cell-cell transport.
+Brunkard JO, Xu M, Scarpin MR, Chatterjee, Shemyakina EA, Goodman HM, and Zambryski P.
+PNASClades of huge phages from across Earth’s ecosystems.
+Al-Shayeb B, Sachdeva R, Chen LX, Ward F, Munk P, Devoto A, Castelle CJ, Olm MR, Bouma-Gregson K, Amano Y, He C, Méheust R, Brooks B, Thomas A, Lavy A, Matheus-Carnevali P, Sun C, Goltsman DSA, Borton MA, Sharrar A, Jaffe AL, Nelson TC, Kantor R, Keren R, Lane KR, Farag IF, Lei S, Finstad K, Amundson R, Anantharaman K, Zhou J, Probst AJ, Power ME, Tringe SG, Li WJ, Wrighton K, Harrison S, Morowitz M, Relman DA, Doudna JA, Lehours AC, Warren L, Cate JHD, Santini JM, and Banfield JF.
+NatureThe promise and challenge of therapeutic genome editing.
+Doudna JA.
+NatureBroadly conserved roles of TMEM131 family proteins in intracellular collagen assembly and secretory cargo trafficking.
+Zhang Z, Bai M, Barbosa GO, Chen A, Wei Y, Luo S, Wang X, Wang B, Tsukui T, Li H, Sheppard D, Kornberg TB, and Ma DK.
+Cell BiologyFocusing on human rights: A framework for CRISPR germline genome editing ethics and regulation.
+Doxzen KW and Halpern J.
+Perspectives in Biology and MedicinePrime time for genome editing?Urnov FD.
+New England Journal of MedicinePublished in 2019The uproar over genome-edited babies: A semantic network analysis of CRISPR on Twitter.
+Calabrese C, Ding J, Millam B, and Barnett GA.
+Taylor & Francis OnlinePolymer-stabilized Cas9 nanoparticles and modified repair templates increase genome editing efficiency.
+Nguyen DN, Roth TL, Li PJ, Chen PA, Apathy R, Mamedov MR, Vo LT, Tobin VR, Goodman D, Shifrut E, Bluestone JA, Puck JM, Szoka FC, and Marson A.
+Nature BiotechnologyWinning the tug-of-war between effector gene design and pathogen evolution in vector population replacement strategies.
+Marshall JM, Raban RR, Kandul NP, Edula JR, León TM, and Akbari OS.
+Frontiers in GeneticsMGDriveE: A modular simulation framework for the spread of gene drives through spatially-explicit mosquito populations.
+Sánchez HM, Wu SL, Bennett JB, and Marshall JM.
+Methods in Ecology and EvolutionThe daunting economics of therapeutic genome editing.
+Wilson RC and Carroll D.
+The CRISPR JournalSocietal and ethical impacts of germline genome editing: How can we secure human rights?Halpern J, O’Hara SE, Doxzen KW, Witkowsky LB, and Owen AL.
+The CRISPR JournalCarbon nanotube–mediated DNA delivery without transgene integration in intact plants.
+Demirer GS, Zhang H, Goh NS, Gonzalez-Grandio E, and Landry MP.
+Nature ProtocolsThe distinction of CPR bacteria from other bacteria based on protein family content.
+Méheust R, Burstein D, Castelle CJ, and Banfield JF.
+Nature CommunicationsSLC19A1 transports immunoreactive cyclic dinucleotides.
+Luteijn RD, Zaver SA, Gowen BG, Wyman SK, Garelis NE, Onia L, McWhirter SM, Katibah GE, Corn JE, Woodward JJ, and Raulet DH.
+NatureNanoparticle-mediated genetic engineering of plants.
+Wang JW, Grandio EG, Newkirk GM, Demirer GS, Butrus S, Giraldo JP, and Landry MP.
+Molecular PlantThe CUL5 ubiquitin ligase complex mediates resistance to CDK9 and MCL1 inhibitors in lung cancer cells.
+Kabir S, Cidado J, Andersen C, Dick C, Lin PC, Mitros T, Ma H, Baik SH, Belmonte MA, Drew L, and Corn JE.
+eLifeCovalent targeting of the vacuolar H+-ATPase activates autophagy via mTORC1 inhibition.
+Chung CY, Shin HR, Berdan CA, Ford B, Ward CC, Olzmann JA, Zoncu R, and Nomura DK.
+Nature Chemical BiologyQuantitative evidence for early metastatic seeding in colorectal cancer.
+Hu Z, Ding J, Ma Z, Sun R, Seoane JA, Scott Shaffer J, Suarez CJ, Berghoff AS, Cremolini C, Falcone A, Loupakis F, Birner P, Preusser M, Lenz HJ, and Curtis C.
+Nature GeneticsHow nanocarriers delivering cargos in plants can change the GMO landscape.
+Landry MP and Mitter N.
+Nature NanotechnologyCircularly permuted and PAM-modified Cas9 variants broaden the targeting scope of base editors.
+Huang TP, Zhao KT, Miller SM, Gaudelli NM, Oakes BL, Fellmann CF, Savage DF, and Liu DR.
+Nature BiotechnologyCandidate phyla radiation Roizmanbacteria from hot springs have novel and unexpectedly abundant CRISPR-Cas systems.
+Chen LX, Al-Shayeb B, Méheust R1, Li WJ, Doudna JA, and Banfield JF.
+Frontiers in MicrobiologyUnbiased detection of CRISPR off-targetsin vivousing DISCOVER-Seq.
+Wienert B, Wyman SK, Richardson CD, Yeh CD, Akcakaya P, Porritt MJ, Morlock M, Vu JT, Kazane KR, Watry HL, Judge LM, Conklin BR, Maresca M, and Corn JE.
+ScienceA novel fluorescent surfactant enhances the delivery of the Cas9 ribonucleoprotein and enables the identification of edited cellsLi J, Røise JJ, Zhang J, Yang J, Kerr DL, Han H, Murthy N.
+Chemical CommunicationsDNA nanostructures coordinate gene silencing in mature plants.
+Zhang H, Demirer GS, Zhang H, Ye T, Goh NS, Aditham AJ, Cunningham FJ, Fan C, and Landry MP.
+PNASGenetic engineering for disease resistance in plants: Recent progress and future perspectives.
+Dong OX and Ronald PC.
+Plant PhysiologyHigh aspect ratio nanomaterials enable delivery of functional genetic material without DNA integration in mature plants.
+Demirer GS, Zhang H, Matos JL, Goh NS, Cunningham FJ, Sung Y, Chang R, Aditham AJ, Chio L, Cho M-J, Staskawicz B, and Landry MP.
+Nature NanotechnologyCasX enzymes comprise a distinct family of RNA-guided genome editors.
+Liu J, Orlova N, Oakes BL, Ma E, Spinner HB, Baney KLM, Chuck J, Tan D, Knott GJ, Harrington LB, Al-Shayeb B, Wagner A, Brötzmann J, Staahl BT, Taylor KL, Desmarais J, Nogales E, and Doudna JA.
+NatureOnline representations of “genome editing” uncover opportunities for encouraging engagement: A semantic network analysis.
+Calabrese C, Anderton BN, and Barnett GA.
+Science CommunicationCRISPR-Cas9 interrogation of a putative fetal globin repressor in human erythroid cells.
+Chung JE, Magis W, Vu J, Heo SJ, Wartiovaara K, Walters MC, Kurita R, Nakamura Y, Boffelli D, Martin DIK, Corn JE, and DeWitt MA.
+PLoS OneCRISPR-Cas9 circular permutants as programmable scaffolds for genome modification.
+Oakes BL, Fellmann C, Rishi H, Taylor KL, Ren SM, Nadler DC, Yokoo R, Arkin AP, Doudna JA, and Savage DF.
+CellEnabling genetic analysis of diverse bacteria with Mobile-CRISPRi.
+Peters JM, Koo BM, Patino R, Heussler GE, Hearne CC, Qu J, Inclan YF, Hawkins JS, Lu CHS, Silvis MR, Harden MM, Osadnik H, Peters JE, Engel JN, Dutton RJ, Grossman AD, Gross CA, and Rosenberg OS.
+Nature Microbiology.
+Preprint (free to read).
+Clinical applications of CRISPR-based genome editing and diagnostics.
+Foss DV, Hochstrasser ML, and Wilson RC.
+TransfusionCRISPR-Cas9 genome engineering of primary CD4+ T cells for the interrogation of HIV-host factor interactionsHultquist JF, Hiatt J, Schumann K, McGregor MJ, Roth TL, Haas P, Doudna JA, Marson A, Krogan NJ.
+Nature ProtocolsPublished in 2018Timely double-strand break repair and pathway choice in pericentromeric heterochromatin depend on the histone demethylase dKDM4A.
+Janssen A, Colmenares SU, Lee T, and Karpen GH.
+Genes & DevelopmentEngineering CRISPR-Cas9 RNA–protein complexes for improved function and delivery.
+Rouet R, de Oñate L, Li J, Murthy N, and Wilson RC.
+The CRISPR JournalA male-expressed rice embryogenic trigger redirected for asexual propagation through seeds.
+Khanday I, Skinner D, Yang B, Mercier R, and Sundaresan V.
+NatureNRG1 functions downstream of EDS1 to regulate TIR-NLR-mediated plant immunity inNicotiana benthamiana.
+Qi T, Seong K, Thomazella DPT, Kim JR, Pham J, Seo E, Cho M-J, Schultink A, and Staskawicz BJ.
+PNASImproving gene editing outcomes in human hematopoietic stem and progenitor cells by temporal control of DNA repair.
+Lomova A, Clark DN, Campo-Fernandez B, Flores-Bjurström C, Kaufman ML, Fitz-Gibbon S, Wang X, Miyahira EY, Brown D, DeWitt MA, Corn JE, Hollis RP, Romero Z, and Kohn DB.
+Stem CellsSpatiotemporal mosaic self-patterning of pluripotent stem cells using CRISPR interference.
+Libby ARG, Joy DA, So P, Mandegar MA, Muncie JM, Mendoza-Camacho FN, Weaver VM, Conklin BR, and McDevitt TC.
+eLifeHeterochromatin: guardian of the genome.
+Janssen A, Colmenares SU, and Karpen GH.
+Annual Review of Cell and Developmental BiologyA two-headed monster to avert disaster: HBS1/SKI7 Is alternatively spliced to build eukaryotic RNA surveillance complexes.
+Brunkard JO and Baker B.
+Frontiers in Plant ScienceA call for science-based review of the European court’s decision on gene-edited crops.
+Urnov FD, Ronald PC, and Carroll D.
+Nature BiotechnologyUsing forward genetics inNicotiana benthamianato uncover the immune signaling pathway mediating recognition of theXanthomonas perforanseffector XopJ4.
+Schultink A, Qi T, Bally J, and Staskawicz B.
+New PhytologistAtlastins remodel the endoplasmic reticulum for selective autophagy.
+Liang JR, Lingeman E, Ahmed S, and Corn JE.
+Journal of Cell BiologyEmerging strategies for genome editing in the brain.
+Foss DV and Wilson RC.
+Trends in Molecular MedicineCRISPR-guided DNA polymerases enable diversification of all nucleotides in a tunable window.
+Halperin SO, Tou CJ, Wong EB, Modavi C, Schaffer DV, and Dueber JE.
+NatureCRISPR–Cas9 genome editing in human cells occurs via the Fanconi anemia pathway.
+Richardson CD, Kazane KR, Feng SJ, Zelin E, Bray NL, Schäfer AJ, Floor SN, and Corn JE.
+Nature Genetics.
+Preprint (free to read).
+Simultaneous CRISPR/Cas9-mediated editing of cassavaeIF4EisoformsnCBP-1andnCBP-2reduces cassava brown streak disease symptom severity and incidence.
+Gomez MA, Lin DZ, Moll T, Chauhan RD, Hayden L, Renninger K, Beyene G, Taylor NJ, Carrington J, Staskawicz B, and Bart R.
+Plant Biotechnology JournalMapping the genetic landscape of human cells.
+Horlbeck MA, Xu A, Wang M, Bennett NK, Park CY, Bogdanoff D, Adamson B, Chow ED, Kampmann M, Peterson TR, Nakamura K, Fischbach MA, Weissman JS, and Gilbert LA.
+CellIn vitro–transcribed guide RNAs trigger an innate immune response via the RIG-I pathway.
+Wienert B, Shin J, Zelin E, Pestal K, and Corn JE.
+PLoS BiologySometimes you’re the scooper, and sometimes you get scooped: How to turn both into something good.
+Kim JS and Corn JE.
+PLoS BiologyReprogramming human T cell function and specificity with non-viral genome targeting.
+Roth TL, Puig-Saus C, Yu R, Shifrut E, Carnevale J, Li PJ, Hiatt J, Saco J, Krystofinski P, Li H, Tobin V, Nguyen DN, Lee MR, Putnam AL, Ferris AL, Chen JW, Schickel JN, Pellerin L, Carmody D, Alkorta-Aranburu G, del Gaudio D, Matsumoto H, Morell M, Mao Y, Cho M, Quadros RM, Gurumurthy CB, Smith B, Haugwitz M, Hughes SH, Weissman JS, Schumann K, Esensten JH, May AP, Ashworth A, Kupfer GM, Greeley SAW, Bacchetta R, Meffre E, Roncarolo MG, Romberg N, Herold KC, Ribas A, Leonetti MD, and Marson A.
+Nature.
+Preprint (free to read).
+Novel soil bacteria possess diverse genes for secondary metabolite biosynthesis.
+Crits-Christoph A, Diamond S, Butterfield CN, Thomas BC, and Banfield JF.
+NatureUsing CRISPR as a gene editing tool for validating adaptive gene function in tree landscape genomics.
+Fernandez I Marti A and Dodd RS.
+Frontiers in Ecology and EvolutionConsequences of resistance evolution in a Cas9-based sex conversion-suppression gene drive for insect pest management.
+KaramiNejadRanjbar M, Eckermann KN, Ahmed HMM, Sánchez C HM, Dippel S, Marshall JM, and Wimmer EA.
+PNASEnhanced genome editing with Cas9 ribonucleoprotein in diverse cells and organisms.
+Farboud B, Jarvis E, Roth TL, Shin J, Corn JE, Marson A, Meyer BJ, Patel NH, and Hochstrasser ML.
+Journal of Visualized ExperimentsReceptor-mediated delivery of CRISPR-Cas9 endonuclease for cell type specific gene editing.
+Rouet R, Thuma BA, Roy MD, Lintner NG, Rubitski DM, Finley JE, Wisniewska HM, Mendonsa R, Hirsh A, de Oñate L, Compte J, Mclellan TJ, Bellenger J, Feng X, Varghese A, Chrunyk BA, Borzilleri KA, Hesp KD, Zhou K, Ma N, Tu M, Dullea R, Mcclure KF, Wilson RC, Liras S, Mascitti V, and Doudna JA.
+JACSSynthetically engineeredMedeagene drive system in the worldwide crop pestDrosophila suzukii.
+Buchman A, Marshall JM, Ostrovski D, Yang T, and Akbari OS.
+PNAS.
+Preprint (free to read).
+BARD1 is necessary for ubiquitylation of nucleosomal histone H2A and for transcriptional regulation of estrogen metabolism genes.
+Stewart MD, Zelin E, Dhall A, Walsh T, Upadhyay E, Corn JE, Chatterjee C, King MC, and Klevit RE.
+PNASPublished in 2017Roq1 mediates recognition of the Xanthomonas and Pseudomonas effector proteins XopQ and HopQ1.
+Schultink A, Qi T, Lee A, Steinbrenner AD, and Staskawicz B.
+The Plant JournalThe promise and challenge of in vivo delivery for genome therapeutics.
+Wilson RC and Gilbert LA.
+ACS Chemical BiologyE pluribus unum (“out of many, one”): CRISPR modeling of myeloid expansion.
+Shin J and Corn JE.
+Cell Stem CellProduction of purified CasRNPs for efficacious genome editing.
+Lingeman E, Jeans C, and Corn JE.
+Current Protocols in Molecular BiologyEnhancer connectome in primary human cells identifies target genes of disease-associated DNA elements.
+Mumbach MR, Satpathy AT, Boyle EA, Dai C, Gowen BG, Cho SW, Nguyen ML, Rubin AJ, Granja JM, Kazane KR, Wei Y, Nguyen T, Greenside PG, Corces MR, Tycko J, Simeonov DR, Suliman N, Li R, Xu J, Flynn RA, Kundaje A, Khavari PA, Marson A, Corn JE, Quertermous T, Greenleaf WJ, and Chang HY.
+Nature Genetics.
+Preprint (free to read).
+Discovery of stimulation-responsive immune enhancers with CRISPR activation.
+Simeonov DR, Gowen BG, Boontanrart M, Roth TL, Gagnon JD, Mumbach MR, Satpathy AT, Lee Y, Bray NL, Chan AY, Lituiev DS, Nguyen ML, Gate RE, Subramaniam M, Li Z, Woo JM, Mitros T, Ray GJ, Curie GL, Naddaf N, Chu JS, Ma H, Boyer E, Van Gool F, Huang H, Liu R, Tobin VR, Schumann K, Daly MJ, Farh KK, Ansel KM, Ye CJ, Greenleaf WJ, Anderson MS, Bluestone JA, Chang HY, Corn JE, and Marson A.
+Nature.
+Preprint (free to read).
+Disabling Cas9 by an anti-CRISPR DNA mimic.
+Shin J, Jiang F, Liu J, Bray NL, Rauch BJ, Baik SH, Nogales E, Corn JE, and Doudna JA.
+Science AdvancesBetween-region genetic divergence reflects the mode and tempo of tumor evolution.
+Sun R, Hu Z, Sottoriva A, Graham TA, Harpak A, Ma Z, Fischer JM, Shibata D, and Curtis C.
+Nature GeneticsSynthetically modified guide RNA and donor DNA are a versatile platform for CRISPR-Cas9 engineering.
+Lee K, Mackley VA, Rao A, Chong AT, Dewitt MA, Corn JE, and Murthy N.
+eLifeGenome editing via delivery of Cas9 ribonucleoprotein.
+DeWitt M, Carroll D, and Corn JE.
+MethodsA population genetics perspective on the determinants of intra-tumor heterogeneity.
+Hu Z, Sun R, and Curtis C.
+Biochimica et Biophysica ActaPublished in 2016A multiplexed single-cell CRISPR screening platform enables systematic dissection of the unfolded protein response.
+Adamson B, Norman TM, Jost M, Cho MY, Nuñez JK, Chen Y, Villalta JE, Gilbert LA, Horlbeck MA, Hein MY, Pak RA, Gray AN, Gross CA, Dixit A, Parnas O, Regev A, and Weissman JS.
+CellSelection-free genome editing of the sickle mutation in human adult hematopoietic stem/progenitor cells.
+DeWitt MA, Magis W, Bray NL, Wang T, Berman JR, Urbinati F, Heo S, Mitros T, Muñoz DP, Boffelli D, Kohn DB, Walters MC, Carroll D, Martin DK, and Corn JE.
+Science Translational Medicine.
+Preprint (free to read).
+Compact and highly active next-generation libraries for CRISPR-mediated gene repression and activation.
+Horlbeck MA, Gilbert LA, Villalta JE, Adamson B, Pak RA, Chen Y, Fields AP, Park CY, Corn JE, Kampmann M, and Weissman JS.
+eLifeNon-homologous DNA increases gene disruption efficiency by altering DNA repair outcomes.
+Richardson CD, Ray GJ, Bray NL, and Corn JE.
+Nature CommunicationsInferring tumor phylogenies from multi-region sequencing.
+Zheng H and Curtis C.
+Cell SystemsCornerstones of CRISPR-Cas in drug discovery and therapy.
+Fellmann C, Gowen BG, Lin PC, Doudna JA, and Corn JE.
+Nature Reviews Drug DiscoveryEnhancing homology-directed genome editing by catalytically active and inactive CRISPR-Cas9 using asymmetric donor DNA.
+Richardson CD, Ray GJ, DeWitt MA, Curie GL, and Corn JE.
+Nature BiotechnologyPublished in 2015CRISPR germline engineering—the community speaks.
+Bosley KS, Botchan M, Bredenoord AL, Carroll D, Charo RA, Charpentier E, Cohen R, Corn JE, Doudna JA, Feng G, Greely HT, Isasi R, Ji W, Kim JS, Lanphier E, Li J, Lovell-Badge R, Martin GS, Moreno JD, Naldini L, Pera MF, Perry ACF, Venter JC, Zhang F, and Zhou Q.
+Nature BiotechnologyA prudent path forward for genomic engineering and germline gene modification.
+Baltimore D, Berg P, Botchan M, Carroll D, Charo RA, Church G, Corn JE, Daley GQ, Doudna JA, Fenner M, Greely HT, Jinek M, Martin GS, Penhoet E, Puck J, Sternberg SH, Weissman JS, and Yamamoto KR.
+ScienceJoin the IGI Mailing List

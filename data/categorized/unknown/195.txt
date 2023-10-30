@@ -1,0 +1,13 @@
+old id = 1701
+CDS Research – NYU Center for Data Science
+unknown
+https://cds.nyu.edu/research
+
+NYU Center for Data ScienceHarnessing Data’s Potential for the WorldCDS ResearchResearch HomeIntroducing Minds, Brains, & MachinesNYU Minds, Brains, and Machines is a new campus initiative to focus research and educational opportunities around these topics. The project was initiated by FAS Dean Antonio Merlo via aFAS-wide conference about the relationship between human and machine intelligence. Current priorities includes a hiring cluster which connects several academics units at NYU including Psychology, the Center for Data Science, the Center for Neural Science, and the Flatiron Institute.
+The current directors of the initiative are CDS facultyBrenden LakeandTodd Gureckis.
+Featured Research ProjectsCDS Assistant Professor Andrew Gordon Wilson Receives NSF CAREER AwardCDS Assistant Professor of Computer Science and Data Science, Andrew Gordon Wilson, recently received the National Science Foundation CAREER Award, under the Faculty Early Career Development Program (CAREER) Program, for his project “New Frontiers in Bayesian Deep Learning”.
+ExCalibr: Pascal Wallisch’s Award-Winning System for Educators to Calibrate ExamsCongratulations to CDS Clinical Faculty Member Pascal Wallisch for winning NYU’s Arts and Science Teaching Innovation Award. The Arts and Science Teaching Innovation award honors faculty members who provide dynamic learning experiences and leverage technology-enhanced solutions to teach students. Award winners are invited to participate in the Interactive Teaching Innovation Conference to present their findings to the NYU community.
+Responsible Data Science and AI: Accounting for Dataset Shifts and Designing Fair Machine Learning SystemsRecently, CDS PhD student, Harvineet Singh, had the opportunity to present in the University of Michigan’s Future Leaders Summit. The theme of the summit? Responsible Data Science and AI.
+CDS Research GroupsCDS research groups include the following:CDS Research GroupsFaculty Research AreasTo learn more about our what each of our faculty cover, please see the link below.
+Faculty AchievementsCDS faculty has received awards such as the Turing Award, the Silver Professorship, the Google Faculty Award, and more.
+©2022 NYU CDS 7th floor, 60 5th Ave, New York, NY, 10011NYU Center for Data Science

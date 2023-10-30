@@ -1,0 +1,19 @@
+old id = 1155
+Machine learning can boost the value of wind energy
+2019
+https://blog.google/technology/ai/machine-learning-can-boost-value-wind-energy
+
+The KeywordMachine learning can boost the value of wind energyFeb 26, 2019min readCarbon-free technologies like renewable energy help combat climate change, but many of them have not reached their full potential. Consider wind power: over the past decade, wind farms have become an important source of carbon-free electricity as the cost of turbines has plummeted and adoption has surged. However, the variable nature of wind itself makes it an unpredictable energy source—less useful than one that can reliably deliver power at a set time.
+In search of a solution to this problem, last year, DeepMind and Google started applying machine learning algorithms to 700 megawatts of wind power capacity in the central United States. These wind farms—part of Google’s global fleet ofrenewable energy projects—collectively generate as much electricity as is needed by a medium-sized city.
+Using a neural network trained on widely available weather forecasts and historical turbine data, we configured the DeepMind system to predict wind power output 36 hours ahead of actual generation. Based on these predictions, our model recommends how to make optimal hourly delivery commitments to the power grid a full day in advance. This is important, because energy sources that can be scheduled (i.e. can deliver a set amount of electricity at a set time) are often more valuable to the grid.
+Although we continue to refine our algorithm, our use of machine learning across our wind farms has produced positive results. To date, machine learning has boosted the value of our wind energy by roughly 20 percent, compared to the baseline scenario of no time-based commitments to the grid.
+We can’t eliminate the variability of the wind, but our early results suggest that we can use machine learning to make wind power sufficiently more predictable and valuable. This approach also helps bring greater data rigor to wind farm operations, as machine learning can help wind farm operators make smarter, faster and more data-driven assessments of how their power output can meet electricity demand.
+Results from DeepMind application of machine learning to Google’s wind powerOur hope is that this kind of machine learning approach can strengthen the business case for wind power and drive further adoption of carbon-free energy on electric grids worldwide. Researchers and practitioners across the energy industry are developing novel ideas for how society can make the most of variable power sources like solar and wind. We’re eager to join them in exploring general availability of these cloud-based machine learning strategies.
+Google recently achieved100 percent renewable energy purchasingand is now striving tosource carbon-free energyon a 24x7 basis. The partnership with DeepMind to make wind power more predictable and valuable is a concrete step toward that aspiration. While much remains to be done, this step is a meaningful one—for Google, and more importantly, for the environment.
+Related storiesAccessibilityHow we build with and for people with disabilitiesLife at GoogleBay View is open — the first campus built by GoogleAIImproving skin tone representation across GoogleTranslateGoogle Translate learns 24 new languagesA message from our CEOGoogle I/O 2022: Advancing knowledge and computingAIUnderstanding the world through languageLet’s stay in touch. Get the latest news from Google in your inbox.
+Please check your network connection andtry again.
+The latest news from Google,in your inbox.
+Sign up to receive news and other stories from Google.
+Your information will be used in accordance withGoogle's privacy policy. You may opt out at any time.
+Done! Check your inbox toconfirm your subscription.
+Follow Us

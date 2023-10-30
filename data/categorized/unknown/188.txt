@@ -1,0 +1,19 @@
+old id = 1663
+Responsibilities – Google AI
+unknown
+https://ai.google/responsibilities
+
+Building responsible AI for everyoneWe’re working to develop artificial intelligence responsibly in order to benefit people and society.
+To realize that potential, it’s critical that AI is used and developed responsibly. To that end, we’ve established principles that guide Google AI applications, best practices to share our work with communities outside of Google, and programs to operationalize our efforts.
+Google’s AI PrinciplesThe ways in which artificial intelligence is built and deployed will significantly affect society. Our AI Principles form an ethical charter that guides the development and use of artificial intelligence in our research and products.
+Implementing our AI PrinciplesThe ways in which artificial intelligence is built and deployed will significantly affect society. Our AI Principles form an ethical charter that guides the development and use of artificial intelligence in our research and products.
+The development of AI is creating new opportunities to improve the lives of people around the world, from business to healthcare to education. It is also raising new questions about the best way to build fairness, interpretability, privacy, and security into these systems.
+We assess proposals for new AI research and applications for alignment with our principles. As advanced technologies emerge and evolve, we’ll continue to refine our process.
+Updates on our AI Principles:An update on our AI Principles, including resources, research, tools, responsible practices, internal governance structure, and product impact – and how we support global dialogue, standards, and policy.
+An update on our work on the AI Principles in 2020, including progress on training and education, tools and research, processes and governance, and external partnerships.
+A 1-year update on our AI Principles, including progress on internal education, tools and research, the review process, and engaging with external stakeholders.
+Public policy perspectivesAs with other technologies, there are new policy questions that arise with the use of AI, from governance frameworks, application areas, economic impact, and more. Learn more about our points of view on these and other concrete issues.
+This paper dives into the challenges of implementing effective AI regulation, providing recommendations on how to address practical challenges.
+In this one-pager we debunk six common misconceptions about artificial intelligence and machine learning.
+This paper outlines key considerations for global policymakers developing regulatory frameworks for AI.
+Artificial Intelligence at Google: Our PrinciplesGoogle aspires to create technologies that solve important problems and help people in their daily lives. We are optimistic about the incredible potential for AI and other advanced technologies to empower people, widely benefit current and future generations, and work for the common good.

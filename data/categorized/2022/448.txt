@@ -1,0 +1,13 @@
+old id = 1355
+2022 Conference
+2022
+https://iclr.cc/Conferences/2022
+
+Toggle navigationRegistrationCertificate of AttendanceVirtual SiteTweetSpecial AcknowlegementsWe would like to thank theReviewers,Area Chairs, and Senior Area Chairs, who provided valuable discussions and feedback to guide the review of 3,391 papers submitted and to determine the acceptance of 1,095 papers. A special thank to those Highlighted Area Chairs andHighlighted Reviewers,who have gone extra steps during the review process and provideexcellent, timely and productive feedback.
+Blog Post TrackICLR 2022 will host an inaugural blog post track. SeeICLR 2022 Blog Postsfor accepted posts and other details of the track.
+SponsorsThe generous support of our sponsors allowed us to reduce our ticket price by about 50%, and support diversity at the meeting with travel awards. In addition, many accepted papers at the conference were contributed by our sponsors.
+2022 ICLR Organizing CommitteeGeneral ChairSenior Program ChairProgram ChairsWorkshop ChairsArea ChairsEthics Review CommitteeDiversity Equity & Inclusion ChairsVirtual Chairs - Virtual & VolunteersEngagements Chairs - Socials & SponsorsBlog Track ChairsWorkflow ChairsContactThe organizers can be contactedhere.
+About UsThe International Conference on Learning Representations (ICLR)is the premier gathering of professionalsdedicated to the advancement of the branch of artificial intelligence called representation learning, but generally referred to as deep learning.
+ICLR is globally renowned for presenting and publishingcutting-edge research on all aspects of deep learning used in the fields of artificial intelligence, statistics and data science, as well as important application areas such as machine vision, computational biology, speech recognition, text understanding, gaming, and robotics.
+Participants at ICLR span a wide range of backgrounds,fromacademic and industrial researchers, to entrepreneurs and engineers, to graduate students and postdocs.
+A non-exhaustive list of relevant topics explored at the conference include:societal considerations of representation learning including fairness, safety, privacy

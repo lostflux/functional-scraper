@@ -1,0 +1,32 @@
+old id = 3899
+John Deere's Self-Driving Tractor Stirs Debate on AI in Farming | WIRED
+1837
+https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming
+
+To revist this article, visit My Profile, thenView saved stories.
+To revist this article, visit My Profile, thenView saved stories.
+Will KnightJohn Deere's Self-Driving Tractor Stirs Debate on AI in FarmingTo revist this article, visit My Profile, thenView saved stories.
+To revist this article, visit My Profile, thenView saved stories.
+ApplicationAutonomous drivingSectorAgricultureSource DataSensorsTechnologyMachine visionRoboticsDeere & Co.
+helped mechanize agriculture in 1837 with the first commercially successful steel plow. On Tuesday, the company unveiled a machine that could prove just as transformative: a fully autonomous tractor.
+John Deere’s new 8R tractor uses six pairs of stereo cameras and advancedartificial intelligenceto perceive its environment and navigate. It can find its way to a field on its own when given a route and coordinates, then plow the soil or sow seeds without instructions, avoiding obstacles as it goes. A farmer can give the machine new orders using a smartphone app.
+Some tractors already operate autonomously but only in limited situations—following a route defined by GPS, for example, without the ability to navigate around obstacles. Others feature limited autonomy that still requires a farmer to sit behind the wheel.
+“It's a monumental shift,” says Jahmy Hindman, Deere’s chief technology officer, of the new machine, revealed at the 2022Consumer Electronics Showin Las Vegas. “I think it's every bit as big as the transition from horse to tractor.”John Deere's 8R tractor uses cameras and AI to navigate.
+Self-driving tractors could help save farmers money and automate work that is threatened byan ongoing agricultural labor shortage. But automating more of farming, and adding AI, may also stir debate around replacing workers as well as ownership and use of the data it generates.
+Deere did not say how much the new tractor will cost; its most expensive current models canrun up to $800,000. Hindman says the company is exploring several possible models, including a subscription plan.
+Autonomy has been creeping into tractors and other farm equipment for decades, with recent advancesbuilding upon progress made in robotics and self-driving cars.
+The fully autonomous 8R relies onneural network algorithmsto make sense of the information streaming into its cameras. Deere has been collecting and annotating the data needed to train these algorithms for several years, Hindman says.
+A similar AI approach is being used by companies buildingself-driving cars. Tesla, for example, gathers data via its cars that is used to hone itsAutopilot self-driving system. And while an empty field poses fewer challenges than a busy city intersection, Hindman admits that, as with self-driving cars, the system may havedifficulty seeing its surroundings in extreme weather conditionssuch as snow or rain.
+“I’m all for innovation, and I think John Deere is a helluva company, but they’re trying to be the Facebook of farming.”Kevin Kenney, agricultural engineerQin Zhang, director of the Center for Precision & Automated Agricultural Systems at Washington State University, who previously worked on a prototype autonomous tractor with funding from Deere, says the technical issues seem to have been largely solved. But he says some farmers may find the system too expensive or too difficult to program.
+Deere has been incorporating more AI and autonomy into its products over the past decade. In August, the companysaid it had paid $250 million to acquire Bear Flag Robotics, a startup that retrofits tractors to make them more autonomous. In 2017, itpaid $305 million to buy Blue River Technology, which makes robots capable of identifying and eliminating unwanted plants using a high-precision blast of herbicide.
+The new 8R tractor perhaps signals a bigger shift in Deere’s ambitions. It not only turns the company’s most iconic product into a capablerobot; it also provides a virtuous cycle for training new AI algorithms and developing new products.
+Hindman says the system will gather data about the soil as it toils away. That information will be used to tweak its algorithms, helping to improve performance and provide farmers with new insights on how to best work their land.
+That troubles some farmer advocates and students of agriculture.
+Christopher Kitts, a professor who runs a field robotics program at Santa Clara University and studies agricultural automation, says the data collected by autonomous tractors could be so useful to farmers that Deere could charge extra to access it. It might also make it harder for rivals to compete.
+Kevin Kenney, an agricultural engineer who hascriticizedDeere’s limits on farmers’ ability to repair their own equipment, believes that AI and autonomy could ultimately also give farmers less control over their operations. They could become increasingly reliant on Deere, he says, and less able to make critical decisions if they need to rely on an app to tell them what to do. “I’m all for innovation, and I think John Deere is a helluva company, but they’re trying to be the Facebook of farming,” he says.
+Ultimately, Kenney says, Deere may not even need farmers, dispatching autonomous tractors to manage large-scale “robotic farms.”Hindman says such fears are unfounded because of the shortage of farm labor and because farmers will benefit as the new tractor improves and gains new functionality. He says farmers can opt out of sharing data.
+But Hindman agrees that the farmer is no longer inextricably tied to his equipment. “We've now figured out how to decouple the labor from the machine,” he says. Unlike in the days of the plow, the farmer is not even strictly necessary.
+ContentThis content can also be viewed on the site itoriginatesfrom.
+More From WIREDContact© 2022 Condé Nast. All rights reserved. Use of this site constitutes acceptance of ourUser AgreementandPrivacy Policy and Cookie StatementandYour California Privacy Rights.
+Wiredmay earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices

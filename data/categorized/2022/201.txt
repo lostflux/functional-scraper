@@ -1,0 +1,51 @@
+old id = 645
+The technology behind OpenAI’s fiction-writing, fake-news-spewing AI, explained | MIT Technology Review
+2022
+https://www.technologyreview.com/2019/02/16/66080/ai-natural-language-processing-explained
+
+The technology behind OpenAI’s fiction-writing, fake-news-spewing AI, explainedLast Thursday (Feb. 14), the nonprofit research firm OpenAI released anew language modelcapable of generating convincing passages of prose.
+Soconvincing, in fact, that the researchers have refrained from open-sourcing the code, in hopes of stalling its potential weaponization as a means ofmass-producing fake news.
+An OpenAI employee printed out this AI-written sample and posted it by the recycling bin:https://t.co/PT8CMSU2ARpic.twitter.com/PuXEzxL7XdWhile the impressive results are a remarkable leap beyond what existing language models have achieved, the technique involved isn’t exactly new. Instead, the breakthrough was driven primarily by feeding the algorithm ever more training data—a trick that has also been responsible for most of the other recent advancements in teaching AI to read and write. “It’s kind of surprising people in terms of what you can do with [...] more data and bigger models,” says Percy Liang, a computer science professor at Stanford.
+The passages of text that the model produces are good enough to masquerade as something human-written. But this ability should not be confused with a genuine understanding of language—the ultimate goal of the subfield of AI known as natural-language processing (NLP). (There’s an analogue in computer vision: an algorithm can synthesize highly realistic images without any true visual comprehension.) In fact, getting machines to that level of understanding is a task that has largely eluded NLP researchers. That goal could take years, even decades, to achieve, surmises Liang, and is likely to involve techniques that don’t yet exist.
+Four different philosophies of languagecurrently drive the development of NLP techniques. Let’s begin with the one used by OpenAI.
+#1. Distributional semanticsLinguistic philosophy.
+Words derive meaning from how they are used. For example, the words “cat” and “dog” are related in meaning because they are used more or less the same way. You can feed and pet a cat, and you feed and pet a dog. You can’t, however, feed and pet an orange.
+Related StoryHow it translates to NLP.
+Algorithms based on distributional semantics have been largely responsible forthe recent breakthroughs in NLP. They usemachine learningto process text, finding patterns by essentially counting how often and how closely words are used in relation to one another. The resultant models can then use those patterns to construct complete sentences or paragraphs, and power things like autocomplete or other predictive text systems. In recent years, some researchers have also begun experimenting with looking at the distributions of random character sequences rather than words, so models can more flexibly handle acronyms, punctuation, slang, and other things that don’t appear in the dictionary, as well as languages that don’t have clear delineations between words.
+Pros.
+These algorithms are flexible and scalable, because they can be applied within any context and learn from unlabeled data.
+Cons.
+The models they produce don’t actually understand the sentences they construct. At the end of the day, they’re writing prose using word associations.
+#2. Frame semanticsLinguistic philosophy.
+Language is used to describe actions and events, so sentences can be subdivided into subjects, verbs, and modifiers—who,what,where, andwhen.
+How it translates to NLP.
+Algorithms based on frame semantics use a set of rules or lots of labeled training data to learn to deconstruct sentences. This makes them particularly good at parsing simple commands—and thus useful for chatbots or voice assistants. If you asked Alexa to “find a restaurant with four stars for tomorrow,” for example, such an algorithm would figure out how to execute the sentence by breaking it down into the action (“find”), thewhat(“restaurant with four stars”), and thewhen(“tomorrow”).
+Pros.
+Unlike distributional-semantic algorithms, which don’t understand the text they learn from, frame-semantic algorithms can distinguish the different pieces of information in a sentence. These can be used to answer questions like “When is this event taking place?”Cons.
+These algorithms can only handle very simple sentences and therefore fail to capture nuance. Because they require a lot of context-specific training, they’re also not flexible.
+#3. Model-theoretical semanticsLinguistic philosophy.
+Language is used to communicate human knowledge.
+How it translates to NLP.
+Model-theoretical semantics is based on an old idea in AI that all of human knowledge can be encoded, ormodeled, in a series of logical rules. So if you know that birds can fly, and eagles are birds, then you can deduce that eagles can fly. This approach is no longer in vogue because researchers soon realized there were too many exceptions to each rule (for example, penguins are birds but can’t fly). But algorithms based on model-theoretical semantics are still useful for extracting information from models of knowledge, like databases. Like frame-semantics algorithms, they parse sentences by deconstructing them into parts. But whereas frame semantics defines those parts as thewho,what,where, andwhen, model-theoretical semantics defines them as the logical rules encoding knowledge. For example, consider the question “What is the largest city in Europe by population?” A model-theoretical algorithm would break it down into a series of self-contained queries: “What are all the cities in the world?” “Which ones are in Europe?” “What are the cities’ populations?” “Which population is the largest?” It would then be able to traverse the model of knowledge to get you your final answer.
+Pros.
+These algorithms give machines the ability to answer complex and nuanced questions.
+Cons.
+They require a model of knowledge, which is time consuming to build, and are not flexible across different contexts.
+#4. Grounded semanticsLinguistic philosophy.
+Language derives meaning from lived experience. In other words, humans created language to achieve their goals, so it must be understood within the context of our goal-oriented world.
+How it translates to NLP.
+This is the newest approach and the one that Liang thinks holds the most promise. It tries to mimic how humans pick up language over the course of their life: the machine starts with a blank state and learns to associate words with the correct meanings through conversation and interaction. In a simple example, if you wanted to teach a computer how to move objects around in a virtual world, you would give it a command like “Move the red block to the left” and then show it what you meant. Over time, the machine would learn to understand and execute the commands without help.
+Pros.
+In theory, these algorithms should be very flexible and get the closest to a genuine understanding of language.
+Cons.
+Teaching is very time intensive—and not all words and phrases are as easy to illustrate as “Move the red block.”In the short term, Liang thinks, the field of NLP will see much more progress from exploiting existing techniques, particularly those based on distributional semantics. But in the longer term, he believes, they all have limits. “There’s probably a qualitative gap between the way that humans understand language and perceive the world and our current models,” he says. Closing that gap would probably require a new way of thinking, he adds, as well as much more time.
+This originally appeared in our AI newsletter The Algorithm. To have it directly delivered to your inbox,sign up herefor free.
+byKaren HaoSharePopularDeep DiveArtificial intelligenceArtificial intelligence is creating a new colonial world orderAn MIT Technology Review series investigates how AI is enriching a powerful few by dispossessing communities that have been dispossessed before.
+Meta has built a massive new language AI—and it’s giving it away for freeFacebook’s parent company is inviting researchers to pore over and pick apart the flaws in its version of GPT-3This horse-riding astronaut is a milestone in AI’s journey to make sense of the worldOpenAI’s latest picture-making AI is amazing—but raises questions about what we mean by intelligence.
+How the AI industry profits from catastropheAs the demand for data labeling exploded, an economic catastrophe turned Venezuela into ground zero for a new model of labor exploitation.
+Stay connectedGet the latest updates fromMIT Technology ReviewDiscover special offers, top stories, upcoming events, and more.
+Thank you for submitting your email!It looks like something went wrong.
+We’re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out to us atcustomer-service@technologyreview.comwith a list of newsletters you’d like to receive.
+MIT Technology ReviewOur in-depth reporting reveals what’s going on now to prepare you for what’s coming next.
+Subscribeto support our journalism.
+AboutHelp© 2022 MIT Technology Review

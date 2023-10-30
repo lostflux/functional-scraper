@@ -1,0 +1,51 @@
+old id = 359
+This Is How to Invent Radical Solutions to Huge Problems
+1962
+https://singularityhub.com/2016/11/15/this-is-how-to-invent-radical-solutions-to-huge-problems
+
+This Is How to Invent Radical Solutions to Huge ProblemsIf you force a grasshopper into a jar and fasten the lid, the grasshopper eventually shortens its jump after hitting the lid enough times.
+After a while, even if you take the lid off the jar, the grasshopper will stay put—it’s forgotten how high it can jump.
+We’re a lot like grasshoppers in this way.
+When we’re kids we believe we can be and achieve anything. But then, slowly, our big thinking starts disappearing, and before we know it, we’re playing it safe and setting goals we already know are achievable.
+The problem with playing it safe, though, is it never results in a breakthrough.
+This is why great leaders and organizations set moonshots—or wildly ambitious goals. These goals are at the heart of moonshot thinking, a unique and powerful approach to big thinking and problem solving.
+Moonshot thinking is how we can take the lid off our own ideas, and according to some of our favorite innovators, there’s a blueprint for how to shift your mindset.
+The Original MoonshotMaybe you’re thinking, “Moonshot thinking is just a Silicon Valley buzzword, like innovation.” But the term has deep roots. Let’s look back at its powerful origin.
+In 1962 President John F. Kennedy delivered aspeech at Rice Universitywhere he spoke the famous words, “We choose to go to the moon in this decade.”These words planted the seeds that ultimately changed the course of humanity.
+JFK’s original moonshot was heroic and grandiose—it took America to the freaking moon—but he didn’t set this goal (or moonshot) knowinghowwe’d achieve it or promising it would be easy. He said we were going to achieve something incredible, set the timeframe, and inspired action.
+The rest is history.
+This is the power of moonshot thinking in action.
+Now, over fifty years since Kennedy sent the country on this original moonshot, Google’s Astro Teller has made moonshot thinking his life purpose.
+Teller is Google’s “Captain of Moonshots” and the director ofX(formerly Google X). X is a moonshot R&D factory where they test and launch projects that use breakthrough technologies to build solutions that can radically improve the world.
+Moonshot Thinking 101Moonshot thinking is when you pick a huge problem, like climate change, and set out to create a radical solution to the problem. To make this happen you have to abandon the idea of creating a 10% improvement. Instead, the focus is a solution that will bring tenfold (or 10x) improvements, or solve it altogether.
+The Difference of Thinking Big: 10x vs. 10%Focusing on 10x improvements (in areas like cost, speed, performance, design, etc.) triggers a series of behavioral changes that are key to making a moonshot a reality.
+Aiming for 10x causes a radical re-framing of the problem at hand. When teams approach a problem believing they can solve it, not just improve it, it uncaps individual and collective thinking.
+10x thinking forces organizations to constantly prioritize innovative behavior, which is critical because innovation can’t just be whipped out when it’s convenient.
+Shooting for 10x frees teams to throw out the rulebook when needed. Moonshots often can’t be built atop the current assumptions, tools, and infrastructures that got you to the problem in the first place.
+The Moonshot BlueprintTeller has outlined the three intersecting factors used at X to form a moonshot. You can follow this blueprint to form your own.
+1. Huge Problem:Pick a massive problem that, if solved, would positively impact the lives of millions, even billions.
+2. Radical Solution:Create and propose a radical new solution to that problem. It’s okay if the solution seems crazy today. Teller says it can sound “almost like science fiction.”3. Breakthrough Technology:Search for breakthroughs and emerging technologies that exist today—like machine learning, 3D printing, and robotics—and leverage those technologies in your solution. This provides evidence that the solution (though wild-sounding today) may be possible in the future.
+Moonshots of TodayAll around us are breakthroughs that once started as moonshots. These breakthroughs often become so embedded in our lives that we fail to notice their presence!Think about the screen you’re reading this on, the refrigerator in your kitchen, the planes you fly on, the vaccines and medicines that keep you healthy. Once these were just moonshot ideas.
+Here are examples of incredible moonshots that are in the works today:How to Fuel Your MoonshotHere are two expert tips from Teller on how to keep moonshots breathing in your organization (or kill them when the time comes).
+Tip #1: Context matters…a lotThink about it like this: you can’t expect teams to think big or act boldly if it’s clear your organization always kills big ideas and favors the teams who play it safe.
+Teams must feel a sense of freedom and safety to experiment; they need to know it’s safe to fail—because they’re going to. Having zero failures is often an indicator the thinking isn’t big enough. This is why Tellerrewardsteams when they fail.
+This culture must be embedded throughout an organization because big thinking and innovation are like muscles. If teams don’t exercise the muscles, they weaken.
+Teller talks about this as having “moonshots all the way down,” so that moonshot thinking even permeates how teams collaborate and form processes.
+Tip #2: Gather insights fastAt X, teams have a lot of room for experimentation and risk-taking, but they also have to put their ideas to the test early on.
+It’s a critical part of moonshot thinking. Failing becomesa lotmore dangerous if you dump tons of time and money into an untested idea. Not gaining quick insights can also cause people to become overly attached to a specific idea or solution.
+Teams can test ideas by making lean (fast and cheap) prototypes up front.
+By repeatedly testing the prototype, drawing insights from the test, and then making iterations based on the insights (a process calledrapid prototyping), the idea runs through rapid learning cycles with tight feedback loops.
+Gathering data points for an idea early on is also important because it’s how teams can quickly uncover problems and ensure that they’re moving in therightdirection.
+Tight feedback loops and rapid learning also make it easier to know when an idea needs to be shut down. To do this, Teller recommends balancing “unchecked optimism” with “enthusiastic skepticism,” which helps you stay open to ideas while also feeling comfortable scrutinizing or killing projects that aren’t making the cut.
+Teller invites teams to cheerfully ask each other, “How are we going to try to kill our project today?”Takeaways—Boldly Go!Think back to JFK’s original moonshot. It all started with an audacious, seemingly impossible goal. Moonshot thinking challenges us to question what’s possible and to take on huge goals.
+In what ways are you capping your own thinking or your teams’? Are you taking on a big enough problem in the world?Breakthroughs in science, technology, and industry happen when we push into the unknown and explore distant frontiers.
+It’s one reason Star Trek’s famous motto, “Boldly go where no one has gone before,” speaks to the hearts and mind of millions.
+So boldly go, and dare to orient towards a big problem, because you never know what’s waiting to be discovered.
+“Somewhere, something incredible is waiting to be known.”– Carl SaganBanner image credit:ShutterstockFollow Alison E.:LatestThis Week’s Awesome Tech Stories From Around the Web (Through May 21)Volvo and DHL Are Partnering on Hub-to-Hub Autonomous TruckingHow a Volcanic Bombardment in Ancient Australia Led to the World’s Greatest Climate CatastropheRELATEDVolvo and DHL Are Partnering on Hub-to-Hub Autonomous TruckingA 590-Foot-Tall Dam in China Will Be Built Entirely by RobotsDemocracy Is Ailing. Here’s How We Can Start Reviving ItRepublish this article for free in any language, online or in print, under theCreative Commonslicense CC BY-ND 4.0. Learn more aboutrepublishing.
+RepublishYou are free to republish this article in any language, online or in print, under theCreative Commonslicense CC BY-ND 4.0. By republishing this content you agree to comply with the Singularity HubRepublishing Guidelines.
+When republishing, please do not edit the contents of the article, ensure that you attribute the author and acknowledge that the article was originally published on Singularity Hub. Pleasecontact uswith any questions.
+To republish this article, copy the HTML code below and paste it to your CMS. Please do not remove the pixel counter.
+Press Ctrl+C to copy and Ctrl+V to paste.
+How the Extinction of Ice Age Mammals May Have Forced Us to Invent CivilizationGet the latest news from Singularity Hub!Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.
+© 2022 Singularity Education Group. All Rights Reserved.
+Singularity University is not a degree granting institution.

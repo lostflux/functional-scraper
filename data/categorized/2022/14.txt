@@ -1,0 +1,15 @@
+old id = 69
+An MIT Technology Review Series: AI Colonialism | MIT Technology Review
+2022
+https://www.technologyreview.com/supertopic/ai-colonialism-supertopic
+
+AI ColonialismAn MIT Technology Review series, supported by the MIT Knight Science Journalism Fellowship Program and the Pulitzer Center, investigating how AI is enriching a powerful few by dispossessing communities that have been dispossessed before.
+INTRODUCTIONArtificial intelligence is creating a new world orderOver the last few years, anincreasing numberof scholarshave arguedthat the impact of AI is repeating the patterns of colonial history. European colonialism, they say, was characterized by the violent capture of land, extraction of resources, and exploitation of people—for example, through slavery—for the economic enrichment of the conquering country. While it would diminish the depth of past traumas to say the AI industry is repeating this violence today, it is now using other, more insidious means to enrich the wealthy and powerful at the great expense of the poor.
+Read the full introduction.
+PART I: RACIAL CONTROLSouth Africa's private surveillance machine is fueling a digital apartheidAs foreign companies have dumped surveillance technologies into South Africa, it has not only recreated a digital apartheid but a new model of surveillance that will be exported abroad.
+PART II: ExploitationHow the AI Industry profits from catastropheBy a freak coincidence, Venezuela plunged into an economic crisis right as the AI industry began hunting for larger pools of cheap labor, turning the country into ground zero for a new and growing form of labor exploitation.
+PART III: RESISTANCEThe gig workers fighting back against the algorithmsIn Jakarta, ride-hailing giant Gojek’s fleet of motorbike taxi drivers are building worker power through worker community.
+PART IV: LIBERATIONA new vision of artificial intelligence for the peopleln a remote rural town in New Zealand, an Indigenous couple is challenging what AI could be and who it should serve.
+CREDITSReporting: Karen Hao, Heidi Swart,Andrea Paola Hernández,Nadine FreischladEditing: Niall Firth, Mat HonanCopy editing: Linda LowenthalArt direction: Stephanie ArnettFact checking: Matt MahoneyPhotography: Madelene Cronje, Joana Toro, Agoes RudiantoIllustration: Edel RodriguezSign up for stories from our archives that put technology in perspectiveGet updates and offers from MIT Technology ReviewMIT Technology ReviewOur in-depth reporting reveals what’s going on now to prepare you for what’s coming next.
+Subscribeto support our journalism.
+AboutHelp© 2022 MIT Technology Review

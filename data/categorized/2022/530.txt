@@ -1,0 +1,7 @@
+old id = 1678
+Department Of Computer Science | Makerere University
+2022
+https://cs.mak.ac.ug/faqs
+
+FaqsWhat are the areas of specialisation for MSc Computer Science?The MSc Computer Science has two areas of specialisation (1) Artificial Intelligence and Data Science (2) Software Systems SecurityWhen do students specialise?All students take the same courses in Year 1 Semester 1. Specialisation starts in Year 1 Semester 2Is the programme offered in the day, evening or weekend?The MSc Computer Science is an evening programme. Classes normally start at 5:00PM and end at 9:00PM. Some classes are scheduled on the weekendCan I follow the programme online?Whereas the courses have content on University learning management system (Muele), the programme is not offered purely online at the moment and thus requires physical presence of the student.
+I applied for a different programme and would like to change to MSc Computer Science?Change of programme is usually done within the first few weeks of the start of the Semester. The change of programme must be done inline with the University regulations and guidelinesWhat are the Admission requirements for MSc Computer SciencePlease see the curriculum section of the websiteI scored pass degree at Undergraduate, can I apply for MSc Computer ScienceNo. The minimum requirement is a Second Class Lower division. You may however apply for PGD Computer ScienceContact UsAcademics & ResearchPeopleOTHER USEFUL LINKS© 2022 - Makerere University Department of Computer Science

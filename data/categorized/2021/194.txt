@@ -1,0 +1,267 @@
+old id = 2132
+Demonstration of the trapped-ion quantum CCD computer architecture | Nature
+2021
+https://doi.org/10.1038%2Fs41586-021-03318-4
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+AdvertisementDemonstration of the trapped-ion quantum CCD computer architectureNaturevolume592,pages209–213 (2021)Cite this article11kAccesses73Citations174AltmetricMetricsdetailsSubjectsAbstractThe trapped-ion quantum charge-coupled device (QCCD) proposal1,2lays out a blueprint for a universal quantum computer that uses mobile ions as qubits. Analogous to a charge-coupled device (CCD) camera, which stores and processes imaging information as movable electrical charges in coupled pixels, a QCCD computer stores quantum information in the internal state of electrically charged ions that are transported between different processing zones using dynamic electric fields. The promise of the QCCD architecture is to maintain the low error rates demonstrated in small trapped-ion experiments3,4,5by limiting the quantum interactions to multiple small ion crystals, then physically splitting and rearranging the constituent ions of these crystals into new crystals, where further interactions occur. This approach leverages transport timescales that are fast relative to the coherence times of the qubits, the insensitivity of the qubit states of the ion to the electric fields used for transport, and the low crosstalk afforded by spatially separated crystals. However, engineering a machine capable of executing these operations across multiple interaction zones with low error introduces many difficulties, which have slowed progress in scaling this architecture to larger qubit numbers. Here we use a cryogenic surface trap to integrate all necessary elements of the QCCD architecture—a scalable trap design, parallel interaction zones and fast ion transport—into a programmable trapped-ion quantum computer that has a system performance consistent with the low error rates achieved in the individual ion crystals. We apply this approach to realize a teleported CNOT gate using mid-circuit measurement6, negligible crosstalk error and a quantum volume7of 26= 64. These results demonstrate that the QCCD architecture provides a viable path towards high-performance quantum computers.
+You have full access to this article via your institution.
+MainThe first quantum logic gates were performed with trapped ions8,9; since then, researchers have demonstrated coherence times, as well as gate, state preparation and measurement fidelities, that are among the best of any viable quantum computing platform3,4,5,10. Recently, researchers have focused their attention on scaling to larger qubit numbers that are needed for complex quantum algorithms. Whereas small trapped-ion quantum computers require only a single ion crystal in a single trapping region, this approach is unlikely to scale beyond 100 qubits11. Efforts have therefore focused on architectures that use either a network of ion crystals connected through photonic links12,13or physically transporting ions between different crystals14,15and eventually even across trap modules16. Here, we report progress towards the latter approach.
+The QCCD architecture aims to create a high-fidelity, scalable quantum computer, at the cost of some challenging requirements: (1) the device must be able to trap multiple small ion crystals that are capable of high-fidelity operations; (2) fast transport operations for moving ions between crystals; (3) tracking of qubit phases and synchronization of the control signals across multiple regions; (4) possibly the need to trap two different ion species: one as a qubit and the other to sympathetically cool the crystals back to near the motional ground state after transport; and (5) parallelization of transport and quantum operations across the device. Many of these difficulties have been addressed individually17,18,19,20,21, but combining these features into a single machine creates performance requirements that are difficult to reconcile: for example, high-fidelity qubit operations require minimal motional excitation and thus low electrode voltage noise, whereas fast transport requires high-bandwidth voltage controls for those same electrodes. Previous efforts (for example, refs.
+6,15,22) demonstrated impressive progress towards a scalable QCCD-based quantum computer but lacked multiple parallel-operation zones or sympathetic cooling, or were limited to a single qubit pair.
+Here, we report on an advanced realization of a QCCD-based quantum computer encompassing all of the above capabilities. Using up to six qubits, the system operates with low error rates even for deep circuits comprising many transport and gating operations, achieving the maximal quantum volume7(QV)that is possible for six qubits without being limited by errors. In addition, we demonstrate small crosstalk errors and show that the system is capable of mid-circuit measurements and conditioned feedback23. With relatively straightforward upgrades to the optical delivery and ion transport sequences, our architecture will be able to accommodate more qubits.
+Requirement (1) of the architecture is the simultaneous trapping of multiple ion crystals capable of high-fidelity quantum operations. The ion trap used here (Fig.
+1) has a linear geometry set by radiofrequency (RF) electrodes (Fig.
+1b) that provide a uniform radial trapping force in theyandzdirections along a line (called the RF-null) 70 μm above the surface (coordinate axes shown in Fig.
+1b). Additional trapping potentials and transport capabilities are provided by the 198 independently controlled d.c. electrodes. The geometry is flexible enough to admit different modes of operation, but we limit our description to the case in which the trap is understood as consisting of 16 different zones, marked in Fig.
+1as gate, extended gate, auxiliary and loading zones. Only the gate and extended gate zones, which are identical in size but have differing numbers of electrodes, are suitable for complex transport operations, making them the most convenient for quantum operations. Here, we use the extended gate and gate zones that are closest to the loading hole for convenience (Extended Data Fig.
+1) and refer to them as gate zones 1 and 2, respectively. All quantum operations are executed in these gate zones using lasers propagating parallel to the trap surface. The beams are focused to a spot size sufficiently small to address a single zone, but not small enough for individual addressing within a single ion crystal. This means that entangling two-qubit (TQ) gates between arbitrary pairs, and any single-qubit (SQ) gate, measurement or reset all require ion rearrangement.
+a, Right, a photograph of the trap. Left, the information flow of the system (top to bottom): user, cloud, internal tasking, machine control and field programmable gate array (FPGA). The circuits are processed by a compiler to generate control signals (purple) sent to both the trap and the optoelectronic devices. The imaging system counts scattered photons, and the results (green) are sent back to the user or processed for real-time decision-making (for example, on which subsequent unitaryUto apply).
+b, Trap schematic: RF electrodes (green), loading hole (black), load zone (pink), extended gate zones (orange), gate zones (blue) and auxiliary zones (yellow). Grey circles indicate gate zones used in this work.
+c, Left, a simple quantum circuit acting on four qubits, q0–q3. Right, the corresponding transport and gating operations.
+In this work we limit the modes of operation to eitherN= 4 orN= 6 qubits, always matching the number of171Yb+qubit ions to that of138Ba+coolant ions. The machine is initialized with one (Ba–Yb–Yb–Ba) crystal in each of the two gate zones for theN= 4 mode and with additional (Yb–Ba) pairs in the load and first auxiliary zones for theN= 6 mode.
+A quantum computation begins with a user submitting a program in the form of a quantum circuit. A compiler assigns qubits to physical ions so as to minimize the number of transport operations needed, and the circuit proceeds as a series of transport and gating operations, pairing and isolating qubits appropriately for SQ and TQ gates, and measurements. After completing all of the operations, the ions are returned to the initial configuration so that the circuit can be repeated to gather measurement statistics before sending the results back to the user.
+Transport (requirement (2)) is achieved through dynamic voltage waveforms applied to the d.c. electrodes, and falls into three categories.
+(i) Linear transport. A potential well is moved along the RF-null from one position to another24. During a quantum computation, these operations are performed in parallel, with multiple wells at different positions moving simultaneously. Linear transport always moves Yb–Ba pairs, except during trap-loading procedures.
+(ii) Split/combine. A split operation divides a single potential well into two25, splitting a four-ion crystal into two two-ion crystals. The combine operation is the time reversal of the split operation, and both occur only in gate zones.
+(iii) Swap. The qubit order of a four-ion crystal is flipped by rotating the qubits about an axis perpendicular to the RF-null26. These operations occur only in gate zones.
+As described in Methods (Extended Data Fig.
+1b, c), the individual transport operations have durations ranging from 50 μs to 300 μs and introduce a moderate amount of motional excitation to the ion crystal, comparable to Doppler temperatures, enabling subsequent sideband cooling routines. Using the three transport primitives, qubits are appropriately arranged for gating using a parallel bubble (odd–even) sorting algorithm, which sorts an array of lengthNin (N) steps27. The sorting sequences can involve several transport operations for every quantum operation (illustrated in Fig.
+2), but transport failure events are both rare and automatically detected, allowing the data to be scrubbed and uncorrupted (seeMethods).
+a, Example of gate and transport operations with permutationsΠ= (0, 1, 2, 3, 4, 5) → (1, 3, 0, 4, 2, 5). Unnumbered coolant ions and cooling steps are omitted. Similar transport sequences are repeated approximately six times per circuit. Trap regions are labelled as load zone (L); auxiliary zone 1 (A1); gate zone 1, left (G1L); gate zone 1, centre (G1C); gate zone 1, right (G1R); auxiliary zone 2 (A2); gate zone 2, left (G2L); gate zone 2, centre (G2C); and gate zone 2, right (G2R).
+b, Total time spent on operations in anN= 6 QV circuit.
+Tracking the phases of the qubits across the spatially separated gate zones (requirement (3)) requires both stable qubits and phase-stable gate operations. To this end, we use the hyperfine ‘clock’ states in the2S1/2ground state of171Yb+as the qubit, and define |0⟩= |F= 0,mF= 0⟩and |1⟩= |F= 1,mF= 0⟩, whereFandmFare the quantum numbers for the total angular momentum and itszprojection, respectively. These states benefit from a relatively low magnetic-field sensitivity, and we measure a spin-echo dephasing time (T2) of 2 s in both interaction zones, limited by magnetic-field fluctuations.
+Our native gate set consists of four types of phase-stable gates (seeMethodsfor more details).
+(I) SQZrotations. The SQ rotation aroundZ(X,Y,Zdenote Bloch sphere axes) is performed entirely in software by a phase-tracking update, as described in Methods. We set a resolution limit of π/500 forZrotations.
+(II) SQX/Yrotations. Stimulated Raman transitions using co-propagating laser beams on an isolated Yb–Ba crystal apply SQ rotations about an arbitrary axis in theX–Yplane of the Bloch sphere. We currently restrict our gate set to π and π/2 rotations. Arbitrary SQ gates submitted by the user are synthesized into at most twoX/Yrotations, along with an additionalZrotation. Because the Raman beams are co-propagating, the angle of the rotation axis is set by the phase of the microwave beatnote of the laser beams and is not affected by optical-path length drifts, allowing straightforward synchronization across zones.
+(III) TQ gates. We operate a Mølmer–Sørensen interaction28in the phase-sensitive configuration29,30and add SQ wrapper pulses driven with the same lasers (Extended Data Fig.
+1d) to remove the optical phase dependence, generating the phase-insensitive entangling gate\({U}_{zz}=\exp (-{\rm{i}}\frac{{\rm{\pi }}}{4}Z\otimes Z)\). Mapping the gate to theZbasis allows the operations to be performed in parallel across multiple zones, without the need for additional phase stabilization or synchronization.
+(IV) Global microwave rotations. A microwave antenna in the vacuum chamber applies global qubit rotations with a variable phase. The microwave field amplitude has a 3% inhomogeneity across the different gate zones and, therefore, is not suitable for logical operations, nor is it available to be used in quantum circuits. However, microwaves are used to suppress memory errors through dynamical decoupling31. Because the amplitude is inhomogeneous, we cannot apply global microwave π pulses, as is typical for dynamical decoupling. To avoid the accumulation of coherent errors, we apply pulses in pairs with opposite phases during ground-state cooling without any transport operations in between, cancelling out the small amplitude errors while preserving most of the benefits of memory error suppression.
+Qubit initialization and measurement are carried out by spatially isolating a single Yb–Ba crystal so that the resonant light has a minimal effect on the other qubits, allowing measurement (and subsequent reinitialization, if necessary) to be performed at any point in the circuit. Standard optical pumping and state-dependent fluorescence procedures are used for initialization and measurement32(seeMethods).
+Aside from the global microwave operations, quantum operations are characterized in both gate zones using randomized benchmarking (RB) techniques33. The similar environments for the two zones result in nearly identical operation times and fidelities, summarized in Table1and Extended Data Fig.
+1c. An estimated error budget for TQ gates is given in Extended Data Fig.
+2d.
+We meet the sympathetic cooling requirement (4) using138Ba+as the coolant ion, and employ both Doppler and resolved sideband cooling34at various times throughout a quantum circuit (seeMethodsfor details). The cooling laser light is tuned near the138Ba+transition at 493.5 nm, far enough from any resonances in171Yb+to prevent induced errors. These cooling protocols are the current runtime bottlenecks in our device (Fig.
+2b, Extended Data Fig.
+3c, Extended Data Fig.
+4c) and probably necessary for the QCCD architecture, but can be considerably improved35.
+The final requirement (5) of parallelized quantum operations and transport is verified at the system level through holistic benchmarks. We performed three holistic measurements aimed at characterizing the system performance as a general quantum information processor: simultaneous RB in the different gate zones, a teleported CNOT gate using mid-circuit measurements and a measurement of the system’s QV.
+We characterize the performance of the SQ and TQ gates (absent of interzone transport) via RB. We also generalize the SQ simultaneous RB method36to TQ operations to detect crosstalk errors. As described in Methods, this benchmark compares the results of RB tests performed separately in each zone versus simultaneously in the two zones. As summarized in Extended Data Fig.
+2fand Extended Data Fig.
+2e, we find the crosstalk errors to be <0.1 × 10−3per gate and consistent with zero to within the measurement uncertainty, highlighting the benefit of one of the central design features of the QCCD architecture: using spatially separated gate zones addressed by localized laser beams.
+Mid-circuit measurements that preserve the quantum information stored in other qubits have been achieved in ion trap quantum computing experiments by splitting and spatially isolating ion crystals37, as well as by using an ancilla ion species6,38. Our architecture uses the former approach, and we demonstrate this capability at the system level by performing a teleported CNOT gate circuit as in ref.
+6. Quantum gate teleportation is a protocol used to apply a gate between a pair of remote qubits39that requires entangling operations, mid-circuit measurements and classically conditioned quantum gates—all of which are necessary for quantum error correction. The protocol uses four qubits and, through a combination of three entangling operations, two mid-circuit measurements and two measurement-conditioned SQ operations, executes a quantum CNOT gate between two qubits that never directly interact with each other (seeMethods). By evaluating all four input states in two different bases (eight total input states), we bound the fidelity of the operation to beFavg≥ 0.899(6); all uncertainties denote one standard deviation.
+QV quantifies the effective power of a quantum computer by measuring its ability to produce quantum states that are hard to classically simulate for large qubit numbers. The test is not meant to mimic any particular quantum algorithm; rather, it is meant to stress several metrics that are thought to be important for general-purpose quantum computers (including qubit number, gate fidelity, crosstalk, connectivity and flexibility in native gate sets) and provides a single number to gauge the general potential of the system. A QV test forNqubits consists of both experimental runs and classical simulations of (N)-depth circuits (illustrated in Fig.
+3a) that require a quadratic number of SQ and TQ gates (3N2/2 total TQ gates between randomly paired qubits) and resemble important variational algorithms40,41. The experimentally measured outputs, together with the classically simulated ideal outputs, are evaluated against the heavy-outcome criteria (criteria ensuring that the measured outcomes reproduce the ideal distribution sufficiently better than random noise7,42). If the circuits pass this test 2/3 of the time with 2σconfidence, the system is said to have QV = 2N, a number that approximates the complexity of the classical simulations in the test. The classical simulations required for QV limit its usefulness toN< 50 qubits, but the test is challenging even for small numbers of qubits and establishes worthwhile goals for gates and system-level performance7for near-term devices.
+a, QV circuit with interleaved random SU(4) gates, compiled with three TQ gates, and random permutations (Π) of qubits (N= 4 shown).
+b, Results for QV test forN= 2, 3, 4, 6. Empty blue circles show the proportion of circuits with a certain heavy outcome probability given by the horizontal width. Empty red circles similary show results from noisy simulations. Green crosses give the average ideal heavy-outcome probability. The green dashed line is the asymptotic value inNof the ideal heavy-outcome probability. The black dashed line shows the passing threshold of 2/3. The white tri-points show the 2σlower bound in the measured distributions.
+As detailed in Methods, we performed QV tests onN= 2, 3, 4, 6 qubits and passed in all cases: forN= 2 with 77.58% of the circuits with heavy outcomes and 99.56% confidence, forN= 3 with 83.28% of the circuits with 99.9996% confidence, forN= 4 with 76.77% of the circuits and 99.16% confidence and forN= 6 with 72.96% and 99.77% confidence (the results are plotted in Fig.
+3b). We note that without errors and in the limit of largeN, the circuits return about 85% heavy outcomes with slight variations for smallerN(Fig.
+3), and a completely depolarized circuit (large error limit) has a heavy outcome 50% of the time. Prior to this work the highest QV reported was 16 (ref.
+7), and after this manuscript was submitted, QV = 64 was demonstrated by IBM43. Figure3balso shows theoretical simulations of the circuit outcomes, assuming a depolarizing noise channel for the TQ gates, with a noise magnitude extracted from TQ RB. The excellent agreement demonstrates that the QCCD architecture can fulfil its primary goal: maintaining the gate fidelities achievable in small ion crystals while executing arbitrary circuits on multiple qubits.
+We are currently scaling the optical delivery to five gate zones along with improved transport capabilities allowing increased qubit numbers and circuit complexities. The current runtime bottleneck for the device is the cooling procedures. This bottleneck can be improved with the combination of improved transport operations44and cooling techniques35. The current algorithmic bottleneck is the TQ gate fidelity, which is consistent with error models pointing to voltage noise in the waveform generators and spontaneous emission as the two dominant error sources. These errors can be mitigated with advanced filtering techniques and larger Raman laser detunings, respectively.
+The path to truly large systems of thousands or millions of qubits remains unclear. Our architecture could be scaled in a straightforward manner by placing multiple linear chip-traps end to end, without major changes in the individual components used. This linear scaling would result in a linearly increasing transport time for fully connected circuits, limiting the achievable connectivity of the system owing to a finite coherence time in the absence of fault-tolerant methods. Other scaling routes that would better maintain connectivity include using flying qubits (photonic interconnects or specially designed high-speed transport structures) or a two-dimensional trap geometry. The latter approach requires junction transport and a laser geometry that would avoid beam clipping on a large chip45,46. The question of how to most efficiently move quantum information through a computer is not settled, and the likely need for quantum error correction introduces additional complications. For example, leveraging high connectivity is expected to enable more efficient encodings47, and the true optimal design may ultimately require different connectivities at different scales.
+MethodsHoneywell surface trapWe designed and fabricated a two-dimensional surface trap at Honeywell’s microfabrication facility in Plymouth, Minnesota, USA, a section of which is shown in Extended Data Fig.
+1. The 198 d.c. gold electrodes were fabricated with an undercut etch to mitigate stray fields by eliminating a line of sight between the dielectrics and the ions18. The trap is cooled to 12.6 K via a cold finger attached to a liquid-helium flow cryostat with stability better than 2 mK. Single-171Yb+axial heating rates at a trap frequency of 0.97 MHz vary from 100 to 500 quanta per second and typical radial heating rates are ~500 quanta per second, both limited by technical noise on electrode controls.
+Computer controlThe processor is programmed using the quantum circuit model23, compiling gate sequences into hardware commands for the machine-control system, which is also responsible for circuit queueing and calibration routines. Automated calibrations take up about 25% of the system duty cycle and are either executed on a schedule or triggered when a measured parameter exceeds the specified tolerance. Clock synchronization between qubits is maintained via a phase-tracking protocol that updates the qubit phases after transport and gate operations to account for a.c. Stark shifts and interzone differences in the SQ phase.
+Data corruption from ion loss or crystal reordering events (caused by transport failures and background collisions) is mitigated by probing the ion crystal mode structure at the end of a series of circuit runs. When these events are detected, the data acquired since the previous check are discarded and the circuits are repeated. The detection procedure is blind to events that swap the qubit ions, as well as multiple reordering events that leave the ions in the correct order immediately before the probe. For theN= 6 QV test, where 100 repetitions of 400 different circuits were run over a period of five hours (~107transport operations), only three such events were detected.
+Trapping and transport operationsA hole in the trap (Extended Data Fig.
+1) allows neutral atoms from an effusive thermal source to enter the trapping region, where they are photoionized and Doppler-cooled using standard techniques32and then transported to a gate zone.
+A 190-V RF drive at 42.35 MHz provides radial confinement in the trap and d.c. voltages provide axial confinement (xdirection). The radial principal axes are at 45°relative to the trap surface. The single-Yb ion trap frequencies are\(\{{\omega }_{\mathop{x}\limits^{ \sim }},{\omega }_{\mathop{y}\limits^{ \sim }},{\omega }_{\mathop{z}\limits^{ \sim }}\}=2{\rm{\pi }}\times \{0.97,2.8,2.7\}\,{\rm{M}}{\rm{H}}{\rm{z}}\), resulting in an 8-μm-long four-ion crystal. The principal axes are related to the trap axis coordinates in Extended Data Fig.
+1aas\(\{x,y,z\}=\left\{\tilde{x},\frac{\tilde{y}+\tilde{z}}{\sqrt{2}},\frac{\tilde{y}-\tilde{z}}{\sqrt{2}}\right\}\).
+The transport primitives in Extended Data Fig.
+1bare constructed using methods similar to those in ref.
+48. Waveforms are solved for with a quadratic program that minimizes the voltage amplitudes while generating a potential with derivatives constrained in space and time. Specifically, linear-transport programs specify a trap minimum moving along the RF-null, swaps specify the orientation of the principal axes and confinement strengths through time, and the split–combine operation is solved for by specifying a quartic potential term and its strength relative to a quadratic term. During the split operation, the quadratic term changes from positive to negative, creating a double-well potential. The linear shift and split–combine operations work for both individual species, as well as mixed-species crystals, with no modifications. The swaps were calculated for a specific crystal orientation (BYYB or YBBY).
+Transport sequences are determined using a heuristic algorithm assigning gating operations to specific zones and times. Individual transport primitives in the library specify dynamic voltages applied to the electrodes via arbitrary waveform generators. The waveforms are stitched together using an interpolation procedure to ensure voltage continuity. The superposition principle for voltages, along with the linearity of the constraints, guarantees that a linear interpolation between trapping potentials also yields a valid trapping potential.
+Transport waveforms are constructed using the electric field for each electrode computed with a three-dimensional electrostatic simulation of the trap, and shimmed to account for stray electric fields. Shim voltages are determined using calibration routines and added to the trapping voltages in gate zones during the gate, split/combine and swap operations. Successful split/combine requires the axial shim to be set to a precision of a few volts per metre, typically <30 V m−1, and fluctuates by less than 5 V m−1throughout a day. Theyandzshims are typically <50 V m−1and <500 V m−1, respectively. Over the course of a day, the radial shim field can vary by a few tens of volts per metre, but the system’s performance degrades when off by≫10V m−1.
+Qubit manipulationA 5-G magnetic field is applied in thex–yplane at 45° with respect to thexaxis, uniform between the zones to within 0.2 mG, matching qubit frequencies to within 1 Hz. The qubit coherence time is characterized by a single-pulse spin-echo sequence in the two zones, showing 1/e Gaussian decay times of 2.0(2) s and 2.0(3) s for the first and second gate zones, respectively. Lasers are directed into the gate zones at either 45° or 90° to the trap axis with a beam diameter of ~17 μm, and the laser power budget is dominated by the TQ gate beams with 8.5 mW per beam.
+State preparation and measurementThe qubits are initialized and measured using standard optical pumping and state-dependent fluorescence techniques32, and the ions’ fluorescence is imaged onto a standard multichannel photomultiplier tube (PMT) array for measurements. Detection is performed at the gate zone centres, and we set the magnification of the imaging system such that the zone centres line up with every other PMT channel.
+The state preparation and measurement (SPAM) errors with 120 μs detection time listed in Table1are extracted from theyintercept of the survival probability in SQ RB. Theoretical modelling suggests that the state preparation error is ≤10−4, and the photon collection efficiency of ~3% limits the measurement error to >10−3. During these operations, idle qubits are held at least 110 μm away to avoid decoherence from scattered light. Measurement crosstalk errors are measured to be 0.35–1.5%, as explained in the caption of Extended Data Fig.
+4, whereas calculated errors from the detected ion’s fluorescence at this separation are <10−3. A perfect Gaussian beam 110 μm away gives a <10−4error, suggesting that the current limitations are due to imperfect beam profiles and scattering off the trap surface.
+Gating operationsQuantum logic operations use stimulated Raman transitions in two different configurations: SQ gates use pairs of co-propagating 370.3-nm Raman beams with circular polarization, and TQ gates use pairs of linearly polarized beams that couple to an axial mode of motion (along the RF-null).
+SQ gates are characterized by performing SQ RB with each qubit following the standard Clifford-twirl version of RB outlined in ref.
+33, with results plotted for each qubit in Extended Data Fig.
+2a. Likewise, TQ gates are characterized with TQ RB in each zone independently and then in both zones simultaneously33. Results are plotted in Extended Data Fig.
+2b, c, and we report the average infidelity of the TQ Clifford gates scaled by the average number ofUzzgates per Clifford gate (1.5). The laser pulses that drive the Mølmer–Sørensen interaction turn on and off using\({\rm{s}}{\rm{i}}{{\rm{n}}}^{2}\left(\frac{{\rm{\pi }}}{2}\frac{t}{T}\right)\)ramps withT= 1.5 μs to suppress unwanted spectator mode excitations. As indicated in Extended Data Fig.
+2d, our models predict that TQ gate errors are dominated by position fluctuations of the ions stemming from voltage noise, introducing an effective phase noise source. Our estimate for the magnitude of this error uses the measured voltage noise spectral density and a numerically calculated phase noise filter function49.
+Simultaneous RBThis method has two parts: (a) identify differences in RB decay rates when applying gates individually versus simultaneously, and (b) identify correlated errors when applying gates simultaneously (also similar to ref.
+50).
+TQ simultaneous RB is performed by three experiments: (1) RB in zone one, (2) RB in zone two, and (3) RB in both zones simultaneously. For reference, we fit the RB data to the decay equationp(ℓ) =Aαℓ+B, wherep(ℓ) is the average survival frequency for a length-ℓRB sequence,Ais the SPAM parameter,αis the RB decay rate andBis the asymptote, which is fixed by randomizing the final measurement, and the uncertainty is calculated via a semi-parametric bootstrap resample30,51.
+Addressability errorsγzinduced in one zone from operations in the other zone are quantified as the difference between the decay rates from experiments (1) and (2), theαzvalue forz= 1, 2 and the decay rates from experiment (3),\({\alpha }_{z}^{{\rm{b}}{\rm{o}}{\rm{t}}{\rm{h}}}\)(ref.
+36),As summarized in Extended Data Fig.
+2f, the measured values ofγzare below 10−3and within one standard deviation of zero.
+Correlation errors shared between zones are quantified by running RB simultaneously, which was first developed for SQ gates36. For SQ gates, the structure of the two-subsystem Clifford group\({{\rm{C}}}_{1}^{\otimes 2}\)leads to three decay rates—two from individual errors on each qubit and the other from correlated errors—estimated by measuring the Pauli observables⟨1Z⟩,⟨Z1⟩and⟨ZZ⟩. For parallel TQ gates, there are still three decay rates for\({{\rm{C}}}_{2}^{\otimes 2}\)but there are 15 different Pauli observables. Six of these observables decay owing to errors occurring separately on the two pairs of qubits. These are the Pauli operators, with the identity operator acting on one of the qubit pairs and at least one PauliZacting on the other qubit pair, labelledβz,iforz= 1, 2 andi= 1, 2, 3. If standard RB assumptions hold, then\({\beta }_{z,i}={\alpha }_{z}^{{\rm{b}}{\rm{o}}{\rm{t}}{\rm{h}}}\)for alli. The remaining nine observables have at least one PauliZacting on each qubit pair and decay owing to correlated errors between the two pairs of qubits, labelled asμi,j. If there are no correlated errors, thenμi,j=β1,iβ2,j. The magnitude of correlation errors is quantified byfor all Pauli observables. Extended Data Fig.
+2eshowsδi,jfor all nine values. The minimum uncertainty is 4.1 × 10−4, putting all measured values within one standard deviation of zero.
+Simultaneous TQ RB strongly indicates that addressability and correlation errors are minimal in this system. However, our method does not capture all possible crosstalk errors, because there may be errors that do not change the decay of an RB experiment but still affect a quantum circuit. We also note that this measurement indicates that crosstalk between gate zones is not a measurable contributor to the gate errors, but other modes of operation in which qubits are stored in auxiliary zones during gate operations require further characterization.
+Teleported CNOT gateThe circuit for teleporting a CNOT gate is shown in Extended Data Fig.
+3a. Qubits q1and q2are prepared in the state\(\frac{1}{\sqrt{2}}(|00\rangle +|11\rangle )\)and then distributed between the two zones through transport operations. Two rounds of CNOT gates (compiled into nativeUzzand SQ gates), followed by measurements and conditional gates, result in a circuit that is logically equivalent to a CNOT controlled on q0and targeting q3(see Extended Data Fig.
+3). A breakdown of the time budget for the circuit is shown in Extended Data Fig.
+3c.
+Benchmarking the teleported CNOT gate amounts to verifying the following quantum truth table52where the states are labelled |q3q0⟩. We prepare q0and q3in each state of the {|0⟩, |1⟩} and {|+⟩, |−⟩} bases, apply the circuit in Extended Data Fig.
+3aand measure in the appropriate basis. The data are shown in Extended Data Fig.
+3b.
+We definef1andf2as the average success probabilities over the {|0⟩, |1⟩} and {|+⟩, |−⟩} bases, respectively. The average fidelityFavg(ref.
+53) of the teleported CNOT gate is bounded according toand does not account for SPAM errors, which should be much smaller than the full circuit error. We findf1= 0.933(6) andf2= 0.941(5), yieldingFavg≥ 0.899(6).
+Quantum volumeTheN= 2, 3, 4 tests were performed with four-qubit ions loaded into the machine, and theN= 6 test was performed with six-qubit ions loaded into the machine. TheN= 2, 3, 4 tests consisted of 100 random circuits repeated 500 times each, and theN= 6 circuits consisted of 400 circuits repeated 100 times each, all generated by Qiskit54. All confidence intervals were calculated from the method described in ref.
+7. TheN= 2, 3, 4 QV circuits were run without any optimization or approximations. For example, in theN= 4 test, each circuit contained exactly 24 TQ gates. For theN= 6 test, we applied an optimization that combines SU(4) gates when the random permutations of qubit pairs calls for gates on the same pair in adjacent steps7, reducing the average number of TQ gates per circuit from 54 to 45. An example of the transport operations for theN= 4 case is depicted in Extended Data Fig.
+4. Simulations were run in Qiskit, with depolarizing errors estimated from RB experiments.
+Data availabilityThe data presented in this manuscript are available from the corresponding author upon reasonable request.
+ReferencesWineland, D. J. et al. Experimental issues in coherent quantum-state manipulation of trapped atomic ions.
+J. Res. Natl. Inst. Stand. Technol.
+103, 259–328 (1998).
+CASPubMedPubMed CentralGoogle ScholarKielpinski, D., Monroe, C. & Wineland, D. J. Architecture for a large-scale ion-trap quantum computer.
+Nature417, 709–711 (2002).
+ADSCASPubMedGoogle ScholarGaebler, J. P. et al. High-fidelity universal gate set for9Be+ion qubits.
+Phys. Rev. Lett.
+117, 060505 (2016).
+ADSCASPubMedGoogle ScholarBallance, C. J., Harty, T. P., Linke, N. M., Sepiol, M. A. & Lucas, D. M. High-fidelity quantum logic gates using trapped-ion hyperfine qubits.
+Phys. Rev. Lett.
+117, 060504 (2016).
+ADSCASPubMedGoogle ScholarChristensen, J. E., Hucul, D., Campbell, W. C. & Hudson, E. R. High-fidelity manipulation of a qubit enabled by a manufactured nucleus.
+npj Quant. Inf.
+6, 35 (2020).
+ADSGoogle ScholarWan, Y. et al. Quantum gate teleportation between separated qubits in a trapped-ion processor.
+Science364, 875–878 (2019).
+ADSCASPubMedGoogle ScholarCross, A. W., Bishop, L. S., Sheldon, S., Nation, P. D. & Gambetta, J. M. Validating quantum computers using randomized model circuits.
+Phys. Rev. A100, 032328 (2019).
+ADSCASGoogle ScholarCirac, J. I. & Zoller, P. Quantum computations with cold trapped ions.
+Phys. Rev. Lett.
+74, 4091–4094 (1995).
+ADSCASPubMedGoogle ScholarMonroe, C., Meekhof, D. M., King, B. E., Itano, W. M. & Wineland, D. J. Demonstration of a fundamental quantum logic gate.
+Phys. Rev. Lett.
+75, 4714–4717 (1995).
+ADSMathSciNetCASPubMedMATHGoogle ScholarWang, Y. et al. Single-qubit quantum memory exceeding ten-minute coherence time.
+Nat. Photon.
+11, 646–650 (2017).
+ADSCASGoogle ScholarMurali, P., Debroy, D. M., Brown, K. R. & Martonosi, M. Architecting noisy intermediate-scale trapped ion quantum computers. In2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)529–542 (IEEE, 2020).
+Monroe, C. et al. Large-scale modular quantum-computer architecture with atomic memory and photonic interconnects.
+Phys. Rev. A89, 022317 (2014).
+ADSGoogle ScholarHucul, D. et al. Modular entanglement of atomic qubits using photons and phonons.
+Nat. Phys.
+11, 37–42 (2015).
+CASGoogle ScholarHome, J. P. et al. Complete methods set for scalable ion trap quantum information processing.
+Science325, 1227–1230 (2009).
+ADSMathSciNetCASPubMedMATHGoogle ScholarKaufmann, H. et al. Scalable creation of long-lived multipartite entanglement.
+Phys. Rev. Lett.
+119, 150503 (2017).
+ADSMathSciNetCASPubMedGoogle ScholarLekitsch, B. et al. Blueprint for a microwave trapped ion quantum computer.
+Sci. Adv.
+3, e1601540 (2017).
+ADSPubMedPubMed CentralGoogle ScholarLabaziewicz, J.
+High Fidelity Quantum Gates with Ions in Cryogenic Microfabricated Ion Traps. PhD thesis, MIT (2008);http://web.mit.edu/cua/www/quanta/LabaziewiczThesis.pdfMaunz, P. L. W.
+High Optical Access Trap 2.0. Report SAND2016–0796Rhttps://prod-ng.sandia.gov/techlib-noauth/access-control.cgi/2016/160796r.pdf(Sandia National Laboratories, 2016).
+Bowler, R. et al. Coherent diabatic ion transport and separation in a multizone trap array.
+Phys. Rev. Lett.
+109, 080502 (2012).
+ADSCASPubMedGoogle ScholarKaushal, V. et al. Shuttling-based trapped-ion quantum information processing.
+AVS Quantum Sci.
+2, 014101 (2020).
+ADSGoogle ScholarBarrett, M. D. et al. Sympathetic cooling of9Be+and24Mg+for quantum logic.
+Phys. Rev. A68, 042302 (2003).
+ADSGoogle ScholarHome, J. P. et al. Memory coherence of a sympathetically cooled trapped-ion qubit.
+Phys. Rev. A79, 050305 (2009).
+ADSGoogle ScholarNielsen, M. A. & Chuang, I. L.
+Quantum Computation and Quantum Information(Cambridge Univ. Press, 2000).
+Palmero, M., Bowler, R., Gaebler, J. P., Leibfried, D. & Muga, J. G. Fast transport of mixed-species ion chains within a paul trap.
+Phys. Rev. A90, 053408 (2014).
+ADSGoogle ScholarHome, J. P. & Steane, A. M. Electrode configurations for fast separation of trapped ions.
+Quantum Inf. Comput.
+6, 289–325 (2006).
+CASMATHGoogle ScholarSplatt, F. et al. Deterministic reordering of40Ca+ions in a linear segmented Paul trap.
+New J. Phys.
+11, 103008 (2009).
+ADSGoogle ScholarHaberman, N.
+Parallel Neighbor Sort (or the Glory of the Induction Principle). CMU Computer Science Reporthttps://kilthub.cmu.edu/articles/journal_contribution/Parallel_neighbor-sort_or_the_glory_of_the_induction_principle_/6608258(Carnegie Mellon University, 1979).
+Sørensen, A. & Mølmer, K. Entanglement and quantum computation with ions in thermal motion.
+Phys. Rev. A62, 022311 (2000).
+ADSGoogle ScholarLee, P. J. et al. Phase control of trapped ion quantum gates.
+J. Opt. B7, S371–S383 (2005).
+CASGoogle ScholarBaldwin, C. H., Bjork, B. J., Gaebler, J. P., Hayes, D. & Stack, D. Subspace benchmarking high-fidelity entangling operations with trapped ions.
+Phys. Rev. Res.
+2, 013317 (2020).
+CASGoogle ScholarViola, L., Knill, E. & Lloyd, S. Dynamical decoupling of open quantum systems.
+Phys. Rev. Lett.
+82, 2417–2421 (1999).
+ADSMathSciNetCASMATHGoogle ScholarOlmschenk, S. et al. Manipulation and detection of a trapped Yb+hyperfine qubit.
+Phys. Rev. A76, 052314 (2007).
+ADSGoogle ScholarMagesan, E., Gambetta, J. M. & Emerson, J. Scalable and robust randomized benchmarking of quantum processes.
+Phys. Rev. Lett.
+106, 180504 (2011).
+ADSPubMedGoogle ScholarMonroe, C. et al. Resolved-sideband raman cooling of a bound atom to the 3D zero-point energy.
+Phys. Rev. Lett.
+75, 4011–4014 (1995).
+ADSCASPubMedGoogle ScholarJordan, E. et al. Near ground-state cooling of two-dimensional trapped-ion crystals with more than 100 ions.
+Phys. Rev. Lett.
+122, 053603 (2019).
+ADSCASPubMedGoogle ScholarGambetta, J. M. et al. Characterization of addressability by simultaneous randomized benchmarking.
+Phys. Rev. Lett.
+109, 240504 (2012).
+ADSPubMedGoogle ScholarBarrett, M. et al. Deterministic quantum teleportation of atomic qubits.
+Nature429, 737–739 (2004).
+ADSCASPubMedGoogle ScholarNegnevitsky, V. et al. Repeated multi-qubit readout and feedback with a mixed species trapped-ion register.
+Nature563, 527–531 (2018).
+ADSCASPubMedGoogle ScholarEisert, J., Jacobs, K., Papadopoulos, P. & Plenio, M. B. Optimal local implementation of nonlocal quantum gates.
+Phys. Rev. A62, 052317 (2000).
+ADSGoogle ScholarMcClean, J. R., Romero, J., Babbush, R. & Aspuru-Guzik, A. The theory of variational hybrid quantum-classical algorithms.
+New J. Phys.
+18, 023023 (2016).
+ADSMATHGoogle ScholarFarhi, E. & Goldstone, J. A quantum approximate optimization algorithm. Preprint athttps://arxiv.org/abs/1411.4028(2014).
+Aaronson, S. & Chen, L. Complexity-theoretic foundations of quantum supremacy experiments. Preprint athttps://arxiv.org/abs/1612.05903(2016).
+Jucevic, P. et al. Demonstration of quantum volume 64 on a superconducting quantum computing system. Preprint athttps://arxiv.org/abs/2008.08571(2020).
+van Mourik, M. W. et al. Coherent rotations of qubits within a a surface ion-trap quantum computer.
+Phys. Rev. A102, 022611 (2020).
+ADSGoogle ScholarMount, E. et al. Single qubit manipulation in a microfabricated surface electrode ion trap.
+New J. Phys.
+15, 093018 (2013).
+ADSCASGoogle ScholarMehta, K. K. et al. Integrated optical multi-ion quantum logic.
+Nature586, 533–537 (2020).
+ADSCASPubMedGoogle ScholarKovalev, A. A. & Pryadko, L. P. Quantum kronecker sum-product low-density parity-check codes with finite rate.
+Phys. Rev. A88, 012311 (2013).
+ADSGoogle ScholarBlakestad, R. B.
+Transport of Trapped-ion Qubits within a Scalable Quantum Processor. PhD thesis, Univ. of Colorado (2010);https://www.nist.gov/system/files/documents/2017/05/09/blakestad2010thesis.pdf.
+Biercuk, M. J., Doherty, A. C. & Uys, H. Dynamical decoupling sequence construction as a filter-design problem.
+J. Phys. B44, 154002 (2011).
+ADSGoogle ScholarHarper, R., Flammia, S. T. & Wallman, J. J. Efficient learning of quantum noise.
+Nat. Phys.
+16, 1184–1188 (2020).
+Google ScholarMeier, A. M.
+Randomized Benchmarking of Clifford Operators. PhD thesis, Univ. of Colorado (2006);https://arxiv.org/abs/1811.10040Hofmann, H. F. Complementary classical fidelities as an efficient criterion for the evaluation of experimentally realized quantum operations.
+Phys. Rev. Lett.
+94, 160504 (2005).
+ADSMathSciNetPubMedGoogle ScholarNielsen, M. A. A simple formula for the average gate fidelity of a quantum dynamical operation.
+Phys. Lett. A303, 249–252 (2002).
+ADSMathSciNetCASMATHGoogle ScholarAbraham, H. et al.
+Qiskit: an Open-Source Framework for Quantum Computinghttps://zenodo.org/record/2562111#.YC6b8n7LdaR(2019).
+Download referencesAcknowledgementsThis work was made possible by a large group of people, and we thank the entire Honeywell Quantum Solutions team for their many contributions.
+Author informationAffiliationsHoneywell Quantum Solutions, Broomfield, CO, USAJ. M. Pino, J. M. Dreiling, C. Figgatt, J. P. Gaebler, S. A. Moses, M. S. Allman, C. H. Baldwin, M. Foss-Feig, D. Hayes, K. Mayer, C. Ryan-Anderson & B. NeyenhuisYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarContributionsJ.M.P., J.M.D., C.F., J.P.G., S.A.M., M.S.A. and B.N. all contributed to the experimental design, construction and data collection. C.H.B. and K.M. contributed to the theory, quantum circuit design and data analysis. All authors contributed to this manuscript.
+Corresponding authorCorrespondence toD. Hayes.
+Ethics declarationsCompeting interestsThe authors declare no competing interests.
+Additional informationExtended datais available for this paper athttps://doi.org/10.1038/s41586-021-03318-4.
+Peer review informationNaturethanks Winfried Hensinger and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data figures and tablesExtended Data Fig. 1 System details.
+a, Close-up schematic of the trap region used in this work. Dimensions are in micrometres. We refer to the orange gating region on the left as zone 1 and the blue gating region as zone 2.
+b, Transport primitive library and associated heating estimates. For the estimates, we fit four ion-crystal spin-flip data to a model that assumes that all modes are at the same temperature. The fitted temperature increases are converted to units of quanta/mode (we note that the inequality holds for all modes). The times shown do not include interpolation between different operations or small delays in the electronics, which increase the time for every operation by ~10%. The interzone shift is a linear shift between the two gate zones, whereas an intrazone shift moves ions within a single gate zone by 110 μm for single-qubit addressing.
+c, Times for qubit operations, transport and cooling. Circuits can be run using two different measurement protocols. For circuits in which all measurements are made at the end, we use the high-fidelity measurement setting. Circuits containing mid-circuit measurements use shorter-duration measurements to minimize the crosstalk error on idle qubits. The shorter detection time measurement error is ~7 × 10−3, about twice as large as those reported in Table1. Mid-circuit measurements induce an error of ~1% on neighbouring idle qubits, as measured by a Ramsey experiment. There are three different cooling stages used during transport (stages 1 and 2) and before gates (stage 3) and are either implemented through Doppler or sideband (SB) cooling.
+d, Construction of a phase-insensitive TQ gate. The Mølmer–Sørensen interaction generates the unitary\({U}_{{\rm{MS}}}=\exp [-{\rm{i}}\frac{{\rm{\pi }}}{4}{(X\sin \varphi +Y\cos \varphi )}^{\otimes 2}]\)(orange), whose basis is determined by the optical phaseϕ. SQ operations driven by the same laser beams generate the unitary\({U}_{{\rm{SQ}}}=\exp [-{\rm{i}}\frac{{\rm{\pi }}}{4}(X\cos \,\varphi +Y\sin \,\varphi )]\)(blue) and are applied globally to both qubits. The resulting composite gate is, up to a global phase, given by\({U}_{zz}=\exp (-{\rm{i}}\frac{{\rm{\pi }}}{4}Z\otimes Z)\)(green).
+Extended Data Fig. 2 Estimated gate errors and randomized benchmarking results.
+a, SQ RB for all four qubits.
+b, TQ RB results for zone 1.
+c, TQ RB results for zone 2.
+d, An estimated error budget for a single TQ gate operation.
+e, Correlation parameters for simultaneous TQ RB. Each square represents a value ofδi,jwith the numbers being scaled by 10−4. All are within one standard deviation of zero.
+f, Addressability error estimates for simultaneous RB. The quantities\({\alpha }_{z}^{{\rm{both}}}\)andγzrefer to simultaneous RB decay rates and their deviation from individual RB decay rates, as described in the text.
+Extended Data Fig. 3 Teleported CNOT gate experiment results.
+a, Circuit implementing a teleported CNOT gate, with q0and q3the control and target qubit, respectively.
+b, Bar plots showing the distribution of measurement outcomes when qubits q0and q3are prepared and measured in the {|0⟩, |1⟩} and {|+⟩, |−⟩} bases.
+c, The teleported CNOT gate time budget.
+Extended Data Fig. 4 QVN= 4 results.
+a, Example of the transport operations needed for part of anN= 4 QV circuit. Trap regions are labelled as load zone (L); auxiliary zone 1 (A1); gate zone 1, left (G1L); gate zone 1, centre (G1C); gate zone 1, right (G1R); auxiliary zone 2 (A2); gate zone 2, left (G2L); gate zone 2, centre (G2C); and gate zone 2, right (G2R).
+b, AnN= 4 QV circuit time budget.
+Rights and permissionsReprints and PermissionsAbout this articleCite this articlePino, J.M., Dreiling, J.M., Figgatt, C.
+et al.
+Demonstration of the trapped-ion quantum CCD computer architecture.
+Nature592,209–213 (2021). https://doi.org/10.1038/s41586-021-03318-4Download citationReceived:27 July 2020Accepted:01 February 2021Published:07 April 2021Issue Date:08 April 2021DOI:https://doi.org/10.1038/s41586-021-03318-4Share this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiativeFurther readingProspects of quantum computing for molecular sciencesMaterials Theory(2022)Single electrons on solid neon as a solid-state qubit platformNature(2022)Versatile neutral atoms take on quantum circuitsNature(2022)A quantum processor based on coherent transport of entangled atom arraysNature(2022)Scalable estimation of pure multi-qubit statesnpj Quantum Information(2022)CommentsBy submitting a comment you agree to abide by ourTermsandCommunity Guidelines. If you find something abusive or that does not comply with our terms or guidelines please flag it as inappropriate.
+You have full access to this article via your institution.
+Associated ContentQuantum computer based on shuttling trapped ionsAdvertisementExplore contentAbout the journalPublish with usSearchAdvanced searchQuick linksNature (Nature)ISSN1476-4687(online)ISSN0028-0836(print)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature LimitedSign up for theNature Briefingnewsletter — what matters in science, free to your inbox daily.

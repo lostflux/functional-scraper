@@ -1,0 +1,30 @@
+old id = 8
+Applied
+unknown
+https://www.deepmind.com/about/applied
+
+Applying cutting-edge research to Google products and infrastructureOverviewThe Applied team applies DeepMind’s cutting-edge research to Google products and infrastructure used by millions of people.
+We are mainly based in London and Mountain View, California, and work on a variety of applications for machine learning.
+Our collaborative efforts have reduced the electricity needed for cooling Google’s data centres by up to 30%, usedWaveNetto create more natural voices for the Google Assistant, and created on-device learning systems to optimise Android battery performance.
+Working at Google scale gives us a unique set of opportunities, allowing us to apply our research beyond the lab towards global and complex problems. This way, we can demonstrate the benefits of our work on systems that are already optimised by brilliant computer scientists.
+ProjectsIn 2016, we worked with Google to develop an AI-powered recommendation system to improve the energy efficiency of Google’s highly-optimised data centres.
+Two years later, we announced the next phase of this work: a safety-first AI system to autonomously manage cooling in Google's data centres, while remaining under the expert supervision of data centre operators.
+This pioneering system is delivering consistent energy savings and has also discovered a number of innovative methods for cooling - many of which have since been incorporated into the data centre operators’ rules and heuristics.
+In 2018, DeepMind and Google started applying machine learning to 700 megawatts of wind power capacity in the central United States to help increase the predictability and value of wind power. Using a neural network trained on widely available weather forecasts and historical turbine data, we configured the DeepMind system to predict wind power output 36 hours ahead of actual generation.
+Based on these predictions, our model recommends how to make optimal hourly delivery commitments to the power grid a full day in advance. Our hope is that this kind of machine learning approach can strengthen the business case for wind power and drive further adoption of carbon-free energy on electric grids worldwide.
+In 2016, we introducedWaveNet, a deep neural network capable of producing better and more human-sounding speech than existing techniques. At that time, the model was a research prototype that took one second to generate 0.02 seconds of audio and was too complex to work in consumer products.
+After 12 months of intense development, working with the Google Text to Speech and DeepMind research teams, we created an entirely new model with speeds 1,000 times faster than the original.
+This is now in production and is used to generate hundreds of voices for the Google Assistant, while Google Cloud Platform customers can also now use WaveNet generated voices in their own products through Google Cloud’s Text-to-Speech.
+This is just the start for WaveNet and we are excited by the possibilities that a voice interface can unlock for all the world's languages.
+Android is the world's most popular mobile operating system. We've collaborated with the Android team to create two new features, Adaptive Battery and Adaptive Brightness. These features have been rolled out across the Android Pie operating system, optimising mobile phone performance for millions of users.
+Adaptive Battery is a smart battery management system that uses machine learning to anticipate which apps you'll need next, providing a more reliable battery experience.
+Adaptive Brightness is a personalised experience for screen brightness, built on algorithms that learn your brightness preferences in different surroundings.
+This is the first time we've used techniques that run on the compute power of a single mobile device, which is exponentially less powerful less than most machine learning applications.
+Together with the Google Play team, we are coming up with personalised recommendations for millions of their customers. To tackle this challenge, we are evaluating a series of machine learning techniques to recommend apps that users will more likely download and enjoy.
+Ingrid holds a PhD in applied maths, where she developed algorithms to efficiently run physics simulations. Before joining DeepMind, she worked at Google and YouTube, using machine learning for video classification and recommendations.
+Ingrid’s team works with on-device machine learning, exploring challenges in training and running ML models on single computing devices.
+Norman earned his MSc in machine learning at the University of Montreal. He has worked for an online music service, a startup in Seattle, and joined the Machine Intelligence group at Google to work on automatic knowledge extraction.
+Norman focuses on everything WaveNet and its applications and helped it undergo several major enhancements.
+Praveen has a masters in information engineering and worked in software engineering for over eight years. At DeepMind, he started scaling and applying AI to solve real-world problems.
+Praveen and his team partner with DeepMind researchers and Google product teams to use cutting-edge machine learning for improving Google products and systems.
+Our research

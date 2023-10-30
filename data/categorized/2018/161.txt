@@ -1,0 +1,20 @@
+old id = 3564
+13 Surprising Uses For Emotion Ai Technology
+2018
+https://www.gartner.com/smarterwithgartner/13-surprising-uses-for-emotion-ai-technology
+
+or call$bacContact$or call$bacContact$Insights/Tech and Service Providers/Article13 Surprising Uses For Emotion AI TechnologySeptember 11, 2018Contributor: Susan MooreCheck out these 13 ways emotion artificial intelligence helps companies improve customer experience and unlock cost savings.
+The concept ofemotional artificial intelligenceor ‘emotion AI’ conjures up visions of humanoid robots in customer service roles, such as the lifelike‘receptionist’ welcoming guests at a Tokyo hotel. A number of companies have added emotion recognition to their personal assistant robots so they too can have more humanlike interactions.
+But humanoid robotics is just one of many potential uses for emotion AI technology, saysAnnette Zimmermann, research vice president at Gartner.
+“By 2022, 10% ofpersonal devices will have emotion AI capabilities”Tech giants, as well as smaller startups, have been investing in emotion AI for over a decade, using either computer vision or voice analysis to recognize human emotions. Many of these companies started with a focus on market research, analyzing and capturing human emotions in response to a product or TV commercial. Commercial deployments are slowly emerging invirtual personal assistants(VPAs), cars, call centers, robotics and smart devices.
+Gartner predicts that by 2022, 10% ofpersonal devices will have emotion AI capabilities, either on-device or viacloud services, up from less than 1% in 2018.
+“We will continue to find many new and exciting uses for emotion AI technology over the coming year,” Zimmermann says. “However, smaller providers will need to focus their efforts on a limited number of applications and industries, instead of trying to be everything to everyone.”New uses are evolving quicklyIn the past two years, emotion AI vendors have moved into completely new areas and industries, helping organizations to create a better customer experience and unlock real cost savings. These uses include:However, barriers to adoption remain. A recent Gartner consumer survey revealed that there are still considerable trust issues around emotion AI technologies; that is, users feel less comfortable with emotion AI via camera capture compared to voice analysis.
+“Providers need to convince us that our emotion data is safeguarded and only used in an anonymized way to train other systems by implementing transparent data management policies,” cautions Zimmerman.
+Gartner Tech Growth & Innovation ConferenceJoin with the world's leading IT and business executives to get an update on accelerating growth in a new era of transformation and technology trends.
+Recommended resources for Gartner clients*:Competitive Landscape: Emotion AI Technologies, Worldwide, 2018byAnnette Zimmermann.
+*Note that some documents may not be available to all Gartner clients.
+Get Exclusive ContentLeadership Vision for High Tech LeadersGo-to-Market Strategy Primer for 2021IT Spending Forecast, 1Q22 Update: The Russian Invasion of UkraineLeadership Vision for High Tech LeadersSubscribe to the Latest InsightBy clicking the "Continue" button, you are agreeing to theGartner Terms of UseandPrivacy Policy.
+Subscribe for the Latest InsightBy clicking the "Subscribe" button, you are agreeing to theGartner Terms of UseandPrivacy Policy.
+Success!Error!Explore deep-dive content to help you stay informed and up to dateThe Top 10 Considerations for Product-led Growth SuccessTech Growth and Innovation Preview: Customer Centricity is the Key to GrowthEmerging Trends: Future of Security ServicesIT Spending Forecast, 1Q22 Update: The Russian Invasion of UkraineEmerging Technology Benchmark for High Tech LeadersThe Gartner Top Trends for Tech Providers in 2022The Top 10 Considerations for Product-led Growth SuccessDrive stronger performance on your mission-critical priorities.
+©2022 Gartner, Inc. and/or its affiliates. All rights reserved.
+©2022 Gartner, Inc. and/or its affiliates. All rights reserved.

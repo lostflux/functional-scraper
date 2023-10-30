@@ -1,0 +1,18 @@
+old id = 1143
+Mathematics for Machine Learning | Companion webpage to the book “Mathematics for Machine Learning”. Copyright 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Published by Cambridge University Press.
+2020
+https://mml-book.com
+
+Mathematics for Machine LearningCompanion webpage to the book "Mathematics for Machine Learning". Copyright 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Published by Cambridge University Press.
+View the Project on GitHubPlease link to this site usinghttps://mml-book.com.
+Twitter:@mpd37,@AnalogAldo,@ChengSoonOng.
+We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
+The book is available atpublished by Cambridge University Press(published April 2020).
+We split the book into two parts:We aimed to keep this book fairly short, so we don’t cover everything.
+We will keepPDFs of this book freely available.
+Table of ContentsPart I: Mathematical FoundationsPart II: Central Machine Learning ProblemsReport errata and feedback.
+Any issues you raise now may not make it into the printed version, but we will keep an updated PDF around (and the errata).
+DownloadsPDF of the bookThis version is the most up-to-date version of the book, i.e., we continue fixing typos etc.
+Instructor’s manual containing solutions to the exercises(can be requested from Cambridge University Press)Errata on overleafPDF of the printed bookThis version is equivalent (modulo formatting) with the printed version of the book. GitHub issues starting from 433 are not included in this version.
+Solutions to exercisesTutorialsExternal resourcesOther people have createdresourcesthat support the material in this book.
+Testimonies‘This book provides great coverage of all the basic mathematical concepts for machine learning. I’m looking forward to sharing it with students, colleagues, and anyone interested in building a solid understanding of the fundamentals.’ Joelle Pineau, McGill University and Facebook‘The field of machine learning has grown dramatically in recent years, with an increasingly impressive spectrum of successful applications. This comprehensive text covers the key mathematical concepts that underpin modern machine learning, with a focus on linear algebra, calculus, and probability theory. It will prove valuable both as a tutorial for newcomers to the field, and as a reference text for machine learning researchers and engineers.’ Christopher Bishop, Microsoft Research Cambridge‘This book provides a beautiful exposition of the mathematics underpinning modern machine learning. Highly recommended for anyone wanting a one-stop shop to acquire a deep understanding of machine learning foundations.’ Pieter Abbeel, University of California, Berkeley‘The book hits the right level of detail for me. Too many of the ML books have a “don’t worry your pretty head about this detail” mentality, or go the other way and overwhelm me with detail. Your book is comprehensive and has a sense of ease and expanse, but it feels like I can get to the application part quickly enough.’ Sriram SrinivasanHosted on GitHub Pages — Theme byorderedlist

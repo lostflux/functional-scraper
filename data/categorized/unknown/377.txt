@@ -1,0 +1,14 @@
+old id = 4142
+Hybrid Cloud | IBM Research
+unknown
+https://www.ibm.com/blogs/research/category/hybrid-cloud
+
+What’s Next in Hybrid Cloud isagility, securedWe’re driving open standards and open-source code to build a seamless hybrid cloud platform, weaving security, compliance, and reliability directly into the fabric of your hybrid cloud. We must increase agility while reducing risk through innovations across the entire stack.
+Our workOne year in, Konveyor community is bringing value to clients’ modernization journeysThe IBM Research innovations powering IBM z16Vibrations could flip the switch on future superconducting devicesIBM Research launches the first Discovery Accelerator in CanadaIBM’s CodeFlare significantly cuts the time to automate transfer learning tasks for foundation modelsSecuring AI systems with adversarial robustnessTools + codeKUIKui takes your normal kubectl command line requests and responds with graphics.
+FybrikA cloud native platform to unify data access, governance and orchestration, enabling business agility while securing enterprise data.
+Iter8SLO validation, A/B testing and progressive delivery on Kubernetes.
+HELayers – Community EditionSDKs for computing on encrypted data without decrypting it, provided via Docker container. Equipped with C++ and Python API’s and includes Jupyter Notebooks and VS Code IDEs with demonstrations, tutorials and documentation for AI/ML and encrypted search applications. Support for Linux, Intel, MacOS and s390x platforms.
+IBM launches the IBM Research Cloud Innovation LabThe IBM Research Cloud Innovation Lab brings together the expertise, skills and technologies of IBM Research to help clients and ecosystem partners advance state-of-the-art cloud technologies.
+Publication collectionsIEDM 202110IEEE International Electron Devices MeetingCCS 20216ACM Annual Conference on Computer and Communications SecurityCLOUD 202127IEEE International Conference on Cloud ComputingIBM Solution: Hybrid CloudHybrid cloud allows for the seamless integration of platforms, applications, and infrastructure built on public cloud, private cloud and on-prem.
+TeamsCollaborate with usThe IBM Research Cloud Innovation Lab brings together the expertise, skills and technologies of IBM Research to help clients and ecosystem partners advance state-of-the-art cloud technologies.
+Focus areasQuick linksWork with usDirectoriesFollow us

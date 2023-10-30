@@ -1,0 +1,68 @@
+old id = 192
+Ultrarapid Nanopore Genome Sequencing in a Critical Care Setting | NEJM
+2020
+https://doi.org/10.1056/NEJMc2112090
+
+Access provided byPrepare to become a physician, build your knowledge, lead a health care organization, and advance your career with NEJM Group information and services.
+Subscribe to the most trustedand influential source ofmedical knowledgeAlready a subscriber?ReneworSign inSubscribeor RenewSelected specialtiesView all specialtiesSelected TopicsView all topicsSelected MultimediaView all multimediaCurrent IssueRecent IssuesBrowse full issue indexRecently Published ArticlesBrowse recently publishedView all learning/CMEOther NEJM Group LearningSubscribeor RenewCorrespondenceUltrarapid Nanopore Genome Sequencing in a Critical Care SettingTo the Editor:Panel A shows the ultrarapid genome sequencing pipeline, indicating all processes from sample collection to a diagnosis. Vertically stacked processes are run in parallel. Panel B shows the performance of the pipeline on samples obtained from the 12 study patients in two phases. The run times of individual components are shown by colors that correspond to those in Panel A. The fastest run time was 7 hours 18 minutes (in Patient 11). Numbers in red indicate the 5 patients who received a genetic diagnosis (a positive finding).
+Rapid genetic diagnosis can guide clinical management, improve prognosis, and reduce costs in critically ill patients.
+1,2Although most critical care decisions must be made in hours, traditional testing requires weeks and rapid testing requires days. We have found that nanopore genome sequencing can accurately and rapidly provide genetic diagnoses. Our workflow combines streamlined preparation of commercial nanopore sequencing, distributed Cloud-based bioinformatics, and a custom variant-prioritization approach (Figure 1).
+3Between December 2020 and May 2021, at two hospitals in Stanford, California, we enrolled 12 patients who were generally representative of persons living in the United States with respect to race, ethnic group, and sex (Tables S1 and S2 in theSupplementary Appendix, available with the full text of this letter at NEJM.org). We obtained an initial genetic diagnosis in 5 of the patients (Table S3). The shortest time from arrival of the blood sample in the laboratory to the initial diagnosis was 7 hours 18 minutes.
+After establishing a diagnosis in Patient 1, we updated our bioinformatics framework to permit the transfer of terabytes of raw signal data to Cloud storage in real time and distributed the data across multiple Cloud computing machines to achieve near real-time base calling and alignment, a step that reduced the postsequencing run time (base calling through alignment) by 93%, from 7 hours 21 minutes to 34 minutes (the average of postsequencing run times for Patients 2 to 12) (Table S5).
+Flow cells were washed and reused until exhaustion to reduce the sequencing cost per sample. Libraries were bar-coded in Patients 1 through 7 to prevent carryover from one sample to the next. After processing the sample obtained from Patient 7, we benchmarked and adopted a bar-code–free method to rapidly generate genome sequences.
+3Removing the bar-coding process accelerated sample preparation by 37 minutes, to an average of 2.5 hours, and enabled us to load a greater amount of patients’ DNA into each flow cell (333 ng vs. 155 ng) and increase pore occupancy (to 82% from 64%) (Figs. S1 and S2 and Table S4). Our sequencing workflow generated 173 to 236 Gb of data per genome using 48 flow cells, with an alignment identity of 94% (Fig. S3) and 46 to 64× autosomal coverage (i.e., each base of each autosome was represented in 46 to 64 sequence reads) (Fig. S4). Half the sequencing throughput was in reads that were 25 kb or longer (Table S6).
+Small variants and structural variants were called after the reads were aligned to the GRCh37 human reference genome, which generated a median of 4,490,490 single-nucleotide variants and small insertions and deletions (indels).
+4,5Custom filtration and prioritization of variants with an ultrarapid scoring system (Fig. S5) substantially decreased the number of candidate variants for manual review to a median of 29 (range, 16 to 53) for small variants and 22 (range, 11 to 37) for structural variants (Table S2).
+Each initial diagnosis was immediately reviewed by study and bedside physicians, and a consensus was reached as to whether the proposed variant represented the primary cause of the patient’s presentation. Diagnostic variants were identified in 5 of the 12 patients, who ranged in age from 3 months to 57 years. The findings were immediately confirmed by a laboratory certified by the Clinical Laboratory Improvement Amendments (CLIA) process and informed clinical management (including sympathectomy, heart transplantation, screening, and changes in medication) for each of the 5 patients or their family members.
+In one patient, a 3-month-old full-term infant who presented in status epilepticus, seizure semiology included right gaze deviation with bilateral upper-extremity clonic jerking and perioral myoclonic twitching. Interictal electroencephalography revealed abundant predominantly posterior multifocal sharp waves. Magnetic resonance imaging of the brain revealed no abnormalities. Eight hours 25 minutes after enrollment, we identified a likely pathogenic heterozygous variant inCSNK2B(a variant and gene known to cause a neurodevelopmental disorder with early-onset epilepsy) and made a definitive diagnosis ofCSNK2B-related disorder, or Poirier–Bienvenu neurodevelopmental syndrome. This result halted further planned diagnostic testing, facilitated disease-specific counseling and prognostication, and aided in management of epilepsy by providing insight about reported seizure types and treatment response to common antiseizure medications. At the time of presentation, an epilepsy gene panel (which did not includeCSNK2B) had been ordered, and results that were received 2 weeks later showed only multiple nondiagnostic variants of uncertain significance.
+John E. Gorzynski, D.V.M., Ph.D.
+Sneha D. Goenka, M.Tech.
+Stanford University, Stanford, CAKishwar Shafin, B.S.
+University of California at Santa Cruz Genomics Institute, Santa Cruz, CATanner D. Jensen, B.S.
+Stanford University, Stanford, CADianna G. Fisk, Ph.D.
+Megan E. Grove, M.S.
+Stanford Health Care, Palo Alto, CAElizabeth Spiteri, Ph.D.
+Stanford University, Stanford, CATrevor Pesout, B.S.
+Jean Monlong, Ph.D.
+University of California at Santa Cruz Genomics Institute, Santa Cruz, CAGunjan Baid, M.S.
+Google, Mountain View, CAJonathan A. Bernstein, M.D., Ph.D.
+Scott Ceresnak, M.D.
+Stanford University, Stanford, CAPi-Chuan Chang, Ph.D.
+Google, Mountain View, CAJeffrey W. Christle, Ph.D.
+Henry Chubb, M.B., B.S., Ph.D.
+Karen P. Dalton, B.S.
+Stanford University, Stanford, CAKyla Dunn, M.S.
+Stanford Children’s Health, Palo Alto, CADaniel R. Garalde, Ph.D.
+Joseph Guillory, M.S.
+Oxford Nanopore Technologies, Oxford, United KingdomJoshua W. Knowles, M.D., Ph.D.
+Stanford University, Stanford, CAAlexey Kolesnikov, M.S.
+Google, Mountain View, CAMichael Ma, M.D.
+Stanford University, Stanford, CATia Moscarello, M.S.
+Stanford Health Care, Palo Alto, CAMaria Nattestad, Ph.D.
+Google, Mountain View, CAMarco Perez, M.D.
+Maura R.Z. Ruzhnikov, M.D.
+Stanford University, Stanford, CAMehrzad Samadi, Ph.D.
+Ankit Setia, Ph.D.
+Nvidia, Santa Clara, CAChris Wright, D.Phil.
+Oxford Nanopore Technologies, Oxford, United KingdomCourtney J. Wusthoff, M.D.
+Katherine Xiong, M.D.
+Stanford University, Stanford, CATong Zhu, M.S.
+Nvidia, Santa Clara, CAMiten Jain, Ph.D.
+University of California at Santa Cruz Genomics Institute, Santa Cruz, CAFritz J. Sedlazeck, Ph.D.
+Baylor College of Medicine, Houston, TXAndrew Carroll, Ph.D.
+Google, Mountain View, CABenedict Paten, Ph.D.
+University of California at Santa Cruz Genomics Institute, Santa Cruz, CAEuan A. Ashley, M.B., Ch.B., D.Phil.
+Stanford University, Stanford, CA[email protected]Supported by in-kind contributions from Oxford Nanopore, Google, Nvidia, Stanford University, and University California Santa Cruz Genomics Institute.
+Disclosure formsprovided by the authors are available with the full text of this letter at NEJM.org.
+This letter was published on January 12, 2022, at NEJM.org.
+1.
+Dimmock D,Caylor S,Waldman B, et al. Project Baby Bear: rapid precision care incorporating rWGS in 5 California children’s hospitals demonstrates improved clinical outcomes and reduced costs of care. Am J Hum Genet2021;108:1231-1238.
+2.
+Priest JR,Ceresnak SR,Dewey FE, et al. Molecular diagnosis of long QT syndrome at 10 days of life by rapid whole genome sequencing. Heart Rhythm2014;11:1707-1713.
+3.
+Goenka SD,Gorzynski JE,Shafin K, et al. Rapid distributed nanopore sequencing and clinical analysis of human whole genomes. Nat Biotechnol (in press).
+4.
+Shafin K,Pesout T,Chang P-C, et al. Haplotype-aware variant calling with PEPPER-Margin-DeepVariant enables high accuracy in nanopore long-reads. Nat Methods2021;18:1322-1322.
+5.
+Sedlazeck FJ,Rescheneder P,Smolka M, et al. Accurate detection of complex structural variations using single-molecule sequencing. Nat Methods2018;15:461-468.
+Supplementary MaterialCiting Article(1)Close Citing ArticlesFebruary 17, 2022N Engl J Med 2022; 386:700-702DOI: 10.1056/NEJMc2112090MetricsMost ViewedMore fromthe week ofFebruary 17, 2022Tap into groundbreaking research and clinically relevant insightsAlready a subscriber?Sign InorRenewBack to topArticle CategoriesResourcesAbout UsSubscriptionsStay ConnectedFollow UsJOURNALS

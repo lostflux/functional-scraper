@@ -1,0 +1,51 @@
+old id = 2425
+Natural Language Inference BERT simplified in Pytorch
+2018
+https://www.analyticsvidhya.com/blog/2021/05/bert-for-natural-language-inference-simplified-in-pytorch
+
+BERT for Natural Language Inference simplified in Pytorch!This article was published as a part of theData Science BlogathonIntroduction to BERT:BERT stands for Bidirectional Encoder Representations from Transformers. It was introduced in 2018 by Google Researchers. BERT achieved state-of-art performance in most of the NLP tasks at that time and drawn the attention of the data science community worldwide.
+It is extensively used today by data science practitioners for various NLP tasks. Details about the working of the BERT model can be foundhere.
+Introduction to Natural Language Inference:Natural Language Inference is a task in NLP where we are given two sentences namely premise and hypothesis. We have to predict whether the hypothesis given is True, False or not related with respect to Premise. We call it entailment for True, contradiction for False and neutral for undetermined or not related. Also, We can understand it with the following examples:In this article, we are going to use BERT for Natural Language Inference (NLI) task using Pytorch in Python. The working principle of BERT is based on pretraining using unsupervised data and then fine-tuning the pre-trained weight on task-specific supervised data. BERT is based on deep bidirectional representation and is difficult to pre-train, takes lots of time and requires huge computational resources.
+Two model sizes are available for BERT where BERT-base has around 110M parameters and BERT-large has 340M parameters. Pre-trained weights can be easily downloaded using the transformers library. Here, we are going to download these pre-trained weights and then we will fine-tune these weights for the NLI task using the SNLI dataset.
+Let’s start with implementation and we can get further details in their specific sections.
+Setting up of training environmentWe are going to use GPU for training our model (Code will run without GPU too but that will take lots of time). We will use NVIDIA’s open-source “apex.amp” tool for automatic mixed-precision training.
+This feature enables automatic conversion of certain GPU operations from precision to mixed-precision, thus improving performance while maintaining accuracy. Comment out if this is already installed in your system.
+Let’s begin our BERT implementationLet’s start with importing torch and setting seed value.
+We are going to use a pre-trained BERTbasemodel for our task. This model has been trained using specific vocabulary. We need to use the same vocabulary and token-index mapping here also in order to let the model understand our inputs.
+The vocabulary, as well as token-index mapping, can be downloaded using BertTokenizer from the transformers library. BERT uses WordPiece vocabulary with a vocab size of around 30,000.
+Look at an example to see the working of the BERT tokenizer.
+output:Tokens can be easily converted to index using a BERT tokenizer.
+output:[4931, 2100, 2045, 999, 999, 2156, 2070, 3337, 2024, 2652, 1999, 4542]We also need to give input to the BERT in the same format in which BERT has been pre-trained. BERT uses two special tokens denoted as [CLS] and [SEP]. [CLS] token is used as the first token in the input sequence and [SEP] denotes the end of a sentence.
+BERT takes all the inputs as a single sequence. If we need to provide more than one input as in our case where our input will be premise and hypothesis, [SEP] token helps the model to understand input properly. Let’s understand the input format with the help of an example.
+So, here our input to the model will be in the format given above. The pad as well as the unknown token should also match with the BERT tokenizer. We can get these tokens as well as the index corresponding to these tokens from the tokenizer.
+Output:[CLS] [SEP] [PAD] [UNK]Output:101 102 0 100We will now define some functions for tokenizing as well as trimming the sentence if the token length is greater than the maximum defined length. We are restricting the maximum input length to 256 and the maximum length of each sentence at 128.
+Download and Prepare datasetsWe are going to use SNLI datasets. The datasets can be downloaded and opened directly using the following command.
+Now, we need to prepare all the inputs for the BERT using our datasets. We need to provide three inputs to the BERT namely tokens index, attention mask and token type ids. Tokens index is our main input containing indexes of the sequence tokens.
+Attention mask helps the model to know the useful tokens and padding that is done during batch preparation. Attention mask is basically a sequence of 1’s with the same length as input tokens.
+Lastly, Token type ids help the model to know which token belongs to which sentence. For tokens of the first sentence in input, token type ids contain 0 and for second sentence tokens, it contains 1. Let’s understand this with the help of our previous example. Out input tokens will be like this:Define helper functions for data preparation.
+Let’s prepare our input from our data. We are going to use just 80,000 training data and 8000 each for validation and testing. Using whole data would require more training time.
+We are going to use torchtext Field and TabularDataset for loading our datasets as PyTorch tensor and then we will use BucketIterator for creating batches. Torchtext’s inbuilt features make it very easy to load our dataset for training and testing. We will be using batches of batch size 16 as larger batch size will result in GPU memory overflow. Reduce the batch size to 8 if a memory error is taking place.
+Fields will help to map the column with the torchtext Field.
+For sequence, we are using BERT vocabulary but for the label, we need to build vocabulary.
+BucketIterator helps in the easy preparation of batches for training.
+We will start with downloading pre-trained BERT.
+We are going to use the BERT architecture only with the addition of just one linear layer for the output prediction. The last hidden layer corresponding to [CLS] token will be fed into the output layer of size num_classes that is three here.
+Load model.
+Our model has almost 110M parameters.
+Let’s define the loss function and optimizer for our model.
+Training of our modelFinally, we will train our model. Train() will be executed for each epoch to train the model and evaluate() will give validation loss and accuracy. Epoch num is set as 6 although we will get good accuracy from the first epoch itself as we are using pre-trained weights.
+To calculate accuracy.
+Define train() function.
+Define evaluate() function.
+To compute epoch time.
+Training steps.
+Load best model weights and evaluate on test data.
+Output: Test Loss: 0.074 | Test Acc: 98.02%Model PerformanceLet’s see the performance of the model on our custom input.
+Custom Examples:Output:‘contradiction’From the custom examples, we can see that our model is able to correctly predict outcome in most cases.
+Get the full Jupyter notebook fromhere.
+Reference:About the Author:I am Raman Kumar, currently in the final year of my college. I am enthusiastic about deep learning especially Natural Language Processing. You can find me onLinkedIn.
+The media shown in this article are not owned by Analytics Vidhya and is used at the Author’s discretion.
+RelatedTable of contentsAbout the AuthorRaman KumarOur Top AuthorsDownloadAnalytics Vidhya App for the Latest blog/ArticleLeave a ReplyYour email address will not be published. Required fields are marked *Notify me of follow-up comments by email.
+Notify me of new posts by email.
+Δdocument.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );Top ResourcesPython Tutorial: Working with CSV file for Data ScienceUnderstanding Random ForestCommonly used Machine Learning Algorithms (with Python and R Codes)An Introduction to SQL Commands for Beginners×Download AppAnalytics VidhyaData ScientistsCompaniesVisit us© Copyright 2013-2022 Analytics Vidhya.
+Privacy OverviewIndia’s Largest Data Science Hiring Event
