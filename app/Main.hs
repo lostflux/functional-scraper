@@ -32,22 +32,22 @@ main = do
 
 -- | The number of matches we need to approve a page.
 matchCount :: Int
-matchCount = 5
+matchCount = 1
 
 seedURLs :: [Link]
 seedURLs = [
-  -- "https://github.com/siavava"
-    "https://www.technologyreview.com"
-  , "https://www.deepmind.com"
-  , "https://singularityhub.com"
-  , "https://www.wired.com"
-  , "https://www.vox.com"
-  , "https://www.theverge.com"
-  , "https://www.theguardian.com"
-  , "https://www.theatlantic.com"
-  , "https://www.washingtonpost.com"
-  , "https://www.techcrunch.com"
-    -- "https://singularityhub.com/2022/04/20/gm-just-patented-a-self-driving-car-that-teaches-people-to-drive"
+  --   "https://www.technologyreview.com"
+  -- , "https://www.deepmind.com"
+  -- , "https://singularityhub.com"
+  -- , "https://www.wired.com"
+  -- , "https://www.vox.com"
+  -- , "https://www.theverge.com"
+  -- , "https://www.theguardian.com"
+  -- , "https://www.theatlantic.com"
+  -- , "https://www.washingtonpost.com"
+  -- , "https://www.techcrunch.com"
+    -- ,  "https://www.nytimes.com"
+      "https://amittai.studio"
   ]
 
 
@@ -56,24 +56,36 @@ crawl = do
   let docID = 0
   let allWords = EmptyTrie
   let allLinks = []
-  !prevPages <- filter (not . null) <$!> lines <$!> readFile "data/metadata/urls"
-  let !urls = prevPages ++ seedURLs
+  -- !prevPages <- filter (not . null) <$!> lines <$!> readFile "data/metadata/urls"
+  let !urls = seedURLs -- prevPages ++ seedURLs
   let !seenURLs = Set.fromList urls
+
+  -- launch the crawl.
   iter urls seenURLs docID allWords
 
+-- | The main loop.
 iter :: [Link] -> Links -> Int -> Trie -> IO ()
-iter queue seenURLs docID allWords = do
-  when (null queue || docID >= limit) $! do
-    let dir = "data/metadata"
-    writeFile (printf "%s/all" dir) $! show allWords
-    printf "Seen %d unique URLs.\n" (Set.size seenURLs + length queue)
-    printf "THE END"
-    exitSuccess
+iter [] seenURLs docID allWords = do
+  let dir = "data/metadata"
+  writeFile (printf "%s/urls" dir) $! unlines $! Set.toList seenURLs
+  writeFile (printf "%s/all" dir) $! show allWords
+  printf "Seen %d unique URLs.\n" (Set.size seenURLs)
+  printf "THE END"
+  exitSuccess
 
-  let !(url, rest) = (head &&& tail) queue
-  -- if Set.member url seenURLs then do
-  --   printf "%sIgnDupl:  %s%s\n" yellow url reset
-  --   iter rest seenURLs docID allWords
+iter queue@(url:rest) seenURLs docID allWords = do
+  -- when (null queue || docID >= limit) $! do
+  --   let dir = "data/metadata"
+  --   writeFile (printf "%s/all" dir) $! show allWords
+  --   printf "Seen %d unique URLs.\n" (Set.size seenURLs + length queue)
+  --   printf "THE END"
+  --   exitSuccess
+
+  -- let !(url, rest) = (head &&& tail) queue
+  -- if Set.member url seenURLs
+  --   then do
+  --     printf "%sIgnDupl:  %s%s\n" yellow url reset
+  --     iter rest seenURLs docID allWords
   -- else do
   printf "%sFetch:      %s%s\n" green url reset
   !page <- Parser.loadPage url

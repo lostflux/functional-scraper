@@ -104,23 +104,25 @@ rootTrie = Trie '\0' [] 0
 -- Returns a new Trie with the modification --
 -- perhaps manage that new instance.
 insert :: String -> Trie -> Trie
-insert str EmptyTrie = makeRootTrie str
-insert str trie
+insert str EmptyTrie  = makeRootTrie str
+insert [] trie        = trie
+insert str@(a:as) trie
   | null str = trie
   | isRoot trie = trie { children = iter (children trie) str }
-  | value trie == head str =
+  | value trie == a =
     if null (children trie)
       then trie { frequency = frequency trie + 1 }
-      else trie { children = iter (children trie) (tail str) }
+      else trie { children = iter (children trie) (drop 1 str) }
   | otherwise = error "Incompatible word."
     where
       iter :: [Trie] -> String -> [Trie]
       iter tries [] = tries
       iter [] str = [makeTrie str]
-      iter [t] str
-        | value t == head str = [insert str t]
-        | value t < head str = [t, makeTrie str]
+      iter [t] str@(c:cs)
+        | value t == c = [insert str t]
+        | value t < c = [t, makeTrie str]
         | otherwise = [makeTrie str, t]
+        
       iter tries@(t1:t2:ts) chars@(c:cs)
         | value t1 > c = makeTrie chars : tries
         | value t1 == c = insert chars t1 : (t2:ts)

@@ -81,8 +81,22 @@ targets = [
     , "mind"
     , "language"
     , "processing"
+    , "computer"
     , "vision"
-    , "ai"
+  ]
+
+domains :: [String]
+domains = [
+      "technologyreview.com"
+    , "deepmind.com"
+    , "singularityhub.com"
+    , "wired.com"
+    , "vox.com"
+    , "theverge.com"
+    , "theguardian.com"
+    , "theatlantic.com"
+    , "washingtonpost.com"
+    , "techcrunch.com"
   ]
 
 
@@ -130,7 +144,7 @@ getWords doc = do
       <+> hasName "h1" <+> hasName "h2"
       <+> hasName "h3" <+> hasName "h4"
       <+> hasName "h5" <+> hasName "h6"
-      -- <+> hasName "li" <+> hasName "span"
+      <+> hasName "li" <+> hasName "span"
     ) //> (isText >>> getText)
     >>> arr words
     -- >>> arr (filter checkDict)
@@ -195,7 +209,13 @@ getLinks url doc = do
           | last arr == '.' = init arr
           | otherwise = dropEnding $! init arr
 
+        -- | Check if string has a valid domain
         dropBadDomains :: String -> String
+        -- dropBadDomains url
+        --   | any (`isInfixOf` url) domains = url
+        --   -- | any (`isPrefixOf` url) domains = url
+        --   -- | any (`isSuffixOf` url) domains = url
+        --   | otherwise                     = ""
         dropBadDomains url
           | "?" `isInfixOf` url = ""
           | "youtube.com" `isInfixOf` url || "youtu.be" `isInfixOf` url = ""
@@ -252,5 +272,6 @@ fix (x:y:xs)
   | otherwise     = x : fix (y:xs)
 fix (x:xs)
   | null x        = fix xs
-  | last x /= '.' = if null xs then [x] else [x ++ head xs]
+  -- | last x /= '.' = if null xs then [x] else [x ++ head xs]
+  | last x /= '.' = x : fix xs
   | otherwise     = x : xs
