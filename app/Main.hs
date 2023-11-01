@@ -9,12 +9,13 @@ import Data.List     (foldl', isPrefixOf)
 import Data.Set      (Set, (\\))
 import Data.Set      qualified as Set
 import GHC.IO.Unsafe (unsafePerformIO)
-import MyData.Parser (Link, Links, WebPage (..), isValid, targets)
+import MyData.Parser (Link, Links, WebPage (..), isValid, config)
 import MyData.Parser qualified as Parser
 import MyData.Trie   (Trie (..), (<|>))
 import MyData.Trie   qualified as Trie
 import System.Exit   (exitSuccess)
 import Text.Printf   (printf)
+import Data.Foldable ( Foldable(foldl'), for_ ) 
 
 
 -- | Set to true to log debug info.
@@ -22,7 +23,7 @@ debug :: Bool
 debug = False
 
 limit :: Int
-limit = 5000
+limit = Parser.limit config
 
 main :: IO ()
 main = do
@@ -32,23 +33,10 @@ main = do
 
 -- | The number of matches we need to approve a page.
 matchCount :: Int
-matchCount = 1
+matchCount = Parser.wordcount config
 
 seedURLs :: [Link]
-seedURLs = [
-  --   "https://www.technologyreview.com"
-  -- , "https://www.deepmind.com"
-  -- , "https://singularityhub.com"
-  -- , "https://www.wired.com"
-  -- , "https://www.vox.com"
-  -- , "https://www.theverge.com"
-  -- , "https://www.theguardian.com"
-  -- , "https://www.theatlantic.com"
-  -- , "https://www.washingtonpost.com"
-  -- , "https://www.techcrunch.com"
-    -- ,  "https://www.nytimes.com"
-      "https://amittai.studio"
-  ]
+seedURLs = Parser.domains config
 
 
 crawl :: IO ()
@@ -74,13 +62,6 @@ iter [] seenURLs docID allWords = do
   exitSuccess
 
 iter queue@(url:rest) seenURLs docID allWords = do
-  -- when (null queue || docID >= limit) $! do
-  --   let dir = "data/metadata"
-  --   writeFile (printf "%s/all" dir) $! show allWords
-  --   printf "Seen %d unique URLs.\n" (Set.size seenURLs + length queue)
-  --   printf "THE END"
-  --   exitSuccess
-
   -- let !(url, rest) = (head &&& tail) queue
   -- if Set.member url seenURLs
   --   then do
@@ -94,9 +75,10 @@ iter queue@(url:rest) seenURLs docID allWords = do
     let !asList = Set.toList (links page \\ seenURLs)
     let !s = foldl' (flip Set.insert) seenURLs asList
     let !q = rest ++ asList
+    let status = hasKeyWords page
     when debug $ printf "\n\t\tqueue length : %d\n\t\tseen urls: %d\n\n" (length q) (Set.size seenURLs)
-    if hasKeyWords page then do
-      printf "%sHit  %5d: %s%s\n" blue docID url reset
+    if fst status then do
+      printf "%sHit  %5d (%5d): %s%s\n" blue docID (snd status) url reset
       logR docID url page
       iter q s (docID + 1) words
     else iter q s docID words
@@ -111,14 +93,14 @@ advance q s docID words allLinks
   | otherwise = iter q s docID words
 
 -- | Does the page have any of the specified set of keywords?
-hasKeyWords :: WebPage -> Bool
+hasKeyWords :: WebPage -> (Bool, Int)
 hasKeyWords page =
-  check targets $! text page
+  check (Parser.targets config) $! text page
     where
-      check :: [String] -> Trie -> Bool
-      check [] _        = True
-      check _ EmptyTrie = False
-      check words trie = count >= matchCount
+      check :: [String] -> Trie -> (Bool, Int)
+      check [] _        = (True, 0)
+      check _ EmptyTrie = (False, 0)
+      check words trie = (count >= matchCount, count)
         where
           !count = foldl' (\acc x -> if Trie.lookup x trie then acc + 1 else acc) 0 words
 

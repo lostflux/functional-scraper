@@ -1,6 +1,6 @@
 cabal-version:      3.6
-name:               zeta
-version:            0.1.0.0
+name:               scraper
+version:            0.2.0.0
 
 -- A short (one-line) description of the package.
 synopsis: Zeta bc we love the Greek alphabet.
@@ -25,9 +25,9 @@ library MyData
   hs-source-dirs: src
   default-language: Haskell2010
   exposed-modules:
-    MyData,
-    MyData.Trie,
-    MyData.Parser
+      MyData
+    , MyData.Parser
+    , MyData.Trie
   build-depends:
     base >= 4.8,
     bytestring >= 0.11.1,
@@ -39,29 +39,10 @@ library MyData
     containers,
     http-client,
     deepseq,
-    parallel
+    parallel,
+    yaml
 
-library MyData.Trie
-  hs-source-dirs: src
-  default-language: Haskell2010
-  exposed-modules:
-    MyData,
-    MyData.Trie,
-    MyData.Parser
-  build-depends:
-    base >= 4.8,
-    bytestring >= 0.11.1,
-    text >= 1.2.1,
-    HTTP,
-    hxt,
-    http-conduit >= 2.3.8,
-    utf8-string >= 1.0.2,
-    containers,
-    http-client,
-    deepseq,
-    parallel
-
-executable zeta
+executable scraper
   main-is:          Main.hs
 
   -- Modules included in this executable, other than Main.
@@ -82,7 +63,9 @@ executable zeta
     random,
     array,
     deepseq,
-    parallel
+    parallel,
+    yaml,
+    aeson
 
   hs-source-dirs:   app, src
   default-language: Haskell2010

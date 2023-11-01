@@ -1,0 +1,51 @@
+
+targets:
+  - machine
+  - deep
+  - reinforcement
+  - learning
+  - artificial
+  - intelligence
+  - ai
+  - computer
+  - vision
+  - chatgpt
+  - openai
+  - deepfake
+  - epoch
+  - explainable
+  - lstm
+  - transfer
+  - pytorch
+  - tensor
+  - tensorflow
+  - jax
+  - cnn
+  - rnn
+  - robotics
+  - accuracy
+  - overfitting
+  - ensemble
+  - data
+  - cognitive
+  - computing
+  - chatbot
+  - backpropagation
+  - gradient
+  - descent
+  - clustering
+
+domains:
+  - https://www.technologyreview.com
+  - https://www.deepmind.com
+  - https://www.singularityhub.com
+  - https://www.wired.com
+  - https://www.vox.com
+  - https://www.theverge.com
+  - https://www.theguardian.com
+  - https://www.theatlantic.com
+  - https://www.washingtonpost.com
+  - https://www.techcrunch.com
+
+limit: 5000
+wordcount: 5

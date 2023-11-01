@@ -1,13 +1,16 @@
 {-# LANGUAGE ImportQualifiedPost #-}
 {-# LANGUAGE BangPatterns #-}
+{-# LANGUAGE DeriveAnyClass #-}
+{-# LANGUAGE DeriveGeneric #-}
 
 module MyData.Parser (
     loadPage
   , WebPage(..)
+  , Config(..)
   , Link
   , Links
   , isValid
-  , targets
+  , config
 ) where
 
 import Control.Arrow                  (arr, (<+>))
@@ -16,16 +19,24 @@ import Control.Exception              (try)
 import Data.ByteString.Lazy           (ByteString)
 import Data.ByteString.Lazy           qualified as ByteString
 import Data.ByteString.Lazy.UTF8      qualified as ByteString
+import Data.ByteString                qualified as B
+import Data.Yaml                      qualified as YAML
 import Data.Char                      (isDigit, isSpace)
 import Data.List                      (dropWhileEnd, isInfixOf, isPrefixOf,
                                        isSuffixOf, foldl')
+import Data.Aeson ( FromJSON )
+import GHC.Generics                   (Generic)
+import System.IO.Unsafe ( unsafePerformIO )
+import Data.Foldable                  ( Foldable(foldl'), for_ )
+
+-- import fromMaybe
+import Data.Maybe                     (fromMaybe)
 import Data.Set                       (Set)
 import Data.Set                       qualified as Set
 import MyData.Trie                    (Trie (..), clean, insert, loadFile,
                                        makeRootTrie, (>|<))
 import MyData.Trie                    qualified as Trie
 import Network.HTTP.Conduit           (HttpException, simpleHttp)
-import System.IO.Unsafe               (unsafePerformIO)
 import Text.Printf                    (printf)
 import Text.XML.HXT.Arrow.XmlState    (XIOState)
 import Text.XML.HXT.Core              (ArrowTree (deep, multi, (//>)),
@@ -59,52 +70,32 @@ isValid _         = True
 type Link = String
 type Links = Set Link
 
--- | Keywords to search for.
---
--- Add keywords here.
-targets :: [String]
-targets = [
-      "machine"
-    , "machines"
-    , "learning"
-    , "deep"
-    , "artificial"
-    , "intelligence"
-    , "neural"
-    , "network"
-    , "thinking"
-    , "reinforcement"
-    , "ai"
-    , "recommender"
-    , "system"
-    , "systems"
-    , "mind"
-    , "language"
-    , "processing"
-    , "computer"
-    , "vision"
-  ]
+data Config = Config {
+    targets :: [String]
+  , domains :: [String]
+  , limit   :: Int
+  , wordcount :: Int
+} deriving (Generic, FromJSON)
 
-domains :: [String]
-domains = [
-      "technologyreview.com"
-    , "deepmind.com"
-    , "singularityhub.com"
-    , "wired.com"
-    , "vox.com"
-    , "theverge.com"
-    , "theguardian.com"
-    , "theatlantic.com"
-    , "washingtonpost.com"
-    , "techcrunch.com"
-  ]
 
+instance Show Config where
+  show (Config t d l w) = printf "CONFIG %5d, %5d\n\ttargets\n\t\t%s\n\ndomains\n\t\t%s\n" l w (foldl' (\x acc -> acc ++ "\n\t\t" ++ x) "" t) (foldl' (\x acc -> acc ++ "\n\t\t" ++ x) "" d)
+
+
+{-# NOINLINE config #-}
+config :: Config
+config = unsafePerformIO $ do
+  raw <- B.readFile "config.yml"
+  let raw' = YAML.decodeThrow raw :: Maybe Config
+  let config = fromMaybe (Config [] [] 0 0) raw'
+  printf "CONFIG:\n %s\n" (show config)
+  return config
 
 {-# NOINLINE dictionary #-}
 dictionary :: Trie
 dictionary =
   let !dict = unsafePerformIO $! loadFile "data/metadata/dictionary"
-  in foldl' (flip Trie.insert) dict targets
+  in foldl' (flip Trie.insert) dict $ targets config
 
 checkDict :: String -> Bool
 checkDict word = Trie.lookup word dictionary
@@ -140,24 +131,27 @@ getTitle doc = do
 getWords :: IOSLA (XIOState ()) XmlTree (NTree XNode) -> IO (Trie, String)
 getWords doc = do
   text <- runX $! doc
-    //> ( hasName "p"
-      <+> hasName "h1" <+> hasName "h2"
+    //> ( hasName "p" <+> hasName "h1" <+> hasName "h2"
       <+> hasName "h3" <+> hasName "h4"
       <+> hasName "h5" <+> hasName "h6"
       <+> hasName "li" <+> hasName "span"
-    ) //> (isText >>> getText)
+      <+> hasName "td" <+> hasName "th"
+      -- <+> hasName "div"
+    ) //> deep (isText >>> getText)
     >>> arr words
     -- >>> arr (filter checkDict)
   let !trie = foldl' (foldr insert) EmptyTrie $!
         map (filter (\x -> checkDict x && not ("author" `isInfixOf` x || "http" `isInfixOf` x)) . map clean) text
-  let !raw = unlines $! fix $! map unwords text
+  -- let !raw = unlines $! fix $! map unwords text
+  let !raw = unlines $ fix $! map unwords text
+  -- let !raw = unlines $! map unwords text
   return (trie, raw)
   -- ! review the change here!! How does it affect functionality?
 
 getYear :: IOSLA (XIOState ()) XmlTree (NTree XNode) -> IO String
 getYear doc = do
   yrs <- runX $! doc
-    //> hasName "p"
+    //> (hasName "p" <+> hasName "div")
     //> getText
     >>> arr checkYear
   let !lastYear = dropYear "" $! filter (not . null) yrs
@@ -166,7 +160,7 @@ getYear doc = do
   return lastYear
 
 years :: [String]
-years = map show [1000..2022]
+years = map show [1900..2023]
 
 checkYear :: String -> String
 checkYear str = iter $! words str
@@ -211,11 +205,6 @@ getLinks url doc = do
 
         -- | Check if string has a valid domain
         dropBadDomains :: String -> String
-        -- dropBadDomains url
-        --   | any (`isInfixOf` url) domains = url
-        --   -- | any (`isPrefixOf` url) domains = url
-        --   -- | any (`isSuffixOf` url) domains = url
-        --   | otherwise                     = ""
         dropBadDomains url
           | "?" `isInfixOf` url = ""
           | "youtube.com" `isInfixOf` url || "youtu.be" `isInfixOf` url = ""
@@ -266,12 +255,20 @@ getFirst (x:_) = x
 
 fix :: [String] -> [String]
 fix [] = []
+fix [x] = [x]
 fix (x:y:xs)
   | null x        = fix (y:xs)
-  | last x /= '.' = fix $! (x ++ y) : xs 
-  | otherwise     = x : fix (y:xs)
-fix (x:xs)
-  | null x        = fix xs
-  -- | last x /= '.' = if null xs then [x] else [x ++ head xs]
-  | last x /= '.' = x : fix xs
-  | otherwise     = x : xs
+  | null y        = fix (x:xs)
+  | "." `isPrefixOf` y = fix $! (x ++ [head y]) : (tail y:xs)
+  | "." `isSuffixOf` x = x : fix (y:xs)
+  | not ("." `isSuffixOf` x) = fix $! (x ++ " " ++ y) : xs
+  -- | head y == '.' = fix $! (x ++ y) : xs
+  | otherwise     = fix $! (x ++ " " ++ y) : xs
+-- fix (x:xs)
+--   | null x        = fix xs
+--   -- | last x /= '.' = if null xs then [x] else [x ++ head xs]
+--   | last x /= '.' = x : fix xs
+--   | otherwise     = x : xs
+
+-- fix :: [String] -> [String]
+-- fix = concatWith (\x y -> if null x then y else x ++ " " ++ y)
