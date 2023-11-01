@@ -1,13 +1,0 @@
-old id = 1771
-Artificial Intelligence | IBM Research
-unknown
-https://www.ibm.com/blogs/research/category/ai
-
-What’s Next in AIisfluid intelligenceToday’s AI is narrow. Applying trained models to new challenges requires an immense amount of new data training, and time. We need AI that combines different forms of knowledge, unpacks causal relationships, and learns new things on its own.
-Our workWhat are foundation models?How to use AI to discover new drugs and materials with limited dataThe IBM Research innovations powering IBM z16What is human-centered AI?Open-sourcing analog AI simulationIBM scientists give artificial neural networks a new look for neuromorphic computingTools + codeIBM Analog Hardware Acceleration KitAn open source Python toolkit for exploring and using the capabilities of in-memory computing devices in the context of artificial intelligence.
-Project Debater for Academic UseThe technologies underlying Project Debater available as cloud services. Includes core natural language understanding capabilities, argument mining, and narrative generation.
-AI FactSheets 360Toolkit to create factsheets outlining the details about how an AI service operates, how it was trained and tested, its performance metrics, fairness and robustness checks, intended uses, maintenance, and other critical details.
-GT4SDAn open-source library to accelerate hypothesis generation in the scientific discovery process.
-MIT-IBM Watson AI LabWe’re partnering with the sharpest minds at MIT to advance AI research in areas like healthcare, security,  and finance.
-Publication collectionsICLR 202231International Conference on Learning RepresentationsAAAI 202241AAAI Conference on Artificial IntelligenceNeurIPS 202191Annual Conference on Neural Information Processing SystemsINFORMS 202138INFORMS Annual MeetingTeamsCollaborate with usWith over 3,000 researchers across the globe, IBM Research has a long pedigree of turning fundamental research into world-altering technology. Learn more about the ways that we collaborate with businesses and organizations across the globe to help solve their most pressing needs faster.
-Focus areasQuick linksWork with usDirectoriesFollow us

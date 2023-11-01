@@ -1,313 +1,42 @@
-old id = 2734
-The contribution of the gut microbiome to neurodevelopment and neuropsychiatric disorders | Pediatric Research
+old id = 1423
+Hello quantum world! Google publishes landmark quantum supremacy claim
 2019
-https://www.nature.com/articles/s41390-018-0191-9
+https://www.nature.com/articles/d41586-019-03213-z/nature/journal-information
 
 Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
-AdvertisementThe contribution of the gut microbiome to neurodevelopment and neuropsychiatric disordersPediatric Researchvolume85,pages216–224 (2019)Cite this article8285Accesses47Citations28AltmetricMetricsdetailsAbstractBidirectional communication between the gut and brain is well recognized, with data now accruing for a specific role of the gut microbiota in that link, referred to as the microbiome–gut–brain axis. This review will discuss the emerging role of the gut microbiota in brain development and behavior. Animal studies have clearly demonstrated effects of the gut microbiota on gene expression and neurochemical metabolism impacting behavior and performance. Based on these changes, a modulating role of the gut microbiota has been demonstrated for a variety of neuropsychiatric disorders, including depression, anxiety, and movement including Parkinson’s, and importantly for the pediatric population autism. Critical developmental windows that influence early behavioral outcomes have been identified that include both the prenatal environment and early postnatal colonization periods. The clearest data regarding the role of the gut microbiota on neurodevelopment and psychiatric disorders is from animal studies; however, human data have begun to emerge, including an association between early colonization patterns and cognition. The importance of understanding the contribution of the gut microbiota to the development and functioning of the nervous system lies in the potential to intervene using novel microbial-based approaches to treating neurologic conditions. While pathways of communication between the gut and brain are well established, the gut microbiome is a new component of this axis. The way in which organisms that live in the gut influence the central nervous system (CNS) and host behavior is likely to be multifactorial in origin. This includes immunologic, endocrine, and metabolic mechanisms, all of which are pathways used for other microbial–host interactions. Germ-free (GF) mice are an important model system for understanding the impact of gut microbes on development and function of the nervous system. Alternative animal model systems have further clarified the role of the gut microbiota, including antibiotic treatment, fecal transplantation, and selective gut colonization with specific microbial organisms. Recently, researchers have started to examine the human host as well. This review will examine the components of the CNS potentially influenced by the gut microbiota, and the mechanisms mediating these effects. Links between gut microbial colonization patterns and host behavior relevant to a pediatric population will be examined, highlighting important developmental windows in utero or early in development.
-You have full access to this article via your institution.
-Behavioral alterations in animal modelsEarly on, investigators working with germ-free (GF) animals noted behavioral differences when compared to conventionally (CONV) raised mice,1or mice raised free of specific disease-causing organisms (specific pathogen free; SPF).
-2Since then a spectrum of behavioral changes have been identified in GF animals using standardized animal behavioral testing techniques in rodents. These altered behaviors cluster into four domains: social interactions including behavior paralleled to that seen in autism spectrum disorder (ASD); stress-related and anxiety-related responses; learning and memory; and motor control (for a review see Vuong et al.
-3) While GF mice offer a system to examine the impact of gut microbiota in isolation, there are clearly limitations in applicability, since a GF world in humans does not exist. Additionally in studies using fecal transplantation during early development, there is often a mismatch between age of the GF animal and donor contributing the sample, altering microbial developmental trajectories. As an alternative, orally administered, non-absorbable antimicrobials have been used to alter the gut microbiome in rodents (neomycin, bacitracin, and pimaricin)4,5,6as well as in zebrafish (amphotericin, kanamycin, and ampicillin).
-7Behavioral changes similar to GF animals are reported with oral but not intraperitoneal4treatment particularly related to stress-associated and anxiety-associated phenotypes. Oral antibiotics have also been used to examine the contribution of the maternal gut microbiota during pregnancy to offspring behavior by maternal treatment either preconception (non-absorbable sulfonamide)5or early in gestation (neomycin, pimaricin, bacitracin).
-6Compared to controls, offspring of antibiotic-treated mothers demonstrated increased anxiety-like behaviors and diminished social interactions. Analysis of fecal samples from antibiotic-exposed offspring demonstrated a 50% decrease in the relative abundance of the order Lactobacillales and increase in the bacterial family Clostridium.
-6The behavioral phenotypes in offspring can be only partly rescued by fostering them with normal dams beginning on postnatal day 1, implicating the perinatal period as a critical developmental window.
-6The perinatal periodThe perinatal period is a critical developmental window characterized by rapid evolution of gut microbial colonization alongside changes in neuronal organization. Given this co-evolution, it is perhaps not surprising that studies using GF mice have been used to examine the association between gut microbiota and central nervous system (CNS) structure and function (Table1). In a landmark paper in 2004, Sudo et al.
-2demonstrated the importance of the perinatal period, identifying that gut microbes were involved in programing the hypothalamic-pituitary-adrenal (HPA) system stress response. Compared to SPF mice, GF animals had an exaggerated HPA response in response to an acute-restraint stress, evidenced by elevated levels of stress response hormones adrenocorticotropic hormone (ACTH) and corticosterone. The exaggerated HPA response was reversed by re-colonizing the GF mice with fecal flora from SPF animals, but only if SPF fecal reconstitution occurred before 6 weeks of age. The presence of early developmental windows for the gut microbiota to influence animal behavior is evident in experiments examining anxiety-like behaviors.
-8GF mice have decreased anxiety-like behavior as demonstrated by standardized testing including increased exploratory behavior in open field tests, and more time in the light of a light/dark box test than SPF controls.
-8,9,10The perinatal period is again critical in forming this response as GF animal behavior could be “normalized” only by colonization of GF mothers with SPF microbiota 30 days prior to mating, while colonization of adult GF mice had no effect.
-8Maternal diet and obesityBoth human epidemiologic and animal studies have identified maternal obesity as a risk factor for behavioral and neurodevelopmental abnormalities in offspring11associated with an altered gut microbial community.
-12,13Buffington et al.
-14examined the contribution of the gut microbiome to behavioral changes in mice born to mothers fed a high fat diet (MHFD). For 8 weeks prior to mating, female mice were fed an MHFD, while controls received a regular diet (MRD). Offspring from MHFD mothers had fewer social interactions, no preference for social novelty, and impaired sociability compared to MRD controls. These behavioral changes corresponded to anatomic changes in the paraventricular nuclei (PVN) of the hypothalamus, with decreased number of cells producing oxytocin, a neuropeptide previously shown to be important in modulating social behavior.
-15Offspring exposed to MHFD demonstrated decreased gut microbial diversity and differences in microbial community membership compared to MRD offspring. Among the most significant microbial reduction in MHFD offspring wasLactobacillus reuteri, decreased over ninefold. Colonization with live, but not heat-killed,L. reuteriameliorated the behavioral change, and restored the number of oxytocin-producing neurons in the PVN to baseline levels. These findings demonstrate that the prenatal environment, in this case MHFD with associated maternal and infant gut microbial changes, influences offspring CNS functioning and behavior.
-Prenatal stressMaternal psychosocial stress is another exposure that can alter fetal programming with behavioral and neurodevelopmental consequences.
-16,17Neuroimaging studies of infants born to mothers facing adverse prenatal environments demonstrate reduced cortical gray matter, smaller hippocampal and amygdala volumes, and altered connectivity as early as 5 weeks of age.
-18,19The mechanisms underlying the biologic embedding of this exposure are multifactorial, with evidence that the microbiome may be one contributor. Using an established mouse model of chronic variable stress, Jasarevic et al.
-20demonstrated that early prenatal stress (PNS) modified maternal vaginal microbial communities, altering diversity as well as composition, with loss of the most abundant vaginal commensal organismLactobacillus. Loss of maternalLactobacillusresulted in diminished vertical transmission to the fetus, altering the offspring gut microbiota as well as their plasma metabolome. Changes clustered in pathways related to energy, sugar, and mitochondrial metabolism. Interestingly, there were corresponding sex-specific changes to amino acid profiles in the hypothalamic and limbic regions of the brain, affecting male but not female offspring.
-Evidence that stress can have a direct effect on gut microbes dates back 40 years, when investigators identified a decrease in culturable lactobacilli from stools of adult mice moved to cages without water, food, or bedding.
-21Similar results have since been obtained using other model systems.
-22,23,24Reminiscent of the vaginal microbiota, a number of large and small animal models have demonstrated a relative decrease in the abundance ofLactobacillusfrom the stool samples of offspring born to mothers subjected to PNS, along with other gut microbial community disruptions.
-25,26,27Using rhesus monkeys, Bailey et al.
-25demonstrated that infant monkeys born to mothers exposed to PNS had decreased amounts of culturable lactobacilli and bifidobacteria in their stool, most evident with late pregnancy PNS exposure. Rodent models also report alterations in gut microbial membership in PNS-exposed offspring,26,27,28with decreased amounts ofLactobacillusandBifidobacterium. Associated behavioral changes were long lasting to adulthood26,28and sex-specific, with female but not male offspring demonstrating increased anxiety-like behaviors and diminished cognitive function.
-28These changes in the gut microbial community were associated with increased levels of interleukin-1β (IL-1β) and decreased brain-derived neurotropic factor (BDNF), a neuronal growth factor suppressed by IL-1β, specifically in the amygdala, an area important in processing emotions and memory.
-28Beyond animal models, one small human study of 56 vaginally born infants also found that levels ofLactobacilluswas inversely related to stress during pregnancy as measured by a series of self-reported stress questionnaires and high cortisol levels.
-29Mothers with high cumulative stress had significantly lower relative abundances ofLactobacillusandBifidobacterium, with relatively higher levels of Gram-negative Proteobacteria. Taken together, these data indicate that PNS can alter both the maternal and infant microbiota, which is associated with behavioral changes in offspring. While clearly associative and not causal, the associated metabolic changes begin to implicate systemic responses involving metabolism and inflammation as potential mediators.
-Blood–brain barrier and short-chain fatty acidsWithin the gut, luminal production of short-chain fatty acids (SCFAs) by the gut microbiota is important in maintaining intestinal barrier integrity through regulation of tight junction proteins.
-30There is now evidence that SCFAs have similar effects at a more distant site, the blood–brain barrier (BBB).
-31Fetuses of GF pregnant mice had significantly increased BBB permeability, related to decreased expression of the tight junction proteins occludin and claudin-5. Fecal transfer from SPF mice to GF adult mice improved the integrity of the BBB and increased levels of occludin and claudin-5. Mono-colonization of GF mice with a single SCFA-producing bacteria,Clostridium tyrobutyricumorBacteroides thetaiotaomicron, restored BBB integrity to levels similar to that found in SPF mice, as did treatment of GF mice with oral butyrate. These results indicate that metabolic byproducts of the gut microbiota act as signals to influence host physiology distant from their production, at the BBB.
-Mechanisms of actionTranscriptional and protein changesTo elucidate the etiology of behavioral changes, comparisons in genetic signaling have been made across various regions of the brain in GF-raised, SPF-raised, and CONV-raised animals. Significant changes in gene expression and protein content are evident across virtually all anatomic components of the brain, from the more primitive structures of the limbic system, the amygdala and hippocampus, to more advanced regions of the frontal and prefrontal cortex, and are linked to changes in behavioral phenotype (Fig.
-1). One of the most extensively studied is BDNF, a widely expressed neurotropin important to neuronal growth and survival and implicated in a variety of behavioral changes.
-32,33Compared to CONV-raised or SPF mice, GF mice have decreased levels of BNDF mRNA and protein expression.
-2,8,34Additionally, upstream regulatorsN-methyl-d-aspartate receptor subunits2,10and downstream signaling molecule nerve growth factor-inducible clone A2,8,10,34are also decreased. Anatomically, the site of these changes is in the hippocampus,2,4,8,10and the cingulate cortex8areas of the brain are important in the regulation of these behaviors. Studies examining variances in the brain transcriptome of GF animals compared to SPF and CONV identify significant anatomic site differentials in both neuronal-specific and more generalized cellular functions.
-8,35Summary of neurophysiological abnormalities in microbiota-deficient animals. From Voung et al. Annu. Rev Neurosci. 2017.40:21–49 with permission. AM amygdala, BDNF brain-derived neurotrophic factor, CB cerebellum, CRF corticotropin-releasing factor 1, H hippocampus, HPA hypothalamic-pituitary-adrenal, HY hypothalamus, NC nasal cavity, NGFI-A nerve growth factor-inducible protein A, NR2BN-methyl-d-aspartate receptor subtype 2B, OB olfactory bulb, PFC prefrontal cortex, PSD-95 postsynaptic density protein-95, S striatumImmuno-inflammatory mechanismsThe gut is one of the largest immune organs in the body and a major site of a microbial–host interface. The importance of the gut microbiota to immune development is profound and well established.
-36,37Specific commensal bacteria in the gut are involved in inducing both innate and adaptive immune systems. These include T-helper type 1 (Th1), T-helper type 17 (Th17), and regulatory-T (Treg) cells that alter the background inflammatory environment in the gut both locally and systemically. Varieties of systemic autoimmune disorders have been shown to be modulated through altered immune signaling by the gut microbiota.
-38,39The role of the gut microbiota in autoimmune CNS pathology was first described in experimental autoimmune encephalomyelitis (EAE).
-40EAE is a T cell-mediated model for demyelinating diseases of the CNS, induced by eliciting an immune response to injected myelin-based proteins. During EAE, systemic T cells migrate to the CNS and pro-inflammatory Th1/Th17 responses facilitate demyelination and tissue damage.
-41GF mice are highly resistant to development of EAE and are protected via altered T cell responses that have their origin in the gut microbiota. In the absence of bacteria under GF conditions, gut dendritic cells have diminished ability to stimulate local and systemic Th1/Th17 cells to produce pro-inflammatory cytokines. When these cells migrate to the CNS, there is diminished production of interferon-γ and IL-17a, with a concomitant increase in Treg cells that further dampens inflammation. The importance of the gut microbiota to this process is further clarified when GF animals are mono-colonized with segmented filamentous bacteria (SFB), which induce Th17 cells in the gut, and protection is lost. Animals became highly susceptible to EAE induction, and the pro-inflammatory CNS response is again robust. Thus, gut microbiota exert their effects on the CNS by mediating innate dendritic cell responses locally, resulting in altered T cell responses within the CNS.
-The use of enteral antibiotics in the EAE animal model had comparable results to those found in GF animals.
-42Similar to GF mice, CONV-raised mice pretreated with oral broad-spectrum antibiotics are resistant to development of EAE, with an associated decrease in systemic pro-inflammatory cytokines and increased levels of protective Treg cells. Transfer of Treg’s from animals treated with oral antibiotics conferred protection against EAE. As opposed to the loss of protection with SPF colonization, when the antibiotic-treated mice were re-colonized with a single commensal organismBacteroides fragilis, resistance was maintained.
-43Bacteroides fragiliscontains a capsular polysaccharide complex, polysaccharide-A (PSA), which has an established role for immune modulation. Antibiotic-treated mice re-colonized with a mutated form of the organism deficient in capsular PSA lost resistance to EAE. These results implicate specific signaling components within microbes on the CNS pathology via immunomodulating pathways distal to the site of colonization.
-Gut microbiota immunomodulation, fetal exposures, and social impairmentMore pertinent to pediatrics than EAE, exposure of the fetus to maternal inflammation is a well-described risk factor for subsequent neuropathology,44,45including ASD.
-46,47A potential role of both the maternal and offspring gut microbiome in this process has been recently described using the maternal immune activation (MIA) animal model. In this model, pregnant mice are exposed to polyinoinic:polycytidylic (poly(I:C), an immunostimulant structurally similar to double-stranded RNA, mimicking viral infection. Offspring exhibit ASD-like behavior including reduced sociability, increased anxiety, repetitive stereotypical behaviors, and altered communication patterns, as well as abnormalities in cortical development. Using genetic mutants and blocking antibodies in mice, investigators identified that maternal IL-17a, secreted by Th17 cells, was required for the behavioral and cortical abnormalities to develop in the offspring.
-48Based on the importance of gut microbiota to systemic immune responses, investigators next examined the contribution of maternal gut bacteria to the behavioral phenotype by pretreatment of poly(I:C)-exposed mothers with oral vancomycin.
-49Pretreatment with this antibiotic decreased the proportion of Th17 cells in the small bowel, diminished maternal serum levels of IL-17a, and protected offspring from both the behavioral phenotype and cortical abnormalities. SFB, known to induce Th17 cells, was identified as the specific vancomycin-sensitive organism required for the phenotype to occur. Offspring of dams depleted of SFB during poly(I:C) exposure did not develop the behavioral changes or cortical pathology. Reconstitution of these dams with SFB through direct gavage or by co-housing with SFB-colonized animals once again resulted in offspring with the ASD phenotype. These data demonstrate that in this MIA model during pregnancy, maternal gut microbiota influences neurodevelopment in offspring through immune-mediated mechanisms involving Th17 induction.
-In addition to maternal influences in MIA, offspring gut functioning and microbiota are also affected.
-50MIA offspring have increased intestinal permeability related to altered gene expression of tight junction components, along with changes in gut microbial composition involving bacterial classes Clostridia and Bacteroidia. Both these changes are reminiscent of findings reported in limited subgroups of individuals with ASD.
-51,52,53,54The altered microbial environment and leaky gut induced by MIA resulted in altered serum metabolites. The most significant increase was in 4-ethylphenylsulfate (4EPS), a predicted metabolite of gut microbes, which was increased 46-fold. Remarkably, systemic administration of wild-type mice with 4EPS alone resulted in behaviors similar to MIA-induced mice. Treatment with the commensalB. fragilisimproved gut barrier integrity, restored the microbiota changes, and normalized cytokine and metabolic profiles, abrogating the increase in 4EPS profiles. Behaviors related to anxiety, stereotypical patterns, and vocalizations in response to social interactions were improved, while deficits in social performance were unchanged. In this case, improvement was not a function of microbial capsular PSA, as treatment with mutant bacteria had the same effect. The effect was also not specific toB. fragilis, as treatment withB. thetaiotaomicronalso improved behaviors. It was however not a generalized microbial response, asEnterococcus faecalishad no effect.
-Bacteroides fragilisdid not exert its effect directly by permanently colonizing the gut, as it could not be retrieved from feces, but rather correcting microbial community membership of the bacterial classes Clostridia and Bacteroidia. These results demonstrate an effect of the gut microbiome on behavior in this MIA model system, alterable by a common commensal organism, mediated at least in part by specific microbial metabolite.
-Microbial metabolites, SCFAsAs illustrated in the MIA model, gut microbes produce a variety of metabolites that can act locally or enter host circulation to affect a variety of physiologic parameters.
-55They are implicated in a variety of clinical disorders including inflammatory bowel disease,56diabetes, atherosclerosis,57and asthma,58among others.
-59Among the most intensively studied gut microbial metabolites are SCFAs. SCFAs are the fermentation products of undigested carbohydrates by the gut microbiota with the three major SCFAs produced being acetate, propionate, and butyrate. They exert an impact on the immune system by signalling through a variety of G-protein-coupled receptors, including free fatty acid receptors (FFARs) 2 and 3, that promote local intestinal dendritic cells, as well as T cell expansion, differentiation, and function.
-60Microglia and SCFASCFAs produced by the gut microbiota have recently been shown to influence the CNS immune system by regulating micoglia maturation and function. Microglia are the principal immune cells of the CNS, playing an important role in CNS homeostasis by detecting pathogens and scavenging cellular debris from injured or dead tissue, similar to peripheral macrophages. Using three-dimensional imaging, Erny et al.
-61demonstrated altered architecture and density of microglia in GF compared to SPF mice, indicating an immature or dysfunctional state. Comparison of genome-wide mRNA expression profiles between GF and SPF animals identified nearly 400 altered transcripts involving host defense, cell activation, and transcription. Transcripts normally present in immature microglia, including colony-stimulating factor 1 receptor (Csf1r), a cell surface marker with strong developmental regulation, were increased in GF microglia. The immune response of GF microglia when challenged with bacterial or viral stimulants was also immature, with significantly reduced expression of cytokine and chemokine pathways, as well as expression of genes directing cell differentiation, activation, and transformation. Treatment of SPF mice with oral broad-spectrum antibiotic resulted in microglial cell morphology and maturation markers similar to the immature phenotype of GF mice. Targeted re-colonization with specific organisms did not reverse the phenotype; rather, it required the presence of a complex and diverse gut microbial community, including SCFA producers. Remarkably, treatment of GF mice with a mixture of SCFA in the drinking water normalized microglial morphology, density, and maturity based onCsf1rexpression. Additionally, mice deficient in the short-chain FFAR2 demonstrated morphologic changes in microglia similar to GF animals, implicating SCFA produced by gut microbes as a key mediator of microglia activation, maturation, and function.
-Activation of microglia by SCFAs is also evident in a mouse model of Parkinson’s disease (PD) that overexpress human α-synuclein (ASO), a major constituent of Lewy bodies that are a hallmark of PD neuropathology.
-62ASO mice harboring a standard SPF microbiota (SPF-ASO) have motor deficits and aggregation of ASO protein in the caudoputamen and substantia nigra, regions of the brain impacted by PD. Contributing to the phenotypes are activated microglia, producing neurotoxic cytokines. Removal of gut microbiota, through generation of GF animals or antibiotic treatment, protected against the PD phenotype. Feeding GF-ASO mice a mixture of SCFA resulted in loss of protection from the PD phenotype. SCFA-activated microglia, and motor function was again impaired. “Humanization” of standard GF animals (non-ASO) with fecal transplants from PD patients resulted in motor deficits not evident in GF animals transplanted with microbiota healthy human controls. The fecal samples from GF animals colonized with PD donor samples had higher relative abundance of propionate and butyrate, with lower amounts of acetate than that from animals colonized with healthy control sample. Taken together, these results provide compelling evidence that metabolic byproducts of the gut microbiota contribute to microglial homeostasis.
-Neuroendocrine signalingThe work by Sudo et al.
-2cited above illustrates interactions between gut microbes and endocrine signaling mechanisms in response to stress. Microbial–endocrine communication is also evident in work using a nonobese diabetic (NOD) mouse model where early microbial exposures contributed to sex hormone levels, and modified disease progression.
-63Male NOD mice were colonized with a gender-dependent gut microbial community that elevated testosterone levels, and were protected from diabetes compared to GF and female mice. Fecal transfer from adult NOD male mice to female weanling, but not adult, mice altered the gut microbiota, elevated testosterone levels, and conferred protection.
-Additional signaling mechanismsThe vagus nerve, which is composed of both afferent and efferent fibers, offers an additional mechanism for bidirectional communication. Afferent fibers are stimulated directly or indirectly by microbial components or metabolites with local or central effects, and efferent fibers alter gut microbial community structure by affecting gut inflammation and permeability.
-64Microbiota are also capable of producing neurotransmitters directly or by stimulating production by neurotransmitter-producing cells like enterochromaffin cells. The metabolite 5-hydroxytryptamine (5-HT) and its precursor the amino acid tryptophan are of particular interest as 5-HT has been important in the regulation of gut motility,65and tryptophan can cross the BBB and participate in 5-HT metabolism centrally. Finally, host genotype also influences colonization patterns in human microbiomes (see for a review Goodrichet al.
-66). How genotype affects colonization patterns following delivery, and what if any relationship it has to genetic differences in neurologic disorders remains to be determined.
-Human studiesThe contribution of the gut microbiota to neurodevelopment and behavior in humans is a complex arena with many factors influencing outcomes including genetic, epigenetic, and environmental components, and studies of gut microbial contribution must be taken in this context. Human studies examining a contribution from the gut microbiome have utilized interventions including prebiotics and probiotics,67,68,69fecal transplantation,70and antibiotics71to examine effects on both mood and emotions. There has been intense interest in examining individuals with ASD partly due to the frequent gastrointestinal symptomology associated with the disorder,72and immune alterations (see for a review Vuong and Hsiao73). Studies have compared stools74,75,76,77,78or intestinal biopsy samples79between individuals with ASD to those without, across a variety of ages. While microbial dysbiosis is evident, no consistent microbial signature either in terms of specific taxa74,75,76,77,80or metabolic byproducts78,81has emerged across studies. Additionally, the cross-sectional design of many of these studies limits the ability to differentiate cause and effect. This is particularly problematic if looking to examine early origins of disease or behavior that may not be manifest until later in life.
-Two small interventional studies endorse the concept that the gut microbiome may contribute to disease severity. In one, 11 children treated with 8 weeks of oral vancomycin demonstrated improved symptoms based on standardized blinded testing, which then reverted to baseline after treatment was stopped on follow-up in 2 to 8 months.
-71In the second,7018 children underwent microbial transplant therapy (MTT), consisting of an initial multi-staged bowel cleansing followed by daily administration of a standardized human gut microbiota used in recurrentClostridium difficileinfections,82for 7–8 weeks. Behavioral ASD symptomatology significantly improved, with a sustained effect on follow-up at 8 weeks following completion of treatment. Longitudinal analysis of stool samples demonstrated a sustained increase in stool sample bacterial diversity following MTT, with evidence for continued engraftment of a number of taxa includingBifidobacterium, frequently reported as diminished in ASD population.
-80,81The contribution of the viral elements, frequently overlooked, was also shifted toward communities closer to that of fecal donors.
-The first prospective human study to examine the relationship between the developing infant gut microbiome and cognition was recently reported.
-83Fecal samples from 89 typically developing 1-year-old toddlers were analyzed for microbial community structure and tested for an association to cognitive functions. Infants clustered into three distinct gut microbial patterns, driven by differences in the relative abundance ofFaeccalibacterium,Bacteroides, and an unclassified, Ruminococcaceae, reminiscent of previously described adult enterotypes.
-84At 2 years, cognitive testing results differed significantly between clusters as measured by a composite score of cognitive function (the Mullen Scales of Early Learning). TheBacteroidescluster scored highest (90th percentile) andFaecalibacteriumlowest, although still within normal range (72nd percentile). Receptive and expressive language domains showed the greatest differences, with no significant differences measured in motor (gross or fine) or visual reception skills, and no differences on neuroimaging between brain regions. Alpha diversity, the amount of within-sample microbial variation, was inversely related to cognitive function with theBacteroidesclusters demonstrating lowest alpha diversity. Breastfeeding is an important covariate associated with cognitive outcomes,85and results in a gut microbiota with decreased diversity andBacteroidesdominant. In multivariate analysis that accounted for feeding type as well as other important clinical and demographic co-variates, cluster group, but not alpha diversity, remained significantly related to cognitive outcome at 2 years. While the results of this study remain associative and not causative, it is an important step in incorporating human subjects in examining the relationship between the gut microbiota and human neurodevelopment.
-PerspectiveOur understanding of the interactions between our gut microbes and the developing nervous system is in early stages (Fig.
-2). Animal models have provided strong evidence that gut bacteria and their metabolites play a role in CNS homeostasis affecting behavior.
-86Human studies have been primarily correlative, and caution must be applied before concluding cause and effect. Significant challenges remain in understanding what, if any, long-lasting effects early host–microbe interactions have on human neurodevelopmental and behavioral outcomes. Many of these challenges are rooted in our limited understanding of how early microbial colonization patterns interact with simultaneously evolving immune, neuroendocrine, and nervous systems. Questions remain regarding the importance of initial pioneering microbes, including viruses, fungi, and archaea during this co-evolution. Maternal and infant diet, stress, mode of delivery, intrapartum infection, and antibiotic exposures all shape early microbial colonization patterns. How long those patterns last, and what if any long-term phonotypic impact they have in humans disease and neurodevelopment is just now being examined.
-37,87Human studies with a pediatric focus and systems-based approach, moving between animals and humans, will be required to understand the mechanism of host–microbe interactions and the impact on human health and development.
-Developmental windows for gut microbial impact on neurodevelopment, impacted by prenatal exposures and potential mechanism involvedReferencesBackhed, F., Manchester, J. K., Semenkovich, C. F. & Gordon, J. I. Mechanisms underlying the resistance to diet-induced obesity in germ-free mice.
-Proc. Natl Acad. Sci. USA104, 979–984 (2007).
-CASPubMedArticlePubMed CentralGoogle ScholarSudo, N. et al. Postnatal microbial colonization programs the hypothalamic-pituitary-adrenal system for stress response in mice.
-J. Physiol.
-558, 263–275 (2004).
-CASPubMedPubMed CentralArticleGoogle ScholarVuong, H. E., Yano, J. M., Fung, T. C. & Hsiao, E. Y. The microbiome and host behavior.
-Annu. Rev. Neurosci.
-40, 21–49 (2017).
-CASPubMedArticlePubMed CentralGoogle ScholarBercik, P. et al. The intestinal microbiota affect central levels of brain-derived neurotropic factor and behavior in mice.
-Gastroenterology141, 599–609 (2011).
-CASPubMedArticleGoogle ScholarDegroote, S., Hunting, D. J., Baccarelli, A. A. & Takser, L. Maternal gut and fetal brain connection: increased anxiety and reduced social interactions in Wistar rat offspring following peri-conceptional antibiotic exposure.
-Prog. Neuropsychopharmacol. Biol. Psychiatry71, 76–82 (2016).
-CASPubMedArticlePubMed CentralGoogle ScholarTochitani, S. et al. Administration of non-absorbable antibiotics to pregnant mice to perturb the maternal gut microbiota is associated with alterations in offspring behavior.
-PLoS ONE11, e0138293 (2016).
-PubMedPubMed CentralArticleCASGoogle ScholarPhelps, D. et al. Microbial colonization is required for normal neurobehavioral development in zebrafish.
-Sci. Rep.
-7, 11244 (2017).
-PubMedPubMed CentralArticleCASGoogle ScholarDiaz Heijtz, R. et al. Normal gut microbiota modulates brain development and behavior.
-Proc. Natl Acad. Sci. USA108, 3047–3052 (2011).
-PubMedArticleGoogle ScholarClarke, G. et al. The microbiome–gut–brain axis during early life regulates the hippocampal serotonergic system in a sex-dependent manner.
-Mol. Psychiatry18, 666–673 (2013).
-CASPubMedArticleGoogle ScholarNeufeld, K. M., Kang, N., Bienenstock, J. & Foster, J. A. Reduced anxiety-like behavior and central neurochemical change in germ-free mice.
-Neurogastroenterol. Motil.
-23, 255–264, e119 (2011).
-CASPubMedArticleGoogle Scholarvan der Burg, J. W. et al. The role of systemic inflammation linking maternal BMI to neurodevelopment in children.
-Pediatr. Res.
-79, 3–12 (2016).
-PubMedArticleCASGoogle ScholarTurnbaugh, P. J. et al. A core gut microbiome in obese and lean twins.
-Nature457, 480–484 (2009).
-CASPubMedArticleGoogle ScholarTurnbaugh, P. J. et al. An obesity-associated gut microbiome with increased capacity for energy harvest.
-Nature444, 1027–1031 (2006).
-PubMedArticleGoogle ScholarBuffington, S. A. et al. Microbial reconstitution reverses maternal diet-induced social and synaptic deficits in offspring.
-Cell165, 1762–1775 (2016).
-CASPubMedPubMed CentralArticleGoogle ScholarDonaldson, Z. R. & Young, L. J. Oxytocin, vasopressin, and the neurogenetics of sociality.
-Science322, 900–904 (2008).
-CASPubMedArticleGoogle ScholarBale, T. L. et al. Early life programming and neurodevelopmental disorders.
-Biol. Psychiatry68, 314–319 (2010).
-PubMedPubMed CentralArticleGoogle ScholarBeijers, R., Buitelaar, J. K. & de Weerth, C. Mechanisms underlying the effects of prenatal psychosocial stress on child outcomes: beyond the HPA axis.
-Eur. Child Adolesc. Psychiatry23, 943–956 (2014).
-PubMedArticleGoogle ScholarBetancourt, L. M. et al. Effect of socioeconomic status (SES) disparity on neural development in female African‐American infants at age 1 month.
-Dev. Sci.
-19, 947–956 (2015).
-PubMedArticleGoogle ScholarNoble, K. G. et al. Family income, parental education and brain structure in children and adolescents.
-Nat. Neurosci.
-18, 773–778 (2015).
-CASPubMedPubMed CentralArticleGoogle ScholarJasarevic, E., Howerton, C. L., Howard, C. D. & Bale, T. L. Alterations in the vaginal microbiome by maternal stress are associated with metabolic reprogramming of the offspring gut and brain.
-Endocrinology156, 3265–3276 (2015).
-CASPubMedPubMed CentralArticleGoogle ScholarTannock, G. W. & Savage, D. C. Influences of dietary and environmental stress on microbial populations in the murine gastrointestinal tract.
-Infect. Immun.
-9, 591–598 (1974).
-CASPubMedPubMed CentralArticleGoogle ScholarBailey, M. T. & Coe, C. L. Maternal separation disrupts the integrity of the intestinal microflora in infant rhesus monkeys.
-Dev. Psychobiol.
-35, 146–155 (1999).
-CASPubMedArticleGoogle ScholarBailey, M. T. et al. Exposure to a social stressor alters the structure of the intestinal microbiota: implications for stressor-induced immunomodulation.
-Brain Behav. Immun.
-25, 397–407 (2011).
-CASPubMedArticleGoogle ScholarGalley, J. D. et al. Exposure to a social stressor disrupts the community structure of the colonic mucosa-associated microbiota.
-BMC Microbiol.
-14, 189 (2014).
-PubMedPubMed CentralArticleCASGoogle ScholarBailey, M. T., Lubach, G. R. & Coe, C. L. Prenatal stress alters bacterial colonization of the gut in infant monkeys.
-J. Pediatr. Gastroenterol. Nutr.
-38, 414–421 (2004).
-PubMedArticleGoogle ScholarGolubeva, A. V. et al. Prenatal stress-induced alterations in major physiological systems correlate with gut microbiota composition in adulthood.
-Psychoneuroendocrinology60, 58–74 (2015).
-PubMedArticleGoogle ScholarJasarevic, E., Howard, C. D., Misic, A. M., Beiting, D. P. & Bale, T. L. Stress during pregnancy alters temporal and spatial dynamics of the maternal and offspring microbiome in a sex-specific manner.
-Sci. Rep.
-7, 44182 (2017).
-PubMedPubMed CentralArticleGoogle ScholarGur, T. L. et al. Prenatal stress affects placental cytokines and neurotrophins, commensal microbes, and anxiety-like behavior in adult female offspring.
-Brain Behav. Immun.
-64, 50–58 (2017).
-CASPubMedArticleGoogle ScholarZijlmans, M. A., Korpela, K., Riksen-Walraven, J. M., de Vos, W. M. & de Weerth, C. Maternal prenatal stress is associated with the infant intestinal microbiota.
-Psychoneuroendocrinology53, 233–245 (2015).
-PubMedArticleGoogle ScholarPeng, L., Li, Z. R., Green, R. S., Holzman, I. R. & Lin, J. Butyrate enhances the intestinal barrier by facilitating tight junction assembly via activation of AMP-activated protein kinase in Caco-2 cell monolayers.
-J. Nutr.
-139, 1619–1625 (2009).
-CASPubMedPubMed CentralArticleGoogle ScholarBraniste, V. et al. The gut microbiota influences blood–brain barrier permeability in mice.
-Sci. Transl. Med.
-6, 263ra158 (2014).
-PubMedPubMed CentralArticleCASGoogle ScholarGovindarajan, A. et al. Transgenic brain-derived neurotrophic factor expression causes both anxiogenic and antidepressant effects.
-Proc. Natl Acad. Sci. USA103, 13208–13213 (2006).
-CASPubMedArticlePubMed CentralGoogle ScholarMartinowich, K., Manji, H. & Lu, B. New insights into BDNF function in depression and anxiety.
-Nat. Neurosci.
-10, 1089–1093 (2007).
-CASPubMedArticleGoogle ScholarArentsen, T., Raith, H., Qian, Y., Forssberg, H. & Diaz Heijtz, R. Host microbiota modulates development of social preference in mice.
-Microb. Ecol. Health Dis.
-26, 29719 (2015).
-PubMedGoogle ScholarStilling, R. M. et al. Microbes and neurodevelopment—absence of microbiota during early life increases activity-related transcriptional pathways in the amygdala.
-Brain Behav. Immun.
-50, 209–220 (2015).
-PubMedArticleGoogle ScholarHooper, L. V., Littman, D. R. & Macpherson, A. J. Interactions between the microbiota and the immune system.
-Science336, 1268–1273 (2012).
-CASPubMedPubMed CentralArticleGoogle ScholarTamburini, S., Shen, N., Wu, H. C. & Clemente, J. C. The microbiome in early life: implications for health outcomes.
-Nat. Med.
-22, 713–722 (2016).
-CASPubMedArticleGoogle ScholarAbdollahi-Roodsaz, S. et al. Stimulation of TLR2 and TLR4 differentially skews the balance of T cells in a mouse model of arthritis.
-J. Clin. Invest.
-118, 205–216 (2008).
-CASPubMedArticleGoogle ScholarWen, L. & Duffy, A. Factors influencing the gut microbiota, inflammation, and type 2 diabetes.
-J. Nutr.
-147, 1468S–1475SS (2017).
-PubMedPubMed CentralArticleCASGoogle ScholarLee, Y. K., Menezes, J. S., Umesaki, Y. & Mazmanian, S. K. Proinflammatory T-cell responses to gut microbiota promote experimental autoimmune encephalomyelitis.
-Proc. Natl Acad. Sci. USA108(Suppl. 1), 4615–4622 (2011).
-CASPubMedArticleGoogle ScholarKasper, L. H. & Shoemaker, J. Multiple sclerosis immunology: the healthy immune system vs the MS immune system.
-Neurology74(Suppl. 1), S2–S8 (2010).
-CASPubMedArticleGoogle ScholarOchoa-Reparaz, J. et al. Role of gut commensal microflora in the development of experimental autoimmune encephalomyelitis.
-J. Immunol.
-183, 6041–6050 (2009).
-CASPubMedArticleGoogle ScholarOchoa-Reparaz, J. et al. Central nervous system demyelinating disease protection by the human commensal Bacteroides fragilis depends on polysaccharide A expression.
-J. Immunol.
-185, 4101–4108 (2010).
-CASPubMedArticleGoogle ScholarArmstrong-Wells, J. et al. Inflammatory predictors of neurologic disability after preterm premature rupture of membranes.
-Am. J. Obstet. Gynecol.
-212, 212 e1–212 e9 (2015).
-ArticleCASGoogle ScholarRovira, N. et al. Impact of histological chorioamnionitis, funisitis and clinical chorioamnionitis on neurodevelopmental outcome of preterm infants.
-Early Hum. Dev.
-87, 253–257 (2011).
-PubMedArticleGoogle ScholarAtladottir, H. O. et al. Maternal infection requiring hospitalization during pregnancy and autism spectrum disorders.
-J. Autism Dev. Disord.
-40, 1423–1430 (2010).
-PubMedArticleGoogle ScholarAtladottir, H. O., Henriksen, T. B., Schendel, D. E. & Parner, E. T. Autism after infection, febrile episodes, and antibiotic use during pregnancy: an exploratory study.
-Pediatrics130, e1447–e1454 (2012).
-PubMedArticleGoogle ScholarChoi, G. B. et al. The maternal interleukin-17a pathway in mice promotes autism-like phenotypes in offspring.
-Science351, 933–939 (2016).
-CASPubMedPubMed CentralArticleGoogle ScholarKim, S. et al. Maternal gut bacteria promote neurodevelopmental abnormalities in mouse offspring.
-Nature549, 528–532 (2017).
-PubMedPubMed CentralArticleCASGoogle ScholarHsiao, E. Y. et al. Microbiota modulate behavioral and physiological abnormalities associated with neurodevelopmental disorders.
-Cell155, 1451–1463 (2013).
-CASPubMedPubMed CentralArticleGoogle ScholarD’Eufemia, P. et al. Abnormal intestinal permeability in children with autism.
-Acta Paediatr.
-85, 1076–1079 (1996).
-PubMedArticleGoogle Scholarde Magistris, L. et al. Alterations of the intestinal barrier in patients with autism spectrum disorders and in their first-degree relatives.
-J. Pediatr. Gastroenterol. Nutr.
-51, 418–424 (2010).
-PubMedArticleGoogle ScholarFinegold, S. M., Downes, J. & Summanen, P. H. Microbiology of regressive autism.
-Anaerobe18, 260–262 (2012).
-CASPubMedArticleGoogle ScholarEsnafoglu, E. et al. Increased serum zonulin levels as an intestinal permeability marker in autistic subjects.
-J. Pediatr.
-188, 240–244 (2017).
-CASPubMedArticleGoogle ScholarNicholson, J. K. et al. Host–gut microbiota metabolic interactions.
-Science336, 1262–1267 (2012).
-CASPubMedArticleGoogle ScholarFurusawa, Y. et al. Commensal microbe-derived butyrate induces the differentiation of colonic regulatory T cells.
-Nature504, 446–450 (2013).
-CASPubMedArticleGoogle ScholarKoeth, R. A. et al. Intestinal microbiota metabolism ofl-carnitine, a nutrient in red meat, promotes atherosclerosis.
-Nat. Med.
-19, 576–585 (2013).
-CASPubMedPubMed CentralArticleGoogle ScholarTrompette, A. et al. Gut microbiota metabolism of dietary fiber influences allergic airway disease and hematopoiesis.
-Nat. Med.
-20, 159–166 (2014).
-CASPubMedArticleGoogle ScholarRooks, M. G. & Garrett, W. S. Gut microbiota, metabolites and host immunity.
-Nat. Rev. Immunol.
-16, 341–352 (2016).
-CASPubMedPubMed CentralArticleGoogle ScholarKoh, A., De Vadder, F., Kovatcheva-Datchary, P. & Backhed, F. From dietary fiber to host physiology: short-chain fatty acids as key bacterial metabolites.
-Cell165, 1332–1345 (2016).
-CASPubMedArticleGoogle ScholarErny, D. et al. Host microbiota constantly control maturation and function of microglia in the CNS.
-Nat. Neurosci.
-18, 965–977 (2015).
-CASPubMedPubMed CentralArticleGoogle ScholarSampson, T. R. et al. Gut microbiota regulate motor deficits and neuroinflammation in a model of Parkinson’s disease.
-Cell167, 1469–80 e12 (2016).
-CASPubMedPubMed CentralArticleGoogle ScholarMarkle, J. G. et al. Sex differences in the gut microbiome drive hormone-dependent regulation of autoimmunity.
-Science339, 1084–1088 (2013).
-CASPubMedArticleGoogle ScholarBonaz, B., Bazin, T. & Pellissier, S. The vagus nerve at the interface of the microbiota–gut–brain axis.
-Front. Neurosci.
-12, 49 (2018).
-PubMedPubMed CentralArticleGoogle ScholarYano, J. M. et al. Indigenous bacteria from the gut microbiota regulate host serotonin biosynthesis.
-Cell161, 264–276 (2015).
-CASPubMedPubMed CentralArticleGoogle ScholarGoodrich, J. K., Davenport, E. R., Clark, A. G. & Ley, R. E. The relationship between the human genome and microbiome comes into view.
-Annu. Rev. Genet.
-51, 413–433 (2017).
-CASPubMedPubMed CentralArticleGoogle ScholarMessaoudi, M. et al. Assessment of psychotropic-like properties of a probiotic formulation (Lactobacillus helveticus R0052 andBifidobacterium longumR0175) in rats and human subjects.
-Br. J. Nutr.
-105, 755–764 (2011).
-CASPubMedArticleGoogle ScholarTillisch, K. et al. Consumption of fermented milk product with probiotic modulates brain activity.
-Gastroenterology144, 1394–1401 (2013).
-CASPubMedArticleGoogle ScholarSteenbergen, L., Sellaro, R., van Hemert, S., Bosch, J. A. & Colzato, L. S. A randomized controlled trial to test the effect of multispecies probiotics on cognitive reactivity to sad mood.
-Brain Behav. Immun.
-48, 258–264 (2015).
-PubMedArticleGoogle ScholarKang, D. W. et al. Microbiota transfer therapy alters gut ecosystem and improves gastrointestinal and autism symptoms: an open-label study.
-Microbiome5, 10 (2017).
-PubMedPubMed CentralArticleGoogle ScholarSandler, R. H. et al. Short-term benefit from oral vancomycin treatment of regressive-onset autism.
-J. Child Neurol.
-15, 429–435 (2000).
-CASPubMedArticleGoogle ScholarKohane, I. S. et al. The co-morbidity burden of children and young adults with autism spectrum disorders.
-PLoS ONE7, e33224 (2012).
-CASPubMedPubMed CentralArticleGoogle ScholarVuong, H. E. & Hsiao, E. Y. Emerging roles for the gut microbiome in autism spectrum disorder.
-Biol. Psychiatry81, 411–423 (2017).
-PubMedArticleGoogle ScholarFinegold, S. M. et al. Gastrointestinal microflora studies in late-onset autism.
-Clin. Infect. Dis.
-35, S6–S16 (2002).
-PubMedArticleGoogle ScholarSong, Y., Liu, C. & Finegold, S. M. Real-time PCR quantitation of clostridia in feces of autistic children.
-Appl. Environ. Microbiol.
-70, 6459–6465 (2004).
-CASPubMedPubMed CentralArticleGoogle ScholarParracho, H. M., Bingham, M. O., Gibson, G. R. & McCartney, A. L. Differences between the gut microflora of children with autistic spectrum disorders and that of healthy children.
-J. Med. Microbiol.
-54, 987–991 (2005).
-PubMedArticleGoogle ScholarFinegold, S. M. et al. Pyrosequencing study of fecal microflora of autistic and control children.
-Anaerobe16, 444–453 (2010).
-CASPubMedArticleGoogle ScholarWang, L. et al. Elevated fecal short chain fatty acid and ammonia concentrations in children with autism spectrum disorder.
-Dig. Dis. Sci.
-57, 2096–2102 (2012).
-CASPubMedArticleGoogle ScholarWilliams, B. L. et al. Impaired carbohydrate digestion and transport and mucosal dysbiosis in the intestines of children with autism and gastrointestinal disturbances.
-PLoS ONE6, e24585 (2011).
-CASPubMedPubMed CentralArticleGoogle ScholarWang, L. et al. Low relative abundances of the mucolytic bacteriumAkkermansia muciniphilaandBifidobacteriumspp. in feces of children with autism.
-Appl. Environ. Microbiol.
-77, 6718–6721 (2011).
-CASPubMedPubMed CentralArticleGoogle ScholarAdams, J. B., Johansen, L. J., Powell, L. D., Quig, D. & Rubin, R. A. Gastrointestinal flora and gastrointestinal status in children with autism—comparisons to typical children and correlation with autism severity.
-BMC Gastroenterol.
-11, 22 (2011).
-PubMedPubMed CentralArticleGoogle ScholarHamilton, M. J., Weingarden, A. R., Sadowsky, M. J. & Khoruts, A. Standardized frozen preparation for transplantation of fecal microbiota for recurrentClostridium difficileinfection.
-Am. J. Gastroenterol.
-107, 761–767 (2012).
-PubMedArticleGoogle ScholarCarlson, A. L. et al. Infant gut microbiome associated with cognitive development.
-Biol. Psychiatry83, 148–159 (2018).
-PubMedArticleGoogle ScholarArumugam, M. et al. Enterotypes of the human gut microbiome.
-Nature473, 174–180 (2011).
-CASPubMedPubMed CentralArticleGoogle ScholarGirard, L. C., Doyle, O. & Tremblay, R. E. Breastfeeding, cognitive and noncognitive development in early childhood: a population study.
-Pediatrics139, pii: e20161848, (2017).
-Lim, E. S. et al. Early life dynamics of the human gut virome and bacterial microbiome in infants.
-Nat. Med.
-21, 1228–1234 (2015).
-CASPubMedPubMed CentralArticleGoogle ScholarChu, D. M. et al. Maturation of the infant microbiome community structure and function across multiple body sites and in relation to mode of delivery.
-Nat. Med.
-23, 314–326 (2017).
-CASPubMedPubMed CentralArticleGoogle ScholarHumann, J. et al. Bacterial peptidoglycan traverses the placenta to induce fetal neuroproliferation and aberrant postnatal behavior.
-Cell Host Microbe19, 901 (2016).
-CASPubMedArticleGoogle ScholarDownload referencesAcknowledgmentsSalary support for B.B.W. was provided in part by a grant from Children’s Discovery Institute at Washington University in St. Louis MD-II-2018-725.
-Author informationAffiliationsDepartment of Pediatrics, School of Medicine, Washington University in St Louis, Saint Louis, MO, USABarbara B. WarnerYou can also search for this author inPubMedGoogle ScholarCorresponding authorCorrespondence toBarbara B. Warner.
-Ethics declarationsCompeting interestsThe authors declare no competing interests.
-Additional informationPublisher's note:Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
-Rights and permissionsReprints and PermissionsAbout this articleCite this articleWarner, B.B. The contribution of the gut microbiome to neurodevelopment and neuropsychiatric disorders.
-Pediatr Res85,216–224 (2019). https://doi.org/10.1038/s41390-018-0191-9Download citationReceived:09 May 2018Revised:17 August 2018Accepted:29 August 2018Published:25 September 2018Issue Date:January 2019DOI:https://doi.org/10.1038/s41390-018-0191-9Share this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
-Provided by the Springer Nature SharedIt content-sharing initiativeFurther readingA prospective investigation into the association between the gut microbiome composition and cognitive performance among healthy young adultsGut Pathogens(2022)Sex-specific relationships of the infant microbiome and early-childhood behavioral outcomesPediatric Research(2021)Depression phenotype identified by using single nucleotide exact amplicon sequence variants of the human gut microbiomeMolecular Psychiatry(2021)Psychobiotics: The Next-Generation Probiotics for the BrainCurrent Microbiology(2021)Prenatal stress causes intrauterine inflammation and serotonergic dysfunction, and long-term behavioral deficits through microbe- and CCL2-dependent mechanismsTranslational Psychiatry(2020)You have full access to this article via your institution.
-AdvertisementExplore contentAbout the journalPublish with usSearchAdvanced searchQuick linksPediatric Research (Pediatr Res)ISSN1530-0447(online)ISSN0031-3998(print)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature Limited
+Advertisement View all journals Search Log in Explore content About the journal Publish with us Subscribe Sign up for alerts RSS feed nature news article Download PDF NEWS 23 October 2019 Hello quantum world! Google publishes landmark quantum supremacy claim Elizabeth Gibney Elizabeth Gibney View author publications You can also search for this author in PubMed Google Scholar Twitter Facebook Email You have full access to this article via your institution.
+Download PDF Download PDF The Sycamore chip is composed of 54 qubits, each made of superconducting loops.
+Credit: Erik Lucero Scientists at Google say that they have achieved quantum supremacy, a long-awaited milestone in quantum computing. The announcement, published in Nature on 23 October, follows a leak of an early version of the paper five weeks ago, which Google did not comment on at the time.
+In a world first, a team led by John Martinis, an experimental physicist at the University of California, Santa Barbara, and Google in Mountain View, California, says that its quantum computer carried out a specific calculation that is beyond the practical capabilities of regular, ‘classical’ machines 1.
+ The same calculation would take even the best classical supercomputer 10,000 years to complete, Google estimates.
+Quantum supremacy has long been seen as a milestone because it proves that quantum computers can outperform classical computers, says Martinis. Although the advantage has now been proved only for a very specific case, it shows physicists that quantum mechanics works as expected when harnessed in a complex problem.
+“It looks like Google has given us the first experimental evidence that quantum speed-up is achievable in a real-world system,” says Michelle Simmons, a quantum physicist at the University of New South Wales in Sydney, Australia.
+Martinis likens the experiment to a ‘Hello World’ programme, which tests a new system by instructing it to display that phrase; it’s not especially useful in itself, but it tells Google that the quantum hardware and software are working correctly, he says.
+The feat was first reported in September by the Financial Times and other outlets, after an early version of the paper was leaked on the website of NASA, which collaborates with Google on quantum computing, before being quickly taken down. At that time, the company did not confirm that it had written the paper, nor would it comment on the stories.
+Although the calculation Google chose — checking the outputs from a quantum random-number generator — has limited practical applications, “the scientific achievement is huge, assuming it stands, and I’m guessing it will”, says Scott Aaronson, a theoretical computer scientist at the University of Texas at Austin.
+Researchers outside Google are already trying to improve on the classical algorithms used to tackle the problem, in hopes of bringing down the firm's 10,000-year estimate. IBM, a rival to Google in building the world’s best quantum computers, reported in a preprint on 21 October that the problem could be solved in just 2.5 days using a different classical technique 2.
+ That paper has not been peer reviewed. If IBM is correct, it would reduce Google’s feat to demonstrating a quantum ‘advantage’ — doing a calculation much faster than a classical computer, but not something that is beyond its reach. This would still be a significant landmark, says Simmons. “As far as I’m aware, that’s the first time that’s been demonstrated, so that’s definitely a big result.” Quick solutions Quantum computers work in a fundamentally different way from classical machines: a classical bit is either a 1 or a 0, but a quantum bit, or qubit, can exist in multiple states at once. When qubits are inextricably linked, physicists can, in theory, exploit the interference between their wave-like quantum states to perform calculations that might otherwise take millions of years.
+Physicists think that quantum computers might one day run revolutionary algorithms that could, for example, search unwieldy databases or factor large numbers — including, importantly, those used in encryption. But those applications are still decades away. The more qubits are linked, the harder it is to maintain their fragile states while the device is operating. Google’s algorithm runs on a quantum chip composed of 54 qubits, each made of superconducting loops. But this is a tiny fraction of the one million qubits that could be needed for a general-purpose machine.
+The task Google set for its quantum computer is “a bit of a weird one”, says Christopher Monroe, a physicist at the University of Maryland in College Park. Google physicists first crafted the problem in 2016, and it was designed to be extremely difficult for an ordinary computer to solve. The team challenged its computer, known as Sycamore, to describe the likelihood of different outcomes from a quantum version of a random-number generator. They do this by running a circuit that passes 53 qubits through a series of random operations. This generates a 53-digit string of 1s and 0s — with a total of 2 53 possible combinations (only 53 qubits were used because one of Sycamore’s 54 was broken). The process is so complex that the outcome is impossible to calculate from first principles, and is therefore effectively random. But owing to interference between qubits, some strings of numbers are more likely to occur than others. This is similar to rolling a loaded die — it still produces a random number, even though some outcomes are more likely than others.
+Sycamore calculated the probability distribution by sampling the circuit — running it one million times and measuring the observed output strings. The method is similar to rolling the die to reveal its bias. In one sense, says Monroe, the machine is doing something scientists do every day: using an experiment to find the answer to a quantum problem that is impossible to calculate classically. The key difference, he says, is that Google’s computer is not single-purpose, but programmable, and could be applied to a quantum circuit with any settings.
+Google's quantum computer excels at checking the outputs of a quantum random number generator.
+Credit: Erik Lucero Verifying the solution was a further challenge. To do that, the team compared the results with those from simulations of smaller and simpler versions of the circuits, which were done by classical computers — including the Summit supercomputer at Oak Ridge National Laboratory in Tennessee. Extrapolating from these examples, the Google team estimates that simulating the full circuit would take 10,000 years even on a computer with one million processing units (equivalent to around 100,000 desktop computers). Sycamore took just 3 minutes and 20 seconds.
+Google thinks their evidence for quantum supremacy is airtight. Even if external researchers cut the time it takes to do the classical simulation, quantum hardware is improving — meaning that for this problem, conventional computers are unlikely to ever catch up, says Hartmut Neven, who runs Google’s quantum-computing team.
+Limited applications Monroe says that Google’s achievement might benefit quantum computing by attracting more computer scientists and engineers to the field. But he also warns that the news could create the impression that quantum computers are closer to mainstream practical applications than they really are. “The story on the street is ‘they’ve finally beaten a regular computer: so here we go, two years and we’ll have one in our house’,” he says.
+In reality, Monroe adds, scientists are yet to show that a programmable quantum computer can solve a useful task that cannot be done any other way, such as by calculating the electronic structure of a particular molecule — a fiendish problem that requires modelling multiple quantum interactions. Another important step, says Aaronson, is demonstrating quantum supremacy in an algorithm that uses a process known as error correction — a method to correct for noise-induced errors that would otherwise ruin a calculation. Physicists think this will be essential to getting quantum computers to function at scale.
+Google is working towards both of these milestones, says Martinis, and will reveal the results of its experiments in the coming months.
+Aaronson says that the experiment Google devised to demonstrate quantum supremacy might have practical applications: he has created a protocol to use such a calculation to prove to a user that the bits generated by a quantum random-number generator really are random. This could be useful, for example, in cryptography and some cryptocurrencies, whose security relies on random keys.
+Google engineers had to carry out a raft of improvements to their hardware to run the algorithm, including building new electronics to control the quantum circuit and devising a new way to connect qubits, says Martinis. “This is really the basis of how we’re going to scale up in the future. We think this basic architecture is the way forward,” he says.
+Nature 574 , 461-462 (2019) doi: https://doi.org/10.1038/d41586-019-03213-z References Arute, F.
+et al.
+Nature 574 , 505–510 (2019).
+Article Google Scholar Pednault, E.
+et al.
+Preprint at https://arxiv.org/abs/1910.09534 (2019).
+Download references Reprints and Permissions Related Articles Beyond quantum supremacy Quantum gold rush: the private funding pouring into quantum start-ups Physicists propose football-pitch-sized quantum computer Keep quantum computing global and open Europe plans giant billion-euro quantum technologies project Subjects Quantum physics Computer science Latest on: Magnetic atoms push interactions to new lengths for quantum simulation News & Views 25 OCT 23 Dipolar quantum solids emerging in a Hubbard quantum simulator Article 25 OCT 23 Measurement-induced entanglement and teleportation on a noisy quantum processor Article 18 OCT 23 Garbage in, garbage out: mitigating risks and maximizing benefits of AI in research Comment 31 OCT 23 Why the UK-led global AI summit is missing the point Editorial 31 OCT 23 How big quantum computers could keep their qubits under control Research Highlight 26 OCT 23 Jobs [DGIST] The second half of 2023 Tenure-Track Faculty Public Invitation South Korea (KR) DGIST Principle Investigator and Joint Recruitment Position-Postdoc The Center for Evolutionary & Organismal Biology invites applications from evolutionary scientists for All ranks.
+Hangzhou, Zhejiang, China Center for Evolutionary & Organismal Biology, Zhejiang University Tenure-track Faculty Positions in Particle Physics and Cosmology Faculty Positions in Particle Physics and Cosmology Hong Kong (HK) Department of Physics, The Hong Kong University of Science & Technology (HKUST) Assistant/Associate Professor Center for Virology and Vaccine Research (CVVR) at Beth Israel Deaconess Medical Center (BIDMC) is seeking Assistant or Associate Professor.
+Boston, Massachusetts (US) Beth Israel Deaconess Medical Center (BIDMC) Scientific and Technical Advisory Panel to the Global Environment Facility Scientific and Technical Advisory Panel to the Global Environment Facility: Panel Member for Land Degradation Washington D.C. (US) Scientific and Technical Advisory Panel (STAP) of the Global Environment Facility (GEF) You have full access to this article via your institution.
+Download PDF Download PDF Related Articles Beyond quantum supremacy Quantum gold rush: the private funding pouring into quantum start-ups Physicists propose football-pitch-sized quantum computer Keep quantum computing global and open Europe plans giant billion-euro quantum technologies project Subjects Quantum physics Computer science Sign up to Nature Briefing An essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
+Close Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+Close Get the most important science stories of the day, free in your inbox.
+Explore content Research articles News Opinion Research Analysis Careers Books & Culture Podcasts Videos Current issue Browse issues Collections Subjects Follow us on Facebook Follow us on Twitter Subscribe Sign up for alerts RSS feed About the journal Journal Staff About the Editors Journal Information Our publishing models Editorial Values Statement Journal Metrics Awards Contact Editorial policies History of Nature Send a news tip Publish with us For Authors For Referees Language editing services Submit manuscript Search Quick links Explore articles by subject Find a job Guide to authors Editorial policies Nature ( Nature ) ISSN 1476-4687 (online) ISSN 0028-0836 (print) nature.com sitemap About Nature Portfolio About us Press releases Press office Contact us Discover content Journals A-Z Articles by subject Nano Protocol Exchange Nature Index Publishing policies Nature portfolio policies Open access Author & Researcher services Reprints & permissions Research data Language editing Scientific editing Nature Masterclasses Live Expert Trainer-led workshops Research Solutions Libraries & institutions Librarian service & tools Librarian portal Open research Recommend to library Advertising & partnerships Advertising Partnerships & Services Media kits Branded content Career development Nature Careers Nature Conferences Nature events Regional websites Nature Africa Nature China Nature India Nature Italy Nature Japan Nature Korea Nature Middle East Privacy Policy Use of cookies Your privacy choices/Manage cookies Legal notice Accessibility statement Terms & Conditions Your US state privacy rights © 2023 Springer Nature Limited

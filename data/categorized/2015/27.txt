@@ -1,36 +1,146 @@
-old id = 944
-How a Russian cyberwar in Ukraine could ripple out globally | MIT Technology Review
+old id = 2336
+Interaction with indoor plants may reduce psychological and physiological stress by suppressing autonomic nervous system activity in young adults: a randomized crossover study - PMC
 2015
-https://www.technologyreview.com/2022/01/21/1043980/how-a-russian-cyberwar-in-ukraine-could-ripple-out-globally
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4419447
 
-How a Russian cyberwar in Ukraine could ripple out globallySoldiers and tanks may care about national borders. Cyber doesn't.
-Related StoryRussia and Ukraine promised to cooperate and help catch the world’s most successful hackers. But things didn’t quite go to plan.
-Russia has sent more than 100,000 soldiers to the nation's border with Ukraine, threatening a war unlike anything Europe has seen in decades. Though there hasn’t been any shooting yet, cyber operations are already underway.
-Last week, hackers defaced dozens of government websites in Ukraine, a technically simple but attention-grabbing act that generated global headlines. More quietly, they also placed destructive malware inside Ukrainian government agencies, an operation first discovered by researchers atMicrosoft. It’s not clear yet who is responsible, but Russia is the leading suspect.
-But while Ukraine continues to feel the brunt of Russia’s attacks, government and cybersecurity experts are worried that these hacking offensives could spill out globally, threatening Europe, the United States, and beyond.
-On January 18, the US Cybersecurity and Infrastructure Security Agency (CISA)warnedcritical infrastructure operators to take “urgent, near-term steps” against cyber threats, citing the recent attacks against Ukraine as a reason to be on alert for possible threats to US assets. The agency also pointed to two cyberattacks from 2017, NotPetya and WannaCry, which both spiraled out of control from their initial targets, spread rapidly around the internet, and impacted the entire world at a cost of billions of dollars. The parallels are clear: NotPetya was a Russian cyberattack targeting Ukraine during a time of high tensions.
-“Aggressive cyber operations are tools that can be used before bullets and missiles fly,” says John Hultquist, head of intelligence for the cybersecurity firm Mandiant. “For that exact reason, it’s a tool that can be used against the United States and allies as the situation further deteriorates. Especially if the US and its allies take a more aggressive stance against Russia.”That looks increasingly possible. President Joe Biden said during a press conference January 19 that the US could respond to future Russian cyberattacks against Ukraine with its own cyber capabilities, further raising the specter of conflict spreading.
-“My guess is he will move in,” Biden said when asked if he thought Russia’s President Vladimir Putin would invade Ukraine.
-Related StoryWashington has sanctioned Russian cybersecurity firm Positive Technologies. US intelligence reports claim it provides hacking tools and runs operations for the Kremlin.
-Unintentional consequences?The knock-on effects for the rest of the world might not be limited to intentional reprisals by Russian operatives. Unlike old-fashioned war, cyberwar is not confined by borders and can more easily spiral out of control.
-Ukraine has been on the receiving end of aggressive Russian cyber operations for the last decade and has suffered invasion and military intervention from Moscow since 2014. In 2015 and 2016, Russian hackers attacked Ukraine’s power grid and turned out the lights in the capital city of Kyiv— unparalleled acts that haven't been carried out anywhere else before or since.
-The 2017 NotPetya cyberattack, once again ordered by Moscow, was directed initially at Ukrainian private companies before it spilled over and destroyed systems around the world.
-NotPetya masqueraded as ransomware, but in fact it was a purely destructive and highly viral piece of code. The destructive malware seen in Ukraine last week, now known as WhisperGate, also pretended to be ransomware while aiming to destroy key data that renders machines inoperable. Experts say WhisperGate is “reminiscent” of NotPetya, down to the technical processes that achieve destruction, but that there are notable differences. For one, WhisperGate is less sophisticated and is not designed to spread rapidly in the same way. Russia has denied involvement, and no definitive link points to Moscow.
-NotPetya incapacitated shipping ports and left several giant multinational corporations and government agencies unable to function. Almost anyone who did business with Ukraine was affected because the Russians secretly poisoned software used by everyone who pays taxes or does business in the country.
-The White House said the attack caused more than $10 billion in global damage and deemed it “the most destructive and costly cyberattack in history.”Since 2017, there has been ongoing debate about whether the international victims were merely unintentional collateral damage or whether the attack targeted companies doing business with Russia’s enemies. What is clear is that it can happen again.
-Accident or not, Hultquist anticipates that we will see cyber operations from Russia’s military intelligence agency GRU, the organization behind many of the most aggressive hacks of all time, both inside and outside Ukraine. The GRU’s most notorious hacking group, dubbed Sandworm by experts, is responsible for a long list of greatest hits including the 2015 Ukrainian power grid hack, the 2017 NotPetya hacks, interference in US and French elections, and the Olympics opening ceremony hack in the wake of a Russian doping controversy that left the country excluded from the games.
-Hultquist is also looking out for another group, known to experts as Berserk Bear, that originates from the Russian intelligence agency FSB. In 2020, US officialswarnedof the threat the group poses to government networks. The German governmentsaidthe same group had achieved “longstanding compromises” at companies as they targeted energy, water, and power sectors.
-“These guys have been going after this critical infrastructure for a long, a long time now, almost a decade,” says Hultquist. “Even though we’ve caught them on many occasions, it’s reasonable to assume that they still have access in certain areas.”Related StoryA sophisticated toolboxThere is serious debate about the calculus inside Russia and what kind of aggression Moscow would want to undertake outside of Ukraine.
-“I think it’s pretty likely that the Russians will not target our own systems, our own critical infrastructure,” said Dmitri Alperovitch, a longtime expert on Russian cyber activity and founder of the Silverado Policy Accelerator in Washington. “The last thing they’ll want to do is escalate a conflict with the United States in the midst of trying to fight a war with Ukraine.”No one fully understands what goes into Moscow’s math in this fast-moving situation. American leadership now predicts that Russia will invade Ukraine. But Russia has demonstrated repeatedly that, when it comes to cyber, they have a large and varied toolbox. Sometimes they use it for something as relatively simple but effective as a disinformation campaign, intended to destabilize or divide adversaries. They’re also capable of developing and deploying some of the most complex and aggressive cyber operations in the world.
-In 2014, as Ukraine plunged into another crisis and Russia invaded Crimea, Russian hackerssecretly recordedthe call of a US diplomat frustrated with European inaction who said “Fuck the EU” to a colleague. They leaked the call online in an attempt to sow chaos in the West’s alliances as a prelude to intensifying information operations by Russia.
-Leaks and disinformation have continued to be important tools for Moscow. US and European elections have been plagued repeatedly by cyber-enabled disinformation at Russia’s direction. At a moment of more fragile alliances and complicated political environments in Europe and the United States, Putin can achieve important goals by shaping public conversation and perception as war in Europe looms.
-“These cyber incidents can be nonviolent, they are reversible, and most of the consequences are in perception,” says Hultquist. “They corrode institutions, they make us look insecure, they make governments look weak. They often don’t rise to the level that would provoke an actual physical, military response. I believe these capabilities are on the table.”byPatrick Howell O'NeillSharePopularDeep DiveComputingQuantum computing has a hype problemQuantum computing startups are all the rage, but it’s unclear if they’ll be able to produce anything of use in the near future.
-These hackers showed just how easy it is to target critical infrastructureTwo Dutch researchers have won a major hacking championship by hitting the software that runs the world’s power grids, gas pipelines, and more. It was their easiest challenge yet.
-Russia hacked an American satellite company one hour before the Ukraine invasionThe attack on Viasat showcases cyber’s emerging role in modern warfare.
-Russia is risking the creation of a “splinternet”—and it could be irreversibleIf Russia disconnects from—or is booted from— the internet’s governing bodies, the internet may never be the same again for any of us.
-Stay connectedGet the latest updates fromMIT Technology ReviewDiscover special offers, top stories, upcoming events, and more.
-Thank you for submitting your email!It looks like something went wrong.
-We’re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out to us atcustomer-service@technologyreview.comwith a list of newsletters you’d like to receive.
-MIT Technology ReviewOur in-depth reporting reveals what’s going on now to prepare you for what’s coming next.
-Subscribeto support our journalism.
-AboutHelp© 2022 MIT Technology Review
+An official website of the United States government Here's how you know The .gov means it’s official.
+Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+The site is secure.
+The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+Show account info Close Account username Dashboard Publications Account settings Log out Search in PMC Advanced Search User Guide Journal List J Physiol Anthropol v.34(1); 2015 PMC4419447 Other Formats PubReader PDF (890K) Actions Cite Collections Add to Collections Create a new collection Add to an existing collection Name your collection: Name must be less than characters Choose a collection: Unable to load your collection due to an error Please try again Add Cancel Share Permalink Copy RESOURCES Similar articles Cited by other articles Links to NCBI Databases Journal List J Physiol Anthropol v.34(1); 2015 PMC4419447 J Physiol Anthropol.
+Published online 2015 Apr 28.
+doi: 10.1186/s40101-015-0060-8 PMCID: PMC4419447 Interaction with indoor plants may reduce psychological and physiological stress by suppressing autonomic nervous system activity in young adults: a randomized crossover study Min-sun Lee Department of Horticulture Sciences, College of Agriculture and Life Sciences, Chungnam National University, 99 Daehak-ro, Yuseong-gu, Daejeon 305-764 Korea Juyoung Lee Korea Forest Service, Government Complex 1, 189 Cheongsa-ro, Seo-gu, Daejeon 302-701 Korea Bum-Jin Park College of Agriculture and Life Sciences, Chungnam National University, 99 Daehak-ro, Yuseonggu, Daejeon 305-764 Korea Yoshifumi Miyazaki Center for Environment, Health and Field Sciences, Chiba University, 6-2-1 Kashiwanoha, Kashiwa, Chiba 277-0882 Japan Min-sun Lee, Email: moc.liamg@62disml Abstract Background Developments in information technology cause a great deal of stress to modern people, and controlling this stress now becomes an important issue. The aim of this study was to examine psychological and physiological benefits of interaction with indoor plants.
+Methods The study subjects were 24 young male adults at the age of 24.9 ± 2.1 (mean ± SD). The crossover experimental design was used to compare the differences in physiological responses to a computer task and a plant-related task. Subjects were randomly distributed into two groups. The first group (12 subjects) carried out transplanting of an indoor plant, whereas the second group (12 subjects) worked on a computer task. Then, each subject switched activities. The psychological evaluation was carried out using the semantic differential method (SDM) and physiological evaluation using heart rate variability (low-frequency (LF) and high-frequency (HF) components) and blood pressure.
+Results Analysis of the SDM data showed that the feelings during the transplanting task were different from that during the computer task: the subjects felt more comfortable, soothed, and natural after the transplanting task than after the computer task. The mean value of total log[LF/(LF + HF)] (sympathetic activity) increased over time during the computer task but decreased at the end of the transplanting task, and the differences were significant. Furthermore, diastolic blood pressure was significantly lower after the transplanting task.
+Conclusions Our results suggest that active interaction with indoor plants can reduce physiological and psychological stress compared with mental work. This is accomplished through suppression of sympathetic nervous system activity and diastolic blood pressure and promotion of comfortable, soothed, and natural feelings.
+Indoor plant, Technostress, Psychological and physiological effects, Heart rate variability, Sympathetic nervous system Background The living space of modern people has moved from outdoors to indoors - more than 85% of a person’s daily life is spent indoors. Developments in information technology have allowed people to connect and remain connected to the computer environment. However, this diffusion of information technology causes a great deal of stress, such as technostress [ 1 ], which is a modern disease of adaptation caused by an inability to cope with the new computer technologies in a healthy manner. Many studies have been carried out to evaluate various ways to control this psychological stress; for example, the effect of a natural environment on human beings has been actively studied since the 1980s [ 2 - 4 ]. A number of studies are also underway concerning the physiological and psychological effect of interacting with plants. Plants relieve physiological stress and negative psychological symptoms [ 5 - 8 ]. This finding has important implications because the cardiovascular system can be damaged by overactivation of the sympathetic nervous system as a result of a stressful situation [ 9 , 10 ].
+In recent years, the comforting effect of a natural environment has been verified, and further evidence-based studies are underway. Various experimental approaches have been attempted in regard to physiological measures, which can verify the beneficial effects of natural stimuli quantitatively. A contact with plants is an intuitive and nonverbal activity that can provide psychological stability and comfort by stimulating four senses in various ways. Indoor plants have drawn the attention of the scientific community because of their various benefits: they enhance job satisfaction in office workers [ 11 ], reduce psychological stress [ 12 ], improve mood states [ 13 - 16 ], and enhance cognitive health [ 17 - 19 ]. These effects can positively affect resistance to diseases and chronic stress [ 20 , 21 ], but rigorous evidence is lacking. With the present methods of psychological assessment, health benefits of indoor plants cannot be sufficiently explained. Furthermore, few studies have investigated the physiological mechanism underlying the health benefits due to indoor plants.
+Therefore, in this study, we attempted to examine the physiological benefits of indoor plants in modern people. We focused on cardiovascular changes when a person makes a contact with foliage plants: we measured the autonomic nerve system activity. In addition, we attempted to quantify the psychological changes during the contact with plants as well.
+Methods Subjects and the protocol We enrolled 24 young male adults at the age of 24.9 ± 2.1 (mean ± SD). None of the subjects reported a history of physical or psychiatric disorders. The study lasted 3 days. Alcohol and tobacco were prohibited, and caffeine intake was controlled. Prior to the start of the experiments, the subjects were fully informed of the aims and procedures of the experiments, and informed consent was obtained. This study was conducted in compliance with regulations of the Clinical Trial Center, Chungnam National University Hospital, Korea, and the Ethics Committee of the Center for Environment, Health and Field Sciences, Chiba University, Japan.
+The crossover experimental design was used to compare differences in physiological responses to the two tasks. Twenty-four subjects were randomly distributed into two groups. On the first day of the experiments, the first group (12 subjects) tended to indoor plants while the second group (12 subjects) worked on a document in a word processor, one of the most typical computer tasks, which needs continuous physical activity, like the transplanting task. On the second day, the subjects switched activities. Each subject performed each task at the same time of the day to reduce the effects of diurnal variation.
+Materials Peperomia dahlstedtii , a common indoor plant, was used for the transplanting work. The transplanting method was taught to each subject prior to the experiments so that they could work more comfortably. The experiment was carried out in a greenhouse room, where the wall was covered with a black curtain (Figure 1 ), and environmental conditions were maintained relatively consistent (temperature 20.8°C ± 1.4°C, mean ± SD; humidity, 57.7% ± 6.6%; illuminance 1,365.5 ± 327.9 lux).
+Photographs of (A) Peperomia dahlstedtii , (B) a computer, (C) a subject transplanting indoor plants, and (D) a subject performing a computer task.
+The temperature was set at 22°C, and humidity was controlled so that it would not decrease from 50%. The lighting condition was controlled at comfortable level by hanging curtains from the ceiling and on walls to protect from direct sunlight.
+Measurements An electrode was attached to the subjects’ chest in the waiting room, and they moved to the experimental room. After a 2-min rest in a seated position, they performed the given tasks, that is, transplanting houseplants or computer work, for 15 min. Heart rate variability (HRV) was measured consecutively during the task using a portable electrocardiograph (Activtracer AC-301A; GMS, Tokyo, Japan). Blood pressure and pulse rate data were collected before and after the tasks using a digital blood pressure monitoring device (HEM-1000; OMRON, Kyoto, Japan).
+Data analysis HRV data were calculated by averaging 1-min inter-beat (R-R) data and analyzed by means of maximum entropy methods (MemCalc, GMS, Tokyo, Japan) using the low-frequency (LF; 0.04 to 0.14 Hz) and high-frequency (HF; 0.15 to 0.40 Hz) components of the power spectrum. The HF component reflects activity of the parasympathetic nervous system, which increases in a relaxed state, and LF/(LF + HF) reflects activity of the sympathetic nervous system, which increases in a stressed state. All HRV values were log-transformed (base 10).
+The feelings that the subjects experienced during the test were measured using the semantic differential method (SDM), which is a self-rating assessment. The subjects rated their feelings on a seven-point scale for three test items - ‘Comfortable’, ‘Relaxed’, and ‘Natural’ - by writing down their feelings at the moment before and after the tasks.
+A paired t test was used to compare the differences in HRV values and blood pressure between the two tasks. Wilcoxon signed-rank test was used for the analysis of psychological data. Statistical analysis was carried out using the SPSS software, version 21.0 (IBM Corp., Chicago, IL, USA). In both cases, we applied one-sided tests because of the hypothesis that humans would feel more relaxed after the transplanting task. In all cases, the differences were considered statistically significant at P < 0.05.
+Results Analysis of the SDM data showed that the feelings during the transplanting task were different from that during the computer task. The subjects felt comfortable, soothed, and natural after the transplanting task, whereas they felt uncomfortable, awakened, and artificial after the computer task. There were significant differences between the two for the three feelings tested after the 15-min tasks, despite the absence of significant differences in these feelings before the tasks (Figure 2 ) when the subjects showed generally neutral responses for these three feelings.
+Comparison of psychological assessments between plant and computer stimuli.
+(A) Feelings of comfort, (B) the feeling of relaxation, and (C) the feeling of naturalness.
+N = 24, mean ± SD, ** P < 0.01 according to the Wilcoxon signed-rank test.
+The changes of log[LF/(LF + HF)] reflecting the sympathetic nervous system activity during the tasks are shown in Figure 3.
+ Although there were no significant differences in the mean value of total log[LF/(LF + HF)] for the 15-min period, these values changed in ways that differed between the two tasks. The log[LF/(LF + HF)] value increased over time during the computer task but decreased at the end of the transplanting task. Therefore, the data from the last 3 min were compared; they showed significant differences in log[LF/(LF + HF)] (transplanting task 0.57 ± 0.04, computer task 0.60 ± 0.05; P = 0.021; Figure 4 ). There were no significant differences in logHF values of the last 3 min between the transplanting (1.94 ± 0.12) and computer task (1.84 ± 0.12). In the analysis of diastolic blood pressure, a significant difference was observed after completion of a task (transplanting task, 65.26 ± 0.14; computer task, 71.75 ± 0.16; P = 0.001; Figure 5 ).
+Comparison of average log[LF/(LF + HF)] of HRV during the plant and computer tasks.
+N = 24, mean ± SE. HF: high-frequency component, LF: low-frequency component.
+Comparison of average log[LF/(LF + HF)] and logHF of HRV during the last 3 min of plant and computer tasks.
+N = 24, mean ± SE, * P < 0.05 (paired t test). HF: high-frequency component, LF: low-frequency component.
+Comparison of diastolic blood pressure after the plant and computer tasks.
+N = 24, mean ± SD, ** P < 0.01 (paired t test).
+Discussion In this study, we examined the stress-reducing effects of interaction with indoor foliage plants by measuring physiological and psychological responses. The results of HRV analysis indicate that indoor plants have positive physiological effects on the autonomic nervous system by suppressing sympathetic activity, which often increases when a subject is exposed to a stressor. In this study, the value of log[LF/(LF + HF)] (corresponds to sympathetic activity) increases soon after the subjects start the tasks (either the transplanting or computer task), then shows a tendency for a slow decrease during the transplanting task, despite a consistent increase during the computer task. The stress-reducing effect was observed at the end of the transplanting task (the last 3 min); this finding may be partly consistent with that of a previous study [ 22 ]. However, this finding is on the basis of comparison with a computer task, a type of mental task, which tends to increase sympathetic nervous activity [ 23 , 24 ].
+In the present study, the subjects were found to have positive feelings when interacting with indoor plants. In contrast, the computer task increased diastolic blood pressure and sympathetic nervous system activity. The self-rating SDM scores also indicated that working on a computer may have negative effects on the psychological state. It was assumed that participants in this study were familiar with the computer tasks in real life because we recruited university students. Nonetheless, the results showed that the subjects felt stressed when performing the computer task compared to the transplanting task; even though the latter was seemingly unfamiliar work to our subjects.
+Our data support the notion that active interaction [ 25 ] with indoor plants can have positive effects on human stress response mediated by cardiovascular activities. These physiological benefits may result from multiple natural stimuli acting on the senses of vision, hearing, touch, and smell; this effect is also seen in forest therapy research [ 26 - 29 ]. Although many studies reported positive effects of indoor plants, most of them have been focused on the benefits of passive interaction [ 25 ] with indoor plants [ 11 , 13 , 30 , 31 ]. Our study presents relevant data that can explain the mechanism behind the health benefits of active interaction with indoor plants, from the standpoint of the stress response.
+A possible limitation of this study is that our subject group was limited to healthy young male university students; more diverse subject groups should be tested in the future to generalize the results. In the present work, physiological responses to specific stimuli appeared at the end of the 15-min experimental period task duration; therefore, the task duration should be extended beyond 15 min in future studies. It is also recommended that future research should use a control task more realistic and practical with regard to the application of the results.
+Conclusions Our results suggest that active interaction with indoor plants can reduce physiological and psychological stress compared with mental work. This is accomplished through suppression of sympathetic nervous system activity and diastolic blood pressure and promotion of comfortable, soothed, and natural feelings.
+Abbreviations HF high-frequency HRV heart rate variability LF low-frequency SDM semantic differential method Footnotes Competing interests The authors declare that they have no competing interests.
+Authors’ contributions ML participated in the study design, carried out the data collection and analysis, and drafted the manuscript. JL participated in the study design and carried out the data collection and interpretation. BP participated in the study design and carried out the data collection and analysis. YM participated in the study design and data interpretation and edited the manuscript. All authors read and approved the final version of the manuscript.
+Contributor Information Min-sun Lee, Email: moc.liamg@62disml.
+Juyoung Lee, Email: moc.liamg@iwahol.
+Bum-Jin Park, Email: rk.ca.unc@krapjb.
+Yoshifumi Miyazaki, Email: pj.u-abihc.ytlucaf@ikazayimy.
+References Brod C. Technostress: the human cost of the computer revolution. Reading: MA: Addison-Wesley; 1984.
+Ulrich RS. View through a window may influence recovery from surgery.
+Science.
+1984; 224 :420–1. doi: 10.1126/science.6143402.
+[ PubMed ] [ CrossRef ] [ Google Scholar ] Lewis CA.
+Green nature/human nature: the meaning of plants in our lives.
+Chicago, IL: University of Illinois press; 1996.
+[ Google Scholar ] Kaplan R, Kaplan S.
+The experience of nature: a psychological perspective.
+New York: Cambridge University press; 1989.
+[ Google Scholar ] Chang C, Chen P. Human response to window views and indoor plants in the workplace.
+Hort Science.
+2005; 40 :1354–9.
+[ Google Scholar ] Coleman CK, Mattson RH. Influences of foliage plants of human stress during thermal biofeedback training.
+Hort Technology.
+1995; 5 :137–40.
+[ Google Scholar ] Fjeld T. The effect of interior planting on health and discomfort among workers and school children.
+Hort Technology.
+2000; 10 :46–52.
+[ Google Scholar ] Moore EO. A prison environment’s effect on health care service demands.
+J Environ Sys.
+1981; 11 :17–34. doi: 10.2190/KM50-WH2K-K2D1-DM69.
+[ CrossRef ] [ Google Scholar ] Boomershine CS, Wang T, Zwilling BS. Neuroendocrine regulation of macrophage and neutrophil function. In: Ader R, Chone D, Felten L, Cohen N, editors.
+Psychoneuroimmuology.
+New York: Academic Press; 2001.
+[ Google Scholar ] McEwen BS. Protective and damaging effects of stress mediators.
+N Engl J Med.
+1998; 338 :171–9. doi: 10.1056/NEJM199801153380307.
+[ PubMed ] [ CrossRef ] [ Google Scholar ] Dravigne A, Waliczek TM, Lineberger RD, Zajicek JM. The effect of live plants and window views of green spaces on employee perceptions of job satisfaction.
+Hort Sci.
+2008; 43 :183–7.
+[ Google Scholar ] Kaplan R. The nature of the view from home: psychological benefits.
+Environ Behav.
+2001; 33 :507–42. doi: 10.1177/00139160121973115.
+[ CrossRef ] [ Google Scholar ] Adachi M, Rode CLE, Kendle AD. Effects of floral and foliage displays on human emotions.
+Hort Sci.
+2000; 10 :59–63.
+[ Google Scholar ] Ulrich RS. Natural versus urban scenes: some psycho-physiological effects.
+Environ Behav.
+1981; 13 :523–56. doi: 10.1177/0013916581135001.
+[ CrossRef ] [ Google Scholar ] Ulrich RS, Simons RF, Losito BD, Fiorito E, Miles MA, Zelson M. Stress recovery during exposure to natural and urban environments.
+J Environ Psychol.
+1991; 11 :201–30. doi: 10.1016/S0272-4944(05)80184-7.
+[ CrossRef ] [ Google Scholar ] Shibata S, Suzuki N. Effects of indoor foliage plants on subjects’ recovery from mental fatigue.
+North Am J Psychol.
+2001; 3 :385.
+[ Google Scholar ] Cimprich B. Development of an intervention to restore attention in cancer patients.
+Cancer Nurs.
+1993; 16 :83–92. doi: 10.1097/00002820-199304000-00001.
+[ PubMed ] [ CrossRef ] [ Google Scholar ] Hartig TA, Mang A, Evans GW. Restorative effects of natural environment experience.
+Environ Behav.
+1991; 23 :3–27. doi: 10.1177/0013916591231001.
+[ CrossRef ] [ Google Scholar ] Tennessen CM, Cimprich B. Views to nature: effects on attention.
+J Environ Psychol.
+1995; 15 :77–85. doi: 10.1016/0272-4944(95)90016-0.
+[ CrossRef ] [ Google Scholar ] Pearin LI. The social contexts of stress. In: Goldberger L, Breznitz S, editors.
+Handbook of stress.
+New York: The Free Press; 1993.
+[ Google Scholar ] Salovey P, Rothman AJ, Detweiler JB, Steward WT. Emotional states and physical health.
+Am Psychol.
+2000; 55 :110–21. doi: 10.1037/0003-066X.55.1.110.
+[ PubMed ] [ CrossRef ] [ Google Scholar ] Lee MS, Park BJ, Lee J, Park KT, Ku JH, Lee JW, et al. Physiological relaxation induced by horticultural activity: transplanting work using flowering plants.
+J Physiol Anthropol.
+2013; 32 :15. doi: 10.1186/1880-6805-32-15.
+[ PMC free article ] [ PubMed ] [ CrossRef ] [ Google Scholar ] Ishibashi K, Ueda S, Yasukouchi A. Effects of mental task on heart rate variability during graded head-up tilt.
+Appl Human Sci.
+1999; 18 :225–31. doi: 10.2114/jpa.18.225.
+[ PubMed ] [ CrossRef ] [ Google Scholar ] Sato N, Miyake S. Cardiovascular reactivity to mental stress: relationship with menstrual cycle and gender.
+J Physiol Anthropol Appl Human Sci.
+2004; 23 :215–23. doi: 10.2114/jpa.23.215.
+[ PubMed ] [ CrossRef ] [ Google Scholar ] Lohr VI, Pearson-Mims CH. Children’s active and passive interactions with plants influence their attitudes and action toward trees and gardening as adults.
+Hort Technology.
+2005; 15 :472–6.
+[ Google Scholar ] Tsunetsugu Y, Park BJ, Ishii H, Hirano H, Kagawa T, Miyazaki Y. Physiological effects of “Shinrin-yoku” (taking in the atmosphere of the forest) in an old-growth broadleaf forest in Yamagata prefecture, Japan.
+J Physiol Anthropol.
+2007; 26 :135–42. doi: 10.2114/jpa2.26.135.
+[ PubMed ] [ CrossRef ] [ Google Scholar ] Park BJ, Tsunetsugu Y, Ishii H, Furuhashi S, Hirano S, Kagawa T, et al. Physiological effects of Shinrin-yoku (taking in the atmosphere of the forest) in a mixed forest in Shinano Town, Japan.
+Scand J Forest Res.
+2008; 23 :278–83. doi: 10.1080/02827580802055978.
+[ CrossRef ] [ Google Scholar ] Lee J, Park BJ, Tsunetsugu Y, Ohira T, Kagawa T, Miyazaki Y. Effect of forest bathing on physiological and psychological responses in young Japanese male subjects.
+Public Health.
+2011; 125 :93–100. doi: 10.1016/j.puhe.2010.09.005.
+[ PubMed ] [ CrossRef ] [ Google Scholar ] Lee J, Tsunetsugu Y, Takayama N, Park BJ, Li Q, Song CR, et al. Influence of forest therapy on cardiovascular relaxation in young adults.
+Evid Complement Altern Med.
+2014; 2014 :7.
+[ PMC free article ] [ PubMed ] [ Google Scholar ] Lohr VI, Person-Mins CH. Physical discomfort may be reduced in the presence of interior plants.
+Hort Technology.
+2000; 10 :53–8.
+[ Google Scholar ] Bringslimark T, Hartig T, Patil GG. The psychological benefits of indoor plants: a critical review of the experimental literature.
+J Environ Psychol.
+2009; 29 :422–33. doi: 10.1016/j.jenvp.2009.05.001.
+[ CrossRef ] [ Google Scholar ] Journal of Physiological Anthropology Other Formats PubReader PDF (890K) Actions Cite Collections Add to Collections Create a new collection Add to an existing collection Name your collection: Name must be less than characters Choose a collection: Unable to load your collection due to an error Please try again Add Cancel Share Permalink Copy RESOURCES Similar articles Cited by other articles Links to NCBI Databases Download .nbib.
+nbib Connect with NLM.
+st20 { fill: #FFFFFF; } .st30 { fill: none; stroke: #FFFFFF; stroke-width: 8; stroke-miterlimit: 10; } SM-Twitter.
+st10 { fill: #FFFFFF; } .st110 { fill: none; stroke: #FFFFFF; stroke-width: 8; stroke-miterlimit: 10; } SM-Facebook SM-Youtube.
+st4 { fill: none; stroke: #FFFFFF; stroke-width: 8; stroke-miterlimit: 10; } .st5 { fill: #FFFFFF; } National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894 Web Policies FOIA HHS Vulnerability Disclosure Help Accessibility Careers NLM NIH HHS USA.gov

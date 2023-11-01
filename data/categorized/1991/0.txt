@@ -1,9 +1,1582 @@
-old id = 298
-This Week’s Awesome Tech Stories From Around the Web (Through June 5)
+old id = 805
+Deep learning - Wikipedia
 1991
-https://singularityhub.com/2021/06/05/this-weeks-awesome-tech-stories-from-around-the-web-through-june-5
+https://en.wikipedia.org/wiki/Deep_learning
 
-This Week’s Awesome Tech Stories From Around the Web (Through June 5)ARTIFICIAL INTELLIGENCEChina’s Gigantic Multi-Modal AI Is No One-Trick PonyA. Tarantola | Engadget“When Open AI’s GPT-3 model made its debut in May of 2020, its performance was widely considered to be the literal state of the art. …But oh what a difference a year makes. Researchers from the Beijing Academy of Artificial Intelligence announced on Tuesday the release of their own generative deep learning model, Wu Dao, a mammoth AI seemingly capable of doing everything GPT-3 can do, and more.”TRANSPORTATIONUnited Airlines Wants to Bring Back Supersonic Air TravelLauren Hirsch | The New York Times“…United Airlines said it was ordering 15 jets that can travel faster than the speed of sound from Boom Supersonic, a start-up in Denver. …Boom, which has raised $270 million from venture capital firms and other investors, said it planned to introduce aircraft in 2025 and start flight tests in 2026. It expects the plane, which it calls the Overture, to carry passengers before the end of the decade.”SPACESpacex Signs ‘Blockbuster Deal’ To Send Space Tourists to the ISSAmanda Kooser | CNET“On Wednesday, space tourism company Axiom Space announced a ‘blockbuster deal’ with SpaceX that will send private crews to the ISS through 2023.
-Axiom and SpaceX already had a deal in placefor a Dragon spacecraft flight with three private citizens and former NASA astronaut Michael López-Alegría in early 2022. The new agreement expands the scope to a total of four flights.”TRANSPORTATIONWhy Electric Cars Will Take Over Sooner Than You ThinkJustin Rowlatt | BBC News“This isn’t a fad, this isn’t greenwashing. Yes, the fact many governments around the world are setting targets to ban the sale of petrol and diesel vehicles gives impetus to the process. But what makes the end of the internal combustion engine inevitable is a technological revolution. And technological revolutions tend to happen very quickly.”ETHICSHave Autonomous Robots Started Killing in War?James Vincent | The Verge“…over the past week, a number of publications tentatively declared, based on a UN report from the Libyan civil war, that killer robots may have hunted down humans autonomously for the first time. As one headline put it: ‘The Age of Autonomous Killer Robots May Already Be Here.’ But is it? As you might guess, it’s a hard question to answer.”ENERGYChart: Behind the Three-Decade Collapse of Lithium-Ion Battery CostsRahul Rao | IEEE Spectrum“Between 1991 and 2018, the average price of the batteries that power mobile phones, fuel electric cars, and underpin green energy storage fell more than thirtyfold, according to work by Micah Ziegler Jessika Trancik and at the Massachusetts Institute of Technology. …Batteries today, the researchers say, have mass-production scales and energy densities unthinkable 30 years ago.”HEALTHThe UK Has a Plan for a New ‘Pandemic Radar’ SystemMaryn McKenna | Wired“i‘What we really need is a broadly distributed, high-fidelity, always-on surveillance system…’ says Samuel V. Scarpino, an assistant professor at Northeastern University who directs its Emergent Epidemics Lab. ‘This is not something that can be built easily. But we have a narrow window right now, where basically the whole planet knows that we need to solve this.’i”INTERFACESVilnius, Lithuania Built a ‘Portal’ to Another City To Help Keep People ConnectedKim Lyons | The Verge“They really went all-in on the idea and the design; it looks quite a bit like something out of the erstwhile sci-fi movie/showStargate. …The portals both have large screens and cameras that broadcast live images between the two cities—a kind of digital bridge, according to its creators—meant to encourage people to ‘rethink the meaning of unity,’ Go Vilnius said in a press release. Aw.”SECURITYAmazon Devices Will Soon Automatically Share Your Internet With NeighborsDan Goodin | Ars Technica“Amazon’s experimental wireless mesh networking turns users into guinea pigs. …By default, a variety of Amazon devices will enroll in the system come June 8. And since only a tiny fraction of people take the time to change default settings, that means millions of people will be co-opted into the program whether they know anything about it or not.”Image Credit:Praewthida K/UnsplashFollow Singularity:LatestThis Week’s Awesome Tech Stories From Around the Web (Through May 21)Volvo and DHL Are Partnering on Hub-to-Hub Autonomous TruckingHow a Volcanic Bombardment in Ancient Australia Led to the World’s Greatest Climate CatastropheRELATEDThis Week’s Awesome Tech Stories From Around the Web (Through May 21)This Week’s Awesome Tech Stories From Around the Web (Through May 14)This Week’s Awesome Tech Stories From Around the Web (Through May 7)How the Extinction of Ice Age Mammals May Have Forced Us to Invent CivilizationGet the latest news from Singularity Hub!Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.
-© 2022 Singularity Education Group. All Rights Reserved.
-Singularity University is not a degree granting institution.
+Main menu Main page Contents Current events Random article About Wikipedia Contact us Donate Help Learn to edit Community portal Recent changes Upload file Search Create account Log in Personal tools Create account Log in learn more Contributions Talk Contents (Top) 1 Definition 2 Overview 3 Interpretations 4 History Toggle History subsection 4.1 Deep learning revolution 5 Neural networks Toggle Neural networks subsection 5.1 Deep neural networks 5.1.1 Challenges 6 Hardware 7 Applications Toggle Applications subsection 7.1 Automatic speech recognition 7.2 Image recognition 7.3 Visual art processing 7.4 Natural language processing 7.5 Drug discovery and toxicology 7.6 Customer relationship management 7.7 Recommendation systems 7.8 Bioinformatics 7.9 Medical image analysis 7.10 Mobile advertising 7.11 Image restoration 7.12 Financial fraud detection 7.13 Military 7.14 Partial differential equations 7.15 Image Reconstruction 7.16 Epigenetic clock 8 Relation to human cognitive and brain development 9 Commercial activity 10 Criticism and comment Toggle Criticism and comment subsection 10.1 Theory 10.2 Errors 10.3 Cyber threat 10.4 Data collection ethics 11 See also 12 References 13 Further reading Toggle the table of contents Deep learning 49 languages Afrikaans العربية বাংলা Bân-lâm-gú Български Bosanski Català Čeština Dansk Deutsch Eesti Español Euskara فارسی Français Gaeilge Galego 한국어 Հայերեն Bahasa Indonesia Italiano עברית മലയാളം Bahasa Melayu Монгол Nederlands 日本語 Norsk bokmål Occitan پښتو Polski Português Română Runa Simi Русский Shqip Simple English Slovenščina کوردی Српски / srpski Suomi Svenska தமிழ் ไทย Türkçe Українська Tiếng Việt 粵語 中文 Edit links Article Talk English Read Edit View history Tools Read Edit View history What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Wikidata item Download as PDF Printable version Wikimedia Commons Part of a series on Machine learning and data mining Paradigms Supervised learning Unsupervised learning Online learning Batch learning Meta-learning Semi-supervised learning Self-supervised learning Reinforcement learning Rule-based learning Quantum machine learning Problems Classification Generative model Regression Clustering dimension reduction density estimation Anomaly detection Data Cleaning AutoML Association rules Semantic analysis Structured prediction Feature engineering Feature learning Learning to rank Grammar induction Ontology learning Multimodal learning Supervised learning ( classification • regression ) Apprenticeship learning Decision trees Ensembles Bagging Boosting Random forest k -NN Linear regression Naive Bayes Artificial neural networks Logistic regression Perceptron Relevance vector machine (RVM) Support vector machine (SVM) Clustering BIRCH CURE Hierarchical k -means Fuzzy Expectation–maximization (EM) DBSCAN OPTICS Mean shift Dimensionality reduction Factor analysis CCA ICA LDA NMF PCA PGD t-SNE SDL Structured prediction Graphical models Bayes net Conditional random field Hidden Markov Anomaly detection RANSAC k -NN Local outlier factor Isolation forest Artificial neural network Autoencoder Cognitive computing Deep learning DeepDream Feedforward neural network Recurrent neural network LSTM GRU ESN reservoir computing Restricted Boltzmann machine GAN Diffusion model SOM Convolutional neural network U-Net Transformer Vision Spiking neural network Memtransistor Electrochemical RAM (ECRAM) Reinforcement learning Q-learning SARSA Temporal difference (TD) Multi-agent Self-play Learning with humans Active learning Crowdsourcing Human-in-the-loop Model diagnostics Learning curve Mathematical foundations Kernel machines Bias–variance tradeoff Computational learning theory Empirical risk minimization Occam learning PAC learning Statistical learning VC theory Machine-learning venues ECML PKDD NeurIPS ICML ICLR IJCAI ML JMLR Related articles Glossary of artificial intelligence List of datasets for machine-learning research List of datasets in computer vision and image processing Outline of machine learning.
+mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em} v t e Part of a series on Artificial intelligence Major goals Artificial general intelligence Planning Computer vision General game playing Knowledge reasoning Machine learning Natural language processing Robotics AI safety Approaches Symbolic Deep learning Bayesian networks Evolutionary algorithms Situated approach Hybrid intelligent systems Systems integration Philosophy Chinese room Friendly AI Control problem / Takeover Ethics Existential risk Turing test History Timeline Progress AI winter AI boom Technology Applications Projects Programming languages Glossary Glossary v t e Deep learning is the subset of machine learning methods which are based on artificial neural networks with representation learning.
+ The adjective "deep" in deep learning refers to the use of multiple layers in the network. Methods used can be either supervised , semi-supervised or unsupervised.
+[2] Deep-learning architectures such as deep neural networks , deep belief networks , deep reinforcement learning , recurrent neural networks , convolutional neural networks and transformers have been applied to fields including computer vision , speech recognition , natural language processing , machine translation , bioinformatics , drug design , medical image analysis , climate science , material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance.
+[3] [4] [5] Artificial neural networks (ANNs) were inspired by information processing and distributed communication nodes in biological systems.
+ ANNs have various differences from biological brains. Specifically, artificial neural networks tend to be static and symbolic, while the biological brain of most living organisms is dynamic (plastic) and analog.
+[6] [7] Definition [ edit ] Deep learning is a class of machine learning algorithms that [8] : 199–200 uses multiple layers to progressively extract higher-level features from the raw input. For example, in image processing , lower layers may identify edges, while higher layers may identify the concepts relevant to a human such as digits or letters or faces.
+From another angle to view deep learning, deep learning refers to "computer-simulate" or "automate" human learning processes from a source (e.g., an image of dogs) to a learned object (dogs). Therefore, a notion coined as "deeper" learning or "deepest" learning [9] makes sense. The deepest learning refers to the fully automatic learning from a source to a final learned object. A deeper learning thus refers to a mixed learning process: a human learning process from a source to a learned semi-object, followed by a computer learning process from the human learned semi-object to a final learned object.
+Overview [ edit ] Most modern deep learning models are based on multi-layered artificial neural networks such as convolutional neural networks and transformers , although they can also include propositional formulas or latent variables organized layer-wise in deep generative models such as the nodes in deep belief networks and deep Boltzmann machines.
+[10] In deep learning, each level learns to transform its input data into a slightly more abstract and composite representation. In an image recognition application, the raw input may be a matrix of pixels; the first representational layer may abstract the pixels and encode edges; the second layer may compose and encode arrangements of edges; the third layer may encode a nose and eyes; and the fourth layer may recognize that the image contains a face. Importantly, a deep learning process can learn which features to optimally place in which level on its own.
+ This does not eliminate the need for hand-tuning; for example, varying numbers of layers and layer sizes can provide different degrees of abstraction.
+[11] [12] The word "deep" in "deep learning" refers to the number of layers through which the data is transformed. More precisely, deep learning systems have a substantial credit assignment path (CAP) depth. The CAP is the chain of transformations from input to output. CAPs describe potentially causal connections between input and output. For a feedforward neural network , the depth of the CAPs is that of the network and is the number of hidden layers plus one (as the output layer is also parameterized). For recurrent neural networks , in which a signal may propagate through a layer more than once, the CAP depth is potentially unlimited.
+[13] No universally agreed-upon threshold of depth divides shallow learning from deep learning, but most researchers agree that deep learning involves CAP depth higher than 2. CAP of depth 2 has been shown to be a universal approximator in the sense that it can emulate any function.
+[14] Beyond that, more layers do not add to the function approximator ability of the network. Deep models (CAP > 2) are able to extract better features than shallow models and hence, extra layers help in learning the features effectively.
+Deep learning architectures can be constructed with a greedy layer-by-layer method.
+[15] Deep learning helps to disentangle these abstractions and pick out which features improve performance.
+[11] For supervised learning tasks, deep learning methods eliminate feature engineering , by translating the data into compact intermediate representations akin to principal components , and derive layered structures that remove redundancy in representation.
+Deep learning algorithms can be applied to unsupervised learning tasks. This is an important benefit because unlabeled data are more abundant than the labeled data. Examples of deep structures that can be trained in an unsupervised manner are deep belief networks.
+[11] [16] Interpretations [ edit ] Deep neural networks are generally interpreted in terms of the universal approximation theorem [17] [18] [19] [20] [21] or probabilistic inference.
+[22] [8] [11] [13] [23] The classic universal approximation theorem concerns the capacity of feedforward neural networks with a single hidden layer of finite size to approximate continuous functions.
+[17] [18] [19] [20] In 1989, the first proof was published by George Cybenko for sigmoid activation functions [17] and was generalised to feed-forward multi-layer architectures in 1991 by Kurt Hornik.
+[18] Recent work also showed that universal approximation also holds for non-bounded activation functions such as Kunihiko Fukushima 's rectified linear unit.
+[24] [25] The universal approximation theorem for deep neural networks concerns the capacity of networks with bounded width but the depth is allowed to grow. Lu et al.
+[21] proved that if the width of a deep neural network with ReLU activation is strictly larger than the input dimension, then the network can approximate any Lebesgue integrable function ; if the width is smaller or equal to the input dimension, then a deep neural network is not a universal approximator.
+The probabilistic interpretation [23] derives from the field of machine learning.
+ It features inference, [8] [10] [11] [13] [16] [23] as well as the optimization concepts of training and testing , related to fitting and generalization , respectively. More specifically, the probabilistic interpretation considers the activation nonlinearity as a cumulative distribution function.
+[23] The probabilistic interpretation led to the introduction of dropout as regularizer in neural networks. The probabilistic interpretation was introduced by researchers including Hopfield , Widrow and Narendra and popularized in surveys such as the one by Bishop.
+[26] History [ edit ] There are two types of neural networks: feedforward neural networks (FNNs) and recurrent neural networks (RNNs). RNNs have cycles in their connectivity structure, FNNs don't. In the 1920s, Wilhelm Lenz and Ernst Ising created and analyzed the Ising model [27] which is essentially a non-learning RNN architecture consisting of neuron-like threshold elements. In 1972, Shun'ichi Amari made this architecture adaptive.
+[28] [29] His learning RNN was popularised by John Hopfield in 1982.
+[30] RNNs have become central for speech recognition and language processing.
+Charles Tappert writes that Frank Rosenblatt developed and explored all of the basic ingredients of the deep learning systems of today, [31] referring to Rosenblatt's 1962 book [32] which introduced a multilayer perceptron (MLP) with 3 layers: an input layer, a hidden layer with randomized weights that did not learn, and an output layer.
+[29] However, since only the output layer had learning connections, this was not yet deep learning. It was what later was called an extreme learning machine.
+[29] The first general, working learning algorithm for supervised, deep, feedforward, multilayer perceptrons was published by Alexey Ivakhnenko and Lapa in 1967.
+[33] A 1971 paper described a deep network with eight layers trained by the group method of data handling.
+[34] The first deep learning multilayer perceptron trained by stochastic gradient descent [35] was published in 1967 by Shun'ichi Amari.
+[36] [29] In computer experiments conducted by Amari's student Saito, a five layer MLP with two modifiable layers learned internal representations to classify non-linearily separable pattern classes.
+[29] In 1987 Matthew Brand reported that wide 12-layer nonlinear perceptrons could be fully end-to-end trained to reproduce logic functions of nontrivial circuit depth via gradient descent on small batches of random input/output samples, but concluded that training time on contemporary hardware (sub-megaflop computers) made the technique impractical, and proposed using fixed random early layers as an input hash for a single modifiable layer.
+[37] Instead, subsequent developments in hardware and hyperparameter tunings have made end-to-end stochastic gradient descent the currently dominant training technique.
+In 1970, Seppo Linnainmaa published the reverse mode of automatic differentiation of discrete connected networks of nested differentiable functions.
+[38] [39] [40] This became known as backpropagation.
+[13] It is an efficient application of the chain rule derived by Gottfried Wilhelm Leibniz in 1673 [41] to networks of differentiable nodes.
+[29] The terminology "back-propagating errors" was actually introduced in 1962 by Rosenblatt, [32] [29] but he did not know how to implement this, although Henry J. Kelley had a continuous precursor of backpropagation [42] already in 1960 in the context of control theory.
+[29] In 1982, Paul Werbos applied backpropagation to MLPs in the way that has become standard.
+[43] [44] [29] In 1985, David E. Rumelhart et al. published an experimental analysis of the technique.
+[45] Deep learning architectures for convolutional neural networks (CNNs) with convolutional layers and downsampling layers began with the Neocognitron introduced by Kunihiko Fukushima in 1980.
+[46] In 1969, he also introduced the ReLU (rectified linear unit) activation function.
+[24] [29] The rectifier has become the most popular activation function for CNNs and deep learning in general.
+[47] CNNs have become an essential tool for computer vision.
+The term Deep Learning was introduced to the machine learning community by Rina Dechter in 1986, [48] and to artificial neural networks by Igor Aizenberg and colleagues in 2000, in the context of Boolean threshold neurons.
+[49] [50] In 1988, Wei Zhang et al. applied the backpropagation algorithm to a convolutional neural network (a simplified Neocognitron with convolutional interconnections between the image feature layers and the last fully connected layer) for alphabet recognition. They also proposed an implementation of the CNN with an optical computing system.
+[51] [52] In 1989, Yann LeCun et al. applied backpropagation to a CNN with the purpose of recognizing handwritten ZIP codes on mail. While the algorithm worked, training required 3 days.
+[53] Subsequently, Wei Zhang, et al. modified their model by removing the last fully connected layer and applied it for medical image object segmentation in 1991 [54] and breast cancer detection in mammograms in 1994.
+[55] LeNet-5 (1998), a 7-level CNN by Yann LeCun et al., [56] that classifies digits, was applied by several banks to recognize hand-written numbers on checks digitized in 32x32 pixel images.
+In the 1980s, backpropagation did not work well for deep learning with long credit assignment paths. To overcome this problem, Jürgen Schmidhuber (1992) proposed a hierarchy of RNNs pre-trained one level at a time by self-supervised learning.
+[57] It uses predictive coding to learn internal representations at multiple self-organizing time scales. This can substantially facilitate downstream deep learning. The RNN hierarchy can be collapsed into a single RNN, by distilling a higher level chunker network into a lower level automatizer network.
+[57] [29] In 1993, a chunker solved a deep learning task whose depth exceeded 1000.
+[58] In 1992, Jürgen Schmidhuber also published an alternative to RNNs [59] which is now called a linear Transformer or a Transformer with linearized self-attention [60] [61] [29] (save for a normalization operator). It learns internal spotlights of attention : [62] a slow feedforward neural network learns by gradient descent to control the fast weights of another neural network through outer products of self-generated activation patterns FROM and TO (which are now called key and value for self-attention ).
+[60] This fast weight attention mapping is applied to a query pattern.
+The modern Transformer was introduced by Ashish Vaswani et. al. in their 2017 paper "Attention Is All You Need".
+[63] It combines this with a softmax operator and a projection matrix.
+[29] Transformers have increasingly become the model of choice for natural language processing.
+[64] Many modern large language models such as ChatGPT , GPT-4 , and BERT use it. Transformers are also increasingly being used in computer vision.
+[65] In 1991, Jürgen Schmidhuber also published adversarial neural networks that contest with each other in the form of a zero-sum game , where one network's gain is the other network's loss.
+[66] [67] [68] The first network is a generative model that models a probability distribution over output patterns. The second network learns by gradient descent to predict the reactions of the environment to these patterns. This was called "artificial curiosity". In 2014, this principle was used in a generative adversarial network (GAN) by Ian Goodfellow et al.
+[69] Here the environmental reaction is 1 or 0 depending on whether the first network's output is in a given set. This can be used to create realistic deepfakes.
+[70] Excellent image quality is achieved by Nvidia 's StyleGAN (2018) [71] based on the Progressive GAN by Tero Karras et. al.
+[72] Here the GAN generator is grown from small to large scale in a pyramidal fashion.
+Sepp Hochreiter 's diploma thesis (1991) [73] was called "one of the most important documents in the history of machine learning" by his supervisor Schmidhuber.
+[29] It not only tested the neural history compressor, [57] but also identified and analyzed the vanishing gradient problem.
+[73] [74] Hochreiter proposed recurrent residual connections to solve this problem. This led to the deep learning method called long short-term memory (LSTM), published in 1997.
+[75] LSTM recurrent neural networks can learn "very deep learning" tasks [13] with long credit assignment paths that require memories of events that happened thousands of discrete time steps before. The "vanilla LSTM" with forget gate was introduced in 1999 by Felix Gers , Schmidhuber and Fred Cummins.
+[76] LSTM has become the most cited neural network of the 20th century.
+[29] In 2015, Rupesh Kumar Srivastava, Klaus Greff, and Schmidhuber used LSTM principles to create the Highway network , a feedforward neural network with hundreds of layers, much deeper than previous networks.
+[77] [78] 7 months later, Kaiming He, Xiangyu Zhang; Shaoqing Ren, and Jian Sun won the ImageNet 2015 competition with an open-gated or gateless Highway network variant called Residual neural network.
+[79] This has become the most cited neural network of the 21st century.
+[29] In 1994, André de Carvalho, together with Mike Fairhurst and David Bisset, published experimental results of a multi-layer boolean neural network, also known as a weightless neural network, composed of a 3-layers self-organising feature extraction neural network module (SOFT) followed by a multi-layer classification neural network module (GSN), which were independently trained. Each layer in the feature extraction module extracted features with growing complexity regarding the previous layer.
+[80] In 1995, Brendan Frey demonstrated that it was possible to train (over two days) a network containing six fully connected layers and several hundred hidden units using the wake-sleep algorithm , co-developed with Peter Dayan and Hinton.
+[81] Since 1997, Sven Behnke extended the feed-forward hierarchical convolutional approach in the Neural Abstraction Pyramid [82] by lateral and backward connections in order to flexibly incorporate context into decisions and iteratively resolve local ambiguities.
+Simpler models that use task-specific handcrafted features such as Gabor filters and support vector machines (SVMs) were a popular choice in the 1990s and 2000s, because of artificial neural network 's (ANN) computational cost and a lack of understanding of how the brain wires its biological networks.
+Both shallow and deep learning (e.g., recurrent nets) of ANNs for speech recognition have been explored for many years.
+[83] [84] [85] These methods never outperformed non-uniform internal-handcrafting Gaussian mixture model / Hidden Markov model (GMM-HMM) technology based on generative models of speech trained discriminatively.
+[86] Key difficulties have been analyzed, including gradient diminishing [73] and weak temporal correlation structure in neural predictive models.
+[87] [88] Additional difficulties were the lack of training data and limited computing power. Most speech recognition researchers moved away from neural nets to pursue generative modeling. An exception was at SRI International in the late 1990s. Funded by the US government's NSA and DARPA , SRI studied deep neural networks in speech and speaker recognition.
+ The speaker recognition team led by Larry Heck reported significant success with deep neural networks in speech processing in the 1998 National Institute of Standards and Technology Speaker Recognition evaluation.
+[89] The SRI deep neural network was then deployed in the Nuance Verifier, representing the first major industrial application of deep learning.
+[90] The principle of elevating "raw" features over hand-crafted optimization was first explored successfully in the architecture of deep autoencoder on the "raw" spectrogram or linear filter-bank features in the late 1990s, [90] showing its superiority over the Mel-Cepstral features that contain stages of fixed transformation from spectrograms. The raw features of speech, waveforms , later produced excellent larger-scale results.
+[91] Speech recognition was taken over by LSTM.
+ In 2003, LSTM started to become competitive with traditional speech recognizers on certain tasks.
+[92] In 2006, Alex Graves , Santiago Fernández, Faustino Gomez, and Schmidhuber combined it with connectionist temporal classification (CTC) [93] in stacks of LSTM RNNs.
+[94] In 2015, Google's speech recognition reportedly experienced a dramatic performance jump of 49% through CTC-trained LSTM, which they made available through Google Voice Search.
+[95] The impact of deep learning in industry began in the early 2000s, when CNNs already processed an estimated 10% to 20% of all the checks written in the US, according to Yann LeCun.
+[96] Industrial applications of deep learning to large-scale speech recognition started around 2010.
+In 2006, publications by Geoff Hinton , Ruslan Salakhutdinov , Osindero and Teh [97] [98] [99] showed how a many-layered feedforward neural network could be effectively pre-trained one layer at a time, treating each layer in turn as an unsupervised restricted Boltzmann machine , then fine-tuning it using supervised backpropagation.
+[100] The papers referred to learning for deep belief nets.
+The 2009 NIPS Workshop on Deep Learning for Speech Recognition was motivated by the limitations of deep generative models of speech, and the possibility that given more capable hardware and large-scale data sets that deep neural nets (DNN) might become practical. It was believed that pre-training DNNs using generative models of deep belief nets (DBN) would overcome the main difficulties of neural nets. However, it was discovered that replacing pre-training with large amounts of training data for straightforward backpropagation when using DNNs with large, context-dependent output layers produced error rates dramatically lower than then-state-of-the-art Gaussian mixture model (GMM)/Hidden Markov Model (HMM) and also than more-advanced generative model-based systems.
+[101] The nature of the recognition errors produced by the two types of systems was characteristically different, [102] offering technical insights into how to integrate deep learning into the existing highly efficient, run-time speech decoding system deployed by all major speech recognition systems.
+[8] [103] [104] Analysis around 2009–2010, contrasting the GMM (and other generative speech models) vs. DNN models, stimulated early industrial investment in deep learning for speech recognition.
+[102] That analysis was done with comparable performance (less than 1.5% in error rate) between discriminative DNNs and generative models.
+[101] [102] [105] In 2010, researchers extended deep learning from TIMIT to large vocabulary speech recognition, by adopting large output layers of the DNN based on context-dependent HMM states constructed by decision trees.
+[106] [107] [108] [103] Deep learning is part of state-of-the-art systems in various disciplines, particularly computer vision and automatic speech recognition (ASR). Results on commonly used evaluation sets such as TIMIT (ASR) and MNIST ( image classification ), as well as a range of large-vocabulary speech recognition tasks have steadily improved.
+[101] [109] Convolutional neural networks (CNNs) were superseded for ASR by CTC [93] for LSTM.
+[75] [95] [110] [111] [112] but are more successful in computer vision.
+Advances in hardware have driven renewed interest in deep learning. In 2009, Nvidia was involved in what was called the "big bang" of deep learning, "as deep-learning neural networks were trained with Nvidia graphics processing units (GPUs)".
+[113] That year, Andrew Ng determined that GPUs could increase the speed of deep-learning systems by about 100 times.
+[114] In particular, GPUs are well-suited for the matrix/vector computations involved in machine learning.
+[115] [116] [117] GPUs speed up training algorithms by orders of magnitude, reducing running times from weeks to days.
+[118] [119] Further, specialized hardware and algorithm optimizations can be used for efficient processing of deep learning models.
+[120] Deep learning revolution [ edit ] In the late 2000s, deep learning started to outperform other methods in machine learning competitions. In 2009, a long short-term memory trained by connectionist temporal classification ( Alex Graves , Santiago Fernández, Faustino Gomez, and Jürgen Schmidhuber , 2006) [93] was the first RNN to win pattern recognition contests, winning three competitions in connected handwriting recognition.
+[121] [13] Google later used CTC-trained LSTM for speech recognition on the smartphone.
+[122] [95] Significant impacts in image or object recognition were felt from 2011 to 2012. Although CNNs trained by backpropagation had been around for decades, [51] [53] and GPU implementations of NNs for years, [115] including CNNs, [117] [13] faster implementations of CNNs on GPUs were needed to progress on computer vision. In 2011, the DanNet [123] [3] by Dan Ciresan, Ueli Meier, Jonathan Masci, Luca Maria Gambardella , and Jürgen Schmidhuber achieved for the first time superhuman performance in a visual pattern recognition contest, outperforming traditional methods by a factor of 3.
+[13] Also in 2011, DanNet won the ICDAR Chinese handwriting contest, and in May 2012, it won the ISBI image segmentation contest.
+[124] Until 2011, CNNs did not play a major role at computer vision conferences, but in June 2012, a paper by Ciresan et al. at the leading conference CVPR [3] showed how max-pooling CNNs on GPU can dramatically improve many vision benchmark records. In September 2012, DanNet also won the ICPR contest on analysis of large medical images for cancer detection, and in the following year also the MICCAI Grand Challenge on the same topic.
+[125] In October 2012, the similar AlexNet by Alex Krizhevsky , Ilya Sutskever , and Geoffrey Hinton [4] won the large-scale ImageNet competition by a significant margin over shallow machine learning methods. The VGG-16 network by Karen Simonyan and Andrew Zisserman [126] further reduced the error rate and won the ImageNet 2014 competition, following a similar trend in large-scale speech recognition.
+Image classification was then extended to the more challenging task of generating descriptions (captions) for images, often as a combination of CNNs and LSTMs.
+[127] [128] [129] In 2012, a team led by George E. Dahl won the "Merck Molecular Activity Challenge" using multi-task deep neural networks to predict the biomolecular target of one drug.
+[130] [131] In 2014, Sepp Hochreiter 's group used deep learning to detect off-target and toxic effects of environmental chemicals in nutrients, household products and drugs and won the "Tox21 Data Challenge" of NIH , FDA and NCATS.
+[132] [133] [134] In 2016, Roger Parloff mentioned a "deep learning revolution" that has transformed the AI industry.
+[135] In March 2019, Yoshua Bengio , Geoffrey Hinton and Yann LeCun were awarded the Turing Award for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing.
+Neural networks [ edit ] Artificial neural networks ( ANNs ) or connectionist systems are computing systems inspired by the biological neural networks that constitute animal brains. Such systems learn (progressively improve their ability) to do tasks by considering examples, generally without task-specific programming. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as "cat" or "no cat" and using the analytic results to identify cats in other images. They have found most use in applications difficult to express with a traditional computer algorithm using rule-based programming.
+An ANN is based on a collection of connected units called artificial neurons , (analogous to biological neurons in a biological brain ). Each connection ( synapse ) between neurons can transmit a signal to another neuron. The receiving (postsynaptic) neuron can process the signal(s) and then signal downstream neurons connected to it. Neurons may have state, generally represented by real numbers , typically between 0 and 1. Neurons and synapses may also have a weight that varies as learning proceeds, which can increase or decrease the strength of the signal that it sends downstream.
+Typically, neurons are organized in layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first (input), to the last (output) layer, possibly after traversing the layers multiple times.
+The original goal of the neural network approach was to solve problems in the same way that a human brain would. Over time, attention focused on matching specific mental abilities, leading to deviations from biology such as backpropagation , or passing information in the reverse direction and adjusting the network to reflect that information.
+Neural networks have been used on a variety of tasks, including computer vision, speech recognition , machine translation , social network filtering, playing board and video games and medical diagnosis.
+As of 2017, neural networks typically have a few thousand to a few million units and millions of connections. Despite this number being several order of magnitude less than the number of neurons on a human brain, these networks can perform many tasks at a level beyond that of humans (e.g., recognizing faces, or playing "Go" [137] ).
+Deep neural networks [ edit ] A deep neural network (DNN) is an artificial neural network (ANN) with multiple layers between the input and output layers.
+[10] [13] There are different types of neural networks but they always consist of the same components: neurons, synapses, weights, biases, and functions.
+[138] These components as a whole function similarly to a human brain, and can be trained like any other ML algorithm.
+[ citation needed ] For example, a DNN that is trained to recognize dog breeds will go over the given image and calculate the probability that the dog in the image is a certain breed. The user can review the results and select which probabilities the network should display (above a certain threshold, etc.) and return the proposed label. Each mathematical manipulation as such is considered a layer, [ citation needed ] and complex DNN have many layers, hence the name "deep" networks.
+DNNs can model complex non-linear relationships. DNN architectures generate compositional models where the object is expressed as a layered composition of primitives.
+[139] The extra layers enable composition of features from lower layers, potentially modeling complex data with fewer units than a similarly performing shallow network.
+[10] For instance, it was proved that sparse multivariate polynomials are exponentially easier to approximate with DNNs than with shallow networks.
+[140] Deep architectures include many variants of a few basic approaches. Each architecture has found success in specific domains. It is not always possible to compare the performance of multiple architectures, unless they have been evaluated on the same data sets.
+DNNs are typically feedforward networks in which data flows from the input layer to the output layer without looping back. At first, the DNN creates a map of virtual neurons and assigns random numerical values, or "weights", to connections between them. The weights and inputs are multiplied and return an output between 0 and 1. If the network did not accurately recognize a particular pattern, an algorithm would adjust the weights.
+[141] That way the algorithm can make certain parameters more influential, until it determines the correct mathematical manipulation to fully process the data.
+Recurrent neural networks (RNNs), in which data can flow in any direction, are used for applications such as language modeling.
+[142] [143] [144] [145] [146] Long short-term memory is particularly effective for this use.
+[75] [147] Convolutional deep neural networks (CNNs) are used in computer vision.
+[148] CNNs also have been applied to acoustic modeling for automatic speech recognition (ASR).
+[149] Challenges [ edit ] As with ANNs, many issues can arise with naively trained DNNs. Two common issues are overfitting and computation time.
+DNNs are prone to overfitting because of the added layers of abstraction, which allow them to model rare dependencies in the training data.
+Regularization methods such as Ivakhnenko's unit pruning [34] or weight decay ( ℓ 2 {\displaystyle \ell _{2}} -regularization) or sparsity ( ℓ 1 {\displaystyle \ell _{1}} -regularization) can be applied during training to combat overfitting.
+[150] Alternatively dropout regularization randomly omits units from the hidden layers during training. This helps to exclude rare dependencies.
+[151] Finally, data can be augmented via methods such as cropping and rotating such that smaller training sets can be increased in size to reduce the chances of overfitting.
+[152] DNNs must consider many training parameters, such as the size (number of layers and number of units per layer), the learning rate , and initial weights.
+Sweeping through the parameter space for optimal parameters may not be feasible due to the cost in time and computational resources. Various tricks, such as batching (computing the gradient on several training examples at once rather than individual examples) [153] speed up computation. Large processing capabilities of many-core architectures (such as GPUs or the Intel Xeon Phi) have produced significant speedups in training, because of the suitability of such processing architectures for the matrix and vector computations.
+[154] [155] Alternatively, engineers may look for other types of neural networks with more straightforward and convergent training algorithms. CMAC ( cerebellar model articulation controller ) is one such kind of neural network. It doesn't require learning rates or randomized initial weights. The training process can be guaranteed to converge in one step with a new batch of data, and the computational complexity of the training algorithm is linear with respect to the number of neurons involved.
+[156] [157] Hardware [ edit ] Since the 2010s, advances in both machine learning algorithms and computer hardware have led to more efficient methods for training deep neural networks that contain many layers of non-linear hidden units and a very large output layer.
+[158] By 2019, graphic processing units ( GPUs ), often with AI-specific enhancements, had displaced CPUs as the dominant method of training large-scale commercial cloud AI.
+[159] OpenAI estimated the hardware computation used in the largest deep learning projects from AlexNet (2012) to AlphaZero (2017), and found a 300,000-fold increase in the amount of computation required, with a doubling-time trendline of 3.4 months.
+[160] [161] Special electronic circuits called deep learning processors were designed to speed up deep learning algorithms. Deep learning processors include neural processing units (NPUs) in Huawei cellphones [162] and cloud computing servers such as tensor processing units (TPU) in the Google Cloud Platform.
+[163] Cerebras Systems has also built a dedicated system to handle large deep learning models, the CS-2, based on the largest processor in the industry, the second-generation Wafer Scale Engine (WSE-2).
+[164] [165] Atomically thin semiconductors are considered promising for energy-efficient deep learning hardware where the same basic device structure is used for both logic operations and data storage. In 2020, Marega et al. published experiments with a large-area active channel material for developing logic-in-memory devices and circuits based on floating-gate field-effect transistors (FGFETs).
+[166] In 2021, J. Feldmann et al. proposed an integrated photonic hardware accelerator for parallel convolutional processing.
+[167] The authors identify two key advantages of integrated photonics over its electronic counterparts: (1) massively parallel data transfer through wavelength division multiplexing in conjunction with frequency combs , and (2) extremely high data modulation speeds.
+[167] Their system can execute trillions of multiply-accumulate operations per second, indicating the potential of integrated photonics in data-heavy AI applications.
+[167] Applications [ edit ] Automatic speech recognition [ edit ] Large-scale automatic speech recognition is the first and most convincing successful case of deep learning. LSTM RNNs can learn "Very Deep Learning" tasks [13] that involve multi-second intervals containing speech events separated by thousands of discrete time steps, where one time step corresponds to about 10 ms. LSTM with forget gates [147] is competitive with traditional speech recognizers on certain tasks.
+[92] The initial success in speech recognition was based on small-scale recognition tasks based on TIMIT. The data set contains 630 speakers from eight major dialects of American English , where each speaker reads 10 sentences.
+[168] Its small size lets many configurations be tried. More importantly, the TIMIT task concerns phone -sequence recognition, which, unlike word-sequence recognition, allows weak phone bigram language models. This lets the strength of the acoustic modeling aspects of speech recognition be more easily analyzed. The error rates listed below, including these early results and measured as percent phone error rates (PER), have been summarized since 1991.
+Method Percent phone error rate (PER) (%) Randomly Initialized RNN [169] 26.1 Bayesian Triphone GMM-HMM 25.6 Hidden Trajectory (Generative) Model 24.8 Monophone Randomly Initialized DNN 23.4 Monophone DBN-DNN 22.4 Triphone GMM-HMM with BMMI Training 21.7 Monophone DBN-DNN on fbank 20.7 Convolutional DNN [170] 20.0 Convolutional DNN w. Heterogeneous Pooling 18.7 Ensemble DNN/CNN/RNN [171] 18.3 Bidirectional LSTM 17.8 Hierarchical Convolutional Deep Maxout Network [172] 16.5 The debut of DNNs for speaker recognition in the late 1990s and speech recognition around 2009-2011 and of LSTM around 2003–2007, accelerated progress in eight major areas: [8] [105] [103] Scale-up/out and accelerated DNN training and decoding Sequence discriminative training Feature processing by deep models with solid understanding of the underlying mechanisms Adaptation of DNNs and related deep models Multi-task and transfer learning by DNNs and related deep models CNNs and how to design them to best exploit domain knowledge of speech RNN and its rich LSTM variants Other types of deep models including tensor-based models and integrated deep generative/discriminative models.
+All major commercial speech recognition systems (e.g., Microsoft Cortana , Xbox , Skype Translator , Amazon Alexa , Google Now , Apple Siri , Baidu and iFlyTek voice search, and a range of Nuance speech products, etc.) are based on deep learning.
+[8] [173] [174] Image recognition [ edit ] A common evaluation set for image classification is the MNIST database data set. MNIST is composed of handwritten digits and includes 60,000 training examples and 10,000 test examples. As with TIMIT, its small size lets users test multiple configurations. A comprehensive list of results on this set is available.
+[175] Deep learning-based image recognition has become "superhuman", producing more accurate results than human contestants. This first occurred in 2011 in recognition of traffic signs, and in 2014, with recognition of human faces.
+[176] [177] Deep learning-trained vehicles now interpret 360° camera views.
+[178] Another example is Facial Dysmorphology Novel Analysis (FDNA) used to analyze cases of human malformation connected to a large database of genetic syndromes.
+Visual art processing [ edit ] Closely related to the progress that has been made in image recognition is the increasing application of deep learning techniques to various visual art tasks. DNNs have proven themselves capable, for example, of identifying the style period of a given painting [179] [180] Neural Style Transfer – capturing the style of a given artwork and applying it in a visually pleasing manner to an arbitrary photograph or video [179] [180] generating striking imagery based on random visual input fields.
+[179] [180] Natural language processing [ edit ] Neural networks have been used for implementing language models since the early 2000s.
+[142] LSTM helped to improve machine translation and language modeling.
+[143] [144] [145] Other key techniques in this field are negative sampling [181] and word embedding.
+ Word embedding, such as word2vec , can be thought of as a representational layer in a deep learning architecture that transforms an atomic word into a positional representation of the word relative to other words in the dataset; the position is represented as a point in a vector space.
+ Using word embedding as an RNN input layer allows the network to parse sentences and phrases using an effective compositional vector grammar. A compositional vector grammar can be thought of as probabilistic context free grammar (PCFG) implemented by an RNN.
+[182] Recursive auto-encoders built atop word embeddings can assess sentence similarity and detect paraphrasing.
+[182] Deep neural architectures provide the best results for constituency parsing , [183] sentiment analysis , [184] information retrieval, [185] [186] spoken language understanding, [187] machine translation, [143] [188] contextual entity linking, [188] writing style recognition, [189] named-entity recognition (token classification), [190] text classification, and others.
+[191] Recent developments generalize word embedding to sentence embedding.
+Google Translate (GT) uses a large end-to-end long short-term memory (LSTM) network.
+[192] [193] [194] [195] Google Neural Machine Translation (GNMT) uses an example-based machine translation method in which the system "learns from millions of examples".
+[193] It translates "whole sentences at a time, rather than pieces". Google Translate supports over one hundred languages.
+[193] The network encodes the "semantics of the sentence rather than simply memorizing phrase-to-phrase translations".
+[193] [196] GT uses English as an intermediate between most language pairs.
+[196] Drug discovery and toxicology [ edit ] A large percentage of candidate drugs fail to win regulatory approval. These failures are caused by insufficient efficacy (on-target effect), undesired interactions (off-target effects), or unanticipated toxic effects.
+[197] [198] Research has explored use of deep learning to predict the biomolecular targets , [130] [131] off-targets , and toxic effects of environmental chemicals in nutrients, household products and drugs.
+[132] [133] [134] AtomNet is a deep learning system for structure-based rational drug design.
+[199] AtomNet was used to predict novel candidate biomolecules for disease targets such as the Ebola virus [200] and multiple sclerosis.
+[201] [200] In 2017 graph neural networks were used for the first time to predict various properties of molecules in a large toxicology data set.
+[202] In 2019, generative neural networks were used to produce molecules that were validated experimentally all the way into mice.
+[203] [204] Customer relationship management [ edit ] Deep reinforcement learning has been used to approximate the value of possible direct marketing actions, defined in terms of RFM variables. The estimated value function was shown to have a natural interpretation as customer lifetime value.
+[205] Recommendation systems [ edit ] Recommendation systems have used deep learning to extract meaningful features for a latent factor model for content-based music and journal recommendations.
+[206] [207] Multi-view deep learning has been applied for learning user preferences from multiple domains.
+[208] The model uses a hybrid collaborative and content-based approach and enhances recommendations in multiple tasks.
+Bioinformatics [ edit ] An autoencoder ANN was used in bioinformatics , to predict gene ontology annotations and gene-function relationships.
+[209] In medical informatics, deep learning was used to predict sleep quality based on data from wearables [210] and predictions of health complications from electronic health record data.
+[211] Medical image analysis [ edit ] Deep learning has been shown to produce competitive results in medical application such as cancer cell classification, lesion detection, organ segmentation and image enhancement.
+[212] [213] Modern deep learning tools demonstrate the high accuracy of detecting various diseases and the helpfulness of their use by specialists to improve the diagnosis efficiency.
+[214] [215] Mobile advertising [ edit ] Finding the appropriate mobile audience for mobile advertising is always challenging, since many data points must be considered and analyzed before a target segment can be created and used in ad serving by any ad server.
+[216] Deep learning has been used to interpret large, many-dimensioned advertising datasets. Many data points are collected during the request/serve/click internet advertising cycle. This information can form the basis of machine learning to improve ad selection.
+Image restoration [ edit ] Deep learning has been successfully applied to inverse problems such as denoising , super-resolution , inpainting , and film colorization.
+[217] These applications include learning methods such as "Shrinkage Fields for Effective Image Restoration" [218] which trains on an image dataset, and Deep Image Prior , which trains on the image that needs restoration.
+Financial fraud detection [ edit ] Deep learning is being successfully applied to financial fraud detection , tax evasion detection, [219] and anti-money laundering.
+[220] Military [ edit ] The United States Department of Defense applied deep learning to train robots in new tasks through observation.
+[221] Partial differential equations [ edit ] Physics informed neural networks have been used to solve partial differential equations in both forward and inverse problems in a data driven manner.
+[222] One example is the reconstructing fluid flow governed by the Navier-Stokes equations.
+ Using physics informed neural networks does not require the often expensive mesh generation that conventional CFD methods relies on.
+[223] [224] Image Reconstruction [ edit ] Image reconstruction is the reconstruction of the underlying images from the image-related measurements. Several works showed the better and superior performance of the deep learning methods compared to analytical methods for various applications, e.g., spectral imaging [225] and ultrasound imaging.
+[226] Epigenetic clock [ edit ] An epigenetic clock is a biochemical test that can be used to measure age. Galkin et al. used deep neural networks to train an epigenetic aging clock of unprecedented accuracy using >6,000 blood samples.
+[227] The clock uses information from 1000 CpG sites and predicts people with certain conditions older than healthy controls: IBD , frontotemporal dementia , ovarian cancer , obesity.
+ The aging clock was planned to be released for public use in 2021 by an Insilico Medicine spinoff company Deep Longevity.
+Relation to human cognitive and brain development [ edit ] Deep learning is closely related to a class of theories of brain development (specifically, neocortical development) proposed by cognitive neuroscientists in the early 1990s.
+[228] [229] [230] [231] These developmental theories were instantiated in computational models, making them predecessors of deep learning systems. These developmental models share the property that various proposed learning dynamics in the brain (e.g., a wave of nerve growth factor ) support the self-organization somewhat analogous to the neural networks utilized in deep learning models. Like the neocortex , neural networks employ a hierarchy of layered filters in which each layer considers information from a prior layer (or the operating environment), and then passes its output (and possibly the original input), to other layers. This process yields a self-organizing stack of transducers , well-tuned to their operating environment. A 1995 description stated, "...the infant's brain seems to organize itself under the influence of waves of so-called trophic-factors ... different regions of the brain become connected sequentially, with one layer of tissue maturing before another and so on until the whole brain is mature".
+[232] A variety of approaches have been used to investigate the plausibility of deep learning models from a neurobiological perspective. On the one hand, several variants of the backpropagation algorithm have been proposed in order to increase its processing realism.
+[233] [234] Other researchers have argued that unsupervised forms of deep learning, such as those based on hierarchical generative models and deep belief networks , may be closer to biological reality.
+[235] [236] In this respect, generative neural network models have been related to neurobiological evidence about sampling-based processing in the cerebral cortex.
+[237] Although a systematic comparison between the human brain organization and the neuronal encoding in deep networks has not yet been established, several analogies have been reported. For example, the computations performed by deep learning units could be similar to those of actual neurons [238] and neural populations.
+[239] Similarly, the representations developed by deep learning models are similar to those measured in the primate visual system [240] both at the single-unit [241] and at the population [242] levels.
+Commercial activity [ edit ] Facebook 's AI lab performs tasks such as automatically tagging uploaded pictures with the names of the people in them.
+[243] Google's DeepMind Technologies developed a system capable of learning how to play Atari video games using only pixels as data input. In 2015 they demonstrated their AlphaGo system, which learned the game of Go well enough to beat a professional Go player.
+[244] [245] [246] Google Translate uses a neural network to translate between more than 100 languages.
+In 2017, Covariant.ai was launched, which focuses on integrating deep learning into factories.
+[247] As of 2008, [248] researchers at The University of Texas at Austin (UT) developed a machine learning framework called Training an Agent Manually via Evaluative Reinforcement, or TAMER, which proposed new methods for robots or computer programs to learn how to perform tasks by interacting with a human instructor.
+[221] First developed as TAMER, a new algorithm called Deep TAMER was later introduced in 2018 during a collaboration between U.S. Army Research Laboratory (ARL) and UT researchers. Deep TAMER used deep learning to provide a robot the ability to learn new tasks through observation.
+[221] Using Deep TAMER, a robot learned a task with a human trainer, watching video streams or observing a human perform a task in-person. The robot later practiced the task with the help of some coaching from the trainer, who provided feedback such as "good job" and "bad job".
+[249] Criticism and comment [ edit ] Deep learning has attracted both criticism and comment, in some cases from outside the field of computer science.
+Theory [ edit ] A main criticism concerns the lack of theory surrounding some methods.
+[250] Learning in the most common deep architectures is implemented using well-understood gradient descent. However, the theory surrounding other algorithms, such as contrastive divergence is less clear.
+[ citation needed ] (e.g., Does it converge? If so, how fast? What is it approximating?) Deep learning methods are often looked at as a black box , with most confirmations done empirically, rather than theoretically.
+[251] Others point out that deep learning should be looked at as a step towards realizing strong AI , not as an all-encompassing solution. Despite the power of deep learning methods, they still lack much of the functionality needed for realizing this goal entirely. Research psychologist Gary Marcus noted: Realistically, deep learning is only part of the larger challenge of building intelligent machines. Such techniques lack ways of representing causal relationships (...) have no obvious ways of performing logical inferences , and they are also still a long way from integrating abstract knowledge, such as information about what objects are, what they are for, and how they are typically used. The most powerful A.I. systems, like Watson (...) use techniques like deep learning as just one element in a very complicated ensemble of techniques, ranging from the statistical technique of Bayesian inference to deductive reasoning.
+[252] In further reference to the idea that artistic sensitivity might be inherent in relatively low levels of the cognitive hierarchy, a published series of graphic representations of the internal states of deep (20-30 layers) neural networks attempting to discern within essentially random data the images on which they were trained [253] demonstrate a visual appeal: the original research notice received well over 1,000 comments, and was the subject of what was for a time the most frequently accessed article on The Guardian 's [254] website.
+Errors [ edit ] Some deep learning architectures display problematic behaviors, [255] such as confidently classifying unrecognizable images as belonging to a familiar category of ordinary images (2014) [256] and misclassifying minuscule perturbations of correctly classified images (2013).
+[257] Goertzel hypothesized that these behaviors are due to limitations in their internal representations and that these limitations would inhibit integration into heterogeneous multi-component artificial general intelligence (AGI) architectures.
+[255] These issues may possibly be addressed by deep learning architectures that internally form states homologous to image-grammar [258] decompositions of observed entities and events.
+[255] Learning a grammar (visual or linguistic) from training data would be equivalent to restricting the system to commonsense reasoning that operates on concepts in terms of grammatical production rules and is a basic goal of both human language acquisition [259] and artificial intelligence (AI).
+[260] Cyber threat [ edit ] As deep learning moves from the lab into the world, research and experience show that artificial neural networks are vulnerable to hacks and deception.
+[261] By identifying patterns that these systems use to function, attackers can modify inputs to ANNs in such a way that the ANN finds a match that human observers would not recognize. For example, an attacker can make subtle changes to an image such that the ANN finds a match even though the image looks to a human nothing like the search target. Such manipulation is termed an "adversarial attack".
+[262] In 2016 researchers used one ANN to doctor images in trial and error fashion, identify another's focal points and thereby generate images that deceived it. The modified images looked no different to human eyes. Another group showed that printouts of doctored images then photographed successfully tricked an image classification system.
+[263] One defense is reverse image search, in which a possible fake image is submitted to a site such as TinEye that can then find other instances of it. A refinement is to search using only parts of the image, to identify images from which that piece may have been taken.
+[264] Another group showed that certain psychedelic spectacles could fool a facial recognition system into thinking ordinary people were celebrities, potentially allowing one person to impersonate another. In 2017 researchers added stickers to stop signs and caused an ANN to misclassify them.
+[263] ANNs can however be further trained to detect attempts at deception , potentially leading attackers and defenders into an arms race similar to the kind that already defines the malware defense industry. ANNs have been trained to defeat ANN-based anti- malware software by repeatedly attacking a defense with malware that was continually altered by a genetic algorithm until it tricked the anti-malware while retaining its ability to damage the target.
+[263] In 2016, another group demonstrated that certain sounds could make the Google Now voice command system open a particular web address, and hypothesized that this could "serve as a stepping stone for further attacks (e.g., opening a web page hosting drive-by malware)".
+[263] In " data poisoning ", false data is continually smuggled into a machine learning system's training set to prevent it from achieving mastery.
+[263] Data collection ethics [ edit ] This section needs additional citations for verification.
+Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed.
+Find sources: "Deep learning" – news · newspapers · books · scholar · JSTOR ( April 2021 ) ( Learn how and when to remove this template message ) Most Deep Learning systems rely on training and verification data that is generated and/or annotated by humans.
+[265] It has been argued in media philosophy that not only low-paid clickwork (e.g. on Amazon Mechanical Turk ) is regularly deployed for this purpose, but also implicit forms of human microwork that are often not recognized as such.
+[266] The philosopher Rainer Mühlhoff distinguishes five types of "machinic capture" of human microwork to generate training data: (1) gamification (the embedding of annotation or computation tasks in the flow of a game), (2) "trapping and tracking" (e.g.
+CAPTCHAs for image recognition or click-tracking on Google search results pages ), (3) exploitation of social motivations (e.g.
+tagging faces on Facebook to obtain labeled facial images), (4) information mining (e.g. by leveraging quantified-self devices such as activity trackers ) and (5) clickwork.
+[266] Mühlhoff argues that in most commercial end-user applications of Deep Learning such as Facebook's face recognition system , the need for training data does not stop once an ANN is trained. Rather, there is a continued demand for human-generated verification data to constantly calibrate and update the ANN. For this purpose Facebook introduced the feature that once a user is automatically recognized in an image, they receive a notification. They can choose whether of not they like to be publicly labeled on the image, or tell Facebook that it is not them in the picture.
+[267] This user interface is a mechanism to generate "a constant stream of verification data" [266] to further train the network in real-time. As Mühlhoff argues, involvement of human users to generate training and verification data is so typical for most commercial end-user applications of Deep Learning that such systems may be referred to as "human-aided artificial intelligence".
+[266] See also [ edit ] Applications of artificial intelligence Comparison of deep learning software Compressed sensing Differentiable programming Echo state network List of artificial intelligence projects Liquid state machine List of datasets for machine-learning research Reservoir computing Scale space and deep learning Sparse coding Stochastic parrot References [ edit ] ^.
+mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit} Schulz, Hannes; Behnke, Sven (1 November 2012).
+"Deep Learning".
+KI - Künstliche Intelligenz.
+26 (4): 357–363.
+doi : 10.1007/s13218-012-0198-z.
+ISSN 1610-1987.
+S2CID 220523562.
+^ LeCun, Yann; Bengio, Yoshua; Hinton, Geoffrey (2015). "Deep Learning".
+Nature.
+521 (7553): 436–444.
+Bibcode : 2015Natur.521..436L.
+doi : 10.1038/nature14539.
+PMID 26017442.
+S2CID 3074096.
+^ a b c Ciresan, D.; Meier, U.; Schmidhuber, J. (2012). "Multi-column deep neural networks for image classification".
+2012 IEEE Conference on Computer Vision and Pattern Recognition.
+ pp. 3642–3649.
+arXiv : 1202.2745.
+doi : 10.1109/cvpr.2012.6248110.
+ISBN 978-1-4673-1228-8.
+S2CID 2161592.
+^ a b Krizhevsky, Alex; Sutskever, Ilya; Hinton, Geoffrey (2012).
+"ImageNet Classification with Deep Convolutional Neural Networks" (PDF).
+NIPS 2012: Neural Information Processing Systems, Lake Tahoe, Nevada.
+Archived (PDF) from the original on 2017-01-10.
+ Retrieved 2017-05-24.
+^ "Google's AlphaGo AI wins three-match series against the world's best Go player".
+TechCrunch.
+ 25 May 2017.
+Archived from the original on 17 June 2018.
+ Retrieved 17 June 2018.
+^ Marblestone, Adam H.; Wayne, Greg; Kording, Konrad P. (2016).
+"Toward an Integration of Deep Learning and Neuroscience".
+Frontiers in Computational Neuroscience.
+10 : 94.
+arXiv : 1606.03813.
+Bibcode : 2016arXiv160603813M.
+doi : 10.3389/fncom.2016.00094.
+PMC 5021692.
+PMID 27683554.
+S2CID 1994856.
+^ Bengio, Yoshua; Lee, Dong-Hyun; Bornschein, Jorg; Mesnard, Thomas; Lin, Zhouhan (13 February 2015). "Towards Biologically Plausible Deep Learning".
+arXiv : 1502.04156 [ cs.LG ].
+^ a b c d e f Deng, L.; Yu, D. (2014).
+"Deep Learning: Methods and Applications" (PDF).
+Foundations and Trends in Signal Processing.
+7 (3–4): 1–199.
+doi : 10.1561/2000000039.
+Archived (PDF) from the original on 2016-03-14.
+ Retrieved 2014-10-18.
+^ Zhang, W. J.; Yang, G.; Ji, C.; Gupta, M. M. (2018). "On Definition of Deep Learning".
+2018 World Automation Congress (WAC) : 1–5.
+doi : 10.23919/WAC.2018.8430387.
+ISBN 978-1-5323-7791-4.
+S2CID 51971897.
+^ a b c d Bengio, Yoshua (2009).
+"Learning Deep Architectures for AI" (PDF).
+Foundations and Trends in Machine Learning.
+2 (1): 1–127.
+CiteSeerX 10.1.1.701.9550.
+doi : 10.1561/2200000006.
+S2CID 207178999.
+ Archived from the original (PDF) on 4 March 2016.
+ Retrieved 3 September 2015.
+^ a b c d e Bengio, Y.; Courville, A.; Vincent, P. (2013). "Representation Learning: A Review and New Perspectives".
+IEEE Transactions on Pattern Analysis and Machine Intelligence.
+35 (8): 1798–1828.
+arXiv : 1206.5538.
+doi : 10.1109/tpami.2013.50.
+PMID 23787338.
+S2CID 393948.
+^ LeCun, Yann; Bengio, Yoshua; Hinton, Geoffrey (28 May 2015). "Deep learning".
+Nature.
+521 (7553): 436–444.
+Bibcode : 2015Natur.521..436L.
+doi : 10.1038/nature14539.
+PMID 26017442.
+S2CID 3074096.
+^ a b c d e f g h i j Schmidhuber, J. (2015). "Deep Learning in Neural Networks: An Overview".
+Neural Networks.
+61 : 85–117.
+arXiv : 1404.7828.
+doi : 10.1016/j.neunet.2014.09.003.
+PMID 25462637.
+S2CID 11715509.
+^ Shigeki, Sugiyama (12 April 2019).
+Human Behavior and Another Kind in Consciousness: Emerging Research and Opportunities: Emerging Research and Opportunities.
+ IGI Global.
+ISBN 978-1-5225-8218-2.
+^ Bengio, Yoshua; Lamblin, Pascal; Popovici, Dan; Larochelle, Hugo (2007).
+Greedy layer-wise training of deep networks (PDF).
+ Advances in neural information processing systems. pp. 153–160.
+Archived (PDF) from the original on 2019-10-20.
+ Retrieved 2019-10-06.
+^ a b Hinton, G.E. (2009).
+"Deep belief networks".
+Scholarpedia.
+4 (5): 5947.
+Bibcode : 2009SchpJ...4.5947H.
+doi : 10.4249/scholarpedia.5947.
+^ a b c Cybenko (1989).
+"Approximations by superpositions of sigmoidal functions" (PDF).
+Mathematics of Control, Signals, and Systems.
+2 (4): 303–314.
+doi : 10.1007/bf02551274.
+S2CID 3958369.
+ Archived from the original (PDF) on 10 October 2015.
+^ a b c Hornik, Kurt (1991). "Approximation Capabilities of Multilayer Feedforward Networks".
+Neural Networks.
+4 (2): 251–257.
+doi : 10.1016/0893-6080(91)90009-t.
+S2CID 7343126.
+^ a b Haykin, Simon S. (1999).
+Neural Networks: A Comprehensive Foundation.
+ Prentice Hall.
+ISBN 978-0-13-273350-2.
+^ a b Hassoun, Mohamad H. (1995).
+Fundamentals of Artificial Neural Networks.
+ MIT Press. p. 48.
+ISBN 978-0-262-08239-6.
+^ a b Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017).
+The Expressive Power of Neural Networks: A View from the Width Archived 2019-02-13 at the Wayback Machine.
+ Neural Information Processing Systems, 6231-6239.
+^ Orhan, A. E.; Ma, W. J. (2017).
+"Efficient probabilistic inference in generic neural networks trained with non-probabilistic feedback".
+Nature Communications.
+8 (1): 138.
+Bibcode : 2017NatCo...8..138O.
+doi : 10.1038/s41467-017-00181-8.
+PMC 5527101.
+PMID 28743932.
+^ a b c d Murphy, Kevin P. (24 August 2012).
+Machine Learning: A Probabilistic Perspective.
+ MIT Press.
+ISBN 978-0-262-01802-9.
+^ a b Fukushima, K. (1969). "Visual feature extraction by a multilayered network of analog threshold elements".
+IEEE Transactions on Systems Science and Cybernetics.
+5 (4): 322–333.
+doi : 10.1109/TSSC.1969.300225.
+^ Sonoda, Sho; Murata, Noboru (2017). "Neural network with unbounded activation functions is universal approximator".
+Applied and Computational Harmonic Analysis.
+43 (2): 233–268.
+arXiv : 1505.03654.
+doi : 10.1016/j.acha.2015.12.005.
+S2CID 12149203.
+^ Bishop, Christopher M. (2006).
+Pattern Recognition and Machine Learning (PDF).
+ Springer.
+ISBN 978-0-387-31073-2.
+Archived (PDF) from the original on 2017-01-11.
+ Retrieved 2017-08-06.
+^ Brush, Stephen G. (1967). "History of the Lenz-Ising Model".
+Reviews of Modern Physics.
+39 (4): 883–893.
+Bibcode : 1967RvMP...39..883B.
+doi : 10.1103/RevModPhys.39.883.
+^ Amari, Shun-Ichi (1972). "Learning patterns and pattern sequences by self-organizing nets of threshold elements".
+IEEE Transactions.
+C (21): 1197–1206.
+^ a b c d e f g h i j k l m n o p Schmidhuber, Jürgen (2022). "Annotated History of Modern AI and Deep Learning".
+arXiv : 2212.11279 [ cs.NE ].
+^ Hopfield, J. J. (1982).
+"Neural networks and physical systems with emergent collective computational abilities".
+Proceedings of the National Academy of Sciences.
+79 (8): 2554–2558.
+Bibcode : 1982PNAS...79.2554H.
+doi : 10.1073/pnas.79.8.2554.
+PMC 346238.
+PMID 6953413.
+^ Tappert, Charles C. (2019).
+"Who Is the Father of Deep Learning?".
+2019 International Conference on Computational Science and Computational Intelligence (CSCI).
+ IEEE. pp. 343–348.
+doi : 10.1109/CSCI49370.2019.00067.
+ISBN 978-1-7281-5584-5.
+S2CID 216043128.
+ Retrieved 31 May 2021.
+^ a b Rosenblatt, Frank (1962).
+Principles of Neurodynamics.
+ Spartan, New York.
+^ Ivakhnenko, A. G.; Lapa, V. G. (1967).
+Cybernetics and Forecasting Techniques.
+ American Elsevier Publishing Co.
+ISBN 978-0-444-00020-0.
+^ a b Ivakhnenko, Alexey (1971).
+"Polynomial theory of complex systems" (PDF).
+IEEE Transactions on Systems, Man, and Cybernetics.
+ SMC-1 (4): 364–378.
+doi : 10.1109/TSMC.1971.4308320.
+Archived (PDF) from the original on 2017-08-29.
+ Retrieved 2019-11-05.
+^ Robbins, H.
+; Monro, S. (1951).
+"A Stochastic Approximation Method".
+The Annals of Mathematical Statistics.
+22 (3): 400.
+doi : 10.1214/aoms/1177729586.
+^ Amari, Shun'ichi (1967). "A theory of adaptive pattern classifier".
+IEEE Transactions.
+EC (16): 279–307.
+^ Matthew Brand (1988) Machine and Brain Learning. University of Chicago Tutorial Studies Bachelor's Thesis, 1988. Reported at the Summer Linguistics Institute, Stanford University, 1987 ^ Linnainmaa, Seppo (1970).
+The representation of the cumulative rounding error of an algorithm as a Taylor expansion of the local rounding errors (Masters) (in Finnish). University of Helsinki. pp. 6–7.
+^ Linnainmaa, Seppo (1976). "Taylor expansion of the accumulated rounding error".
+BIT Numerical Mathematics.
+16 (2): 146–160.
+doi : 10.1007/bf01931367.
+S2CID 122357351.
+^ Griewank, Andreas (2012).
+"Who Invented the Reverse Mode of Differentiation?" (PDF).
+Documenta Mathematica (Extra Volume ISMP): 389–400. Archived from the original (PDF) on 21 July 2017.
+ Retrieved 11 June 2017.
+^ Leibniz, Gottfried Wilhelm Freiherr von (1920).
+The Early Mathematical Manuscripts of Leibniz: Translated from the Latin Texts Published by Carl Immanuel Gerhardt with Critical and Historical Notes (Leibniz published the chain rule in a 1676 memoir).
+ Open court publishing Company.
+ISBN 9780598818461.
+^ Kelley, Henry J.
+(1960). "Gradient theory of optimal flight paths".
+ARS Journal.
+30 (10): 947–954.
+doi : 10.2514/8.5282.
+^ Werbos, Paul (1982). "Applications of advances in nonlinear sensitivity analysis".
+System modeling and optimization.
+ Springer. pp. 762–770.
+^ Werbos, P. (1974).
+"Beyond Regression: New Tools for Prediction and Analysis in the Behavioral Sciences".
+Harvard University.
+ Retrieved 12 June 2017.
+^ Rumelhart, David E., Geoffrey E. Hinton, and R. J. Williams. " Learning Internal Representations by Error Propagation ". David E. Rumelhart, James L. McClelland, and the PDP research group. (editors), Parallel distributed processing: Explorations in the microstructure of cognition, Volume 1: Foundation. MIT Press, 1986.
+^ Fukushima, K. (1980). "Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position".
+Biol. Cybern.
+36 (4): 193–202.
+doi : 10.1007/bf00344251.
+PMID 7370364.
+S2CID 206775608.
+^ Ramachandran, Prajit; Barret, Zoph; Quoc, V. Le (October 16, 2017). "Searching for Activation Functions".
+arXiv : 1710.05941 [ cs.NE ].
+^ Rina Dechter (1986). Learning while searching in constraint-satisfaction problems. University of California, Computer Science Department, Cognitive Systems Laboratory.
+Online Archived 2016-04-19 at the Wayback Machine ^ Igor Aizenberg, Naum N. Aizenberg, Joos P.L. Vandewalle (2000). Multi-Valued and Universal Binary Neurons: Theory, Learning and Applications. Springer Science & Business Media.
+^ Co-evolving recurrent neurons learn deep memory POMDPs. Proc. GECCO, Washington, D. C., pp. 1795-1802, ACM Press, New York, NY, USA, 2005.
+^ a b Zhang, Wei (1988).
+"Shift-invariant pattern recognition neural network and its optical architecture".
+Proceedings of Annual Conference of the Japan Society of Applied Physics.
+^ Zhang, Wei (1990).
+"Parallel distributed processing model with local space-invariant interconnections and its optical architecture".
+Applied Optics.
+29 (32): 4790–7.
+Bibcode : 1990ApOpt..29.4790Z.
+doi : 10.1364/AO.29.004790.
+PMID 20577468.
+^ a b LeCun et al.
+, "Backpropagation Applied to Handwritten Zip Code Recognition", Neural Computation , 1, pp. 541–551, 1989.
+^ Zhang, Wei (1991).
+"Image processing of human corneal endothelium based on a learning network".
+Applied Optics.
+30 (29): 4211–7.
+Bibcode : 1991ApOpt..30.4211Z.
+doi : 10.1364/AO.30.004211.
+PMID 20706526.
+^ Zhang, Wei (1994).
+"Computerized detection of clustered microcalcifications in digital mammograms using a shift-invariant artificial neural network".
+Medical Physics.
+21 (4): 517–24.
+Bibcode : 1994MedPh..21..517Z.
+doi : 10.1118/1.597177.
+PMID 8058017.
+^ LeCun, Yann; Léon Bottou; Yoshua Bengio; Patrick Haffner (1998).
+"Gradient-based learning applied to document recognition" (PDF).
+Proceedings of the IEEE.
+86 (11): 2278–2324.
+CiteSeerX 10.1.1.32.9552.
+doi : 10.1109/5.726791.
+S2CID 14542261.
+ Retrieved October 7, 2016.
+^ a b c Schmidhuber, Jürgen (1992).
+"Learning complex, extended sequences using the principle of history compression (based on TR FKI-148, 1991)" (PDF).
+Neural Computation.
+4 (2): 234–242.
+doi : 10.1162/neco.1992.4.2.234.
+S2CID 18271205.
+^ Schmidhuber, Jürgen (1993).
+Habilitation Thesis (PDF) (in German). Archived from the original (PDF) on 26 June 2021.
+^ Schmidhuber, Jürgen (1 November 1992). "Learning to control fast-weight memories: an alternative to recurrent nets".
+Neural Computation.
+4 (1): 131–139.
+doi : 10.1162/neco.1992.4.1.131.
+S2CID 16683347.
+^ a b Schlag, Imanol ; Irie, Kazuki; Schmidhuber, Jürgen (2021). "Linear Transformers Are Secretly Fast Weight Programmers".
+ICML 2021.
+ Springer. pp. 9355–9366.
+^ Choromanski, Krzysztof; Likhosherstov, Valerii; Dohan, David; Song, Xingyou; Gane, Andreea; Sarlos, Tamas; Hawkins, Peter; Davis, Jared; Mohiuddin, Afroz; Kaiser, Lukasz; Belanger, David; Colwell, Lucy; Weller, Adrian (2020). "Rethinking Attention with Performers".
+arXiv : 2009.14794 [ cs.CL ].
+^ Schmidhuber, Jürgen (1993). "Reducing the ratio between learning complexity and number of time-varying variables in fully recurrent nets".
+ICANN 1993.
+ Springer. pp. 460–463.
+^ Vaswani, Ashish; Shazeer, Noam; Parmar, Niki; Uszkoreit, Jakob; Jones, Llion; Gomez, Aidan N.; Kaiser, Lukasz; Polosukhin, Illia (2017-06-12). "Attention Is All You Need".
+arXiv : 1706.03762 [ cs.CL ].
+^ Wolf, Thomas; Debut, Lysandre; Sanh, Victor; Chaumond, Julien; Delangue, Clement; Moi, Anthony; Cistac, Pierric; Rault, Tim; Louf, Remi; Funtowicz, Morgan; Davison, Joe; Shleifer, Sam; von Platen, Patrick; Ma, Clara; Jernite, Yacine; Plu, Julien; Xu, Canwen; Le Scao, Teven; Gugger, Sylvain; Drame, Mariama; Lhoest, Quentin; Rush, Alexander (2020). "Transformers: State-of-the-Art Natural Language Processing".
+Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations.
+ pp. 38–45.
+doi : 10.18653/v1/2020.emnlp-demos.6.
+S2CID 208117506.
+^ He, Cheng (31 December 2021).
+"Transformer in CV".
+Transformer in CV.
+ Towards Data Science.
+^ Schmidhuber, Jürgen (1991). "A possibility for implementing curiosity and boredom in model-building neural controllers".
+Proc. SAB'1991.
+ MIT Press/Bradford Books. pp. 222–227.
+^ Schmidhuber, Jürgen (2010). "Formal Theory of Creativity, Fun, and Intrinsic Motivation (1990-2010)".
+IEEE Transactions on Autonomous Mental Development.
+2 (3): 230–247.
+doi : 10.1109/TAMD.2010.2056368.
+S2CID 234198.
+^ Schmidhuber, Jürgen (2020). "Generative Adversarial Networks are Special Cases of Artificial Curiosity (1990) and also Closely Related to Predictability Minimization (1991)".
+Neural Networks.
+127 : 58–66.
+arXiv : 1906.04493.
+doi : 10.1016/j.neunet.2020.04.008.
+PMID 32334341.
+S2CID 216056336.
+^ Goodfellow, Ian; Pouget-Abadie, Jean; Mirza, Mehdi; Xu, Bing; Warde-Farley, David; Ozair, Sherjil; Courville, Aaron; Bengio, Yoshua (2014).
+Generative Adversarial Networks (PDF).
+ Proceedings of the International Conference on Neural Information Processing Systems (NIPS 2014). pp. 2672–2680.
+Archived (PDF) from the original on 22 November 2019.
+ Retrieved 20 August 2019.
+^ "Prepare, Don't Panic: Synthetic Media and Deepfakes".
+ witness.org.
+Archived from the original on 2 December 2020.
+ Retrieved 25 November 2020.
+^ "GAN 2.0: NVIDIA's Hyperrealistic Face Generator".
+SyncedReview.com.
+ December 14, 2018.
+ Retrieved October 3, 2019.
+^ Karras, Tero; Aila, Timo; Laine, Samuli; Lehtinen, Jaakko (October 1, 2017).
+"Progressive Growing of GANs for Improved Quality, Stability, and Variation".
+arXiv : 1710.10196.
+{{ cite journal }} : Cite journal requires |journal= ( help ) ^ a b c S. Hochreiter., " Untersuchungen zu dynamischen neuronalen Netzen ".
+Archived 2015-03-06 at the Wayback Machine.
+Diploma thesis. Institut f. Informatik, Technische Univ. Munich. Advisor: J. Schmidhuber , 1991.
+^ Hochreiter, S.; et al. (15 January 2001).
+"Gradient flow in recurrent nets: the difficulty of learning long-term dependencies".
+ In Kolen, John F.; Kremer, Stefan C. (eds.).
+A Field Guide to Dynamical Recurrent Networks.
+ John Wiley & Sons.
+ISBN 978-0-7803-5369-5.
+^ a b c Hochreiter, Sepp; Schmidhuber, Jürgen (1 November 1997). "Long Short-Term Memory".
+Neural Computation.
+9 (8): 1735–1780.
+doi : 10.1162/neco.1997.9.8.1735.
+ISSN 0899-7667.
+PMID 9377276.
+S2CID 1915014.
+^ Gers, Felix; Schmidhuber, Jürgen; Cummins, Fred (1999). "Learning to forget: Continual prediction with LSTM".
+9th International Conference on Artificial Neural Networks: ICANN '99.
+ Vol. 1999. pp. 850–855.
+doi : 10.1049/cp:19991218.
+ISBN 0-85296-721-7.
+^ Srivastava, Rupesh Kumar; Greff, Klaus; Schmidhuber, Jürgen (2 May 2015). "Highway Networks".
+arXiv : 1505.00387 [ cs.LG ].
+^ Srivastava, Rupesh K; Greff, Klaus; Schmidhuber, Jürgen (2015).
+"Training Very Deep Networks".
+Advances in Neural Information Processing Systems.
+ Curran Associates, Inc.
+28 : 2377–2385.
+^ He, Kaiming; Zhang, Xiangyu; Ren, Shaoqing; Sun, Jian (2016).
+Deep Residual Learning for Image Recognition.
+2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+ Las Vegas, NV, USA: IEEE. pp. 770–778.
+arXiv : 1512.03385.
+doi : 10.1109/CVPR.2016.90.
+ISBN 978-1-4673-8851-1.
+^ de Carvalho, Andre C. L. F.; Fairhurst, Mike C.; Bisset, David (8 August 1994). "An integrated Boolean neural network for pattern classification".
+Pattern Recognition Letters.
+15 (8): 807–813.
+Bibcode : 1994PaReL..15..807D.
+doi : 10.1016/0167-8655(94)90009-4.
+^ Hinton, Geoffrey E.; Dayan, Peter; Frey, Brendan J.; Neal, Radford (26 May 1995). "The wake-sleep algorithm for unsupervised neural networks".
+Science.
+268 (5214): 1158–1161.
+Bibcode : 1995Sci...268.1158H.
+doi : 10.1126/science.7761831.
+PMID 7761831.
+S2CID 871473.
+^ Behnke, Sven (2003).
+Hierarchical Neural Networks for Image Interpretation.
+ Lecture Notes in Computer Science. Vol. 2766. Springer.
+doi : 10.1007/b11963.
+ISBN 3-540-40722-7.
+S2CID 1304548.
+^ Morgan, Nelson; Bourlard, Hervé; Renals, Steve; Cohen, Michael; Franco, Horacio (1 August 1993). "Hybrid neural network/hidden markov model systems for continuous speech recognition".
+International Journal of Pattern Recognition and Artificial Intelligence.
+07 (4): 899–916.
+doi : 10.1142/s0218001493000455.
+ISSN 0218-0014.
+^ Robinson, T.
+(1992).
+"A real-time recurrent error propagation network word recognition system".
+ICASSP.
+ Icassp'92: 617–620.
+ISBN 9780780305328.
+Archived from the original on 2021-05-09.
+ Retrieved 2017-06-12.
+^ Waibel, A.; Hanazawa, T.; Hinton, G.; Shikano, K.; Lang, K. J. (March 1989).
+"Phoneme recognition using time-delay neural networks" (PDF).
+IEEE Transactions on Acoustics, Speech, and Signal Processing.
+37 (3): 328–339.
+doi : 10.1109/29.21701.
+hdl : 10338.dmlcz/135496.
+ISSN 0096-3518.
+S2CID 9563026.
+Archived (PDF) from the original on 2021-04-27.
+ Retrieved 2019-09-24.
+^ Baker, J.; Deng, Li; Glass, Jim; Khudanpur, S.; Lee, C.-H.; Morgan, N.; O'Shaughnessy, D. (2009). "Research Developments and Directions in Speech Recognition and Understanding, Part 1".
+IEEE Signal Processing Magazine.
+26 (3): 75–80.
+Bibcode : 2009ISPM...26...75B.
+doi : 10.1109/msp.2009.932166.
+hdl : 1721.1/51891.
+S2CID 357467.
+^ Bengio, Y. (1991).
+"Artificial Neural Networks and their Application to Speech/Sequence Recognition".
+ McGill University Ph.D. thesis.
+Archived from the original on 2021-05-09.
+ Retrieved 2017-06-12.
+^ Deng, L.; Hassanein, K.; Elmasry, M. (1994). "Analysis of correlation structure for a neural predictive model with applications to speech recognition".
+Neural Networks.
+7 (2): 331–339.
+doi : 10.1016/0893-6080(94)90027-2.
+^ Doddington, G.; Przybocki, M.; Martin, A.; Reynolds, D. (2000). "The NIST speaker recognition evaluation ± Overview, methodology, systems, results, perspective".
+Speech Communication.
+31 (2): 225–254.
+doi : 10.1016/S0167-6393(99)00080-1.
+^ a b Heck, L.; Konig, Y.; Sonmez, M.; Weintraub, M. (2000). "Robustness to Telephone Handset Distortion in Speaker Recognition by Discriminative Feature Design".
+Speech Communication.
+31 (2): 181–192.
+doi : 10.1016/s0167-6393(99)00077-1.
+^ "Acoustic Modeling with Deep Neural Networks Using Raw Time Signal for LVCSR (PDF Download Available)".
+ResearchGate.
+Archived from the original on 9 May 2021.
+ Retrieved 14 June 2017.
+^ a b Graves, Alex; Eck, Douglas; Beringer, Nicole; Schmidhuber, Jürgen (2003).
+"Biologically Plausible Speech Recognition with LSTM Neural Nets" (PDF).
+1st Intl. Workshop on Biologically Inspired Approaches to Advanced Information Technology, Bio-ADIT 2004, Lausanne, Switzerland.
+ pp. 175–184.
+Archived (PDF) from the original on 2021-05-09.
+ Retrieved 2016-04-09.
+^ a b c Graves, Alex ; Fernández, Santiago; Gomez, Faustino; Schmidhuber, Jürgen (2006). "Connectionist temporal classification: Labelling unsegmented sequence data with recurrent neural networks".
+Proceedings of the International Conference on Machine Learning, ICML 2006 : 369–376.
+CiteSeerX 10.1.1.75.6306.
+^ Santiago Fernandez, Alex Graves, and Jürgen Schmidhuber (2007).
+An application of recurrent neural networks to discriminative keyword spotting Archived 2018-11-18 at the Wayback Machine.
+ Proceedings of ICANN (2), pp. 220–229.
+^ a b c Sak, Haşim; Senior, Andrew; Rao, Kanishka; Beaufays, Françoise; Schalkwyk, Johan (September 2015).
+"Google voice search: faster and more accurate".
+Archived from the original on 2016-03-09.
+ Retrieved 2016-04-09.
+^ Yann LeCun (2016). Slides on Deep Learning Online Archived 2016-04-23 at the Wayback Machine ^ Hinton, Geoffrey E. (1 October 2007).
+"Learning multiple layers of representation".
+Trends in Cognitive Sciences.
+11 (10): 428–434.
+doi : 10.1016/j.tics.2007.09.004.
+ISSN 1364-6613.
+PMID 17921042.
+S2CID 15066318.
+Archived from the original on 11 October 2013.
+ Retrieved 12 June 2017.
+^ Hinton, G. E.
+; Osindero, S.; Teh, Y. W. (2006).
+"A Fast Learning Algorithm for Deep Belief Nets" (PDF).
+Neural Computation.
+18 (7): 1527–1554.
+doi : 10.1162/neco.2006.18.7.1527.
+PMID 16764513.
+S2CID 2309950.
+Archived (PDF) from the original on 2015-12-23.
+ Retrieved 2011-07-20.
+^ Bengio, Yoshua (2012). "Practical recommendations for gradient-based training of deep architectures".
+arXiv : 1206.5533 [ cs.LG ].
+^ G. E. Hinton., " Learning multiple layers of representation ".
+Archived 2018-05-22 at the Wayback Machine.
+Trends in Cognitive Sciences , 11, pp. 428–434, 2007.
+^ a b c Hinton, G.; Deng, L.; Yu, D.; Dahl, G.; Mohamed, A.; Jaitly, N.; Senior, A.; Vanhoucke, V.; Nguyen, P.; Sainath, T.
+; Kingsbury, B. (2012). "Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups".
+IEEE Signal Processing Magazine.
+29 (6): 82–97.
+Bibcode : 2012ISPM...29...82H.
+doi : 10.1109/msp.2012.2205597.
+S2CID 206485943.
+^ a b c Deng, L.; Hinton, G.; Kingsbury, B. (2013).
+"New types of deep neural network learning for speech recognition and related applications: An overview (ICASSP)" (PDF).
+Archived (PDF) from the original on 2017-09-26.
+ Retrieved 2017-06-12.
+{{ cite journal }} : Cite journal requires |journal= ( help ) ^ a b c Yu, D.; Deng, L. (2014).
+Automatic Speech Recognition: A Deep Learning Approach (Publisher: Springer).
+ Springer.
+ISBN 978-1-4471-5779-3.
+^ "Deng receives prestigious IEEE Technical Achievement Award - Microsoft Research".
+Microsoft Research.
+ 3 December 2015.
+Archived from the original on 16 March 2018.
+ Retrieved 16 March 2018.
+^ a b Li, Deng (September 2014).
+"Keynote talk: 'Achievements and Challenges of Deep Learning - From Speech Analysis and Recognition To Language and Multimodal Processing' ".
+Interspeech.
+Archived from the original on 2017-09-26.
+ Retrieved 2017-06-12.
+^ Yu, D.; Deng, L. (2010).
+"Roles of Pre-Training and Fine-Tuning in Context-Dependent DBN-HMMs for Real-World Speech Recognition".
+NIPS Workshop on Deep Learning and Unsupervised Feature Learning.
+Archived from the original on 2017-10-12.
+ Retrieved 2017-06-14.
+^ Seide, F.; Li, G.; Yu, D. (2011).
+"Conversational speech transcription using context-dependent deep neural networks".
+Interspeech : 437–440.
+doi : 10.21437/Interspeech.2011-169.
+S2CID 398770.
+Archived from the original on 2017-10-12.
+ Retrieved 2017-06-14.
+^ Deng, Li; Li, Jinyu; Huang, Jui-Ting; Yao, Kaisheng; Yu, Dong; Seide, Frank; Seltzer, Mike; Zweig, Geoff; He, Xiaodong (1 May 2013).
+"Recent Advances in Deep Learning for Speech Research at Microsoft".
+Microsoft Research.
+Archived from the original on 12 October 2017.
+ Retrieved 14 June 2017.
+^ Singh, Premjeet; Saha, Goutam; Sahidullah, Md (2021). "Non-linear frequency warping using constant-Q transformation for speech emotion recognition".
+2021 International Conference on Computer Communication and Informatics (ICCCI).
+ pp. 1–4.
+arXiv : 2102.04029.
+doi : 10.1109/ICCCI50826.2021.9402569.
+ISBN 978-1-7281-5875-4.
+S2CID 231846518.
+^ Sak, Hasim; Senior, Andrew; Beaufays, Francoise (2014).
+"Long Short-Term Memory recurrent neural network architectures for large scale acoustic modeling" (PDF).
+ Archived from the original (PDF) on 24 April 2018.
+^ Li, Xiangang; Wu, Xihong (2014). "Constructing Long Short-Term Memory based Deep Recurrent Neural Networks for Large Vocabulary Speech Recognition".
+arXiv : 1410.4281 [ cs.CL ].
+^ Zen, Heiga; Sak, Hasim (2015).
+"Unidirectional Long Short-Term Memory Recurrent Neural Network with Recurrent Output Layer for Low-Latency Speech Synthesis" (PDF).
+Google.com.
+ ICASSP. pp. 4470–4474.
+Archived (PDF) from the original on 2021-05-09.
+ Retrieved 2017-06-13.
+^ "Nvidia CEO bets big on deep learning and VR".
+Venture Beat.
+ 5 April 2016.
+Archived from the original on 25 November 2020.
+ Retrieved 21 April 2017.
+^ "From not working to neural networking".
+The Economist.
+Archived from the original on 2016-12-31.
+ Retrieved 2017-08-26.
+^ a b Oh, K.-S.; Jung, K. (2004). "GPU implementation of neural networks".
+Pattern Recognition.
+37 (6): 1311–1314.
+Bibcode : 2004PatRe..37.1311O.
+doi : 10.1016/j.patcog.2004.01.013.
+^ " A Survey of Techniques for Optimizing Deep Learning on GPUs Archived 2021-05-09 at the Wayback Machine ", S. Mittal and S. Vaishay, Journal of Systems Architecture, 2019 ^ a b Chellapilla, Kumar; Puri, Sidd; Simard, Patrice (2006), High performance convolutional neural networks for document processing , archived from the original on 2020-05-18 , retrieved 2021-02-14 ^ Cireşan, Dan Claudiu; Meier, Ueli; Gambardella, Luca Maria; Schmidhuber, Jürgen (21 September 2010). "Deep, Big, Simple Neural Nets for Handwritten Digit Recognition".
+Neural Computation.
+22 (12): 3207–3220.
+arXiv : 1003.0358.
+doi : 10.1162/neco_a_00052.
+ISSN 0899-7667.
+PMID 20858131.
+S2CID 1918673.
+^ Raina, Rajat; Madhavan, Anand; Ng, Andrew Y. (2009). "Large-scale deep unsupervised learning using graphics processors".
+Proceedings of the 26th Annual International Conference on Machine Learning.
+ ICML '09. New York, NY, USA: ACM. pp. 873–880.
+CiteSeerX 10.1.1.154.372.
+doi : 10.1145/1553374.1553486.
+ISBN 9781605585161.
+S2CID 392458.
+^ Sze, Vivienne ; Chen, Yu-Hsin; Yang, Tien-Ju; Emer, Joel (2017). "Efficient Processing of Deep Neural Networks: A Tutorial and Survey".
+arXiv : 1703.09039 [ cs.CV ].
+^ Graves, Alex; and Schmidhuber, Jürgen; Offline Handwriting Recognition with Multidimensional Recurrent Neural Networks , in Bengio, Yoshua; Schuurmans, Dale; Lafferty, John; Williams, Chris K. I.; and Culotta, Aron (eds.), Advances in Neural Information Processing Systems 22 (NIPS'22), December 7th–10th, 2009, Vancouver, BC , Neural Information Processing Systems (NIPS) Foundation, 2009, pp. 545–552 ^ Google Research Blog. The neural networks behind Google Voice transcription. August 11, 2015. By Françoise Beaufays http://googleresearch.blogspot.co.at/2015/08/the-neural-networks-behind-google-voice.html ^ Ciresan, D. C.; Meier, U.; Masci, J.; Gambardella, L.M.; Schmidhuber, J. (2011).
+"Flexible, High Performance Convolutional Neural Networks for Image Classification" (PDF).
+International Joint Conference on Artificial Intelligence.
+doi : 10.5591/978-1-57735-516-8/ijcai11-210.
+Archived (PDF) from the original on 2014-09-29.
+ Retrieved 2017-06-13.
+^ Ciresan, Dan; Giusti, Alessandro; Gambardella, Luca M.; Schmidhuber, Jürgen (2012). Pereira, F.; Burges, C. J. C.; Bottou, L.; Weinberger, K. Q. (eds.).
+Advances in Neural Information Processing Systems 25 (PDF).
+ Curran Associates, Inc. pp. 2843–2851.
+Archived (PDF) from the original on 2017-08-09.
+ Retrieved 2017-06-13.
+^ Ciresan, D.; Giusti, A.; Gambardella, L.M.; Schmidhuber, J. (2013). "Mitosis Detection in Breast Cancer Histology Images with Deep Neural Networks".
+Medical Image Computing and Computer-Assisted Intervention – MICCAI 2013.
+ Lecture Notes in Computer Science. Vol. 7908. pp. 411–418.
+doi : 10.1007/978-3-642-40763-5_51.
+ISBN 978-3-642-38708-1.
+PMID 24579167.
+^ Simonyan, Karen; Andrew, Zisserman (2014). "Very Deep Convolution Networks for Large Scale Image Recognition".
+arXiv : 1409.1556 [ cs.CV ].
+^ Vinyals, Oriol; Toshev, Alexander; Bengio, Samy; Erhan, Dumitru (2014). "Show and Tell: A Neural Image Caption Generator".
+arXiv : 1411.4555 [ cs.CV ]..
+^ Fang, Hao; Gupta, Saurabh; Iandola, Forrest; Srivastava, Rupesh; Deng, Li; Dollár, Piotr; Gao, Jianfeng; He, Xiaodong; Mitchell, Margaret; Platt, John C; Lawrence Zitnick, C; Zweig, Geoffrey (2014). "From Captions to Visual Concepts and Back".
+arXiv : 1411.4952 [ cs.CV ]..
+^ Kiros, Ryan; Salakhutdinov, Ruslan; Zemel, Richard S (2014). "Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models".
+arXiv : 1411.2539 [ cs.LG ]..
+^ a b "Merck Molecular Activity Challenge".
+kaggle.com.
+Archived from the original on 2020-07-16.
+ Retrieved 2020-07-16.
+^ a b "Multi-task Neural Networks for QSAR Predictions | Data Science Association".
+www.datascienceassn.org.
+Archived from the original on 30 April 2017.
+ Retrieved 14 June 2017.
+^ a b "Toxicology in the 21st century Data Challenge" ^ a b "NCATS Announces Tox21 Data Challenge Winners".
+Archived from the original on 2015-09-08.
+ Retrieved 2015-03-05.
+^ a b "NCATS Announces Tox21 Data Challenge Winners".
+ Archived from the original on 28 February 2015.
+ Retrieved 5 March 2015.
+^ "Why Deep Learning Is Suddenly Changing Your Life".
+Fortune.
+ 2016.
+Archived from the original on 14 April 2018.
+ Retrieved 13 April 2018.
+^ Ferrie, C., & Kaiser, S. (2019).
+Neural Networks for Babies.
+ Sourcebooks.
+ISBN 978-1492671206.
+{{ cite book }} : CS1 maint: multiple names: authors list ( link ) ^ Silver, David; Huang, Aja; Maddison, Chris J.; Guez, Arthur; Sifre, Laurent; Driessche, George van den; Schrittwieser, Julian; Antonoglou, Ioannis; Panneershelvam, Veda (January 2016). "Mastering the game of Go with deep neural networks and tree search".
+Nature.
+529 (7587): 484–489.
+Bibcode : 2016Natur.529..484S.
+doi : 10.1038/nature16961.
+ISSN 1476-4687.
+PMID 26819042.
+S2CID 515925.
+^ A Guide to Deep Learning and Neural Networks , archived from the original on 2020-11-02 , retrieved 2020-11-16 ^ Szegedy, Christian; Toshev, Alexander; Erhan, Dumitru (2013).
+"Deep neural networks for object detection".
+Advances in Neural Information Processing Systems : 2553–2561.
+Archived from the original on 2017-06-29.
+ Retrieved 2017-06-13.
+^ Rolnick, David; Tegmark, Max (2018).
+"The power of deeper networks for expressing natural functions".
+International Conference on Learning Representations.
+ ICLR 2018.
+Archived from the original on 2021-01-07.
+ Retrieved 2021-01-05.
+^ Hof, Robert D.
+"Is Artificial Intelligence Finally Coming into Its Own?".
+MIT Technology Review.
+ Archived from the original on 31 March 2019.
+ Retrieved 10 July 2018.
+^ a b Gers, Felix A.; Schmidhuber, Jürgen (2001).
+"LSTM Recurrent Networks Learn Simple Context Free and Context Sensitive Languages".
+IEEE Transactions on Neural Networks.
+12 (6): 1333–1340.
+doi : 10.1109/72.963769.
+PMID 18249962.
+S2CID 10192330.
+Archived from the original on 2020-01-26.
+ Retrieved 2020-02-25.
+^ a b c Sutskever, L.; Vinyals, O.; Le, Q. (2014).
+"Sequence to Sequence Learning with Neural Networks" (PDF).
+Proc. NIPS.
+arXiv : 1409.3215.
+Bibcode : 2014arXiv1409.3215S.
+Archived (PDF) from the original on 2021-05-09.
+ Retrieved 2017-06-13.
+^ a b Jozefowicz, Rafal; Vinyals, Oriol; Schuster, Mike; Shazeer, Noam; Wu, Yonghui (2016). "Exploring the Limits of Language Modeling".
+arXiv : 1602.02410 [ cs.CL ].
+^ a b Gillick, Dan; Brunk, Cliff; Vinyals, Oriol; Subramanya, Amarnag (2015). "Multilingual Language Processing from Bytes".
+arXiv : 1512.00103 [ cs.CL ].
+^ Mikolov, T.; et al. (2010).
+"Recurrent neural network based language model" (PDF).
+Interspeech : 1045–1048.
+doi : 10.21437/Interspeech.2010-343.
+S2CID 17048224.
+Archived (PDF) from the original on 2017-05-16.
+ Retrieved 2017-06-13.
+^ a b "Learning Precise Timing with LSTM Recurrent Networks (PDF Download Available)".
+ResearchGate.
+Archived from the original on 9 May 2021.
+ Retrieved 13 June 2017.
+^ LeCun, Y.; et al. (1998).
+"Gradient-based learning applied to document recognition".
+Proceedings of the IEEE.
+86 (11): 2278–2324.
+doi : 10.1109/5.726791.
+S2CID 14542261.
+^ Sainath, Tara N.
+; Mohamed, Abdel-Rahman; Kingsbury, Brian; Ramabhadran, Bhuvana (2013). "Deep convolutional neural networks for LVCSR".
+2013 IEEE International Conference on Acoustics, Speech and Signal Processing.
+ pp. 8614–8618.
+doi : 10.1109/icassp.2013.6639347.
+ISBN 978-1-4799-0356-6.
+S2CID 13816461.
+^ Bengio, Yoshua; Boulanger-Lewandowski, Nicolas; Pascanu, Razvan (2013). "Advances in optimizing recurrent networks".
+2013 IEEE International Conference on Acoustics, Speech and Signal Processing.
+ pp. 8624–8628.
+arXiv : 1212.0901.
+CiteSeerX 10.1.1.752.9151.
+doi : 10.1109/icassp.2013.6639349.
+ISBN 978-1-4799-0356-6.
+S2CID 12485056.
+^ Dahl, G.; et al. (2013).
+"Improving DNNs for LVCSR using rectified linear units and dropout" (PDF).
+ICASSP.
+Archived (PDF) from the original on 2017-08-12.
+ Retrieved 2017-06-13.
+^ "Data Augmentation - deeplearning.ai | Coursera".
+Coursera.
+Archived from the original on 1 December 2017.
+ Retrieved 30 November 2017.
+^ Hinton, G. E. (2010).
+"A Practical Guide to Training Restricted Boltzmann Machines".
+Tech. Rep. UTML TR 2010-003.
+Archived from the original on 2021-05-09.
+ Retrieved 2017-06-13.
+^ You, Yang; Buluç, Aydın; Demmel, James (November 2017).
+"Scaling deep learning on GPU and knights landing clusters".
+Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis on - SC '17.
+ SC '17, ACM. pp. 1–12.
+doi : 10.1145/3126908.3126912.
+ISBN 9781450351140.
+S2CID 8869270.
+Archived from the original on 29 July 2020.
+ Retrieved 5 March 2018.
+^ Viebke, André; Memeti, Suejb; Pllana, Sabri; Abraham, Ajith (2019). "CHAOS: a parallelization scheme for training convolutional neural networks on Intel Xeon Phi".
+The Journal of Supercomputing.
+75 : 197–227.
+arXiv : 1702.07908.
+Bibcode : 2017arXiv170207908V.
+doi : 10.1007/s11227-017-1994-x.
+S2CID 14135321.
+^ Ting Qin, et al. "A learning algorithm of CMAC based on RLS". Neural Processing Letters 19.1 (2004): 49-61.
+^ Ting Qin, et al. " Continuous CMAC-QRLS and its systolic array ".
+Archived 2018-11-18 at the Wayback Machine.
+ Neural Processing Letters 22.1 (2005): 1-16.
+^ Research, AI (23 October 2015).
+"Deep Neural Networks for Acoustic Modeling in Speech Recognition".
+airesearch.com.
+Archived from the original on 1 February 2016.
+ Retrieved 23 October 2015.
+^ "GPUs Continue to Dominate the AI Accelerator Market for Now".
+InformationWeek.
+ December 2019.
+Archived from the original on 10 June 2020.
+ Retrieved 11 June 2020.
+^ Ray, Tiernan (2019).
+"AI is changing the entire nature of computation".
+ZDNet.
+Archived from the original on 25 May 2020.
+ Retrieved 11 June 2020.
+^ "AI and Compute".
+OpenAI.
+ 16 May 2018.
+Archived from the original on 17 June 2020.
+ Retrieved 11 June 2020.
+^ "HUAWEI Reveals the Future of Mobile AI at IFA 2017 | HUAWEI Latest News | HUAWEI Global".
+consumer.huawei.com.
+^ P, JouppiNorman; YoungCliff; PatilNishant; PattersonDavid; AgrawalGaurav; BajwaRaminder; BatesSarah; BhatiaSuresh; BodenNan; BorchersAl; BoyleRick (2017-06-24).
+"In-Datacenter Performance Analysis of a Tensor Processing Unit".
+ACM SIGARCH Computer Architecture News.
+45 (2): 1–12.
+doi : 10.1145/3140659.3080246.
+^ Woodie, Alex (2021-11-01).
+"Cerebras Hits the Accelerator for Deep Learning Workloads".
+Datanami.
+ Retrieved 2022-08-03.
+^ "Cerebras launches new AI supercomputing processor with 2.6 trillion transistors".
+VentureBeat.
+ 2021-04-20.
+ Retrieved 2022-08-03.
+^ Marega, Guilherme Migliato; Zhao, Yanfei; Avsar, Ahmet; Wang, Zhenyu; Tripati, Mukesh; Radenovic, Aleksandra; Kis, Anras (2020).
+"Logic-in-memory based on an atomically thin semiconductor".
+Nature.
+587 (2): 72–77.
+Bibcode : 2020Natur.587...72M.
+doi : 10.1038/s41586-020-2861-0.
+PMC 7116757.
+PMID 33149289.
+^ a b c Feldmann, J.; Youngblood, N.; Karpov, M.; et al. (2021). "Parallel convolutional processing using an integrated photonic tensor".
+Nature.
+589 (2): 52–58.
+arXiv : 2002.00281.
+doi : 10.1038/s41586-020-03070-1.
+PMID 33408373.
+S2CID 211010976.
+^ TIMIT Acoustic-Phonetic Continuous Speech Corpus Linguistic Data Consortium, Philadelphia.
+^ Robinson, Tony (30 September 1991). "Several Improvements to a Recurrent Error Propagation Network Phone Recognition System".
+Cambridge University Engineering Department Technical Report.
+ CUED/F-INFENG/TR82.
+doi : 10.13140/RG.2.2.15418.90567.
+^ Abdel-Hamid, O.; et al. (2014).
+"Convolutional Neural Networks for Speech Recognition".
+IEEE/ACM Transactions on Audio, Speech, and Language Processing.
+22 (10): 1533–1545.
+doi : 10.1109/taslp.2014.2339736.
+S2CID 206602362.
+Archived from the original on 2020-09-22.
+ Retrieved 2018-04-20.
+^ Deng, L.; Platt, J. (2014). "Ensemble Deep Learning for Speech Recognition".
+Proc. Interspeech : 1915–1919.
+doi : 10.21437/Interspeech.2014-433.
+S2CID 15641618.
+^ Tóth, Laszló (2015).
+"Phone Recognition with Hierarchical Convolutional Deep Maxout Networks" (PDF).
+EURASIP Journal on Audio, Speech, and Music Processing.
+2015.
+doi : 10.1186/s13636-015-0068-3.
+S2CID 217950236.
+Archived (PDF) from the original on 2020-09-24.
+ Retrieved 2019-04-01.
+^ McMillan, Robert (17 December 2014).
+"How Skype Used AI to Build Its Amazing New Language Translator | WIRED".
+Wired.
+Archived from the original on 8 June 2017.
+ Retrieved 14 June 2017.
+^ Hannun, Awni; Case, Carl; Casper, Jared; Catanzaro, Bryan; Diamos, Greg; Elsen, Erich; Prenger, Ryan; Satheesh, Sanjeev; Sengupta, Shubho; Coates, Adam; Ng, Andrew Y (2014). "Deep Speech: Scaling up end-to-end speech recognition".
+arXiv : 1412.5567 [ cs.CL ].
+^ "MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges".
+yann.lecun.com.
+Archived from the original on 2014-01-13.
+ Retrieved 2014-01-28.
+^ Cireşan, Dan; Meier, Ueli; Masci, Jonathan; Schmidhuber, Jürgen (August 2012). "Multi-column deep neural network for traffic sign classification".
+Neural Networks.
+ Selected Papers from IJCNN 2011.
+32 : 333–338.
+CiteSeerX 10.1.1.226.8219.
+doi : 10.1016/j.neunet.2012.02.023.
+PMID 22386783.
+^ Chaochao Lu; Xiaoou Tang (2014). "Surpassing Human Level Face Recognition".
+arXiv : 1404.3840 [ cs.CV ].
+^ Nvidia Demos a Car Computer Trained with "Deep Learning" (6 January 2015), David Talbot, MIT Technology Review ^ a b c G. W. Smith; Frederic Fol Leymarie (10 April 2017).
+"The Machine as Artist: An Introduction".
+Arts.
+6 (4): 5.
+doi : 10.3390/arts6020005.
+^ a b c Blaise Agüera y Arcas (29 September 2017).
+"Art in the Age of Machine Intelligence".
+Arts.
+6 (4): 18.
+doi : 10.3390/arts6040018.
+^ Goldberg, Yoav; Levy, Omar (2014). "word2vec Explained: Deriving Mikolov et al.'s Negative-Sampling Word-Embedding Method".
+arXiv : 1402.3722 [ cs.CL ].
+^ a b Socher, Richard; Manning, Christopher.
+"Deep Learning for NLP" (PDF).
+Archived (PDF) from the original on 6 July 2014.
+ Retrieved 26 October 2014.
+^ Socher, Richard; Bauer, John; Manning, Christopher; Ng, Andrew (2013).
+"Parsing With Compositional Vector Grammars" (PDF).
+Proceedings of the ACL 2013 Conference.
+Archived (PDF) from the original on 2014-11-27.
+ Retrieved 2014-09-03.
+^ Socher, Richard (2013).
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank" (PDF).
+Archived (PDF) from the original on 2016-12-28.
+ Retrieved 2014-09-03.
+{{ cite journal }} : Cite journal requires |journal= ( help ) ^ Shen, Yelong; He, Xiaodong; Gao, Jianfeng; Deng, Li; Mesnil, Gregoire (1 November 2014).
+"A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval".
+Microsoft Research.
+Archived from the original on 27 October 2017.
+ Retrieved 14 June 2017.
+^ Huang, Po-Sen; He, Xiaodong; Gao, Jianfeng; Deng, Li; Acero, Alex; Heck, Larry (1 October 2013).
+"Learning Deep Structured Semantic Models for Web Search using Clickthrough Data".
+Microsoft Research.
+Archived from the original on 27 October 2017.
+ Retrieved 14 June 2017.
+^ Mesnil, G.; Dauphin, Y.; Yao, K.; Bengio, Y.; Deng, L.; Hakkani-Tur, D.; He, X.; Heck, L.; Tur, G.; Yu, D.; Zweig, G. (2015). "Using recurrent neural networks for slot filling in spoken language understanding".
+IEEE Transactions on Audio, Speech, and Language Processing.
+23 (3): 530–539.
+doi : 10.1109/taslp.2014.2383614.
+S2CID 1317136.
+^ a b Gao, Jianfeng; He, Xiaodong; Yih, Scott Wen-tau; Deng, Li (1 June 2014).
+"Learning Continuous Phrase Representations for Translation Modeling".
+Microsoft Research.
+Archived from the original on 27 October 2017.
+ Retrieved 14 June 2017.
+^ Brocardo, Marcelo Luiz; Traore, Issa; Woungang, Isaac; Obaidat, Mohammad S. (2017). "Authorship verification using deep belief network systems".
+International Journal of Communication Systems.
+30 (12): e3259.
+doi : 10.1002/dac.3259.
+S2CID 40745740.
+^ Kariampuzha, William; Alyea, Gioconda; Qu, Sue; Sanjak, Jaleal; Mathé, Ewy; Sid, Eric; Chatelaine, Haley; Yadaw, Arjun; Xu, Yanji; Zhu, Qian (2023).
+"Precision information extraction for rare disease epidemiology at scale".
+Journal of Translational Medicine.
+21 (1): 157.
+doi : 10.1186/s12967-023-04011-y.
+PMC 9972634.
+PMID 36855134.
+^ "Deep Learning for Natural Language Processing: Theory and Practice (CIKM2014 Tutorial) - Microsoft Research".
+Microsoft Research.
+Archived from the original on 13 March 2017.
+ Retrieved 14 June 2017.
+^ Turovsky, Barak (15 November 2016).
+"Found in translation: More accurate, fluent sentences in Google Translate".
+The Keyword Google Blog.
+Archived from the original on 7 April 2017.
+ Retrieved 23 March 2017.
+^ a b c d Schuster, Mike; Johnson, Melvin; Thorat, Nikhil (22 November 2016).
+"Zero-Shot Translation with Google's Multilingual Neural Machine Translation System".
+Google Research Blog.
+Archived from the original on 10 July 2017.
+ Retrieved 23 March 2017.
+^ Wu, Yonghui; Schuster, Mike; Chen, Zhifeng; Le, Quoc V; Norouzi, Mohammad; Macherey, Wolfgang; Krikun, Maxim; Cao, Yuan; Gao, Qin; Macherey, Klaus; Klingner, Jeff; Shah, Apurva; Johnson, Melvin; Liu, Xiaobing; Kaiser, Łukasz; Gouws, Stephan; Kato, Yoshikiyo; Kudo, Taku; Kazawa, Hideto; Stevens, Keith; Kurian, George; Patil, Nishant; Wang, Wei; Young, Cliff; Smith, Jason; Riesa, Jason; Rudnick, Alex; Vinyals, Oriol; Corrado, Greg; et al. (2016). "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation".
+arXiv : 1609.08144 [ cs.CL ].
+^ Metz, Cade (27 September 2016).
+"An Infusion of AI Makes Google Translate More Powerful Than Ever".
+Wired.
+Archived from the original on 8 November 2020.
+ Retrieved 12 October 2017.
+^ a b Boitet, Christian; Blanchon, Hervé; Seligman, Mark; Bellynck, Valérie (2010).
+"MT on and for the Web" (PDF).
+ Archived from the original (PDF) on 29 March 2017.
+ Retrieved 1 December 2016.
+^ Arrowsmith, J; Miller, P (2013). "Trial watch: Phase II and phase III attrition rates 2011-2012".
+Nature Reviews Drug Discovery.
+12 (8): 569.
+doi : 10.1038/nrd4090.
+PMID 23903212.
+S2CID 20246434.
+^ Verbist, B; Klambauer, G; Vervoort, L; Talloen, W; The Qstar, Consortium; Shkedy, Z; Thas, O; Bender, A; Göhlmann, H. W.; Hochreiter, S (2015).
+"Using transcriptomics to guide lead optimization in drug discovery projects: Lessons learned from the QSTAR project".
+Drug Discovery Today.
+20 (5): 505–513.
+doi : 10.1016/j.drudis.2014.12.014.
+PMID 25582842.
+^ Wallach, Izhar; Dzamba, Michael; Heifets, Abraham (9 October 2015). "AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery".
+arXiv : 1510.02855 [ cs.LG ].
+^ a b "Toronto startup has a faster way to discover effective medicines".
+The Globe and Mail.
+Archived from the original on 20 October 2015.
+ Retrieved 9 November 2015.
+^ "Startup Harnesses Supercomputers to Seek Cures".
+KQED Future of You.
+ 27 May 2015.
+Archived from the original on 24 December 2015.
+ Retrieved 9 November 2015.
+^ Gilmer, Justin; Schoenholz, Samuel S.; Riley, Patrick F.; Vinyals, Oriol; Dahl, George E. (2017-06-12). "Neural Message Passing for Quantum Chemistry".
+arXiv : 1704.01212 [ cs.LG ].
+^ Zhavoronkov, Alex (2019). "Deep learning enables rapid identification of potent DDR1 kinase inhibitors".
+Nature Biotechnology.
+37 (9): 1038–1040.
+doi : 10.1038/s41587-019-0224-x.
+PMID 31477924.
+S2CID 201716327.
+^ Gregory, Barber.
+"A Molecule Designed By AI Exhibits 'Druglike' Qualities".
+Wired.
+Archived from the original on 2020-04-30.
+ Retrieved 2019-09-05.
+^ Tkachenko, Yegor (8 April 2015). "Autonomous CRM Control via CLV Approximation with Deep Reinforcement Learning in Discrete and Continuous Action Space".
+arXiv : 1504.01840 [ cs.LG ].
+^ van den Oord, Aaron; Dieleman, Sander; Schrauwen, Benjamin (2013). Burges, C. J. C.; Bottou, L.; Welling, M.; Ghahramani, Z.; Weinberger, K. Q. (eds.).
+Advances in Neural Information Processing Systems 26 (PDF).
+ Curran Associates, Inc. pp. 2643–2651.
+Archived (PDF) from the original on 2017-05-16.
+ Retrieved 2017-06-14.
+^ Feng, X.Y.; Zhang, H.; Ren, Y.J.; Shang, P.H.; Zhu, Y.; Liang, Y.C.; Guan, R.C.; Xu, D. (2019).
+"The Deep Learning–Based Recommender System "Pubmender" for Choosing a Biomedical Publication Venue: Development and Validation Study".
+Journal of Medical Internet Research.
+21 (5): e12957.
+doi : 10.2196/12957.
+PMC 6555124.
+PMID 31127715.
+^ Elkahky, Ali Mamdouh; Song, Yang; He, Xiaodong (1 May 2015).
+"A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems".
+Microsoft Research.
+Archived from the original on 25 January 2018.
+ Retrieved 14 June 2017.
+^ Chicco, Davide; Sadowski, Peter; Baldi, Pierre (1 January 2014). "Deep autoencoder neural networks for gene ontology annotation predictions".
+Proceedings of the 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics.
+ ACM. pp. 533–540.
+doi : 10.1145/2649387.2649442.
+hdl : 11311/964622.
+ISBN 9781450328944.
+S2CID 207217210.
+Archived from the original on 9 May 2021.
+ Retrieved 23 November 2015.
+^ Sathyanarayana, Aarti (1 January 2016).
+"Sleep Quality Prediction From Wearable Data Using Deep Learning".
+JMIR mHealth and uHealth.
+4 (4): e125.
+doi : 10.2196/mhealth.6562.
+PMC 5116102.
+PMID 27815231.
+S2CID 3821594.
+^ Choi, Edward; Schuetz, Andy; Stewart, Walter F.; Sun, Jimeng (13 August 2016).
+"Using recurrent neural network models for early detection of heart failure onset".
+Journal of the American Medical Informatics Association.
+24 (2): 361–370.
+doi : 10.1093/jamia/ocw112.
+ISSN 1067-5027.
+PMC 5391725.
+PMID 27521897.
+^ Litjens, Geert; Kooi, Thijs; Bejnordi, Babak Ehteshami; Setio, Arnaud Arindra Adiyoso; Ciompi, Francesco; Ghafoorian, Mohsen; van der Laak, Jeroen A.W.M.; van Ginneken, Bram; Sánchez, Clara I. (December 2017). "A survey on deep learning in medical image analysis".
+Medical Image Analysis.
+42 : 60–88.
+arXiv : 1702.05747.
+Bibcode : 2017arXiv170205747L.
+doi : 10.1016/j.media.2017.07.005.
+PMID 28778026.
+S2CID 2088679.
+^ Forslid, Gustav; Wieslander, Hakan; Bengtsson, Ewert; Wahlby, Carolina; Hirsch, Jan-Michael; Stark, Christina Runow; Sadanandan, Sajith Kecheril (2017).
+"Deep Convolutional Neural Networks for Detecting Cellular Changes Due to Malignancy".
+2017 IEEE International Conference on Computer Vision Workshops (ICCVW).
+ pp. 82–89.
+doi : 10.1109/ICCVW.2017.18.
+ISBN 9781538610343.
+S2CID 4728736.
+Archived from the original on 2021-05-09.
+ Retrieved 2019-11-12.
+^ Dong, Xin; Zhou, Yizhao; Wang, Lantian; Peng, Jingfeng; Lou, Yanbo; Fan, Yiqun (2020).
+"Liver Cancer Detection Using Hybridized Fully Convolutional Neural Network Based on Deep Learning Framework".
+IEEE Access.
+8 : 129889–129898.
+doi : 10.1109/ACCESS.2020.3006362.
+ISSN 2169-3536.
+S2CID 220733699.
+^ Lyakhov, Pavel Alekseevich; Lyakhova, Ulyana Alekseevna; Nagornov, Nikolay Nikolaevich (2022-04-03).
+"System for the Recognizing of Pigmented Skin Lesions with Fusion and Analysis of Heterogeneous Data Based on a Multimodal Neural Network".
+Cancers.
+14 (7): 1819.
+doi : 10.3390/cancers14071819.
+ISSN 2072-6694.
+PMC 8997449.
+PMID 35406591.
+^ De, Shaunak; Maity, Abhishek; Goel, Vritti; Shitole, Sanjay; Bhattacharya, Avik (2017). "Predicting the popularity of instagram posts for a lifestyle magazine using deep learning".
+2017 2nd International Conference on Communication Systems, Computing and IT Applications (CSCITA).
+ pp. 174–177.
+doi : 10.1109/CSCITA.2017.8066548.
+ISBN 978-1-5090-4381-1.
+S2CID 35350962.
+^ "Colorizing and Restoring Old Images with Deep Learning".
+FloydHub Blog.
+ 13 November 2018.
+Archived from the original on 11 October 2019.
+ Retrieved 11 October 2019.
+^ Schmidt, Uwe; Roth, Stefan.
+Shrinkage Fields for Effective Image Restoration (PDF).
+ Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on.
+Archived (PDF) from the original on 2018-01-02.
+ Retrieved 2018-01-01.
+^ Kleanthous, Christos; Chatzis, Sotirios (2020). "Gated Mixture Variational Autoencoders for Value Added Tax audit case selection".
+Knowledge-Based Systems.
+188 : 105048.
+doi : 10.1016/j.knosys.2019.105048.
+S2CID 204092079.
+^ Czech, Tomasz (28 June 2018).
+"Deep learning: the next frontier for money laundering detection".
+Global Banking and Finance Review.
+Archived from the original on 2018-11-16.
+ Retrieved 2018-07-15.
+^ a b c "Army researchers develop new algorithms to train robots".
+EurekAlert!.
+Archived from the original on 28 August 2018.
+ Retrieved 29 August 2018.
+^ Raissi, M.; Perdikaris, P.; Karniadakis, G. E. (2019-02-01).
+"Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations".
+Journal of Computational Physics.
+378 : 686–707.
+Bibcode : 2019JCoPh.378..686R.
+doi : 10.1016/j.jcp.2018.10.045.
+ISSN 0021-9991.
+OSTI 1595805.
+S2CID 57379996.
+^ Mao, Zhiping; Jagtap, Ameya D.; Karniadakis, George Em (2020-03-01).
+"Physics-informed neural networks for high-speed flows".
+Computer Methods in Applied Mechanics and Engineering.
+360 : 112789.
+Bibcode : 2020CMAME.360k2789M.
+doi : 10.1016/j.cma.2019.112789.
+ISSN 0045-7825.
+S2CID 212755458.
+^ Raissi, Maziar; Yazdani, Alireza; Karniadakis, George Em (2020-02-28).
+"Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations".
+Science.
+367 (6481): 1026–1030.
+Bibcode : 2020Sci...367.1026R.
+doi : 10.1126/science.aaw4741.
+PMC 7219083.
+PMID 32001523.
+^ Oktem, Figen S.; Kar, Oğuzhan Fatih; Bezek, Can Deniz; Kamalabadi, Farzad (2021).
+"High-Resolution Multi-Spectral Imaging With Diffractive Lenses and Learned Reconstruction".
+IEEE Transactions on Computational Imaging.
+7 : 489–504.
+arXiv : 2008.11625.
+doi : 10.1109/TCI.2021.3075349.
+ISSN 2333-9403.
+S2CID 235340737.
+^ Bernhardt, Melanie; Vishnevskiy, Valery; Rau, Richard; Goksel, Orcun (December 2020).
+"Training Variational Networks With Multidomain Simulations: Speed-of-Sound Image Reconstruction".
+IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control.
+67 (12): 2584–2594.
+arXiv : 2006.14395.
+doi : 10.1109/TUFFC.2020.3010186.
+ISSN 1525-8955.
+PMID 32746211.
+S2CID 220055785.
+^ Galkin, F.; Mamoshina, P.; Kochetov, K.; Sidorenko, D.; Zhavoronkov, A. (2020).
+"DeepMAge: A Methylation Aging Clock Developed with Deep Learning".
+Aging and Disease.
+doi : 10.14336/AD.
+^ Utgoff, P. E.; Stracuzzi, D. J. (2002). "Many-layered learning".
+Neural Computation.
+14 (10): 2497–2529.
+doi : 10.1162/08997660260293319.
+PMID 12396572.
+S2CID 1119517.
+^ Elman, Jeffrey L. (1998).
+Rethinking Innateness: A Connectionist Perspective on Development.
+ MIT Press.
+ISBN 978-0-262-55030-7.
+^ Shrager, J.; Johnson, MH (1996). "Dynamic plasticity influences the emergence of function in a simple cortical array".
+Neural Networks.
+9 (7): 1119–1129.
+doi : 10.1016/0893-6080(96)00033-0.
+PMID 12662587.
+^ Quartz, SR; Sejnowski, TJ (1997). "The neural basis of cognitive development: A constructivist manifesto".
+Behavioral and Brain Sciences.
+20 (4): 537–556.
+CiteSeerX 10.1.1.41.7854.
+doi : 10.1017/s0140525x97001581.
+PMID 10097006.
+S2CID 5818342.
+^ S. Blakeslee, "In brain's early growth, timetable may be critical", The New York Times, Science Section , pp. B5–B6, 1995.
+^ Mazzoni, P.; Andersen, R. A.; Jordan, M. I. (15 May 1991).
+"A more biologically plausible learning rule for neural networks".
+Proceedings of the National Academy of Sciences.
+88 (10): 4433–4437.
+Bibcode : 1991PNAS...88.4433M.
+doi : 10.1073/pnas.88.10.4433.
+ISSN 0027-8424.
+PMC 51674.
+PMID 1903542.
+^ O'Reilly, Randall C. (1 July 1996). "Biologically Plausible Error-Driven Learning Using Local Activation Differences: The Generalized Recirculation Algorithm".
+Neural Computation.
+8 (5): 895–938.
+doi : 10.1162/neco.1996.8.5.895.
+ISSN 0899-7667.
+S2CID 2376781.
+^ Testolin, Alberto; Zorzi, Marco (2016).
+"Probabilistic Models and Generative Neural Networks: Towards an Unified Framework for Modeling Normal and Impaired Neurocognitive Functions".
+Frontiers in Computational Neuroscience.
+10 : 73.
+doi : 10.3389/fncom.2016.00073.
+ISSN 1662-5188.
+PMC 4943066.
+PMID 27468262.
+S2CID 9868901.
+^ Testolin, Alberto; Stoianov, Ivilin; Zorzi, Marco (September 2017). "Letter perception emerges from unsupervised deep learning and recycling of natural image features".
+Nature Human Behaviour.
+1 (9): 657–664.
+doi : 10.1038/s41562-017-0186-2.
+ISSN 2397-3374.
+PMID 31024135.
+S2CID 24504018.
+^ Buesing, Lars; Bill, Johannes; Nessler, Bernhard; Maass, Wolfgang (3 November 2011).
+"Neural Dynamics as Sampling: A Model for Stochastic Computation in Recurrent Networks of Spiking Neurons".
+PLOS Computational Biology.
+7 (11): e1002211.
+Bibcode : 2011PLSCB...7E2211B.
+doi : 10.1371/journal.pcbi.1002211.
+ISSN 1553-7358.
+PMC 3207943.
+PMID 22096452.
+S2CID 7504633.
+^ Cash, S.; Yuste, R. (February 1999). "Linear summation of excitatory inputs by CA1 pyramidal neurons".
+Neuron.
+22 (2): 383–394.
+doi : 10.1016/s0896-6273(00)81098-3.
+ISSN 0896-6273.
+PMID 10069343.
+S2CID 14663106.
+^ Olshausen, B; Field, D (1 August 2004). "Sparse coding of sensory inputs".
+Current Opinion in Neurobiology.
+14 (4): 481–487.
+doi : 10.1016/j.conb.2004.07.007.
+ISSN 0959-4388.
+PMID 15321069.
+S2CID 16560320.
+^ Yamins, Daniel L K; DiCarlo, James J (March 2016). "Using goal-driven deep learning models to understand sensory cortex".
+Nature Neuroscience.
+19 (3): 356–365.
+doi : 10.1038/nn.4244.
+ISSN 1546-1726.
+PMID 26906502.
+S2CID 16970545.
+^ Zorzi, Marco; Testolin, Alberto (19 February 2018).
+"An emergentist perspective on the origin of number sense".
+Phil. Trans. R. Soc. B.
+373 (1740): 20170043.
+doi : 10.1098/rstb.2017.0043.
+ISSN 0962-8436.
+PMC 5784047.
+PMID 29292348.
+S2CID 39281431.
+^ Güçlü, Umut; van Gerven, Marcel A. J. (8 July 2015).
+"Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream".
+Journal of Neuroscience.
+35 (27): 10005–10014.
+arXiv : 1411.6422.
+doi : 10.1523/jneurosci.5023-14.2015.
+PMC 6605414.
+PMID 26157000.
+^ Metz, C. (12 December 2013).
+"Facebook's 'Deep Learning' Guru Reveals the Future of AI".
+Wired.
+Archived from the original on 28 March 2014.
+ Retrieved 26 August 2017.
+^ Gibney, Elizabeth (2016).
+"Google AI algorithm masters ancient game of Go".
+Nature.
+529 (7587): 445–446.
+Bibcode : 2016Natur.529..445G.
+doi : 10.1038/529445a.
+PMID 26819021.
+S2CID 4460235.
+Archived from the original on 2 May 2019.
+ Retrieved 30 January 2016.
+^ Silver, David ; Huang, Aja ; Maddison, Chris J.; Guez, Arthur; Sifre, Laurent; Driessche, George van den; Schrittwieser, Julian; Antonoglou, Ioannis; Panneershelvam, Veda; Lanctot, Marc; Dieleman, Sander; Grewe, Dominik; Nham, John; Kalchbrenner, Nal; Sutskever, Ilya ; Lillicrap, Timothy; Leach, Madeleine; Kavukcuoglu, Koray; Graepel, Thore; Hassabis, Demis (28 January 2016). "Mastering the game of Go with deep neural networks and tree search".
+Nature.
+529 (7587): 484–489.
+Bibcode : 2016Natur.529..484S.
+doi : 10.1038/nature16961.
+ISSN 0028-0836.
+PMID 26819042.
+S2CID 515925.
+^ "A Google DeepMind Algorithm Uses Deep Learning and More to Master the Game of Go | MIT Technology Review".
+MIT Technology Review.
+ Archived from the original on 1 February 2016.
+ Retrieved 30 January 2016.
+^ Metz, Cade (6 November 2017).
+"A.I. Researchers Leave Elon Musk Lab to Begin Robotics Start-Up".
+The New York Times.
+Archived from the original on 7 July 2019.
+ Retrieved 5 July 2019.
+^ Bradley Knox, W.; Stone, Peter (2008). "TAMER: Training an Agent Manually via Evaluative Reinforcement".
+2008 7th IEEE International Conference on Development and Learning.
+ pp. 292–297.
+doi : 10.1109/devlrn.2008.4640845.
+ISBN 978-1-4244-2661-4.
+S2CID 5613334.
+^ "Talk to the Algorithms: AI Becomes a Faster Learner".
+governmentciomedia.com.
+ 16 May 2018.
+Archived from the original on 28 August 2018.
+ Retrieved 29 August 2018.
+^ Marcus, Gary (14 January 2018).
+"In defense of skepticism about deep learning".
+Gary Marcus.
+Archived from the original on 12 October 2018.
+ Retrieved 11 October 2018.
+^ Knight, Will (14 March 2017).
+"DARPA is funding projects that will try to open up AI's black boxes".
+MIT Technology Review.
+Archived from the original on 4 November 2019.
+ Retrieved 2 November 2017.
+^ Marcus, Gary (November 25, 2012).
+"Is "Deep Learning" a Revolution in Artificial Intelligence?".
+The New Yorker.
+Archived from the original on 2009-11-27.
+ Retrieved 2017-06-14.
+^ Alexander Mordvintsev; Christopher Olah; Mike Tyka (17 June 2015).
+"Inceptionism: Going Deeper into Neural Networks".
+ Google Research Blog.
+Archived from the original on 3 July 2015.
+ Retrieved 20 June 2015.
+^ Alex Hern (18 June 2015).
+"Yes, androids do dream of electric sheep".
+The Guardian.
+Archived from the original on 19 June 2015.
+ Retrieved 20 June 2015.
+^ a b c Goertzel, Ben (2015).
+"Are there Deep Reasons Underlying the Pathologies of Today's Deep Learning Algorithms?" (PDF).
+Archived (PDF) from the original on 2015-05-13.
+ Retrieved 2015-05-10.
+^ Nguyen, Anh; Yosinski, Jason; Clune, Jeff (2014). "Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images".
+arXiv : 1412.1897 [ cs.CV ].
+^ Szegedy, Christian; Zaremba, Wojciech; Sutskever, Ilya; Bruna, Joan; Erhan, Dumitru; Goodfellow, Ian; Fergus, Rob (2013). "Intriguing properties of neural networks".
+arXiv : 1312.6199 [ cs.CV ].
+^ Zhu, S.C.; Mumford, D. (2006). "A stochastic grammar of images".
+Found. Trends Comput. Graph. Vis.
+2 (4): 259–362.
+CiteSeerX 10.1.1.681.2190.
+doi : 10.1561/0600000018.
+^ Miller, G. A., and N. Chomsky. "Pattern conception". Paper for Conference on pattern detection, University of Michigan. 1957.
+^ Eisner, Jason.
+"Deep Learning of Recursive Structure: Grammar Induction".
+ Archived from the original on 2017-12-30.
+ Retrieved 2015-05-10.
+^ "Hackers Have Already Started to Weaponize Artificial Intelligence".
+Gizmodo.
+ 11 September 2017.
+Archived from the original on 11 October 2019.
+ Retrieved 11 October 2019.
+^ "How hackers can force AI to make dumb mistakes".
+The Daily Dot.
+ 18 June 2018.
+Archived from the original on 11 October 2019.
+ Retrieved 11 October 2019.
+^ a b c d e "AI Is Easy to Fool—Why That Needs to Change".
+Singularity Hub.
+ 10 October 2017.
+Archived from the original on 11 October 2017.
+ Retrieved 11 October 2017.
+^ Gibney, Elizabeth (2017).
+"The scientist who spots fake videos".
+Nature.
+doi : 10.1038/nature.2017.22784.
+Archived from the original on 2017-10-10.
+ Retrieved 2017-10-11.
+^ Tubaro, Paola (2020).
+"Whose intelligence is artificial intelligence?".
+Global Dialogue : 38.
+^ a b c d Mühlhoff, Rainer (6 November 2019).
+"Human-aided artificial intelligence: Or, how to run large computations in human brains? Toward a media sociology of machine learning".
+New Media & Society.
+22 (10): 1868–1884.
+doi : 10.1177/1461444819885334.
+ISSN 1461-4448.
+S2CID 209363848.
+^ "Facebook Can Now Find Your Face, Even When It's Not Tagged".
+Wired.
+ISSN 1059-1028.
+Archived from the original on 10 August 2019.
+ Retrieved 22 November 2019.
+Further reading [ edit ] Goodfellow, Ian ; Bengio, Yoshua ; Courville, Aaron (2016).
+Deep Learning.
+ MIT Press.
+ISBN 978-0-26203561-3.
+Archived from the original on 2016-04-16.
+ Retrieved 2021-05-09 , introductory textbook.
+{{ cite book }} : CS1 maint: postscript ( link ) v t e Differentiable computing General Differentiable programming Information geometry Statistical manifold Automatic differentiation Neuromorphic engineering Pattern recognition Tensor calculus Computational learning theory Inductive bias Concepts Gradient descent SGD Clustering Regression Overfitting Hallucination Adversary Attention Convolution Loss functions Backpropagation Batchnorm Activation Softmax Sigmoid Rectifier Regularization Datasets Augmentation Diffusion Autoregression Applications Machine learning In-context learning Artificial neural network Deep learning Scientific computing Artificial Intelligence Language model Large language model Hardware IPU TPU VPU Memristor SpiNNaker Software libraries TensorFlow PyTorch Keras Theano JAX Flux.jl Implementations Audio–visual AlexNet WaveNet Human image synthesis HWR OCR Speech synthesis Speech recognition Facial recognition AlphaFold DALL-E Midjourney Stable Diffusion Whisper Verbal Word2vec Seq2seq BERT LaMDA Bard NMT Project Debater IBM Watson GPT-1 GPT-2 GPT-3 GPT-4 ChatGPT GPT-J Chinchilla AI PaLM BLOOM LLaMA Decisional AlphaGo AlphaZero Q-learning SARSA OpenAI Five Self-driving car MuZero Action selection Auto-GPT Robot control People Yoshua Bengio Alex Graves Ian Goodfellow Stephen Grossberg Demis Hassabis Geoffrey Hinton Yann LeCun Fei-Fei Li Andrew Ng Jürgen Schmidhuber David Silver Ilya Sutskever Organizations Anthropic EleutherAI Google DeepMind Hugging Face OpenAI Meta AI Mila MIT CSAIL Architectures Neural Turing machine Differentiable neural computer Transformer Recurrent neural network (RNN) Long short-term memory (LSTM) Gated recurrent unit (GRU) Echo state network Multilayer perceptron (MLP) Convolutional neural network Residual neural network Autoencoder Variational autoencoder (VAE) Generative adversarial network (GAN) Graph neural network Portals Computer programming Technology Categories Artificial neural networks Machine learning Deep learning Artificial neural networks Emerging technologies Webarchive template wayback links CS1: long volume value CS1 Finnish-language sources (fi) CS1 German-language sources (de) CS1 errors: missing periodical CS1 maint: multiple names: authors list Articles with short description Short description matches Wikidata Pages using multiple image with auto scaled images All articles with unsourced statements Articles with unsourced statements from November 2020 Articles with unsourced statements from March 2022 Articles with unsourced statements from July 2016 Articles needing additional references from April 2021 All articles needing additional references CS1 maint: postscript Articles prone to spam from June 2015 This page was last edited on 28 October 2023, at 15:10 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+ Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Code of Conduct Developers Statistics Cookie statement Mobile view Toggle limited content width

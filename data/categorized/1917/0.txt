@@ -1,168 +1,659 @@
-old id = 3105
+old id = 1997
 Electric aircraft - Wikipedia
 1917
 https://en.wikipedia.org/wiki/Electric_aircraft
 
-Electric aircraftAnelectric aircraftis an aircraft powered byelectricity, almost always via one or more electric motors which drive propellers. Electricity may be supplied by a variety of methods, the most common beingbatteries.
-Electrically powered model aircrafthave been flown at least since the 1970s and were the forerunners of the smallunmanned aerial vehicles(UAV) or drones, which in the twenty-first century have become widely used for many purposes.
-Although crewed flights in an electrically powered tethered helicopter go back to 1917 and inairshipsto the previous century, the first crewed free flight by an electrically powered aeroplane, theMB-E1, was not made until 1973 and most crewed electric aircraft today are still only experimental prototypes. Between 2015 and 2016,Solar Impulse 2completed a circumnavigation of the Earth using solar power. More recently, interest in electric passenger aircraft has grown, for bothcommercial airlinersandpersonal air vehicles,[1]in part to limit theenvironmental impact of aviation.
-ContentsEnvironmental effects of aviation[edit]Theenvironmental effects of aviationonclimate changehave become a major driving force for the development of electric aircraft, with a zero-emissions electric powertrain being the goal for some development teams. Aviation accounts for 2.4% of all fossil fuel derived CO2emissions, and its emissions increased by 32% between 2013 and 2018.
-[2]While estimating aviation's non-CO2effects on climate change is complex,NOxandcontrailscould increase this responsibility to 3.5%.
-[3]Another benefit is the potential for noise reduction, in an industry with a severenoise pollutionandabatementproblem.
-[4]Power supply[edit]Mechanisms for supplying the necessary electricity without storing all of it onboard include:Solar cells[edit]Asolar cellconverts sunlight directly into electricity, either for direct power or temporary storage. The power output of solar cells is low and requires that many be connected together, which limits their use. Typical solar panels running at 15-20% conversion efficiency (sunlight energy to electrical power) produce about 150–200 W/m2(0.019–0.025 hp/sq ft) in direct sunlight.
-[5]Usable areas are further limited as output from a poorly performing panel impacts the output of all the panels on its circuit, meaning they all require similar conditions, including being at a similar angle to the sun, and not being masked by shadow.
-[6]Between 2010 and 2020, solar power modules have declined in cost by 90% and continue to drop by 13-15% per year.
-[7]Solar cell efficiencyhas also risen substantially, from 2% in 1955 to 20% in 1985, and some experimental systems now exceed 44%. However, most of the technologies at these high efficiencies have only been possible under laboratory settings and not at full scale production level.
-[8]The free availability of sunlight makes solar power attractive for high-altitude, long-endurance applications, where the cold and reduced atmospheric interference make them significantly more efficient than on the ground.
-[9][10]The drop in the dry-air temperature as altitude increases, called theenvironmental lapse rate (ELR), averages 6.49 °C/km[11](memorized in pilot training as 1.98 °C/1,000 ft or 3.56 °F/1,000 feet) so that temperature for a typical airliner's cruising altitude of around 35,000 ft (11,000 m) will be substantially lower than at ground level.
+Main menu Main page Contents Current events Random article About Wikipedia Contact us Donate Help Learn to edit Community portal Recent changes Upload file Search Create account Log in Personal tools Create account Log in learn more Contributions Talk Contents (Top) 1 Environmental effects of aviation 2 Offboard power supply Toggle Offboard power supply subsection 2.1 Solar cells 2.2 Microwaves 2.3 External power cables 3 Power storage Toggle Power storage subsection 3.1 Batteries 3.2 Ultracapacitors 3.3 Fuel cells 4 Propulsion Toggle Propulsion subsection 4.1 Electric motors 4.2 Hybrid power 4.3 Magnetohydrodynamics 5 History Toggle History subsection 5.1 Airships 5.2 Unmanned aircraft 5.3 Vertical flight 5.4 Experimental demonstrators 5.5 Solar aircraft 5.6 General aviation 5.7 Airliner projects 6 Shipments 7 List of battery-electric aircraft 8 See also 9 References 10 External links Toggle the table of contents Electric aircraft 26 languages العربية Català Deutsch Eesti Ελληνικά Español فارسی Français 한국어 Hrvatski Bahasa Indonesia עברית मराठी Монгол Nederlands 日本語 Norsk bokmål Português Română Русский Slovenščina Suomi Türkçe Українська Walon 中文 Edit links Article Talk English Read Edit View history Tools Read Edit View history What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Wikidata item Download as PDF Printable version Wikimedia Commons Part of a series on Aircraft propulsion Shaft engines : driving propellers , rotors , ducted fans or propfans Internal thermal engines : Piston engine Diesel engine Wankel engine Turbines : Turboprop Turboshaft External thermal engines : Steam power Electric motors : Electric aircraft Clockwork drives: Human-powered Reaction engines Turbines : Turbojet Turbofan Propfan Rocket-powered Air turborocket Air-augmented rocket Motorjet Pulsejet Valveless pulsejet Gluhareff Pressure Jet Aerospike engine Pulse detonation engine Rotating detonation engine Ramjet Scramjet Shcramjet.
+mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em} v t e An electric aircraft is an aircraft powered by electricity.
+ Electric aircraft are seen as a way to reduce the environmental effects of aviation , providing zero emissions and quieter flights. Electricity may be supplied by a variety of methods, the most common being batteries.
+ Most have electric motors driving propellers or turbines.
+Crewed flights in an electrically powered airship go back to the 19th century, and to 1917 for a tethered helicopter.
+Electrically powered model aircraft have been flown at least since 1957, preceding the small unmanned aerial vehicles (UAV) or drones used today. Small UAS could be used for parcel deliveries, and larger ones for long-endurance applications: aerial imagery, surveillance, telecommunications. The first crewed free flight by an electrically powered aeroplane , the MB-E1 , was made in 1973, and most crewed electric aircraft today are still only experimental prototypes. Between 2015 and 2016, Solar Impulse 2 completed a circumnavigation of the Earth using solar power. Electric VTOL aircraft or personal air vehicles are being considered for Urban Air Mobility.
+ Electric commercial airliners could lower operating costs.
+[1] : 1–7 Environmental effects of aviation [ edit ] The environmental effects of aviation on climate change have become a major driving force for the development of electric aircraft, with a zero-emissions electric powertrain being the goal for some development teams. Aviation accounts for 2.4% of all fossil fuel derived CO 2 emissions, and its emissions of air transportation altogether increased by 32% between 2013 and 2018.
+[2] While estimating aviation's non-CO 2 effects on climate change is complex, NOx and contrails could increase this responsibility to 3.5%.
+[3] Other benefits are the potential for noise reduction, in an industry with a severe noise pollution and abatement problem.
+[4] Offboard power supply [ edit ] Mechanisms for supplying the necessary electricity without storing all of it onboard include: Solar cells convert sunlight directly into electricity using photovoltaic materials.
+Microwave energy that is beamed from a remote transmitter.
+Power cables connected to a ground-based electrical supply.
+Solar cells [ edit ] A solar cell converts sunlight directly into electricity, either for direct power or temporary storage. The power output of solar cells is low and requires that many be connected together, which limits their use. Typical solar panels running at 15–20% conversion efficiency (sunlight energy to electrical power) produce about 150–200 W/m 2 (0.019–0.025 hp/sq ft) in direct sunlight.
+[5] Usable areas are further limited as output from a poorly performing panel impacts the output of all the panels on its circuit, meaning they all require similar conditions, including being at a similar angle to the sun, and not being masked by shadow.
+[6] Between 2010 and 2020, solar power modules have declined in cost by 90% and continue to drop by 13–15% per year.
+[7] Solar cell efficiency has also risen substantially, from 2% in 1955 to 20% in 1985, and some experimental systems now exceed 44%. However, most of the technologies at these high efficiencies have only been possible under laboratory settings and not at full-scale production level.
+[8] The free availability of sunlight makes solar power attractive for high-altitude, long-endurance applications, where the cold and reduced atmospheric interference make them significantly more efficient than on the ground.
+[9] [10] The drop in the dry-air temperature as altitude increases, called the environmental lapse rate (ELR) , averages 6.49 °C/km [11] (memorized in pilot training as 1.98 °C/1,000 ft or 3.56 °F/1,000 feet) so that temperature for a typical airliner's cruising altitude of around 35,000 ft (11,000 m) will be substantially lower than at ground level.
 Night flying, such for endurance flights and with aircraft providing 24 hour coverage over an area typically require a backup storage system, which is charged during the day from surplus power, and supplies power during the hours of darkness.
-Microwaves[edit]Power beamingof electromagnetic energy such asmicrowavesrelies on a ground-based power source. However, compared to using a power cable, power beaming allows the aircraft to move laterally and carries a much lower weight penalty, particularly as altitude increases. The technology has only been demonstrated on small models and awaits practical development at larger scales.
-[12]External power cables[edit]For powered vehicles replacing tetheredaerostats, an electricalpower cablecan be connected to a ground-based supply, such as an electric generator or the localpower grid. At low altitudes this avoids having to lift batteries, and was used by the experimentalPetróczy-Kármán-Žurovec PKZ-1observation vehicle of 1917. However the higher it flies, the heavier the length of cable it lifts becomes.
-Power storage[edit]Mechanisms for storing the necessary electricity include:Batteries[edit]Batteriesare the most common onboardenergy storagecomponent of electric aircraft, due to their relatively high storage capacity. Batteries first powered airships in the nineteenth century but the lead-acid batteries were very heavy and it was not until the arrival of other chemistries, such as nickel-cadmium (NiCd) later in the twentieth century, that batteries became practical forheavier-than-air aircraft. Modern batteries are mostly rechargeable types based on lithium technologies.
+Microwaves [ edit ] Power beaming of electromagnetic energy such as microwaves relies on a ground-based power source. However, compared to using a power cable, power beaming allows the aircraft to move laterally and carries a much lower weight penalty, particularly as altitude increases. The technology has only been demonstrated on small models and awaits practical development at larger scales.
+[12] External power cables [ edit ] For powered vehicles replacing tethered aerostats , an electrical power cable can be connected to a ground-based supply, such as an electric generator or the local power grid.
+ At low altitudes this avoids having to lift batteries, and was used by the experimental Petróczy-Kármán-Žurovec PKZ-1 observation vehicle of 1917. However the higher it flies, the heavier the length of cable it lifts becomes.
+Power storage [ edit ] Mechanisms for storing the necessary electricity include: Batteries which use a chemical reaction to generate electricity which is reversed when recharged.
+Fuel cells consume fuel and an oxidizer in a chemical reaction to generate electricity, they need to be refueled, typically with hydrogen.
+Batteries [ edit ] Batteries are the most common onboard energy storage component of electric aircraft, due to their relatively high storage capacity. Batteries first powered airships in the nineteenth century but the lead–acid batteries were very heavy and it was not until the arrival of other chemistries, such as nickel–cadmium (NiCd) later in the twentieth century, that batteries became practical for heavier-than-air aircraft.
+ Modern batteries are mostly rechargeable types based on lithium technologies.
 Lithium polymer (LiPo), a type of lithium-ion batteries (LIB), have long been applied in unmanned flight for their light weight and rechargeability. However, their energy density limits their application mostly to being drone batteries.
-[13]Increasing maximum time of flight by simply designing larger aircraft using larger batteries is inefficient, because of the payload-range compromise. After a certain increase in battery weight, there are diminishing returns through the mass penalty not outweighing the increase in battery specific energy.
-[14][15]There is a similar trade-off between the maximum range and number of passengers. Computational tools have been used to model this trend, predicting that a small-scale electric aircraft of average weight (1500 kg) and average energy density (150 Wh/kg) could travel a range of ~80 mi with one passenger, ~60 mi with two, and less than ~30 mi with three.
-[15]In 2017 the power available from batteries was estimated at around 170 Wh/kg, 145 Wh/kg at the shaft including the system efficiency, while agas turbineextracted 6,545 Wh/kg of shaft power from a 11,900 Wh/kg fuel.
-[16]In 2018Lithium-ion batteriesincluding packaging and accessories were estimated to give 160 Wh/kg while aviation fuel gave 12,500 Wh/kg.
-[17]In 2018 thespecific energyofelectricity storagewas still only 2% ofaviation fuel.
-[18]This 1:50 ratio makes electric propulsion impractical for long-range aircraft, as a 500 nmi (930 km) mission for an all-electric, 12-passenger aircraft would require a six-fold increase in battery power density.
-[19]That said, battery-electric motors have a higher efficiency (~90%) than most jet engines (~50%), which can be further exploited through emerging battery chemistries.
-[20]To be feasible for electric aircraft application, it is essential that power storage improved. Energy density is widely recognized to be the bottleneck for zero-emission electric powertrain.
-[21][22]Another limitation is the discharge rate due to demand-pack energy ratio and sensitive mission segments, as the discharge C-rate for take-off is 4C while it is almost 5C for landing.
-[23][15][clarification needed]Electric aircraft have additional heat generation and end-of-life needs, requiring novel thermal management strategies, power-fade capabilities and battery pack failure modes.
-As of 2019, the best Li-ion batteries achieved 250-300 Wh/kg, sufficient for a small aircraft, while a regional airliner would have needed a 500 Wh/kg battery pack and anAirbus A320-sized single-aisle would need 2 kWh/kg.
-[19]Electric power is only suitable for small aircraft while for large passenger aircraft, an improvement of the energy density by a factor 20 compared to li-ion batteries would be required.
-[24][better source needed]Such batteries can reduce the overall operating costs for some short-range flights. For example, the electricity used in the Harbour Air Beavers costs them around $0.1 Canadian per kWh compared to $2.00 per liter for gas,[4]providing 33 MJ (9.2 kWh) of energy with a 44 MJ/kg fuel and a 0.75 densityAvgas, $0.22 per chemical kWh or $0.65 per shaft kWh with an efficiency of one third.
-Jet fuelis cheaper and large gas turbine are more efficient, though. In 2021, beyond-lithium-ion technologies such asSolid-state battery(lithium-sulfur, LSB) andlithium-air batteries(LAB) have become increasingly promising areas of research for more competitive battery-electric aircraft performance that can be visualized throughspider plots.
-[25][26]TheSAE InternationalAE-7D[27]committee was formed byElectro.Aeroin 2018 to standardise electric aircraft charging and energy storage. One of the first documents developed was the AS6968 standard for sub-megawatt electric aircraft charging of electric aircraft. The AE-7D committee is also developing Aerospace Information Report AIR7357 for megawatt power level charging. Some airports havecharging stationsforelectric carswhich can also charge aircraft.
-[28]Ultracapacitors[edit]Anultracapacitoris an hybrid electrochemical energy storage system bridging batteries and capacitors, and has some advantages over batteries in being able to charge and discharge much faster with higher peak currents, while not being as limited in the number of charge-discharge cycles, as the reaction is not just chemical but also electrical.
-[29][better source needed]Their energy density, typically around 5 Wh/kg, is however well below that of batteries, and they are considerably more expensive, even when their longer lifespan is factored in.
-[30][better source needed]Fuel cells[edit]Afuel cell(FC) uses the reaction between two chemicals such ashydrogenandoxygento create electricity, much like aliquid-propellant rocketmotor, but generating electricity in a controlled chemical reaction, instead of thrust. While the aircraft must carry the hydrogen (or a similar fuel), with its own complications and risks, the oxygen can be obtained from the atmosphere.
-FCs can be an alternative power source for theauxiliary power unit(APU) or can take a similar role of batteries, storing energy in sync with an electric motor. Their specific energy allows for longer flight endurance and range, as well as small engine size, low carbon emissions, and efficient energy conversion.
-[31]The solid oxide fuel cell (SOFC), or high temperature FC that uses a dense ceramic layer, is the primary FC under consideration for longer-range aircraft, because its high operation temperature allows it to have higher efficiency and more tolerance of fuel impurities.
-[32]The drawback of high temperature is that SOFCs require extensive Balance of Plant (BoP) systems, which add significant weight. Thus, for short-range aircraft, the low-temperature proton-exchange membrane fuel cell (PEMFC) is more practical, as it is smaller and lighter.
-Similar to direct hydrogen-use, FCs are limited by safety and specificity in application to small light aircraft with short range flight.
-[32]To accelerate the marriage between the technology and the aviation applications, improvements should be made in FC designs, understanding FC performance under extreme conditions such as low pressure, low gravity, and low temperature, increasing the power and energy density (3000 Wh/kg potential), as well as reducing the cost and extending the lifetime of the FCs.
-[33]ADiamond HK36 Super Dimonamotor-glider modified byBoeingas a fuel cell demonstrator airplane made piloted test flights in 2008 with a proton exchange membrane (PEM) fuel cell/lithium-ion batteryhybrid system,[34]and they have been used in several NASA vehicles includingsatellitesandspace capsules, although these must also carry an oxidizer.
-Further research and development work is required before they are competitive in aircraft, as they are more than ten times as expensive as batteries.
-[35][better source needed]It may be necessary to create battery-fuel cell hybrids during the transition, as different types of power storage are most promising for different roles.
-[20]Propulsion[edit]Electric motors[edit]Almost all electric aircraft to date have been powered byelectric motorsdriving thrust-generatingpropellersor lift-generatingrotors.
-[36]While the batteries weigh more than the equivalent in fuel, electric motors weigh less than their piston-engine counterparts and in smaller aircraft used for shorter flights, can partly offset the disparity between electric and gasoline energy densities.
-[4][37]Electric motors also do not lose power with altitude, unlike internal-combustion engines,[28]avoiding the need for complex and costly measures used to prevent this, such as the use ofturbochargers.
-The experimentalExtra 330LE have a 260 kW (350 hp)Siemens SP260Dmotor weighting 50 kg, with a 37.2 kWh battery pack, for an aircraft weight of 1,000 kg.
-[38]It replaces a 235 kW (315 hp)Lycoming AEIO-580piston engine weighing 202 kg.
-[39]The piston-engine Extra 330 empty weight is 677 kg,[40]474 kg without the engine. The Lycoming engine has a fuel consumption of 141 lb (64 kg) per hour when outputting 315 hp (235 kW),[41]or 0.27 kg/kWh: it needs 10 kg of fuel to output the same 37.2 kWh.
-Besides the motor itself, an aircraft weight is hampered by the necessary energy reserves: a 19-seat aircraft needs the mandatory IFR reserves of 5% route contingency, the flight to a 100 nm alternate plus 30 minutes of holding before landing - 308 kg of fuel for a turboprop, or 4,300 kg of 250 Wh/kg batteries, similar to a current 19-seater empty weight.
-[42]An electric propulsion system also includes apower inverter, while fuel engines have afuel systemthemselves.
-The 750 shp (560 kW) experimentalmagniXmagni500 electric motor weighs 297 lb (135 kg),[43]while the 729 hp (544 kW) certifiedPratt & Whitney Canada PT6A-114 weighs 297 lb (135 kg),[44]both powering theCessna 208 Caravan.
+[13] Increasing maximum time of flight by simply designing larger aircraft using larger batteries is inefficient, because of the payload-range compromise. After a certain increase in battery weight, there are diminishing returns through the mass penalty not outweighing the increase in battery specific energy.
+[14] [15] There is a similar trade-off between the maximum range and number of passengers. Computational tools have been used to model this trend, predicting that a small-scale electric aircraft of average weight (1500 kg) and average energy density (150 Wh/kg) could travel a range of ~80 mi with one passenger, ~60 mi with two, and less than ~30 mi with three.
+[15] In 2017 the power available from batteries was estimated at 170 Wh/kg, 145 Wh/kg at the shaft including the system efficiency, while a gas turbine extracted 6,545 Wh/kg of shaft power from an 11,900 Wh/kg fuel.
+[16] In 2018 Lithium-ion batteries including packaging and accessories were estimated to give 160 Wh/kg while aviation fuel gave 12,500 Wh/kg.
+[17] In 2018 the specific energy of electricity storage was still only 2% of aviation fuel.
+[18] This 1:50 ratio makes electric propulsion impractical for long-range aircraft, as a 500 nmi (930 km) mission for an all-electric, 12-passenger aircraft would require a six-fold increase in battery power density.
+[19] That said, battery-electric motors have a higher efficiency (~90%) than most jet engines (~50%), which can be further exploited through emerging battery chemistries.
+[20] To be feasible for electric aircraft application, it is essential that power storage be improved. Energy density is widely recognized to be the bottleneck for zero-emission electric powertrain.
+[21] [22] Another limitation is the discharge rate due to demand-pack energy ratio and sensitive mission segments, as the discharge C-rate for take-off is 4C while it is almost 5C for landing.
+[23] [15] [ clarification needed ] Electric aircraft have additional heat generation and end-of-life needs, requiring novel thermal management strategies, power-fade capabilities and battery pack failure modes.
+As of 2019, the best Li-ion batteries achieved 250–300 Wh/kg, sufficient for a small aircraft, while a regional airliner would have needed a 500 Wh/kg battery pack and an Airbus A320 -sized single-aisle would need 2 kWh/kg.
+[19] Electric power is only suitable for small aircraft while for large passenger aircraft, an improvement of the energy density by a factor 20 compared to li-ion batteries would be required.
+[24] [ better source needed ] Such batteries can reduce the overall operating costs for some short-range flights. For example, the electricity used in the Harbour Air Beavers costs them around $0.1 Canadian per kWh compared to $2.00 per liter for gas, [4] providing 33 MJ (9.2 kWh) of energy with a 44 MJ/kg fuel and a 0.75 density Avgas , $0.22 per chemical kWh or $0.65 per shaft kWh with an efficiency of one third.
+Jet fuel is cheaper and large gas turbine are more efficient, though. In 2021, beyond-lithium-ion technologies such as Solid-state battery ( lithium-sulfur , LSB) and lithium-air batteries (LAB) have become increasingly promising areas of research for more competitive battery-electric aircraft performance.
+[25] [26] The SAE International AE-7D [27] committee was formed by Electro.Aero in 2018 to standardise electric aircraft charging and energy storage. One of the first documents developed was the AS6968 standard for sub-megawatt electric aircraft charging of electric aircraft. The AE-7D committee is also developing Aerospace Information Report AIR7357 for megawatt power level charging. Some airports have charging stations for electric cars which can also charge aircraft.
+[28] Ultracapacitors [ edit ] An ultracapacitor is a hybrid electrochemical energy storage system bridging batteries and capacitors, and has some advantages over batteries in being able to charge and discharge much faster with higher peak currents, while not being as limited in the number of charge-discharge cycles, as the reaction is not just chemical but also electrical.
+[29] [ better source needed ] Their energy density, typically around 5 Wh/kg, is however well below that of batteries, and they are considerably more expensive, even when their longer lifespan is factored in.
+[30] [ better source needed ] Fuel cells [ edit ] A fuel cell (FC) uses the reaction between two chemicals such as hydrogen and oxygen to create electricity, much like a liquid-propellant rocket motor, but generating electricity in a controlled chemical reaction, instead of thrust. While the aircraft must carry the hydrogen (or a similar fuel), with its own complications and risks, the oxygen can be obtained from the atmosphere.
+Propulsion [ edit ] Electric motors [ edit ] Almost all electric aircraft to date have been powered by electric motors driving thrust-generating propellers or lift-generating rotors.
+[31] While the batteries weigh more than the equivalent in fuel, electric motors weigh less than their piston-engine counterparts and in smaller aircraft used for shorter flights, can partly offset the disparity between electric and gasoline energy densities.
+[4] [32] Electric motors also do not lose power with altitude, unlike internal-combustion engines, [28] avoiding the need for complex and costly measures used to prevent this, such as the use of turbochargers.
+The experimental Extra 330 LE have a 260 kW (350 hp) Siemens SP260D motor weighing 50 kg, with a 37.2 kWh battery pack, for an aircraft weight of 1,000 kg.
+[33] It replaces a 235 kW (315 hp) Lycoming AEIO-580 piston engine weighing 202 kg.
+[34] The piston-engine Extra 330 empty weight is 677 kg, [35] 474 kg without the engine. The Lycoming engine has a fuel consumption of 141 lb (64 kg) per hour when outputting 315 hp (235 kW), [36] or 0.27 kg/kWh: it needs 10 kg of fuel to output the same 37.2 kWh.
+Besides the motor itself, an aircraft weight is hampered by the necessary energy reserves: a 19-seat aircraft needs the mandatory IFR reserves of 5% route contingency, the flight to a 100 nmi alternate plus 30 minutes of holding before landing – 308 kg of fuel for a turboprop, or 4,300 kg of 250 Wh/kg batteries, similar to a current 19-seater empty weight.
+[37] An electric propulsion system also includes a power inverter , while fuel engines have a fuel system themselves.
+The 750 shp (560 kW) experimental magniX magni500 electric motor weighs 297 lb (135 kg), [38] while the 729 hp (544 kW) certified Pratt & Whitney Canada PT6 A-114 weighs 297 lb (135 kg), [39] both powering the Cessna 208 Caravan.
 The increase in power, combined with Supplemental Type Certificate (STC) modifications can offset the weight of the batteries by increasing the airplane's gross operating weight, including the landing weight.
-[28]Aircraft that use fossil fuels are lighter when they land, which allows the structure to be lighter. With a battery powered aircraft, the weight remains the same, and so may require reinforcement.
-[28]Hybrid power[edit]Ahybrid electric aircraftis anaircraftwith ahybrid electricpowertrain. It typically takes off and lands under clean and quiet electric power, and cruises under conventional piston or jet engine power. This makes long flights practical, while reducing their carbon footprint.
-[17]By May 2018, there were over 30 projects, andshort-haulhybrid-electric airliners were envisioned from 2032.
-[45]The most advanced are theZunum Aero10-seater,[46]theAirbus E-Fan Xdemonstrator,[47]theVoltAero Cassio,[48]UTCis modifying aBombardier Dash 8,[49]while theAmpaire Electric EELprototype first flew on 6 June 2019.
-[50]Magnetohydrodynamics[edit]In November 2018,MITengineers achieved the first free flight with a model aircraft having no moving parts, theEAD Airframe Version 2. It is propelled by creating anion windusingmagnetohydrodynamics(MHD).
-[51][52]MHD has been used to achieve vertical lift in the past, but only by cabling up the MHD ion generator system to an external power supply.
-History[edit]By May 2018 almost 100 electric aircraft were known to be under development.
-[53]This was up from 70 the previous year and included 60% from startups, 32% from aerospace incumbents, half of them major OEMs and 8% from academic, government organizations and non-aerospace companies, mainly from Europe (45%) and the U.S. (40%).
-[45]Mostlyurban air taxis(50%) andgeneral aviationaircraft (47%), a majority are battery-powered (73%), while some are hybrid-electric (31%), most of these being larger airliners.
-[45]By May 2019, the number of known electric aircraft development programmes was closer to 170, with a majority of them aimed at theurban air taxirole.
-[54]Airships[edit]The use of electricity for aircraft propulsion was first experimented with during the development of theairshipin the latter part of the nineteenth century. On 8 October 1883,Gaston Tissandierflew the first electrically powered airship.
-[55]: 292[56]The following year,Charles RenardandArthur KrebsflewLa Francewith a more powerful motor.
-[55]: 306Even with the lifting capacity of an airship, the heavy accumulators needed to store the electricity severely limited the speed and range of such early airships.
+[28] Aircraft that use fossil fuels are lighter when they land, which allows the structure to be lighter. With a battery powered aircraft, the weight remains the same, and so may require reinforcement.
+[28] Hybrid power [ edit ] A hybrid electric aircraft is an aircraft with a hybrid electric powertrain. It typically takes off and lands under clean and quiet electric power, and cruises under conventional piston or jet engine power. This makes long flights practical, while reducing their carbon footprint.
+[17] By May 2018, there were over 30 projects, and short-haul hybrid-electric airliners were envisioned from 2032.
+[40] The most advanced are the Zunum Aero 10-seater, [41] the Airbus E-Fan X demonstrator, [42] the VoltAero Cassio , [43] UTC is modifying a Bombardier Dash 8 , [44] while the Ampaire Electric EEL prototype first flew on 6 June 2019.
+[45] Magnetohydrodynamics [ edit ] In November 2018, MIT engineers achieved the first free flight with a model aircraft having no moving parts, the EAD Airframe Version 2.
+ It is propelled by creating an ion wind using magnetohydrodynamics (MHD).
+[46] [47] MHD has been used to achieve vertical lift in the past, but only by cabling up the MHD ion generator system to an external power supply.
+History [ edit ] By May 2018 almost 100 electric aircraft were known to be under development.
+[48] This was up from 70 the previous year and included 60% from startups, 32% from aerospace incumbents, half of them major OEMs and 8% from academic, government organizations and non-aerospace companies, mainly from Europe (45%) and the U.S. (40%).
+[40] Mostly urban air taxis (50%) and general aviation aircraft (47%), a majority are battery-powered (73%), while some are hybrid-electric (31%), most of these being larger airliners.
+[40] By May 2019, the number of known electric aircraft development programmes was closer to 170, with a majority of them aimed at the urban air taxi role.
+[49] By 2022, about 100 electric aircraft designs were under development worldwide.
+[1] : 10–11 By 2023, the number of sustainable aircraft concepts under development (not only electric) was estimated at up to 700.
+[50] Airships [ edit ] The use of electricity for aircraft propulsion was first experimented with during the development of the airship in the latter part of the nineteenth century. On 8 October 1883, Gaston Tissandier flew the first electrically powered airship.
+[51] : 292 [52] The following year, Charles Renard and Arthur Krebs flew La France with a more powerful motor.
+[51] : 306 Even with the lifting capacity of an airship, the heavy accumulators needed to store the electricity severely limited the speed and range of such early airships.
 Fully electric airships are expected to be available again by the 2030s.
-[57]Unmanned aircraft[edit]In 1909, an electricfree flightmodel was claimed to have been flown eight minutes, but this claim has been disputed by the builder of the first recorded electricRadio-Controlled model aircraftflight in 1957.
-[58]Power density for electric flight was problematic even for small models.
-NASA's Pathfinder, Pathfinder Plus,Centurion, andHelioswere a series of solar and fuel cell system–poweredunmanned aerial vehicles(UAVs) developed byAeroVironment, Inc. from 1983 until 2003 underNASA'sEnvironmental Research Aircraft and Sensor Technologyprogram.
-[59][60]On September 11, 1995, Pathfinder set an unofficial altitude record for solar-powered aircraft of 50,000 feet (15,000 m) during a 12-hour flight fromNASA Dryden. After further modifications, the aircraft was moved to theU.S. Navy'sPacific Missile Range Facility(PMRF) on the Hawaiian island ofKauai. On July 7, 1997, Pathfinder raised the altitude record for solar–powered aircraft to 71,530 feet (21,800 m), which was also the record for propeller–driven aircraft.
-[59]On August 6, 1998, Pathfinder Plus raised the national altitude record to 80,201 feet (24,445 m) for solar-powered and propeller-driven aircraft.
-[59][61]On August 14, 2001, Helios set an altitude record of 29,524 metres (96,863 ft) – the record for FAI class U (experimental/new technologies), and FAI class U-1.d (remotely controlled UAV with a mass between 500 and 2,500 kg (1,100 and 5,500 lb)) as well as the altitude record for propeller–driven aircraft.
-[62]On June 26, 2003, the Helios prototype broke up and fell into the Pacific Ocean off Hawaii after the aircraft encountered turbulence, ending the program.
-In 2005,Alan CocconiofAC Propulsionflew, with the assistance of several other pilots, an unmanned airplane named "SoLong" for 48 hours non-stop, propelled entirely by solar energy. This was the first such around-the-clock flight, on energy stored in the batteries mounted on the aircraft.
-[63][64]TheQinetiQ Zephyris a lightweight solar-poweredunmanned aerial vehicle(UAV). As of 23 July 2010 it holds the endurance record for an unmanned aerial vehicle of over 2 weeks (336 hours).
-[65]It is ofcarbon fiber-reinforced polymerconstruction, the 2010 version weighing 50 kg (110 lb)[66](the 2008 version weighed 30 kg (66 lb)) with aspanof 22.5 m (74 ft)[66](the 2008 version had a 18 m (59 ft) wingspan). During the day it uses sunlight to chargelithium-sulphur batteries, which power the aircraft at night.
-[67]In July 2010 a Zephyr made a world record UAV endurance flight of 336 hours, 22 minutes and 8 seconds (more than two weeks) and also set an altitude record of 70,742 feet (21,562 m) for FAI class U-1.c (remotely controlled UAV with a weight between 50 and 500 kg (110 and 1,100 lb)).
-[68][69][70]Vertical flight[edit]For a tethered device such as an air observation platform, it is possible to run the power up the tether. In an attempt to create a more practical solution than the clumsy balloons then in use, the Austro-HungarianPetróczy-Kármán-ŽurovecPKZ-1 electric-powered helicopter was flown in 1917. It had a specially-designed 190 hp (140 kW) continuous-rated electric motor made byAustro-Daimlerand received its power up a cable from a ground-based DC generator. However electric motors were not yet powerful enough for such applications and the motor burned out after only a few flights.
-[71]They soon switched to using a gasoline engine and the use of electric power for rotor-borne flight was not explored further until recently.
-[citation needed]In 1964,William C. BrownatRaytheonflew amodel helicopterthat received all of the power needed for flight bymicrowave power transmission.
-[72]TheNASA Puffinwas a concept, proposed in 2010, for an electric-powered,vertical takeoff and landing(VTOL),personal air vehicle.
-[73][importance?]TheSikorsky FireflyS-300 was a project to flight test an electric rotorcraft, but the project was put on hold due to battery limitations.
-[74][importance?]The world's first large-scale all-electrictilt-rotorwas theAgustaWestland Project Zerounmanned aerial vehicletechnology demonstrator, which performed unmanned tethered fights on ground power in June 2011, less than six months after the company gave the official go-ahead.
-[75]The first free-flying electric helicopter was theSolution F/Chretien Helicopter, developed byPascal Chretienin Venelles, France. It went fromcomputer-aided designconcept on September 10, 2010, to first flight in August 2011, in under a year.
-[76][77]In September 2016,Martine RothblattandTier1 Engineeringsuccessfully tested an electric-powered helicopter. The five minute flight reached an altitude of 400 feet (120 m) with a peak speed of 80 knots (150 km/h). TheRobinson R44helicopter was modified with two three-phase permanent magnet synchronousYASA Motors, weighing 45 kg (100 lb), plus 11Lithium polymer batteriesfromBrammoweighing 500 kg (1,100 lb).
-[78][79][80]It later flew for 20 minutes in 2016.
-[81][82]On December 7, 2018, Tier 1 Engineering flew an electric, battery-powered R44 over 30 nmi (56 km) at 80 kn (150 km/h) and an altitude of 800 ft (240 m), setting aGuinness World Recordfor the farthest distance.
-[83]In June 2017, Airbus presented itsCityAirbus, an electrically poweredVTOLaircraft demonstrator.
-[84]Themultirotoraircraft is intended to carry four passengers, with a pilot initially and to become self-piloted when regulations allow.
-[84]Its first unmanned flight was scheduled for the end of 2018 with manned flights planned to follow in 2019.
-[85]Type certificationand commercial introduction are planned for 2023.
-[86]Ingenuity, the drone which flew on Mars in 2021 to become the first extraterrestrial aircraft, has a single pair ofcoaxial rotors.
-Experimental demonstrators[edit]On 21 October 1973, the Militky MB-E1, aBrditschka HB-3motor glider converted by Fred Militky and Heino Brditschka, flew for 9 minutes fromLinzin Austria: the first electric aircraft to fly under its own power with a person on board, powered byNickel-cadmium batteries(NiCad).
-[87][88]NiCad batteries have a higherenergy densitythanlead-acid batteries, needed to power anheavier than air aircraft.
-Following successfulhuman-powered flight, a relaunchedKremer prizeallowed the crew to store energy before takeoff.
-[89]In the 1980s several such designs stored electricity generated by pedalling, including theMIT Monarchand theAerovironmentBionic Bat.
-[90]TheBoeing-led FCD (fuel cell demonstrator) project uses aDiamond HK-36 Super Dimonamotor glider as a research test bed for a hydrogenfuel cellpowered light airplane.
-[91]Successful flights took place in February and March 2008.
-[91][92]The European Commission has financed many lowTRLprojects for innovative electric or hybrid propulsion aircraft. The ENFICA-FC is a project of theEuropean Commission, to study and demonstrate an all-electric aircraft with fuel-cells as the main or auxiliary power system. During the three-year project, a fuel-cell based power system was designed and first flown in aRapid 200FCultralight aircraft on 20 May 2010.
-[93]The first NASAGreen Flight Challengetook place in 2011 and was won by aPipistrel Taurus G4on 3 October 2011.
-[94][95][96]In 2013Chip Yatesdemonstrated that the world's fastest electric airplane, a Long ESA, a modifiedRutan Long-EZ, could outperform a gasoline-powered Cessna and other aircraft in a series of trials verified by theFédération Aéronautique Internationale. The Long ESA was found to be less expensive, have a higher maximum speed, and higher rate of climb, partly due to the ability of the aircraft to maintain performance at altitude as low air density does not impair engine performance.
-[97][98]In 2017,Siemensused a modifiedExtra EA-300acrobatic airplane, the 330LE, to set two new records: on March 23 at theDinslakenSchwarze Heide airfield in Germany, the aircraft reached a top speed of around 340 km/h (180 kn) over 3 km (1.6 nmi) and the next day, it became the firstglider towingelectric aircraft.
-[99]NASAdeveloped theX-57 Maxwellto demonstrate technology to reduce fuel use, emissions, and noise.
-[100]Modified from aTecnam P2006T, the X-57 will have 14electric motorsdrivingpropellersmounted on the wing leading edges.
-[101]In July 2017,Scaled Compositesis modifying a first P2006T by replacing the piston engines with electric motors, to fly early in 2018, then will move the motors to thewingtipsto increasepropulsive efficiencyand finally will install the highaspect ratiowing with 12 smaller props.
-[102]US/UK startupZeroAviadevelops zero-emissionsfuel-cellpropulsion systems for small aircraft, and tests itsHyFlyerin Orkney supported by £2.7 million from the UK government.
-[103]Solar aircraft[edit]On April 29, 1979, theMauro Solar Riserbecame the first person-carrying, solar-powered aircraft to fly, with photovoltaic cells delivering 350 W (0.47 hp) at 30 volts and charging a small battery, which powered the motor. Following a 1.5-hour charge, the battery could power the aircraft for 3 to 5 minutes to reach a gliding altitude.
-[104]It followed a successful model test in 1974, as solar cells were developed, at the same period than with NiCad batteries.
-Under the direction of Freddie To, an architect and member of theKremer prizecommittee, theSolar Onewas designed by David Williams and produced by Solar-Powered Aircraft Developments. A motor-glider type aircraft originally built as a pedal-powered airplane to attempt the Channel crossing, the airplane proved too heavy to be successfully powered by human power and was then converted to solar power,[105]using an electric motor driven by batteries that were charged before flight by a solar cell array on the wing.
-[106]The maiden flight of Solar One took place atLasham Airfield, Hampshire, on June 13, 1979.
-[107]The human pilotedSolair1, developed by Günther Rochelt, flew in 1983 with notably improved performance.
-[108][109]It employed 2499 wing-mounted solar cells.
-[108]The German solar-powered aircraft "Icaré II" was designed and built by the institute of aircraft design (Institut für Flugzeugbau) of the University of Stuttgart in 1996. The leader of the project and often pilot of the aircraft is Rudolf Voit-Nitschmann, the head of the institute. The design won the Berblinger prize in 1996, the EAA Special Achievement Award in Oshkosh, the Golden Daidalos Medal of the German Aeroclub and the OSTIV-Prize in France in 1997.
-[110]Solar Impulse 2is powered by four electric motors. Energy from solar cells on the wings and horizontal stabilizer is stored in lithium polymer batteries and used to drive propellers.
-[111][112]In 2012 the firstSolar Impulsemade the first intercontinental flight by a solar aircraft, flying fromMadrid, Spain toRabat, Morocco.
-[113][114]Completed in 2014, Solar Impulse 2 carried more solar cells and more powerful motors, among other improvements. In March 2015, the aircraft took off on the first stage of a planned round-the-world trip, flying eastwards fromAbu Dhabi, United Arab Emirates.
-[115]Due to battery damage, the craft halted atHawaii, where its batteries were replaced. It resumed the circumnavigation in April 2016[116]and reachedSeville, Spain, in June 2016.
-[117]The following month it returned to Abu Dhabi, completing its circumnavigation of the world.
-[118]General aviation[edit]An application is as a sustaining motor or even a self-launching motor forgliders. The most common system is thefront electric sustainer, which is used in over 240 gliders. The short range is not a problem as the motor is used only briefly, either to launch or to avoid an outlanding (an unplanned landing while soaring). The advantage of an electric motor in this case comes from the certainty that it will start and the rapidity of deployment compared with reciprocating engines.
-[citation needed]The first commercially available, non-certified production electric aircraft, theAlisport Silent Clubself-launchingglider, flew in 1997. It is optionally driven by a 13 kW (17 hp) DC electric motor running on 40 kg (88 lb) of batteries that store 1.4 kWh (5.0 MJ) of energy.
-[120]The first certificate of airworthiness for an electric powered aircraft was granted to theLange Antares20E in 2003. Also an electric, self-launching 20 m (66 ft) glider/sailplane, with a 42 kW (56 hp) DC/DC brushless motor andlithium-ion batteries, it can climb up to 3,000 m (9,800 ft) with fully charged cells.
-[121]The first flight was in 2003. In 2011 the aircraft won the 2011 Berblinger competition.
-[122]In 2007, the non-profitCAFE Foundationheld the first Electric Aircraft Symposium in San Francisco.
-[123][importance?]In late 2000s Chinese manufacturer of radio-controlled modelsYuneec Internationaldeveloped and tested several battery-powered manned fixed-wing aircraft, includingE430, the first electric aircraft designed to be serially produced, but failed to commercialize them (only prototypes were built) and in mid-2010s turned to the lucrative consumer drone market.
-TheTaurus Electrowas the first two-seat electric aircraft to have ever flown,[124]while theTaurus Electro G2is the production version, that was introduced in 2011. Powered by a 40 kW (54 hp) electric motor and lithium batteries for self-launching[125]to an altitude of 2,000 m (6,600 ft), after which the engine is retracted and the aircraft then soars as a sailplane. It is the first two-seat electric aircraft to have achieved series production.
-[126][127]As pilot training emphasises short flights, several companies make, or have demonstrated, light aircraft suitable for initial flight training. TheAirbus E-Fanwas aimed at flight training but the project was cancelled.
-Pipistrelmakes light sport electric aircraft such as thePipistrel WATTsUP, a prototype of thePipistrel Alpha Electro. The advantage of electric aircraft for flight training is the lower cost of electrical energy compared to aviation fuel. Noise and exhaust emissions are also reduced compared with combustion engines.
-TheBye Aerospace eFlyer 2(formerly the Sun Flyer 2) is a light electric aircraft designed and under development by Bye Aerospace of Denver, Colorado. The aircraft was first publicly introduced on 11 May 2016, and first flew on 10 April 2018.
-On 10 June 2020, theVelis Electrovariant of the two-seatPipistrel Viruswas the first electric aircraft to securetype certification, from theEASA. Powered by a 76 hp (58 kW) electric motor developed withEmrax, it offers a payload of 170 kg (370 lb), a cruise speed of 90 kn (170 km/h), and a 50 min endurance. Pipistrel plans to deliver over 30 examples in 2020, to be operated as atrainer aircraft.
-[128]On 12 October 2021,Diamond Aircraftannounced the development of the eDA40, targeting a 2022 first flight and a 2023 EASA/FAA Part 23 certification, tailored to the flight training market.
-[129]The four-seat aircraft should be able to fly for up to 90 minutes, with 40% lower operating costs than piston power.
-[130]Airliner projects[edit]TheNASA Electric Aircraft Testbed(NEAT) is aNASAreconfigurabletestbedinPlum Brook Station, Ohio, used to design, develop, assemble and test electric aircraft power systems, from a small, one or two person aircraft up to 20 MW (27,000 hp)airliners.
-[131]NASA research agreements (NRA) are granted to develop electric-propulsion components.
-[132]They will be completed in 2019 and the internal NASA work by 2020, then they will be assembled in a megawatt-scale drive system to be tested in thenarrowbody-sized NEAT.
-[132]In September 2017, UK budget carrierEasyJetannounced it was developing an electric 180-seater for 2027 withWright Electric.
-[133]Founded in 2016, USWright Electricbuilt a two-seat proof-of-concept with 272 kg (600 lb) of batteries, and believes they can be scaled up with substantially lighter newbattery chemistries. A 291 nm (540 km) range would suffice for 20% of Easyjet passengers.
-[134]Wright Electric will then develop a 10-seater, eventually an at least 120 passengers single aisle, short haul airliner and targets 50% lower noise and 10% lower costs.
-[135]Jeffrey Engler, CEO of Wright Electric, estimates that commercially viable electric planes will lead to around a 30% reduction in energy costs.
-[136]On March 19, 2018,Israel Aerospace Industriesannounced it plans to develop a short-haul electric airliner, building on its smallUASelectric power systems experience.
-[137]It could develop it in-house, or with a startup like IsraeliEviation, U.S.
-Zunum AeroorWright Electric.
-[137]Australia-basedMagniXhas developed an electricCessna 208 Caravanwith a 540 kW (720 hp) motor for flight durations up to an hour.
-[138]The company's Magni5 electric motor produces continuously 265–300 kW (355–402 hp) peak[clarification needed]at 2,500 rpm at 95% efficiency with a 53 kg (117 lb) dry mass, a 5 kW/kg power density, competing with the 260 kW (350 hp), 50 kg (110 lb)Siemens SP260Dfor theExtra 330LE.
-[138]By September 2018, a 350 hp (260 kW) electric motor with a propeller had been tested on a Cessna iron bird. The 750 hp (560 kW) Caravan was expected to fly by the fall of 2019 and by 2022 MagniX estimates electric aircraft will have ranges of 500 and 1,000 mi (800 and 1,610 km) by 2024.
-[139]The motor ran on a testdynamometerfor 1,000 hours.
-[140]The iron bird is a Caravan forward fuselage used as a test bed, with the originalPratt & Whitney Canada PT6turboprop engine replaced by an electric motor, inverter and a liquid-cooling system, including radiators, driving aCessna 206propeller.
-[140]The production motor will produce 280 kW (380 hp) at 1,900 rpm, down from the test motor's 2,500 rpm, allowing the installation without a reduction gearbox.
-[140]On 28 May 2020, the MagniX electric-powered nine-passengerCessna 208BeCaravanflew on electric power,[141]towards commercial operation certification.
-[142]A 560-kW (750-hp) MagniX electric motor was installed in ade Havilland Canada DHC-2 Beaverseaplane.
-Harbour Air, based inBritish Columbia, was hoping to introduce the aircraft in commercial service in 2021, for trips under 30 minutes initially, until range increases as better batteries are introduced.
-[103]On December 10, 2019, it made its first flight of four minutes duration from theFraser RivernearVancouver. The normally-fittedPratt & Whitney R-985 Wasp Juniorpiston engine of the six-passenger Beaver was replaced by a 135 kg (297 lb)magni500, with swappable batteries, allowing 30 minute flights with a 30-minute reserve.
-[143]By April 2022, flight testing of a certifiable version through aSTCwas delayed until late 2023, to carry four passengers and a pilot on 30 minute flights with a 30 minute reserve.
-[144]Magnix is seekingFAAcertification for its 640 kW (850shp) Magni650 aircraft engine, while battery providerH55(a spin-off fromSolar Impulse) is pursuingEASAapproval.
-[144]A demonstrator for the GermanScylax E1010-seater should fly in 2022. It should be used byFLN Frisia Luftverkehrto connectEast Frisian islandswith its 300 km (160 nmi) range and 300 m (980 ft)short takeoff and landingdistance.
-[103]On 23 September 2020,Gothenburg-basedHeart Aerospacepresented its ES-19 design, a 19-seat all-electric commercial aircraft planned to fly by mid-2026.
-[145]With a conventional aluminium airframe and wing, its planned range is 400 km (222 nmi) and expects to operate from runways as short as 800 m (2,640 ft).
-[145]Initially targeting airlines operating in theNordic countries, Heart has received "expressions of interest" for 147 ES-19 aircraft worth about €1.1 billion or US$1.3 billion (€7.5 million or $8.8 million each) from at least eight airlines.
-[145]Backed by Swedish venture capitalistEQT Ventures, Nordic governments and theEuropean Union, Heart was initially funded by the Swedish innovation agencyVinnovaand is an alumnus of Silicon Valley start-up acceleratorY Combinator.
-[145]On 22 March 2021,Toulouse-based Aura Aero announced the development of its ERA (Electric Regional Aircraft), a 19-passenger electric aircraft, planned to be certified in 2026.
-[146]Shipments[edit]The following table summarizes electric aircraft shipments worldwide by manufacturer.
-Cape AirandDHLhave ordered production models of theEviation Alice.
-See also[edit]References[edit]External links[edit]Navigation menuSearch
+[53] Unmanned aircraft [ edit ] In 1909, an electric free flight model was claimed to have been flown eight minutes, but this claim has been disputed by the builder of the first recorded electric Radio-Controlled model aircraft flight in 1957.
+[54] Power density for electric flight was problematic even for small models.
+NASA's Pathfinder, Pathfinder Plus , Centurion , and Helios were a series of solar and fuel cell system–powered unmanned aerial vehicles (UAVs) developed by AeroVironment , Inc. from 1983 until 2003 under NASA 's Environmental Research Aircraft and Sensor Technology program.
+[55] [56] On September 11, 1995, Pathfinder set an unofficial altitude record for solar-powered aircraft of 50,000 feet (15,000 m) during a 12-hour flight from NASA Dryden.
+ After further modifications, the aircraft was moved to the U.S. Navy 's Pacific Missile Range Facility (PMRF) on the Hawaiian island of Kauai.
+ On July 7, 1997, Pathfinder raised the altitude record for solar–powered aircraft to 71,530 feet (21,800 m), which was also the record for propeller–driven aircraft.
+[55] On August 6, 1998, Pathfinder Plus raised the national altitude record to 80,201 feet (24,445 m) for solar-powered and propeller-driven aircraft.
+[55] [57] On August 14, 2001, Helios set an altitude record of 29,524 metres (96,863 ft) – the record for FAI class U (experimental/new technologies), and FAI class U-1.d (remotely controlled UAV with a mass between 500 and 2,500 kg (1,100 and 5,500 lb)) as well as the altitude record for propeller–driven aircraft.
+[58] On June 26, 2003, the Helios prototype broke up and fell into the Pacific Ocean off Hawaii after the aircraft encountered turbulence, ending the program.
+In 2005, AC Propulsion flew an unmanned airplane named "SoLong" for 48 hours non-stop, propelled entirely by solar energy. This was the first such around-the-clock flight, on energy stored in the batteries mounted on the aircraft.
+[59] [60] The QinetiQ Zephyr is a lightweight solar-powered unmanned aerial vehicle (UAV). As of 23 July 2010 it holds the endurance record for an unmanned aerial vehicle of over 2 weeks (336 hours).
+[61] It is of carbon fiber-reinforced polymer construction, the 2010 version weighing 50 kg (110 lb) [62] (the 2008 version weighed 30 kg (66 lb)) with a span of 22.5 m (74 ft) [62] (the 2008 version had a 18 m (59 ft) wingspan). During the day it uses sunlight to charge lithium-sulphur batteries , which power the aircraft at night.
+[63] In July 2010 a Zephyr made a world record UAV endurance flight of 336 hours, 22 minutes and 8 seconds (more than two weeks) and also set an altitude record of 70,742 feet (21,562 m) for FAI class U-1.c (remotely controlled UAV with a weight between 50 and 500 kg (110 and 1,100 lb)).
+[64] [65] [66] Vertical flight [ edit ] For a tethered device such as an air observation platform, it is possible to run the power up the tether. In an attempt to create a more practical solution than the clumsy balloons then in use, the Austro-Hungarian Petróczy-Kármán-Žurovec PKZ-1 electric-powered helicopter was flown in 1917. It had a specially-designed 190 hp (140 kW) continuous-rated electric motor made by Austro-Daimler and received its power up a cable from a ground-based DC generator. However electric motors were not yet powerful enough for such applications and the motor burned out after only a few flights.
+[67] In 1964, William C. Brown at Raytheon flew a model helicopter that received all of the power needed for flight by microwave power transmission.
+[68] The world's first large-scale all-electric tilt-rotor was the AgustaWestland Project Zero unmanned aerial vehicle technology demonstrator, which performed unmanned tethered fights on ground power in June 2011, less than six months after the company gave the official go-ahead.
+[69] The first free-flying electric helicopter was the Solution F/Chretien Helicopter , developed by Pascal Chretien in Venelles, France. It went from computer-aided design concept on September 10, 2010, to first flight in August 2011, in under a year.
+[70] [71] In September 2016, Martine Rothblatt and Tier1 Engineering successfully tested an electric-powered helicopter. The five minute flight reached an altitude of 400 feet (120 m) with a peak speed of 80 knots (150 km/h). The Robinson R44 helicopter was modified with two three-phase permanent magnet synchronous YASA Motors , weighing 45 kg (100 lb), plus 11 Lithium polymer batteries from Brammo weighing 500 kg (1,100 lb).
+[72] [73] [74] It later flew for 20 minutes in 2016.
+[75] [76] On December 7, 2018, Tier 1 Engineering flew an electric, battery-powered R44 over 30 nmi (56 km) at 80 kn (150 km/h) and an altitude of 800 ft (240 m), setting a Guinness World Record for the farthest distance.
+[77] In June 2017, Airbus presented its CityAirbus , an electrically powered VTOL aircraft demonstrator.
+[78] The multirotor aircraft is intended to carry four passengers, with a pilot initially and to become self-piloted when regulations allow.
+[78] Its first unmanned flight was scheduled for the end of 2018 with manned flights planned to follow in 2019.
+[79] Type certification and commercial introduction are planned for 2023.
+[80] Ingenuity , the NASA small uncrewed aerial system (sUAS) which flew on Mars in 2021 to become the first extraterrestrial aircraft, has a single pair of coaxial rotors.
+ The Dragonfly rotorcraft lander should be the second aircraft and rotorcraft to operate on another astronomical object than Earth. It should be flying in the atmosphere of Titan starting around 2034. The VTOL capabilities is incorporated in order to move the lander and its sensors at various locations farther from the landing site.
+[81] Experimental demonstrators [ edit ] On 21 October 1973, the Militky MB-E1, a Brditschka HB-3 motor glider converted by Fred Militky and piloted by Heino Brditschka, flew for 9 minutes from Linz in Austria: the first electric aircraft to fly under its own power with a person on board, powered by Nickel–cadmium batteries (NiCad).
+[82] [83] NiCad batteries have a higher energy density than lead–acid batteries , needed to power a heavier than air aircraft.
+Following successful human-powered flight , a relaunched Kremer prize allowed the crew to store energy before takeoff.
+[84] In the 1980s several such designs stored electricity generated by pedalling, including the MIT Monarch and the Aerovironment Bionic Bat.
+[85] The Boeing -led FCD (fuel cell demonstrator) project uses a Diamond HK-36 Super Dimona motor glider as a research test bed for a hydrogen fuel cell powered light airplane.
+[86] Successful flights took place in February and March 2008.
+[86] [87] The European Commission has financed many low TRL projects for innovative electric or hybrid propulsion aircraft. The ENFICA-FC is a project of the European Commission , to study and demonstrate an all-electric aircraft with fuel-cells as the main or auxiliary power system. During the three-year project, a fuel-cell based power system was designed and first flown in a Rapid 200FC ultralight aircraft on 20 May 2010.
+[88] The first NASA Green Flight Challenge took place in 2011 and was won by a Pipistrel Taurus G4 on 3 October 2011.
+[89] [90] [91] In 2013 Chip Yates demonstrated that the world's fastest electric airplane, a Long ESA, a modified Rutan Long-EZ , could outperform a gasoline-powered Cessna and other aircraft in a series of trials verified by the Fédération Aéronautique Internationale.
+ The Long ESA was found to be less expensive, have a higher maximum speed, and higher rate of climb, partly due to the ability of the aircraft to maintain performance at altitude as low air density does not impair engine performance.
+[92] [93] In 2017, Siemens used a modified Extra EA-300 acrobatic airplane, the 330LE, to set two new records: on March 23 at the Dinslaken Schwarze Heide airfield in Germany, the aircraft reached a top speed of around 340 km/h (180 kn) over 3 km (1.6 nmi) and the next day, it became the first glider towing electric aircraft.
+[94] NASA was developing the X-57 Maxwell to demonstrate technology to reduce fuel use, emissions, and noise, but the program was cancelled due to problems with the propulsion system.
+[95] Modified from a Tecnam P2006T , the X-57 will have 14 electric motors driving propellers mounted on the wing leading edges.
+[96] In July 2017, Scaled Composites is modifying a first P2006T by replacing the piston engines with electric motors, to fly early in 2018, then will move the motors to the wingtips to increase propulsive efficiency and finally will install the high aspect ratio wing with 12 smaller props.
+[97] US/UK startup ZeroAvia develops zero-emissions fuel-cell propulsion systems for small aircraft, and tests its HyFlyer in Orkney supported by £2.7 million from the UK government.
+[98] Solar aircraft [ edit ] On April 29, 1979, the Mauro Solar Riser became the first person-carrying, solar-powered aircraft to fly, with photovoltaic cells delivering 350 W (0.47 hp) at 30 volts and charging a small battery, which powered the motor. Following a 1.5-hour charge, the battery could power the aircraft for 3 to 5 minutes to reach a gliding altitude.
+[99] It followed a successful model test in 1974, as solar cells were developed, at the same period than with NiCad batteries.
+Under the direction of Freddie To, an architect and member of the Kremer prize committee, the Solar One was designed by David Williams and produced by Solar-Powered Aircraft Developments. A motor-glider type aircraft originally built as a pedal-powered airplane to attempt the Channel crossing, the airplane proved too heavy to be successfully powered by human power and was then converted to solar power, [100] using an electric motor driven by batteries that were charged before flight by a solar cell array on the wing.
+[101] The maiden flight of Solar One took place at Lasham Airfield , Hampshire, on June 13, 1979.
+[102] The MacCready Gossamer Penguin first flew carrying a pilot in 1980.
+The MacCready Solar Challenger was first flown in 1980, and in 1981 flew 163 miles from Pontoise Aerodrome , north of Paris, to Manston Royal Air Force Base in Manston , England, staying aloft 5 hours and 23 minutes, with pilot Stephen Ptacek at the controls.
+The human piloted Solair 1, developed by Günther Rochelt, flew in 1983 with notably improved performance.
+[103] [104] It employed 2499 wing-mounted solar cells.
+[103] The German solar-powered aircraft "Icaré II" was designed and built by the institute of aircraft design (Institut für Flugzeugbau) of the University of Stuttgart in 1996. The leader of the project and often pilot of the aircraft is Rudolf Voit-Nitschmann, the head of the institute. The design won the Berblinger prize in 1996, the EAA Special Achievement Award in Oshkosh, the Golden Daidalos Medal of the German Aeroclub and the OSTIV-Prize in France in 1997.
+[105] Solar Impulse 2 is powered by four electric motors. Energy from solar cells on the wings and horizontal stabilizer is stored in lithium polymer batteries and used to drive propellers.
+[106] [107] In 2012 the first Solar Impulse made the first intercontinental flight by a solar aircraft, flying from Madrid , Spain to Rabat , Morocco.
+[108] [109] Completed in 2014, Solar Impulse 2 carried more solar cells and more powerful motors, among other improvements. In March 2015, the aircraft took off on the first stage of a planned round-the-world trip, flying eastwards from Abu Dhabi , United Arab Emirates.
+[110] Due to battery damage, the craft halted at Hawaii , where its batteries were replaced. It resumed the circumnavigation in April 2016 [111] and reached Seville , Spain, in June 2016.
+[112] The following month it returned to Abu Dhabi, completing its circumnavigation of the world.
+[113] General aviation [ edit ] An application is as a sustaining motor or even a self-launching motor for gliders.
+ The most common system is the front electric sustainer , which is used in over 240 gliders. The short range is not a problem as the motor is used only briefly, either to launch or to avoid an outlanding (an unplanned landing while soaring).
+The first commercially available, non-certified production electric aircraft, the Alisport Silent Club self-launching glider , flew in 1997. It is optionally driven by a 13 kW (17 hp) DC electric motor running on 40 kg (88 lb) of batteries that store 1.4 kWh (5.0 MJ) of energy.
+[115] The first certificate of airworthiness for an electric powered aircraft was granted to the Lange Antares 20E in 2003. Also an electric, self-launching 20 m (66 ft) glider/sailplane, with a 42 kW (56 hp) DC/DC brushless motor and lithium-ion batteries , it can climb up to 3,000 m (9,800 ft) with fully charged cells.
+[116] The first flight was in 2003. In 2011 the aircraft won the 2011 Berblinger competition.
+[117] In late 2000s Chinese manufacturer of radio-controlled models Yuneec International developed and tested several battery-powered manned fixed-wing aircraft, including E430 , the first electric aircraft designed to be serially produced, but failed to commercialize them (only prototypes were built) and in mid-2010s turned to the lucrative consumer drone market.
+The Taurus Electro was the first two-seat electric aircraft to have ever flown, [118] while the Taurus Electro G2 is the production version, that was introduced in 2011. Powered by a 40 kW (54 hp) electric motor and lithium batteries for self-launching [119] to an altitude of 2,000 m (6,600 ft), after which the engine is retracted and the aircraft then soars as a sailplane. It is the first two-seat electric aircraft to have achieved series production.
+[120] [121] As pilot training emphasises short flights, several companies make, or have demonstrated, light aircraft suitable for initial flight training. The Airbus E-Fan was aimed at flight training but the project was cancelled.
+Pipistrel makes light sport electric aircraft such as the Pipistrel WATTsUP , a prototype of the Pipistrel Alpha Electro.
+ The advantage of electric aircraft for flight training is the lower cost of electrical energy compared to aviation fuel. Noise and exhaust emissions are also reduced compared with combustion engines.
+The Bye Aerospace eFlyer 2 (formerly the Sun Flyer 2) is a light electric aircraft designed and under development by Bye Aerospace of Denver, Colorado. The aircraft was first publicly introduced on 11 May 2016, and first flew on 10 April 2018.
+On 10 June 2020, the Velis Electro variant of the two-seat Pipistrel Virus was the first electric aircraft to secure type certification , from the EASA.
+ Powered by a 76 hp (58 kW) electric motor developed with Emrax , it offers a payload of 170 kg (370 lb), a cruise speed of 90 kn (170 km/h), and a 50 min endurance. Pipistrel plans to deliver over 30 examples in 2020, to be operated as a trainer aircraft.
+[122] On 12 October 2021, Diamond Aircraft announced the development of the e DA40 , targeting a 2022 first flight and a 2023 EASA/FAA Part 23 certification, tailored to the flight training market.
+[123] The four-seat aircraft is expected to be able to fly for up to 90 minutes, with 40% lower operating costs than piston power.
+[124] The eDA40 had its initial flight on 20 July 2023.
+[125] Airliner projects [ edit ] The NASA Electric Aircraft Testbed (NEAT) is a NASA reconfigurable testbed in Plum Brook Station , Ohio, used to design, develop, assemble and test electric aircraft power systems, from a small, one or two person aircraft up to 20 MW (27,000 hp) airliners.
+[126] NASA research agreements (NRA) are granted to develop electric-propulsion components.
+[127] They will be completed in 2019 and the internal NASA work by 2020, then they will be assembled in a megawatt-scale drive system to be tested in the narrowbody -sized NEAT.
+[127] In September 2017, UK budget carrier EasyJet announced it was developing an electric 180-seater for 2027 with Wright Electric.
+[128] Founded in 2016, US Wright Electric built a two-seat proof-of-concept with 272 kg (600 lb) of batteries, and believes they can be scaled up with substantially lighter new battery chemistries.
+ A 291 nmi (540 km) range would suffice for 20% of Easyjet passengers.
+[129] Wright Electric will then develop a 10-seater, eventually an at least 120 passengers single aisle, short haul airliner and targets 50% lower noise and 10% lower costs.
+[130] Jeffrey Engler, CEO of Wright Electric, estimates that commercially viable electric planes will lead to around a 30% reduction in energy costs.
+[131] On March 19, 2018, Israel Aerospace Industries announced it plans to develop a short-haul electric airliner, building on its small UAS electric power systems experience.
+[132] It could develop it in-house, or with a startup like Israeli Eviation , U.S.
+Zunum Aero or Wright Electric.
+[132] Australia-based MagniX has developed an electric Cessna 208 Caravan with a 540 kW (720 hp) motor for flight durations up to an hour.
+[133] The company's Magni5 electric motor produces continuously 265 kW (355 hp), 300 kW (400 hp) peak at 2,500 rpm at 95% efficiency with a 53 kg (117 lb) dry mass, a 5 kW/kg power density, competing with the 260 kW (350 hp), 50 kg (110 lb) Siemens SP260D for the Extra 330LE.
+[133] By September 2018, a 350 hp (260 kW) electric motor with a propeller had been tested on a Cessna iron bird. The 750 hp (560 kW) Caravan was expected to fly by the fall of 2019 and by 2022 MagniX estimates electric aircraft will have ranges of 500 and 1,000 mi (800 and 1,610 km) by 2024.
+[134] The motor ran on a test dynamometer for 1,000 hours.
+[135] The iron bird is a Caravan forward fuselage used as a test bed, with the original Pratt & Whitney Canada PT6 turboprop engine replaced by an electric motor, inverter and a liquid-cooling system, including radiators, driving a Cessna 206 propeller.
+[135] The production motor will produce 280 kW (380 hp) at 1,900 rpm, down from the test motor's 2,500 rpm, allowing the installation without a reduction gearbox.
+[135] On 28 May 2020, the MagniX electric-powered nine-passenger Cessna 208B eCaravan flew on electric power, [136] towards commercial operation certification.
+[137] A 560-kW (750-hp) MagniX electric motor was installed in a de Havilland Canada DHC-2 Beaver seaplane.
+Harbour Air , based in British Columbia , was hoping to introduce the aircraft in commercial service in 2021, for trips under 30 minutes initially, until range increases as better batteries are introduced.
+[98] On December 10, 2019, it made its first flight of four minutes duration from the Fraser River near Vancouver.
+ The normally-fitted Pratt & Whitney R-985 Wasp Junior piston engine of the six-passenger Beaver was replaced by a 135 kg (297 lb) magni500 , with swappable batteries, allowing 30 minute flights with a 30-minute reserve.
+[138] By April 2022, flight testing of a certifiable version through a STC was delayed until late 2023, to carry four passengers and a pilot on 30 minute flights with a 30-minute reserve.
+[139] Magnix is seeking FAA certification for its 640 kW (850shp) Magni650 aircraft engine, while battery provider H55 (a spin-off from Solar Impulse ) is pursuing EASA approval.
+[139] A demonstrator for the German Scylax E10 10-seater should fly in 2022. It should be used by FLN Frisia Luftverkehr to connect East Frisian islands with its 300 km (160 nmi) range and 300 m (980 ft) short takeoff and landing distance.
+[98] On 23 September 2020, Gothenburg -based Heart Aerospace presented its ES-19 design, a 19-seat all-electric commercial aircraft planned to fly by mid-2026.
+[140] With a conventional aluminium airframe and wing, its planned range is 400 km (222 nmi) and expects to operate from runways as short as 800 m (2,640 ft).
+[140] Initially targeting airlines operating in the Nordic countries , Heart has received "expressions of interest" for 147 ES-19 aircraft worth about €1.1 billion or US$1.3 billion (€7.5 million or $8.8 million each) from at least eight airlines.
+[140] Backed by Swedish venture capitalist EQT Ventures , Nordic governments and the European Union , Heart was initially funded by the Swedish innovation agency Vinnova and is an alumnus of Silicon Valley start-up accelerator Y Combinator.
+[140] On 22 March 2021, Toulouse -based Aura Aero announced the development of its ERA (Electric Regional Aircraft), a 19-passenger electric aircraft, planned to be certified in 2026.
+[141] Shipments [ edit ] The following table summarizes electric aircraft shipments worldwide by manufacturer.
+2020 2021 2022 Pipistrel Velis Electro 13 48 17 Total 13 48 17 List of battery-electric aircraft [ edit ] See also [ edit ] Electric boat Electric vehicle Solar energy VTOL References [ edit ] ^ a b.
+mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit} Le Bris, G; et al. (2022).
+ACRP Research Report 236: Preparing Your Airport for Electric Aircraft and Hydrogen Technologies.
+Transportation Research Board (Report). Washington, DC.
+^ Broadbent, Mark (13 February 2020).
+"Do airlines dream of electric fleets?".
+www.airinternational.com.
+ Lincs, UK: Key Publishing.
+ Retrieved 17 April 2021.
+^ "Aviation is responsible for 3.5 percent of climate change, study finds".
+NOAA Research.
+ 2020-09-03.
+^ a b c Sigler, Dean (12 December 2019).
+"Electric Beaver Flies in Vancouver, B. C." sustainableskies.org.
+^ Catlow, Amy (26 May 2020).
+"How Much Electricity Can I Generate with Solar Panels?".
+www.theecoexperts.co.uk.
+ Retrieved 18 April 2021.
+^ Murphy, Thomas W. Jr. (11 March 2021).
+Energy and Human Ambitions on a Finite Planet.
+ eScholarship. p. 215.
+ISBN 978-0578867175.
+^ Taylor, Michael; Ralon, Pablo; Anuta, Harold; Al-Zoghoul, Sonia (2020).
+Renewable Power Generation Costs in 2019.
+ Abu Dhabi: International Renewable Energy Agency (IRENA). p. 21.
+ISBN 978-9292602444.
+ Retrieved 18 April 2021.
+^ Han, Amos.
+"Efficiency Of Solar PV, Then, Now And Future".
+lafayette.edu.
+ Retrieved 18 April 2021.
+^ Murmson, Serm (April 24, 2017).
+"Does a Solar Panel Stop Working When It Gets Too Cold?".
+sciencing.com.
+ Retrieved 18 April 2021.
+^ Luntz, Stephen (8 January 2019).
+"How Solar At High Altitudes Could Power Entire Countries, Even In Winter".
+ Retrieved 18 April 2021.
+^ Manual of the ICAO Standard Atmosphere (extended to 80 km (262,500 ft)) (Third ed.).
+International Civil Aviation Organization.
+ 1993.
+ISBN 9789291940042.
+ Doc 7488-CD.
+^ "Power Beaming".
+ Archived from the original on 17 February 2013.
+ Retrieved 20 August 2019.
+^ Boggio-Dandry, Andrew (2018).
+"Perpetual Flight for UAV Drone Swarms Using Continuous Energy Replenishment".
+2018 9th IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON).
+ pp. 478–484.
+doi : 10.1109/UEMCON.2018.8796684.
+ISBN 978-1-5386-7693-6.
+S2CID 201069705.
+{{ cite book }} : |journal= ignored ( help ) ^ González-Jorge, H. (2017).
+"nmanned aerial systems for civil applications: A review".
+Drones.
+1 : 2.
+doi : 10.3390/drones1010002.
+^ a b c Fredericks, W. (November 20, 2018).
+"Performance Metrics Required of Next-Generation Batteries to Electrify Vertical Takeoff and Landing (VTOL) Aircraft".
+ACS Energy Letters.
+3 (12): 2989–2994.
+doi : 10.1021/acsenergylett.8b02195.
+S2CID 115445306.
+^ Bjorn Fehrm (June 30, 2017).
+"Bjorn's Corner: Electric aircraft".
+Leeham.
+^ a b Philip E. Ross (1 Jun 2018).
+"Hybrid Electric Airliners Will Cut Emissions—and Noise".
+IEEE Spectrum.
+^ Stephen Trimble (28 May 2018).
+"Cessna short-circuits talk of electric-powered aircraft".
+Flightglobal.
+^ a b Seidenman, Paul (Jan 10, 2019).
+"How Batteries Need To Develop To Match Jet Fuel".
+Aviation Week Network.
+ Archived from the original on April 19, 2019.
+^ Schäfer, A. (2019).
+"Technological, economic and environmental prospects of all-electric aircraft".
+Nature Energy.
+4 (2): 160–166.
+doi : 10.1038/s41560-018-0294-x.
+hdl : 1721.1/126682.
+S2CID 134741946.
+^ Lineberger, R. (3 June 2019).
+"Change is in the air: The elevated future of mobility: What's next on the horizon?".
+Deloitte.
+Archived from the original on 2019-10-26.
+^ Alnaqeb, A. (2018). "Masters Thesis: Online prediction of battery discharge and flight mission assessment for electrical rotorcraft".
+{{ cite journal }} : Cite journal requires |journal= ( help ) ^ González-Jorge, H. (2017).
+"manned aerial systems for civil applications: A review".
+Drones.
+1 : 2.
+doi : 10.3390/drones1010002.
+^ "3 alternatieve oplossingen voor schonere luchtvaart" (in Dutch). 5 March 2019.
+^ Dornbusch, D. (2021).
+"Practical considerations in designing solid state Li-S cells for electric aviation".
+Electrochimica Acta.
+403 : 139406.
+doi : 10.1016/j.electacta.2021.139406.
+S2CID 244619978.
+^ Duffner, F. (2021). "Post-lithium-ion battery cell production and its compatibility with lithium-ion cell production infrastructure".
+Nature Energy.
+6 (2): 123.
+Bibcode : 2021NatEn...6..123D.
+doi : 10.1038/s41560-020-00748-8.
+S2CID 234033882.
+^ "SAE Standards Works".
+^ a b c d Johnsen, Frederick (11 August 2019).
+"Electric aircraft await juice jockeys".
+General Aviation News.
+ Retrieved 17 April 2021.
+^ Häggström, Fredrik; Delsing, Jerker (27 November 2018).
+"IoT Energy Storage – A Forecast".
+Energy Harvesting and Systems.
+5 (3–4): 43–51.
+doi : 10.1515/ehs-2018-0010.
+S2CID 64526195.
+ Retrieved 30 October 2020.
+^ Brown, Nicholas (11 May 2011).
+"Cheaper Ultracapacitors For Electric Vehicles".
+cleantechnica.com.
+ Retrieved 17 April 2021.
+^ Brelje, Benjamin J.; Martins, Joaquim R.R.A. (January 2019).
+"Electric, Hybrid, and Turboelectric Fixed-Wing Aircraft: A Review of Concepts, Models, and Design Approaches".
+Progress in Aerospace Sciences.
+104 : 1–19.
+Bibcode : 2019PrAeS.104....1B.
+doi : 10.1016/j.paerosci.2018.06.004.
+^ "Ultra lightweight motors for electric drones and airliners".
+www.idtechex.com.
+ 10 April 2015.
+^ Nicolas Zart (January 28, 2018).
+"The "Extra Aircraft 330LE" Two-Seat Electric Airplane — Another Electric Airplane Moving The Clean Air Race Forward".
+cleantechnica (Press release).
+^ "TYPE-CERTIFICATE DATA SHEET No. IM.E.027" (PDF).
+ European Union Aviation Safety Agency. 7 May 2020.
+^ "EXTRA 330LT".
+ Extra Flugzeugproduktions - und Vertriebs - GmbH.
+^ "I0-580-B1A Operation and Installation Manual" (PDF).
+ Lycoming. April 2003.
+^ Bjorn Fehrm (July 1, 2021).
+"The true cost of Electric Aircraft".
+Leeham News.
+^ Jake Richardson (24 October 2019).
+"750 Horsepower Electric Aviation Engine Tested By MagniX".
+cleantechnica.
+^ "Pratt & Whitney Canada PT6 Series Type Certificate" (PDF).
+Federal Aviation Administration.
+ 2007-06-21.
+^ a b c Michael Bruno (Aug 24, 2018).
+"Aerospace Sector Could See Overhaul From Electric Propulsion".
+Aviation Week & Space Technology.
+^ Stephen Trimble (Oct 5, 2017).
+"Zunum launches hybrid-electric aircraft for regional market".
+Flightglobal.
+^ "Airbus, Rolls-Royce, and Siemens team up for electric future" (PDF) (Press release). Airbus, Rolls-Royce, Siemens. 28 Nov 2017.
+( Airbus , Rolls-Royce , Siemens ) ^ Graham Warwick (Oct 25, 2018).
+"E-Fan Experience Spawns French Hybrid-Electric Startup".
+Aviation Week & Space Technology.
+^ Graham Warwick (Mar 26, 2019).
+"UTC's Dash 8 Hybrid-Electric X-Plane Targets Commercial Market".
+Aviation Week & Space Technology.
+^ "Ampaire Announces First Public Electric Flight" (Press release). Ampaire. June 6, 2019.
+^ Jennifer Chu (November 21, 2018).
+"MIT engineers fly first-ever plane with no moving parts".
+MIT News.
+^ Xu, Haofeng; He, Yiou; Strobel, Kieran L.; Gilmore, Christopher K.; Kelley, Sean P.; Hennick, Cooper C.; Sebastian, Thomas; Woolston, Mark R.; Perreault, David J.; Barrett, Steven R. H. (2018-11-21). "Flight of an aeroplane with solid-state propulsion".
+Nature.
+563 (7732): 532–535.
+Bibcode : 2018Natur.563..532X.
+doi : 10.1038/s41586-018-0707-9.
+PMID 30464270.
+S2CID 53714800.
+^ Robert Thomson (2018-05-23).
+"Electric propulsion is finally on the map".
+Roland Berger.
+^ Kate Sarsfield (14 May 2019).
+"Electric aircraft projects to top 200 by year-end: Roland Berger".
+Flightglobal.
+^ Tony Harrington (28 February 2023).
+"Shake-out looms as zero-emission aircraft developers fight for finance".
+Flightglobal.
+^ a b Gaston Tissandier (1886).
+La Navigation aérienne (in French). Hachette. L'aviation et la direction des aérostats.
+^ Swopes, Bryan.
+"Tissandier Electric Airship Archives".
+This Day in Aviation.
+ Retrieved 2021-11-19.
+^ "Electric airship designed to replace short-haul plane trips".
+Dezeen.
+ 2021-06-18.
+ Retrieved 2021-11-19.
+^ Dave Day (1983).
+"History of Electric Flight".
+Electric Flight.
+ Argus Books.
+^ a b c "NASA Armstrong Fact Sheet: Helios Prototype".
+NASA.
+ 2015-08-13.
+ Retrieved 8 December 2015.
+^ "None".
+ Archived from the original on July 30, 2013.
+^ "NAA Record Detail".
+naa.aero.
+ Archived from the original on 12 February 2012.
+ Retrieved 8 December 2015.
+{{ cite web }} : CS1 maint: unfit URL ( link ) ^ "Aviation and Space World Records".
+ Fédération Aéronautique Internationale. Archived from the original on 16 October 2013.
+ Retrieved 14 October 2013.
+^ Impulse, Solar.
+"Solar Impulse Foundation: 1000 profitable solutions for the environment".
+solarimpulse.com.
+ Archived from the original on 28 June 2011.
+ Retrieved 20 August 2019.
+^ Solar Plane Breaks Two-Night Flight Barrier Renewable Energy World, July 5, 2005 ^ Amos, Jonathan (2010-07-23).
+" 'Eternal plane' returns to Earth".
+BBC News.
+ Retrieved 2010-07-23.
+touched down at 1504 BST ... on Friday ... took off ... at 1440 BST (0640 local time) on Friday, 9 July ^ a b Amos, Jonathan (2010-07-17).
+"Zephyr solar plane flies 7 days non-stop".
+BBC News.
+ Retrieved 2010-07-17.
+^ QinetiQ Group PLC (n.d.).
+"Zephyr – QinetiQ High-Altitude Long-Endurance (HALE) Unmanned Aerial Vehicle (UAV)".
+ Archived from the original on 2008-08-26.
+ Retrieved 2008-09-14.
+^ Amos, Jonathan (2008-08-24).
+"Solar plane makes record flight".
+BBC News.
+ Retrieved 2008-08-25.
+^ Grady, Mary (December 2010).
+"Solar Drone Sets Endurance Record".
+AvWeb.
+ Retrieved 30 December 2010.
+^ "Aviation and Space World Records".
+ Fédération Aéronautique Internationale.
+ Retrieved 14 October 2013.
+^ Grosz, P. (1978). "Helicopter pioneers of World War I".
+Air Enthusiast.
+ No. 6. pp. 154–159.
+^ Arthur Fisher (January 1988).
+"Microwave power transmission: a brief history".
+Popular Science.
+ No. 232. p. 65.
+^ "AHS – Sample Vertiflite article: Project Zero".
+ Vtol.org. 2013-03-04.
+ Retrieved 2013-04-28.
+^ "Challenges of Aircraft Hybridization".
+ IDTechEx.
+ Retrieved 2013-04-29.
+^ "Vertiflite, March/April 2012 – AHS Online Store".
+ Vtol.org.
+ Retrieved 2013-04-28.
+^ Grady, Mary (October 17, 2016).
+"First Flight For Battery-Powered Helicopter".
+AVweb.com.
+ Retrieved October 21, 2016.
+^ Bradley Zint (October 7, 2016).
+"Costa Mesa firm tests first manned battery-powered chopper".
+Los Angeles Times.
+ Retrieved October 21, 2016.
+^ "Watch the World's First Manned Battery-Powered Helicopter Fly".
+Fortune.
+ October 31, 2016.
+ Retrieved November 4, 2016.
+^ "The first battery-powered manned helicopter: 20 minutes flight time with 1100 lbs battery pack".
+Electrek.
+ 5 October 2016.
+ Retrieved 6 October 2016.
+^ Video on YouTube ^ "Guinness World Record for the farthest distance traveled by electric helicopter".
+ April 28, 2020.
+ Retrieved April 28, 2020.
+^ a b "CityAirbus Backgrounder" (PDF).
+ Airbus. June 2017.
+^ Dominic Perry (20 Dec 2017).
+"Airbus Helicopters powers up CityAirbus 'iron bird' rig".
+Flightglobal.
+^ "CityAirbus demonstrator passes major propulsion testing milestone" (Press release). Airbus. 3 October 2017.
+^ Lorenz, R. D. Planetary Exploration with Ingenuity and Dragonfly: Rotary-Wing Flight on Mars and Titan. Library of Flight, AIAA, 2022.
+ISBN 978-1-62410-636-1 ^ "An electric aeroplane" (PDF).
+Flight international.
+ 1973. Archived from the original (PDF) on 15 June 2013.
+^ Taylor, John W R (1974).
+Jane's All the World's Aircraft 1974–75.
+ London: Jane's Yearbooks. p. 573.
+ISBN 0-354-00502-2.
+^ " Flight , 16 March 1985" (PDF).
+ Retrieved 20 August 2019.
+^ Bionic Bat – Stored energy human powered aircraft M. Cowley, AeroVironment, Inc., Simi Valley, CA; W. MORGAN, AeroVironment, Inc., Simi Valley, CA; P. MACCREADY, AeroVironment, Inc., Monrovia, CA Chapter DOI: 10.2514/6.1985-1447 Publication Date: 8 July 1985 – 11 July 1985 ^ a b Niles, Russ (April 2008).
+"Boeing Flies Fuel Cell Aircraft".
+ Retrieved 2008-05-13.
+^ David Robertson (2008-04-03).
+"Boeing tests first hydrogen powered plane".
+The Times.
+ London.
+^ Politecnico di Torino.
+"ENFICA-FC – ENvironmentally Friendly Inter City Aircraft powered by Fuel Cells".
+polito.it.
+ Retrieved 8 December 2015.
+^ Pew, Glenn (July 2011).
+"Taurus G4 Aims For 400 Passenger Miles Per Gallon".
+AVweb.
+ Retrieved 14 July 2011.
+^ Niles, Russ (August 2011).
+"Four-Place Electric Airplane Flies".
+AVweb.
+ Retrieved 15 August 2011.
+^ Grady, Mary (September 2011).
+"NASA Awards $1.35 Million For Efficient Flight".
+AVweb.
+ Retrieved 5 October 2011.
+^ Paur, Jason.
+"Chip Yates Sets 5 New Electric Plane World Records in 4 Weeks".
+WIRED.
+ Retrieved 2017-03-22.
+^ Davies, Alex.
+"This Record-Breaking Electric Plane Stomps a Gas-Powered Cessna".
+WIRED.
+ Retrieved 2017-03-22.
+^ "World-record electric motor for aircraft" (Press release). Siemens. 20 June 2017.
+^ Allard Beutel (2016-06-17).
+"NASA Electric Research Plane Gets X Number, New Name".
+NASA.
+^ Button, Keith (May 2016).
+"Flying on Electrons (p.26 of March 2016 issue)".
+Aerospace America.
+ American Institute of Aeronautics and Astronautics.
+^ Graham Warwick (Jul 19, 2017).
+"NASA Pushing Ahead With Electric X-plane".
+Aviation Week Network.
+^ a b c Graham Warwick (Oct 10, 2019).
+"Island-Hopping Flights Show Promise As Market For Electrified Aircraft".
+Aviation Week & Space Technology.
+^ Experimental Aircraft Association, Inc. (2008).
+"UFM/MAURO SOLAR RISER".
+ Retrieved 2008-06-27.
+^ AIAA/SAE/ASME 20th Joint Propulsion Conference (1984).
+"AIAA paper 84-1429" (PDF).
+ Archived from the original (PDF) on 2011-07-07.
+ Retrieved 2011-03-04.
+^ Solar Challenger (1980).
+"Solar Challenger" (PDF).
+ Archived from the original (PDF) on 2011-08-20.
+ Retrieved 2011-03-04.
+^ Flightglobal Archive (1979).
+"UK's first solar aircraft takes off".
+ Retrieved 2011-03-04.
+^ a b Noth, André (July 2008).
+"History of Solar Flight" (PDF).
+Autonomous Systems Lab.
+ Zürich: Swiss Federal Institute of Technology. p. 3. Archived from the original (PDF) on 2012-02-01.
+ Retrieved 8 July 2010.
+Günter Rochelt was the designer and builder of Solair I, a 16 m wingspan solar airplane ... 21st of August 1983 he flew in Solair I, mostly on solar energy and also thermals, during 5 hours 41 minutes.
+^ Khammas, Achmed A. W. (2007).
+"Elektro- und Solarflugzeuge (1960–1996)".
+Buch der Synergie (in German). Archived from the original on 26 July 2010.
+ Retrieved 8 July 2010.
+exakt 2.499 Solarzellen ausgestattet, die eine Leistung von 2,2 kW ^ Institut für Flugzeugbau (November 2009).
+"Icaré this year was in top form".
+ Archived from the original on 27 July 2011.
+ Retrieved 13 June 2011.
+^ Grady, Mary (June 2009).
+"Solar Impulse Unveiling Set For Friday".
+ Retrieved 2009-06-25.
+^ Pew, Glenn (June 2009).
+"Solar Impulse Is Revealed".
+ Retrieved 2009-06-29.
+^ "Solar plane completes maiden intercontinental trip".
+ Reuters. 5 June 2012.
+ Retrieved 6 June 2012.
+^ "Solar Impulse Completes World Record Flight from Spain to Morocco".
+CleanTechnica.
+ 6 June 2012.
+ Retrieved 7 June 2012.
+^ Batrawy, Aya (9 March 2015).
+"Solar-powered plane takes off for flight around the world".
+Associated Press.
+ Retrieved 14 March 2015.
+^ Amos, Jonathan.
+"Solar Impulse grounded until 2016" , BBC News, 15 July 2015 ^ "The Atlantic Crossing is completed!".
+Solar Impulse.
+ Retrieved 27 September 2017.
+^ Carrington, Damian (July 26, 2016).
+"Solar plane makes history after completing round-the-world trip".
+The Guardian.
+ Retrieved 22 May 2017.
+^ "AE-1 Silent".
+ Air Energy.
+^ AliSport (n.d.).
+"Silent Club: Electric Self-launch Sailplane".
+ Archived from the original on 2009-04-20.
+ Retrieved 2009-11-04.
+^ 06.09.2011: SWR.de The Research Aircraft Antares DLR H2 and Antares H3 Archived 2006-08-12 at the Wayback Machine ^ "Berblinger Wettbewerb 2013 Ulm".
+www.berblinger.ulm.de.
+ Retrieved 20 August 2019.
+^ "First Annoucement: [ sic ] Taurus ELECTRO".
+Pipistrel Aircraft.
+ 21 December 2007. Archived from the original on 15 December 2008.
+^ Grady, Mary (February 2011).
+"Pipistrel Launches Electric Motorglider".
+AvWeb.
+ Retrieved 17 February 2011.
+^ "Taurus Electro – Overview".
+Pipistrel Aircraft.
+ Archived from the original on 2 September 2011.
+^ "A journey through the history of electric aircraft – It is almost half a century since the first manned, electrically propelled flight".
+Arts.eu.
+ Retrieved 29 April 2020.
+^ Kate Sarsfield (10 June 2020).
+"Pipistrel Velis Electro earns first all-electric aircraft type certification".
+Flightglobal.
+^ "Diamond Aircraft announces future All-Electric Trainer and partnership with Electric Power Systems" (Press release). Diamond Aircraft. 12 October 2021.
+^ Alcock, Charles (October 13, 2021).
+"Diamond Unveils Plans for All-Electric eDA40 Training Aircraft".
+FutureFlight.
+^ "Maiden Flight of the Diamond Aircraft eDA40".
+www.diamondaircraft.com.
+ 2023-07-26.
+ Retrieved 2023-09-29.
+^ Deborah Lockhart (Oct 17, 2016).
+"It's Electric! NASA Glenn Engineers Test Next Revolution Aircraft".
+ NASA Glenn Research Center.
+^ a b Graham Warwick (Aug 25, 2017).
+"NASA Moves Electric-Propulsion Components Closer To Reality".
+Aviation Week & Space Technology.
+^ Victoria Moores (Sep 27, 2017).
+"EasyJet joins electric aircraft project".
+Aviation Week Network.
+^ Dominic Perry (27 September 2017).
+"EasyJet unveils short-haul electric aircraft ambition".
+Flightglobal.
+^ Monaghan, Angela (27 September 2017).
+"EasyJet says it could be flying electric planes within a decade".
+The Guardian.
+ Retrieved 28 September 2017.
+^ Sarah Young (29 October 2018).
+"EasyJet expects to be flying electric planes by 2030".
+Reuters.
+^ a b Graham Warwick (Mar 26, 2018).
+"The Week in Technology, March 26–30, 2018".
+Aviation Week & Space Technology.
+^ a b Michael Bruno (Jun 7, 2018).
+"MagniX Promises Electrically Powered Cessna Caravan By Summer 2019".
+Aviation Week & Space Technology.
+^ Alexa Rexroth (September 27, 2018).
+"MagniX Reaches Milestone on Path to Electric Propulsion".
+AIN online.
+^ a b c Graham Warwick (Sep 28, 2018).
+"MagniX Advances Electric Propulsion System Tests".
+Aviation Week & Space Technology.
+^ "The largest electric plane ever to fly".
+BBC.
+ 18 June 2020.
+^ Mark, Rob (22 December 2020).
+"An Electrically Powered Cessna Caravan Continues Progress".
+flying magazine.
+^ Jon Hemmerdinger (10 December 2019).
+"Harbour Air flies 'first' all-electric commercial aircraft, a DHC-2 Beaver".
+FlightGlobal.
+^ a b Dominic Perry (27 April 2022).
+"Harbour Air plans first flight of certifiable electric Beaver by end-2023".
+Flightglobal.
+^ a b c d Pilar Wolfsteller (24 September 2020).
+"Sweden's Heart Aerospace presents all-electric regional aircraft".
+Flightglobal.
+^ Charles Bremner (27 March 2021).
+"French electric airliner will take to the skies in five years".
+^ "Quarterly Shipments and Billings – GAMA".
+gama.aero.
+ Retrieved 2020-11-21..
+External links [ edit ] Aircraft with electric engines Hepperle, Martin.
+"Electric Flight – Potential and Limitations" (PDF).
+Institute of Aerodynamics and Flow Technology.
+v t e Alternative fuel vehicles Fuel cell Fuel cell vehicle Human power Electric bicycle Pedelec Solar power Solar vehicle Solar car List of prototypes Solar bus Electric aircraft Electric boat Compressed-air engine Compressed air car Compressed-air vehicle Tesla turbine Electric battery and motor Battery-electric locomotive Battery electric multiple unit Cater MetroTrolley Electric aircraft Electric bicycle Pedelec Electric boat Electric bus Battery electric bus Electric car List Electric truck Electric platform truck Electric vehicle Battery electric vehicle Electric motorcycles and scooters Electric kick scooter Fuel cell vehicle Gyro flywheel locomotive Hybrid electric vehicle Hybrid train Neighborhood Electric Vehicle Plug-in electric vehicle List Plug-in hybrid electric vehicle Solar vehicle Solar car Solar bus Biofuel ICE Alcohol fuel Biodiesel Biogas Butanol fuel Biogasoline Common ethanol fuel mixtures E85 Ethanol fuel Flexible-fuel vehicle Methanol economy Methanol fuel Wood gas Hydrogen Fuel cell vehicle Hydrogen economy Hydrogen vehicle Hydrogen internal combustion engine vehicle Others Autogas Hybrid electric vehicle Liquid nitrogen vehicle Natural gas vehicle Propane Multiple-fuel Bi-fuel vehicle Flexible-fuel vehicle Hybrid electric vehicle Hybrid train Hybrid vehicle Multifuel Plug-in hybrid Solar vehicle Solar car Solar bus Electric aircraft Electric boat Documentaries Who Killed the Electric Car? What Is the Electric Car? Revenge of the Electric Car See also Wind-powered vehicle Zero-emissions vehicle v t e Photovoltaics Concepts Technology Photovoltaics Photoelectric effect Solar irradiance Solar constant Solar cell efficiency Quantum efficiency Nominal power (Watt-peak) Thin-film solar cell Multi-junction solar cell Third-generation photovoltaic cell Solar cell research Thermophotovoltaic Thermodynamic efficiency limit Sun-free photovoltaics Polarizing organic photovoltaics Materials List of semiconductor materials Crystalline silicon (c-Si) Polycrystalline silicon (multi-Si) Monocrystalline silicon (mono-Si) Cadmium telluride Copper indium gallium selenide Amorphous silicon (a-Si) History Growth of photovoltaics Timeline of solar cells Photovoltaic system Solar cells Nanocrystal solar cell Organic solar cell Quantum dot solar cell Hybrid solar cell Plasmonic solar cell Carbon nanotubes in photovoltaics Dye-sensitized solar cell Cadmium telluride photovoltaics Copper indium gallium selenide solar cells Printed solar panel Perovskite solar cell Heterojunction solar cell System components Solar panel Balance of system Solar charge controller Solar inverter Solar micro-inverter Solar cable Photovoltaic mounting system Maximum power point tracker Solar tracker Solar shingles Solar mirror Synchronverter System concepts Perturb and observe method Incremental conductance method Constant voltage method Fill factor Concentrated photovoltaics Photovoltaic thermal hybrid solar collector Space-based solar power PV system performance Applications Appliances Solar-powered refrigerator Solar air conditioning Solar lamp Solar charger Solar backpack Solar tree Solar-powered pump Solar-powered watch Solar Tuki Photovoltaic keyboard Solar road stud Solar cell phone charger Solar-powered calculator Solar-powered fountain Solar-powered radio Solar-powered flashlight Solar-powered fan Solar street light Solar traffic light Land transport Solar vehicle Solar car Solar roadway Solar golf cart The Quiet Achiever Sunmobile Air transport Electric aircraft Mauro Solar Riser Solar panels on spacecraft Solar-Powered Aircraft Developments Solar One Gossamer Penguin Qinetiq Zephyr Solar Challenger Water transport Solar boat Solar vehicle racing Solar car racing List of solar car teams Solar challenges World Solar Challenge American Solar Challenge Formula Sun Grand Prix Solar Cup Frisian Solar Challenge Solar Splash South African Solar Challenge Tour de Sol Hunt-Winston School Solar Car Challenge Victorian Model Solar Vehicle Challenge Generation systems PV power station Grid-connected photovoltaic power system List of photovoltaic power stations Building-mounted Rooftop photovoltaic power station Building-integrated photovoltaics Solar Ark Strasskirchen Solar Park By country Australia Belgium Bulgaria Canada Chile China Czech Republic France Germany Greece India Italy Japan Netherlands Romania South Africa Spain Switzerland Thailand United Kingdom US PV companies By country List of countries by photovoltaics production Individual producers First Solar Hanwha Q CELLS JA Solar Motech Solar REC Sharp Solar Frontier Solyndra Sungen Solar Sunpower Suntech Trina Solar Yingli Solar Category Commons v t e Solar energy Outline Timeline Index Concepts The Sun Solar irradiance Solar power Thermal Passive solar building design Solar water heating Solar chimney Solar air conditioning Thermal mass Solar pond Photovoltaics and related topics Photovoltaic effect Solar cell Polymer solar cell Nanocrystal solar cell Photovoltaic module (solar panel) Photovoltaic array (and systems) Photovoltaic power station Floating solar Concentrated Heliostat Solar tracker Parabolic trough Solar power tower Experimental and proposed Solar updraft tower Solar-pumped laser Thermoelectric generator Solar chemical and artificial photosynthesis Space-based solar power Solar sail Magnetic sail Solar thermal rocket By country Albania Australia Austria Armenia Belgium Brazil Canada China Czech Denmark Georgia Germany Greece India Israel Italy Japan Kosovo Lithuania Mexico Morocco Myanmar Netherlands New Zealand Pakistan Portugal Romania Saudi Arabia Somalia South Africa Spain Thailand Turkey Ukraine United Kingdom United States Yemen Legal Solar Shade Control Act Distribution and uses Storage Thermal mass Thermal energy storage Phase change material Grid energy storage Adoption Feed-in tariff Net metering Financial incentives for photovoltaics Costs Applications Solar water heating Solar vehicle Electric aircraft Electric boat Solar balloon Applications Agriculture and horticulture Agrivoltaic Greenhouse Polytunnel Row cover Solar-powered pump Building Passive solar building design Building-integrated photovoltaics Urban heat island Lighting Hybrid solar lighting Solar lamp Solar Tuki Light tube Daylighting Process heat Solar pond Solar furnace Salt evaporation pond Cooking Solar cooker Disinfection Solar water disinfection Soil solarization Desalination Solar still Desalination Water heating Solar water heating Solar combisystem Zero carbon solar controller See also Photovoltaics topics Solar power by country Renewable energy sources Category Commons Portals : Renewable energy Energy Authority control databases : National United States Electric aircraft Energy conservation Hybrid electric vehicles Renewable energy technology Aviation and the environment CS1 errors: periodical ignored CS1: long volume value CS1 errors: missing periodical CS1 Dutch-language sources (nl) CS1 French-language sources (fr) CS1 maint: unfit URL CS1 German-language sources (de) Webarchive template wayback links Articles with short description Short description is different from Wikidata Wikipedia articles needing clarification from November 2021 All articles lacking reliable references Articles lacking reliable references from November 2021 Commons category link from Wikidata Articles with LCCN identifiers This page was last edited on 4 October 2023, at 23:02 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+ Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Code of Conduct Developers Statistics Cookie statement Mobile view Toggle limited content width

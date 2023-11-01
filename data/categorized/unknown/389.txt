@@ -1,7 +1,0 @@
-old id = 4196
-AI Can Now Model the Molecular Machines That Govern All Life
-unknown
-https://blubrry.com/singularityhub/84675488/ai-can-now-model-the-molecular-machines-that-govern-all-life
-
-Singularity Hub DailyAI Can Now Model the Molecular Machines That Govern All LifeThanks to deep learning, the central mysteries of structural biology are falling like dominos.
-Just last year, DeepMind shocked the biomedical field with AlphaFold, an algorithm that predicts protein

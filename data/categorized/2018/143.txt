@@ -1,22 +1,2821 @@
-old id = 2092
-Google claims to have reached quantum supremacy | Financial Times
+old id = 2329
+Elon Musk - Wikipedia
 2018
-https://www.ft.com/content/b9bb4e54-dbc1-11e9-8f9b-77216ebe1f17
+https://en.wikipedia.org/wiki/Elon_Musk
 
-Cookies on FT SitesWe usecookiesfor a number of reasons, such as keeping FT Sites reliable and secure, personalising content and ads, providing social media features and to analyse how our Sites are used.
-Your guide to a disrupted worldGoogle claims to have reached quantum supremacyMadhumita MurgiaandRichard WatersWe’ll send you amyFT Daily Digestemail rounding up the latest Quantum technologies news every morning.
-Google claims to have built the firstquantum computerthat can carry out calculations beyond the ability of today’s most powerful supercomputers, a landmark moment that has been hotly anticipated by researchers.
-A paper by Google’s researchers seen by the FT, that was briefly posted earlier this week on a Nasa website before being removed, claimed that their processor was able to perform a calculation in three minutes and 20 seconds that would take today’s most advanced classical computer, known as Summit, approximately 10,000 years.
-The researchers said this meant the “quantum supremacy”, when quantum computers carry out calculations that had previously been impossible, had been achieved.
-“This dramatic speed-up relative to all known classical algorithms provides an experimental realisation of quantum supremacy on a computational task and heralds the advent of a much-anticipated computing paradigm,” the authors wrote.
-“To our knowledge, this experiment marks the first computation that can only be performed on a quantum processor.”RecommendedThe system can only perform a single, highly technical calculation, according to the researchers, and the use of quantum machines to solve practical problems is still years away.
-But the Google researchers called it “a milestone towards full-scale quantum computing”. They also predicted that the power of quantum machines would expand at a “double exponential rate”, compared to the exponential rate of Moore’s Law, which has driven advances in silicon chips in the first era of computing.
-While prototypes of so-called quantum computers do exist, developed by companies ranging from IBM to start-ups such as Rigetti Computing, they can only perform the same tasks classical computers can, albeit quicker.
-Quantum computers, if they can be built at scale, will harness properties that extend beyond the limits of classical physics to offer exponential gains in computing power.
-A November 2018reportby the Boston Consulting Group said they could “change the game in such fields as cryptography and chemistry (and thus material science, agriculture and pharmaceuticals) not to mention artificial intelligence and machine learning . . . logistics, manufacturing, finance and energy”.
-Unlike the basic binary elements of classical computers, or bits, which represent either zeros or ones, quantum bits, or qubits, can represent both at the same time. By stringing together qubits, the number of states they could represent rises exponentially, making it possible to compute millions of possibilities instantly.
-Some researchers have warned against overhyping the quantum supremacy, arguing that it does not suggest that quantum machines will quickly overtake traditional computers and bring a revolution in computing.
-Led by John Martinis, an experimental physicist from the University of California, Santa Barbara, Google first predicted it would reach quantum supremacy by the end of 2017. But the system it built, linking together 72 qubits proved too difficult to control.
-It eventually revamped the system to create a 53-qubit design it codenamed Sycamore. The system was given the task of proving that a random-number generator was truly random. Though that job has little practical application, the Google researchers said that “other initial uses for this computational capability” included machine learning, materials science and chemistry.
-“It’s a significant milestone, and the first time that somebody has shown that quantum computers could outperform classical computers at all,” said Steve Brierley, founder of quantum software start-up Riverlane, who has worked in the field for 20 years and is an adviser on quantum technologies to the UK government. “It’s an amazing achievement.”Google declined to comment.
-Get alerts on Quantum technologies when a new story is publishedPromoted ContentFollow the topics in this articleUseful linksSupportLegal & PrivacyServicesToolsCommunity & EventsMore from the FT GroupInternational Edition
+Main menu Main page Contents Current events Random article About Wikipedia Contact us Donate Help Learn to edit Community portal Recent changes Upload file Search Create account Log in Personal tools Create account Log in learn more Contributions Talk Contents (Top) 1 Early life and education Toggle Early life and education subsection 1.1 Childhood and family 1.2 Education 2 Business career Toggle Business career subsection 2.1 Zip2 2.2 X.com and PayPal 2.3 SpaceX 2.3.1 Starlink 2.4 Tesla 2.4.1 SEC and shareholder lawsuits regarding tweets 2.4.2 SolarCity and Tesla Energy 2.5 Neuralink 2.6 The Boring Company 2.7 Twitter / X 2.8 Leadership style 3 Other activities Toggle Other activities subsection 3.1 Musk Foundation 3.2 Hyperloop 3.3 OpenAI and xAI 3.4 Tham Luang cave rescue and defamation case 3.5 2018 cannabis incident 3.6 Music 3.7 Private jet 4 Wealth Toggle Wealth subsection 4.1 Net worth 4.2 Sources of wealth 5 Personal views and Twitter (later X) usage Toggle Personal views and Twitter (later X) usage subsection 5.1 Existential threats 5.2 Politics 5.3 COVID-19 5.4 Finance 5.5 Technology 6 Personal life Toggle Personal life subsection 6.1 Relationships and children 6.2 Legal matters 7 Public perception 8 Notes and references Toggle Notes and references subsection 8.1 Notes 8.2 Citations 8.3 Works cited Toggle the table of contents Elon Musk 139 languages Afrikaans አማርኛ Ænglisc العربية Aragonés Արեւմտահայերէն অসমীয়া Asturianu अवधी Azərbaycanca تۆرکجه Basa Bali বাংলা Bân-lâm-gú Беларуская Беларуская (тарашкевіца) भोजपुरी Bikol Central Български Boarisch Bosanski Brezhoneg Català Чӑвашла Cebuano Čeština Cymraeg Dansk الدارجة Deitsch Deutsch Eesti Ελληνικά Español Esperanto Euskara فارسی Français Gaeilge Gaelg Galego ગુજરાતી 客家語/Hak-kâ-ngî 한국어 Hausa Հայերեն हिन्दी Hrvatski Ido Bahasa Indonesia Interlingua Interlingue IsiZulu Íslenska Italiano עברית Jawa ಕನ್ನಡ ქართული कॉशुर / کٲشُر Қазақша Kernowek Kiswahili Kurdî Кыргызча Ladin ລາວ Latina Latviešu Lëtzebuergesch Lietuvių Lombard Magyar मैथिली Македонски Malagasy മലയാളം मराठी მარგალური مصرى مازِرونی Bahasa Melayu ꯃꯤꯇꯩ ꯂꯣꯟ Монгол မြန်မာဘာသာ Nederlands Nedersaksies नेपाली 日本語 Nordfriisk Norsk bokmål Norsk nynorsk Occitan ଓଡ଼ିଆ Oʻzbekcha / ўзбекча ਪੰਜਾਬੀ پنجابی پښتو ភាសាខ្មែរ Polski Português Qaraqalpaqsha Română Runa Simi Русский Саха тыла Scots Shqip සිංහල Simple English سنڌي Slovenčina Slovenščina کوردی Српски / srpski Srpskohrvatski / српскохрватски Sunda Suomi Svenska Tagalog தமிழ் Татарча / tatarça ၽႃႇသႃႇတႆး తెలుగు ไทย Тоҷикӣ Türkçe Українська اردو ئۇيغۇرچە / Uyghurche Tiếng Việt Volapük Winaray 吴语 ייִדיש 粵語 Zazaki Žemaitėška 中文 Edit links Article Talk English Read View source View history Tools Read View source View history What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Wikidata item Download as PDF Printable version Wikimedia Commons Wikinews Wikiquote Elon Musk FRS Musk in 2022 Born Elon Reeve Musk ( 1971-06-28 ) June 28, 1971 (age 52) Pretoria , Transvaal, South Africa Citizenship.
+mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0} South Africa Canada United States Education University of Pennsylvania ( BA , BS ) Title Founder, CEO, and chief engineer of SpaceX CEO and product architect of Tesla, Inc.
+Owner and CTO of Twitter President of the Musk Foundation Founder of The Boring Company , X Corp.
+, and xAI Co-founder of Neuralink , OpenAI , Zip2 , and X.com (part of PayPal ) Spouses.
+mw-parser-output .marriage-line-margin2px{line-height:0;margin-bottom:-2px}.mw-parser-output .marriage-line-margin3px{line-height:0;margin-bottom:-3px}.mw-parser-output .marriage-display-ws{display:inline;white-space:nowrap} Justine Wilson ​ ​ ( m.
+2000; div.
+2008) ​ Talulah Riley ​ ​ ( m.
+2010; div.
+2012) ​ ​ ​ ( m.
+2013; div.
+2016) ​ Partners Amber Heard (2015–2017) [1] Grimes (2018–2021) [2] Children 11 [a] [4] Parents Errol Musk Maye Musk Relatives Kimbal Musk (brother) Tosca Musk (sister) Lyndon Rive (cousin) Family Musk family Signature This article is part of a series about Elon Musk Awards and honors Views Filmography Companies Zip2 X.com PayPal SpaceX Starlink Tesla, Inc.
+Energy criticism litigation OpenAI Neuralink The Boring Company Thud X Corp.
+Twitter acquisition tenure as CEO xAI In popular culture Elon Musk (Isaacson) Elon Musk (Vance) Ludicrous Power Play " Members Only " " The Platonic Permutation " " The Musk Who Fell to Earth " " One Crew over the Crewcoo's Morty " Elon Musk's Crash Course Related Boring Test Tunnel Hyperloop Musk family Musk vs. Zuckerberg SolarCity Tesla Roadster in space TSLAQ Twitter Files 2022 Twitter suspensions.
+mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em} v t e Elon Reeve Musk ( / ˈ iː l ɒ n / EE -lon ; born June 28, 1971) is a business magnate and investor.
+ Musk is the founder, chairman, CEO and chief technology officer of SpaceX ; angel investor , CEO, product architect and former chairman of Tesla, Inc.
+; owner, chairman and CTO of X Corp.
+; founder of the Boring Company ; co-founder of Neuralink and OpenAI ; and president of the Musk Foundation. He is the wealthiest person in the world, with an estimated net worth of US$207 billion as of October 2023 [update] , according to the Bloomberg Billionaires Index , and $231 billion according to Forbes , primarily from his ownership stakes in Tesla and SpaceX.
+[5] [6] Musk was born in Pretoria , South Africa, and briefly attended the University of Pretoria before immigrating to Canada at age 18, acquiring citizenship through his Canadian-born mother. Two years later, he matriculated at Queen's University in Kingston, Ontario. Musk later transferred to the University of Pennsylvania , and received bachelor's degrees in economics and physics there. He moved to California in 1995 to attend Stanford University.
+ However, Musk dropped out after two days and, with his brother Kimbal , co-founded online city guide software company Zip2.
+ The startup was acquired by Compaq for $307 million in 1999, and with $12 million of the money he made, that same year Musk co-founded X.com , a direct bank.
+ X.com merged with Confinity in 2000 to form PayPal.
+In 2002, eBay acquired PayPal for $1.5 billion, and that same year, with $100 million of the money he made, Musk founded SpaceX, a spaceflight services company. In 2004, he became an early investor in electric vehicle manufacturer Tesla Motors, Inc. (now Tesla, Inc.). He became its chairman and product architect, assuming the position of CEO in 2008. In 2006, Musk helped create SolarCity , a solar-energy company that was acquired by Tesla in 2016 and became Tesla Energy.
+ In 2013, he proposed a hyperloop high-speed vactrain transportation system. In 2015, he co-founded OpenAI, a nonprofit artificial intelligence research company. The following year, Musk co-founded Neuralink—a neurotechnology company developing brain–computer interfaces —and the Boring Company, a tunnel construction company. In 2022, he acquired Twitter for $44 billion. He subsequently merged the company into newly created X Corp. and rebranded the service as X the following year. In March 2023, he founded xAI , an artificial-intelligence company.
+Musk has expressed views that have made him a polarizing figure. He has been criticized for making unscientific and misleading statements, including spreading COVID-19 misinformation and promoting conspiracy theories.
+[7] [8] [9] His Twitter ownership has been similarly controversial, including laying off a large number of employees, an increase in hate speech on the platform, and changes to Twitter Blue verification.
+ In 2018, the U.S. Securities and Exchange Commission (SEC) sued him for falsely tweeting that he had secured funding for a private takeover of Tesla. To settle the case, Musk stepped down as the chairman of Tesla and paid a $20 million fine.
+Early life and education Childhood and family Elon Reeve Musk was born on June 28, 1971, in Pretoria , South Africa's administrative capital.
+[10] [11] He has British and Pennsylvania Dutch ancestry.
+[12] [13] His mother, Maye Musk ( née Haldeman ), is a model and dietitian born in Saskatchewan , Canada, and raised in South Africa.
+[14] [15] [16] His father, Errol Musk , is a South African electromechanical engineer, pilot, sailor, consultant, and property developer, who partly owned a Zambian emerald mine near Lake Tanganyika , as well as a rental lodge at the Timbavati Private Nature Reserve.
+[17] [18] [19] [20] Musk has a younger brother, Kimbal , and a younger sister, Tosca.
+[16] [21] Musk's family was wealthy during his youth.
+[20] His father was elected to the Pretoria City Council as a representative of the anti-apartheid Progressive Party and has said that his children shared their father's dislike of apartheid.
+[10] His maternal grandfather and namesake, Joshua Elon Haldeman, was an American-born Canadian who took his family on record-breaking journeys to Africa and Australia in a single-engine Bellanca airplane.
+[22] [23] [24] [25] Haldeman was a member of the Social Credit Party of Canada , possessed antisemitic beliefs, and supported the Technocracy movement.
+[26] After his parents divorced in 1980, Musk chose to live primarily with his father.
+[12] [17] Musk later regretted his decision and became estranged from his father.
+[27] He has a paternal half-sister and a half-brother.
+[22] [28] Musk was often bullied. In one incident, after calling a boy whose father had committed suicide "stupid", Musk was severely beaten and thrown down concrete steps.
+[29] At age ten, he developed an interest in computing and video games, teaching himself how to program from the VIC-20 user manual.
+[30] At age twelve, he sold his BASIC -based game Blastar to PC and Office Technology magazine for approximately $500.
+[31] [32] Education Musk attended Waterkloof House Preparatory School , Bryanston High School , and Pretoria Boys High School , from where he graduated.
+[33] Musk was a good but not exceptional student, earning a 61 in Afrikaans and a B on his senior math certification.
+[34] Musk applied for a Canadian passport through his Canadian-born mother, [35] [36] knowing that it would be easier to immigrate to the United States this way.
+[37] While waiting for his application to be processed, he attended the University of Pretoria for five months.
+[38] Musk arrived in Canada in June 1989 and lived with a second cousin in Saskatchewan for a year, [39] working odd jobs at a farm and lumber mill.
+[40] In 1990, he entered Queen's University in Kingston, Ontario.
+[41] [42] Two years later, he transferred to the University of Pennsylvania (UPenn), where he completed studies for a Bachelor of Arts degree in physics and a Bachelor of Science degree in economics from the Wharton School.
+[43] [44] [45] [46] Although Musk claims he earned the degrees in 1995, UPenn maintains it awarded them in 1997.
+[47] He reportedly hosted large, ticketed house parties to help pay for tuition, and wrote a business plan for an electronic book-scanning service similar to Google Books.
+[48] In 1994, Musk held two internships in Silicon Valley : one at energy storage startup Pinnacle Research Institute, which investigated electrolytic ultracapacitors for energy storage, and another at Palo Alto –based startup Rocket Science Games.
+[49] [50] In 1995, he was accepted to a PhD program in materials science at Stanford University.
+[51] [52] However, Musk decided to join the Internet boom , dropping out two days after being accepted and applied for a job at Netscape , to which he reportedly never received a response.
+[53] [35] Business career Zip2 External video Musk speaks of his early business experience during a 2014 commencement speech at USC on YouTube In 1995, Musk, his brother Kimbal, and Greg Kouri founded Zip2.
+[54] [55] Errol Musk provided them with $28,000 in funding.
+[56] The company developed an Internet city guide with maps, directions, and yellow pages , and marketed it to newspapers.
+[57] They worked at a small rented office in Palo Alto , [58] with Musk coding the website every night.
+[58] Eventually, Zip2 obtained contracts with The New York Times and the Chicago Tribune.
+[48] The brothers persuaded the board of directors to abandon a merger with CitySearch ; [59] however, Musk's attempts to become CEO were thwarted.
+[60] Compaq acquired Zip2 for $307 million in cash in February 1999, [61] [62] and Musk received $22 million for his 7-percent share.
+[63] X.com and PayPal Later in 1999, Musk co-founded X.com , an online financial services and e-mail payment company with $12 million of the money he made from the Compaq acquisition.
+[64] X.com was one of the first federally insured online banks, and over 200,000 customers joined in its initial months of operation.
+[65] Even though Musk founded the company, investors regarded him as inexperienced and replaced him with Intuit CEO Bill Harris by the end of the year.
+[66] In 2000, X.com merged with online bank Confinity to avoid competition, [58] [66] [67] as the latter's money-transfer service PayPal was more popular than X.com's service.
+[68] Musk then returned as CEO of the merged company. His preference for Microsoft over Unix -based software caused a rift among the company's employees, and eventually led Confinity co-founder Peter Thiel to resign.
+[69] With the company suffering from compounding technological issues and the lack of a cohesive business model, the board ousted Musk and replaced him with Thiel in September 2000.
+[70] [b] Under Thiel, the company focused on the money-transfer service and was renamed PayPal in 2001.
+[72] [73] In 2002, PayPal was acquired by eBay for $1.5 billion in stock, of which Musk—PayPal's largest shareholder with 11.72% of shares—received $175.8 million.
+[74] [75] In 2017, more than 15 years later, Musk purchased the X.com domain from PayPal for its "sentimental value".
+[76] [77] In 2022, Musk discussed a goal of creating "X, the everything app".
+[78] SpaceX In early 2001, Musk became involved with the nonprofit Mars Society and discussed funding plans to place a growth-chamber for plants on Mars.
+[79] In October of the same year, he traveled to Moscow with Jim Cantrell and Adeo Ressi to buy refurbished intercontinental ballistic missiles (ICBMs) that could send the greenhouse payloads into space. He met with the companies NPO Lavochkin and Kosmotras ; however, Musk was seen as a novice [80] and the group returned to the United States empty-handed. In February 2002, the group returned to Russia with Mike Griffin (president of In-Q-Tel ) to look for three ICBMs. They had another meeting with Kosmotras and were offered one rocket for $8 million, which Musk rejected. He instead decided to start a company that could build affordable rockets.
+[80] With $100 million of his own money, [81] Musk founded SpaceX in May 2002 and became the company's CEO and Chief Engineer.
+[82] [83] SpaceX attempted its first launch of the Falcon 1 rocket in 2006.
+[84] Though the rocket failed to reach Earth orbit , it was awarded a Commercial Orbital Transportation Services program contract from NASA Administrator (and former SpaceX consultant [85] ) Mike Griffin later that year.
+[86] [87] After two more failed attempts that nearly caused Musk and his companies to go bankrupt, [84] SpaceX succeeded in launching the Falcon 1 into orbit in 2008.
+[88] Later that year, SpaceX received a $1.6 billion Commercial Resupply Services contract from NASA for 12 flights of its Falcon 9 rocket and Dragon spacecraft to the International Space Station , replacing the Space Shuttle after its 2011 retirement.
+[89] In 2012, the Dragon vehicle docked with the ISS , a first for a commercial spacecraft.
+[90] Working towards its goal of reusable rockets , in 2015 SpaceX successfully landed the first stage of a Falcon 9 on an inland platform.
+[91] Later landings were achieved on autonomous spaceport drone ships , an ocean-based recovery platform.
+[92] In 2018, SpaceX launched the Falcon Heavy ; the inaugural mission carried Musk's personal Tesla Roadster as a dummy payload.
+[93] [94] Since 2019, [95] SpaceX has been developing Starship , a fully-reusable , super-heavy-lift launch vehicle intended to replace the Falcon 9 and the Falcon Heavy.
+[96] In 2020, SpaceX launched its first crewed flight, the Demo-2 , becoming the first private company to place astronauts into orbit and dock a crewed spacecraft with the ISS.
+[97] Starlink In 2015, SpaceX began development of the Starlink constellation of low-Earth-orbit satellites to provide satellite Internet access , [98] with the first two prototype satellites launched in February 2018. A second set of test satellites, and the first large deployment of a piece of the constellation, occurred in May 2019, when the first 60 operational satellites were launched.
+[99] The total cost of the decade-long project to design, build, and deploy the constellation is estimated by SpaceX to be about $10 billion.
+[100] [c] Some critics, including the International Astronomical Union , have alleged that Starlink blocks the view of the sky and poses a collision threat to spacecraft.
+[103] [104] [105] During the Russian invasion of Ukraine , Musk sent Starlink terminals to Ukraine to provide Internet access and communication.
+[106] However, Musk refused to block Russian state media on Starlink, declaring himself "a free speech absolutist".
+[107] [108] In October 2022, Musk stated that about 20,000 satellite terminals had been donated to Ukraine, together with free data transfer subscriptions, which cost SpaceX $80 million. After asking the United States Department of Defense to pay for further units and future subscriptions on behalf of Ukraine, [109] Musk publicly stated that SpaceX would continue to provide Starlink to Ukraine for free, at a yearly cost to itself of $400 million.
+[110] [111] [112] Tesla Tesla, Inc.
+, originally Tesla Motors, was incorporated in July 2003 by Martin Eberhard and Marc Tarpenning , who financed the company until the Series A round of funding. Both men played active roles in the company's early development prior to Musk's involvement.
+[113] Musk led the Series A round of investment in February 2004; he invested $6.5 million, became the majority shareholder, and joined Tesla's board of directors as chairman.
+[114] Musk took an active role within the company and oversaw Roadster product design but was not deeply involved in day-to-day business operations.
+[115] Following a series of escalating conflicts in 2007, and the financial crisis of 2007–2008 , Eberhard was ousted from the firm.
+[116] [ page needed ] [117] Musk assumed leadership of the company as CEO and product architect in 2008.
+[118] A 2009 lawsuit settlement with Eberhard designated Musk as a Tesla co-founder, along with Tarpenning and two others.
+[119] [120] As of 2019, Musk was the longest-tenured CEO of any automotive manufacturer globally.
+[121] In 2021, Musk nominally changed his title to "Technoking" while retaining his position as CEO.
+[122] Tesla began delivery of an electric sports car, the Roadster, in 2008. With sales of about 2,500 vehicles, it was the first serial production all-electric car to use lithium-ion battery cells.
+[123] Tesla began delivery of its four-door Model S sedan in 2012.
+[124] A cross-over, the Model X was launched in 2015.
+[125] A mass-market sedan, the Model 3 , was released in 2017.
+[126] The Model 3 is the all-time bestselling plug-in electric car worldwide, and in June 2021 it became the first electric car to sell 1 million units globally.
+[127] [128] A fifth vehicle, the Model Y crossover, was launched in 2020.
+[129] The Cybertruck , an all-electric pickup truck, was unveiled in 2019.
+[130] Under Musk, Tesla has also constructed multiple lithium-ion battery and electric vehicle factories, named Gigafactories.
+[131] Since its initial public offering in 2010, [132] Tesla stock has risen significantly; it became the most valuable carmaker in summer 2020, [133] [134] and it entered the S&P 500 later that year.
+[135] [136] In October 2021, it reached a market capitalization of $1 trillion, the sixth company in U.S. history to do so.
+[137] In November 2021, Musk proposed, on Twitter , to sell 10% of his Tesla stock, since "much is made lately of unrealized gains being a means of tax avoidance".
+[138] After more than 3.5 million Twitter accounts supported the sale, Musk sold $6.9 billion of Tesla stock within a week, [138] and a total of $16.4 billion by year end, reaching the 10% target.
+[139] In February 2022, The Wall Street Journal reported that both Elon and Kimbal Musk were under investigation by the SEC for possible insider trading related to the sale.
+[140] In 2022, Musk unveiled a robot developed by Tesla, Optimus.
+[141] On June 20, 2023, Musk met with Indian Prime Minister Narendra Modi in New York City , suggesting that he might be interested in investing in India "as soon as humanly possible".
+[142] SEC and shareholder lawsuits regarding tweets In 2018, Musk was sued by the SEC for a tweet claiming that funding had been secured for potentially taking Tesla private.
+[143] [d] The lawsuit characterized the tweet as false, misleading, and damaging to investors, and sought to bar Musk from serving as CEO of publicly traded companies.
+[143] [147] [148] Two days later, Musk settled with the SEC, without admitting or denying the SEC's allegations. As a result, Musk and Tesla were fined $20 million each, and Musk was forced to step down for three years as Tesla chairman but was able to remain as CEO.
+[149] Musk has stated in interviews that he does not regret posting the tweet that triggered the SEC investigation.
+[150] [151] In April 2022, the shareholder who sued Musk over the tweet, along with several Tesla shareholders, said that a federal judge had ruled that the tweet was false, although the ruling in question has not been unsealed.
+[152] In February 2023, the jury found Musk and Tesla not liable.
+[153] In 2019, Musk stated in a tweet that Tesla would build half a million cars that year.
+[154] The SEC reacted to Musk's tweet by filing in court, asking the court to hold him in contempt for violating the terms of a settlement agreement with such a tweet; the accusation was disputed by Musk. This was eventually settled by a joint agreement between Musk and the SEC clarifying the previous agreement details.
+[155] The agreement included a list of topics that Musk would need preclearance before tweeting about.
+[156] In 2020, a judge prevented a lawsuit from proceeding that claimed a tweet by Musk regarding Tesla stock price ("too high imo ") violated the agreement.
+[157] [158] FOIA -released records showed that the SEC itself concluded Musk has subsequently violated the agreement twice by tweeting regarding "Tesla's solar roof production volumes and its stock price".
+[159] SolarCity and Tesla Energy Musk provided the initial concept and financial capital for SolarCity , which his cousins Lyndon and Peter Rive founded in 2006.
+[160] By 2013, SolarCity was the second largest provider of solar power systems in the United States.
+[161] In 2014, Musk promoted the idea of SolarCity building an advanced production facility in Buffalo , New York , triple the size of the largest solar plant in the United States.
+[162] Construction of the factory started in 2014 and was completed in 2017. It operated as a joint venture with Panasonic until early 2020.
+[163] [164] Tesla acquired SolarCity for over $2 billion in 2016 and merged it with its battery unit to create Tesla Energy.
+ The deal's announcement resulted in a more than 10% drop in Tesla's stock price. At the time, SolarCity was facing liquidity issues.
+[165] Multiple shareholder groups filed a lawsuit against Musk and Tesla's directors, claiming that the purchase of SolarCity was done solely to benefit Musk and came at the expense of Tesla and its shareholders.
+[166] [167] Tesla directors settled the lawsuit in January 2020, leaving Musk the sole remaining defendant.
+[168] [169] Two years later, the court ruled in Musk's favor.
+[170] Neuralink In 2016, Musk co-founded Neuralink , a neurotechnology startup company, with an investment of $100 million.
+[171] [172] Neuralink aims to integrate the human brain with artificial intelligence (AI) by creating devices that are embedded in the brain to facilitate its merging with machines. Such technology could enhance memory or allow the devices to communicate with software.
+[172] [173] The company also hopes to develop devices with which to treat neurological conditions such as Alzheimer's disease , dementia , and spinal cord injuries.
+[174] In 2019, Musk announced work on a device akin to a sewing machine that could embed threads into a human brain.
+[171] He is listed as the sole author of an October 2019 paper that details some of Neuralink's research, [175] although Musk's being listed as such rankled the Neuralink team's researchers.
+[176] At a 2020 live demonstration, Musk described one of their early devices as "a Fitbit in your skull" that could soon cure paralysis, deafness, blindness, and other disabilities. Many neuroscientists and publications criticized these claims, [177] [178] [179] with MIT Technology Review describing them as "highly speculative" and "neuroscience theater".
+[177] During the demonstration, Musk revealed a pig with a Neuralink implant that tracked neural activity related to smell.
+[174] In 2022, Neuralink announced that clinical trials would begin by the end of the year.
+[180] Neuralink has conducted further animal testing on macaque monkeys at the University of California, Davis ' Primate Research Center.
+ In 2021, the company released a video in which a Macaque played the video game Pong via a Neuralink implant. The company's animal trials—which have caused the deaths of some monkeys—have led to claims of animal cruelty.
+ The Physicians Committee for Responsible Medicine has alleged that Neuralink's animal trials have violated the Animal Welfare Act.
+[181] Employees have complained that pressure from Musk to accelerate development has led to botched experiments and unnecessary animal deaths. In 2022, a federal probe was launched into possible animal welfare violations by Neuralink.
+[182] In September 2023, the company was approved to intitiate human trials; the company will conduct a six-year study.
+[183] The Boring Company In 2017, Musk founded the Boring Company to construct tunnels, and revealed plans for specialized, underground, high-occupancy vehicles that could travel up to 150 miles per hour (240 km/h) and thus circumvent above-ground traffic in major cities.
+[184] [185] Early in 2017, the company began discussions with regulatory bodies and initiated construction of a 30-foot (9.1 m) wide, 50-foot (15 m) long, and 15-foot (4.6 m) deep "test trench" on the premises of SpaceX's offices, as that required no permits.
+[186] The Los Angeles tunnel , less than two miles (3.2 km) in length, debuted to journalists in 2018. It used Tesla Model Xs and was reported to be a rough ride while traveling at suboptimal speeds.
+[187] Two tunnel projects announced in 2018, in Chicago and West Los Angeles, have been canceled.
+[188] [189] However, a tunnel beneath the Las Vegas Convention Center was completed in early 2021.
+[190] Local officials have approved further expansions of the tunnel system.
+[191] In 2021, tunnel construction was approved for Fort Lauderdale , Florida.
+[192] Twitter / X Elon Musk Twitter @elonmusk I made an offer https://sec.gov/Archives/edgar...
+April 14, 2022 [193] Musk expressed interest in buying Twitter as early as 2017, [194] and had questioned the platform's commitment to freedom of speech.
+[195] [196] Additionally, his ex-wife Talulah Riley had urged him to buy Twitter to stop the "woke-ism".
+[197] In January 2022, Musk started purchasing Twitter shares, reaching a 9.2% stake by April, [198] making him the largest shareholder.
+[199] [e] When this was publicly disclosed, Twitter shares experienced the largest intraday price surge since the company's 2013 IPO.
+[201] On April 4, Musk agreed to a deal that would appoint him to Twitter's board of directors and prohibit him from acquiring more than 14.9% of the company.
+[202] [203] However, on April 13, Musk made a $43 billion offer to buy Twitter, launching a takeover bid to buy 100% of Twitter's stock at $54.20 per share.
+[199] [204] In response, Twitter's board adopted a "poison pill" shareholder rights plan to make it more expensive for any single investor to own more than 15% of the company without board approval.
+[205] Nevertheless, by the end of the month Musk had successfully concluded his bid for approximately $44 billion.
+[206] This included about $12.5 billion in loans against his Tesla stock and $21 billion in equity financing.
+[207] [208] Tesla's stock market value sank by over $100 billion the next day in reaction to the deal.
+[209] [210] He subsequently tweeted criticism of Twitter executive Vijaya Gadde 's policies to his 86 million followers, which led to some of them engaging in sexist and racist harassment against her.
+[211] Exactly a month after announcing the takeover, Musk stated that the deal was "on hold" following a report that 5% of Twitter's daily active users were spam accounts.
+[212] Although he initially affirmed his commitment to the acquisition, [213] he sent notification of his termination of the deal in July; Twitter's Board of Directors responded that they were committed to holding him to the transaction.
+[214] On July 12, 2022, Twitter formally sued Musk in the Chancery Court of Delaware for breaching a legally binding agreement to purchase Twitter.
+[215] In October 2022, Musk reversed again, offering to purchase Twitter at $54.20 per share.
+[216] The acquisition was officially completed on October 27.
+[217] Immediately after the acquisition, Musk fired several top Twitter executives including CEO Parag Agrawal ; [217] [218] Musk became the CEO instead.
+[219] He instituted a $7.99 monthly subscription for a " blue check ", [220] [221] [222] and laid off a significant portion of the company's staff.
+[223] [224] Musk lessened content moderation, including reinstating accounts like the Bee , [225] [226] and in December, Musk released internal documents relating to Twitter's moderation of Hunter Biden's laptop controversy in the leadup to the 2020 presidential election.
+[227] The Southern Poverty Law Center noted that Twitter has verified numerous extremists; [228] hate speech also increased on the platform after his takeover.
+[229] [230] In late 2022, Musk promised to step down as CEO after a Twitter poll posted by Musk found that majority of user wanted him to do so.
+[231] [232] Five months later, Musk stepped down from CEO and placed former NBCUniversal executive Linda Yaccarino in the position and transitioned his role to executive chairman and chief technology officer.
+[233] Leadership style Musk is often described as a micromanager and has called himself a "nano-manager".
+[234] The New York Times has characterized his approach as absolutist.
+[235] Musk does not make formal business plans ; [235] instead, he says he prefers to approach engineering problems [ non sequitur ] with an " iterative design methodology" and "tolerance for failures".
+[236] He has forced employees to adopt the company's own jargon and launched ambitious, risky, and costly projects against his advisors' recommendations, such as removing front-facing radar from Tesla Autopilot.
+ His insistence on vertical integration causes his companies to move most production in-house. While this resulted in saved costs for SpaceX's rocket, [237] vertical integration has caused many usability problems for Tesla's software.
+[234] Musk's handling of employees—whom he communicates with directly through mass emails—has been characterized as " carrot and stick ", rewarding those "who offer constructive criticism" while also being known to impulsively threaten, swear at, and fire his employees.
+[238] [239] [240] Musk said he expects his employees to work for long hours, sometimes for 80 hours per week.
+[241] He has his new employees sign strict non-disclosure agreements and often fires in sprees, [242] [243] such as during the Model 3 "production hell" in 2018.
+[243] In 2022, Musk revealed plans to fire 10 percent of Tesla's workforce, due to his concerns about the economy.
+[244] That same month, he suspended remote work at SpaceX and Tesla and threatened to fire employees who do not work 40 hours per week in the office.
+[245] Musk's leadership has been praised by some, who credit it with the success of Tesla and his other endeavors, [234] and criticized by others, who see him as callous and his managerial decisions as "show[ing] a lack of human understanding." [240] [246] The 2021 book Power Play contains anecdotes of Musk berating employees.
+[247] The Wall Street Journal reported that, after Musk insisted on branding his vehicles as "self-driving", he faced criticism from his engineers for putting customer "lives at risk", with some employees resigning in consequence.
+[248] Other activities Musk Foundation Musk is president of the Musk Foundation he founded in 2001, [249] [250] whose stated purpose is to: provide solar-power energy systems in disaster areas; support research, development, and advocacy (for interests including human space exploration, pediatrics , renewable energy and "safe artificial intelligence"); and support science and engineering educational efforts.
+[251] As of 2020, the foundation has made 350 donations. Around half of them were made to scientific research or education nonprofits. Notable beneficiaries include the Wikimedia Foundation , his alma mater the University of Pennsylvania, and his brother Kimbal's non-profit Big Green.
+[252] From 2002 to 2018, the foundation gave $25 million directly to non-profit organizations, nearly half of which went to Musk's OpenAI, [253] which was a non-profit at the time.
+[254] In 2012, Musk took the Giving Pledge , thereby committing to give the majority of his wealth to charitable causes either during his lifetime or in his will.
+[255] He has endowed prizes at the X Prize Foundation , including $100 million to reward improved carbon capture technology.
+[256] Vox said "the Musk Foundation is almost entertaining in its simplicity and yet is strikingly opaque", noting that its website was only 33 words in plain-text.
+[253] The foundation has been criticized for the relatively small amount of wealth donated.
+[257] In 2020, Forbes gave Musk a philanthropy score of 1, because he had given away less than 1% of his net worth.
+[252] In November 2021, Musk donated $5.7 billion of Tesla's shares to charity, according to regulatory filings.
+[258] However, Bloomberg News noted that all of it went to his own foundation, bringing Musk Foundation's assets up to $9.4 billion at the end of 2021. The foundation disbursed $160 million to non-profits that year.
+[259] Hyperloop In 2013, Musk announced plans for a version of a vactrain —a vacuum tube train—and assigned a dozen engineers from SpaceX and Tesla to establish the conceptual foundations and create initial designs.
+[260] Later that year, Musk unveiled the concept, which he dubbed the hyperloop.
+[261] The alpha design for the system was published in a whitepaper posted to the Tesla and SpaceX blogs.
+[262] The document scoped out the technology and outlined a notional route where such a transport system could be built between the Greater Los Angeles Area and the San Francisco Bay Area , at an estimated cost of $6 billion.
+[263] The proposal, if technologically feasible at the costs cited, would make Hyperloop travel cheaper than any other mode of transport for such long distances.
+[264] In 2015, Musk announced a design competition for students and others to build Hyperloop pods, to operate on a SpaceX-sponsored mile-long track, for a 2015–2017 Hyperloop pod competition. The track was used in January 2017, and Musk also announced that the company had started a tunnel project, with Hawthorne Municipal Airport as its destination.
+[265] In July 2017, Musk claimed that he had received "verbal government approval" to build a hyperloop from New York City to Washington, D.C., with stops in both Philadelphia and Baltimore.
+[266] Mention of the projected DC-to-Baltimore leg was removed from the Boring Company website in 2021.
+[267] The tunnel project to Hawthorne was discontinued in 2022 and is cited to be converted into parking spots for SpaceX workers.
+[268] Biographer Ashlee Vance has noted that Musk hoped Hyperloop would "make the public and legislators rethink the high-speed train" proposal current in California at the time and consider more "creative" ideas.
+[269] OpenAI and xAI In 2015, Musk co-founded OpenAI, a not-for-profit artificial intelligence (AI) research company aiming to develop artificial general intelligence intended to be safe and beneficial to humanity.
+[270] A particular focus of the company is to democratize artificial superintelligence systems, against governments and corporations.
+[27] Musk pledged $1 billion of funding to OpenAI.
+[271] In 2023, Musk tweeted that he had ended up giving a total of $100 million to OpenAI.
+TechCrunch later reported that, according to its own investigation of public records, "only $15 million" of OpenAI's funding could be definitively traced to Musk. Musk subsequently stated that he had donated about $50 million.
+[272] In 2018, Musk left the OpenAI board to avoid possible future conflicts with his role as CEO of Tesla as the latter company increasingly became involved in AI through Tesla Autopilot.
+[273] Since then, OpenAI has made significant advances in machine learning, producing neural networks such as GPT-3 (producing human-like text), [274] and DALL-E (generating digital images from natural language descriptions).
+[275] On July 12, 2023, Elon Musk launched an artificial intelligence company called xAI , which aims to develop a generative AI program that competes with existing offerings like ChatGPT.
+ The company has reportedly hired engineers from Google and OpenAI.
+[276] The company, which is incorporated in Nevada, purchased 10,000 graphics processing units. Musk was reportedly obtaining funding from investors in SpaceX and Tesla.
+[277] Tham Luang cave rescue and defamation case In July 2018, Musk arranged for his employees to build a mini-submarine to assist the rescue of children trapped in a flooded cavern in Thailand.
+[278] Richard Stanton , leader of the international rescue diving team, urged Musk to facilitate the construction of the vehicle as a back-up, in case flooding worsened.
+[279] Engineers at SpaceX and the Boring Company built the mini-submarine from a Falcon 9 liquid oxygen transfer tube in eight hours and personally delivered it to Thailand.
+[280] [281] By this time, however, eight of the 12 children, had already been rescued, the rescuers employing full face masks, oxygen, and anesthesia; consequently, Thai authorities declined to use the submarine.
+[278] In March 2019, Musk was later one of the 187 people who received various honors conferred by the King of Thailand for involvement in the rescue effort.
+[282] Soon after the rescue, Vernon Unsworth, a British recreational caver who had been exploring the cave for the previous six years and played a key advisory role in the operation, criticized the submarine on CNN as amounting to nothing more than a public relations effort with no chance of success, maintaining that Musk "had no conception of what the cave passage was like" and "can stick his submarine where it hurts". Musk asserted on Twitter that the device would have worked and referred to Unsworth as a "pedo guy".
+[283] He deleted the tweets, [283] and apologized, [284] and he deleted his responses to critical tweets from Cher Scarlett , a software engineer, which had caused his followers to harass her.
+[285] In an email to BuzzFeed News , Musk later called Unsworth a "child rapist" and said that he had married a child.
+[286] [287] In September, Unsworth filed a defamation suit in the District Court for the Central District of California.
+[288] [289] In his defense, Musk argued that " 'pedo guy' was a common insult used in South Africa when I was growing up ... synonymous with 'creepy old man' and is used to insult a person's appearance and demeanor".
+[33] The defamation case began in December 2019, with Unsworth seeking $190 million in damages.
+[290] During the trial Musk apologized to Unsworth again for the tweet. On December 6, the jury found in favor of Musk and ruled he was not liable.
+[291] [292] 2018 cannabis incident In 2018, Musk was interviewed on an episode of The Joe Rogan Experience podcast, during which he sampled a cigar laced with cannabis.
+ In 2022, Musk said that he and other Space-X employees had subsequently been required to undergo random drug tests for about a year following the incident, as required by the Drug-Free Workplace Act of 1988 for Federal contractors.
+[293] In a 2019 60 Minutes interview, Musk had said, "I do not smoke pot. As anybody who watched that podcast could tell, I have no idea how to smoke pot." [294] Music In 2019, Musk, through Emo G Records, released a rap track, "RIP Harambe", on SoundCloud.
+ The track, which refers to the killing of Harambe the gorilla and the subsequent Internet sensationalism surrounding the event, was performed by Yung Jake , written by Yung Jake and Caroline Polachek , and produced by BloodPop.
+[295] [296] The following year, Musk released an EDM track, "Don't Doubt Ur Vibe", featuring his own lyrics and vocals.
+[297] While Guardian critic Alexi Petridis described it as "indistinguishable... from umpteen competent but unthrilling bits of bedroom electronica posted elsewhere on SoundCloud", [298] TechCrunch said it was "not a bad representation of the genre".
+[297] Private jet In 2003, Musk said his favorite plane he owned was an L-39 Albatros.
+[299] He uses a private jet owned by Falcon Landing LLC, a SpaceX-linked company, and acquired a second jet in August 2020.
+[300] [301] His heavy use of the jet—it flew over 150,000 miles in 2018—and the consequent fossil fuel usage has received criticism.
+[300] [302] His flight usage is tracked on social media through ElonJet. The Twitter version of the account was blocked in December 2022, after Musk claimed that his son X AE A-XII had been harassed by a stalker after the account posted the airport at which his jet had landed.
+[303] [304] [305] This led to Musk banning the ElonJet account on Twitter, as well as the accounts of journalists that posted stories regarding the incident, including Donie O'Sullivan , Keith Olbermann , and journalists from The New York Times , The Washington Post , CNN , and The Intercept.
+[306] Musk equated the reporting to doxxing.
+[307] The police do not believe there is a link between the account and alleged stalker.
+[308] Musk later took a Twitter poll on whether the journalists' accounts should be reinstated, which resulted in reinstating the accounts.
+[309] Wealth Net worth Musk made $175.8 million when PayPal was sold to eBay in 2002.
+[310] He was first listed on the Forbes Billionaires List in 2012, with a net worth of $2 billion.
+[311] At the start of 2020, Musk had a net worth of $27 billion.
+[312] By the end of the year his net worth had increased by $150 billion, mostly driven by his ownership of around 20% of Tesla stock.
+[313] During this period, Musk's net worth was often volatile. For example, it dropped $16.3 billion on September 8, the largest single-day plunge in Bloomberg Billionaires Index ' s history at the time.
+[314] In November of that year, Musk passed Facebook co-founder Mark Zuckerberg to become the third-richest person in the world; a week later he passed Microsoft co-founder Bill Gates to become the second-richest.
+[315] In January 2021, Musk, with a net worth of $185 billion, surpassed Amazon founder Jeff Bezos to become the richest person in the world.
+[316] Bezos reclaimed the top spot the following month.
+[317] On September 27, 2021, after Tesla stock surged, Forbes announced that Musk had a net worth of over $200 billion, and was the richest person in the world.
+[318] In November 2021, Musk became the first person to have a net worth of more than $300 billion.
+[319] On December 30, 2022, it was reported that Musk had lost $200 billion from his net worth due to declining stock values in Tesla, becoming the first person in history to lose such a large sum of money.
+[320] [321] In January 2023, Musk was recognized by Guinness World Records for experiencing the "largest loss of personal fortune in history" with regards to his financial losses since November 2021, which Guinness quoted a Forbes estimate of $182 billion.
+[322] Musk's personal wealth is managed by his family office called Excession LLC, formed in 2016 and run by Jared Birchall.
+[323] [250] Sources of wealth Around 75% of Musk's wealth was derived from Tesla stock in November 2020, [315] a proportion that fell to about 37% as of December 2022, [f] after selling nearly $40 billion in company shares since late 2021.
+[324] Musk does not receive a salary from Tesla; he agreed with the board in 2018 to a compensation plan that ties his personal earnings to Tesla's valuation and revenue.
+[313] The deal stipulated that Musk only received the compensation if Tesla reached certain market values.
+[325] It was the largest such deal ever done between a CEO and a company board.
+[326] In the first award, given in May 2020, he was eligible to purchase 1.69 million Tesla shares (about 1% of the company) at below-market prices, which was worth about $800 million.
+[326] [325] Musk paid $455 million in taxes on $1.52 billion of income between 2014 and 2018.
+[327] According to ProPublica , Musk paid no federal income taxes in 2018.
+[328] He claimed his 2021 tax bill was estimated at $12 billion based on his sale of $14 billion worth of Tesla stock.
+[327] Musk has repeatedly described himself as " cash poor ", [329] [330] and has "professed to have little interest in the material trappings of wealth".
+[329] In May 2020, he pledged to sell almost all physical possessions.
+[330] Musk has defended his wealth by saying he is accumulating resources for humanity's outward expansion to space.
+[331] Personal views and Twitter (later X) usage Since joining Twitter (now known as X) in 2009, [332] Musk has been an active user and has over 100 million followers as of June 2022 [update].
+[333] He posts memes , promotes business interests, and comments on contemporary political and cultural issues.
+[334] Musk's statements have provoked controversy, such as for mocking preferred gender pronouns , [335] [336] and comparing Canadian prime minister Justin Trudeau to Adolf Hitler.
+[337] The New York Times describes his contributions to international relations as "chaotic", and critics of Musk argue that there is a lack of separation between his opinions and his business interests.
+[338] As CEO of Twitter, Musk emerged as a source of misinformation and right-wing conspiracy theories, for example by suggesting online details about mass murderer Mauricio Garcia 's apparent interest in Nazism could have been planted as part of a psyop.
+[339] Allegations of him being transphobic appeared as well in response to actions taken by Twitter under his guidance.
+[340] [341] The Israel government and several media outlets accused Musk of antisemitism due to him spreading George Soros conspiracy theories , [342] although some Israeli officials defended Musk.
+[343] Existential threats Musk has been described as believing in longtermism , emphasizing the needs of future populations.
+[344] Accordingly, Musk has stated that artificial intelligence poses the greatest existential threat to humanity.
+[345] [346] He has warned of a " Terminator -like" AI apocalypse and suggested that the government should regulate its safe development.
+[347] [348] In 2015, Musk was a cosignatory, along with Stephen Hawking and hundreds of others, of the Open Letter on Artificial Intelligence , which called for the ban of autonomous weapons.
+[349] Musk's AI stances have been called alarmist and sensationalist by critics such as computer scientist Yann LeCun and Meta CEO Mark Zuckerberg , [350] [351] and led the think tank Information Technology and Innovation Foundation to award Musk its Annual Luddite Award in 2016.
+[352] Musk has described climate change as the greatest threat to humanity after AI, [353] and has advocated for a carbon tax.
+[354] Musk was a critic of President Donald Trump 's stance on climate change, [355] [356] and resigned from two presidential business advisory councils following Trump's 2017 decision to withdraw the United States from the Paris Agreement.
+[357] Musk has long promoted the colonization of Mars and argues that humanity should become a " multiplanetary species ".
+[358] He has suggested the use of nuclear weapons to terraform Mars.
+[359] [360] He envisioned establishing a direct democracy on Mars, with a system in which more votes would be required to create laws than remove them.
+[361] Musk has also voiced concerns about human population decline , [362] [363] saying that "Mars has zero human population. We need a lot of people to become a multiplanet civilization." [364] Speaking at The Wall Street Journal ' s CEO Council session in 2021, Musk stated that a declining birth rate , and consequent population decline, is one of the biggest risks to human civilization.
+[365] Politics While often described as libertarian , Musk has called himself "politically moderate" and was a registered independent voter when he lived in California.
+The New York Times wrote that Musk "expresses views that don't fit neatly into [the American] binary, left-right political framework ".
+[366] Historically, Musk has donated to both Democrats and Republicans , [367] many of whom are in states in which he has a vested interest.
+[366] Beginning in the late 2010s, Musk's political contributions have shifted almost entirely to supporting Republicans.
+[368] Musk voted for Hillary Clinton in the 2016 U.S. presidential election.
+[369] In the 2020 Democratic Party presidential primaries , Musk endorsed candidate Andrew Yang and expressed support for his proposed universal basic income.
+[370] He also endorsed Kanye West 's 2020 presidential campaign.
+[371] He said he voted for Joe Biden in the 2020 U.S. presidential election.
+[372] In 2022, Musk said that he could "no longer support" the Democrats because they are the "party of division & hate", [373] [374] and wrote a tweet encouraging "independent-minded voters" to vote Republican in the 2022 U.S. elections , which was an outlier among social media executives who typically avoid partisan political advocacy.
+[375] [376] He has supported Republican Ron DeSantis for the 2024 U.S. presidential election , and Twitter hosted DeSantis's campaign announcement on a Twitter Spaces event.
+[377] [378] [379] In August 2023, Musk hosted Vivek Ramaswamy on Twitter Spaces, and shared his support.
+[380] As of May 2023, Musk was declining to endorse any specific candidate.
+[378] Musk opposes a " billionaire's tax ", [381] and has argued on Twitter with more left-leaning Democratic politicians such as Bernie Sanders , [382] [383] Alexandria Ocasio-Cortez , [384] and Elizabeth Warren.
+[385] He has raised questions about the Black Lives Matter protests, partially based on the fact that the phrase " Hands up, don't shoot " was made up.
+[386] [387] Musk also promoted a baseless theory relating to the attack of Speaker Nancy Pelosi's husband , but Musk deleted his tweet.
+[388] In May 2022, Musk traveled to Brazil to discuss projects to protect the Amazon rainforest with Brazilian President Jair Bolsonaro.
+[389] [390] Musk has praised China and has been described as having a close relationship with the Chinese government, allowing access to its markets for Tesla.
+[391] After Gigafactory Shanghai produced its first batch of vehicles, Musk thanked the Chinese government and Chinese people while criticizing the United States and its people.
+[392] : 207–208 In 2022, Musk wrote an article for China Cyberspace , the official publication of Cyberspace Administration of China , which enforces Internet censorship in China.
+ His writing the article was described as conflicting with his advocacy for free speech.
+[393] [394] Musk later advocated for Taiwan to become a " special administrative zone " of China which drew cross-party criticism from Taiwanese lawmakers.
+[395] [396] [397] In October 2022, Musk posted a Twitter poll and "peace plan" to resolve the Russian invasion of Ukraine.
+[398] [399] It was reported that Musk allegedly spoke with Russian President Vladimir Putin prior to the proposal, which Musk denied.
+[400] [401] [402] Musk has repeatedly expressed concern that a protracted war between Russia and Ukraine could lead to the use of nuclear weapons and the outbreak of World War III.
+[403] [404] [405] In October 2023, Musk said that "We are sleepwalking our way into World War III with one foolish decision after the other." [406] COVID-19 Musk was criticized for his public comments and conduct related to the COVID-19 pandemic.
+[407] [408] He spread misinformation about the virus , including promoting a widely discredited paper on the benefits of chloroquine and claiming that COVID-19 death statistics were inflated.
+[409] In March 2020, Musk stated, "The coronavirus panic is dumb." [410] [411] In an email to Tesla employees, Musk referred to COVID-19 as a "specific form of the common cold " and predicted that confirmed COVID-19 cases would not exceed 0.1% of the U.S. population.
+[407] On March 19, 2020, Musk predicted that there would be "probably close to zero new cases in [the U.S.] by end of April".
+[408] Politico labeled this statement one of "the most audacious, confident, and spectacularly incorrect prognostications [of 2020]".
+[412] Musk also claimed falsely that children "are essentially immune" to COVID-19.
+[413] [414] Musk condemned COVID-19 lockdowns and initially refused to close the Tesla Fremont Factory in March 2020, defying the local shelter-in-place order.
+[407] [415] [416] In May 2020, he reopened the Tesla factory, defying the local stay-at-home order , [417] [418] and warned workers that they would be unpaid, and their unemployment benefits might be jeopardized, if they did not report to work.
+[418] In December 2022, Musk called for prosecution of former National Institute of Allergy and Infectious Diseases director Anthony Fauci.
+[419] [420] In March 2020, Musk promised that Tesla would make ventilators for COVID-19 patients if there were a shortage.
+[421] After figures like New York City mayor Bill de Blasio responded to Musk's offer, [422] Musk offered to donate ventilators which Tesla would build or buy from a third party.
+[421] However, Musk ended up buying and donating BiPAP and CPAP machines , which are devices that support respirations of someone able to breathe on their own, rather than the much more expensive and sought-after mechanical ventilator machines that are able to breathe for a patient entirely.
+[423] [424] In September 2020, Musk stated that he would not get the COVID-19 vaccine , because he and his children were "not at risk for COVID".
+[425] [426] Two months later, Musk contracted COVID-19 but suggested his COVID-19 rapid antigen test results were dubious, as he had been tested four times on the same device with the same nurse but had received equal numbers of positive and negative results.
+[427] Following this, a postdoctoral fellow at the Princess Margaret Cancer Centre in Toronto explained in a Tweet why this result does not undermine the value of the test, referring to Musk as "Space Karen ," which then trended on Twitter.
+[427] [428] In December 2021, Musk revealed that he and his eligible children had received the vaccine, saying that the science behind the COVID vaccines was "unequivocal" but expressing his opposition to COVID vaccine mandates.
+[429] Finance Musk said that the U.S. government should not provide subsidies to companies, but impose a carbon tax to discourage poor behavior.
+[430] [431] The free market , in his view, would achieve the best solution, and producing environmentally unfriendly vehicles should have consequences.
+[432] Tesla has received billions of dollars in subsidies.
+[433] In addition, Tesla made large sums from government-initiated systems of zero-emissions credits offered in California and at the United States federal level , which facilitated initial consumer adoption of Tesla vehicles, as the tax credits given by governments enabled Tesla's battery electric vehicles to be price-competitive, in comparison with existing lower-priced internal combustion engine vehicles.
+[434] Notably, Tesla generates some of its revenue from its sales of carbon credits granted to the company, by both the European Union Emissions Trading System and the Chinese national carbon trading scheme.
+[435] [436] [437] [438] Musk, a longtime opponent of short-selling , has repeatedly criticized the practice and argued it should be illegal.
+[439] [440] Wired magazine speculated that Musk's opposition to short-selling stems from how short sellers have an incentive to find and promote unfavorable information about his companies.
+[441] In early 2021, he encouraged the GameStop short squeeze.
+[442] [443] In December 2022, Musk sold $3.6 billion of his stock in Tesla, equal to 22 million shares in the company, [444] despite pledging earlier in the year that he would not sell any additional shares.
+[445] Technology Musk has promoted cryptocurrencies and supports them over traditional government-issued fiat currencies.
+[446] Given the influence of Musk's tweets in moving cryptocurrency markets, [447] his statements about cryptocurrencies have been viewed as market manipulation by some, such as economist Nouriel Roubini.
+[448] Musk's social media praising of Bitcoin and Dogecoin was credited for increasing their prices. Consequently, Tesla's 2021 announcement, against the backdrop of Musk's social media behavior, that it bought $1.5 billion worth of Bitcoin, raised questions.
+[449] Tesla's announcement that it would accept Bitcoin for payment was criticized by environmentalists and investors, due to the environmental impact of cryptocurrency mining.
+ A few months later, in response to the criticism, Musk announced on Twitter that Tesla would no longer accept payments in Bitcoin and would not engage in any Bitcoin transactions until the environmental issues are solved.
+[450] [451] Despite the Boring Company's involvement in building mass transit infrastructure, Musk has criticized public transport and promoted individualized transport (private vehicles).
+[452] [453] [454] His comments have been called "elitist" and have sparked widespread criticism from both transportation and urban planning experts, who have pointed out that public transportation in dense urban areas is more economical, more energy efficient, and requires much less space than private cars.
+[453] [455] [454] Personal life From the early 2000s until late 2020, Musk resided in California, where both Tesla and SpaceX were founded.
+[456] He then relocated to Texas, saying that California had become "complacent" about its economic success.
+[456] [457] While hosting Saturday Night Live in 2021, Musk stated that he has Asperger syndrome , although he has never been medically diagnosed.
+[458] [459] Musk trained in Brazilian jiu-jitsu while preparing for the proposed fight between himself and Mark Zuckerberg.
+[460] Relationships and children Musk has 10 surviving children.
+[461] He met his first wife, Canadian author Justine Wilson , while attending Queen's University in Ontario, Canada; they married in 2000.
+[462] In 2002, their first child died of sudden infant death syndrome at the age of 10 weeks.
+[463] After his death, the couple used IVF to continue their family; [464] they had twins in 2004 followed by triplets in 2006.
+[464] The couple divorced in 2008 and shared custody.
+[465] [466] In 2022, one of the twins (his eldest) officially changed her name to reflect her gender identity as a trans woman and to use Wilson as her last name because she no longer wished to be associated with Musk.
+[467] Musk blamed the estrangement of his daughter on what the Financial Times characterized as "the supposed takeover of elite schools and universities by neo-Marxists.
+" [468] In 2008, Musk began dating English actress Talulah Riley.
+[469] They married two years later at Dornoch Cathedral in Scotland.
+[470] [471] In 2012, the couple divorced, before remarrying the following year.
+[472] After briefly filing for divorce in 2014, [472] Musk finalized a second divorce from Riley in 2016.
+[473] Musk then dated Amber Heard for several months in 2017; [474] he had reportedly been pursuing her since 2012.
+[475] In 2018, Musk and Canadian musician Grimes revealed that they were dating.
+[476] Grimes gave birth to their son in May 2020.
+[477] [478] According to Musk and Grimes, his name was "X Æ A-12" ( / ɛ k s æ ʃ eɪ ˈ t w ɛ l v / ); however, the name would have violated California regulations as it contained characters that are not in the modern English alphabet, [479] [480] and was then changed to "X Æ A-Xii".
+ This drew more confusion, as Æ is not a letter in the modern English alphabet.
+[481] The child was eventually named X AE A-XII Musk, with "X" as a first name, "AE A-XII" as a middle name , and "Musk" as surname.
+[482] In December 2021, Grimes and Musk had a second child, a daughter named Exa Dark Sideræl Musk (nicknamed "Y"), born via surrogacy.
+[2] Despite the pregnancy, Musk confirmed reports that the couple were "semi-separated" in September 2021; in an interview with Time in December 2021, he said he was single.
+[483] [484] In March 2022, Grimes said of her relationship with Musk: "I would probably refer to him as my boyfriend, but we're very fluid." [2] Later that month, Grimes tweeted that she and Musk had broken up again.
+[485] In September 2023 it was revealed that the pair had a third child, a son named Techno Mechanicus "Tau" Musk.
+[4] In July 2022, Insider published court documents revealing that Musk had had twins with Shivon Zilis , director of operations and special projects at Neuralink, in November 2021.
+[486] They were born weeks before Musk and Grimes had their second child via surrogate in December. The news "raise[d] questions about workplace ethics", given that Zilis directly reported to Musk.
+[487] Also in July 2022, The Wall Street Journal reported that Musk allegedly had an affair with Nicole Shanahan, the wife of Google co-founder Sergey Brin , in 2021, leading to their divorce the following year.
+[488] Musk denied the report.
+[489] Musk has also had a relationship with actress Natasha Bassett , who has been described as “an occasional girlfriend.” [490] Legal matters In May 2022, Business Insider cited an anonymous friend of an unnamed SpaceX contract flight attendant, alleging that Musk engaged in sexual misconduct in 2016. The source stated that in November 2018, Musk, SpaceX, and the former flight attendant entered into a severance agreement granting the attendant a $250,000 payment in exchange for a promise not to sue over the claims.
+[491] Musk responded, "If I were inclined to engage in sexual harassment, this is unlikely to be the first time in my entire 30-year career that it comes to light". He accused the article from Business Insider of being a "politically motivated hit piece".
+[492] [493] After the release of the Business Insider article, Tesla's stock fell by more than 6%, [494] decreasing Musk's net worth by $10 billion.
+[495] Barron ' s wrote "...some investors considered key-man risk – the danger that a company could be badly hurt by the loss of one individual." [496] In April 2023, the government of the U.S. Virgin Islands sought to subpoena Musk for documents in a lawsuit alleging that JPMorgan Chase profited from Jeffrey Epstein 's sex trafficking operation.
+[497] In May, a judge granted the U.S. Virgin Islands' request to serve Musk electronically through Tesla after the U.S. territory had difficulty locating him.
+[497] The efforts to subpoena Musk for documents do not implicate him in any wrongdoing and do not seek to have Musk testify under oath.
+[497] Musk's former girlfriend Grimes filed a parental relationship petition in late September 2023 as part of a custody dispute. The petition came a month after Grimes openly accused him in a social media post of blocking her access to the youngest of their three children.
+[498] [499] Ben Brody, a 22-year-old Los Angeles -based college graduate, initiated a lawsuit in October 2023 against Musk for over $1 million. He alleged Musk had falsely identified him as a participant "in a violent street brawl on behalf of a neo-Nazi extremist group" near Portland, Oregon.
+[500] [501] [502] According to Brody's complaint, one of Musk's X posts promoted conspiracy theories that "Ben Brody's alleged participation in the extremist brawl meant the incident was probably a 'false flag' operation to deceive the American public".
+[500] The complaint also alleged that Musk's accusations led to Brody and his family being subjected to harassment and threats.
+[500] [501] In October 2023, the U.S. Securities and Exchange Commission (SEC) sued Musk, alleging that he was refusing to testify in an investigation into whether he violated federal law by purchasing Twitter stock in 2022.
+[503] [504] [505] According to the lawsuit, Musk testified twice in 2022 but refused to testify a third time in 2023, claiming the SEC was harassing him.
+[503] [505] Public perception Though his ventures were influential within their own industries in the 2000s, Musk only became a public figure in the early 2010s. He has been described as an eccentric who makes spontaneous and controversial statements, contrary to other billionaires who prefer reclusiveness to protect their businesses. Vance described people's opinions of Musk as polarized due to his "part philosopher, part troll " role on Twitter.
+[506] Musk was partly inspiration for the characterization of Tony Stark in the Marvel film Iron Man (2008).
+[507] Musk also had a cameo appearance in the film's 2010 sequel, Iron Man 2.
+[508] Musk has made cameos and appearances in other films such as Machete Kills (2013), [509] Why Him? (2016), [510] and Men in Black: International (2019).
+[511] Television series in which he has appeared include The Simpsons (" The Musk Who Fell to Earth ", 2015), [512] The Big Bang Theory (" The Platonic Permutation ", 2015), [513] South Park (" Members Only ", 2016), [514] [515] Young Sheldon (" A Patch, a Modem, and a Zantac® ", 2017), [516] Rick and Morty (" One Crew over the Crewcoo's Morty ", 2019), [517] [518] and Saturday Night Live (2021).
+[519] He contributed interviews to the documentaries Racing Extinction (2015) and the Werner Herzog -directed Lo and Behold (2016).
+[520] [521] Musk was elected a Fellow of the Royal Society (FRS) in 2018.
+[522] In 2015, he received an honorary doctorate in engineering and technology from Yale University [523] and IEEE Honorary Membership.
+[524] Awards for his contributions to the development of the Falcon rockets include the American Institute of Aeronautics and Astronautics George Low Transportation Award in 2008, [525] the Fédération Aéronautique Internationale Gold Space Medal in 2010, [526] and the Royal Aeronautical Society Gold Medal in 2012.
+[527] Time has listed Musk as one of the most influential people in the world on four occasions in 2010, [528] 2013, [529] 2018, [530] and 2021.
+[531] Musk was selected as Time ' s " Person of the Year " for 2021.
+Time editor-in-chief Edward Felsenthal wrote that "Person of the Year is a marker of influence, and few individuals have had more influence than Musk on life on Earth, and potentially life off Earth too".
+[532] [533] In February 2022, Musk was elected to the National Academy of Engineering.
+[534] Notes and references Notes ^ One child is deceased.
+[3] ^ Musk remained on the board and served as an advisor.
+[71] [72] ^ SpaceX received nearly $900 million in Federal Communications Commission subsidies for Starlink.
+[101] [102] ^ Musk stated he was considering taking Tesla private at a price of $420 a share, an alleged reference to marijuana.
+[144] Members of Tesla's board and rapper Azealia Banks alleged that Musk may have been under the influence of recreational drugs when he wrote the tweet.
+[145] [146] ^ He did not file the necessary SEC paperwork within 10 days of his stake passing 5%, a violation of U.S. securities laws.
+[200] ^ According to the Wall Street Journal , he was worth $140 billion, with $52 billion of that attributable to his ownership of Tesla stock.
+Citations ^.
+mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit} "Elon Musk Reflects on "Brutal" Relationship With Amber Heard in New Biography".
+E! Online.
+ September 13, 2023.
+^ a b c Gordon, Devin (March 10, 2022).
+" "Infamy Is Kind Of Fun": Grimes on Music, Mars, and—Surprise!—Her Secret New Baby With Elon Musk".
+Vanity Fair.
+Archived from the original on May 21, 2022.
+ Retrieved March 10, 2022.
+^ Berger (2021) , pp. 182.
+^ a b Szalai, Jennifer (September 9, 2023).
+"Elon Musk Wants to Save Humanity. The Only Problem: People".
+The New York Times.
+Archived from the original on September 9, 2023.
+ Retrieved September 19, 2023.
+The musician Grimes, the mother of three of Musk's children (the existence of the third, Techno Mechanicus, nicknamed Tau, has been kept private until now), calls his roiling anger 'demon mode' — a mind-set that 'causes a lot of chaos.' ^ "Bloomberg Billionaires Index".
+Bloomberg L.P.
+^ "Real Time Billionaires".
+Forbes.
+^ Ghaffary, Shirin (May 20, 2023).
+"Elon Musk won't stop tweeting his way into trouble".
+Vox.
+ Retrieved October 28, 2023.
+^ Shephard, Alex (March 21, 2023).
+"What Is Elon Musk Building?" – via The New Republic.
+^ Bond, Shannon (October 31, 2022).
+"Elon Musk said Twitter wouldn't become a 'hellscape.' It's already changing".
+NPR.
+^ a b Eligon, John; Chutel, Lynsey (May 5, 2022).
+"Elon Musk Left a South Africa That Was Rife With Misinformation and White Privilege".
+The New York Times.
+Archived from the original on November 11, 2022.
+ Retrieved May 5, 2022.
+^ Vance (2017) , pp. 25, 31.
+^ a b Hall, Dana (April 11, 2014).
+"Rocket Man: The otherworldly ambitions of Elon Musk".
+The Mercury News.
+Archived from the original on April 14, 2014.
+ Retrieved April 14, 2014.
+^ Elliott, Hannah (March 26, 2012).
+"At Home With Elon Musk: The (Soon-to-Be) Bachelor Billionaire".
+Forbes.
+Archived from the original on May 27, 2012.
+ Retrieved May 30, 2015.
+^ His biography author Ashlee Vance interviewed on the TV show Triangulation on the TWiT.tv network, discussion of his family starts around the 15th minute ^ Vargas, Chanel (March 6, 2018).
+"11 Things to Know About Stunning 69-Year-Old Model Maye Musk".
+Town & Country.
+Archived from the original on March 7, 2018.
+ Retrieved March 25, 2020.
+^ a b Usborne, Simon (February 21, 2018).
+"Meet the Musks: who's who in Elon's extended family?".
+The Guardian.
+ISSN 0261-3077.
+Archived from the original on May 27, 2020.
+ Retrieved March 25, 2020.
+^ a b Isaacson (2023) , p. 23.
+^ May, Dana Hull and Patrick.
+"Exploring the otherworldly ambitions of Elon Musk".
+The Buffalo News.
+Archived from the original on September 26, 2022.
+ Retrieved October 24, 2021.
+^ Friend, Tad (August 17, 2009).
+"Plugged In".
+The New Yorker.
+Archived from the original on March 8, 2022.
+^ a b Smith, Adam (June 28, 2021).
+"50 years of Elon Musk's huge wealth, from emeralds to SpaceX and Tesla".
+The Independent.
+Archived from the original on November 25, 2021.
+ Retrieved December 20, 2021.
+^ Lieberman, Hallie.
+"The Musk of Romance".
+Wired.
+Archived from the original on September 2, 2020.
+ Retrieved September 2, 2020.
+^ a b Hull, Dana; May, Patrick (April 10, 2014).
+"2014: Rocket Man: The otherworldly ambitions of Elon Musk".
+The Mercury News.
+Archived from the original on September 6, 2016.
+ Retrieved April 7, 2021.
+^ Keating, Joseph C. Jr. (September 1995). "Joshua N Haldeman, DC: the Canadian Years, 1926–1950".
+The Journal of the Canadian Chiropractic Association.
+PMC 2485067.
+^ Vance (2017) , pp. 26–30.
+^ Isaacson (2023) , p. 16.
+^ Isaacson (2023) , p. 10.
+^ a b Strauss, Neil (November 15, 2017).
+"Elon Musk: The Architect of Tomorrow".
+Rolling Stone.
+ Archived from the original on August 17, 2020.
+ Retrieved November 15, 2017.
+^ Crilly, Rob (March 25, 2018).
+"Elon Musk's father has baby with step-daughter he has known since she was four".
+The Daily Telegraph.
+Archived from the original on April 26, 2021.
+^ Isaacson (2023) , pp. 2—3.
+^ Vance (2017) , p. 38.
+^ O'Kane, Sean (June 9, 2015).
+"Play the PC game Elon Musk wrote as a pre-teen".
+The Verge.
+Archived from the original on February 7, 2018.
+ Retrieved January 12, 2019.
+^ Belfiore (2007) , pp. 166–95.
+^ a b Mak, Aaron (December 4, 2019).
+"Elon Musk Says 'Pedo Guy' Was a Common Insult in His Youth. We Checked With His Schoolmates".
+Slate.
+ Archived from the original on October 6, 2020.
+ Retrieved December 7, 2019.
+^ Isaacson (2023) , p. 26.
+^ a b Clifford, Catherine (June 12, 2018).
+"Multi-billionaire Elon Musk: 'I arrived in North America at 17 with $2,000' ".
+ CNBC. Archived from the original on August 2, 2020.
+ Retrieved September 14, 2020.
+^ Vance (2017) , p. 44.
+^ Junod, Tom (November 15, 2012).
+"Elon Musk: Triumph of His Will".
+Esquire.
+ Archived from the original on August 18, 2020.
+ Retrieved May 29, 2020.
+^ Vance (2017) , pp. 43–44.
+^ Vance (2017) , p. 45.
+^ Vance (2017) , p. 46.
+^ Vance (2017) , pp. 46–47.
+^ Locke, Taylor (December 20, 2019).
+"Elon Musk's college pal: This is what 'differentiates Elon from the rest of humanity' ".
+ CNBC.
+Archived from the original on December 14, 2020.
+ Retrieved January 8, 2021.
+^ "Encyclopedia Britannica Elon Musk".
+Archived from the original on September 4, 2015.
+ Retrieved January 11, 2023.
+^ Vance (2017) , Appendix 1 ^ Meisenzahl, Elizabeth.
+"SpaceX, founded by Penn graduate Elon Musk, launches U.S. astronauts into space".
+The Daily Pennsylvanian.
+ Archived from the original on August 7, 2020.
+ Retrieved June 1, 2020.
+^ McCray, Patrick W. (June 11, 2012).
+"A pioneer in space and on Earth".
+CNN.
+Archived from the original on November 28, 2022.
+ Retrieved November 19, 2022.
+^ Kasprak, Alex (December 21, 2022).
+"Does Elon Musk Have an Undergraduate Degree in Physics?".
+Snopes.
+Archived from the original on December 23, 2022.
+ Retrieved December 23, 2022.
+^ a b Hern, Alex (February 9, 2018).
+"Elon Musk: the real-life Iron Man".
+The Guardian.
+Archived from the original on June 11, 2022.
+ Retrieved November 3, 2022.
+^ "How internships helped Elon Musk figure out his future".
+ CNBC. July 16, 2018. Archived from the original on December 28, 2019.
+ Retrieved December 28, 2019.
+^ Soni, Jimmi (February 22, 2022).
+"The little-known story about Elon Musk's first post-grad internship".
+Fortune.
+Archived from the original on March 7, 2022.
+^ Vance (2017) , p. 368.
+^ Feeley, Jef (August 31, 2022).
+"Stanford Pulled Into Dropout Musk's Legal Fight With Twitter".
+Bloomberg.
+Archived from the original on September 3, 2022.
+ Retrieved November 19, 2022.
+^ Maidment, Paul (March 15, 2016).
+"7 college dropouts who made millions".
+CNBC.
+ Archived from the original on May 15, 2020.
+ Retrieved September 3, 2020.
+^ Delevett, Peter; Hull, Dana (August 13, 2012).
+"Greg Kouri, early investor in PayPal, dies in New York".
+The Mercury News.
+Archived from the original on October 6, 2022.
+ Retrieved October 1, 2022.
+^ Huddleston, Tom Jr. (June 19, 2018).
+"How Elon Musk founded Zip2 with his brother Kimbal".
+CNBC.
+Archived from the original on November 9, 2022.
+ Retrieved October 1, 2022.
+^ Vance, Ashlee (2017) [2015].
+Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future (2nd ed.). New York: Ecco. p. Ch.4.
+ISBN 978-0-06-230125-3.
+Errol Musk gave his sons $28,000 to help them through this period, but they were more or less broke after getting the office space, licensing software, and buying some equipment ^ Chafkin, Max (December 1, 2007).
+"Entrepreneur of the Year, 2007: Elon Musk".
+Inc.
+Archived from the original on December 28, 2007.
+ Retrieved February 22, 2022.
+^ a b c Huddleston, Tom Jr. (June 19, 2018).
+"Elon Musk slept on his office couch and 'showered at the YMCA' while starting his first company".
+ CNBC. Archived from the original on August 18, 2020.
+ Retrieved September 4, 2020.
+^ Kidder (2013) , pp. 224–228.
+^ Vance (2017) , p. 67.
+^ Vance (2017) , p. 14.
+^ Junnarkar, Sandeep (February 16, 1999).
+"Compaq buys Zip2".
+ CNET.
+Archived from the original on October 21, 2014.
+ Retrieved December 13, 2020.
+^ Vance (2017) , p. 109.
+^ Vance (2017) , p. 78.
+^ Vance (2017) , p. 84.
+^ a b Vance (2017) , p. 86.
+^ Jackson (2004) , pp. 40, 69, 130, 163.
+^ Vance (2017) , pp. 85–86.
+^ Vance (2017) , pp. 85–87.
+^ Vance (2017) , pp. 87–88.
+^ "The PayPal Mafia".
+Fortune.
+ Archived from the original on May 23, 2017.
+ Retrieved July 4, 2015.
+^ a b Vance (2017) , p. 89.
+^ Odell, Mark (September 30, 2014).
+"Timeline: The rise of PayPal".
+Financial Times.
+Archived from the original on June 22, 2020.
+ Retrieved April 3, 2020.
+^ "SEC 10-K".
+ PayPal. December 31, 2001. Archived from the original on August 25, 2020.
+^ Vance (2017) , pp. 116.
+^ Huang, Echo.
+"Elon Musk bought a web domain worth millions with 'sentimental value' to him".
+Quartz.
+ Archived from the original on June 25, 2020.
+ Retrieved April 3, 2020.
+^ Statt, Nick (July 10, 2017).
+"Elon Musk now owns X.com, the defunct domain of his second startup".
+The Verge.
+ Archived from the original on June 25, 2020.
+ Retrieved September 3, 2020.
+^ Kleinman, Zoe (October 5, 2022).
+"Elon Musk, Twitter and the mysterious X app".
+BBC.
+Archived from the original on October 21, 2022.
+ Retrieved October 27, 2022.
+^ Vance (2017) , pp. 99, 102–103.
+^ a b Vance, Ashlee (May 14, 2015).
+"Elon Musk's space dream almost killed Tesla".
+ Bloomberg L.P.
+Archived from the original on February 23, 2017.
+ Retrieved June 7, 2015.
+^ Wayne, Leslie (February 5, 2006).
+"A Bold Plan to Go Where Men Have Gone Before".
+The New York Times.
+ Archived from the original on April 12, 2020.
+ Retrieved February 16, 2015.
+^ California Business Search (C2414622 – Space Exploration Technologies Corp) , archived from the original on February 23, 2018 , retrieved December 13, 2020 ^ Koren, Marina (May 6, 2021).
+"Elon Musk Is Maybe, Actually, Strangely, Going to Do This Mars Thing".
+The Atlantic.
+Archived from the original on May 31, 2022.
+ Retrieved June 8, 2022.
+^ a b Berger (2021) , pp. 178–182.
+^ Friedman, Josh (April 22, 2003).
+"Entrepreneur Tries His Midas Touch in Space, Los Angeles Times".
+Los Angeles Times.
+Archived from the original on October 29, 2022.
+ Retrieved October 29, 2022.
+^ Malik, Tariq (November 21, 2005).
+"Griffin Reiterates NASA's Commitment to Commercial Cargo, Space News".
+Archived from the original on June 19, 2022.
+ Retrieved October 29, 2022.
+^ Dunbar, Brian.
+"NASA Invests in Private Sector Space Flight with SpaceX, Rocketplane-Kistler".
+nasa.gov (Press release).
+Archived from the original on September 8, 2021.
+ Retrieved December 2, 2021.
+^ Ledur, Júlia (May 1, 2019).
+"Falcon Flights".
+Reuters.
+Archived from the original on February 10, 2021.
+ Retrieved February 10, 2021.
+^ Chang, Kenneth (May 22, 2012).
+"Big Day for a Space Entrepreneur Promising More".
+The New York Times.
+Archived from the original on July 1, 2017.
+ Retrieved January 11, 2021.
+^ Harwood, William (May 31, 2012).
+"SpaceX Dragon returns to Earth, ends historic trip".
+ CBS News. Archived from the original on April 22, 2016.
+ Retrieved August 3, 2013.
+^ "SpaceX rocket in historic upright landing".
+BBC News.
+ December 22, 2015.
+Archived from the original on August 31, 2019.
+ Retrieved June 30, 2016.
+^ O'Kane, Sean (May 27, 2016).
+"SpaceX successfully lands a Falcon 9 rocket at sea for the third time".
+The Verge.
+Archived from the original on June 27, 2016.
+ Retrieved June 30, 2016.
+^ Drake, Nadia (February 25, 2018).
+"Elon Musk's Tesla in Space Could Crash into Earth".
+National Geographic.
+Archived from the original on February 10, 2021.
+ Retrieved February 10, 2021.
+^ Chow, Denise (November 6, 2019).
+" 'Starman' and the Tesla Roadster that SpaceX launched into orbit have now cruised beyond Mars".
+ NBC News.
+Archived from the original on February 10, 2021.
+ Retrieved February 10, 2021.
+^ Berger, Eric (August 28, 2019).
+"Starhopper aces test, sets up full-scale prototype flights this year".
+Ars Technica.
+Archived from the original on January 21, 2021.
+ Retrieved December 15, 2021.
+^ Roulette, Joey (March 28, 2022).
+"SpaceX ending production of flagship crew capsule".
+Reuters.
+ Archived from the original on March 29, 2022.
+ Retrieved March 31, 2022.
+^ Wattles, Jackie (May 30, 2020).
+"SpaceX and NASA launch Crew Dragon in Florida: Live updates".
+ CNN. Archived from the original on August 29, 2020.
+ Retrieved May 30, 2020.
+^ Johnson, Eric M.; Roulette, Joey (October 31, 2018).
+"Musk shakes up SpaceX in race to make satellite launch window: sources".
+Reuters.
+Archived from the original on May 18, 2020.
+ Retrieved March 28, 2021.
+^ Hall, Shannon (June 1, 2019).
+"After SpaceX Starlink Launch, a Fear of Satellites That Outnumber All Visible Stars – Images of the Starlink constellation in orbit have rattled astronomers around the world".
+The New York Times.
+ Archived from the original on August 21, 2020.
+ Retrieved June 1, 2019.
+^ Shepardson, David; Roulette, Joey (July 30, 2020).
+"Taking on SpaceX, Amazon to invest $10 billion in satellite broadband plan".
+Reuters.
+Archived from the original on January 7, 2021.
+ Retrieved January 12, 2021.
+^ Sheetz, Michael (December 7, 2020).
+"SpaceX's Starlink wins nearly $900 million in FCC subsidies to bring internet to rural areas".
+ CNBC.
+Archived from the original on December 16, 2020.
+ Retrieved January 12, 2021.
+^ Wattles, Jackie (December 8, 2020).
+"SpaceX gets almost $900 million in federal subsidies to deliver broadband to rural America".
+ CNN.
+Archived from the original on December 18, 2020.
+ Retrieved January 12, 2021.
+^ Griffin, Andrew (December 30, 2021).
+"Elon Musk rejects criticism that his satellite fleet is dangerous".
+The Independent.
+Archived from the original on December 30, 2021.
+ Retrieved December 31, 2021.
+^ "Elon Musk rejects claims that his satellites are hogging space".
+BBC News.
+ December 30, 2021.
+Archived from the original on December 31, 2021.
+ Retrieved December 31, 2021.
+^ Smith, Adam (February 7, 2021).
+"Astronomers create new global force to stop Elon Musk's internet satellites hiding killer asteroids".
+The Independent.
+Archived from the original on May 27, 2022.
+ Retrieved June 30, 2022.
+^ Sheetz, Michael (March 22, 2022).
+"Elon Musk's SpaceX sent thousands of Starlink satellite internet dishes to Ukraine, company's president says".
+ CNBC.
+Archived from the original on March 27, 2022.
+ Retrieved March 28, 2022.
+^ "SpaceX's Musk says Starlink has been told by some governments to block Russian news".
+Reuters.
+ March 6, 2022.
+Archived from the original on April 4, 2022.
+ Retrieved April 5, 2022.
+^ Porter, Jon (April 4, 2022).
+"Elon Musk buys 9.2 percent of Twitter amid complaints about free speech".
+The Verge.
+Archived from the original on April 4, 2022.
+ Retrieved April 5, 2022.
+^ Marquardt, Alex (October 13, 2022).
+"Exclusive: Musk's SpaceX says it can no longer pay for critical satellite services in Ukraine, asks Pentagon to pick up the tab".
+CNN.
+Archived from the original on October 24, 2022.
+ Retrieved October 27, 2022.
+^ Capoot, Ashley (October 15, 2022).
+" 'The hell with it': Elon Musk tweets SpaceX will 'keep funding Ukraine govt for free' amid Starlink controversy".
+CNBC.
+Archived from the original on November 3, 2022.
+ Retrieved October 27, 2022.
+^ Hern, Alex (October 15, 2022).
+"Musk says SpaceX will keep funding Ukraine Starlink internet".
+BBC News.
+Archived from the original on December 5, 2022.
+ Retrieved October 27, 2022.
+^ "Elon Musk says SpaceX will keep funding Starlink internet in Ukraine".
+The Guardian.
+ October 16, 2022.
+Archived from the original on October 24, 2022.
+ Retrieved October 27, 2022.
+^ Reed, Eric (February 4, 2020).
+"History of Tesla: Timeline and Facts".
+TheStreet.com.
+Archived from the original on December 20, 2021.
+ Retrieved January 10, 2023.
+^ Vance (2017) , pp. 153–154.
+^ Vance (2017) , p. 159.
+^ Schilling, Melissa (2018).
+Quirky: The remarkable story of the traits, foibles, and genius of breakthrough innovators who changed the world.
+ PublicAffairs.
+ISBN 9781610397926.
+^ Morrison, Chris (October 15, 2008).
+"Musk steps in as CEO".
+The New York Times.
+Archived from the original on February 4, 2016.
+ Retrieved December 13, 2020.
+^ "Elon Musk: The Story of a Maverick".
+interestingengineering.com.
+ August 13, 2020.
+Archived from the original on March 16, 2021.
+ Retrieved April 3, 2021.
+^ LaMonica, Martin (September 2009).
+"Tesla Motors founders: Now there are five".
+ CNET.
+Archived from the original on November 15, 2020.
+ Retrieved April 17, 2020.
+Tesla Motors and co-founder Martin Eberhard announced an agreement over who can claim to be a founder of the company on Monday.
+^ Schwartz, Ariel (September 21, 2009).
+"Tesla Lawsuit Drama Ends as Five Company Founders Emerge".
+Fast Company.
+Archived from the original on June 6, 2015.
+ Retrieved April 14, 2020.
+Eberhard and Musk have reached a rather unexpected resolution–instead of agreeing to share the title of "founder", the pair has designated five people as company founders, including Musk, Eberhard, JB Straubel, Mark Tarpenning, and Ian Wright.
+^ Royse, Dave (July 8, 2019).
+"Industry Shift: With Four Departures This Year, Who Is The Longest-Tenured Automotive CEO?".
+Yahoo.
+Archived from the original on December 29, 2019.
+ Retrieved June 8, 2022.
+^ Shead, Sam (March 15, 2021).
+"Elon Musk has officially been made the 'Technoking of Tesla' ".
+ CNBC.
+Archived from the original on January 12, 2022.
+ Retrieved January 28, 2022.
+^ Wilson, Kevin A. (March 15, 2018).
+"Worth the Watt: A Brief History of the Electric Car, 1830 to Present".
+Car and Driver.
+Archived from the original on March 17, 2021.
+ Retrieved March 30, 2021.
+^ Boudreau, John (June 22, 2012).
+"In a Silicon Valley milestone, Tesla Motors begins delivering Model S electric cars".
+The Mercury News.
+Archived from the original on November 24, 2012.
+ Retrieved June 22, 2012.
+^ Ruddick, Graham (September 30, 2015).
+"Tesla's Model X electric car spreads falcon wings at U.S. launch".
+The Guardian.
+Archived from the original on June 2, 2017.
+ Retrieved November 4, 2015.
+^ Vlasic, Bill (July 29, 2017).
+"In Pivotal Moment, Tesla Unveils Its First Mass-Market Sedan".
+The New York Times.
+Archived from the original on February 9, 2021.
+ Retrieved February 9, 2021.
+^ Shahan, Zachary (August 26, 2021).
+"Tesla Model 3 Has Passed 1 Million Sales".
+CleanTechnica.
+Archived from the original on September 4, 2021.
+ Retrieved August 26, 2021.
+^ Holland, Maximilian (March 10, 2020).
+"Tesla Passes 1 Million EV Milestone & Model 3 Becomes All Time Best Seller".
+CleanTechnica.
+Archived from the original on April 12, 2020.
+ Retrieved April 20, 2020.
+^ O'Kane, Sean (March 16, 2020).
+"Tesla Model Y deliveries begin in the US".
+The Verge.
+Archived from the original on March 17, 2020.
+ Retrieved February 14, 2021.
+^ Huddleston, Tom Jr. (November 22, 2019).
+"This is the James Bond sports car Elon Musk bought for nearly $1 million that inspired Tesla Cybertruck".
+ CNBC.
+Archived from the original on November 27, 2019.
+ Retrieved September 19, 2020.
+^ Eddy, Melissa (March 4, 2022).
+"Tesla Wins Approval to Open European Assembly Plant".
+The New York Times.
+Archived from the original on September 4, 2022.
+ Retrieved September 4, 2022.
+^ "With First Share Offering, Tesla Bets on Electric Car's Future".
+The New York Times.
+ Associated Press. June 28, 2010.
+Archived from the original on February 10, 2021.
+ Retrieved February 9, 2021.
+^ "Tesla overtakes Toyota to become world's most valuable carmaker".
+BBC News.
+ July 1, 2020.
+Archived from the original on February 10, 2021.
+ Retrieved February 9, 2021.
+^ Boudette, Neal E. (July 2, 2020).
+"Tesla Shines During the Pandemic as Other Automakers Struggle".
+The New York Times.
+Archived from the original on February 10, 2021.
+ Retrieved February 9, 2021.
+^ Li, Yun (December 20, 2021).
+"Tesla shares fall 6% as it enters the S&P 500 with 1.69% weighting, fifth largest".
+ CNBC.
+Archived from the original on February 10, 2021.
+ Retrieved February 9, 2021.
+^ "Tesla Stock Joins the S&P 500: A Game Changer".
+The Wall Street Journal.
+ December 21, 2020.
+Archived from the original on February 10, 2021.
+ Retrieved February 9, 2021.
+^ Isidore, Chris (October 26, 2021).
+"Tesla is now worth more than $1 trillion".
+ CNN.
+Archived from the original on November 14, 2021.
+ Retrieved November 14, 2021.
+^ a b Haselton, Todd (November 13, 2021).
+"Elon Musk sold about $6.9 billion in Tesla stock this week".
+ CNBC.
+Archived from the original on June 8, 2022.
+ Retrieved November 15, 2021.
+^ Jin, Hyunjoo (December 30, 2021).
+"Tesla's Musk exercises all of his stock options expiring next year".
+Reuters.
+Archived from the original on May 31, 2022.
+ Retrieved June 8, 2022.
+^ Michaels, Dave (February 24, 2022).
+"WSJ News Exclusive | SEC Probes Trading by Elon Musk and Brother in Wake of Tesla CEO's Sales".
+The Wall Street Journal.
+Archived from the original on March 3, 2022.
+ Retrieved March 3, 2022.
+^ Siddiqui, Faiz (September 30, 2022).
+"Elon Musk debuts Tesla robot, Optimus, calling it a 'fundamental transformation' ".
+The Washington Post.
+Archived from the original on October 22, 2022.
+^ " 'I am a fan of Modi': Tesla CEO Elon Musk after meeting PM in New York".
+Hindustan Times.
+ June 21, 2023.
+Archived from the original on June 21, 2023.
+ Retrieved June 22, 2023.
+^ a b Goldstein, Matthew (September 27, 2018).
+"S.E.C. Sues Tesla's Elon Musk for Fraud and Seeks to Bar Him From Running a Public Company".
+The New York Times.
+ Archived from the original on June 23, 2020.
+ Retrieved September 27, 2018.
+^ Choudhury, Saheli Roy (September 28, 2018).
+"SEC says Musk chose $420 price for Tesla shares because it's a pot reference".
+ CNBC. Archived from the original on October 6, 2020.
+ Retrieved September 17, 2020.
+^ Swisher, Kara (August 23, 2018).
+"How and Why Silicon Valley Gets High".
+The New York Times.
+Archived from the original on August 24, 2018.
+ Retrieved May 11, 2021.
+^ Woodyard, Chris (August 30, 2018).
+"Elon Musk's tweet on taking Tesla private now dogged by drugs claim from rapper Azealia Banks".
+USA Today.
+Archived from the original on May 12, 2021.
+ Retrieved May 11, 2021.
+^ Patnaik, Subrat; Kalia, Shubham (September 28, 2018).
+"Factbox – 'Funding secured': SEC gives timeline surrounding tweet from Tesla's Musk".
+Reuters.
+ Archived from the original on November 23, 2019.
+ Retrieved November 23, 2018.
+^ O'Kane, Sean; Lopatto, Elizabeth (September 27, 2018).
+"Elon Musk sued by SEC for securities fraud".
+The Verge.
+ Archived from the original on July 30, 2020.
+ Retrieved September 27, 2018.
+^ "Elon Musk forced to step down as chairman of Tesla, remains CEO".
+The Verge.
+ Archived from the original on May 27, 2020.
+ Retrieved September 29, 2018.
+^ "Tesla's Elon Musk says tweet that led to $20 million fine 'Worth It' ".
+Reuters.
+ October 27, 2018. Archived from the original on May 22, 2020.
+ Retrieved December 9, 2018.
+^ Youn, Soo; Katersky, Aaron (October 11, 2018).
+"Elon Musk commits to SEC settlement despite mocking tweets".
+ABC News.
+ Archived from the original on October 23, 2019.
+ Retrieved October 17, 2018.
+^ Brodkin, Jon (April 18, 2022).
+"Musk keeps falsely claiming 'Funding secured' tweet was accurate, judge is told".
+Ars Technica.
+Archived from the original on September 9, 2022.
+ Retrieved September 9, 2022.
+^ Godoy, Jody; Jin, Hyunjoo (February 3, 2023).
+"Tesla's Elon Musk found not liable in trial over 2018 'funding secured' tweets".
+Reuters.
+Archived from the original on February 4, 2023.
+ Retrieved February 4, 2023.
+^ Ohnsman, Alan (February 25, 2019).
+"Elon Musk's Tesla Tweet Puts CEO Role at Risk Again".
+Forbes.
+ Archived from the original on May 28, 2020.
+ Retrieved February 26, 2019.
+^ Wattles, Jackie (April 27, 2019).
+"Elon Musk and SEC reach an agreement over tweeting".
+CNN Business.
+ Archived from the original on June 8, 2020.
+ Retrieved July 16, 2019.
+^ Marino-Nachison, David (April 26, 2019).
+"Tesla CEO Elon Musk Gets a Long Do-Not-Tweet List From the SEC".
+Barrons.
+ Archived from the original on January 22, 2020.
+ Retrieved November 25, 2019.
+^ Bursztynsky, Jessica (May 1, 2020).
+"Tesla shares tank after Elon Musk tweets the stock price is 'too high' ".
+ CNBC. Archived from the original on August 18, 2020.
+ Retrieved June 14, 2020.
+^ "Court Rules That No One Can Stop Elon Musk From Tweeting Tesla News—For Now".
+Observer.
+ May 20, 2020.
+Archived from the original on October 30, 2020.
+ Retrieved December 1, 2020.
+^ Elliott, Dave; Michaels, Rebecca (June 2, 2021).
+"WSJ News Exclusive: Tesla Failed to Oversee Elon Musk's Tweets, SEC Argued in Letters".
+The Wall Street Journal.
+Archived from the original on June 10, 2021.
+ Retrieved June 10, 2021.
+^ Kanellos, Michael (February 15, 2008).
+"Elon Musk on rockets, sports cars, and solar power".
+CNET.
+Archived from the original on January 29, 2014.
+^ "2013 Top 250 Solar Contractors".
+Solar Power World.
+ September 13, 2013.
+Archived from the original on October 10, 2017.
+ Retrieved December 13, 2020.
+^ Smith, Aaron (June 17, 2014).
+"Elon Musk's sunny plans for Buffalo".
+CNNMoney.
+Archived from the original on October 9, 2017.
+ Retrieved December 13, 2020.
+^ Kolodny, Lora (February 26, 2020).
+"Tesla, Panasonic will reportedly stop joint solar cell production at Gigafactory 2 in Buffalo".
+ CNBC. Archived from the original on August 8, 2020.
+ Retrieved September 1, 2020.
+^ "The highs, lows and legacy of Panasonic's doomed project in Buffalo".
+The Business Journals.
+Archived from the original on November 23, 2020.
+ Retrieved April 3, 2021.
+^ Kolodny, Lora; Bursztynsky, Jessica (April 27, 2022).
+"Elon Musk wins shareholder lawsuit over Tesla's $2.6 billion SolarCity acquisition".
+ CNBC.
+Archived from the original on May 24, 2022.
+ Retrieved June 7, 2022.
+According to emails that were part of evidence in the trial, Musk wrote an e-mail to SolarCity CFO Brad Buss on Sept. 18, 2016, saying that to get Tesla investors on board with the deal, SolarCity needed to get a handle on its liquidity problem and sign a letter of intent for a contract with Panasonic.
+^ Strong, Michael (March 16, 2020).
+"Shareholder $2.2B Lawsuit Against Tesla CEO Musk Halted After Trial Postponed Due to Coronavirus".
+The Detroit Bureau.
+ Archived from the original on September 14, 2020.
+ Retrieved September 1, 2020.
+^ Mitchell, Russ (September 23, 2019).
+"Elon Musk knew SolarCity was going broke before merger with Tesla, lawsuit alleges".
+Los Angeles Times.
+ Archived from the original on July 30, 2020.
+ Retrieved September 1, 2020.
+^ Hals, Tom (January 30, 2020).
+"Tesla directors settle, isolating Musk as SolarCity trial looms".
+Reuters.
+ Archived from the original on July 28, 2020.
+ Retrieved September 1, 2020.
+^ Chase, Randall (August 17, 2020).
+"Judge OKs $60M settlement over Tesla buyout of SolarCity".
+ABC.
+ Archived from the original on August 25, 2020.
+ Retrieved September 1, 2020.
+^ Kolodny, Lora; Bursztynsky, Jessica (April 27, 2022).
+"Elon Musk wins shareholder lawsuit over Tesla's $2.6 billion SolarCity acquisition".
+ CNBC.
+Archived from the original on May 24, 2022.
+ Retrieved June 7, 2022.
+^ a b Markoff, John (July 16, 2019).
+"Elon Musk's Neuralink Wants 'Sewing Machine-Like' Robots to Wire Brains to the Internet".
+The New York Times.
+Archived from the original on July 20, 2022.
+ Retrieved July 26, 2022.
+^ a b Statt, Nick (March 27, 2017).
+"Elon Musk launches Neuralink, a venture to merge the human brain with AI".
+The Verge.
+ Archived from the original on August 3, 2020.
+ Retrieved April 10, 2017.
+^ Winkler, Rolfe (March 27, 2017).
+"Elon Musk Launches Neuralink to Connect Brains With Computers".
+The Wall Street Journal.
+ Archived from the original on October 2, 2020.
+ Retrieved October 10, 2020.
+^ a b "Elon Musk's Neuralink puts computer chips in pigs' brains in bid to cure diseases".
+ NBC News. Reuters. August 29, 2020.
+Archived from the original on April 26, 2022.
+ Retrieved July 26, 2022.
+^ Zhavoronkov, Alex.
+"Elon Musk's Big Neuralink Paper: Should We Prepare For The Digital Afterlife?".
+Forbes.
+Archived from the original on August 17, 2022.
+ Retrieved August 17, 2022.
+^ Kahn, Jeremy; Vanian, Jonathan (January 27, 2022).
+"Inside Neuralink, Elon Musk's mysterious brain chip startup: A culture of blame, impossible deadlines, and a missing CEO".
+Fortune.
+Archived from the original on September 25, 2022.
+ Retrieved August 17, 2022.
+^ a b Regalado, Antonio (August 30, 2020).
+"Elon Musk's Neuralink is neuroscience theater".
+MIT Technology Review.
+Archived from the original on December 13, 2020.
+ Retrieved September 3, 2020.
+^ Cellan-Jones, Rory (September 1, 2020).
+"Is Elon Musk over-hyping his brain-hacking Neuralink tech?".
+BBC News.
+ Archived from the original on September 12, 2020.
+ Retrieved September 14, 2020.
+^ Rogers, Adam (September 4, 2020).
+"Neuralink Is Impressive Tech, Wrapped in Musk Hype".
+Wired.
+ Archived from the original on September 6, 2020.
+ Retrieved September 14, 2020.
+^ Neate, Rupert (January 20, 2022).
+"Elon Musk's brain chip firm Neuralink lines up clinical trials in humans".
+The Guardian.
+Archived from the original on July 12, 2022.
+ Retrieved July 26, 2022.
+^ Ryan, Hannah (February 17, 2022).
+"Elon Musk's Neuralink confirms monkeys died in the project, denies animal cruelty claims".
+CNN Business.
+Archived from the original on July 11, 2022.
+^ Levy, Rachel (December 5, 2022).
+"Musk's Neuralink faces federal probe, employee backlash over animal tests".
+Reuters.
+Archived from the original on December 6, 2022.
+ Retrieved December 5, 2022.
+^ Singh, Maanvi (September 19, 2023).
+"Elon Musk's Neuralink approved to recruit humans for brain-implant trial".
+The Guardian.
+Archived from the original on September 24, 2023.
+ Retrieved September 24, 2023.
+^ Petrova, Magdalena (July 20, 2021).
+"Why Elon Musk's Boring Company is finding that traffic is tough to fix".
+ CNBC.
+Archived from the original on June 14, 2022.
+ Retrieved June 13, 2022.
+^ McFarland, Matt (July 6, 2022).
+"Elon Musk's Boring Company will let you pay for a ride with Dogecoin".
+ CNN.
+Archived from the original on July 26, 2022.
+ Retrieved July 26, 2022.
+^ Heathman, Amelia.
+"Elon Musk's boring machine has already built a 'test trench' in LA".
+Wired.
+Archived from the original on July 18, 2017.
+ Retrieved February 19, 2017.
+^ Romero, Dennis (December 19, 2018).
+"Elon Musk unveils his test car tunnel as a fix for traffic in Los Angeles".
+ NBC News.
+Archived from the original on July 4, 2022.
+ Retrieved July 26, 2022.
+^ Farivar, Cyrus (June 8, 2021).
+"Fort Lauderdale officials say Elon Musk's new tunnel to the beach can't come fast enough".
+ NBC News.
+Archived from the original on July 3, 2021.
+ Retrieved July 27, 2022.
+^ Heater, Brian (November 28, 2018).
+"Elon Musk's Boring Co. drops LA Westside tunnel plan".
+TechCrunch.
+Archived from the original on November 28, 2018.
+ Retrieved July 27, 2022.
+^ "Boring Co. underground loop to be put to the test".
+Las Vegas Review-Journal.
+ May 20, 2021.
+Archived from the original on May 21, 2021.
+ Retrieved May 29, 2021.
+^ McBride, Sarah (December 16, 2020).
+"Elon Musk's Proposed Vegas Strip Transit System Advanced by City Council Vote".
+ Bloomberg L.P.
+Archived from the original on January 11, 2021.
+ Retrieved January 8, 2021.
+^ McFarland, Matt (July 7, 2021).
+"Fort Lauderdale accepts proposal for Elon Musk's Tesla beach tunnel".
+CNN Business.
+Archived from the original on July 24, 2022.
+ Retrieved July 26, 2022.
+^ Elon Musk [@elonmusk] (April 14, 2022).
+"I made an offer [www.sec.gov/Archives/edgar/data/0001418091/000110465922045641/tm2212748d1_sc13da.htm sec.gov/Archives/edgar...] " (Tweet) – via Twitter.
+^ Paul, Kari (April 26, 2022).
+"Chaotic and crass: a brief timeline of Elon Musk's history with Twitter".
+The Guardian.
+Archived from the original on April 26, 2022.
+ Retrieved April 26, 2022.
+^ "Elon Musk snaps up $3bn Twitter stake".
+BBC News.
+ April 4, 2022.
+Archived from the original on April 4, 2022.
+ Retrieved April 4, 2022.
+^ Jones, Callum.
+"Elon Musk becomes Twitter's biggest shareholder after taking 9.2% stake".
+The Times.
+Archived from the original on April 4, 2022.
+ Retrieved April 4, 2022.
+^ Hull, Dana; Fleisher, Lisa (October 4, 2022).
+"Twitter texts released in court case reveal Elon Musk's ex-wife asked him to 'Please do something to fight woke-ism' ".
+Fortune.
+Archived from the original on May 30, 2023.
+ Retrieved September 23, 2023.
+^ Elder, Bryce (April 6, 2022).
+"Musk and Twitter: the timeline".
+Financial Times.
+Archived from the original on May 30, 2022.
+ Retrieved June 4, 2022.
+^ a b Adler, Maxwell; Turner, Giles (April 14, 2022).
+"Elon Musk Makes $43 Billion Unsolicited Bid to Take Twitter Private".
+ Bloomberg L.P.
+Archived from the original on April 14, 2022.
+ Retrieved April 14, 2022.
+^ "Elon Musk delayed filing a form and made $156 million".
+The Washington Post.
+Archived from the original on April 8, 2022.
+ Retrieved April 8, 2022.
+^ Imbert, Fred (April 4, 2022).
+"Twitter shares close up 27% after Elon Musk takes 9% stake in social media company".
+CNBC.
+Archived from the original on April 4, 2022.
+ Retrieved April 19, 2022.
+Twitter shares close up 27% after Elon Musk takes 9% stake in social media company ^ Corfield, Gareth (April 5, 2022).
+"Elon Musk to join Twitter board".
+The Daily Telegraph.
+Archived from the original on April 5, 2022.
+ Retrieved April 5, 2022.
+^ McLean, Rob (April 11, 2022).
+"Twitter CEO: Elon Musk will not join Twitter board".
+ CNN.
+Archived from the original on April 11, 2022.
+ Retrieved April 11, 2022.
+^ "Elon Musk launches hostile takeover bid for Twitter".
+ Agence France-Presse. April 14, 2022.
+Archived from the original on April 14, 2022.
+ Retrieved April 14, 2022.
+^ Feiner, Lauren (April 15, 2022).
+"Twitter board adopts 'poison pill' after Musk's $43 billion bid to buy company".
+ CNBC.
+Archived from the original on April 17, 2022.
+ Retrieved April 18, 2022.
+^ Stahl, George.
+"Musk-Twitter Deal Values Company at Around $44 Billion".
+The Wall Street Journal.
+Archived from the original on April 25, 2022.
+ Retrieved April 25, 2022.
+^ Isaac, Mike; Hirsch, Lauren (April 25, 2022).
+"With Deal for Twitter, Musk Lands a Prize and Pledges Fewer Limits".
+The New York Times.
+Archived from the original on April 27, 2022.
+ Retrieved April 26, 2022.
+^ MacMillan, Douglas; Siddiqui, Faiz; Lerman, Rachel; Telford, Taylor (April 25, 2022).
+"Elon Musk acquires Twitter for roughly $44 billion".
+The Washington Post.
+Archived from the original on April 25, 2022.
+ Retrieved April 26, 2022.
+^ Siddiqui, Faiz (April 26, 2022).
+"Tesla's value dropped Tuesday by more than double the cost of Twitter".
+The Washington Post.
+Archived from the original on April 27, 2022.
+ Retrieved April 26, 2022.
+^ Gura, David (April 26, 2022).
+"Tesla shares sink, wipe out over $125 billion in value, as Musk scores Twitter deal".
+ NPR.
+Archived from the original on April 27, 2022.
+ Retrieved April 26, 2022.
+^ Woo, Erin; Isaac, Mike (April 27, 2022).
+"In tweets, Musk takes aim at Twitter executives, creating outrage".
+The New York Times.
+ Archived from the original on April 28, 2022.
+ Retrieved April 27, 2022.
+^ Balu, Nivedita; Li, Kenneth (May 13, 2022).
+"Musk says $44 bln Twitter deal on hold over fake account data".
+Reuters.
+Archived from the original on May 13, 2022.
+ Retrieved May 13, 2022.
+^ Seal, Dean; Needleman, Sarah E.; Lombardo, Cara (May 13, 2022).
+"Elon Musk Says His $44 Billion Twitter Deal Is 'On Hold' ".
+The Wall Street Journal.
+Archived from the original on May 13, 2022.
+ Retrieved May 13, 2022.
+^ Feiner, Lauren (July 8, 2022).
+"Elon Musk notifies Twitter he is terminating deal".
+CNBC.
+Archived from the original on October 24, 2022.
+ Retrieved July 8, 2022.
+^ Conger, Kate; Hirsch, Lauren (July 12, 2022).
+"Twitter Sues Musk After He Tries Backing Out of $44 Billion Deal".
+The New York Times.
+Archived from the original on October 24, 2022.
+ Retrieved July 12, 2022.
+^ Conger, Kate; Hirsch, Lauren; Sorkin, Andrew Ross (October 4, 2022).
+"Elon Musk Suggests Buying Twitter at His Original Price".
+The New York Times.
+Archived from the original on October 24, 2022.
+ Retrieved October 8, 2022.
+^ a b Klar, Rebecca (October 27, 2022).
+"Musk officially closes Twitter deal: reports".
+The Hill.
+Archived from the original on October 28, 2022.
+ Retrieved October 27, 2022.
+^ "Musk Said to Begin Firing Twitter's Top Executives".
+The New York Times.
+ October 27, 2022.
+Archived from the original on October 28, 2022.
+^ Mehta, Chavi; Dang, Sheila; Ghosh, Sayantani (October 31, 2022).
+"Elon Musk, who runs four other companies, will now be Twitter CEO".
+Reuters.
+Archived from the original on November 1, 2022.
+^ "Elon Musk says $8 monthly fee for Twitter blue tick".
+BBC.
+ November 2, 2022.
+Archived from the original on November 2, 2022.
+ Retrieved November 2, 2022.
+^ Korn, Jennifer (November 2, 2022).
+"Musk says Twitter will charge $8 a month for account verification after criticism for $19.99 plan".
+CNN.
+Archived from the original on November 2, 2022.
+ Retrieved November 2, 2022.
+^ Binoy, Rhea (November 5, 2022).
+"Musk's Twitter updates app to start charging $8 for blue checkmark".
+Reuters.
+Archived from the original on November 5, 2022.
+ Retrieved November 5, 2022.
+^ Conger, Kate; Mac, Ryan (November 4, 2022).
+"Elon Musk Begins Layoffs at Twitter".
+The New York Times.
+Archived from the original on November 4, 2022.
+ Retrieved November 4, 2022.
+^ Picchi, Aimee (November 4, 2022).
+"Elon Musk set to fire roughly half of Twitter's workers".
+CBS News.
+Archived from the original on November 3, 2022.
+ Retrieved November 4, 2022.
+^ Zakrewski, Siddiqui; Faiz, Siddiqui; Menn, Joseph (November 22, 2022).
+"Musk's 'free speech' agenda dismantles safety work at Twitter, insiders say".
+The Washington Post.
+Archived from the original on November 22, 2022.
+ Retrieved January 19, 2023.
+^ Ecarma, Caleb (November 21, 2022).
+"We're Officially in the Elon Musk Era of Content Moderation".
+Vanity Fair.
+Archived from the original on January 10, 2023.
+ Retrieved December 12, 2022.
+^ Marshall, Aarian; Hoover, Amanda (December 3, 2022).
+"The Twitter Files Revealed One Thing: Elon Musk Is Trapped".
+Wired.
+Archived from the original on December 13, 2022.
+ Retrieved December 3, 2022.
+^ Wilson, Jason (November 16, 2022).
+"Twitter Blesses Extremists With Paid 'Blue Checks' ".
+ Southern Poverty Law Center.
+Archived from the original on November 27, 2022.
+ Retrieved November 29, 2022.
+^ Knight, Will (November 25, 2022).
+"Here's Proof Hate Speech Is More Viral on Elon Musk's Twitter".
+Wired.
+Archived from the original on December 13, 2022.
+ Retrieved November 25, 2022.
+^ "Elon Musk promotes transphobic content as hate speech surges on his far-right platform".
+The Independent.
+Archived from the original on August 7, 2023.
+ Retrieved August 5, 2023.
+^ Da Silva, Chantal (December 19, 2022).
+"Twitter users vote for Elon Musk to step down as CEO in poll he launched".
+NBC News.
+Archived from the original on September 11, 2023.
+ Retrieved September 24, 2023.
+^ Allyn, Bobby (December 20, 2022).
+"Elon Musk says he will resign as Twitter CEO once he finds a replacement".
+NPR.
+Archived from the original on July 29, 2023.
+ Retrieved September 24, 2023.
+^ Milmo, Dan (May 11, 2023).
+"Elon Musk announces he has found new Twitter CEO".
+The Guardian.
+Archived from the original on May 11, 2023.
+ Retrieved May 11, 2023.
+^ a b c Kolodny, Lora (October 19, 2018).
+"Elon Musk's extreme micromanagement has wasted time and money at Tesla, insiders say".
+ CNBC.
+Archived from the original on May 24, 2022.
+ Retrieved July 4, 2022.
+^ a b Mac, Ryan; Metz, Cade; Conger, Kate (May 3, 2022).
+" 'I Don't Really Have a Business Plan': How Elon Musk Wings It".
+The New York Times.
+Archived from the original on June 28, 2022.
+ Retrieved May 3, 2022.
+^ Berger (2021) , pp. 24–25.
+^ Berger (2021) , pp. 15.
+^ Berger (2021) , pp. 25.
+^ Kolodny, Lora (November 19, 2021).
+"Read the emails Elon Musk sent Tesla employees about music on the job and following directions".
+ CNBC.
+Archived from the original on July 4, 2022.
+ Retrieved July 4, 2022.
+^ a b Duhigg, Charles (December 13, 2018).
+"Dr. Elon & Mr. Musk: Life Inside Tesla's Production Hell".
+Wired.
+Archived from the original on March 21, 2021.
+ Retrieved April 25, 2021.
+^ Berger (2021) , pp. 18.
+^ "Is the world's richest person the world's worst boss? What it's like working for Elon Musk".
+Los Angeles Times.
+ November 14, 2022.
+Archived from the original on November 16, 2022.
+ Retrieved November 16, 2022.
+^ a b Duhigg, Charles.
+"Dr. Elon & Mr. Musk: Life Inside Tesla's Production Hell".
+Wired.
+ISSN 1059-1028.
+Archived from the original on March 21, 2021.
+ Retrieved November 8, 2022.
+^ "Elon Musk feels 'super bad' about economy, needs to cut 10% of Tesla jobs".
+ CNBC. June 3, 2022.
+Archived from the original on June 28, 2022.
+ Retrieved July 6, 2022.
+^ Mac, Ryan (June 1, 2022).
+"Elon Musk to Workers: Spend 40 Hours in the Office, or Else".
+The New York Times.
+Archived from the original on June 1, 2022.
+^ * Bilton, Nick (November 10, 2020).
+"Elon Musk's Totally Awful, Batshit-Crazy, Completely Bonkers, Most Excellent Year".
+Vanity Fair.
+Archived from the original on January 29, 2021.
+ Retrieved April 25, 2021.
+Vance (2017) , p. 340. "Elon's worst trait by far, in my opinion, is a complete lack of loyalty or human connection. Many of us worked tirelessly for him for years and were tossed to the curb like a piece of litter without a second thought. Maybe it was calculated to keep the rest of the workforce on their toes and scared; maybe he was just able to detach from human connection to a remarkable degree. What was clear is that people who worked for him were like ammunition: used for a specific purpose until exhausted and discarded." Wong, Julia Carrie (June 13, 2018).
+"Tesla workers say they pay the price for Elon Musk's big promises".
+The Guardian.
+Archived from the original on March 23, 2021.
+ Retrieved April 25, 2021.
+The CEO is known for outsized claims and ambitious goals. But numerous factory workers say he doesn't follow through – and that his leadership sets a troubling tone.
+Warzel, Charlie (November 7, 2022). " Elon Musk Is Bad at This" Archived 2022-12-31 at the Wayback Machine.
+The Atlantic.
+^ Mitchell, Charlie.
+"Sweary tirades and abrupt firings under Elon Musk, new book claims".
+The Times.
+Archived from the original on May 31, 2022.
+ Retrieved August 6, 2021.
+^ Dugan, Ianthe Jeanne; Spector, Mike (August 24, 2017).
+"Tesla's Push to Build a Self-Driving Car Sparked Dissent Among Its Engineers".
+The Wall Street Journal.
+Archived from the original on April 16, 2021.
+ Retrieved April 25, 2021.
+^ "Musk Foundation".
+ ProPublica. May 9, 2013.
+Archived from the original on February 10, 2022.
+^ a b Carlson, Kara (December 13, 2022).
+"Mapping Musklandia: A guide to Elon Musk-related activity in the Austin area".
+Austin American-Statesman.
+Archived from the original on December 15, 2022.
+Musk's private foundation was founded in 2001 and is focused on renewable energy, ...
+^ Harris, Mark (January 23, 2019).
+"How Elon Musk's secretive foundation hands out his billions".
+The Guardian.
+ Archived from the original on July 28, 2020.
+ Retrieved September 3, 2020.
+^ a b Cuccinello, Hayley C. (September 8, 2020).
+"Elon Musk Has Promised To Give at Least Half His Fortune To Charity. Here's How Much He's Donated So Far".
+Forbes.
+Archived from the original on December 13, 2020.
+ Retrieved December 13, 2020.
+^ a b Schleifer, Theodore (January 11, 2021).
+"The big decision before Elon Musk, now the richest person in the world".
+Vox.
+Archived from the original on February 17, 2021.
+ Retrieved February 17, 2021.
+^ "OpenAI shifts from nonprofit to 'capped-profit' to attract capital".
+ March 11, 2019.
+Archived from the original on April 25, 2021.
+ Retrieved April 25, 2021.
+^ "Pledge Signatories".
+ The Giving Pledge. Archived from the original on January 9, 2022.
+ Retrieved January 30, 2022.
+^ Chappell, Bill (February 8, 2021).
+"Elon Musk Funds $100 Million XPrize For Pursuit Of New Carbon Removal Ideas".
+ NPR.
+Archived from the original on January 4, 2022.
+ Retrieved February 8, 2022.
+^ Coren, Michael J.
+"All the causes Elon Musk's foundation has donated money to since 2002".
+Quartz.
+Archived from the original on April 10, 2021.
+ Retrieved April 10, 2021.
+^ "Elon Musk Makes Biggest Donation in History".
+ Bloomberg L.P. February 15, 2022.
+Archived from the original on February 15, 2022.
+ Retrieved February 15, 2022.
+^ Alexander, Sophie (December 12, 2022).
+"Musk's $5.7 Billion Mystery Gift Went to His Own Charity".
+Bloomberg News.
+Archived from the original on December 12, 2022.
+^ "Hyperloop Update: Elon Musk Will Start Developing It Himself".
+Forbes.
+Archived from the original on September 29, 2017.
+ Retrieved March 22, 2016.
+^ Kolawole, Emi (August 12, 2013).
+"Elon Musk Unveils 'Hyperloop' Plans".
+The Washington Post.
+Archived from the original on July 28, 2022.
+ Retrieved July 24, 2022.
+^ Kirschen, Philippe; Burnell, Edward (April 6, 2021). "Hyperloop System Optimization".
+arXiv : 2104.03907 [ cs.CE ].
+^ Vance, Ashlee (August 12, 2013).
+"Revealed: Elon Musk Explains the Hyperloop, the Solar-Powered High-Speed Future of Inter-City Transportation".
+Bloomberg BusinessWeek.
+ Archived from the original on January 27, 2015.
+ Retrieved April 27, 2016.
+^ Ranger, Steve.
+"What is Hyperloop? Everything you need to know about the race for super-fast travel".
+ZDNet.
+Archived from the original on October 30, 2020.
+ Retrieved September 19, 2020.
+^ Mazza, Sandy (January 29, 2017).
+"Hyperloop competition brings new mass-transit technology to life in Hawthorne".
+Daily Bulletin.
+Archived from the original on August 16, 2017.
+ Retrieved December 13, 2020.
+^ "Elon Musk Says He Has 'Verbal' OK To Build N.Y.-D.C. Hyperloop".
+ NPR. Archived from the original on August 31, 2020.
+ Retrieved July 25, 2017.
+^ "Elon Musk's Boring Company removes D.C.-Baltimore tunnel from list of projects on website".
+The Washington Post.
+Archived from the original on August 23, 2021.
+ Retrieved August 14, 2021.
+^ McBride, Sarah.
+"Musk's SpaceX Dismantles Hyperloop Prototype, Puts Up a Parking Lot".
+Bloomberg.
+Archived from the original on November 4, 2022.
+ Retrieved November 5, 2022.
+^ Sorokanich, Bob (August 11, 2022).
+"Did Musk Propose Hyperloop to Stop California High-Speed Rail?".
+Jalopnik.
+Archived from the original on August 19, 2022.
+ Retrieved May 20, 2023.
+^ Markoff, John (December 11, 2015).
+"Artificial-Intelligence Research Center Is Founded by Silicon Valley Investors".
+The New York Times.
+ Archived from the original on August 30, 2020.
+ Retrieved December 15, 2015.
+^ Vincent, James (March 24, 2023).
+"Elon Musk reportedly tried and failed to take over OpenAI in 2018".
+The Verge.
+Archived from the original on June 19, 2023.
+ Retrieved June 19, 2023.
+^ "Why Elon Musk's $100 million donation claim to ChatGPT maker OpenAI may be wrong".
+The Times of India.
+ May 18, 2023.
+Archived from the original on June 19, 2023.
+ Retrieved June 19, 2023.
+^ Novet, Jordan (February 2, 2018).
+"Elon Musk, who has sounded the alarm on AI, leaves the organization he co-founded to make it safer".
+ CNBC. Archived from the original on August 30, 2020.
+ Retrieved September 3, 2020.
+^ Johnson, Steven; Iziev, Nikita (April 15, 2022).
+"A.I. Is Mastering Language. Should We Trust What It Says?".
+The New York Times.
+Archived from the original on November 24, 2022.
+ Retrieved July 24, 2022.
+^ Metz, Cade (April 6, 2022).
+"Meet DALL-E, the A.I. That Draws Anything at Your Command".
+The New York Times.
+Archived from the original on July 20, 2022.
+ Retrieved July 24, 2022.
+^ Zahn, Max.
+"Elon Musk launches his own AI company to compete with ChatGPT".
+ABC News.
+Archived from the original on July 15, 2023.
+ Retrieved July 14, 2023.
+^ Henshall, Will (July 12, 2023).
+"What to Know About Elon Musk's New AI Company, xAI".
+Time.
+Archived from the original on September 6, 2023.
+ Retrieved September 24, 2023.
+^ a b Lee, Timothy B. (July 10, 2018).
+"Thai official: Elon Musk's submarine "not practical for this mission" [Updated]".
+Ars Technica.
+Archived from the original on September 19, 2020.
+ Retrieved September 13, 2020.
+^ Wong, Julia Carrie (December 5, 2019).
+"Elon Musk trial: Vernon Unsworth says entrepreneur's tweets 'humiliated' him".
+The Guardian.
+Archived from the original on May 13, 2022.
+ Retrieved May 13, 2022.
+^ Ferris, Robert (July 10, 2018).
+"Elon Musk says his 'mini-submarine' can be used for other things".
+ CNBC.
+Archived from the original on July 13, 2018.
+ Retrieved July 13, 2018.
+^ "Tested for Thailand, SpaceX's makeshift mini-sub could serve as space escape pod".
+GeekWire.com.
+ July 8, 2018.
+Archived from the original on December 7, 2019.
+ Retrieved December 7, 2019.
+^ "Thai king confers awards on two Australian divers for rescue of cave boys".
+Reuters.
+ April 19, 2019. Archived from the original on April 6, 2020.
+ Retrieved September 23, 2019.
+^ a b Levin, Sam (July 15, 2018).
+"Elon Musk calls British diver in Thai cave rescue a 'pedo' in baseless attack".
+The Guardian.
+Archived from the original on August 3, 2020.
+ Retrieved July 15, 2018.
+^ Browne, Ryan (July 18, 2020).
+"Elon Musk apologizes to British cave diver following baseless 'pedo guy' claim".
+ CNBC. Archived from the original on August 5, 2020.
+ Retrieved September 3, 2020.
+^ Klepper, David (April 27, 2022).
+"What Elon Musk's own tweets reveal about Twitter's next owner—and his plans for the company".
+Fortune.
+Archived from the original on May 25, 2022.
+ Retrieved May 31, 2022.
+^ Smith, Adam (April 4, 2022).
+"The strangest things Elon Musk has ever done on Twitter".
+The Independent.
+Archived from the original on May 21, 2022.
+ Retrieved May 15, 2022.
+^ Paul, Kari (October 9, 2019).
+"Elon Musk claims his investigator tricked him about diver he called a 'pedo' ".
+The Guardian.
+Archived from the original on May 15, 2022.
+ Retrieved May 15, 2022.
+^ "Elon Musk sued for libel by British Thai cave rescuer".
+BBC News.
+ September 17, 2018. Archived from the original on May 26, 2020.
+ Retrieved September 3, 2020.
+^ Rawlinson, Kevin (September 17, 2018).
+"British diver sues Elon Musk for $75,000 over 'pedo' claim".
+The Guardian.
+ Archived from the original on July 2, 2020.
+ Retrieved September 3, 2020.
+^ Wong, Julia Carrie (December 4, 2019).
+"Elon Musk: pedo guy insult was 'not classy' but not meant literally".
+The Guardian.
+ Archived from the original on August 3, 2020.
+^ Kolodny, Lora (May 10, 2019).
+"Elon Musk found not liable in 'pedo guy' defamation trial".
+ CNBC. Archived from the original on August 3, 2020.
+ Retrieved December 6, 2019.
+^ Groom, Nichola; Parsons, Rachel (December 6, 2019).
+"Tesla boss Elon Musk wins defamation trial over his 'pedo guy' tweet".
+Reuters.
+Archived from the original on June 3, 2020.
+ Retrieved September 14, 2020.
+^ Grace Dean; Huileng Tan (August 2022).
+"Elon Musk said he and the 'whole of SpaceX' had to be drug tested for a year after he smoked weed on Joe Rogan's podcast".
+Business Insider.
+Archived from the original on November 21, 2022.
+ Retrieved August 27, 2022.
+^ Gottsegen, Gordon (December 7, 2018).
+"Despite infamous hit, Elon Musk says he has 'no idea how to smoke pot' ".
+ CNET. Archived from the original on November 19, 2019.
+ Retrieved September 15, 2020.
+^ Arcand, Rob (March 31, 2019).
+"Elon Musk Drops Surprise Rap Single 'RIP Harambe' ".
+Spin.
+Archived from the original on April 1, 2019.
+ Retrieved April 1, 2019.
+^ Fitzgerald, Trent (March 31, 2019).
+"Elon Musk Randomly Shares Rap Song Dedicated to Harambe".
+XXL.
+Archived from the original on April 3, 2019.
+ Retrieved April 10, 2019.
+^ a b Etherington, Darrell.
+"Elon Musk just dropped an EDM track on SoundCloud".
+TechCrunch.
+Archived from the original on April 26, 2021.
+ Retrieved February 3, 2020.
+^ Petridis, Alexis (January 31, 2020).
+"Elon Musk's new EDM single reviewed – 'Bringing erectile dysfunction to the masses!' ".
+The Guardian.
+ISSN 0261-3077.
+ Archived from the original on June 21, 2020.
+ Retrieved February 3, 2020.
+^ "Which jets do Jeff Bezos and other tech billionaires own?".
+South China Morning Post.
+ March 15, 2019.
+Archived from the original on October 22, 2022.
+ Retrieved November 7, 2021.
+^ a b Geuss, Megan (January 30, 2019).
+"Elon Musk's private jet appears to make frivolous flights, per Washington Post".
+Ars Technica.
+Archived from the original on April 14, 2021.
+ Retrieved April 14, 2021.
+^ Pierce, David (August 25, 2020).
+"Elon Musk's new plane".
+Politico.
+Archived from the original on May 17, 2022.
+ Retrieved June 8, 2022.
+^ Harwell, Drew (January 29, 2019).
+"Elon Musk's highflying 2018: What 150,000 miles in a private jet reveal about his 'excruciating' year".
+The Washington Post.
+Archived from the original on May 4, 2021.
+ Retrieved May 14, 2021.
+^ Musk, Elon [@elonmusk] (December 15, 2022).
+"Last night, car carrying lil X in LA was followed by crazy stalker (thinking it was me), who later blocked car from moving & climbed onto hood. Legal action is being taken against Sweeney & organizations who supported harm to my family" (Tweet).
+Archived from the original on December 19, 2022.
+ Retrieved December 20, 2022 – via Twitter.
+^ "Musk bans Twitter account tracking his jet, threatens to sue creator".
+Washington Post.
+ISSN 0190-8286.
+Archived from the original on December 15, 2022.
+ Retrieved December 15, 2022.
+^ " 'Crazy stalker' attacks Elon Musk's car as Twitter boss threatens legal action against account tracking his private jet".
+Sky News.
+ December 15, 2022.
+Archived from the original on December 28, 2022.
+ Retrieved January 11, 2023.
+^ Taylor, Josh (December 17, 2022).
+"Elon Musk reinstates Twitter accounts of suspended journalists".
+The Guardian.
+Archived from the original on January 19, 2023.
+ Retrieved January 24, 2023.
+^ "Twitter suspends account tracking Elon Musk's jet after 'stalker' follows his child – National | Globalnews.ca".
+Global News.
+Archived from the original on December 17, 2022.
+ Retrieved December 18, 2022.
+^ Harwell, Drew; Lorenz, Taylor (December 18, 2022).
+"Musk blamed a Twitter account for an alleged stalker. Police see no link".
+The Washington Post.
+Archived from the original on December 26, 2022.
+ Retrieved January 11, 2023.
+^ Darcy, Oliver (December 17, 2022).
+"Elon Musk offers journalists he banned from Twitter ability to return under certain condition".
+CNN.
+ Archived from the original on January 27, 2023.
+ Retrieved January 24, 2023.
+^ Klebnikov, Sergei (August 8, 2017).
+"8 Innovative Ways Elon Musk Made Money Before He Was a Billionaire".
+Money.
+Archived from the original on August 9, 2020.
+ Retrieved April 13, 2021.
+^ Melby, Caleb (March 12, 2012).
+"How Elon Musk Became A Billionaire Twice Over".
+Forbes.
+Archived from the original on July 11, 2022.
+ Retrieved February 17, 2021.
+^ Frank, Robert (January 7, 2021).
+"Elon Musk is now the richest person in the world, passing Jeff Bezos".
+CNBC.
+Archived from the original on April 6, 2021.
+ Retrieved April 13, 2021.
+^ a b O'Kane, Sean (January 7, 2021).
+"Elon Musk passes Jeff Bezos to become the richest person on Earth".
+The Verge.
+Archived from the original on October 9, 2022.
+ Retrieved February 17, 2021.
+^ Pitcher, Jack (September 8, 2020).
+"Elon Musk Loses Record $16.3 Billion With Wild Wealth Swings".
+Bloomberg.
+Archived from the original on September 27, 2020.
+ Retrieved February 23, 2021.
+^ a b Neate, Rupert (November 14, 2020).
+"Elon Musk overtakes Bill Gates to become world's second-richest person".
+The Guardian.
+Archived from the original on January 14, 2021.
+ Retrieved February 17, 2021.
+^ "Elon Musk becomes world's richest person as wealth tops $185bn".
+BBC News.
+ January 7, 2021.
+Archived from the original on January 8, 2021.
+ Retrieved February 17, 2021.
+^ Palmer, Annie (February 16, 2021).
+"Jeff Bezos overtakes Elon Musk to reclaim spot as world's richest person".
+CNBC.
+Archived from the original on February 16, 2021.
+ Retrieved February 17, 2021.
+^ Cai, Kenrick (September 27, 2021).
+"Elon Musk Eclipses $200 Billion To Become Richest Person in the World Again".
+Forbes.
+Archived from the original on September 28, 2021.
+ Retrieved September 28, 2021.
+^ Haverstock, Eliza (November 2, 2021).
+"Elon Musk Is The First Person Worth More Than $300 Billion".
+Forbes.
+Archived from the original on May 31, 2022.
+ Retrieved November 4, 2021.
+^ Chappatta, Brian (December 30, 2022).
+"Elon Musk Becomes First Person Ever to Lose $200 Billion".
+Bloomberg.
+Archived from the original on September 19, 2023.
+ Retrieved September 19, 2023.
+^ Woodward, Alex (January 1, 2023).
+"Elon Musk is the first person in history to lose $200 billion".
+The Independent.
+Archived from the original on January 4, 2023.
+ Retrieved January 11, 2023.
+^ Gans, Jared (January 7, 2023).
+"Elon Musk secures world record for largest-ever loss of personal fortune".
+The Hill.
+Archived from the original on January 9, 2023.
+ Retrieved January 10, 2023.
+^ Jin, Hyunjoo; Marshall, Elizabeth Dilts (April 26, 2022).
+"Funding obscured: The family office behind Musk's $44 billion Twitter buyout".
+ Reuters.
+Archived from the original on July 21, 2023.
+^ Higgins, Tim (December 23, 2022).
+"Elon Musk's Finances Complicated by Declining Wealth, Twitter Pressures".
+The Wall Street Journal.
+^ a b Sorkin, Andrew Ross (January 23, 2018).
+"Tesla's Elon Musk May Have Boldest Pay Plan in Corporate History".
+The New York Times.
+Archived from the original on February 11, 2021.
+ Retrieved February 17, 2021.
+^ a b O'Kane, Sean (May 28, 2020).
+"Elon Musk reaches first Tesla compensation award worth nearly $800 million".
+The Verge.
+Archived from the original on February 2, 2021.
+ Retrieved February 17, 2021.
+^ a b Browne, Ryan (December 20, 2021).
+"Elon Musk says he will pay over $11 billion in taxes this year".
+CNBC.
+Archived from the original on November 3, 2022.
+ Retrieved March 3, 2022.
+^ Mangan, Dan (June 8, 2021).
+"Bezos, Buffett, Bloomberg L.P., Musk, Icahn and Soros pay tiny fraction of wealth in income taxes, report reveals".
+CNBC.
+Archived from the original on October 5, 2022.
+ Retrieved June 8, 2021.
+^ a b Pendeleton, Devon (January 6, 2021).
+"Elon Musk Surpasses Jeff Bezos to Become World's Richest Person".
+ Bloomberg L.P.
+Archived from the original on January 6, 2021.
+ Retrieved February 17, 2021.
+^ a b Higgins, Tim (May 8, 2020).
+"Elon Musk, Tech's Cash-Poor Billionaire".
+The Wall Street Journal.
+Archived from the original on February 16, 2021.
+ Retrieved February 17, 2021.
+^ Woodward, Alex (March 22, 2021).
+"Bernie Sanders responds to Elon Musk's space travel plans with call for progressive taxes".
+The Independent.
+Archived from the original on April 13, 2021.
+ Retrieved April 13, 2021.
+^ Paul, Kari (April 26, 2022).
+"Chaotic and crass: a brief timeline of Elon Musk's history with Twitter".
+The Guardian.
+Archived from the original on April 26, 2022.
+ Retrieved June 13, 2022.
+^ Porter, Jon (June 28, 2022).
+"Elon Musk now has over 100 million Twitter followers".
+The Verge.
+Archived from the original on January 11, 2023.
+ Retrieved July 24, 2022.
+^ Horowitz, Julia (August 7, 2018).
+"Elon Musk tweets a lot. This time was different".
+CNN Business.
+Archived from the original on May 25, 2022.
+ Retrieved June 4, 2022.
+^ O'Connor, Roisin (July 25, 2020).
+"Grimes tells Elon Musk 'turn off your phone' after Tesla CEO's gender pronouns tweet".
+The Independent.
+Archived from the original on January 7, 2021.
+ Retrieved January 14, 2021.
+^ Migdon, Brooke (April 25, 2022).
+"LGBTQ+ Twitter users contemplate exit amid Elon Musk takeover".
+The Hill.
+Archived from the original on April 25, 2022.
+ Retrieved May 18, 2022.
+^ "Elon Musk tweets, then deletes, meme comparing Trudeau to Hitler".
+Reuters.
+ February 17, 2022.
+Archived from the original on February 17, 2022.
+ Retrieved December 12, 2022.
+^ Metz, Cade; Satariano, Adam; Che, Chang (October 26, 2022).
+"How Elon Musk Became a Geopolitical Chaos Agent".
+The New York Times.
+Archived from the original on October 29, 2022.
+ Retrieved October 26, 2022.
+^ Elon Musk's tweets about Texas mall gunman spread misleading claims, question shooter's background.
+ The Associated Press. May 10, 2023.
+Archived from the original on May 11, 2023.
+ Retrieved May 11, 2023.
+^ Garofoli, Joe (December 13, 2022).
+"Elon Musk is leaning into transphobia".
+San Francisco Chronicle.
+Archived from the original on June 28, 2023.
+ Retrieved June 8, 2023.
+^ "Elon Musk's response to anti-trans video sparked day of chaos at Twitter".
+NBC News.
+ June 2, 2023.
+Archived from the original on June 7, 2023.
+ Retrieved June 8, 2023.
+^ Isidore, Chris (May 16, 2023).
+"Elon Musk claims George Soros 'hates humanity.' The ADL says Musk's attacks 'will embolden extremists' ".
+CNN.
+Archived from the original on May 19, 2023.
+ Retrieved May 19, 2023.
+^ Rubin, Shira (May 19, 2023).
+"Israel pivots to say Elon Musk attacks on George Soros now not antisemitic".
+The Washington Post.
+Archived from the original on May 19, 2023.
+ Retrieved May 22, 2023.
+^ O'Leary, Lizzie (October 6, 2022).
+"Can Longtermism Save Us All?".
+Slate.
+Archived from the original on December 24, 2022.
+ Retrieved December 24, 2022.
+^ Gibbs, Samuel (October 27, 2014).
+"Elon Musk: artificial intelligence is our biggest existential threat".
+The Guardian.
+Archived from the original on October 30, 2015.
+ Retrieved December 15, 2015.
+^ "Elon Musk and Stephen Hawking think we should ban killer robots".
+The Washington Post.
+ July 28, 2015.
+Archived from the original on March 8, 2016.
+ Retrieved January 5, 2017.
+^ Gomez, Brandon (August 24, 2021).
+"Elon Musk warned of a 'Terminator'-like AI apocalypse – now he's building a Tesla robot".
+ CNBC.
+Archived from the original on June 17, 2022.
+ Retrieved June 30, 2022.
+^ Kakaes, Konstantin (April 26, 2022).
+"Elon Musk's biggest worry".
+Politico.
+Archived from the original on May 27, 2022.
+ Retrieved June 30, 2022.
+^ Victor, Daniel (July 27, 2015).
+"Elon Musk and Stephen Hawking Among Hundreds to Urge Ban on Military Robots".
+The New York Times.
+Archived from the original on June 15, 2022.
+ Retrieved July 26, 2022.
+^ Shead, Sam (May 13, 2020).
+"Elon Musk has a complex relationship with the A.I. community".
+ CNBC.
+Archived from the original on November 11, 2020.
+ Retrieved December 13, 2020.
+^ Metz, Cade (June 9, 2018).
+"Mark Zuckerberg, Elon Musk and the Feud Over Killer Robots".
+The New York Times.
+Archived from the original on February 15, 2021.
+ Retrieved January 14, 2021.
+^ " 'Artificial intelligence alarmists' like Elon Musk and Stephen Hawking win 'Luddite of the Year' award".
+The Independent.
+ January 19, 2016.
+Archived from the original on August 19, 2017.
+ Retrieved February 25, 2018.
+^ Holthaus, Eric (February 9, 2018).
+"Why Elon Musk's Ambition Is an Antidote to Climate-Pessimism".
+Rolling Stone.
+Archived from the original on June 7, 2022.
+ Retrieved June 6, 2022.
+^ Boyle, Louise (February 15, 2021).
+"Elon Musk says Biden administration called a carbon tax 'too politically difficult' ".
+The Independent.
+Archived from the original on June 7, 2022.
+ Retrieved June 6, 2022.
+^ Roth, Madeline (September 29, 2020).
+"Elon Musk says he may vote for Trump, despite climate crisis".
+The Independent.
+Archived from the original on April 12, 2021.
+ Retrieved April 12, 2021.
+^ Bhuiyan, Johana (December 14, 2016).
+"Elon Musk and Travis Kalanick are joining Donald Trump's strategic and policy forum".
+Vox.
+Archived from the original on March 25, 2020.
+ Retrieved March 7, 2020.
+^ Lee, Timothy B. (June 1, 2017).
+"Elon Musk has cut ties with Trump over his Paris decision".
+Vox.
+Archived from the original on May 16, 2021.
+ Retrieved May 16, 2021.
+^ Chang, Kenneth (September 27, 2016).
+"Elon Musk's Plan: Get Humans to Mars, and Beyond".
+The New York Times.
+Archived from the original on December 14, 2021.
+ Retrieved June 10, 2022.
+^ Chang, Kenneth (March 19, 2021).
+"The Water on Mars Vanished. This Might Be Where It Went".
+The New York Times.
+Archived from the original on November 24, 2021.
+ Retrieved June 26, 2022.
+^ Delbert, Caroline (May 19, 2020).
+"Elon Musk Needs 10,000+ Missiles to Nuke Mars. 'No Problem,' He Says".
+Popular Mechanics.
+Archived from the original on May 11, 2022.
+ Retrieved June 6, 2022.
+^ Grush, Loren (May 11, 2020).
+"Elon Musk thinks the best government for Mars is a direct democracy".
+The Verge.
+Archived from the original on July 19, 2020.
+ Retrieved May 11, 2020.
+^ Spocchia, Gina (May 27, 2022).
+"Elon Musk mocked for saying 'Italy will have no people' due to population decline".
+The Independent.
+Archived from the original on June 26, 2022.
+ Retrieved June 26, 2022.
+^ "Population decline and smaller families good news for climate, says former head of FSA".
+The Independent.
+ October 18, 2021.
+Archived from the original on May 30, 2022.
+ Retrieved June 7, 2022.
+^ "Elon Musk claims population collapse 'potentially the greatest risk to the future of civilization' ".
+CambridgeshireLive.
+ July 29, 2021.
+Archived from the original on May 31, 2022.
+ Retrieved June 7, 2022.
+^ "Elon Musk says there aren't 'enough people,' birthrate could threaten human civilization".
+USA Today.
+ December 7, 2021.
+Archived from the original on May 10, 2022.
+ Retrieved June 7, 2022.
+^ a b Peters, Jeremy W. (April 26, 2022).
+"The Elusive Politics of Elon Musk".
+The New York Times.
+Archived from the original on June 11, 2022.
+ Retrieved June 13, 2022.
+^ "Elon Musk, SpaceX Founder, Battles Entrenched Rivals Over NASA Contracts".
+HuffPost.
+ February 20, 2013.
+Archived from the original on May 30, 2015.
+ Retrieved May 30, 2015.
+^ Robertson, Derek.
+"Elon Musk Has Become the Villain Liberals Always Imagined Him to Be".
+Politico.
+Archived from the original on November 12, 2022.
+ Retrieved November 23, 2022.
+^ Gardner, Akayla; Birnbaum, Emily; Frier, Sarah (November 7, 2022).
+"Elon Musk Tells Twitter Followers to Vote for a Republican Congress".
+Bloomberg.
+Archived from the original on April 15, 2023.
+ Retrieved September 18, 2023.
+^ Maria Jose Valero (August 10, 2019).
+"Elon Musk Says He Supports 2020 White House Hopeful Andrew Yang".
+ Bloomberg L.P. Archived from the original on April 6, 2020.
+ Retrieved August 10, 2019.
+^ Kirkpatrick, Emily.
+"Elon Musk Supports Kanye West's Run for President...Again".
+Vanity Fair.
+Archived from the original on August 3, 2020.
+ Retrieved September 5, 2020.
+^ Feinberg, Andrew (April 18, 2023).
+"Trump lashes out at Elon Musk after tech mogul says he voted for Biden".
+The Independent.
+Archived from the original on September 19, 2023.
+ Retrieved September 18, 2023.
+^ Spocchia, Gino (May 18, 2022).
+"Elon Musk says he plans to vote Republican for the first time".
+The Independent.
+Archived from the original on May 18, 2022.
+ Retrieved May 18, 2022.
+^ "Elon Musk Says Democrats Are No Longer 'the Kindness Party' ".
+ Bloomberg L.P. May 18, 2022.
+ Retrieved May 18, 2022.
+^ Hassan, Jennifer; Oremus, Will (November 7, 2022).
+"Elon Musk recommends voting GOP, suspends Twitter accounts for 'impersonation' ".
+The Washington Post.
+Archived from the original on November 7, 2022.
+ Retrieved November 7, 2022.
+^ "Elon Musk recommends voting for Republicans in U.S. midterm elections".
+Reuters.
+ November 7, 2022.
+Archived from the original on January 11, 2023.
+ Retrieved November 7, 2022.
+^ Schonfeld, Zach (June 15, 2022).
+"DeSantis on Musk tweet: 'I welcome support from African Americans' ".
+The Hill.
+Archived from the original on June 21, 2022.
+ Retrieved July 1, 2022.
+^ a b Siddiqui, Faiz (May 25, 2023).
+"Twitter repeatedly crashes as DeSantis tries to make presidential announcement".
+Washington Post.
+Archived from the original on May 24, 2023.
+ Retrieved June 8, 2023.
+^ "Twitter Spaces Glitches Plague DeSantis's 2024 Announcement".
+The Wall Street Journal.
+Archived from the original on June 8, 2023.
+ Retrieved June 8, 2023.
+^ "Elon Musk says Vivek Ramaswamy should be the GOP's VP pick for the 2024 election".
+www.businessinsider.com.
+ August 28, 2023.
+^ Wolf, Zachary B. (October 27, 2021).
+"Elon Musk used government money to build Tesla. But he fears a tax on billionaires".
+CNN Politics.
+Archived from the original on February 4, 2022.
+ Retrieved June 7, 2022.
+^ Maruf, Ramishah (November 14, 2021).
+" 'I keep forgetting you're still alive:' Elon Musk trolls Bernie Sanders on Twitter".
+ CNN.
+Archived from the original on November 18, 2021.
+ Retrieved November 18, 2021.
+^ Lenthang, Marlene (November 15, 2021).
+"Elon Musk targets Sen. Bernie Sanders over tax tweet: 'I keep forgetting that you're still alive' ".
+ NBC News.
+Archived from the original on November 17, 2021.
+ Retrieved November 18, 2021.
+^ Spocchia, Gino (May 1, 2022).
+"AOC explains why she deleted tweet after Elon Musk accused her of 'hitting' on him".
+The Independent.
+Archived from the original on June 2, 2022.
+ Retrieved June 7, 2022.
+^ Isidore, Chris (December 15, 2021).
+"Elon Musk calls Elizabeth Warren 'Senator Karen' in fight over taxes".
+CNN Business.
+Archived from the original on March 10, 2022.
+ Retrieved June 7, 2022.
+^ "Elon Musk Makes Fun of Twitter T-Shirts Linked to BLM Protests".
+Bloomberg.com.
+ November 23, 2022.
+Archived from the original on November 23, 2022.
+ Retrieved November 26, 2022.
+Elon Musk is courting more controversy at Twitter Inc., posting a video making fun of old t-shirts at the social media service that date back to the early days of the Black Lives Matter movement.
+^ Porterfield, Carlie.
+"Musk Wars With The Left: Suggests 'Activists' Killed Moderation Plan And Baits Black Lives Matter Supporters".
+Forbes.
+Archived from the original on November 28, 2022.
+ Retrieved November 26, 2022.
+CEO Elon Musk is raising eyebrows by …raising questions about the Black Lives Matter protests.
+^ "Elon Musk deleted a tweet about Paul Pelosi. Here's why that matters".
+The Washington Post.
+Archived from the original on December 1, 2022.
+ Retrieved November 26, 2022.
+^ "Musk Visits Brazil's Bolsonaro to Discuss Amazon Rainforest Plans".
+VOA News.
+ May 20, 2022.
+^ "Elon Musk's Starlink is transforming the Amazon, especially for criminals".
+Fortune.
+ March 15, 2023.
+^ He, Laura (March 24, 2021).
+"Elon Musk is trying to win China back".
+ CNN.
+Archived from the original on July 9, 2021.
+ Retrieved July 1, 2021.
+^ Marquis, Christopher ; Qiao, Kunyuan (2022).
+Mao and Markets: The Communist Roots of Chinese Enterprise.
+ New Haven: Yale University Press.
+doi : 10.2307/j.ctv3006z6k.
+ISBN 978-0-300-26883-6.
+JSTOR j.ctv3006z6k.
+OCLC 1348572572.
+S2CID 253067190.
+^ Roth, Emma (August 13, 2022).
+"Elon Musk pitches lofty goals in a magazine run by China's internet censorship agency".
+The Verge.
+Archived from the original on August 16, 2022.
+ Retrieved August 17, 2022.
+^ "Now Elon Musk Is Telling China's Censors About His Vision for the Future".
+Bloomberg.com.
+ August 15, 2022.
+ Retrieved August 17, 2022.
+^ "Taiwan parties slam Musk over 'special administrative zone' suggestion".
+ Focus Taiwan.
+Archived from the original on December 18, 2022.
+ Retrieved January 11, 2023.
+^ "Taiwan politicians dismiss Elon Musk's 'ill-informed and belittling' China comments".
+ The Guardian.
+Archived from the original on January 9, 2023.
+ Retrieved January 11, 2023.
+^ Singh, Kanishka; Jin, Hyunjoo (October 8, 2022).
+"Musk offers proposal on China-Taiwan tensions, after Russia-Ukraine plan".
+Reuters.
+Archived from the original on October 22, 2022.
+ Retrieved October 9, 2022.
+^ "Zelenskiy hits back as Elon Musk sets up Twitter poll on annexed areas of Ukraine".
+the Guardian.
+ October 3, 2022.
+Archived from the original on October 28, 2022.
+ Retrieved October 12, 2022.
+^ "Elon Musk's peace plan for Ukraine draws condemnation from Zelenskyy".
+NPR.
+ Associated Press. October 4, 2022.
+Archived from the original on October 29, 2022.
+ Retrieved October 12, 2022.
+^ Champion, Matthew.
+"Elon Musk Spoke to Putin Before Tweeting Ukraine Peace Plan: Report".
+Vice.
+Archived from the original on October 15, 2022.
+ Retrieved October 16, 2022.
+^ "Elon Musk denies he spoke to Putin about Ukraine war".
+BBC News.
+ October 16, 2022.
+Archived from the original on October 15, 2022.
+ Retrieved October 16, 2022.
+^ Bertrand, Natasha; Yeung, Jessie (October 12, 2022).
+"Elon Musk denies claim he spoke to Vladimir Putin about the war in Ukraine".
+CNN Business.
+Archived from the original on November 26, 2022.
+ Retrieved October 16, 2022.
+^ "Elon Musk Sends Dire Warning About Russia-Ukraine War".
+TheStreet.
+ October 10, 2022.
+^ "Elon Musk Says Nuclear War Probability Is Rising Rapidly; 'Have Been Up All Night To Think Of Any Possible Way To Deescalate This War' ".
+Yahoo Finance.
+ January 30, 2023.
+^ "Fearing a nuclear war, Elon Musk snipped Starlink services to thwart Ukrainian drone offensive on Russia".
+WION.
+ September 8, 2023.
+^ " 'Sleepwalking our way into World War III': Elon Musk's weighs in on Israel-Hamas and Ukraine-Russia conflict".
+Business Today.
+ October 24, 2023.
+^ a b c Kolodny, Lora (March 17, 2020).
+"Tesla factory is still open for business as Musk tells employees 'I will personally be at work' ".
+ CNBC.
+Archived from the original on May 10, 2020.
+ Retrieved December 13, 2020.
+^ a b Koren, Marina (May 10, 2020).
+"The Cult of Elon Is Cracking".
+The Atlantic.
+Archived from the original on December 10, 2020.
+ Retrieved February 2, 2021.
+^ Brandom, Russell (April 29, 2020).
+"Elon Musk is dangerously wrong about the novel coronavirus".
+The Verge.
+Archived from the original on May 24, 2020.
+ Retrieved May 6, 2020.
+^ Cooper, Gael Fashingbauer (March 6, 2020).
+"Elon Musk draws ire after calling panic over coronavirus epidemic 'dumb' ".
+ CNET.
+Archived from the original on September 3, 2020.
+ Retrieved September 8, 2020.
+^ Bursztynsky, Jessica (March 6, 2020).
+"Elon Musk says 'the coronavirus panic is dumb' as tech peers shift to remote work".
+ CNBC. Archived from the original on August 8, 2020.
+ Retrieved September 8, 2020.
+^ Stanton, Zack (December 29, 2020).
+"The Worst Predictions of 2020".
+Politico.
+Archived from the original on December 29, 2020.
+ Retrieved December 30, 2020.
+^ "Coronavirus: Elon Musk 'child immunity' tweet will stay online".
+BBC News.
+ March 20, 2020.
+Archived from the original on April 12, 2020.
+ Retrieved December 13, 2020.
+^ Fried, Ina (March 20, 2020).
+"Twitter lets Musk's coronavirus misinformation stand".
+Axios.
+Archived from the original on February 24, 2021.
+ Retrieved February 2, 2021.
+^ Boudette, Neal E.; Flitter, Emily (May 9, 2020).
+"Elon Musk Lashes Out at Officials Keeping Tesla Plant Closed Over Virus".
+The New York Times.
+Archived from the original on September 1, 2020.
+ Retrieved September 8, 2020.
+^ "Tesla Plan to Keep Factory Open Thrown Up in Air by Sheriff".
+ Bloomberg L.P. March 18, 2020.
+Archived from the original on June 4, 2020.
+ Retrieved June 4, 2020.
+^ Tiku, Nitasha; Siddiqui, Faiz (April 30, 2020).
+"Elon Musk mobilizes tech elites behind reopening society".
+The Washington Post.
+Archived from the original on November 20, 2020.
+ Retrieved February 2, 2021.
+^ a b Sainato, Michael (May 12, 2020).
+"Tesla workers' unemployment may be suspended if they don't return, emails show".
+The Guardian.
+Archived from the original on May 12, 2020.
+^ "Elon Musk targets Dr Anthony Fauci in viral tweet, sparking backlash".
+France 24.
+ December 12, 2002.
+Archived from the original on December 13, 2022.
+ Retrieved December 12, 2022.
+^ Saric, Ivana (December 12, 2022).
+"Lawmakers react to Musk's call to prosecute Fauci".
+Axios.
+Archived from the original on December 12, 2022.
+ Retrieved December 12, 2022.
+^ a b Siddiqui, Faiz (April 29, 2020).
+"The return of erratic Elon Musk: During coronavirus, Tesla CEO spreads misinformation and over-promises on ventilators".
+The Washington Post.
+Archived from the original on May 25, 2022.
+ Retrieved June 7, 2022.
+^ Morrison, Sarah (March 31, 2022).
+"Trump isn't making America's ventilator shortage any easier".
+Vox.
+Archived from the original on May 2, 2022.
+ Retrieved June 13, 2022.
+^ Johnson, Martin (April 17, 2020).
+"California hospitals say Elon Musk sent them BiPAP, CPAP machines, not ventilators".
+The Hill.
+Archived from the original on October 25, 2020.
+ Retrieved November 3, 2020.
+^ Carville, Olivia; Hull, Dana (April 17, 2020).
+"Elon Musk's 'Ventilators' Arrived at Hospitals – With Some Assembly Required".
+ Bloomberg L.P.
+Archived from the original on January 29, 2021.
+ Retrieved January 23, 2021.
+^ Brooks, Khristopher J. (December 22, 2021).
+"SpaceX faced COVID-19 outbreak, health records show".
+ CBS News.
+Archived from the original on June 8, 2022.
+ Retrieved June 8, 2022.
+^ Setty, Ganesh.
+"Elon Musk doubles down on Covid-19 skepticism and says he won't take future vaccine".
+ CNN.
+Archived from the original on January 28, 2021.
+ Retrieved June 14, 2022.
+^ a b Andrews, Travis M. (November 17, 2020).
+"A scientist's viral tweet called Elon Musk 'Space Karen' – as a way to defend science".
+The Washington Post.
+Archived from the original on January 11, 2021.
+ Retrieved January 14, 2021.
+^ Cuthbertson, Anthony (November 16, 2020).
+"Elon Musk Forced to Watch Historic SpaceX Launch from Home and Mocked as 'Space Karen' After Catching COVID".
+The Independent.
+Archived from the original on January 21, 2021.
+ Retrieved January 14, 2021.
+^ Ball, Molly; Kluger, Jeffrey; De La Garza, Alejandro (December 13, 2021).
+"Elon Musk: Person of the Year".
+Time.
+Archived from the original on December 13, 2021.
+ Retrieved June 13, 2022.
+^ Kolodny, Lora (October 8, 2021).
+"Elon Musk endorses a carbon tax, downplays concerns about methane".
+ CNBC.
+Archived from the original on December 22, 2021.
+ Retrieved December 22, 2021.
+^ Clifford, Catherine (February 12, 2021).
+"Elon Musk: 'My top recommendation' for reducing greenhouse gas emissions is a carbon tax".
+ CNBC.
+Archived from the original on December 22, 2021.
+ Retrieved December 22, 2021.
+^ Werber, Cassie.
+"Elon Musk says tax-free carbon is "the dumbest experiment in history" ".
+Quartz.
+ Archived from the original on August 26, 2020.
+ Retrieved August 30, 2016.
+^ "Taxpayer Subsidies Helped Tesla Motors, So Why Does Elon Musk Slam Them?".
+Mother Jones.
+ Archived from the original on June 16, 2020.
+ Retrieved April 19, 2015.
+^ Plumer, Brad (July 8, 2017).
+"When Will Electric Cars Go Mainstream? It May Be Sooner Than You Think".
+The New York Times.
+Archived from the original on July 8, 2017.
+ Retrieved December 22, 2021.
+^ Kharpal, Arjun (May 18, 2021).
+"What 'regulatory credits' are – and why they're so important to Tesla".
+ CNBC.
+Archived from the original on December 22, 2021.
+ Retrieved December 22, 2021.
+^ "In struggle to meet EU rule, automakers turn to Tesla for credits".
+Nikkei Asia.
+Archived from the original on December 14, 2021.
+ Retrieved December 22, 2021.
+^ "Fiat Chrysler to pay Tesla for CO2 emissions credits".
+euractiv.com.
+ April 8, 2019.
+Archived from the original on December 22, 2021.
+ Retrieved December 22, 2021.
+^ "Volkswagen to buy CO2 credits from Tesla in China".
+electrive.com.
+ April 5, 2021.
+Archived from the original on December 22, 2021.
+ Retrieved December 22, 2021.
+^ Stewart, Jack (October 6, 2018).
+"What Are Shorts and Why Does Elon Hate Them?".
+Wired.
+Archived from the original on January 29, 2021.
+ Retrieved March 6, 2021.
+^ Graziosi, Graig (January 29, 2021).
+"Elon Musk lashes out at short sellers during GameStop market war".
+The Independent.
+Archived from the original on January 29, 2021.
+ Retrieved March 6, 2021.
+^ "What Are Shorts and Why Does Elon Musk Hate Them?".
+Wired.
+Archived from the original on January 29, 2021.
+ Retrieved May 19, 2021.
+^ Levine, Matt (February 4, 2021).
+"Who's Winning the GameStop Game?".
+ Bloomberg L.P.
+Archived from the original on February 5, 2021.
+ Retrieved February 4, 2021.
+^ Gelles, David (January 29, 2021).
+"Elon Musk Becomes Unlikely Anti-Establishment Hero in GameStop Saga".
+The New York Times.
+Archived from the original on February 4, 2021.
+ Retrieved February 4, 2021.
+^ Ponnezhath, Maria; Jin, Hyunjoo (December 15, 2022).
+"Musk cashes out another $3.6 bln in Tesla stock".
+Reuters.
+Archived from the original on January 11, 2023.
+ Retrieved December 15, 2022.
+^ Merced, Michael J. de la; Eavis, Peter (December 15, 2022).
+"Elon Musk Sells Another Big Chunk of Tesla Stock".
+The New York Times.
+Archived from the original on February 4, 2023.
+ Retrieved January 30, 2023.
+^ "Musk says he supports crypto in battle with fiat money".
+Reuters.
+ May 22, 2021.
+Archived from the original on June 2, 2021.
+ Retrieved May 31, 2021.
+^ Ante, Lennart (February 3, 2021). "How Elon Musk's Twitter Activity Moves Cryptocurrency Markets".
+SSRN 3778844.
+^ "SEC Should Monitor Tesla's Elon Musk for Market Manipulation: Roubini".
+Yahoo.
+Archived from the original on June 2, 2021.
+ Retrieved May 31, 2021.
+^ Kovach, Steve (February 8, 2021).
+"Tesla buys $1.5 billion in bitcoin, plans to accept it as payment".
+CNBC.
+Archived from the original on June 1, 2022.
+ Retrieved June 7, 2022.
+^ Hoskins, Peter (May 13, 2021).
+"Tesla will no longer accept Bitcoin over climate concerns, says Musk".
+BBC News.
+Archived from the original on May 31, 2022.
+ Retrieved June 7, 2022.
+^ Smith, Adam (May 13, 2021).
+"Bitcoin crashes as Elon Musk announces Tesla cars can no longer be bought with cryptocurrency".
+The Independent.
+Archived from the original on June 5, 2022.
+ Retrieved June 7, 2022.
+^ Marshall, Aarian (December 14, 2017).
+"Elon Musk Really Doesn't Like Mass Transit Systems He's Trying to Build".
+Wired.
+Archived from the original on December 14, 2017.
+ Retrieved December 22, 2021.
+^ a b Sampson, Rich (December 26, 2017).
+"What Elon Musk doesn't understand about public transit hurts everyone".
+Quartz.
+Archived from the original on December 22, 2021.
+ Retrieved December 22, 2021.
+^ a b Hunt, Elle (December 21, 2017).
+" 'I met my wife on a train platform': Twitter responds to Elon Musk with positive public transport stories".
+The Guardian.
+Archived from the original on March 14, 2018.
+ Retrieved December 23, 2017.
+^ LeVine, Steve (December 28, 2017).
+"Elon Musk's mean Twitter persona".
+Axios.
+Archived from the original on December 29, 2017.
+ Retrieved October 17, 2020.
+^ a b "Musk Relocates to Texas, Criticizes 'Complacent' California".
+ Bloomberg L.P. December 8, 2020.
+Archived from the original on December 10, 2020.
+ Retrieved December 9, 2020.
+^ Somerville, Heather (December 8, 2020).
+"Elon Musk Moves to Texas, Takes Jab at Silicon Valley".
+The Wall Street Journal.
+Archived from the original on December 12, 2020.
+ Retrieved December 13, 2020.
+^ Yahr, Emily (May 8, 2021).
+"Elon Musk reveals he has Asperger's syndrome during SNL monologue".
+The Washington Post.
+Archived from the original on May 9, 2021.
+ Retrieved May 9, 2021.
+^ Isaacson (2023) , p. 18.
+^ Blackett, Todd (June 29, 2023).
+"Elon Musk Has BJJ Training Session With Lex Fridman".
+Jitsmagazine.
+Archived from the original on June 29, 2023.
+ Retrieved June 29, 2023.
+^ Mancini, Jeannine (June 21, 2023).
+"Elon Musk's 10 Children Won't Automatically Inherit Shares Of His Companies – He Said It Would Be A Mistake".
+Yahoo Finance.
+Archived from the original on September 9, 2023.
+ Retrieved September 19, 2023.
+^ Durand Streisand, Elizabeth.
+"A Look at Elon Musk's Rocky Romantic History".
+Yahoo.
+ Archived from the original on June 2, 2020.
+ Retrieved May 29, 2017.
+^ Vance (2017) , p. 117.
+^ a b Crowley, James (September 14, 2021).
+"Elon Musk's Kids: Meet His 6 Kids From Oldest To Youngest, & Their Moms".
+Hollywood Life.
+Archived from the original on September 16, 2021.
+ Retrieved September 16, 2021.
+^ Musk, Justine (September 10, 2010).
+" "I Was a Starter Wife": Inside America's Messiest Divorce".
+Marie Claire.
+ Archived from the original on July 30, 2020.
+ Retrieved September 3, 2020.
+^ "Elon Musk's Ex-Wife on What It Takes to Be a Mogul".
+The New York Times.
+ April 27, 2015.
+Archived from the original on June 26, 2022.
+ Retrieved June 26, 2022.
+^ "Elon Musk's daughter granted legal name, gender change".
+Associated Press News.
+ June 23, 2022. Archived from the original on June 26, 2022.
+ Retrieved October 7, 2022.
+^ "Elon Musk: 'Aren't you entertained?' ".
+Financial Times.
+ October 7, 2022.
+Archived from the original on October 7, 2022.
+ Retrieved October 7, 2022.
+^ Vance (2017) , pp. 193–195.
+^ "Actor Talulah Riley files to divorce billionaire Elon Musk, again".
+The Guardian.
+ Associated Press. March 21, 2016.
+Archived from the original on June 16, 2018.
+ Retrieved April 20, 2016.
+^ Boyle, Alan (January 18, 2012).
+"SpaceX's millionaire founder tweets about marital split".
+NBC News.
+Archived from the original on July 1, 2022.
+ Retrieved September 28, 2013.
+^ a b "Elon Musk and Talulah Riley divorce for a second time".
+The Daily Telegraph.
+ October 22, 2016.
+Archived from the original on June 30, 2018.
+ Retrieved June 29, 2018.
+^ Vance (2017) , p. 372.
+^ Jensen, Erin (April 24, 2017).
+"Amber Heard, Elon Musk make 'Cheeky' public debut together".
+USA Today.
+Archived from the original on January 30, 2021.
+ Retrieved January 28, 2021.
+^ Sigel, Tatiana (December 6, 2018).
+"Amber Heard on Her Secret Passion, Elon Musk and a Splashy New Role".
+The Hollywood Reporter.
+Archived from the original on December 6, 2018.
+ Retrieved January 28, 2021.
+^ Darville, Jordan (March 20, 2019).
+"Grimes talks new music, Elon Musk, plans to publicly execute her musical persona".
+The Fader.
+Archived from the original on October 30, 2019.
+ Retrieved December 13, 2020.
+^ Kiefer, Halle (May 4, 2020).
+"Grimes and Elon Musk's Baby Has Arrived, Just As Legend Foretold".
+Vulture.
+Archived from the original on May 5, 2020.
+ Retrieved May 5, 2020.
+^ Trepany, Charles (May 5, 2020).
+"Elon Musk shares first photo of his and Grimes' new baby boy: 'Mom and baby all good' ".
+USA Today.
+Archived from the original on May 29, 2020.
+ Retrieved May 5, 2020.
+^ Schwedel, Heather (May 5, 2020).
+"What Does Elon Musk and Grimes' Baby Name Actually Mean?".
+Slate.
+Archived from the original on May 24, 2020.
+ Retrieved May 5, 2020.
+^ Lerman, Rachel (May 8, 2020).
+"Elon Musk's baby name isn't just weird, it may be against California regulations".
+The Washington Post.
+Archived from the original on December 31, 2020.
+ Retrieved January 11, 2021.
+^ Guy, Jack (May 25, 2020).
+"Elon Musk and Grimes have changed their baby's name. A bit".
+ CNN.
+Archived from the original on May 25, 2020.
+ Retrieved May 25, 2020.
+^ Cooper, Gael Fashingbauer (June 16, 2020).
+"Elon Musk and Grimes saved a surprise for son X Æ A-12's birth certificate".
+ CNET.
+Archived from the original on June 17, 2020.
+ Retrieved June 17, 2020.
+^ Ivie, Devon (September 24, 2021).
+"Elon Musk and Grimes Took the Red Pill and Broke Up".
+Vulture.
+Archived from the original on September 24, 2021.
+ Retrieved September 28, 2021.
+^ "Elon Musk says he and partner Grimes are semi-separated".
+BBC News.
+ September 24, 2021.
+Archived from the original on September 28, 2021.
+ Retrieved September 28, 2021.
+^ D'Zurill, Christie (March 11, 2022).
+"Never mind that new baby: Grimes and Elon Musk have broken up again, she says".
+Los Angeles Times.
+Archived from the original on May 25, 2022.
+ Retrieved March 14, 2022.
+^ Southern, Keiran (July 7, 2022). Written at Los Angeles.
+"Elon Musk 'had twins with one of his executives' ".
+The Times.
+ London.
+Archived from the original on July 7, 2022.
+ Retrieved July 7, 2022.
+^ Safronova, Valeriya (July 7, 2022).
+"How Many Children Does Elon Musk Have?".
+The New York Times.
+Archived from the original on October 23, 2022.
+ Retrieved July 8, 2022.
+^ Grind, Kirtsen; Glazer, Emily (July 24, 2022).
+"Elon Musk's Friendship With Sergey Brin Ruptured by Alleged Affair".
+The Wall Street Journal.
+Archived from the original on July 24, 2022.
+ Retrieved July 24, 2022.
+^ Musil, Steven; Van Boom, Daniel (July 24, 2022).
+"Elon Musk Reportedly Had Affair With Google Co-Founder's Wife".
+ CNET.
+Archived from the original on October 7, 2022.
+ Retrieved July 25, 2022.
+^ Isaacson (2023) , p. 7.
+^ McHugh, Rich (May 19, 2022).
+"A SpaceX flight attendant said Elon Musk exposed himself and propositioned her for sex, documents show. The company paid $250,000 for her silence".
+Insider.
+Archived from the original on May 19, 2022.
+ Retrieved May 20, 2022.
+^ Mangan, Dan (May 20, 2022).
+"Report says SpaceX paid woman over Musk sex misconduct claim – he denies 'wild accusations' ".
+ CNBC.
+Archived from the original on May 20, 2022.
+ Retrieved May 20, 2022.
+^ "Musk denies he sexually harassed flight attendant; Tesla shares sink".
+Reuters.
+ May 20, 2022.
+Archived from the original on May 20, 2022.
+ Retrieved May 20, 2022.
+^ Assis, Claudia (May 20, 2022).
+"Tesla stock's very bad week gets worse after the allegations against Musk".
+MarketWatch.
+Archived from the original on May 23, 2022.
+ Retrieved May 23, 2022.
+^ Sankaran, Vishwam (May 23, 2022).
+"Elon Musk lost $10bn net worth in single day after sexual misconduct allegation emerged".
+The Independent.
+Archived from the original on May 24, 2022.
+ Retrieved May 24, 2022.
+^ Root, Al (May 20, 2022).
+"Tesla Stock Falls After Harassment Allegations Against CEO".
+Barron's.
+Archived from the original on May 23, 2022.
+ Retrieved May 23, 2022.
+^ a b c Hals, Tom (May 16, 2023).
+"Elon Musk documents subpoenaed in Jeffrey Epstein lawsuit by US Virgin Islands".
+ Reuters.
+Archived from the original on May 21, 2023.
+ Retrieved May 21, 2023.
+^ Vaziri, Aidin (October 3, 2023).
+"Grimes sues Elon Musk over parental rights: 'Utterly ripping my family apart' ".
+San Francisco Chronicle.
+ Retrieved October 4, 2023.
+^ "Grimes sues Elon Musk over parental rights".
+NBC News.
+ October 3, 2023.
+ Retrieved October 4, 2023.
+^ a b c Belanger, Ashley (October 2, 2023).
+"College student sues Musk for falsely calling him a "psyop" in neo-Nazi brawl".
+Ars Technica.
+ Retrieved October 3, 2023.
+^ a b Madani, Doha (October 2, 2023).
+"Elon Musk sued for libel by man falsely identified in neo-Nazi brawl".
+NBC News.
+ Retrieved October 3, 2023.
+^ Skipworth, William (October 2, 2023).
+"Elon Musk Sued For Falsely Linking Man To Neo-Nazi Group—And Federal Agency".
+Forbes.
+ Retrieved October 3, 2023.
+^ a b Brodkin, Jon (October 6, 2023).
+"Musk refused to testify in Twitter stock probe, claimed SEC is harassing him".
+Ars Technica.
+ Retrieved October 7, 2023.
+^ Fung, Brian; Duffy, Clare (October 5, 2023).
+"US regulator seeks court order to compel Elon Musk to testify about his Twitter acquisition".
+CNN.
+ Retrieved October 7, 2023.
+^ a b "Regulator sues Musk to force testimony in X probe".
+BBC News.
+ October 5, 2023.
+ Retrieved October 7, 2023.
+^ Maloy, Ashley Fetters; Tiku, Nitasha.
+"How Elon Musk became a new kind of celebrity".
+Washington Post.
+Archived from the original on February 23, 2023.
+ Retrieved February 4, 2023.
+^ Langman, Brady (August 11, 2022).
+"You're Going to Have Feelings About Tony Stark's Biggest Real-World Inspiration".
+Esquire.
+Archived from the original on November 1, 2022.
+ Retrieved November 3, 2022.
+^ Tate, Ryan (September 20, 2012).
+"10 Awkward Hollywood Cameos by Tech Founders".
+Wired.
+Archived from the original on December 1, 2017.
+ Retrieved December 1, 2017.
+^ Wurzburger, Andrea (May 8, 2021).
+"Ahead Elon Musk's Acting Cameos Through the Years".
+People.
+Archived from the original on April 27, 2022.
+ Retrieved April 27, 2022.
+^ Bova, Dan (December 21, 2016).
+" 'Why Him?' Director on Elon Musk's Amazing 'I Can't Come to Work Today' Excuse".
+Entrepreneur.
+ Archived from the original on August 26, 2020.
+ Retrieved January 29, 2017.
+^ Alexander, Bryan (June 17, 2019).
+"Which celebrities are revealed as space aliens in 'Men in Black: International'? (spoilers)".
+USA Today.
+Archived from the original on February 5, 2021.
+ Retrieved January 19, 2021.
+^ Cain, Sian (April 26, 2022).
+"From The Simpsons to Iron Man: Elon Musk's Twitter takeover is just his latest desperate bid for celebrity".
+The Guardian.
+Archived from the original on June 15, 2022.
+ Retrieved June 26, 2022.
+^ "Tesla CEO Elon Musk To Appear on Upcoming Episode of the Big Bang Theory".
+ CBS.
+Archived from the original on February 23, 2018.
+ Retrieved December 4, 2015.
+^ Hansen, Louis (November 25, 2016).
+"Elon Musk uses 'South Park' to fire back at trolls".
+The Denver Post.
+Archived from the original on July 2, 2019.
+ Retrieved August 29, 2020.
+^ Kurp, Josh (November 18, 2016).
+"Elon Musk Joins The Short List Of 'South Park' Guest Stars To Voice Themselves".
+Yahoo News.
+Archived from the original on November 19, 2016.
+ Retrieved August 29, 2020.
+^ "The Young Sheldon Episode You Likely Forgot Starred Elon Musk".
+ MSN.
+Archived from the original on May 25, 2022.
+ Retrieved May 3, 2022.
+^ Schedeen, Jesse (November 25, 2019).
+"Elon Musk's Rick and Morty Cameo Finally Explains His 'Elon Tusk' Twitter Joke".
+IGN.
+ Archived from the original on January 31, 2020.
+ Retrieved November 25, 2019.
+^ Cooper, Gael Fashingbauer (November 25, 2019).
+"Elon Musk shows up on Rick and Morty as Elon Tusk, head of Tuskla".
+ CNET. Archived from the original on August 21, 2020.
+ Retrieved August 29, 2020.
+^ Itzkoff, Dave (May 9, 2021).
+"Elon Musk Hosts a Mother's Day Episode of 'Saturday Night Live' ".
+The New York Times.
+ Archived from the original on December 28, 2021.
+ Retrieved May 27, 2021.
+^ Field, Kyle (December 2, 2015).
+"Tesla Stars In 'Racing Extinction' Documentary".
+CleanTechnica.
+ Archived from the original on August 24, 2020.
+ Retrieved July 11, 2016.
+^ Ladan, Tanja M. (August 24, 2016).
+"Werner Herzog Hacks the Horrors of Connectivity in 'Lo and Behold' ".
+Vice.
+ Archived from the original on February 4, 2020.
+ Retrieved September 4, 2020.
+^ "Elon Musk elected as Fellow of the Royal Society".
+ Sky News. May 9, 2018.
+Archived from the original on January 4, 2021.
+ Retrieved February 28, 2021.
+^ "SEAS Celebrates Class of 2015, Honors Innovators Elon Musk and Dean Kamen".
+Yale School of Engineering & Applied Science.
+ May 18, 2015.
+Archived from the original on May 20, 2015.
+^ "IEEE Honorary Membership Recipients" (PDF).
+Institute of Electrical and Electronics Engineers.
+Archived (PDF) from the original on June 29, 2011.
+^ "George M. Low Space Transportation Award".
+ American Institute of Aeronautics and Astronautics.
+Archived from the original on August 14, 2021.
+ Retrieved August 14, 2021.
+^ "Barron Hilton and Elon Musk honoured with the highest FAI awards".
+Fédération Aéronautique Internationale.
+ December 16, 2010.
+Archived from the original on April 19, 2015.
+^ "2012 RAeS Gold Medal".
+ Archived from the original on November 28, 2012.
+^ Favreau, Jon (April 29, 2010).
+"Elon Musk".
+Time.
+Archived from the original on November 12, 2020.
+ Retrieved February 28, 2021.
+^ Branson, Richard (April 18, 2013).
+"Elon Musk".
+Time.
+Archived from the original on February 12, 2021.
+ Retrieved February 28, 2021.
+^ Milner, Yuri.
+"Elon Musk".
+Time.
+Archived from the original on January 3, 2021.
+ Retrieved February 28, 2021.
+^ "Elon Musk: The 100 Most Influential People of 2021".
+Time.
+Archived from the original on May 30, 2022.
+ Retrieved September 21, 2021.
+^ Flynn, Kerry (December 13, 2021).
+"Time Person of the Year: Elon Musk, CEO of Tesla and SpaceX, named most influential of 2021".
+ CNN.
+Archived from the original on December 13, 2021.
+ Retrieved December 13, 2021.
+^ Felsenthal, Edward (December 13, 2021).
+"Time 2021 The choice Elon Musk".
+Time.
+Archived from the original on December 13, 2021.
+ Retrieved December 13, 2021.
+^ "For breakthroughs in the design, engineering, manufacturing, and operation of reusable launch vehicles and sustainable transportation and energy systems".
+ National Academy of Engineering. February 9, 2022.
+Archived from the original on March 25, 2022.
+ Retrieved March 25, 2022.
+Works cited Belfiore, Michael (2007).
+Rocketeers.
+ New York: HarperCollins.
+ISBN 9780061149023.
+Berger, Eric (2021).
+Liftoff.
+ William Morrow and Company.
+ISBN 9780062979971.
+Isaacson, Walter (2023).
+Elon Musk.
+ New York: Simon & Schuster.
+ISBN 9781982181284.
+OCLC 1395888338.
+Jackson, Eric M.
+(2004).
+The PayPal Wars: Battles with eBay, the Media, the Mafia, and the Rest of Planet Earth.
+ Los Angeles: World Ahead Publishing.
+ISBN 9780974670102.
+Kidder, David; Hoffman, Reid (2013).
+The Startup Playbook: Secrets of the Fastest Growing Start-Ups from the founding Entrepreneurs.
+ San Francisco: Chronicle Books.
+ISBN 9781452105048.
+Vance, Ashlee (2017) [2015].
+Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future (2nd ed.). New York: Ecco.
+ISBN 9780062301253.
+v t e Elon Musk Companies Zip2 X.com PayPal SpaceX ( Starlink ) Tesla, Inc.
+Tesla Energy OpenAI Neuralink The Boring Company Thud X Corp.
+Twitter, Inc.
+Twitter xAI Depictions Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future (2015) " The Musk Who Fell to Earth " (2015) Ludicrous: The Unvarnished Story of Tesla Motors (2019) " One Crew over the Crewcoo's Morty " (2019) Power Play: Tesla, Elon Musk, and the Bet of the Century (2021) Return to Space (2022) Elon Musk's Crash Course (2022) Elon Musk (2023) People Musk family Errol Musk (father) Maye Musk (mother) Tosca Musk (sister) Kimbal Musk (brother) Lyndon Rive (cousin) Justine Musk (first wife) Talulah Riley (second wife) Amber Heard (partner) Grimes (partner) Shivon Zilis (partner) Related Hyperloop Boring Test Tunnel SolarCity Acquisition of Twitter Twitter under Musk Twitter Files December 2022 suspensions Tesla, Inc. criticism TSLAQ lawsuits Views Awards and honors Elon Musk's Tesla Roadster Musk vs. Zuckerberg Elon Musk filmography Category v t e SpaceX History Launch vehicles Current Falcon 9 Block 5 Falcon Heavy In development Starship Super Heavy booster upper stage lunar lander flight tests orbital test flight Retired Falcon 1 Falcon 9 v1.0 v1.1 "Full Thrust" v1.2 Block 4 Cancelled Falcon 1e * Falcon 5 * Falcon 9 Air * BFR and ITS * Spacecraft Cargo Dragon 1 Cargo Dragon 2 Cargo Dragon XL * Starship * Crewed Dragon 2 Crew C206 Endeavour C207 Resilience C210 Endurance C212 Freedom Starship * Test vehicles Current Starship prototypes first stage booster upper stage Retired Grasshopper F9R Dev1 † DragonFly Starhopper Unflown F9R Dev2 * Rocket engines Merlin 1A 1B* 1C 1D Vacuum Kestrel Draco SuperDraco Raptor 1 2 Vacuum Lists of missions Falcon 1 Falcon 9 and Falcon Heavy 2010–2019 Starlink launches in the Russo-Ukrainian War Starship Launch facilities Orbital CCSFS SLC-40 KSC LC-39A VSFB SLC-4E VSFB SLC-6 * Omelek Island † Atmospheric McGregor New Mexico † Starbase Boca Chica Landing sites Autonomous spaceport drone ships Landing Zones LZ-1 and LZ-2 LZ-4 Other facilities Headquarters and factory Hawthorne, California Rocket development and test facility McGregor, Texas Satellite development facility Redmond, Washington Regional offices Chantilly, Houston, Seattle, Washington DC Support Megan (recovery ship) Shannon (recovery ship) SpaceX fairing recovery program Contracts Commercial Orbital Transportation Services Commercial Resupply Services Commercial Crew Program Commercial Lunar Payload Services Gateway Logistics Services Human Landing System Polaris R&D programs Reusability Falcon 9 landing tests Red Dragon (canceled) Mars transport Key people Elon Musk (CEO, CTO) Gwynne Shotwell (President and COO) Tom Mueller (former VP of Propulsion Development) Related Blue Origin v. United States & SpaceX Commercial astronaut Countdown: Inspiration4 Mission to Space (2021 docuseries) Return to Space (2022) * denotes unflown vehicles or engines, and future missions or sites. † denotes failed missions, destroyed vehicles, and abandoned sites.
+Category v t e Tesla, Inc.
+Vehicles Current Model 3 Model S Model X Model Y Semi Future Cyberquad Cybertruck Next-generation vehicle Roadster (2nd gen.) Discontinued Roadster (1st gen.) Joint projects Cyberquad for Kids Mercedes A-Class B-Class Smart EQ Toyota RAV4 EV (2nd gen.) Charging Megacharger North American Charging Standard (NACS) Supercharger Tesla Energy Storage Megapack Powerwall Powerpack (discontinued) Solar Solar panels Solar Roof Factories Berlin Fremont Mexico (future) Nevada New York Shanghai Texas People Executives Elon Musk (CEO) Robyn Denholm (Chair) Vaibhav Taneja (CFO) Drew Baglino (SVP of engineering) Tom Zhu (SVP of automotive) Others Franz von Holzhausen (Chief Designer) Joe Gebbia (board) James Murdoch (board) Kimbal Musk (board) J. B. Straubel (board, co-founder) Kathleen Wilson-Thompson (board) Former Deepak Ahuja (two-time CFO) Ze'ev Drori (CEO) Martin Eberhard (co-founder, CEO) Larry Ellison (board) Steve Jurvetson (board) Andrej Karpathy (AI) Zach Kirkhorn (CFO) Arnnon Geshuri (HR) Jérôme Guillen (automotive) Jim Keller (Autopilot) Chris Lattner (Autopilot) Hiromichi Mizuno (board) Marc Tarpenning (co-founder, CFO) Jay Vijayan (CIO) Controversies Criticism of Tesla Dealership disputes Lawsuits (list) Owen Diaz v. Tesla TSLAQ Related History Autopilot DeepScale Easter eggs in products Giga Press Hibar Systems Hornsdale Power Reserve Maxwell Technologies (divested) Optimus (robot) SolarCity (merged into Tesla Energy) Tesla Automation Tesla battery station Tesla Roadster in space Tesla and unions Zep Solar (merged into Tesla Energy) Category v t e Twitter Twitter, Inc.
+X Corp.
+People Jack Dorsey Noah Glass Biz Stone Evan Williams Dick Costolo Parag Agrawal Elon Musk Linda Yaccarino Technology Bluesky Favstar Features Verification FlockDB Gnip Seesmic Services and applications Hootsuite Tweetbot TweetDeck Twitterrific Starling Statistics Most-followed accounts Most-retweeted tweets Most-liked tweets Tween Tweetie Twimight TwitPic Culture Black Twitter dril Frogtwitter Milkshake Duck Headquarters Stan Twitter Trends Twitterature Twitter diplomacy Twitter bomb History 2020 account hijacking Acquisition by Elon Musk Tenure of Musk as CEO Censorship Republik Twitter Mergers and acquisitions BackType Bluefin Labs Dasient Gnip Mitro Namo Media Posterous Summify Trendrr TweetDeck Tweetie Vine Whisper Systems Periscope Suspensions December 2022 Topsy Labs Twitter Files Twitter, Inc. v. Taamneh Usage public figures WikiLeaks-related court orders Articles related to Elon Musk v t e PayPal Mafia Individuals Peter Thiel Reid Hoffman Max Levchin Ken Howery Luke Nosek Elon Musk Steve Chen Keith Rabois Chad Hurley Roelof Botha Jawed Karim Yishan Wong Eric M. Jackson David O. Sacks Premal Shah Russel Simmons Jeremy Stoppelman Companies founded or co-founded PayPal LinkedIn YouTube Yelp Geni.com Yammer SpaceX Tesla, Inc.
+Palantir Technologies Kiva.org Affirm Investments Aven Friendster Facebook Powerset Six Apart Zynga IronPort Flickr Digg Grockit Ooma Quantcast RapLeaf SmartDrive Systems Wise Ping.fm Nanosolar Knewton Kongregate Last.fm TokBox Xoom Joost Funds Founders Fund Clarium Capital Greylock Partners Sequoia Capital Valar Ventures Other The PayPal Wars Thank You for Smoking The Stanford Review v t e Fellows of the Royal Society elected in 2018 Fellows Jim Al-Khalili Polly Arnold Jillian Banfield Margaret Brimble Neil Brockdorff Frank Caruso Vincenzo Cerundolo Kevin Costello Robert Crabtree Philip Dawid Peter Dayan Richard Dixon Gregory Edgecombe Wenfei Fan Roger Goody Robin Grimes Gregory Hannon Demis Hassabis Judy Hirst Graeme Jameson Harren Jhoti Sophien Kamoun Andrew King Dimitri Kullmann Dominic Kwiatkowski Richard Marais Cathie Martin Elon Musk Peter O'Hearn Vassilis Pachnis Tracy Palmer Colin Prentice Lalita Ramakrishnan Nancy Reid Graham Richards David Richardson Sheila Rowan Ingrid Scheffer Michelle Simmons John Smol Timothy Softley John Speakman Graeme Stephens Angela Strank Charles Swanton Peter Visscher Guy Wilkinson Geordie Williamson Daniel Wise Nikolay Zheludev Honorary David Willetts (Baron Willetts of Havant) Foreign Carolyn Bertozzi Martin Chalfie Sebsebe Demissew Jeffrey Friedman Fabiola Gianotti Albrecht Hofmann Butler Lampson Tullio Pozzan Joachim Sauer Adi Shamir v t e Existential risk from artificial intelligence Concepts AGI AI alignment AI capability control AI safety AI takeover Consequentialism Ethics of artificial intelligence Existential risk from artificial general intelligence Friendly artificial intelligence Instrumental convergence Intelligence explosion Longtermism Machine ethics Suffering risks Superintelligence Technological singularity Organizations Alignment Research Center Center for AI Safety Center for Applied Rationality Center for Human-Compatible Artificial Intelligence Centre for the Study of Existential Risk EleutherAI Future of Humanity Institute Future of Life Institute Google DeepMind Humanity+ Institute for Ethics and Emerging Technologies Leverhulme Centre for the Future of Intelligence Machine Intelligence Research Institute OpenAI People Scott Alexander Sam Altman Yoshua Bengio Nick Bostrom Paul Christiano Eric Drexler Sam Harris Stephen Hawking Dan Hendrycks Geoffrey Hinton Bill Joy Shane Legg Elon Musk Steve Omohundro Huw Price Martin Rees Stuart J. Russell Jaan Tallinn Max Tegmark Frank Wilczek Roman Yampolskiy Eliezer Yudkowsky Other Statement on AI risk of extinction Human Compatible Open letter on artificial intelligence (2015) Our Final Invention The Precipice Superintelligence: Paths, Dangers, Strategies Do You Trust This Computer? Artificial Intelligence Act Category v t e Transhumanism Overviews Outline of transhumanism Transhumans Transhumanism in fiction Currents Abolitionism Extropianism Immortalism Postgenderism Postpoliticism Singularitarianism Technogaianism Political ideologies Anarcho-transhumanism Democratic transhumanism Libertarian transhumanism Techno-progressivism Organizations Foresight Institute Humanity+ Institute for Ethics and Emerging Technologies Future of Humanity Institute LessWrong Science Party US Transhumanist Party People Nick Bostrom José Luis Cordeiro K. Eric Drexler David Gobel Ben Goertzel Aubrey de Grey Zoltan Istvan FM-2030 Nikolai Fyodorovich Fyodorov Robin Hanson James Hughes Julian Huxley Ray Kurzweil Ole Martin Moen Hans Moravec Max More Elon Musk David Pearce Martine Rothblatt Anders Sandberg Gennady Stolyarov II Vernor Vinge Natasha Vita-More Mark Alan Walker Eliezer Yudkowsky Category Wikiproject v t e Time Persons of the Year 1927–1950 Charles Lindbergh (1927) Walter Chrysler (1928) Owen D. Young (1929) Mohandas Gandhi (1930) Pierre Laval (1931) Franklin D. Roosevelt (1932) Hugh S. Johnson (1933) Franklin D. Roosevelt (1934) Haile Selassie (1935) Wallis Simpson (1936) Chiang Kai-shek / Soong Mei-ling (1937) Adolf Hitler (1938) Joseph Stalin (1939) Winston Churchill (1940) Franklin D. Roosevelt (1941) Joseph Stalin (1942) George Marshall (1943) Dwight D. Eisenhower (1944) Harry S. Truman (1945) James F. Byrnes (1946) George Marshall (1947) Harry S. Truman (1948) Winston Churchill (1949) The American Fighting-Man (1950) 1951–1975 Mohammed Mosaddeq (1951) Elizabeth II (1952) Konrad Adenauer (1953) John Foster Dulles (1954) Harlow Curtice (1955) Hungarian Freedom Fighters (1956) Nikita Khrushchev (1957) Charles de Gaulle (1958) Dwight D. Eisenhower (1959) U.S. Scientists: George Beadle / Charles Draper / John Enders / Donald A. Glaser / Joshua Lederberg / Willard Libby / Linus Pauling / Edward Purcell / Isidor Rabi / Emilio Segrè / William Shockley / Edward Teller / Charles Townes / James Van Allen / Robert Woodward (1960) John F. Kennedy (1961) Pope John XXIII (1962) Martin Luther King Jr.
+(1963) Lyndon B. Johnson (1964) William Westmoreland (1965) The Generation Twenty-Five and Under (1966) Lyndon B. Johnson (1967) The Apollo 8 Astronauts : William Anders / Frank Borman / Jim Lovell (1968) The Middle Americans (1969) Willy Brandt (1970) Richard Nixon (1971) Henry Kissinger / Richard Nixon (1972) John Sirica (1973) King Faisal (1974) American Women: Susan Brownmiller / Kathleen Byerly / Alison Cheek / Jill Conway / Betty Ford / Ella Grasso / Carla Hills / Barbara Jordan / Billie Jean King / Susie Sharp / Carol Sutton / Addie Wyatt (1975) 1976–2000 Jimmy Carter (1976) Anwar Sadat (1977) Deng Xiaoping (1978) Ayatollah Khomeini (1979) Ronald Reagan (1980) Lech Wałęsa (1981) The Computer (1982) Ronald Reagan / Yuri Andropov (1983) Peter Ueberroth (1984) Deng Xiaoping (1985) Corazon Aquino (1986) Mikhail Gorbachev (1987) The Endangered Earth (1988) Mikhail Gorbachev (1989) George H. W. Bush (1990) Ted Turner (1991) Bill Clinton (1992) The Peacemakers: Yasser Arafat / F. W. de Klerk / Nelson Mandela / Yitzhak Rabin (1993) Pope John Paul II (1994) Newt Gingrich (1995) David Ho (1996) Andrew Grove (1997) Bill Clinton / Ken Starr (1998) Jeff Bezos (1999) George W. Bush (2000) 2001–present Rudolph Giuliani (2001) The Whistleblowers: Cynthia Cooper / Coleen Rowley / Sherron Watkins (2002) The American Soldier (2003) George W. Bush (2004) The Good Samaritans: Bono / Bill Gates / Melinda Gates (2005) You (2006) Vladimir Putin (2007) Barack Obama (2008) Ben Bernanke (2009) Mark Zuckerberg (2010) The Protester (2011) Barack Obama (2012) Pope Francis (2013) Ebola Fighters : Dr. Jerry Brown / Dr.
+Kent Brantly / Ella Watson-Stryker / Foday Gollah / Salome Karwah (2014) Angela Merkel (2015) Donald Trump (2016) The Silence Breakers (2017) The Guardians: Jamal Khashoggi / Maria Ressa / Wa Lone / Kyaw Soe Oo / Staff of The Capital (2018) Greta Thunberg (2019) Joe Biden / Kamala Harris (2020) Elon Musk (2021) Volodymyr Zelenskyy / Spirit of Ukraine (2022) v t e John Fritz Medal 1902–1924 1902 : John Fritz 1903 : No award 1904 : No award 1905 : Lord Kelvin 1906 : George Westinghouse 1907 : Alexander Graham Bell 1908 : Thomas Alva Edison 1909 : Charles Talbot Porter 1910 : Alfred Noble 1911 : Sir William Henry White 1912 : Robert Woolston Hunt 1913 : No award 1914 : John Edson Sweet 1915 : James Douglas 1916 : Elihu Thomson 1917 : Henry Marion Howe 1918 : J. Waldo Smith 1919 : Gen.
+George W. Goethals 1920 : Orville Wright 1921 : Sir Robert Hadfield 1922 : Charles P. E. Schneider 1923 : Guglielmo Marconi 1924 : Ambrose Swasey 1925–1949 1925 : John Frank Stevens 1926 : Edward Dean Adams 1927 : Elmer Ambrose Sperry 1928 : John Joseph Carty 1929 : Herbert Clark Hoover 1930 : Ralph Modjeski 1931 : David Watson Taylor 1932 : Mihajlo Idvorski Pupin 1933 : Daniel Cowan Jackling 1934 : John Ripley Freeman (posthumous) 1935 : Frank Julian Sprague (posthumous) 1936 : William Frederick Durand 1937 : Arthur Newell Talbot 1938 : Paul Dyer Merica 1939 : Frank Baldwin Jewett 1940 : Clarence Floyd Hirshfeld (posthumous) 1941 : Ralph Budd 1942 : Everette Lee DeGolyer 1943 : Willis Rodney Whitney 1944 : Charles F. Kettering 1945 : John Lucian Savage 1946 : Zay Jeffries 1947 : Lewis Warrington Chubb 1948 : Theodore von Kármán 1949 : Charles Metcalf Allen 1950–1974 1950 : Walter H. Aldridge 1951 : Vannevar Bush 1952 : Ervin George Bailey 1953 : Benjamin F. Fairless 1954 : William Embry Wrather 1955 : Harry Alonzo Winne 1956 : Philip Sporn 1957 : Ben Moreell 1958 : John R. Suman 1959 : Mervin J. Kelly 1960 : Gwilym A. Price 1961 : Stephen D. Bechtel 1962 : Crawford H. Greenewalt 1963 : Hugh L. Dryden 1964 : Lucius D. Clay 1965 : Frederick Kappel 1966 : Warren K. Lewis 1967 : Walker L. Cisler 1968 : Igor Ivan Sikorsky 1969 : Michael Lawrence Haider 1970 : Glenn B. Warren 1971 : Patrick E. Haggerty 1972 : William Webster 1973 : Lyman Wilber 1974 : H. I. Romnes 1975–1999 1975 : Manson Benedict 1976 : Thomas O. Paine 1977 : George R. Brown 1978 : Robert G. Heitz 1979 : Nathan M. Newmark 1980 : T. Louis Austin, Jr.
+1981 : Ian MacGregor 1982 : David Packard 1983 : Claude Elwood Shannon 1984 : Kenneth A. Roe 1985 : Daniel C. Drucker 1986 : Simon Ramo 1987 : Ralph Landau 1988 : Ralph B. Peck 1989 : Robert N. Noyce 1990 : Gordon A. Cain 1991 : Hunter Rouse 1992 : Serge Gratch 1993 : Gordon Moore 1994 : Hoyt C. Hottel 1995 : Lynn S. Beedle 1996 : George N. Hatsopoulos 1997 : Arthur E. Humphrey 1998 : Ivan A. Getting 1999 : George H. Heilmeier 2000– 2000 : John W. Fisher 2001 : Paul C. W. Chu 2002 : Daniel Goldin 2003 : Robert S. Langer 2004 : John A. Swanson 2005 : George Tamaro 2006 : No award 2007 : Gavriel Salvendy 2008 : Kristina M. Johnson 2009 : Yvonne Claeys Brill 2010 : Gerald J. Posakony 2011 : Andrew Viterbi 2012 : Leslie E. Robertson 2013 : Gregory Stephanopoulos 2014 : Julia Weertman 2015 : Jon D. Magnusson 2017 : Frank Kreith 2018 : Anne S. Kiremidjian 2019 : No award 2020 : No award 2021 : Elon Musk Portals : Biography Business Canada Cars Companies Ecology Energy Internet Renewable energy Space South Africa Technology United States Authority control databases International FAST ISNI VIAF WorldCat National Norway Spain Catalonia Germany Israel United States Latvia Japan Czech Republic Korea Croatia Netherlands Poland Academics CiNii ORCID Scopus Artists MusicBrainz People Deutsche Biographie Other IdRef Elon Musk 1971 births Living people 20th-century American businesspeople 20th-century American engineers 20th-century Canadian businesspeople 20th-century Canadian engineers 20th-century South African businesspeople 21st-century American businesspeople 21st-century American engineers 21st-century Canadian businesspeople 21st-century Canadian engineers 21st-century South African businesspeople Alumni of Pretoria Boys High School American aerospace businesspeople American automotive pioneers American billionaires American chairpersons of corporations American chief executives in the automobile industry American chief executives of energy companies American chief executives of manufacturing companies American computer businesspeople American conspiracy theorists American energy industry businesspeople American founders of automobile manufacturers American Internet company founders American investors American manufacturing businesspeople American nonprofit executives American people of Canadian descent American people of Pennsylvania Dutch descent American philanthropists American software engineers American technology chief executives American technology company founders American transportation businesspeople Automotive businesspeople Businesspeople in information technology Businesspeople in software Canadian automotive pioneers Canadian billionaires Canadian chairpersons of corporations Canadian computer businesspeople Canadian corporate directors Canadian conspiracy theorists Canadian emigrants to the United States Canadian energy industry businesspeople Canadian founders of automobile manufacturers Canadian investors Canadian manufacturing businesspeople Canadian nonprofit executives Canadian people of German descent Canadian people of South African descent Canadian philanthropists Canadian software engineers Canadian technology chief executives Canadian technology company founders Canadian transportation businesspeople Centibillionaires Chief technology officers Critics of Wikipedia Fellows of the Royal Society Free speech activists Hyperloop Members of the United States National Academy of Engineering Musk family Naturalized citizens of the United States PayPal people People associated with solar power People from Pretoria People in the space industry People with multiple nationality People with Asperger syndrome Queen's University at Kingston alumni Royal Aeronautical Society Gold Medal winners South African billionaires South African chairpersons of corporations South African chief executives South African company founders South African computer programmers South African emigrants to Canada South African emigrants to the United States South African engineers South African investors South African people of Canadian descent South African people of German descent South African philanthropists Space advocates SpaceX people Sustainable transport pioneers Tesla, Inc.
+Tesla, Inc. people The Boring Company Time Person of the Year Twitter, Inc. people Wharton School of the University of Pennsylvania alumni White South African people World record holders Webarchive template wayback links CS1 location test Articles with short description Short description is different from Wikidata Good articles Wikipedia extended-confirmed-protected pages Wikipedia indefinitely move-protected pages Use American English from September 2022 All Wikipedia articles written in American English Use mdy dates from September 2023 Biography with signature Articles with hCards Articles containing potentially dated statements from October 2023 All articles containing potentially dated statements Wikipedia articles needing page number citations from September 2022 Wikipedia articles needing clarification from December 2022 Articles containing potentially dated statements from June 2022 Pages using multiple image with auto scaled images Articles containing French-language text Articles with FAST identifiers Articles with ISNI identifiers Articles with VIAF identifiers Articles with WorldCat Entities identifiers Articles with BIBSYS identifiers Articles with BNE identifiers Articles with CANTICN identifiers Articles with GND identifiers Articles with J9U identifiers Articles with LCCN identifiers Articles with LNB identifiers Articles with NDL identifiers Articles with NKC identifiers Articles with NLK identifiers Articles with NSK identifiers Articles with NTA identifiers Articles with PLWABN identifiers Articles with CINII identifiers Articles with ORCID identifiers Articles with Scopus identifiers Articles with MusicBrainz identifiers Articles with DTBIO identifiers Articles with SUDOC identifiers This page was last edited on 31 October 2023, at 21:49 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+ Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Code of Conduct Developers Statistics Cookie statement Mobile view Toggle limited content width

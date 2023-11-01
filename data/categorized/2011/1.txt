@@ -1,53 +1,323 @@
-old id = 586
-Data Journalism, Digital Universalism and… | DataJournalism.com
+old id = 1149
+IBM Blue Gene - Wikipedia
 2011
-https://datajournalism.com/read/handbook/two/training-data-journalists/data-journalism-digital-universalism-and-innovation-in-the-periphery
+https://en.wikipedia.org/wiki/IBM_Blue_Gene
 
-Longform readsVerification HandbookFor Disinformation And Media ManipulationData Journalism Handbook 2The latest edition explores innovative ways that data is analysed, created, and used in the context of journalism.
-New courseQuality journalismCountering hate speechJulia MozerNew courseVideo courseFundamental search for journalistsVincent RyanPopular courseCodingPython for journalistsWinny de JongSelect a chapterIntroductionDoing Issues with DataAssembling DataWorking with DataInvestigating Data, Platforms and AlgorithmsOrganising Data JournalismLearning Data Journalism TogetherSituating Data JournalismData Journalism, Digital Universalism and Innovation in the PeripheryWritten by Anita Say ChanAbstractThe“myth of digital universalism”manifests not only in the means by which itkeeps public narratives and imaginations fixed exclusivelyaroundso-called“centres” of innovation, but in the means by which itsimultaneously discourages attention to digital dynamicsbeyond such centres—a dynamic conjuring colonial relations to data and the periphery that reporters and scholars of global digital cultures alike must be wary of reproducing.
-Keywords:digital universalism, centre, periphery, colonial relations, decolonial computing, local innovation“Digital universalism”is the pervasive but mistaken framework shaping global imaginaries around the digital that presumes that a single, universal narrative propelled by “centres” of innovation can accurately represent the forms of digital development underway across the globe today. Itpresumes, thatis, that the givencentres of contemporary “innovation”and technological designwill inevitably determine the digital futurethat comes to spreadacross the worldfor the majority of the “digital rest.” And it resonates through the casual presumption that the best, most “legitimate” sites from which to study and observe technological transformation, digital productivity and practice, or information-based innovation and inquiry, are from such centres. Foremost among them: the labs, offices and research sites nestled in Silicon Valley and their dispersed equivalents in other innovation capitals worldwide that concentrate elite forms of digital expertise.
-It is from such centres that digital culture presumably originates and has its purest form and manifestation—only to be replicated elsewhere; there that visions for digital futuricity in its most accurate or ideal approximations emerge; and there that technological advancements—and thus digital cultural advancements—are dominantly understood to be at their most dynamic, lively and inspired. It assumes, in other words, that digital culture—despite its uniquely global dimensions—does indeed have more “authentic” and productive sites from which to undertake its study and observe its dynamics.
-As a young researcher studying and writing about digital cultural activism and policy in Peru and Latin America from the early 2000s onward, it shaped my experience in fundamental ways, most regularly in the routine and seemingly innocent question I heard: “Why go to Peru or Latin America to study digital culture?” Weren’t there “better” sites from which to study digital cultures, and wouldn’t my time be better invested attending to and documenting activity in a site like Silicon Valley?For such questioners, Peru inevitably evoked the idea of a mountainous South American nation that once served as the heart of the Inca civilization: Home to Machu Picchu, high stretches of the Andes mountain range, and large populations of Quechua- and Aymara-speaking communities. This Peru might be known as an ideal space from which to peer into past tradition, native culture or the plethora of nature’s bounty—but it had little to tell us, the thinking went, about the dynamics of contemporary digital culture, high technological flows or their associated future-oriented developments. Places such as Peru might unlock a path strewn with the relics and treasures of a technological past we’d have to literally strugglenotto forget, while sites like Silicon Valley are where the secrets to a technological future whose path we had yet to fully tread would inevitably come to be unlocked.
-Quietly asserted in such a question then, is a casual certainty around the idea thatthe digital futures imagined by select populations of technologists in elite design centres can speak for the global rest, and the present currently unfolding in innovation centres must surely be the future of the periphery.
-The power of the “myth of digital universalism” thus manifests not only in the means by which it keeps public narratives and imaginations fixed exclusively around established centres of innovation, but in the means by which it simultaneously discourages attention to digital dynamics beyond such centres. It therein narrows the diversity and global circulation of narratives aroundactualdigital dynamics occurring across a range of locales, invisibilizes diverse forms of digital generativity, and artificially amplifies and reinforces a representation of “innovation” capitals as exclusive sites of digital productivity.
-There is a particular colonial notion of the periphery conjured here that reporters and scholars of global digital cultures alike must be wary of reproducing: That is, of the “periphery” as mere agents of global counterfeit or zones of diffusion for a future invented prior and elsewhere. Indeed, the periphery is hardly so passive or uninventive. Lively and dynamic outdoor markets or Internet cafes filled with used, recycled and reassembled computers and parts are innovations of the Global South that extended low-cost Internet access and scaled out global and local media content circulation to diverse populations in rural and urban zones alike. These technological hacks and local improvisations are an everyday part of the periphery’s technology landscape whose vibrancy is only partly captured by comparing it to formalized commercial chains of digital goods or computer and Internet suppliers. As the social scientists Daniel Miller and Don Slater (2001) observed in their study of Trinidad, “the Internet is not a monolithic cyberspace,” but exists instead as a globally expansive technology with various local realities, adoptive practices and cultural politics that surround its varying localizations. There have been, indeed, more ways than one to imagine what digital practice and connection could look like.
-In Peru, evidence of lively digital cultures that brought a range of distinct actors and interests into unexpected and often contradictory proximity was readily visible. Apparent collectives of free software advocates, who had helped to bring the first UN-sponsored conference on free software use in Latin America—a landmark event—to the ancient Incan capital of Cuzco in 2003, sought to reframe the adoption of open technologies. They sought to reframe it as not just an issue of individual liberty and free choice, as it had been for free/libre and open-source software (FLOSS) advocacy in the United States, but of cultural diversity, state transparency and political sovereignty from the monopolistic power of transnational corporations in the Global South.
-“Digital innovation” classrooms installed in rural schools by the state would later be converted into the largest network of deployment sites for MIT’s high-profileOne Laptop per Child(OLPC) initiative just several years later, all in the name of enabling universal digital inclusion. And intellectual property (IP) titles newly and aggressively applied by state programmes to “traditional” goods promised to convert rural producers and artisans into new classes of export-ready “information workers” as part of the nation’s growing information society-based initiatives.
-FLOSS advocates and high-tech activists in Cuzco, state -promoted “innovation classrooms” in rural schools, and traditional artisans as new global “information workers” were not the conventional interests or protagonists that emerged from most tales spun in centres of digital culture. To watch their stories unfold was to watch the details of each spill over the edges of the existing frameworks and dominant narratives of digital culture. Global imaginaries around IT in the new millennium, after all, have made Silicon Valley hackers, the obsessions and aspirations of high-tech engineers, and the strategic enterprise of competitive technology entrepreneurs, the stuff of popular Hollywood films and obsessively followed Twitter accounts. These are a cast of increasingly recognizable actors, heroes and villains. But to capture the dynamic engagements and fraught experiments in digital culture in Peru requires attention to a host of other stakes, agents and developments—ones that in working around the digital tried to build new links and exchanges between spaces of the rural and the urban, the high-tech and the traditional, and distinct orientations around the global with intensive commitments to the local.
-Data journalists today have a growing host of digital tools and technological resources to witness, capture and recall digital cultures and activities across a range of local sites around the world.
-Even before the wave of social protests in the Middle East starting in early 2011, networked digital media extended new global broadcast capabilities for movements that adopted strategic uses of social media in contexts as diverse as Mexico (Schulz, 2007), Iran (Burns & Eltham, 2009; Grossman, 2009), the Philippines (Uy-Tioco, 2003; Vicente, 2003) and Ukraine (Morozov, 2010).
-In the wake of the 2011 Arab Spring—movements from Spain’s 15-M Indignados, to the North American Occupy, made strategic uses of hashtag organizing and activism on social media platforms. More recently, movements from the US-launched#MeTooand#BlackLivesMatterrun alongside global mobilizations from Latin America’s #NiUnaMenos, to the Nigerian- launched#BringBackOurGirls, Australia’s#Sosblakaustralia, Canadian First Nations’#IdleNoMoremobilizations and Hong Kong’s#UmbrellaRevolution.
-Such movements’ expanding user-generated media streams multiply civic data practices and decentre the dominant applications of “big data” on social media platforms that bias towards forms of market-oriented profiling. They instead leverage data practices for new forms of narrative capacity that break from established centres of media and news production while lending their data archives—and online evidence of the global extensions of their publics—to geographically dispersed documentarians, reporters and organizers alike.
-Butthe growth of digital resources and data repositories—from online “data” archives by social movements on social media platforms, to parallel forms of creative data activism—creates new risks for data journalistsas well. Foremost among these is a risk from the seductive capacity of big data and social media platforms to leverage the abundance of data and informa- tion they collect as a means to convince audiences that their extensive data trackings compile and create the best possible form of documenting present human activity and social experience—as well as assessing andpredictingthe future of their political or economic ramifications.
-The temporal presumptiveness of digital universalists’ projection that the forms of digital “present” cultivated in innovation centres today can and will accurately represent the digital futures of global peripheries finds a new complement in data industries’ self-assured claims for the predictive capacities of algorithmic data processing. Such pronouncements remain, even despite the evident contemporary failures of mainstream political data analysts, social media companies and news pundits in the West to accurately predict the major global political disruptions of recent years—fromthe 2016 US presidential election,toBrexit, to theCambridge Analyticascandal, to the “surprise” rise of the alt-right movements across the West.
-Today’sdata journalists should be vigilantly wary of enabling data tracings and archives—regardless of how extensive and impressively large they may be—to serve as the sole or dominant form of documenting, speaking for and assessing the diverse forms of social realities that the public relies on them to channel. Parallel with growing calls from Latin American and postcolonial scholars for broadening research and documentation methods to expand what and who represents information, technology and new media cultures under a “decolonial computing” framework (Chan, 2018), data journalists critical of digital universalist frameworks should aim too toconsciously diversify data sources and decentre methods that would privilege “big data”as the exclusive or most legitimate key to mapping empirical events and social realities. Moves towards a “decolonization of knowledge” underscore the significance of the diverse ways through which citizens and researchers in the Global South are engaging in bottom-up data practices.
-1These practices leverage an emphasis on community practices and human-centred means of assessing and interpreting data—for social change, as well as speaking for the resistances to uses of big data that increase oppression, inequality and social harm.
-Data journalists critical of digital universalism’s new extensions in data universalism should take heart tofind alliesand resonant concerns for developing accountable and responsible data practices with scholars in critical data studies, algorithm studies, software and platform studies, and postcolonial computing. This includesa reinforced rejection of data fundamentalism(Boyd & Crawford, 2012) and technological determinism that still surrounds mainstream accounts of algorithms in application. It also entails a fundamental recentring of the human within datafied worlds and data industries—that resists the urge to read big data and “algorithms as fetishized objects . . . and firmly resist[s] putting the technology in the explanatory driver’s seat” (Crawford, 2016). It also involves treating data infrastructures and the underlying algorithms that give political life to them intentionally as bothambiguous and approachable—to develop methodologies that not only explore new empirical and everyday settings for data politics—whether airport security, credit scoring, hospital and patient tracking, or social media across a diversity of global sites—but also find creative ways to make data productive for analysis (Gillespie, 2013; Ziewitz, 2016).
-Finally, it is perhaps worth a reminder that conserving the given centres of digital innovation as the exclusive sites of digital invention or the making of data futures, of course, also neglects another crucial detail—thatthe centres of the present were once on the periphery, too. To focus on centres as inventing models that simply come to be adopted and copied elsewhere presumes the perfect, continual extension of replicative functions and forces. It fails to account for the possibility of change within the larger system—the destabilizations and realignments of prior centres—and so, too, the realignments of prior peripheries.
-The “surprise” of the 2011 Arab Spring and its influence across a range of global sites in the West and non-West like, much like the recent rise of non-Western digital markets and economic competitors in nations labelled “developing” less than two decades ago, and the destabilization of powerful Western democracies today, are reminders that the stability of established powers and the permanence of centre–periphery relations can questioned. Far from merely lagging behind or mimicking centres, dynamic activities from the periphery suggest howagents once holding minor status can emergeinstead as fresh sources of distinct productivity. Their diverse threads unsettle the unspoken presumption that a single, universal narrative could adequately represent the distinct digital futures and imaginaries emerging across a range of local sites today.
-Footnotes1.
-For more on this seeKukutai and Walter’s chapter in this book.
-Works CitedBoyd, D., & Crawford, K. (2012). Critical questions for big data.
-Information, Communication & Society,15(5), 662–679.
-doi.org/10.1080/1369118X.2012.678878Burns, A., & Eltham, B. (2009). Twitter free Iran: An evaluation of Twitter’s role in public diplomacy and information operations in Iran’s 2009 election crisis. In P. Franco & M. Armstrong (Eds.),Record of the Communications Policy & ResearchForum 2009(pp. 322–334). Network Insight Institute.
-Chan, A. (2018). Decolonial computing and networking beyond digital universalism.
-Catalyst,4(2).
-doi.org/10.28968/cftt.v4i2.29844Crawford, K. (2016). Can an algorithm be agonistic? Ten scenes from life in cal- culated publics.
-Science, Technology, & Human Values,41(1), 77–92.
-doi.org/10.1177/0162243915589635Gillespie, T. (2013). The relevance of algorithms. In T. Gillespie, P. J. Boczkowski, & K. A. Foot (Eds.),Media technologies: Essays on communication, materiality, and society(pp. 167–193). MIT Press.
-Grossman, L. (2009, June 17). Iran’s protests: Why Twitter is the medium of the movement.
-Time.
-content.time.com/time/world/article/0,8599,1905125,00.htmlMiller, D., & Slater, D. (2001).
-The Internet: An ethnographic approach. Berg Publishers.
-Morozov, E. (2010).
-The net delusion: The dark side of Internet freedom. Public Affairs.
-Schulz, M. (2007). The role of the Internet in transnational mobilization: A case studyof the Zapatista movement, 1994–2005. In M. Herkenrath (Ed.),Civil society: Localand regional responses to global challenges(pp. 129–156). Transaction Publishers.
-Uy-Tioco, C. (2003, October 11). The cell phone and EDSA 2: The role of a com- munication technology in ousting a president. Critical Themes in Media Studies Conference.
-Vicente, R. (2003). The cell phone and the crowd: Messianic politics in the contemporary Philippines.
-Public Culture,24(47), 3–36.
-doi.org/10.1080/01154451.2003.9754246Ziewitz, M. (2016). Governing algorithms: Myth, mess, and methods.
-Science,Technology, & Human Values,41(1), 3–16.
-doi.org/10.1177/0162243915608948Time to have your saySign up for our Conversations with Data newsletterJoin 10.000 data journalism enthusiasts and receive a bi-weekly newsletter or access ournewsletter archivehere.
-Almost there...
-AboutMade possible byUseful linksSmall printSocial mediaReview your cookie settings for the optimal site experience.
-Social Features: allows us to show embedded TweetsUsage Insights: helps us improve the website
+Main menu Main page Contents Current events Random article About Wikipedia Contact us Donate Help Learn to edit Community portal Recent changes Upload file Search Create account Log in Personal tools Create account Log in learn more Contributions Talk Contents (Top) 1 History Toggle History subsection 1.1 The name 1.2 Major features 1.3 Architecture 2 Blue Gene/P Toggle Blue Gene/P subsection 2.1 Design 2.2 Installations 2.3 Applications 3 Blue Gene/Q Toggle Blue Gene/Q subsection 3.1 Design 3.2 Performance 3.3 Installations 3.4 Applications 4 See also 5 References 6 External links Toggle the table of contents IBM Blue Gene 28 languages العربية Български Català Deutsch Eesti Español Esperanto فارسی Français 한국어 Bahasa Indonesia Italiano ქართული Lietuvių മലയാളം მარგალური Nederlands 日本語 Norsk bokmål Polski Português Русский Suomi Svenska Türkçe Українська 粵語 中文 Edit links Article Talk English Read Edit View history Tools Read Edit View history What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Wikidata item Download as PDF Printable version Wikimedia Commons This article may need to be rewritten to comply with Wikipedia's quality standards.
+You can help.
+ The talk page may contain suggestions.
+( December 2011 ) A Blue Gene/P supercomputer at Argonne National Laboratory Developer IBM Type Supercomputer platform Release date BG/L: Feb 1999 ( Feb 1999 ) BG/P: June 2007 BG/Q: Nov 2011 Discontinued 2015 ( 2015 ) CPU BG/L: PowerPC 440 BG/P: PowerPC 450 BG/Q: PowerPC A2 Predecessor IBM RS/6000 SP ; QCDOC Successor IBM PERCS Blue Gene was an IBM project aimed at designing supercomputers that can reach operating speeds in the petaFLOPS (PFLOPS) range, with low power consumption.
+The project created three generations of supercomputers, Blue Gene/L , Blue Gene/P , and Blue Gene/Q.
+ During their deployment, Blue Gene systems often led the TOP500 [1] and Green500 [2] rankings of the most powerful and most power-efficient supercomputers, respectively. Blue Gene systems have also consistently scored top positions in the Graph500 list.
+[3] The project was awarded the 2009 National Medal of Technology and Innovation.
+[4] As of 2015, IBM appears to have ended development of the Blue Gene family, though no formal announcement has been made.
+[5] IBM has since focused its supercomputer efforts on the OpenPower platform, using accelerators such as FPGAs and GPUs to address the diminishing returns of Moore's law.
+[6] History [ edit ] In December 1999, IBM announced a US$100 million research initiative for a five-year effort to build a massively parallel computer , to be applied to the study of biomolecular phenomena such as protein folding.
+[7] The project had two main goals: to advance our understanding of the mechanisms behind protein folding via large-scale simulation, and to explore novel ideas in massively parallel machine architecture and software. Major areas of investigation included: how to use this novel platform to effectively meet its scientific goals, how to make such massively parallel machines more usable, and how to achieve performance targets at a reasonable cost, through novel machine architectures. The initial design for Blue Gene was based on an early version of the Cyclops64 architecture, designed by Monty Denneau.
+ The initial research and development work was pursued at IBM T. J. Watson Research Center and led by William R. Pulleyblank.
+[8] At IBM, Alan Gara started working on an extension of the QCDOC architecture into a more general-purpose supercomputer: The 4D nearest-neighbor interconnection network was replaced by a network supporting routing of messages from any node to any other; and a parallel I/O subsystem was added. DOE started funding the development of this system and it became known as Blue Gene/L (L for Light); development of the original Blue Gene system continued under the name Blue Gene/C (C for Cyclops) and, later, Cyclops64.
+In November 2004 a 16- rack system, with each rack holding 1,024 compute nodes, achieved first place in the TOP500 list, with a Linpack performance of 70.72 TFLOPS.
+[1] It thereby overtook NEC's Earth Simulator , which had held the title of the fastest computer in the world since 2002. From 2004 through 2007 the Blue Gene/L installation at LLNL [9] gradually expanded to 104 racks, achieving 478 TFLOPS Linpack and 596 TFLOPS peak. The LLNL BlueGene/L installation held the first position in the TOP500 list for 3.5 years, until in June 2008 it was overtaken by IBM's Cell-based Roadrunner system at Los Alamos National Laboratory , which was the first system to surpass the 1 PetaFLOPS mark. The system was built in Rochester, MN IBM plant.
+While the LLNL installation was the largest Blue Gene/L installation, many smaller installations followed. In November 2006, there were 27 computers on the TOP500 list using the Blue Gene/L architecture. All these computers were listed as having an architecture of eServer Blue Gene Solution.
+ For example, three racks of Blue Gene/L were housed at the San Diego Supercomputer Center.
+While the TOP500 measures performance on a single benchmark application, Linpack, Blue Gene/L also set records for performance on a wider set of applications. Blue Gene/L was the first supercomputer ever to run over 100 TFLOPS sustained on a real-world application, namely a three-dimensional molecular dynamics code (ddcMD), simulating solidification (nucleation and growth processes) of molten metal under high pressure and temperature conditions. This achievement won the 2005 Gordon Bell Prize.
+In June 2006, NNSA and IBM announced that Blue Gene/L achieved 207.3 TFLOPS on a quantum chemical application ( Qbox ).
+[10] At Supercomputing 2006, [11] Blue Gene/L was awarded the winning prize in all HPC Challenge Classes of awards.
+[12] In 2007, a team from the IBM Almaden Research Center and the University of Nevada ran an artificial neural network almost half as complex as the brain of a mouse for the equivalent of a second (the network was run at 1/10 of normal speed for 10 seconds).
+[13] The name [ edit ] The name Blue Gene comes from what it was originally designed to do, help biologists understand the processes of protein folding and gene development.
+[14] "Blue" is a traditional moniker that IBM uses for many of its products and the company itself.
+ The original Blue Gene design was renamed "Blue Gene/C" and eventually Cyclops64.
+ The "L" in Blue Gene/L comes from "Light" as that design's original name was "Blue Light". The "P" version was designed to be a petascale design. "Q" is just the letter after "P". There is no Blue Gene/R.
+[15] Major features [ edit ] The Blue Gene/L supercomputer was unique in the following aspects: [16] Trading the speed of processors for lower power consumption. Blue Gene/L used low frequency and low power embedded PowerPC cores with floating-point accelerators. While the performance of each chip was relatively low, the system could achieve better power efficiency for applications that could use large numbers of nodes.
+Dual processors per node with two working modes: co-processor mode where one processor handles computation and the other handles communication; and virtual-node mode, where both processors are available to run user code, but the processors share both the computation and the communication load.
+System-on-a-chip design. Components were embedded on a single chip for each node, with the exception of 512 MB external DRAM.
+A large number of nodes (scalable in increments of 1024 up to at least 65,536) Three-dimensional torus interconnect with auxiliary networks for global communications (broadcast and reductions), I/O, and management Lightweight OS per node for minimum system overhead (system noise).
+Architecture [ edit ] The Blue Gene/L architecture was an evolution of the QCDSP and QCDOC architectures. Each Blue Gene/L Compute or I/O node was a single ASIC with associated DRAM memory chips. The ASIC integrated two 700 MHz PowerPC 440 embedded processors, each with a double-pipeline-double-precision Floating-Point Unit (FPU), a cache sub-system with built-in DRAM controller and the logic to support multiple communication sub-systems. The dual FPUs gave each Blue Gene/L node a theoretical peak performance of 5.6 GFLOPS (gigaFLOPS).
+ The two CPUs were not cache coherent with one another.
+Compute nodes were packaged two per compute card, with 16 compute cards plus up to 2 I/O nodes per node board. There were 32 node boards per cabinet/rack.
+[17] By the integration of all essential sub-systems on a single chip, and the use of low-power logic, each Compute or I/O node dissipated low power (about 17 watts, including DRAMs). This allowed aggressive packaging of up to 1024 compute nodes, plus additional I/O nodes, in a standard 19-inch rack , within reasonable limits of electrical power supply and air cooling. The performance metrics, in terms of FLOPS per watt , FLOPS per m 2 of floorspace and FLOPS per unit cost, allowed scaling up to very high performance. With so many nodes, component failures were inevitable. The system was able to electrically isolate faulty components, down to a granularity of half a rack (512 compute nodes), to allow the machine to continue to run.
+Each Blue Gene/L node was attached to three parallel communications networks: a 3D toroidal network for peer-to-peer communication between compute nodes, a collective network for collective communication (broadcasts and reduce operations), and a global interrupt network for fast barriers.
+ The I/O nodes, which run the Linux operating system , provided communication to storage and external hosts via an Ethernet network. The I/O nodes handled filesystem operations on behalf of the compute nodes. Finally, a separate and private Ethernet network provided access to any node for configuration, booting and diagnostics. To allow multiple programs to run concurrently, a Blue Gene/L system could be partitioned into electronically isolated sets of nodes. The number of nodes in a partition had to be a positive integer power of 2, with at least 2 5 = 32 nodes. To run a program on Blue Gene/L, a partition of the computer was first to be reserved. The program was then loaded and run on all the nodes within the partition, and no other program could access nodes within the partition while it was in use. Upon completion, the partition nodes were released for future programs to use.
+Blue Gene/L compute nodes used a minimal operating system supporting a single user program. Only a subset of POSIX calls was supported, and only one process could run at a time on node in co-processor mode—or one process per CPU in virtual mode. Programmers needed to implement green threads in order to simulate local concurrency. Application development was usually performed in C , C++ , or Fortran using MPI for communication. However, some scripting languages such as Ruby [18] and Python [19] have been ported to the compute nodes.
+IBM published BlueMatter, the application developed to exercise Blue Gene/L, as open source here.
+[20] This serves to document how the torus and collective interfaces were used by applications, and may serve as a base for others to exercise the current generation of supercomputers.
+Blue Gene/P [ edit ] In June 2007, IBM unveiled Blue Gene/P , the second generation of the Blue Gene series of supercomputers and designed through a collaboration that included IBM, LLNL, and Argonne National Laboratory 's Leadership Computing Facility.
+[21] Design [ edit ] The design of Blue Gene/P is a technology evolution from Blue Gene/L. Each Blue Gene/P Compute chip contains four PowerPC 450 processor cores, running at 850 MHz. The cores are cache coherent and the chip can operate as a 4-way symmetric multiprocessor (SMP). The memory subsystem on the chip consists of small private L2 caches, a central shared 8 MB L3 cache, and dual DDR2 memory controllers. The chip also integrates the logic for node-to-node communication, using the same network topologies as Blue Gene/L, but at more than twice the bandwidth. A compute card contains a Blue Gene/P chip with 2 or 4 GB DRAM, comprising a "compute node". A single compute node has a peak performance of 13.6 GFLOPS. 32 Compute cards are plugged into an air-cooled node board. A rack contains 32 node boards (thus 1024 nodes, 4096 processor cores).
+[22] By using many small, low-power, densely packaged chips, Blue Gene/P exceeded the power efficiency of other supercomputers of its generation, and at 371 MFLOPS/W Blue Gene/P installations ranked at or near the top of the Green500 lists in 2007-2008.
+[2] Installations [ edit ] The following is an incomplete list of Blue Gene/P installations. Per November 2009, the TOP500 list contained 15 Blue Gene/P installations of 2-racks (2048 nodes, 8192 processor cores, 23.86 TFLOPS Linpack ) and larger.
+[1] On November 12, 2007, the first Blue Gene/P installation, JUGENE , with 16 racks (16,384 nodes, 65,536 processors) was running at Forschungszentrum Jülich in Germany with a performance of 167 TFLOPS.
+[23] When inaugurated it was the fastest supercomputer in Europe and the sixth fastest in the world. In 2009, JUGENE was upgraded to 72 racks (73,728 nodes, 294,912 processor cores) with 144 terabytes of memory and 6 petabytes of storage, and achieved a peak performance of 1 PetaFLOPS. This configuration incorporated new air-to-water heat exchangers between the racks, reducing the cooling cost substantially.
+[24] JUGENE was shut down in July 2012 and replaced by the Blue Gene/Q system JUQUEEN.
+The 40-rack (40960 nodes, 163840 processor cores) "Intrepid" system at Argonne National Laboratory was ranked #3 on the June 2008 Top 500 list.
+[25] The Intrepid system is one of the major resources of the INCITE program, in which processor hours are awarded to "grand challenge" science and engineering projects in a peer-reviewed competition.
+Lawrence Livermore National Laboratory installed a 36-rack Blue Gene/P installation, "Dawn", in 2009.
+The King Abdullah University of Science and Technology ( KAUST ) installed a 16-rack Blue Gene/P installation, " Shaheen ", in 2009.
+In 2012, a 6-rack Blue Gene/P was installed at Rice University and will be jointly administered with the University of São Paulo.
+[26] A 2.5 rack Blue Gene/P system is the central processor for the Low Frequency Array for Radio astronomy ( LOFAR ) project in the Netherlands and surrounding European countries. This application uses the streaming data capabilities of the machine.
+A 2-rack Blue Gene/P was installed in September 2008 in Sofia , Bulgaria , and is operated by the Bulgarian Academy of Sciences and Sofia University.
+[27] In 2010, a 2-rack (8192-core) Blue Gene/P was installed at the University of Melbourne for the Victorian Life Sciences Computation Initiative.
+[28] In 2011, a 2-rack Blue Gene/P was installed at University of Canterbury in Christchurch, New Zealand.
+In 2012, a 2-rack Blue Gene/P was installed at Rutgers University in Piscataway, New Jersey. It was dubbed "Excalibur" as an homage to the Rutgers mascot, the Scarlet Knight.
+[29] In 2008, a 1-rack (1024 nodes) Blue Gene/P with 180 TB of storage was installed at the University of Rochester in Rochester, New York.
+[30] The first Blue Gene/P in the ASEAN region was installed in 2010 at the Universiti of Brunei Darussalam ’s research centre, the UBD-IBM Centre.
+ The installation has prompted research collaboration between the university and IBM research on climate modeling that will investigate the impact of climate change on flood forecasting, crop yields, renewable energy and the health of rainforests in the region among others.
+[31] In 2013, a 1-rack Blue Gene/P was donated to the Department of Science and Technology for weather forecasts, disaster management, precision agriculture, and health it is housed in the National Computer Center, Diliman, Quezon City, under the auspices of Philippine Genome Center (PGC) Core Facility for Bioinformatics (CFB) at UP Diliman, Quezon City.
+[32] Applications [ edit ] Veselin Topalov , the challenger to the World Chess Champion title in 2010, confirmed in an interview that he had used a Blue Gene/P supercomputer during his preparation for the match.
+[33] The Blue Gene/P computer has been used to simulate approximately one percent of a human cerebral cortex, containing 1.6 billion neurons with approximately 9 trillion connections.
+[34] The IBM Kittyhawk project team has ported Linux to the compute nodes and demonstrated generic Web 2.0 workloads running at scale on a Blue Gene/P. Their paper, published in the ACM Operating Systems Review, describes a kernel driver that tunnels Ethernet over the tree network, which results in all-to-all TCP/IP connectivity.
+[35] [36] Running standard Linux software like MySQL , their performance results on SpecJBB rank among the highest on record.
+[ citation needed ] In 2011, a Rutgers University / IBM / University of Texas team linked the KAUST Shaheen installation together with a Blue Gene/P installation at the IBM Watson Research Center into a "federated high performance computing cloud", winning the IEEE SCALE 2011 challenge with an oil reservoir optimization application.
+[37] Blue Gene/Q [ edit ] The third supercomputer design in the Blue Gene series, Blue Gene/Q has a peak performance of 20 Petaflops , [38] reaching LINPACK benchmarks performance of 17 Petaflops.
+ Blue Gene/Q continues to expand and enhance the Blue Gene/L and /P architectures.
+Design [ edit ] The Blue Gene/Q Compute chip is an 18-core chip. The 64-bit A2 processor cores are 4-way simultaneously multithreaded , and run at 1.6 GHz. Each processor core has a SIMD quad-vector double-precision floating-point unit (IBM QPX). 16 Processor cores are used for computing, and a 17th core for operating system assist functions such as interrupts , asynchronous I/O , MPI pacing and RAS.
+ The 18th core is used as a redundant spare, used to increase manufacturing yield. The spared-out core is shut down in functional operation. The processor cores are linked by a crossbar switch to a 32 MB eDRAM L2 cache, operating at half core speed. The L2 cache is multi-versioned, supporting transactional memory and speculative execution , and has hardware support for atomic operations.
+[39] L2 cache misses are handled by two built-in DDR3 memory controllers running at 1.33 GHz. The chip also integrates logic for chip-to-chip communications in a 5D torus configuration, with 2GB/s chip-to-chip links. The Blue Gene/Q chip is manufactured on IBM's copper SOI process at 45 nm. It delivers a peak performance of 204.8 GFLOPS at 1.6 GHz, drawing about 55 watts. The chip measures 19×19 mm (359.5 mm²) and comprises 1.47 billion transistors. The chip is mounted on a compute card along with 16 GB DDR3 DRAM (i.e., 1 GB for each user processor core).
+[40] A Q32 [41] compute drawer contains 32 compute cards, each water cooled.
+[42] A "midplane" (crate) contains 16 Q32 compute drawers for a total of 512 compute nodes, electrically interconnected in a 5D torus configuration (4x4x4x4x2). Beyond the midplane level, all connections are optical. Racks have two midplanes, thus 32 compute drawers, for a total of 1024 compute nodes, 16,384 user cores and 16 TB RAM.
+[42] Separate I/O drawers, placed at the top of a rack or in a separate rack, are air cooled and contain 8 compute cards and 8 PCIe expansion slots for InfiniBand or 10 Gigabit Ethernet networking.
+[42] Performance [ edit ] At the time of the Blue Gene/Q system announcement in November 2011, an initial 4-rack Blue Gene/Q system (4096 nodes, 65536 user processor cores) achieved #17 in the TOP500 list [1] with 677.1 TeraFLOPS Linpack, outperforming the original 2007 104-rack BlueGene/L installation described above. The same 4-rack system achieved the top position in the Graph500 list [3] with over 250 GTEPS (giga traversed edges per second ). Blue Gene/Q systems also topped the Green500 list of most energy efficient supercomputers with up to 2.1 GFLOPS/W.
+[2] In June 2012, Blue Gene/Q installations took the top positions in all three lists: TOP500 , [1] Graph500 [3] and Green500.
+[2] Installations [ edit ] The following is an incomplete list of Blue Gene/Q installations. Per June 2012, the TOP500 list contained 20 Blue Gene/Q installations of 1/2-rack (512 nodes, 8192 processor cores, 86.35 TFLOPS Linpack) and larger.
+[1] At a (size-independent) power efficiency of about 2.1 GFLOPS/W, all these systems also populated the top of the June 2012 Green 500 list.
+[2] A Blue Gene/Q system called Sequoia was delivered to the Lawrence Livermore National Laboratory (LLNL) beginning in 2011 and was fully deployed in June 2012. It is part of the Advanced Simulation and Computing Program running nuclear simulations and advanced scientific research. It consists of 96 racks (comprising 98,304 compute nodes with 1.6 million processor cores and 1.6 PB of memory) covering an area of about 3,000 square feet (280 m 2 ).
+[43] In June 2012, the system was ranked as the world's fastest supercomputer.
+[44] [45] at 20.1 PFLOPS peak, 16.32 PFLOPS sustained (Linpack), drawing up to 7.9 megawatts of power.
+[1] In June 2013, its performance is listed at 17.17 PFLOPS sustained (Linpack).
+[1] A 10 PFLOPS (peak) Blue Gene/Q system called Mira was installed at Argonne National Laboratory in the Argonne Leadership Computing Facility in 2012. It consist of 48 racks (49,152 compute nodes), with 70 PB of disk storage (470 GB/s I/O bandwidth).
+[46] [47] JUQUEEN at the Forschungzentrum Jülich is a 28-rack Blue Gene/Q system, and was from June 2013 to November 2015 the highest ranked machine in Europe in the Top500.
+[1] Vulcan at Lawrence Livermore National Laboratory (LLNL) is a 24-rack, 5 PFLOPS (peak), Blue Gene/Q system that was commissioned in 2012 and decommissioned in 2019.
+[48] Vulcan served Lab-industry projects through Livermore's High Performance Computing (HPC) Innovation Center [49] as well as academic collaborations in support of DOE/National Nuclear Security Administration (NNSA) missions.
+[50] Fermi at the CINECA Supercomputing facility, Bologna, Italy, [51] is a 10-rack, 2 PFLOPS (peak), Blue Gene/Q system.
+As part of DiRAC , the EPCC hosts a 6 rack (6144-node) Blue Gene/Q system at the University of Edinburgh [52] A five rack Blue Gene/Q system with additional compute hardware called AMOS was installed at Rensselaer Polytechnic Institute in 2013.
+[53] The system was rated at 1048.6 teraflops, the most powerful supercomputer at any private university, and third most powerful supercomputer among all universities in 2014.
+[54] An 838 TFLOPS (peak) Blue Gene/Q system called Avoca was installed at the Victorian Life Sciences Computation Initiative in June, 2012.
+[55] This system is part of a collaboration between IBM and VLSCI, with the aims of improving diagnostics, finding new drug targets, refining treatments and furthering our understanding of diseases.
+[56] The system consists of 4 racks, with 350 TB of storage, 65,536 cores, 64 TB RAM.
+[57] A 209 TFLOPS (peak) Blue Gene/Q system was installed at the University of Rochester in July, 2012.
+[58] This system is part of the Health Sciences Center for Computational Innovation Archived 2012-10-19 at the Wayback Machine , which is dedicated to the application of high-performance computing to research programs in the health sciences.
+ The system consists of a single rack (1,024 compute nodes) with 400 TB of high-performance storage.
+[59] A 209 TFLOPS peak (172 TFLOPS LINPACK) Blue Gene/Q system called Lemanicus was installed at the EPFL in March 2013.
+[60] This system belongs to the Center for Advanced Modeling Science CADMOS ( [61] ) which is a collaboration between the three main research institutions on the shore of the Lake Geneva in the French speaking part of Switzerland : University of Lausanne , University of Geneva and EPFL.
+ The system consists of a single rack (1,024 compute nodes) with 2.1 PB of IBM GPFS-GSS storage.
+A half-rack Blue Gene/Q system, with about 100 TFLOPS (peak), called Cumulus was installed at A*STAR Computational Resource Centre, Singapore, at early 2011.
+[62] Applications [ edit ] Record-breaking science applications have been run on the BG/Q, the first to cross 10 petaflops of sustained performance. The cosmology simulation framework HACC achieved almost 14 petaflops with a 3.6 trillion particle benchmark run, [63] while the Cardioid code, [64] [65] which models the electrophysiology of the human heart, achieved nearly 12 petaflops with a near real-time simulation, both on Sequoia.
+ A fully compressible flow solver has also achieved 14.4 PFLOP/s (originally 11 PFLOP/s) on Sequoia, 72% of the machine's nominal peak performance.
+[66] See also [ edit ] CNK operating system INK operating system Deep Blue (chess computer) References [ edit ] ^ a b c d e f g h i.
+mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit} "November 2004 - TOP500 Supercomputer Sites".
+Top500.org.
+ Retrieved 13 December 2019.
+^ a b c d e "Green500 - TOP500 Supercomputer Sites".
+Green500.org.
+ Archived from the original on 26 August 2016.
+ Retrieved 13 October 2017.
+^ a b c "The Graph500 List".
+ Archived from the original on 2011-12-27.
+^ Harris, Mark (September 18, 2009).
+"Obama honours IBM supercomputer".
+Techradar.com.
+ Retrieved 2009-09-18.
+^ "Supercomputing Strategy Shifts in a World Without BlueGene".
+Nextplatform.com.
+ 14 April 2015.
+ Retrieved 13 October 2017.
+^ "IBM to Build DoE's Next-Gen Coral Supercomputers - EE Times".
+EETimes.
+ Archived from the original on 30 April 2017.
+ Retrieved 13 October 2017.
+^ "Blue Gene: A Vision for Protein Science using a Petaflop Supercomputer" (PDF).
+IBM Systems Journal.
+40 (2). 2017-10-23.
+^ "A Talk with the Brain behind Blue Gene" , BusinessWeek , November 6, 2001, archived from the original on December 11, 2014 ^ "BlueGene/L".
+ Archived from the original on 2011-07-18.
+ Retrieved 2007-10-05.
+^ "hpcwire.com".
+ Archived from the original on September 28, 2007.
+^ "SC06".
+sc06.supercomputing.org.
+ Retrieved 13 October 2017.
+^ "HPC Challenge Award Competition".
+ Archived from the original on 2006-12-11.
+ Retrieved 2006-12-03.
+^ "Mouse brain simulated on computer".
+ BBC News. April 27, 2007. Archived from the original on 2007-05-25.
+^ "IBM100 - Blue Gene".
+03.ibm.com.
+ 7 March 2012.
+ Retrieved 13 October 2017.
+^ Kunkel, Julian M.; Ludwig, Thomas; Meuer, Hans (12 June 2013).
+Supercomputing: 28th International Supercomputing Conference, ISC 2013, Leipzig, Germany, June 16-20, 2013. Proceedings.
+ Springer.
+ISBN 9783642387500.
+ Retrieved 13 October 2017 – via Google Books.
+^ "Blue Gene".
+IBM Journal of Research and Development.
+49 (2/3). 2005.
+^ Kissel, Lynn.
+"BlueGene/L Configuration".
+asc.llnl.gov.
+ Archived from the original on 17 February 2013.
+ Retrieved 13 October 2017.
+^ "Compute Node Ruby for Bluegene/L".
+www.ece.iastate.edu.
+ Archived from the original on February 11, 2009.
+^ William Scullin (March 12, 2011).
+Python for High Performance Computing.
+ Atlanta, GA.
+^ Blue Matter source code, retrieved February 28, 2020 ^ "IBM Triples Performance of World's Fastest, Most Energy-Efficient Supercomputer".
+ 2007-06-27.
+ Retrieved 2011-12-24.
+^ "Overview of the IBM Blue Gene/P project".
+IBM Journal of Research and Development.
+52 : 199–220. Jan 2008.
+doi : 10.1147/rd.521.0199.
+^ "Supercomputing: Jülich Amongst World Leaders Again".
+ IDG News Service. 2007-11-12.
+^ "IBM Press room - 2009-02-10 New IBM Petaflop Supercomputer at German Forschungszentrum Juelich to Be Europe's Most Powerful".
+ 03.ibm.com. 2009-02-10.
+ Retrieved 2011-03-11.
+^ "Argonne's Supercomputer Named World's Fastest for Open Science, Third Overall".
+Mcs.anl.gov.
+ Archived from the original on 8 February 2009.
+ Retrieved 13 October 2017.
+^ "Rice University, IBM partner to bring first Blue Gene supercomputer to Texas".
+news.rice.edu.
+ Archived from the original on 2012-04-05.
+ Retrieved 2012-04-01.
+^ Вече си имаме и суперкомпютър Archived 2009-12-23 at the Wayback Machine , Dir.bg, 9 September 2008 ^ "IBM Press room - 2010-02-11 IBM to Collaborate with Leading Australian Institutions to Push the Boundaries of Medical Research - Australia".
+ 03.ibm.com. 2010-02-11.
+ Retrieved 2011-03-11.
+^ "Rutgers Gets Big Data Weapon in IBM Supercomputer - Hardware -".
+ Archived from the original on 2013-03-06.
+ Retrieved 2013-09-07.
+^ "University of Rochester and IBM Expand Partnership in Pursuit of New Frontiers in Health".
+ University of Rochester Medical Center. May 11, 2012. Archived from the original on 2012-05-11.
+^ "IBM and Universiti Brunei Darussalam to Collaborate on Climate Modeling Research".
+ IBM News Room. 2010-10-13.
+ Retrieved 18 October 2012.
+^ Ronda, Rainier Allan.
+"DOST's supercomputer for scientists now operational".
+Philstar.com.
+ Retrieved 13 October 2017.
+^ "Topalov training with super computer Blue Gene P".
+Players.chessdo.com.
+ Archived from the original on 19 May 2013.
+ Retrieved 13 October 2017.
+^ Kaku, Michio.
+Physics of the Future (New York: Doubleday, 2011), 91.
+^ "Project Kittyhawk: A Global-Scale Computer".
+Research.ibm.com.
+ Retrieved 13 October 2017.
+^ Appavoo, Jonathan; Uhlig, Volkmar; Waterland, Amos.
+"Project Kittyhawk: Building a Global-Scale Computer" (PDF).
+ Yorktown Heights, NY: IBM T.J. Watson Research Center. Archived from the original on 2008-10-31.
+ Retrieved 2018-03-13.
+{{ cite web }} : CS1 maint: bot: original URL status unknown ( link ) ^ "Rutgers-led Experts Assemble Globe-Spanning Supercomputer Cloud".
+News.rutgers.edu.
+ 2011-07-06. Archived from the original on 2011-11-10.
+ Retrieved 2011-12-24.
+^ "IBM announces 20-petaflops supercomputer".
+ Kurzweil. 18 November 2011.
+ Retrieved 13 November 2012.
+IBM has announced the Blue Gene/Q supercomputer, with peak performance of 20 petaflops ^ "Memory Speculation of the Blue Gene/Q Compute Chip".
+ Retrieved 2011-12-23.
+^ "The Blue Gene/Q Compute chip" (PDF).
+ Archived from the original (PDF) on 2015-04-29.
+ Retrieved 2011-12-23.
+^ "IBM Blue Gene/Q supercomputer delivers petascale computing for high-performance computing applications" (PDF).
+01.ibm.com.
+ Retrieved 13 October 2017.
+^ a b c "IBM uncloaks 20 petaflops BlueGene/Q super".
+The Register.
+ 2010-11-22.
+ Retrieved 2010-11-25.
+^ Feldman, Michael (2009-02-03).
+"Lawrence Livermore Prepares for 20 Petaflop Blue Gene/Q".
+ HPCwire. Archived from the original on 2009-02-12.
+ Retrieved 2011-03-11.
+^ B Johnston, Donald (2012-06-18).
+"NNSA's Sequoia supercomputer ranked as world's fastest".
+ Archived from the original on 2014-09-02.
+ Retrieved 2012-06-23.
+^ "TOP500 Press Release".
+ Archived from the original on June 24, 2012.
+^ "MIRA: World's fastest supercomputer - Argonne Leadership Computing Facility".
+Alcf.anl.gov.
+ Retrieved 13 October 2017.
+^ "Mira - Argonne Leadership Computing Facility".
+Alcf.anl.gov.
+ Retrieved 13 October 2017.
+^ "Vulcan—decommissioned".
+hpc.llnl.gov.
+ Retrieved 10 April 2019.
+^ "HPC Innovation Center".
+hpcinnovationcenter.llnl.gov.
+ Retrieved 13 October 2017.
+^ "Lawrence Livermore's Vulcan brings 5 petaflops computing power to collaborations with industry and academia to advance science and technology".
+Llnl.gov.
+ 11 June 2013. Archived from the original on 9 December 2013.
+ Retrieved 13 October 2017.
+^ "Ibm-Fermi | Scai".
+ Archived from the original on 2013-10-30.
+ Retrieved 2013-05-13.
+^ "DiRAC BlueGene/Q".
+epcc.ed.ac.uk.
+^ "Rensselaer at Petascale: AMOS Among the World's Fastest and Most Powerful Supercomputers".
+News.rpi.edu.
+ Retrieved 13 October 2017.
+^ Michael Mullaneyvar.
+"AMOS Ranks 1st Among Supercomputers at Private American Universities".
+News.rpi.edi.
+ Retrieved 13 October 2017.
+^ "World's greenest supercomputer comes to Melbourne - The Melbourne Engineer".
+Themelbourneengineer.eng.unimelb.edu.au/.
+ 16 February 2012. Archived from the original on 2 October 2017.
+ Retrieved 13 October 2017.
+^ "Melbourne Bioinformatics - For all researchers and students based in Melbourne's biomedical and bioscience research precinct".
+Melbourne Bioinformatics.
+ Retrieved 13 October 2017.
+^ "Access to High-end Systems - Melbourne Bioinformatics".
+Vlsci.org.au.
+ Retrieved 13 October 2017.
+^ "University of Rochester Inaugurates New Era of Health Care Research".
+Rochester.edu.
+ Retrieved 13 October 2017.
+^ "Resources - Center for Integrated Research Computing".
+Circ.rochester.edu.
+ Retrieved 13 October 2017.
+^ "EPFL BlueGene/L Homepage".
+ Archived from the original on 2007-12-10.
+ Retrieved 2021-03-10.
+^ Utilisateur, Super.
+"À propos".
+Cadmos.org.
+ Archived from the original on 10 January 2016.
+ Retrieved 13 October 2017.
+^ "A*STAR Computational Resource Centre".
+Acrc.a-star.edu.sg.
+ Archived from the original on 2016-12-20.
+ Retrieved 2016-08-24.
+^ S. Habib; V. Morozov; H. Finkel; A. Pope; K. Heitmann ; K. Kumaran; T. Peterka; J. Insley; D. Daniel; P. Fasel; N. Frontiere & Z. Lukic (2012). "The Universe at Extreme Scale: Multi-Petaflop Sky Simulation on the BG/Q".
+arXiv : 1211.4864 [ cs.DC ].
+^ "Cardioid Cardiac Modeling Project".
+Researcher.watson.ibm.com.
+ 25 July 2016.
+ Retrieved 13 October 2017.
+^ "Venturing into the Heart of High-Performance Computing Simulations".
+Str.llnl.gov.
+ Archived from the original on 14 February 2013.
+ Retrieved 13 October 2017.
+^ Rossinelli, Diego; Hejazialhosseini, Babak; Hadjidoukas, Panagiotis; Bekas, Costas; Curioni, Alessandro; Bertsch, Adam; Futral, Scott; Schmidt, Steffen J.; Adams, Nikolaus A.; Koumoutsakos, Petros (17 November 2013).
+"11 PFLOP/S simulations of cloud cavitation collapse".
+Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis.
+ SC '13. pp. 1–13.
+doi : 10.1145/2503210.2504565.
+ISBN 9781450323789.
+S2CID 12651650.
+External links [ edit ] IBM Research: Blue Gene Next generation supercomputers - Blue Gene/P overview (pdf) Records Preceded by NEC Earth Simulator 35.86 teraflops World's most powerful supercomputer (Blue Gene/L) November 2004 – November 2007 Succeeded by IBM Roadrunner 1.026 petaflops.
+mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em} v t e Lawrence Livermore National Laboratory Facilities Mirror Fusion Test Facility Tandem Mirror Experiment National Atmospheric Release Advisory Center National Energy Research Scientific Computing Center National Ignition Facility Supercomputers ASC Purple ASCI Blue Pacific ASCI White Peloton Sequoia Sierra Products Lasers Argus Cyclops Janus Long path Nova Novette Shiva Others Gist LLNL RISE process LX-14 Micropower impulse radar Reliable Replacement Warhead ROSE SCALD Silo Slapper detonator W47 W70 W71 Yorick People Ernest Lawrence Edward Teller Related IBM Blue Gene Inertial confinement fusion Laser Inertial Fusion Energy Stockpile stewardship Sustained Spheromak Physics Experiment Z-Division v t e IBM History History Mergers and acquisitions PC business acquisition by Lenovo Products Hardware Current Mainframe IBM Z Power microprocessors Power Systems Storage FlashSystem DS8000 Q System One Former Blue Gene Cell microprocessors PowerPC Midrange computer Personal Computer Selectric ThinkPad Other alphaWorks Carbon Design System Cloud Cloudant Cognos Analytics Connections Criminal Reduction Utilising Statistical History Fortran ILOG Information Management Software Lotus Software Mainframe operating systems Mashup Center Planning Analytics PureQuery Quantum Platform Qiskit OpenQASM Rational Software SPSS Tivoli Software Service Automation Manager Watson Watsonx WebSphere Business entities Current Apptio Center for The Business of Government Consulting Promontory Kenexa International subsidiaries India Press Red Hat Research The Weather Company ( Weather Underground ) Former AdStar AIM alliance Kaleida Labs Taligent Ambra Computer Cognos EduQuest Kyndryl Lexmark Merative Microelectronics Product Center Science Research Associates Service Bureau Facilities Towers 1250 René-Lévesque , Montreal, QC One Atlantic Center , Atlanta, GA Software Labs Rome Software Lab Toronto Software Lab IBM Buildings 330 North Wabash , Chicago, IL Honolulu Seattle Facilities Thomas J. Watson Research Center Hakozaki Facility Yamato Facility Cambridge Scientific Center IBM Hursley Canada Head Office Building IBM Rochester Initiatives Academy of Technology Deep Thunder Developer Develothon Fellow The Great Mind Challenge Linux Technology Center SkillsBuild Smarter Planet Virtual Universe Community World Community Grid Inventions Automated teller machine Cynefin framework DRAM Electronic keypunch Floppy disk Hard disk drive Magnetic stripe card Relational model Sabre airline reservation system Scanning tunneling microscope Financial swaps Universal Product Code Terminology Big Blue Commercial Processing Workload Customer engineer Globally integrated enterprise e-business Think slogan CEOs Thomas J. Watson (1914–1956) Thomas Watson Jr.
+(1956–1971) T. Vincent Learson (1971–1973) Frank T. Cary (1973–1981) John R. Opel (1981–1985) John Fellows Akers (1985–1993) Louis V. Gerstner Jr.
+(1993–2002) Samuel J. Palmisano (2002–2011) Ginni Rometty (2012–2020) Arvind Krishna (since 2020) Board of directors Thomas Buberl Michael L. Eskew David Farr Alex Gorsky Michelle J. Howard Arvind Krishna Andrew N. Liveris Martha E. Pollack Virginia M. Rometty Joseph R. Swedish Sidney Taurel Peter R. Voser Other A Boy and His Atom Big Blue sports teams American football Rugby union Common Public License / IBM Public License Deep Blue Deep Thought Dynamic infrastructure GlobalFoundries GUIDE International IBM and the Holocaust International chess tournament Lucifer cipher Mathematica IBM Plex SHARE computing ScicomP Unions Category Commons Navigational boxes FOSS Midrange computers Operating systems Personal computers System/360 System/370 Typewriters Vacuum tube computers IBM supercomputer platforms Petascale computers Power microprocessors Parallel computing Transactional memory 32-bit computers 64-bit computers Lawrence Livermore National Laboratory Webarchive template wayback links CS1 maint: bot: original URL status unknown Articles with short description Short description matches Wikidata Wikipedia articles needing rewrite from December 2011 All articles needing rewrite All articles with unsourced statements Articles with unsourced statements from September 2010 This page was last edited on 28 October 2023, at 19:53 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+ Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Code of Conduct Developers Statistics Cookie statement Mobile view Toggle limited content width

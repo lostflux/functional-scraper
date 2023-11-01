@@ -38,6 +38,9 @@ matchCount = Parser.wordcount config
 seedURLs :: [Link]
 seedURLs = Parser.domains config
 
+prevPages :: [Link]
+prevPages = unsafePerformIO $! lines <$!> readFile "data.backup/metadata/urls"
+
 
 crawl :: IO ()
 crawl = do
@@ -45,7 +48,7 @@ crawl = do
   let allWords = EmptyTrie
   let allLinks = []
   -- !prevPages <- filter (not . null) <$!> lines <$!> readFile "data/metadata/urls"
-  let !urls = seedURLs -- prevPages ++ seedURLs
+  let !urls = seedURLs ++ prevPages
   let !seenURLs = Set.fromList urls
 
   -- launch the crawl.
@@ -54,9 +57,9 @@ crawl = do
 -- | The main loop.
 iter :: [Link] -> Links -> Int -> Trie -> IO ()
 iter [] seenURLs docID allWords = do
-  let dir = "data/metadata"
-  writeFile (printf "%s/urls" dir) $! unlines $! Set.toList seenURLs
-  writeFile (printf "%s/all" dir) $! show allWords
+  -- let dir = "data/metadata"
+  -- writeFile (printf "%s/urls" dir) $! unlines $! Set.toList seenURLs
+  -- writeFile (printf "%s/all" dir) $! show allWords
   printf "Seen %d unique URLs.\n" (Set.size seenURLs)
   printf "THE END"
   exitSuccess
@@ -78,7 +81,10 @@ iter queue@(url:rest) seenURLs docID allWords = do
     let status = hasKeyWords page
     when debug $ printf "\n\t\tqueue length : %d\n\t\tseen urls: %d\n\n" (length q) (Set.size seenURLs)
     if fst status then do
-      printf "%sHit  %5d (%5d): %s%s\n" blue docID (snd status) url reset
+      printf "%sHit %5d : %s%s\n" blue docID url reset
+      case docID of
+        0 -> writeFile "data/metadata/urls" $ url ++ "\n"
+        _ -> appendFile "data/metadata/urls" $ url ++ "\n"
       logR docID url page
       iter q s (docID + 1) words
     else iter q s docID words

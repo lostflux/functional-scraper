@@ -1,8 +1,0 @@
-old id = 1722
-Rich Sutton, PhD - Directory@UAlberta
-unknown
-https://www.ualberta.ca/science/about-us/contact-us/faculty-directory/rich-sutton
-
-Quick LinksRich Sutton, PhDContactProfessor, Faculty of Science - Computing ScienceOverviewAboutEducationChair PositionsResearchAreasArtificial IntelligenceMachine LearningReinforcement LearningRoboticsInterestsReinforcement Learning, Foundational Issues in Artificial Intelligence, Animal Learning Theory.
-SummaryI am seeking to identify general computational principles underlying what we mean by intelligence and goal-directed behavior. I start with the interaction between the intelligent agent and its environment. Goals, choices, and sources of information are all defined in terms of this interaction. In some sense it is the only thing that is real, and from it all our sense of the world is created. How is this done? How can interaction lead to better behavior, better perception, better models of the world? What are the computational issues in doing this efficiently and in realtime? These are the sort of questions that I ask in trying to understand what it means to be intelligent, to predict and influence the world, to learn, perceive, act, and think.
-In practice, I work primarily in reinforcement learning as an approach to artificial intelligence. I am exploring ways to represent a broad range of human knowledge in an empirical form--that is, in a form directly in terms of experience--and in ways of reducing the dependence on manual encoding of world state and knowledge.

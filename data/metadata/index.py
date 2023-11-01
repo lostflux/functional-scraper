@@ -10,6 +10,8 @@ __version__ = "0.0.1"
 
 from os import mkdir
 from collections import Counter
+import csv
+import pandas as pd
 
 def count_words():
   """
@@ -44,18 +46,30 @@ def index_pages():
   """
   docID = 0
 
-  with open("index.csv", "w") as csv, open("index.tsv", "w") as tsv, open("urls", "w") as urls:
+  with open("index.csv", "w") as csv_file, open("urls", "w") as urls:
+    writer = csv.writer(csv_file)
+    # csv.write("id,year,title,url\n")
+    writer.writerow(["id", "year", "title", "url", "text"])
     while True:
       try:
-        with open(f"../log/{docID}", "r") as doc:
-          title = doc.readline().strip()
-          year = doc.readline().strip()
-          url = doc.readline().strip()
-          doc.close()
+        with open(f"../log/{docID}", "r") as meta, open(f"../log/{docID}.txt", "r") as data:
+          title = meta.readline().strip()
+          year = meta.readline().strip()
+          url = meta.readline().strip()
+          # read remaining text
+          text = data.read()
+          # print(f"{text = }")
+
+
+
+          meta.close()
+          data.close()
 
           print(f"Indexing: {docID}")
-          csv.write(f"{docID},{year},{title},{url}\n")
-          tsv.write(f"{docID}\t{year}\t{title}\t{url}\n")
+          # csv.write(f'{docID},{year},"{title}","{url}","{text}"\n')
+          
+          writer.writerow([docID, year, f'"{title}"', f'"{url}"', f'"{text}"'])
+          # tsv.write(f"{docID}\t{year}\t{title}\t{url}\n")
           urls.write(f"{url}\n")
           docID += 1
       except:
@@ -97,8 +111,13 @@ def categorize():
     except:
       break
 
+# def load_data():
+#   df = pd.read_csv("index.csv")
+#   df.head(5)
+
 
 if __name__ == "__main__":
-  count_words()
+  # count_words()
   index_pages()
   categorize()
+  # load_data()

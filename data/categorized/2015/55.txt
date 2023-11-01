@@ -1,9 +1,0 @@
-old id = 4119
-UC Berkeley - Can Documentation Improve Accountability for Artificial Intelligence? - Partnership on AI
-2015
-https://partnershiponai.org/event/uc-berkeley-can-documentation-improve-accountability-for-artificial-intelligence
-
-/UC Berkeley – Can Documentation Improve Accountability for Artificial Intelligence?Organized by UC Berkeley Center for Long-Term CybersecurityThe Center for Long-Term Cybersecurity was established in 2015 as a research and collaboration hub in the School of Information at the University of California, Berkeley. Its mission is to help individuals and organizations address tomorrow’s information security challenges to amplify the upside of the digital revolution.
-Event OverviewNumerous AI documentation processes and practices have been developed in recent years, with goals including improving transparency, safety, fairness, and accountability for the development and uses of AI systems. Well known AI documentation standards include Google’s Model Cards, Microsoft’s Datasheets for Datasets, IBM’s FactSheets, and more recently Meta’s System Cards. Notably, individual companies have led much of this work, begging the question of whether such practices could or should be standardized more broadly. Multi-stakeholder efforts, such as the Partnership on AI’s ABOUT ML initiative, and academic efforts, such as the recent proposal for Reward Reports for Reinforcement Learning, offer important alternative insights.
-Join the UC Berkeley AI Security Initiative, hosted by the Center for Long-Term Cybersecurity, to learn about the current state of AI documentation, how far the AI community has come in adopting these practices, and new ideas to support trustworthy AI well into the future.
-PAI RepresentativeChristine CustisHead of Fairness, Transparency, Accountability and Safety© 2022 Partnership on AI | All Rights Reserved

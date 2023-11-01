@@ -1,39 +1,562 @@
-old id = 356
-Technology Feels Like It's Accelerating — Because It Actually Is
+old id = 1155
+Chromosome territories, nuclear architecture and gene regulation in mammalian cells | Nature Reviews Genetics
 2001
-https://singularityhub.com/2016/03/22/technology-feels-like-its-accelerating-because-it-actually-is
+https://doi.org/10.1038%2F35066075
 
-Technology Feels Like It’s Accelerating — Because It Actually IsThis is the second in a four-part series looking at the big ideas in Ray Kurzweil’s bookThe Singularity Is Near.
-​Be sure to read the other articles:“Technology goes beyond mere tool making; it is a process of creating ever more powerful technology using the tools from the previous round of innovation.” –Ray KurzweilA decade ago, smartphones (as we know them by today’s standards) didn’t exist. Three decades earlier, no one even owned a computer. Think about that—the first personal computers arrived about 40 years ago. Today, it seems nearly everyone is gazing at a glowing, handheld computer. (In fact, two-thirds of Americans own one,according to a Pew Report.)Intuitively, it feels like technology is progressing faster than ever. But is it really? According to Ray Kurzweil—yes, it absolutely is. In his bookThe Singularity Is Near, Kurzweil shows technology’s quickening pace and explains the force behind it all.
-This article will explore Kurzweil’s explanation of this driving force, which he dubbed the law of accelerating returns, and the surprising implications of technology’s acceleration.
-Moore’s Law is famous—but it isn’t specialComputer chips have become increasingly powerful while costing less. That’s because over the last five decades the number of transistors—or the tiny electrical components that perform basic operations—on a single chip have been doubling regularly.
-This exponential doubling, known as Moore’s Law, is the reason a modern smartphone affordably packs so much dizzying capability into such a small package.
-[Moore’s Law may be nearing certain physical limitations that will be challenging to overcome. Go here to learn how broad exponential growth in computing can continue.
-]The technological progress in computer chips is well known—but surprisingly, it isn’t a special case. A range of other technologies demonstrate similar exponential growth, whether bits of data stored or DNA base pairs recorded. The outcome is the same: capabilities have increased by thousands, millions, and billions for less cost in just decades.
-The above charts show a few examples of accelerating technologies,but more examples are plentiful. These do not directly depend on the doubling of transistor counts—and yet each one moves along its own exponential curve just as computer chips do.
-So, what’s going on?According to the law of accelerating returns, the pace of technological progress—especially information technology—speeds up exponentially over time because there is a common force driving it forward. Being exponential, as it turns out, is all about evolution.
-Technology is an evolutionary processLet’s begin with biology, a familiar evolutionary process.
-Biology hones natural “technologies,” so to speak. Recorded within the DNA of living things are blueprints of useful tools known as genes. Due to selective pressure—or “survival of the fittest”—advantageous innovations are passed along to offspring.
-As this process plays out generation after generation over geological timescales, chaotically yet incrementally, incredible growth takes place. By building on genetic progress rather than starting over, organisms have increased in complexity and capability over time. This innovative power is evident nearly everywhere we look on Earth today.
-“Evolution applies positive feedback,” Kurzweil writes. “The more capable methods resulting from one stage of evolutionary progress are used to create the next stage.”Biology’s many innovations include cells, bones, eyes, thumbs, brains—and from thumbs and brains, technology. According to Kurzweil, technology is also an evolutionary process, like biology, only it moves from one invention to the next much faster.
-Civilizations advance by “repurposing” the ideas and breakthroughs of their predecessors. Similarly, each generation of technology builds on the advances of previous generations, and this creates a positive feedback loop of improvements.
-Kurzweil’s big idea is that each new generation of technology stands on the shoulders of its predecessors—in this way, improvements in technology enable the next generation of even better technology.
-Technological evolution speeds up exponentiallyBecause each generation of technology improves over the last, the rate of progress from version to version speeds up.
-To see this, imagine making a chair with hand tools, power tools, and finally assembly lines. Production gets faster after each step. Now imagine each generation of these tools is also used to design and build better tools. Kurzweil suggests such a process is at play in the design of ever-faster computer chips with the software and computers used by engineers.
-“The first computers were designed on paper and assembled by hand. Today, they are designed on computer workstations with the computers themselves working out many details of the next generation’s design, and are then produced in fully automated factories with only limited human intervention.” – Ray Kurzweil, The Singularity Is NearThis acceleration can be measured in the “returns” of the technology—such as speed, efficiency, price-performance, and overall “power”—which improve exponentially too.
-Further, as a technology becomes more effective, it attracts more attention. The result is a flood of new resources—such as increased R&D budgets, recruiting top talent, etc.—which are directed to further improving the technology.
-This wave of new resources triggers a “second level” of exponential growth, where the rate of exponential growth (the exponent) also begins accelerating.
-However, specific paradigms (e.g., integrated circuits) won’t grow exponentially forever. They grow until they’ve exhausted their potential, at which point a new paradigm replaces the old one.
-The surprising implications of the law of accelerating returnsKurzweil wrote in 2001that every decade our overall rate of progress was doubling, “We won’t experience 100 years of progress in the 21st century—it will be more like 20,000 years of progress (at today’s rate).”This suggests that the horizons for amazingly powerful technologies may be closer than we realize. Some ofRay Kurzweil’s predictions from the last 25 yearsmay have seemed a stretch at the time—but many were right.
-Like in 1990 when he predicted that a computer would beat a pro chess player by 1998, which came true in 1997 when Garry Kasparov lost to IBM’s Deep Blue. (Now, in 2016,a computer has mastered the even more complex game Go—an accomplishment not expected by some experts for another decade.)We’re only 15 years into the 21stcentury and the progress has been pretty stunning—the global adoption of the Internet, smartphones,ever-more agile robots,AI that learns. We sequenced the first human genome in 2004 at a cost of hundreds of millions of dollars. Now, machines can sequence18,000 annually for $1,000 a genome.
-These are just a few examples of the law of accelerating returns driving progress forward. Because the future is approaching much faster than we realize, it’s critical to think exponentially about where we’re headed and how we’ll get there.
-To learn more about the exponential pace of technology andRay Kurzweil’s predictions, read his 2001 essay “The Law of Accelerating Returns” and his book,The Singularity Is Near.
-Image Credit:ShutterstockWe are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
-Follow Alison E.:LatestThis Week’s Awesome Tech Stories From Around the Web (Through May 21)Volvo and DHL Are Partnering on Hub-to-Hub Autonomous TruckingHow a Volcanic Bombardment in Ancient Australia Led to the World’s Greatest Climate CatastropheRELATEDDemocracy Is Ailing. Here’s How We Can Start Reviving ItThe Ideal Qubit? Future Quantum Computers Could Crunch Data With Single Electrons on Neon IceBlasting Out Earth’s Location in Hopes of Reaching Aliens Is Controversial—Two Teams of Scientists Are Doing It AnywayRepublish this article for free in any language, online or in print, under theCreative Commonslicense CC BY-ND 4.0. Learn more aboutrepublishing.
-RepublishYou are free to republish this article in any language, online or in print, under theCreative Commonslicense CC BY-ND 4.0. By republishing this content you agree to comply with the Singularity HubRepublishing Guidelines.
-When republishing, please do not edit the contents of the article, ensure that you attribute the author and acknowledge that the article was originally published on Singularity Hub. Pleasecontact uswith any questions.
-To republish this article, copy the HTML code below and paste it to your CMS. Please do not remove the pixel counter.
-Press Ctrl+C to copy and Ctrl+V to paste.
-How the Extinction of Ice Age Mammals May Have Forced Us to Invent CivilizationGet the latest news from Singularity Hub!Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.
-© 2022 Singularity Education Group. All Rights Reserved.
-Singularity University is not a degree granting institution.
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+Advertisement View all journals Search Log in Explore content About the journal Publish with us Sign up for alerts RSS feed nature nature reviews genetics review articles article Download PDF Published: 01 April 2001 Chromosome territories, nuclear architecture and gene regulation in mammalian cells T. Cremer 1 , 2 & C. Cremer 2 , 3 Nature Reviews Genetics volume 2 , pages 292–301 ( 2001 ) Cite this article 19k Accesses 1671 Citations 8 Altmetric Metrics details Abstract The expression of genes is regulated at many levels. Perhaps the area in which least is known is how nuclear organization influences gene expression. Studies of higher-order chromatin arrangements and their dynamic interactions with other nuclear components have been boosted by recent technical advances. The emerging view is that chromosomes are compartmentalized into discrete territories. The location of a gene within a chromosome territory seems to influence its access to the machinery responsible for specific nuclear functions, such as transcription and splicing. This view is consistent with a topological model for gene regulation.
+Key Points Chromosomes occupy discrete territories in the cell nucleus and contain distinct chromosome-arm and chromosome-band domains.
+Chromosome territories (CTs) with different gene densities occupy distinct nuclear positions.
+Gene-poor, mid-to-late-replicating chromatin is enriched in nuclear compartments that are located at the nuclear periphery and at the perinucleolar region.
+A compartment for gene-dense, early-replicating chromatin is separated from the compartments for mid-to-late-replicating chromatin.
+Chromatin domains with a DNA content of ∼ 1 Mb can be detected in nuclei during interphase and in non-cycling cells.
+The interchromatin compartment (IC) contains various types of non-chromatin domains with factors for transcription, splicing, DNA replication and repair.
+The CT–IC model predicts that a specific topological relationship between the IC and chromatin domains is essential for gene regulation.
+The transcriptional status of genes correlates with gene positioning in CTs.
+A dynamic repositioning of genes with respect to centromeric heterochromatin has a role in gene silencing and activation.
+Various computer models of CTs and nuclear architecture make different predictions that can be validated by experimental tests.
+Comprehensive understanding of gene regulation requires much more detailed knowledge of gene expression in the context of nuclear architecture and organization.
+You have full access to this article via your institution.
+Download PDF Download PDF Main Despite all the celebrations associated with the sequencing of the human genome, and the genomes of other model organisms, our abilities to interpret genome sequences are quite limited. For example, we cannot understand the orchestrated activity — and the silencing — of many thousands of genes in any given cell just on the basis of DNA sequences, such as promoter and enhancer elements. How are the profound differences in gene activities established and maintained in a large number of cell types to ensure the development and functioning of a complex multicellular organism? To answer this question fully, we need to understand how genomes are organized in the nucleus, the basic principles of nuclear architecture and the changes in nuclear organization that occur during cellular differentiation.
+During recent years, EPIGENETIC mechanisms of gene regulation, such as DNA methylation and histone modification, have entered the centre stage of chromatin research 1.
+ Modifications of DNA and nucleosomes, however, as well as boundaries and insulators 2 , that affect gene regulation at the chromatin level are not the focus of this article. Instead, we review experimental data and models for a higher level of the regulation of gene expression and other nuclear functions — namely the architecture of the nucleus as a whole 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14.
+ In particular, we describe evidence for a compartmentalized nuclear architecture in the mammalian cell nucleus based on chromosome territories (CTs) and an interchromatin compartment (IC) that contains macromolecular complexes that are required for replication, transcription, splicing and repair 12 (summarized in Fig. 1 ). Other nuclear components, such as the nucleolus, nuclear lamina and pores, are not reviewed here (for reviews, see Refs 15 , 16 ), and although the focus of this review is the mammalian nucleus, the nuclear architecture of other organisms will be mentioned where appropriate.
+Structural features that support the chromosome-territory–interchromatin-compartment (CT–IC) model are shown. These features are drawn roughly to scale on an optical section taken from the nucleus of a living HeLa cell. Although experimental evidence is available to support these features, the overall model of functional nuclear architecture is speculative (see text).
+a | CTs have complex folded surfaces. Inset: topological model of gene regulation 23.
+ A giant chromatin loop with several active genes (red) expands from the CT surface into the IC space.
+b | CTs contain separate arm domains for the short (p) and long chromosome arms (q), and a centromeric domain (asterisks). Inset: topological model of gene regulation 78 , 79.
+ Top, actively transcribed genes (white) are located on a chromatin loop that is remote from centromeric heterochromatin. Bottom, recruitment of the same genes (black) to the centromeric heterochromatin leads to their silencing.
+c | CTs have variable chromatin density (dark brown, high density; light yellow, low density). Loose chromatin expands into the IC, whereas the most dense chromatin is remote from the IC.
+d | CT showing early-replicating chromatin domains (green) and mid-to-late-replicating chromatin domains (red). Each domain comprises ∼ 1 Mb. Gene-poor chromatin (red), is preferentially located at the nuclear periphery and in close contact with the nuclear lamina (yellow), as well as with infoldings of the lamina and around the nucleolus (nu). Gene-rich chromatin (green) is located between the gene-poor compartments.
+e | Higher-order chromatin structures built up from a hierarchy of chromatin fibres 88.
+ Inset: this topological view of gene regulation 27 , 68 indicates that active genes (white dots) are at the surface of convoluted chromatin fibres. Silenced genes (black dots) may be located towards the interior of the chromatin structure.
+f | The CT–IC model predicts that the IC (green) contains complexes (orange dots) and larger non-chromatin domains (aggregations of orange dots) for transcription, splicing, DNA replication and repair.
+g | CT with ∼ 1-Mb chromatin domains (red) and IC (green) expanding between these domains. Inset: the topological relationships between the IC, and active and inactive genes 72.
+ The finest branches of the IC end between ∼ 100-kb chromatin domains. Top: active genes (white dots) are located at the surface of these domains, whereas silenced genes (black dots) are located in the interior. Bottom: alternatively, closed ∼ 100-kb chromatin domains with silenced genes are transformed into an open configuration before transcriptional activation.
+Full size image During the past two decades, various new methods have expanded the cell biologist's 'toolkit' for the study of nuclear architecture and function ( Box 1 ). These methods have provided the basis for detailed studies of CTs, as well as for studies of the topology and dynamics of non-chromatin domains in the nucleus of fixed and, more recently, living cells. Computer simulations of CTs and nuclear architecture are also being used to make quantitative predictions that can be tested experimentally. On the basis of these developments, we discuss a refined model of nuclear architecture — the CT–IC model — and its implications for understanding gene regulation at the topological level.
+Chromosome territories During the past 20 years, fluorescence in situ hybridization (FISH) techniques have been developed to detect specific DNA (or RNA) sequences in single cells. Combinations of fluorochromes can be used to distinguish numerous differently coloured chromosomal targets simultaneously in a single cell (for review, see Ref.
+17 ), and CHROMOSOME PAINTING has unequivocally confirmed circumstantial evidence from the 1970s and early 1980s 18 , 19 that chromosomes occupy discrete territories in the cell nucleus (for review, see Ref.
+5 , Box 1 , Fig. 2 ). The FISH experiments further showed that CTs are composed of distinct chromosome-arm domains and chromosome-band domains 20 and allowed determination of the three-dimensional positions of individual active and inactive genes 21 , 22 , 23 , 24 ( Fig. 3 ).
+a | 4,6-diamidino-2-phenylindole (DAPI)-stained, diploid, chicken metaphase spread with macro- and microchromosomes.
+b | The same metaphase spread after multicolour fluorescence in situ hybridization with pseudocoloured chromosomes. Chicken chromosome paint probes (image courtesy of Johannes Wienberg) were labelled by a combinatorial scheme with oestradiol (1, 4, 5, 6), digoxigenin (2, 4, 6, Z) and biotin (3, 5, 6, Z).
+c | Oestradiol- and digoxigenin-labelled probes were detected using secondary antibodies labelled with Cy3 and fluorescein isothiocyanate (FITC); biotinylated probes were detected with Cy5-conjugated streptavidin.
+d | Mid-plane light optical section through a chicken fibroblast nucleus shows mutually exclusive chromosome territories (CTs) with homologous chromosomes seen in separate locations. (Note that only one of the two CTs for each of 4 and 6 is displayed in this section.) (Image courtesy of F. Habermann.) Full size image a | Two-colour painting of the p-arm (red) and the q-arm (green) of human chromosome 1 in a lymphocyte metaphase spread.
+b | Visualization of the two arms in a light optical section through a human diploid fibroblast nucleus (bottom) shows two distinct, mutually exclusive arm domains 20.
+ ( Image courtesy of Steffen Dietzel).
+c | Painting of the human X chromosome (red) and several distal bands of its p-arm and q-arm (green) using MICRODISSECTION PROBES 20.
+d | Visualization of the active and inactive X-chromosome territories (Xa and Xi, respectively) together with the respective distal-band domains in a light optical section through a female human fibroblast nucleus. (Image courtesy of Joachim Karpf and Irina Solovei).
+e | Three-dimensional reconstructions of the Xa and Xi territories from a human female fibroblast nucleus (Reproduced with permission from Ref.
+22 ). The three-dimensional positions of the ANT2 and ANT3 (adenosine nucleotide translocase) genes are noted as green and blue spheres, respectively. Note that active ANT genes can be seen at the territory surface (two on Xa and one on Xi). The white box provides a transparent view of the Xi territory (pink), indicating the location of the inactive ANT2 gene in the territory interior.
+f | Three-dimensonal reconstructions of two chromosome-17 territories, established from light optical serial sections through a human diploid fibroblast nucleus, show complex territory surfaces. (Image courtesy of Irina Solovei.) Full size image More recently, an entirely different approach has been introduced to study CTs, in which nuclear DNA is labelled in living cells during the S phase. Labelled cells are followed through several cell cycles, resulting in the segregation of labelled and non-labelled sister chromatids into daughter nuclei during the second and subsequent mitotic events. This labelling/segregation (L/S) approach yields nuclei with distinct, replication-labelled patches. Each patch reflects the territory of a single chromatid and, occasionally, a partial chromatid owing to a sister chromatid exchange 25 , 26.
+ More detailed light- and electron-microscopic studies indicate that the three-dimensional CT structure might be reminiscent of a 'sponge': invaginating non-chromatin spaces or interchromatin channels extend from the CT periphery throughout the interior of the territory 27 , 28 , 29 ( supplementary figure 1 online ).
+In combination with nucleotides that are directly conjugated to fluorochromes, the L/S approach allowed the first direct observation of individual CTs during the cell cycle of living cells 30 , 31.
+ Territories showed only small movements during an observation period of several hours 32.
+ However, this finding might be true only for the few cultured cell types studied so far and should not be generalized. In neuronal cells, large chromatin movements have been noted during differentiation 4 , 33 or in pathological situations 34.
+ Large-scale chromatin movements were also observed during the interphase of Drosophila cells 35.
+Chromosome painting has been used to examine whether reproducible arrangements of chromosomes exist in cells. The conclusions are conflicting and range from the claim that chromosomes show highly ordered arrangements 36 , to the conclusion that they barely show any order 37 or that the degree of order depends on the cell type 38 (for a review of the older literature, see Ref.
+39 ). Recently, a correlation between CT location and human chromosome size was described, in which smaller chromosomes are generally situated towards the interior and larger chromosomes towards the periphery of the nucleus 40.
+ However, the finding that CTs with similar DNA content, but with very different gene densities, occupy distinct exterior and interior nuclear positions, indicates that gene content is a key determinant of CT positioning 41.
+ The distribution of human CTs 18 and 19 provides a striking example. Although both chromosomes have a similar DNA content (85 and 67 Mb, respectively), the gene-poor chromosome 18 terri-tories were typically found at the nuclear periphery, whereas the gene-rich chromosome 19 territories were located in the nuclear interior 42 ( Fig. 4 ).
+Three-dimensional reconstructions of chromosome 18 (red; gene-poor) and 19 (green; gene-rich) territories painted in the nucleus of a non-stimulated human lymphocyte. (Image courtesy of Marion Cremer and Irina Solovei.) Chromosome 18 territories were typically found at the nuclear periphery, whereas chromosome 19 territories were located in the nuclear interior 42.
+a | X,Y view: a mid-plane section of the nucleus is shown as a grey shade. Only the parts of the territories below this section can be seen.
+b | X,Z view: the arrow marks the side from which the section in part a is viewed.
+Full size image Another question is whether non-random associations exist between homologous CTs. Once again, there have been different answers, depending on the species and cell type. In Drosophila and other dipterans, associations between homologous chromosomes are a typical finding in diploid somatic cells 43 , whereas such associations — at least with regard to the larger chromosomes — occur infrequently and problably as random events in the nuclei of human lymphocytes and fibroblasts. We have observed more frequent homologous association of CTs for gene-dense, smaller chromosomes, such as chromosome 19 ( Fig. 4 ), but this finding can probably be explained by their preferential location in the nuclear interior 41 , 42.
+ In human T lymphocytes, a temporal and spatial association between chromosomes 15 was observed during late S phase, specifically at the 15q11–q13 region 44.
+ These regions contain the Prader–Willi syndrome (PWS) and the Angelman syndrome (AS) loci, which are subject to parental imprinting. Notably, cells from PWS and AS patients were deficient in association, and it was concluded that normal imprinting might involve mutual recognition and preferential association of chromosomes 15 during each cell cycle.
+The enormous amount of shuffling of chromosome segments that has occurred during evolution is also relevant to this discussion. For example, a minimum number of 160 rearrangments distinguishes the mouse from the human karyotype 45.
+ It therefore seems highly unlikely that a functional nuclear architecture should require strict ordering of entire sets of CTs. Nevertheless, it is still possible that conserved arrangements of higher-order chromatin do exist — a proposition that can be tested by comparing chromatin arrangements in several cell types from different species.
+Chromosome bands The banded pattern of mitotic mammalian chromosomes provides a well-known example of genome compartmentalization. The arms of mitotic chromosomes are composed of early-replicating bands, called Giemsa-light (G-light) bands or R-bands, which alternate with mid-to-late-replicating G-dark bands. G-light bands have a high gene density and contain housekeeping and tissue-specific genes, whereas G-dark bands are gene poor and contain only tissue-specific genes. The highest gene density is noted in a fraction of R-bands, called the T-bands 46.
+ Late-replicating C-bands , which probably do not contain any genes at all, include CENTROMERIC HETEROCHROMATIN and some other segments of constitutive heterochromatin. Chromatin that reflects these bands in CTs is also organized in discrete domains 47 ( Fig. 3b ). It is a commonly held view that replication begins at hundreds of dispersed nuclear sites in R/T-chromatin that is located in an interior nuclear compartment 48.
+ However, a recent study carried out in primary fibroblasts has contradicted this view and has shown that replication starts in a limited number of foci that surround the nucleolus 49.
+ The reason for this discrepancy is not clear at present. Mid-replicating chromatin comprises mostly G-dark chromatin and is predominantly observed in nuclear compartments that are located at the nuclear and perinucleolar periphery, as well as at invaginations of the nuclear lamina ( Fig. 5 ) 48.
+ Late-replicating chromatin comprises heterochromatic regions and is located both at the nuclear periphery and in the nuclear interior.
+a | Mid-plane light optical section through the nucleus of an SH-EP N14 neuroblastoma cell fixed 20 h after direct two-colour labelling of DNA with Cy3- and Cy5-conjugated nucleotides at early and mid-S-phase, respectively, shows typical early- (blue) and mid-replicated chromatin (red) 115.
+ The cell shown is a daughter of the labelled cell produced after one cell division. The experiment shows that the arrangement of early- and mid-replicating chromatin domains is maintained from one cell cycle to the next.
+b | Light optical mid-section through the nucleus of an SH-EP N14 cell fixed three days after two-colour DNA labelling at early- and mid-S-phase shows several chromosome territories (CTs) with typical early-(blue) and mid-(red) replicated ∼ 1-Mb chromatin domains 115.
+ Only a minority of CTs is labelled, which indicates that fixation was carried out after at least three post-labelling cell cycles. Note that the topology of mid-replicating chromatin (at the nuclear periphery and around the nucleoli) and early-replicating chromatin (in the interior nuclear compartment) was maintained through several post-labelling cell cycles.
+c, d | Mid-plane light optical section through the same cell nucleus shown in a immunostained with lamin B (green). A comparison of c and d shows that mid-replicating ∼ 1-Mb chromatin domains ( c , red) are closely associated with the lamina, in contrast to the early-replicating domains ( d , blue). (Images courtesy of Lothar Schermelleh.) (Adapted with permission from Ref.
+115.
+) Full size image In several cell lines, the formation of nascent RNA was observed in the interior nuclear compartment, which comprises the R/T-chromatin 48.
+ In another study, DNase-sensitive, and most probably transcriptionally active, chromatin domains were found at the nuclear periphery, which indicated that the nuclear periphery might function as a compartment for the spatial coupling of transcription and nucleocytoplasmic transport 50.
+ These discrepancies indicate that our understanding of the dynamics of higher-order chromatin is incomplete and that we should refrain from any attempts to generalize findings from one or a few cell types only.
+Focal chromatin aggregates Labelling of DNA with thymidine analogues in various living mammalian cells has provided compelling evidence for chromatin aggregates of DNA synthesis, termed replication foci ( Fig. 5 ). Each replication focus consists of a cluster of active replicons together with replication factors, and has a DNA content of ∼ 1 Mb 51 , 52.
+ During S phase, the replication machinery is assembled with a given 'replication focus' for the period that is necessary to complete its replication ( ∼ 1 h) 51 , 52.
+ For clarity, we restrict the use of the term 'replication focus' to this period of continuing DNA replication and use the term ' ∼ 1-Mb chromatin domain' to describe focal chromatin aggregates on the order of several hundred kilobases to several megabases, irrespective of their involvement in specific nuclear functions.
+The important point is that labelled ∼ 1-Mb chromatin domains remain visible after the completion of replication and are observed throughout several subsequent cell cycles, independent of the cell-cycle stage 26 , 53 , 54.
+ This finding indicates that these domains provide a high level of chromatin organization that might assemble different sets of factors (for replication, transcription or repair) at different times during the cell cycle 7.
+ It is not known whether each domain persists as an individual entity (composed of a continuous DNA segment or of several, non-contiguous segments) throughout the lifespan of a cell, or whether the DNA-sequence composition of ∼ 1-Mb domains changes with time, supporting a more dynamic view of chromatin-domain assembly and disassembly. Space–time observations of fluorescently labelled ∼ 1-Mb domains in the nuclei of living cells indicate that these domains have constrained Brownian motions, as well as occasional directed movements 32.
+Interchromatin compartment Apart from the higher-order chromatin compartments discussed so far, the nucleus also contains a largely chromatin-free space lined by chromatin-domain surfaces. A ribonucleoprotein network located in this space was first noted in electron-microscopic studies 55.
+ Recently, using fusion proteins of histone 2B tagged with green fluorescent protein (GFP), the entire chromatin complement was visualized in the nucleus of living HeLa cells together with a non-stained interchromatin space 56 ( Fig. 6 ). At its most expanded sites, this space forms lacunas with diameters of up to several micrometres; at its finest branches, its width might be as small as a few nanometres and might be maintained by repulsive electrostatic forces between the apposed chromatin surfaces that line the branch 12.
+ Chromatin loops apparently can expand into this space 28 ( Figs 1f and 6 ). More expanded sections of the interchromatin space contain non-chromatin domains 57 , such as SPECKLES , CAJAL (OR COILED) BODIES and PML BODIES (for a review of early electron-microscopic evidence of nuclear bodies, see Ref.
+58 ). It is not clear whether non-chromatin domains represent storage sites of proteins or protein complexes, which are released to sites of action, or whether these domains might directly serve as functional sites 59.
+LASER CONFOCAL sections through a HeLa cell nucleus with green-fluorescent-protein (GFP)-tagged H2B (cells kindly supplied by Ken Sullivan) 56 , and staining of speckles (image courtesy of Irina Solovei).
+a | Section showing GFP-tagged chromatin (high density, white; low density, grey), two nucleoli (nu) and the interchromatin compartment (IC) space (black). Note the variability in the width of this space with examples of IC lacunas (asterisks). The inset shows expansions of less-condensed chromatin into the IC space at higher magnification.
+b | Speckles visualized in the same section using antibodies to the non-snRNP splicing factor SC-35.
+c | Overlay of sections (chromatin, green; speckles, red) shows that speckles form clusters in IC lacunas. These lacunas are only partially filled by the speckles, leaving space for other non-chromatin domains.
+Full size image The existence of an interchromatin space is not very intriguing news: any meshwork of CHROMATIN FIBRES , by necessity, is embedded within an interchromatin space. Consider a model in which non-chromatin domains of increasing size push the surrounding chromatin fibres aside and locally expand the interchromatin space into lacunas ( Fig. 6 ). Transcription and splicing factors freely roam the entire interchromatin space 60.
+ They might form functional complexes directly at the sites of genes. Alternatively, (sub-) complexes are built up at distant sites and subsequently reach the genes by diffusion. In this model, the existence of an interchromatin space that contains non-chromatin domains would not require any pre-existing higher-order nuclear architecture above the level of the 10- and 30-nm chromatin fibres 61.
+However, we argue for the existence of a 3D interconnected IC (synonym: interchromatin domain (ICD) compartment 12 ) with distinct structural and functional properties that have co-evolved with a dynamic chromatin-domain architecture (see also below). The IC starts at nuclear pores 28 , expands between CTs and into their interior, and possibly ends with its smallest branches between ∼ 1-Mb and ∼ 100-kb chromatin-loop domains ( Fig. 1 and see below). We propose that surfaces of compact chromatin domains provide a functionally relevant barrier, which can be penetrated by single proteins or small protein aggregates, but not by larger macromolecular complexes above a certain threshold size. The IC (by definition) does not comprise the additional interchromatin space present between chromatin fibres in the interior of compact chromatin domains ( Fig. 7c , see below). We further propose that spliced RNA can be complexed with proteins and exported to the nuclear pores in the IC space, thus preventing the entangling of RNA that is produced in the interior of compact chromatin domains.
+a | Two ∼ 1-Mb chromatin domains or 'subcompartments' are shown linked by a chromatin fibre (redrawn with permission from Ref.
+72 ). Each ∼ 1-Mb chromatin domain is built up as a rosette of looped ∼ 100-kb chromatin fibres. At the centre, loops are held together by a magnified LOOP BASE SPRING , which simulates the function of CHROMOSOME TERRITORY ANCHOR PROTEINS 116.
+b, c | Two three-dimensional models of the internal ultrastructure of a ∼ 1-Mb chromatin domain (image courtesy of Gregor Kreth; models redrawn with permission from Ref.
+12 © Begell House, Inc. (2000)).
+b | The nucleosome chain is compacted into a 30-nm chromatin fibre (visualized by cylinder segments) and folded into ten 100-kb-sized loop domains according to the multiloop subcompartment model. Occasionally, 30-nm fibres are interrupted by short regions of individual nucleosomes (small white dots). The arrow points to a red sphere, with a diameter of 30 nm, that represents a transcription factor complex.
+c | Each of the ten 100-kb chromatin domains was modelled under the assumption of a restricted random walk (zig-zag) nucleosome chain. Each dot represents an individual nucleosome. Nine 100-kb chromatin domains are shown in a closed configuration and one in an open chromatin configuration with a relaxed chain structure that expands at the periphery of the 1-Mb domain. The open domain will have enhanced accessibility to partial transcription complexes preformed in the interchromatin compartment. By contrast, most of the chromatin in the nine closed domains remains inaccessible to larger factor complexes (arrows).
+Full size image A critical evaluation of the IC concept requires a detailed analysis of the movements of macromolecules and complexes in the nucleus. The kinetic and thermodynamic aspects of these studies support passive diffusion as the decisive mechanism that is responsible for the movement of factors and factor complexes 60 , 62.
+ The conditions that influence these movements (such as transient binding to immobile obstacles) have not yet been fully determined 63 , 64.
+ Microinjection of size-fractionated fluorescein isothiocyanate (FITC) dextrans into HeLa cell nuclei showed that 70- and 580-kDa dextrans (equivalent to DNA sizes of 106 and 878 bp, respectively) freely diffused in the nucleus, whereas 2,000-kDa dextrans were essentially immobile 65.
+ Fluorescence recovery after photobleaching (FRAP) experiments ( Box 1 ) indicate 'homogeneous' movement of proteins at all nuclear sites, including bleached CTs 60.
+ This finding clearly indicates that proteins can move 'through' CTs. The IC concept requires that individual nuclear proteins or small protein complexes roam the entire interchromatin space (IC plus the interior of compact chromatin domains). By contrast, diffusion of larger (sub-) complexes should be constrained to the IC. Interchromatin channels that expand through CTs 28 should even allow channelled movements of such complexes through the CTs. Experiments based on fluorescence microscopy at present lack the resolution to support or disprove the IC concept.
+The CT–IC model Chromosome territories and the IC provide the fundamental components of the CT–IC model of a functional nuclear architecture. We first consider the essential features of this model and then (circumstantial) supporting evidence. The hypothesis that partial transcription complexes are pre-established in, and that their diffusion is restricted to, the IC has an important consequence: to fulfil its role as a functionally defined compartment, the IC requires a specific topology of transcriptionally active genes. Regulatory and coding sequences of these active genes can interact with the transcription machinery only when they are positioned at the surface of chromatin domains that line the IC, or on chromatin loops that extend into the IC ( Fig. 1e,f ). The argument can be extended to genes that are subject to short-term inactivation, the expression of which needs to be rapidly upregulated. By contrast, long-term or permanently silenced genes should be located within the interior of compact chromatin domains that are inaccessible to the transcription machinery, according to this model. In more general terms, genes that require long-term silencing should be physically separated from permanently active genes to an extent that allows their positioning in different chromatin compartments. Chromatin remodelling events that result in the positioning of genes into proper nuclear compartments are considered an essential part of gene-activation and gene-silencing mechanisms.
+So much for the predictions of the CT–IC model. What about experimental evidence to support the model? In a first version of the CT–IC model, CTs were considered as compact objects with a smooth enveloping surface and it was assumed that an interchromatin-domain compartment expanded between these smooth CT surfaces and was excluded from the entire CT interior 66.
+ Accordingly, it was predicted that genes could only be transcribed when they were located at the CT periphery in contact with the IC. However, contrary to this prediction, transcription and splicing was observed not only at the periphery but also in the interior of CTs 27 , 67 , 68.
+ Concomitantly, more detailed experimental studies of CT architecture showed that CTs have a complex, folded structure that results in a largely expanded surface with IC channels that penetrate into the CT interior 12 , 27 , 29.
+ Therefore, a transcribed gene can be located within the CT interior but still at a chromatin surface with direct access to the IC ( Fig. 1c,d ). The refined model prediction that nascent RNA is synthesized and spliced at chromatin-domain surfaces is supported by evidence that RNA synthesis and co-transcriptional splicing occurs in perichromatin fibrils that are located at chromatin-domain surfaces 27 , 59 , 68 , 69.
+ Further tests of the CT–IC model will require experimental procedures that allow the precise four-dimensional (space–time) mapping of active and silenced genes in relation to CTs, chromatin domains and the IC (see below).
+The question of whether a nuclear matrix is an essential component of the in vivo nuclear architecture is still debated 70 , 73.
+The CT–IC model is compatible with a three-dimensional continuous network of nuclear matrix core filaments 70 that branch within chromatin domains and/or within the IC 71.
+ However, a nuclear matrix in the sense of a continuous nuclear skeleton that organizes the nuclear chromatin is not a necessary condition of this model 12.
+ Computer modelling (see below) shows that CTs and nuclear organization consistent with experimentally available evidence can be simulated without such an assumption 72.
+ (For a thorough discussion of the nuclear matrix and its relevance to the CT–IC model see Ref.
+12.
+) The IC might be functionally equivalent to a dynamic in situ nuclear matrix 7 , which provides attachment sites, for example, for transcription and replication complexes 74.
+ The best-defined part of the nuclear matrix is the nuclear lamina, and its role in gene regulation has been studied most thoroughly in budding yeast (see, for example, Ref.
+75 ).
+Gene topology and activity An important unsolved question concerns the three-dimensional positions of active and inactive genes in relation to CTs, chromatin domains and the IC. Several groups have studied this and although the results are sometimes conflicting, they tend to support a non-random 3D organization of CTs. Peter Lichter and co-workers 21 noted that several active and inactive genes were preferentially located in the periphery of CTs. In another study 22 , the 3D positions of the adenine nucleotide translocase genes, ANT2 and ANT3 , were determined in the CTs of the active and inactive X chromosomes (Xa and Xi, respectively) of female human cell nuclei.
+ANT2 is transcriptionally active on Xa, but is inactive on Xi, whereas ANT3 is located in the pseudoautosomal region and escapes X inactivation. Active ANT2 and ANT3 genes were positioned towards the exterior of both X-chromosome CTs. By contrast, the inactive ANT2 gene on Xi showed a shift towards the territory's interior ( Fig. 3e ). Denise Sheer and co-workers 23 described the 3D large-scale chromatin organization of the major histocompatibility complex locus on human chromosome 6. Large chromatin loops that contain several megabases of DNA were observed to extend outwards from the surface of the chromosome 6 territory and possibly into the IC ( Fig. 1a ). Transcriptional upregulation led to an increase in the frequency with which active genes (but not inactive genes) were found on an external chromatin loop.
+A spatial association of several actively transcribed genes, but not inactive genes, has also been observed with splicing-factor-rich speckles ( Fig. 6 ) 76.
+ These domains were found preferentially at the periphery of CTs 66.
+ A specific topology of active genes with regard to speckles was further emphasized by David Spector and co-workers 75 in living-cell studies using GFP-tagged splicing factors. On activation of a nearby gene, speckles formed finger-like protrusions towards the new site of transcription 59 , 75.
+ Whether genes can also move towards speckles is not yet known.
+Several studies lend support to the hypothesis that the transcriptional status of genes is affected by their nuclear topology. An important role of heterochromatin in gene silencing has been well established in Drosophila cells 35 , 77 , which indicates that heritable gene silencing might require gene relocation events from a transcriptionally competent into a transcriptionally silent compartment. In support of this, Amanda Fisher and co-workers 78 , 79 showed a dynamic repositioning of certain genes in mouse B and T cells that depends on their transcriptional status. The transcriptionally inactive genes were localized at centromeric heterochromatin clusters in contrast to transcriptionally active genes, which were positioned away from them ( Fig. 1b ). In a study of chromatin opening and transcriptional activation of the human β-globin locus, it was suggested that localization of this locus away from centromeric heterochromatin is required for general hyperacetylation and an open chromatin structure of this locus, but is not sufficient for high-level transcription 80.
+ Furthermore, several studies indicate a role for DNA motifs in gene positioning. A functional enhancer was shown to antagonize silencing of a transgene by preventing localization of a gene close to centromeric heterochromatin 81.
+ In another case, a Dnase-I-hypersensitive site was shown to relocate a transgene to the outside of a pericentromeric heterochromatin complex. Transcription, however, required a specific transcription factor. Reducing the dosage of this factor resulted in a reduced frequency of localization of the transgene to the outside of the heterochromatin complex and lower levels of transcription 82.
+ Finally, chromatin insulators can affect the nuclear localization and transcriptional status of genes 83.
+So far, in situ studies of gene positioning and changes in higher-order chromatin architecture have been carried out using FISH. However, this method can produce artefacts because it requires the fixation and permeabilization of cells and the denaturing of chromatin. Recently, an approach was developed that allows the visualization of transgenes and the monitoring of the gene product in living cells 84 , 85.
+ This methodological breakthrough promises great advances in our understanding of gene positioning and activity. For example, Tumbar and Belmont 86 showed that chromosome sites that contain such a transgene can show a significant change in position at specific times during the cell cycle, and that the timing of these movements can be changed by transcriptional activation.
+Computer models The unfolding story of CTs and gene topology is complex. Current views of higher-order chromatin architecture, its dynamics and function are probably oversimplified or incorrect. Chromatin loops of different sizes have become a common textbook scheme, which purports to explain how chromatin packaging is achieved from the DNA level to the level of entire metaphase chromosomes 87 , but strong evidence for such schemes does not exist. A hierarchy of chromatin fibres 88 possibly coexists with, or is to some extent equivalent to, a hierarchy of chromatin domains ( Fig. 1e,g ). For example, it is possible that chromatin domains visualized by pulse labelling (see above) represent simply short segments of a higher-order chromatin fibre. Further experimental progress in understanding functional nuclear architecture will strongly depend on the development of models that make quantitative and experimentally testable predictions. In this section, we consider how computer simulations can help to inform the issue of nuclear organization.
+Several computer models have been proposed to model higher-order chromatin structure up to the structure of entire CTs. Backfolding of chromatin fibres at some level is indispensable to obtain CTs: in models that dismiss such backfolding, chromatin fibres expand throughout much of the nuclear space, which results in a non-territorial interphase chromosome organization 89.
+ In the random-walk/giant-loop (RW/GL) model, chromatin loops with a size of several megabases are backfolded to an underlying structure, but otherwise each giant loop is folded randomly 90.
+ Another model, the multi-loop subcompartment (MLS) model, assumes that ∼ 1-Mb chromatin domains are built up like a rosette from a series of chromatin-loop domains with sizes of ∼ 100 kb, again assuming a random organization for each loop 72 ( Fig. 7 ). These two models are useful to simulate CTs and both assume a RW folding of chromatin loops. Accordingly, these models are compatible with the assumption that specific positions of genes inside or outside a chromatin-loop domain are not required for activation or silencing. However, they do make different predictions: first, about the extent of intermingling of different giant chromatin loops and chromatin-loop rosettes; and second, about the interphase distances between genes and other DNA segments that are located along a given chromosome. The available experimental data, in our view, are more compatible with the MLS model than with the RW/GL model 72 (T.C. and C.C., unpublished data). Recently, the spherical ∼ 1-Mb chromatin domain (SCD) model was introduced as a modified version of the MLS model. The SCD model does not make any assumptions about the internal structure of ∼ 1-Mb chromatin domains, and it is possible to simulate, on a single PC, entire sets of CTs in human diploid cell nuclei together with the IC 91 ( supplementary figure 2 online ). This and other models have already been used to predict translocation frequencies after irradiation 89 , 91 , 92 , 93.
+A global view of gene regulation The concept of CTs can be traced back to the early work of Carl Rabl, Theodor Boveri and Eduard Strasburger 5.
+ Models belong to the evolving toolkit for studies of functional nuclear architecture ( Box 1 ), and will be improved or replaced just as other outdated parts of the toolkit have been. Their value should be judged by their ability to stimulate further experiments that test their predictions. The essentials of a topological model for gene regulation can be summarized as follows: long-term changes in gene-expression patterns require a higher-order chromatin remodelling that reflects the repositioning of genes in open or closed higher-order chromatin compartments; and differentiating cells establish a cell-specific pattern of gene locations with respect to certain nuclear compartments, such as heterochromatin, the IC or the nuclear lamina. Compelling evidence for the predicted space–time structure and functions of the IC is at present lacking. Nevertheless, we believe that the proposal of the CT–IC model is timely and that it would be useful to put the following predictions to the test: long-term active genes, as well as genes that need to be turned on and off rapidly, are exposed at the chromatin-domain surfaces that line the IC, or are located on loops that extend into the IC ( Fig. 1 ); long-term silenced genes are located in the interior of chromatin domains that are remote from the IC.
+When considering different levels of gene regulation, we should keep in mind that evolution does not work like a designer who is keen to pursue a long-term plan for the most straightforward systems of gene regulation. A designer might have implemented a regulatory hierarchy that comprised many elements: regulatory DNA elements 81 , 83 , DNA methylation 1 , histone modifications 1 , 80 , and possible influences of chromosome territory and nuclear architecture. The different levels of the designer's hierarchy might show little dependence on each other and so we could safely study one level while neglecting the others. However, our knowledge of Darwinian evolution gives us good reason to expect complex, sometimes messy, interactions between all possible levels of gene regulation. A comprehensive model for these interactions does not yet exist, but we are in an age when genome sequencing, microarray technologies and proteomics offer high hopes for understanding not just the regulation of groups of genes, but also, one day, entire genomes. We wish to emphasize our view that studies of the genome in the context of nuclear architecture are indispensable for a better understanding of the cell-specific orchestration of gene activity.
+Box 1 | The evolving toolkit for studies of nuclear architecture The following chronology indicates when specific techniques were first introduced. In subsequent years, the techniques have been developed and improved, and continue to be used in studies of nuclear organization and function. References to original publications in this box should be regarded as examples.
+1950s: Electron microscopy allowed studies of chromatin and other nuclear structures at ultrahigh resolution 55 , 58 , 94 , 95 , 96.
+1970s: Microbeam irradiation of chromatin in living-cell nuclei showed the presence of chromosome territories (CTs), and allowed the first studies of their arrangements and of post-irradiation dynamics in living cells 97.
+ Laser micro-irradiation was also used to manipulate chromosomes in living cells 98.
+ Recently, fluorescence recovery after photobleaching (FRAP) and fluorescence loss in photobleaching (FLIP) have allowed the study of rapid movements of nuclear proteins tagged with green fluorescence protein (GFP) throughout the nuclear space 60 , 99.
+1980s: In 1983, EPIFLUORESCENCE MICROSCOPY was combined with image reconstruction techniques to study the three-dimensional chromosome topography in polytene nuclei of Drosophila melanogaster 100.
+ In the mid-1980s, the first fluorescence-laser scanning microscopes were ready to use 101.
+ Since then, important efforts have been made to develop advanced types of laser microscope with resolution beyond the ABBE LIMIT of conventional light microscopy 102 , 103.
+ Submicrometre particle tracking has been used to directly measure the motion of interphase chromatin 104.
+ Spectral-precision distance microscopy (SPDM) 105 allows precise three-dimensional distance measurements down to the nanometre scale. The development of fluorescence-resonance energy-transfer (FRET) microscopy has allowed studies of macromolecule interactions in living-cell nuclei 106.
+In vivo fluorescence correlation spectroscopy (FCS) showed that nuclear poly(A) RNA moves by a diffusion-like process in the interchromatin space 107.
+ Fluorescence lifetime imaging (FLIM), based on the use of fluorochromes with different fluorescence lifetimes, has increased the number of targets that can be simultaneously discriminated in single-cell studies 108.
+1980s: Fluorescence in situ hybridization (FISH) 17 provided a tool for visualizing specific chromatin structures, from CTs, to chromosome arms and bands, down to the level of individual genes. Concomitantly, RNA in situ hybridization protocols were developed for studies of gene expression in single cells 109.
+1980s: Labelling of DNA using base analogues (BrdU, CldU, IdU) allowed visualization of early- and mid-to-late-replicating chromatin in the nuclei of fixed cells 110 , 111.
+ Replication labelling of DNA, followed by culture of cells for several additional cell cycles, provided another tool for visualizing individual CTs 25.
+ DNA-labelling protocols with fluorochrome-linked nucleotides allowed studies of CTs and higher-order chromatin domains in living-cell nuclei 30 , 31.
+1994: DNA fusion constructs for the expression of proteins tagged with GFP 112 allowed the visualization of specific proteins in living cells. Artificial chromatin structures that contain repeated lac operons were studied in living cells using GFP-tagged lac repressor protein 84.
+ Recently, GFP colour variants (for example, yellow and red fluorescent protein) 113 have opened the door to multicolour, living-cell studies of nuclear proteins. In combination with the visualization of chromatin, these advances will lead to rapid advances in our understanding of the topology, movements and dynamic interactions of chromatin and non-chromatin domains within living-cell nuclei.
+1995: A first quantitative simulation of CTs was published 90.
+ Since then, several other mathematical and computer models have been developed to simulate higher-order chromatin structure and arrangements 91 , 114.
+ Computer models that allow the simulation of dynamic aspects of nuclear architecture are now being developed.
+References El-Osta, A. & Wolffe, A. P. DNA methylation and histone deacetylation in the control of gene expression: basic biochemistry to human development and disease.
+Gene Expression 9 , 63– 75 (2000).
+Article CAS PubMed Google Scholar Bell, A. C. & Felsenfeld, G. Stopped at the border: boundaries and insulators.
+Curr. Opin. Genet. Dev.
+9 , 191–198 (1999).
+Article CAS PubMed Google Scholar Blobel, G. Gene gating: a hypothesis.
+Proc. Natl Acad. Sci. USA 82 , 8527–8530 (1985).
+Article CAS PubMed PubMed Central Google Scholar Manuelidis, L. A view of interphase chromosomes.
+Science 250 , 1533–1540 (1990).
+An excellent attempt to integrate a multitude of experimental findings in the framework of a functional higher-order chromatin architecture. This paper is still a 'must read'.
+Article CAS PubMed Google Scholar Cremer, T.
+et al.
+ Role of chromosome territories in the functional compartmentalization of the cell nucleus.
+Cold Spring Harb. Symp. Quant. Biol.
+58 , 777–792 (1993).
+Article CAS PubMed Google Scholar Spector, D. L. Nuclear organization and gene expression.
+Exp. Cell Res.
+229 , 189–197 (1996).
+Article CAS PubMed Google Scholar Berezney, R. & Wei, X. The new paradigm: integrating genomic function and nuclear architecture.
+J. Cell. Biochem.
+31 , S238–S242 (1998).
+Article Google Scholar Lamond, A. I. & Earnshaw, W. C. Structure and function in the nucleus.
+Science 280 , 547– 553 (1998).
+Article CAS PubMed Google Scholar Park, P. C. & De Boni, U. Dynamics of structure–function relationships in interphase nuclei.
+Life Sci.
+64 , 1703–1718 (1999).
+Article CAS PubMed Google Scholar Marshall, W. F. & Sedat, J. W. Nuclear architecture .
+Results Probl. Cell Differ.
+25 , 283– 301 (1999).
+Article CAS PubMed Google Scholar Chevret, E., Volpi, E. V. & Sheer, D. Mini review: form and function in the human interphase chromosome.
+Cytogenet. Cell Genet.
+90 , 13 –21 (2000).
+Article CAS PubMed Google Scholar Cremer, T.
+et al.
+ Chromosome territories, interchromatin domain compartment and nuclear matrix. An integrated view of the functional nuclear architecture .
+Crit. Rev. Eukaryotic Gene Expression 12 , 179–212 (2000).
+Google Scholar Gonzalez-Melendi, P.
+et al.
+ The nucleus: a highly organized but dynamic structure.
+J. Microsc.
+198 , 199–207 (2000).
+Article CAS PubMed Google Scholar Leitch, A. R. Higher levels of organization in the interphase nucleus of cycling and differentiated cells.
+Microbiol. Mol. Biol. Rev.
+64 , 138 –152 (2000).
+Article CAS PubMed PubMed Central Google Scholar Carmo-Fonseca, M., Mendes-Soares, L. & Campos, I. To be or not to be in the nucleolus.
+Nature Cell Biol.
+2 , E107–E112 (2000).
+Article CAS PubMed Google Scholar Stoffler, D., Fahrenkrog, B. & Aebi, U. The nuclear pore complex: from molecular architecture to functional dynamics.
+Curr. Opin. Cell Biol.
+11 , 391–401 (1999).
+Article CAS PubMed Google Scholar van der Ploeg, M. Cytochemical nucleic acid research during the twentieth century.
+Eur. J. Histochem.
+44 , 7–42 (2000).
+A thorough historical account of in situ hybridization from its beginnings to present-day technologies.
+CAS PubMed Google Scholar Stack, S. M., Brown, D. B. & Dewey, W. C. Visualization of interphase chromosomes.
+J. Cell Sci.
+26 , 281–299 (1977).
+Article CAS PubMed Google Scholar Zorn, C., Cremer, C., Cremer, T. & Zimmer, J. Unscheduled DNA synthesis after partial UV irradiation of the cell nucleus. Distribution in interphase and metaphase.
+Exp. Cell Res.
+124 , 111–119 (1979).
+Article CAS PubMed Google Scholar Dietzel, S.
+et al.
+ Separate and variably shaped chromosome arm domains are disclosed by chromosome arm painting in human cell nuclei.
+Chromosome Res.
+6 , 25–33 (1998 ).
+Article CAS PubMed Google Scholar Kurz, A.
+et al.
+ Active and inactive genes localize preferentially in the periphery of chromosome territories.
+J. Cell Biol.
+135 , 1195–1205 (1996).
+Article CAS PubMed Google Scholar Dietzel, S.
+et al.
+ The 3D positioning of ANT2 and ANT3 genes within female X chromosome territories correlates with gene activity.
+Exp. Cell Res.
+252 , 363–375 (1999).
+Article CAS PubMed Google Scholar Volpi, E. V.
+et al.
+ Large-scale chromatin organization of the major histocompatibility complex and other regions of human chromosome 6 and its response to interferon in interphase nuclei.
+J. Cell Sci.
+113 , 1565–1576 (2000).
+Activation of specific genes from the major histocompatibility locus correlates with an expansion of the gene-harbouring chromatin loops from the surface of chromosome-6 territories.
+Article CAS PubMed Google Scholar Park, P. C. & De Boni, U. A specific conformation of the territory of chromosome 17 locates ERBB-2 sequences to a DNase-hypersensitive domain at the nuclear periphery.
+Chromosoma 107 , 87–95 (1998).
+Article CAS PubMed Google Scholar Ferreira, J., Paolella, G., Ramos, C. & Lamond, A. I. Spatial organization of large-scale chromatin domains in the nucleus: a magnified view of single chromosome territories.
+J. Cell Biol.
+139 , 1597–1610 (1997).
+Article CAS PubMed PubMed Central Google Scholar Zink, D., Bornfleth, H., Visser, A., Cremer, C. & Cremer, T. Organization of early and late replicating DNA in human chromosome territories.
+Exp. Cell Res.
+247 , 176–188 (1999).
+Article CAS PubMed Google Scholar Verschure, P. J., van Der Kraan, I., Manders, E. M. & van Driel, R. Spatial relationship between transcription sites and chromosome territories .
+J. Cell Biol.
+147 , 13– 24 (1999).
+Article CAS PubMed PubMed Central Google Scholar Visser, A. E., Jaunin, F., Fakan, S. & Aten, J. A. High resolution analysis of interphase chromosome domains.
+J. Cell Sci.
+113 , 2585–2593 (2000).
+Article CAS PubMed Google Scholar Solovei, I.
+et al.
+ Topology of double minutes (dmins) and homogeneously staining regions (HSRs) in nuclei of human neuroblastoma cell lines.
+Genes Chromosom. Cancer 29 , 297–308 (2000).
+Article CAS PubMed Google Scholar Zink, D.
+et al.
+ Structure and dynamics of human interphase chromosome territories in vivo.
+Hum. Genet.
+102 , 241– 251 (1998).
+First demonstration of chromosome territories in the living-cell nucleus.
+Article CAS PubMed Google Scholar Manders, E. M., Kimura, H. & Cook, P. R. Direct imaging of DNA in living cells reveals the dynamics of chromosome formation.
+J. Cell Biol.
+144 , 813–821 (1999).
+This in vivo study relates the gross structure of a chromosome territory to that of a prophase chromosome.
+Article CAS PubMed PubMed Central Google Scholar Bornfleth, H., Edelmann, P., Zink, D., Cremer, T. & Cremer, C. Quantitative motion analysis of subchromosomal foci in living cells using four-dimensional microscopy.
+Biophys. J.
+77 , 2871–2886 ( 1999).
+Article CAS PubMed PubMed Central Google Scholar De Boni, U. The interphase nucleus as a dynamic structure.
+Int. Rev. Cytol.
+150 , 149–171 ( 1994).
+Article CAS PubMed Google Scholar Borden, J. & Manuelidis, L. Movement of the X chromosome in epilepsy.
+Science 242 , 1687– 1691 (1988).
+Article CAS PubMed Google Scholar Csink, A. K. & Henikoff, S. Large-scale chromosomal movements during interphase progression in Drosophila.
+J. Cell Biol.
+143 , 13–22 ( 1998).
+Article CAS PubMed PubMed Central Google Scholar Nagele, R., Freeman, T., McMorrow, L. & Lee, H. Y. Precise spatial positioning of chromosomes during prometaphase: evidence for chromosomal order.
+Science 270 , 1831– 1835 (1995).
+Article CAS PubMed Google Scholar Allison, D. C. & Nestor, A. L. Evidence for a relatively random array of human chromosomes on the mitotic ring.
+J. Cell Biol.
+145 , 1–14 (1999).
+Article CAS PubMed PubMed Central Google Scholar Chandley, A. C., Speed, R. M. & Leitch, A. R. Different distributions of homologous chromosomes in adult human Sertoli cells and in lymphocytes signify nuclear differentiation .
+J. Cell Sci.
+109 , 773– 776 (1996).
+Article CAS PubMed Google Scholar Comings, D. E. Arrangement of chromatin in the nucleus.
+Hum. Genet.
+53 , 131–143 (1980).
+Article CAS PubMed Google Scholar Sun, H. B., Shen, J. & Yokota, H. Size-dependent positioning of human chromosomes in interphase nuclei.
+Biophys. J.
+79 , 184– 190 (2000).
+Article CAS PubMed PubMed Central Google Scholar Boyle, S.
+et al.
+ The spatial organization of human chromosomes within the nuclei of normal and emerin-mutant cells.
+Hum. Mol. Genet.
+10 , 211–219 (2001).
+Article CAS PubMed Google Scholar Croft, J. A.
+et al.
+ Differences in the localization and morphology of chromosomes in the human nucleus.
+J. Cell Biol.
+145 , 1119–1131 (1999).
+Article CAS PubMed PubMed Central Google Scholar Henikoff, S. Nuclear organization and gene expression: homologous pairing and long- range interactions.
+Curr. Opin. Cell Biol.
+9 , 388–395 (1997).
+Article CAS PubMed Google Scholar LaSalle, J. M. & Lalande, M. Homologous associations of oppositely imprinted chromosomal domains.
+Science 272 , 725–728 (1996).
+Article CAS PubMed Google Scholar O'Brien, S. J.
+et al.
+ The promise of comparative genomics in mammals.
+Science 286 , 458–462, 479 –481 (1999).
+Pubmed Article CAS PubMed Google Scholar Craig, J. M. & Bickmore, W. A. The distribution of CpG islands in mammalian chromosomes.
+Nature Genet.
+7 , 376–382 (1994); erratum 7 , 551 (1994).
+Pubmed Article CAS PubMed Google Scholar Dietzel, S.
+et al.
+ Evidence against a looped structure of the inactive human X-chromosome territory.
+Exp. Cell Res.
+240 , 187–196 (1998).
+Article CAS PubMed Google Scholar Sadoni, N.
+et al.
+ Nuclear organization of mammalian genomes. Polar chromosome territories build up functionally distinct higher order compartments.
+J. Cell Biol.
+146 , 1211–1226 (1999).
+Describes evidence that chromosome territories contribute to gene-rich and gene-poor higher-order chromatin compartments.
+Article CAS PubMed PubMed Central Google Scholar Kennedy, B. K., Barbie, D. A., Classon, M., Dyson, N. & Harlow, E. Nuclear organization of DNA replication in primary mammalian cells.
+Genes Dev.
+14 , 2855–2868 (2000).
+Article CAS PubMed PubMed Central Google Scholar Chan, J. K., Park, P. C. & De Boni, U. Association of DNase sensitive chromatin domains with the nuclear periphery in 3T3 cells in vitro.
+Biochem. Cell Biol.
+78 , 67–78 ( 2000).
+Article CAS PubMed Google Scholar Leonhardt, H.
+et al.
+ Dynamics of DNA replication factories in living cells.
+J. Cell Biol.
+149 , 271–280 (2000).
+Article CAS PubMed PubMed Central Google Scholar Ma, H. et al. Spatial and temporal dynamics of DNA replication sites in mammalian cells.
+J. Cell Biol.
+143 , 1415– 1425 (1998).
+Article CAS PubMed PubMed Central Google Scholar Sparvoli, E., Levi, M. & Rossi, E. Replicon clusters may form structurally stable complexes of chromatin and chromosomes.
+J. Cell Sci.
+107 , 3097– 3103 (1994).
+Article CAS PubMed Google Scholar Jackson, D. A. & Pombo, A. Replicon clusters are stable units of chromosome structure: evidence that nuclear organization contributes to the efficient activation and propagation of S phase in human cells.
+J. Cell Biol.
+140 , 1285– 1295 (1998).
+Article CAS PubMed PubMed Central Google Scholar Shankar Narayan, K., Steele, W. J., Smetana, K. & Busch, H. Ultrastructural aspects of the ribonucleoprotein network in nuclei of walker tumor and rat liver.
+Exp. Cell Res.
+46 , 65–77 (1967).
+Article Google Scholar Kanda, T., Sullivan, K. F. & Wahl, G. M. Histone–GFP fusion protein enables sensitive analysis of chromosome dynamics in living mammalian cells.
+Curr. Biol.
+8 , 377–385 ( 1998).
+Article CAS PubMed Google Scholar Matera, A. G. Nuclear bodies: multifaceted subdomains of the interchromatin space.
+Trends Cell Biol.
+9 , 302–309 (1999).
+Article CAS PubMed Google Scholar Brasch, K. & Ochs, R. L. Nuclear bodies (NBs): a newly 'rediscovered' organelle.
+Exp. Cell Res.
+202 , 211– 223 (1992).
+Article CAS PubMed Google Scholar Misteli, T. Cell biology of transcription and pre-mRNA splicing: nuclear architecture meets nuclear function.
+J. Cell Sci.
+113 , 1841–1849 (2000).
+Article CAS PubMed Google Scholar Misteli, T. Protein dynamics: implications for nuclear architecture and gene expression .
+Science 291 , 843–847 (2001).
+A summary of the evidence that movement of proteins in the nucleus to their site of action occurs by simple diffusion.
+Article CAS PubMed Google Scholar Singer, R. H. & Green, M. R. Compartmentalization of eukaryotic gene expression: causes and effects.
+Cell 91 , 291–294 (1997).
+Article CAS PubMed Google Scholar Politz, J. C., Tuft, R. A., Pederson, T. & Singer, R. H. Movement of nuclear poly(A) RNA throughout the interchromatin space in living cells.
+Curr. Biol.
+9 , 285– 291 (1999).
+Article CAS PubMed Google Scholar Kruhlak, M. J.
+et al.
+ Reduced mobility of the alternate splicing factor (ASF) through the nucleoplasm and steady state speckle compartments.
+J. Cell Biol.
+150 , 41–51 ( 2000).
+Article CAS PubMed PubMed Central Google Scholar Wachsmuth, M., Waldeck, W. & Langowski, J. Anomalous diffusion of fluorescent probes inside living cell nuclei investigated by spatially-resolved fluorescence correlation spectroscopy .
+J. Mol. Biol.
+298 , 677– 689 (2000).
+Article CAS PubMed Google Scholar Lukacs, G. L.
+et al.
+ Size-dependent DNA mobility in cytoplasm and nucleus.
+J. Biol. Chem.
+275 , 1625–1629 (2000).
+Article CAS PubMed Google Scholar Zirbel, R. M., Mathieu, U. R., Kurz, A., Cremer, T. & Lichter, P. Evidence for a nuclear compartment of transcription and splicing located at chromosome domain boundaries.
+Chromosome Res.
+1 , 93–106 ( 1993).
+Article CAS PubMed Google Scholar Abranches, R., Beven, A. F., Aragon-Alcaide, L. & Shaw, P. J. Transcription sites are not correlated with chromosome territories in wheat nuclei.
+J. Cell Biol.
+143 , 5– 12 (1998).
+Article CAS PubMed PubMed Central Google Scholar Cmarko, D.
+et al.
+ Ultrastructural analysis of transcription and splicing in the cell nucleus after bromo-UTP microinjection.
+Mol. Biol. Cell 10 , 211–223 ( 1999).
+Electron-microscopic evidence that nascent RNA is synthesized at chromatin-domain surfaces.
+Article CAS PubMed PubMed Central Google Scholar Fakan, S. Perichromatin fibrils are in situ forms of nascent trancripts.
+Trends Cell Biol.
+4 , 86–90 (1994).
+Article CAS PubMed Google Scholar Nickerson, J. A. Experimental observations of a nuclear matrix.
+J. Cell Sci.
+114 , 463–474 (2001).
+Article CAS PubMed Google Scholar Cremer, T., Dietzel, S., Eils, R., Lichter, P. & Cremer, C. in Kew Chromosome Conference IV (ed. Benett, M. D.) 63–81 (Royal Botanic Gardens, Kew, 1995).
+Google Scholar Münkel, C.
+et al.
+ Compartmentalization of interphase chromosomes observed in simulation and experiment.
+J. Mol. Biol.
+285 , 1053–1065 (1999).
+Chromosome territories are simulated as a flexible fibre, assuming an arrangement of 120-kb loops into rosette-like subcompartments. The resulting model structure agrees well with experimental observations.
+Article PubMed Google Scholar Pederson, T. Half a century of 'the nuclear matrix'.
+Mol. Biol. Cell 11 , 799–805 (2000).
+Article CAS PubMed PubMed Central Google Scholar Cook, P. R. The organization of replication and transcription.
+Science 284 , 1790–1795 (1999).
+Article CAS PubMed Google Scholar Misteli, T., Caceres, J. F. & Spector, D. L. The dynamics of a pre-mRNA splicing factor in living cells.
+Nature 387 , 523– 527 (1997).
+Article CAS PubMed Google Scholar Smith, K. P., Moen, P. T., Wydner, K. L., Coleman, J. R. & Lawrence, J. B. Processing of endogenous pre-mRNAs in association with SC-35 domains is gene specific.
+J. Cell Biol.
+144 , 617–629 ( 1999).
+Article CAS PubMed PubMed Central Google Scholar Dernburg, A. F.
+et al.
+ Perturbation of nuclear architecture by long-distance chromosome interactions.
+Cell 85 , 745– 759 (1996).
+This study indicates that in Drosophila , the brown gene is silenced by specific contact with centromeric heterochromatin.
+Article CAS PubMed Google Scholar Brown, K. E.
+et al.
+ Association of transcriptionally silent genes with Ikaros complexes at centromeric heterochromatin.
+Cell 91 , 845–854 (1997).
+Evidence that repressed genes in mouse B lymphocytes are selectively recruited into centromeric heterochromatin domains.
+Article CAS PubMed Google Scholar Brown, K. E., Baxter, J., Graf, D., Merkenschlager, M. & Fisher, A. G. Dynamic repositioning of genes in the nucleus of lymphocytes preparing for cell division.
+Mol. Cell 3 , 207–217 (1999).
+Article CAS PubMed Google Scholar Schübeler, D.
+et al.
+ Nuclear localization and histone acetylation: a pathway for chromatin opening and transcriptional activation of the human β-globin locus.
+Genes Dev.
+14 , 940– 950 (2000).
+Article PubMed PubMed Central Google Scholar Francastel, C., Walters, M. C., Groudine, M. & Martin, D. I. A functional enhancer suppresses silencing of a transgene and prevents its localization close to centrometric heterochromatin.
+Cell 99 , 259–269 (1999).
+Article CAS PubMed Google Scholar Lundgren, M.
+et al.
+ Transcription factor dosage affects changes in higher order chromatin structure associated with activation of a heterochromatic gene.
+Cell 103 , 733–743 ( 2000).
+Article CAS PubMed Google Scholar Gerasimova, T. I., Byrd, K. & Corces, V. G. A chromatin insulator determines the nuclear localization of DNA.
+Mol. Cell 6 , 1025– 1035 (2000).
+Article CAS PubMed Google Scholar Robinett, C. C.
+et al.
+In vivo localization of DNA sequences and visualization of large-scale chromatin organization using lac operator/repressor recognition .
+J. Cell Biol.
+135 , 1685– 1700 (1996).
+Article CAS PubMed Google Scholar Tsukamoto, T.
+et al.
+ Visualization of gene activity in living cells.
+Nature Cell Biol.
+2 , 871–878 (2000).
+The first experimental design simultaneously to visualize a transgene and to monitor its expression in a living cell.
+Article CAS PubMed Google Scholar Tumbar, T. & Belmont, A. Interphase movements of a DNA chromosome region modulated by VP16 transcriptional activator.
+Nature Cell Biol.
+3 , 134–139 ( 2001).
+An approach for the in vivo localization of DNA sequences first described in reference 84 is used here to examine changes in intranuclear chromosome positioning that are induced by a transcriptional activator.
+Article CAS PubMed Google Scholar Alberts, B.
+et al.
+Molecular Biology of the Cell (Garland, Inc., New York & London, 1994).
+Google Scholar Belmont, A. S. & Bruce, K. Visualization of G1 chromosomes: a folded, twisted, supercoiled chromonema model of interphase chromatid structure.
+J. Cell Biol.
+127 , 287–302 (1994).
+Article CAS PubMed Google Scholar Kreth, G., Münkel, C., Langowski, J., Cremer, T. & Cremer, C. Chromatin structure and chromosome aberrations: modeling of damage induced by isotropic and localized irradiation .
+Mutat. Res.
+404 , 77–88 (1998).
+Article CAS PubMed Google Scholar Sachs, R. K., van den Engh, G., Trask, B., Yokota, H. & Hearst, J. E. A random-walk/giant-loop model for interphase chromosomes.
+Proc. Natl Acad. Sci. USA 92 , 2710–2714 (1995).
+First quantitative modelling of gene distances in distinct chromosome territories.
+Article CAS PubMed PubMed Central Google Scholar Kreth, G., Edelmann, P., Münkel, C., Langowski, J. & Cremer, C. in Chromosome Structure and Function (eds Sobti, R. C., Obe, G. & Athwal, R. S.) (in the press).
+Ostashevsky, J. Higher-order structure of interphase chromosomes and radiation-induced chromosomal exchange aberrations.
+Int. J. Radiat. Biol.
+76 , 1179–1187 (2000).
+Article CAS PubMed Google Scholar Sachs, R. K., Hlatky, L. R. & Trask, B. J. Radiation-produced chromosome aberrations: colourful clues.
+Trends Genet.
+16 , 143– 146 (2000).
+Article CAS PubMed Google Scholar Monneron, A. & Bernhard, W. Fine structural organization of the interphase nucleus in some mammalian cells.
+J. Ultrastruct. Res.
+27 , 266–288 ( 1969).
+Article CAS PubMed Google Scholar Woodcock, C. L. & Horowitz, R. A. Chromatin organization reviewed.
+Trends Cell Biol.
+5 , 272–277 (1995).
+Article CAS PubMed Google Scholar Puvion, E. & Puvion-Dutilleul, F. Ultrastructure of the nucleus in relation to transcription and splicing: roles of perichromatin fibrils and interchromatin granules.
+Exp. Cell Res.
+229 , 217–225 (1996).
+Article CAS PubMed Google Scholar Cremer, T.
+et al.
+ Rabl's model of the interphase chromosome arrangement tested in Chinese hamster cells by premature chromosome condensation and laser-UV-microbeam experiments.
+Hum. Genet.
+60 , 46– 56 (1982).
+Article CAS PubMed Google Scholar Berns, M. W., Wright, W. H. & Wiegand Steubing, R. Laser microbeam as a tool in cell biology .
+Int. Rev. Cytol.
+129 , 1– 44 (1991).
+Article CAS PubMed Google Scholar Phair, R. D. & Misteli, T. High mobility of proteins in the mammalian cell nucleus.
+Nature 404 , 604– 609 (2000).
+Article CAS PubMed Google Scholar Agard, D. A. & Sedat, J. W. Three-dimensional architecture of a polytene nucleus.
+Nature 302 , 676– 681 (1983).
+First analysis of the three-dimensional architecture and arrangement of chromosomes in a polytene nucleus on the basis of light optical serial sectioning and deconvolution.
+Article CAS PubMed Google Scholar Pawley, J. B. (ed.) Handbook of Biological Confocal Microscopy (Plenum, New York, 1995).
+Book Google Scholar Hänninen, P. E., Hell, S. W., Salo, J., Soini, E. & Cremer, C. Two-photon excitation 4Pi confocal microscope: enhanced axial resolution microscope for biological research.
+Appl. Phys. Lett.
+66 , 1698–1700 ( 1995).
+Article Google Scholar Klar, T. A., Jakobs, S., Dyba, M., Egner, A. & Hell, S. W. Fluorescence microscopy with diffraction resolution barrier broken by stimulated emission.
+Proc. Natl Acad. Sci. USA 97 , 8206–8210 (2000).
+Article CAS PubMed PubMed Central Google Scholar Marshall, W. F.
+et al.
+ Interphase chromosomes undergo constrained diffusional motion in living cells.
+Curr. Biol.
+7 , 930– 939 (1997).
+Article CAS PubMed Google Scholar Bornfleth, H., Sätzler, K., Eils, R. & Cremer, C. High-precision distance measurements and volume-conserving segmentation of objects near and below the resolution limit in three-dimensional confocal fluorescence microscopy.
+J. Microsc.
+189 , 118–136 (1998).
+Article Google Scholar Damelin, M. & Silver, P. Mapping interactions between nuclear transport factors in living cells reveals pathways through nuclear pore complex .
+Mol. Cell 5 , 133–140 (2000).
+Article CAS PubMed Google Scholar Politz, J. C., Browne, E. S., Wolf, D. E. & Pederson, T. Intranuclear diffusion and hybridization state of oligonucleotides measured by fluorescence correlation spectroscopy in living cells.
+Proc. Natl Acad. Sci. USA 95 , 6043–6048 (1998).
+Using in vivo fluorescence correlation spectroscopy, the authors show that nuclear poly(A) RNA moves by a diffusion-like process.
+Article CAS PubMed PubMed Central Google Scholar Schönle, A., Glatz, M. & Hell, S. W. Four-dimensional multiphoton microscopy with time-correlated single-photon counting.
+Appl. Optics 39 , 6306–6311 (2000).
+Article Google Scholar Dirks, R. W., Hattinger, C. M., Molenaar, C. & Snaar, S. P. Synthesis, processing, and transport of RNA within the three-dimensional context of the cell nucleus.
+Crit. Rev. Eukaryote Gene Expression 9 , 191–201 (1999).
+Article CAS Google Scholar Nakamura, H., Morita, T. & Sato, C. Structural organizations of replicon domains during DNA synthetic phase in the mammalian nucleus.
+Exp. Cell Res.
+165 , 291–297 (1986).
+Article CAS PubMed Google Scholar Aten, J. A., Stap, J., Hoebe, R. & Bakker, P. J. Application and detection of IdUrd and CldUrd as two independent cell-cycle markers.
+Methods Cell Biol.
+41 , 317–326 (1994).
+Article CAS PubMed Google Scholar Chalfie, M., Tu, Y., Euskirchen, G., Ward, W. W. & Prasher, D. C. Green fluorescent protein as a marker for gene expression .
+Science 263 , 802–805 (1994).
+Article CAS PubMed Google Scholar Heikal, A. A., Hess, S. T., Baird, G. S., Tsien, R. Y. & Webb, W. W. Molecular spectroscopy and dynamics of intrinsically fluorescent proteins: coral red (dsRed) and yellow (Citrine) .
+Proc. Natl Acad. Sci. USA 97 , 11996– 12001 (2000).
+Article CAS PubMed PubMed Central Google Scholar Ostashevsky, J. A polymer model for the structural organization of chromatin loops and minibands in interphase chromosomes.
+Mol. Biol. Cell 9 , 3031–3040 (1998).
+Article CAS PubMed PubMed Central Google Scholar Schermelleh, L., Solovei, I., Zink, D. & Cremer, T. Two-color fluorescence labeling of early and mid-to-late replicating chromatin in living cells.
+Chromosome Res.
+9 , 77–80 (2001).
+Article CAS PubMed Google Scholar Ma, H., Siegel, A. J. & Berezney, R. Association of chromosome territories with the nuclear matrix. Disruption of human chromosome territories correlates with the release of a subset of nuclear matrix proteins.
+J. Cell Biol.
+146 , 531–542 (1999).
+Article CAS PubMed PubMed Central Google Scholar Download references Acknowledgements This work was supported by the Deutsche Forschungsgemein-schaft, the BMBF (German Human Genome Project) and the German–Israeli Foundation. A first version of the CT–IC model was developed with P. Lichter and others in 1993. We are indebted to our present and past co-workers for helping us to shape the views presented here. We thank S. Fakan, T. Misteli, T. Pederson, R. Driel, L. Zech and several unnamed referees for their helpful comments.
+Author information Authors and Affiliations Institute of Anthropology and Human Genetics, Ludwig Maximilians University, Richard Wagner Strasse 10, Munich, D-80333, Germany T. Cremer Interdisciplinary Centre for Scientific Computing, Ruprecht Karls University, Heidelberg, D-69120, Germany T. Cremer & C. Cremer Applied Optics and Information Processing, Kirchhoff-Institute of Physics, Ruprecht Karls University, Albert Ueberle Strasse 3–5, Heidelberg, D-69120, Germany C. Cremer Authors T. Cremer View author publications You can also search for this author in PubMed Google Scholar C. Cremer View author publications You can also search for this author in PubMed Google Scholar Supplementary information Supplementary Figures 1 and 2 (PDF 305 kb) Related links Related links DATABASE LINKS Prader–Willi syndrome Angelman syndrome ANT2 ANT3 Glossary Any heritable influence (in the progeny of cells or of individuals) on gene activity, unaccompanied by a change in DNA sequence.
+Visualization of individual, whole chromosomes by fluorescence in situ hybridization (FISH).
+Comprises the genetically inert, constitutive heterochromatin of the centromere and is built up from tandem repetitive DNA sequences.
+The entire cell is illuminated and fluorescence is recorded through the same objective from an entire focal plane.
+Theoretical limit of light-microscopic resolution defined in 1873 by Ernst Abbe. This limit holds for conventional light microscopy but can be overcome by new laser microscopic approaches ( Box 1 ).
+Irregularly shaped regions that contain splicing factors. At the electron-microscopic level they correspond to interchromatin granule clusters (IGCs), which function in the storage and supply of components of the pre-mRNA splicing machinery, and perichromatin fibrils located in the vicinity of IGCs.
+(also known as coiled bodies). Nuclear organelles of unknown function named in honour of Ramón y Cajal. Cajal bodies are possibly sites of assembly or modification of the transcription machinery of the nucleus.
+Contain wild-type promyelocytic leukaemia (PML) protein and other proteins. Their function remains elusive, but might be related to transcription control.
+These 30-nm fibres are produced by the compaction of 10-nm nucleosome fibres. Nucleosome fibres are visible under the electron microscope after treatments that unfold higher-order chromatin packaging into a 'beads-on-a-string' 10-nm diameter form.
+DNA probes established from microdissected chromosomal subregions. The probes are useful for the labelling of chromosome arms and bands.
+(CLSM). A three-dimensional cell is illuminated and the fluorescence is recorded point by point.
+The essential non-snRNP (small nuclear ribonucleoprotein particles) splicing factor SC-35 shows a speckled distribution in the nucleus that co-localizes with snRNPs in speckles.
+In the multiloop subcompartment model of chromosome territory architecture, stiff springs were assumed to exist at the loop bases for a simulation of chromosome territory anchor proteins.
+Proteins that are essential for the maintenance of chromosome territories.
+Rights and permissions Reprints and Permissions About this article Cite this article Cremer, T., Cremer, C. Chromosome territories, nuclear architecture and gene regulation in mammalian cells.
+Nat Rev Genet 2 , 292–301 (2001). https://doi.org/10.1038/35066075 Download citation Issue Date : 01 April 2001 DOI : https://doi.org/10.1038/35066075 Share this article Anyone you share the following link with will be able to read this content: Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiative This article is cited by Highly efficient and robust π-FISH rainbow for multiplexed in situ detection of diverse biomolecules Yingfeng Tao Xiaoliu Zhou Gang Cao Nature Communications (2023) A spatial genome aligner for resolving chromatin architectures from multiplexed DNA FISH Bojing Blair Jia Adam Jussila Bing Ren Nature Biotechnology (2023) Simultaneous profiling of chromatin architecture and transcription in single cells Jiale Qu Jun Sun Junjun Ding Nature Structural & Molecular Biology (2023) Transposable elements in mammalian chromatin organization Heather A. Lawson Yonghao Liang Ting Wang Nature Reviews Genetics (2023) Interphase chromosomes of the Aedes aegypti mosquito are liquid crystalline and can sense mechanical cues Vinícius G. Contessoto Olga Dudchenko Michele Di Pierro Nature Communications (2023) You have full access to this article via your institution.
+Download PDF Download PDF Advertisement Explore content Research articles Reviews & Analysis News & Comment Videos Current issue Collections Follow us on Facebook Follow us on Twitter Sign up for alerts RSS feed About the journal Aims & Scope Journal Information About the Editors Journal Credits Journal Metrics Publishing model Editorial input and checks Editorial Values Statement Editorial policies Webcasts Posters Calendars Conferences Web Feeds Contact Publish with us For Authors For Referees Submit manuscript Search Quick links Explore articles by subject Find a job Guide to authors Editorial policies Nature Reviews Genetics ( Nat Rev Genet ) ISSN 1471-0064 (online) ISSN 1471-0056 (print) nature.com sitemap About Nature Portfolio About us Press releases Press office Contact us Discover content Journals A-Z Articles by subject Nano Protocol Exchange Nature Index Publishing policies Nature portfolio policies Open access Author & Researcher services Reprints & permissions Research data Language editing Scientific editing Nature Masterclasses Live Expert Trainer-led workshops Research Solutions Libraries & institutions Librarian service & tools Librarian portal Open research Recommend to library Advertising & partnerships Advertising Partnerships & Services Media kits Branded content Career development Nature Careers Nature Conferences Nature events Regional websites Nature Africa Nature China Nature India Nature Italy Nature Japan Nature Korea Nature Middle East Privacy Policy Use of cookies Your privacy choices/Manage cookies Legal notice Accessibility statement Terms & Conditions Your US state privacy rights © 2023 Springer Nature Limited Close Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+Close Get the most important science stories of the day, free in your inbox.

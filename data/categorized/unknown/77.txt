@@ -1,8 +1,0 @@
-old id = 605
-Postdoctoral Researcher
-unknown
-https://ainowinstitute.org/people/noopur-raval
-
-Noopur RavalPostdoctoral ResearcherNoopur Raval is an interdisciplinary researcher at the intersection of Information Science, Anthropology and Science Studies.
-Her doctoral research studied the transformations that gig economy platforms bring about in how we work, live and relate to each other ethically. Her research on the gig economy has looked at the effect of platforms on labor conditions, collectivization and the redistribution of social power through platform participation. In parallel, she also studies how information and governmentality projects assembled in the service of colonial administration bear upon the functions and scope of new AI governance schemes. At AI Now, Noopur will join the Data Genesis program and study the methods of data collection and labeling in AI and the human work and ‘human-machine vision’ required to assemble high-quality data for AI training. Noopur’s Ph.D. is from the University of California Irvine’s Informatics Department. She is an alumna of the Berkman-Klein Center for Internet and Society and a current fellow at the Center for Tech, Society and Policy (CTSP) at UC Berkeley. Her work has appeared in ACM venues such as CHI and CSCW conferences, the International Communication Association (ICA) as well as in the Committee for the Anthropology of Science, Technology & Computing.
-SectionsA research institute examining the social implications of artificial intelligenceThis work is licensed under aCreative Commons Attribution-NoDerivatives 4.0 International License.

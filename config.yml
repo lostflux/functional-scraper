@@ -47,5 +47,5 @@ domains:
   - https://www.washingtonpost.com
   - https://www.techcrunch.com
 
-limit: 5000
+limit: 10000
 wordcount: 5

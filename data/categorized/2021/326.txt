@@ -1,208 +1,470 @@
-old id = 4504
-Isolation of MERS-related coronavirus from lesser bamboo bats that uses DPP4 and infects human-DPP4-transgenic mice | Nature Communications
+old id = 1801
+The rise of intelligent matter | Nature
 2021
-https://www.nature.com/articles/s41467-020-20458-9/articles/cas-redirect/1:CAS:528:DC%2BC3sXht1Wltb%2FM
+https://www.nature.com/articles/s41586-021-03453-y
 
 Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
-AdvertisementIsolation of MERS-related coronavirus from lesser bamboo bats that uses DPP4 and infects human-DPP4-transgenic miceNature Communicationsvolume12, Article number:216(2021)Cite this article3085Accesses5Citations28AltmetricMetricsdetailsSubjectsAbstractWhile a number of human coronaviruses are believed to be originated from ancestral viruses in bats, it remains unclear if bat coronaviruses are ready to cause direct bat-to-human transmission. Here, we report the isolation of a MERS-related coronavirus,Tylonycteris-bat-CoV-HKU4, from lesser bamboo bats.
-Tylonycteris-bat-CoV-HKU4 replicates efficiently in human colorectal adenocarcinoma and hepatocarcinoma cells with cytopathic effects, and can utilize human-dipeptidyl-peptidase-4 and dromedary camel-dipeptidyl-peptidase-4 as the receptors for cell entry. Flow cytometry, co-immunoprecipitation and surface plasmon resonance assays show thatTylonycteris-bat-CoV-HKU4-receptor-binding-domain can bind human-dipeptidyl-peptidase-4, dromedary camel-dipeptidyl-peptidase-4, andTylonycteris pachypus-dipeptidyl-peptidase-4.
-Tylonycteris-bat-CoV-HKU4 can infect human-dipeptidyl-peptidase-4-transgenic mice by intranasal inoculation with self-limiting disease. Positive virus and inflammatory changes were detected in lungs and brains of infected mice, associated with suppression of antiviral cytokines and activation of proinflammatory cytokines and chemokines. The results suggest that MERS-related bat coronaviruses may overcome species barrier by utilizing dipeptidyl-peptidase-4 and potentially emerge in humans by direct bat-to-human transmission.
-IntroductionBats are major reservoirs of diverse coronaviruses (CoVs) and believed to be the primary origin of recent human CoV epidemics caused by severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV)1,2,3. While these flying mammals are likely the ultimate origin of SARS-CoV-2, the immediate source of COVID-19 remains unidentified4. MERS-CoV was likely to have originated from bats before it jumped to camels and humans, although existing bat CoVs under theBetacoronavirussubgenusMerbecovirus(previously namedBetacoronavirusLineage C, which contains MERS-CoV) were not close enough to represent the immediate ancestral virus. Yet, some bat merbecoviruses, such asTylonycteris-bat-CoV-HKU4 (Ty-BatCoV HKU4), possess spike (S) proteins capable of utilizing the MERS-CoV receptor, human-dipeptidyl-peptidase-4 (hDPP4), in pseudovirus assays5,6,7,8,9,10,11,12. However, none of these bat merbecoviruses have been successfully isolated in vitro, which has hampered understanding of their potential for emergence and direct bat-to-human transmission.
-In this work, a MERS-related CoV,Ty-BatCoV HKU4, is directly isolated from lesser bamboo bats using human colorectal adenocarcinoma (Caco-2) cells. The virus also replicates efficiently in human hepatocarcinoma (Huh7) cells and uses hDPP4 and dromedary camel-DPP4 (dcDPP4) as cell entry receptors.
-Ty-BatCoV HKU4 infects hDPP4 transgenic mice with lung and brain pathologies. The results show that MERS-related bat CoVs may overcome species barrier by utilizing DPP4 from different hosts, with the potential for direct bat-to-human transmission.
-ResultsIsolation ofTy-BatCoV HKU4 using Caco-2 cellsWe conducted a 6-year surveillance study of merbecoviruses in 6086 alimentary samples from 51 different bat species from Hong Kong and mainland China (Supplementary Fig.
-1a).
-Ty-BatCoV HKU4 was detected in 32 (3.07%) of 1044 samples from lesser bamboo bats (Tylonycteris pachypus) in Hong Kong, Guizhou or Guangxi using reverse transcription-PCR (RT-PCR) and sequencing for a partial RNA-dependent RNA polymerase (RdRp) gene fragment and S1 gene (Supplementary Table1and Supplementary Fig.
-1b). We obtained 14 isolates ofTy-BatCoV HKU4 from positive samples using Caco-2 cells, with cytopathic effects (CPE) observed during the first blind passage. Purified viral particles displayed typical CoV morphology of around 100–120 nm in diameter under electron microscopy (Fig.
-1e). The full-length genome sequence (30,136 bp) of selected strain SM3A was determined, sharing 97.6% and 68.7% nucleotide identities to the genomes of previously reportedTy-BatCoV HKU4 and MERS-CoV strains, respectively (Supplementary Fig.
-1c). Upon passages,Ty-BatCoV HKU4 SM3A showed one synonymous and one nonsynonymous (G22997T) substitutions at the 5th passage, resulting in Q476H in the S gene; and five synonymous and one nonsynonymous (A12899G) substitutions at the 15th passage, resulting in H4208R in ORF1ab.
-aCaco-2 cells infected withTy-BatCoV HKU4 SM3A showing CPE with rounding up of fused and granulated cells progressively detaching from the monolayer forming masses of dead cells at 5 dpi, compared tobuninfected cells.
-cIF staining of Caco-2 cells infected withTy-BatCoV HKU4 SM3A, compared toduninfected cells using mouse antiserum against N. Scale bars, 100 μm.
-eTy-BatCoV HKU4 SM3A viral particles under transmission electronic scope. Viral particles, size about 100–120 nm, were visualized, showing spikes around the particles typical of coronavirus. Scale bar, 50 nm. Images are representative of three independent experiments.
-fPhylogenetic analysis of S1 amino acid (aa) sequences ofTy-BatCoV HKU4 SM3A (red in color) and other selected betacoronaviruses.
-Cellular tropism ofTy-BatCoV HKU4To determine the potential for interspecies transmission and ifTy-BatCoV HKU4 may possess broad tissue tropism similar to that of MERS-CoV, various cell lines were tested for susceptibility toTy-BatCoV HKU4 (Supplementary Table2). The virus replicated efficiently in Caco-2 and Huh7 cells, with viral loads of 9.6 × 1010copies/ml and 1.3 × 1010copies/ml on day 5, respectively. CPE, mainly consisted of rounding up of fused and granulated cells progressively detaching from the monolayer forming masses of dead cells, could be observed in both cell lines on day 5, which showed viral nucleocapsid expression by immunofluorescence (IF) assay in 50% of cells (Fig.
-1a–d).
-Ty-BatCoV HKU4 was unable to replicate efficiently in other human, bat, or camel cell lines, including normal human bronchial epithelial (NHBE) cells derived from primary airway epithelial cells (Fig.
-2a, b).
-Ty-BatCoV HKU4 SM3A of 1 MOI was inoculated toa16 human cell lines;b12 bat and 10 other mammalian cell lines;cprimaryTylonycteris pachypuskidney and lung cells with overexpressedTpDPP4;ddifferent host-DPP4-expressing 293 T cells;ehDPP4 CRISPR-knockout Huh7 cells; andfsiRNA hDPP4-knockdown Huh7 cells. Culture supernatants (a–c,e,f) and cell lysates (d) were harvested from respective timepoints and viral titers were determined by RT-qPCR and normalized to β-actin gene.
-fsiRNA efficiency was determined by measuring hDPP4 mRNA expression level in knockdown Huh7 cell lysate at 0 and 24 hpi and compared with mock-treated samples. Data are presented as mean values ± SD,n= 3 independent biological replicates for each cell line at each time point. Dots in each graph represent individual samples. The p-values calculated by multiple two-tailed unpairedt-test without correction for multiple comparisons (<0.05) are indicated in each graph. Statistical significances are indicated by the asterisks (*P< 0.05; **P< 0.01; ***P< 0.0001).
-Ty-BatCoV HKU4 replication is inhibited by interferons-α/βSince type I interferon (IFN) response may serve as a barrier against CoV infections, we also tested the sensitivity ofTy-BatCoV HKU4 to IFN response13. Pretreatment of Huh7 with IFN-α A/D and IFN-β reduced replication of both MERS-CoV EMC andTy-BatCoV HKU4 SM3A, with more significant reduction of MERS-CoV replication (Supplementary Fig.
-2a, b). Notably, pretreatment of Huh7 with both IFNs prevented the formation of CPE inTy-BatCoV HKU4-infected cells (Supplementary Fig.
-2c). The results suggested IFNs as potential antiviral candidates against diverse merbecoviruses.
-MERS-CoV neutralizing antibody does not neutralizeTy-BatCoV HKU4To assess potential serological cross-neutralization between MERS-CoV andTy-BatCoV HKU4, neutralization assays were performed using 16 serum samples from MERS-infected camels from Dubai with MERS-CoV neutralizing antibody titers of 10–16014. None of the samples neutralizedTy-BatCoV HKU4, suggesting little cross-antigenicity (Supplementary Table3).
-Ty-BatCoV HKU4 uses hDPP4 and dcDPP4 as receptorsTo determine if liveTy-BatCoV HKU4 can utilize DPP4 as receptor, virus infectivity studies using HEK293T cells expressing or not expressing DPP4 proteins from humans, dromedaries or lesser bamboo bats were performed.
-Ty-BatCoV HKU4 SM3A can use hDPP4 and dcDPP4 as receptors and replicated efficiently in HEK293T cells upon their expression with >1.5 × 104and 1 × 103-fold increase in viral load, respectively (Fig.
-2d). However, it cannot replicate efficiently inTylonycteris pachypusDPP4 (TpDPP4)-expressing HEK293T cells orTpDPP4-expressing primaryTylonycteris pachypuskidney and lung cells (Fig.
-2c, d). To further confirm ifTy-BatCoV HKU4 can use hDPP4, we performed infectivity assays using small interfering RNA (siRNA) knockdown and CRISPR-Cas9 knockout of hDPP4 in Huh7 cells. The infectivities of bothTy-BatCoV HKU4 and MERS-CoV were significantly attenuated in both hDPP4-knockdown and hDPP4-knockout cells compared to control Huh7 cells (Fig.
-2e, f).
-HKU4-RBD binds to hDPP4, dcDPP4, andTpDPP4While previous studies based on sequence and binding analysis showed thatTy-BatCoV HKU4-receptor-binding-domain (HKU4-RBD) can bind to hDPP4, its relative binding affinity to dcDPP4 andTpDPP4 was not examined. The S1-RBD sequences ofTy-BatCoV HKU4 strains possessed 54.5% aa identities to that of MERS-CoV, withKa/Ks ratio of 0.067, suggesting purifying selection. Of the 14 critical residues in MERS-RBD important for hDPP4 binding12,15, five were conserved16. Most of the 14 residues in hDPP4 were also conserved inTpDPP4 and dcDPP4, except I → K substitution at position 295 inTpDPP4 and T → V substitution at position 288 in dcDPP4, suggesting possible binding of HKU4-RBD toTpDPP4 and dcDPP4. We examined the binding affinity of HKU4-RBD to hDPP4, dcDPP4 andTpDPP4 in comparison to MERS-RBD using flow cytometry, co-immunoprecipitation (co-IP) and surface plasmon resonance (SPR) assays (Fig.
-3). Flow cytometry using HEK293T cells transfected with hDPP4, dcDPP4, andTpDPP4 showed that MERS-RBD bound hDPP4 and dcDPP4 with higher affinity thanTpDPP4, whereas HKU4-RBD boundTpDPP4 with slightly higher affinity than hDPP4 and dcDPP4 (Fig.
-3a). Co-IP assays showed that MERS-RBD can pull down hDPP4 and dcDPP4 but notTpDPP4, whereas HKU4-RBD can pull down all three DPP4 receptor proteins (Fig.
-3b). SPR assays using Biacore X100 showed that MERS-RBD and HKU4-RBD bound to hDPP4 with an equilibrium dissociation constant (Kd) of 631.7 nM and 1.103 µM, respectively, suggesting stronger binding between MERS-RBD and hDPP4 by two-fold. MERS-RBD and HKU4-RBD bound to dcDPP4 withKdof >18.68 and >47.66 µM, respectively, suggesting weaker binding than to hDPP4. MERS-RBD and HKU4-RBD bound toTpDPP4 withKdof 0.7 M and 2.583 µM, respectively, suggesting much lower binding between MERS-RBD andTpDPP4 (Fig.
-3c). The ability of HKU4-RBD to bind hDPP4, dcDPP4, andTpDPP4 albeit with low affinity suggests thatTy-BatCoV HKU4 may have the ability to overcome species barrier by using diverse mammalian DPP4 proteins.
-aCharacterization of binding affinity of MERS-RBD, HKU4-RBD with hDPP4,TpDPP4, and dcDPP4 by flow cytometry. HEK293T cells expressing various DPP4s were detected by the Alexa Fluor 647 channel. MERS-RBD, HKU4-RBD were detected by FITC channel.
-bCharacterizing interaction of MERS-RBD-Fc-His, HKU4-RBD-Fc-His with hDPP4,TpDPP4, dcDPP4 by co-IP assays. DPP4s were expressed as monomer or homodimer. Images are representative of three independent experiments. Uncropped blots in Source Data are provided as Source Data file.
-cInteraction between various combinations of RBD and DPP4 characterized by SPR assay with Biacore X100. The binding profiles were shown in the form of sensorgram with gradient concentrations of DPP4 proteins.
-Ty-BatCoV HKU4 infects hDPP4 transgenic miceWe studied the infectivity ofTy-BatCoV HKU4 in hDPP4 transgenic C57BL/6 N mice by intranasal inoculation (Fig.
-4and Supplementary Table4). All mice survived till 28 days post-infection (dpi) (Fig.
-4a).
-Ty-BatCoV HKU4 was detected in the lungs, spleens and/or brains of infected mice. Reverse transcription quantitative PCR (RT-qPCR) showed the highest viral loads in lung (2.84 log10copies/mg) and brain (2.99 log10copies/mg) on 4 and 14 dpi respectively, with viral clearance on 28 dpi (Fig.
-4b). RT-qPCR showed that hDPP4 was stably expressed in different tissues (Supplementary Fig.
-3). Histology of lung tissues showed moderate to marked degree of lymphocytic infiltration within the alveolar septa and macrophages in the alveoli, compatible with inflammation secondary to viral infections, being most severe on 4 dpi. Histology of brain tissues on 14 dpi also showed marked perivascular lymphocytic infiltration, as well as increased lymphocytes in the brain parenchyma (Fig.
-4e). Immunohistochemical (IHC) staining with mouse monoclonal antibody againstTy-BatCoV HKU4 S1 protein revealed positive viral antigen expression in lung alveolar septal cells and brain lymphocytes and glial cells of mice sacrificed on 4 and 14 dpi, respectively (Fig.
-4f). Anti-Ty-BatCoV HKU4 antibody was detected in mice sacrificed on 14 dpi by western blot and IF assays (Fig.
-4c, d).
-aWeight of transgenic mice after challenge with 1 × 106TCID50Ty-BatCoV HKU4 SM3A (n= 3) or culture media (n= 3).
-bRNA levels ofTy-BatCoV HKU4 SM3A detected in lung and brain tissues at 2, 4, 7, 14, and 28 dpi. Data are presented as mean values ± SD,n= 4 (for lung tissues) or 5 (for brain tissues) independent biological replicates at each time point.
-cIF assay showing antibodies againstTy-BatCoV HKU4 in virus-infected mice serum. Scale bars, 100 μm.
-dWestern blot assay showing antibodies against viral N antigen in virus-infected mice serum. Representative H&E (e) and IHC (f) stained tissue sections from lungs at 4 dpi and brains at 14 dpi. Scale bars, 100 μm. Images are representative of three independent experiments. Uncropped blots in Source Data are provided as Source Data file.
-Cytokine response inTy-BatCoV HKU4-infected miceMERS-CoV causes delayed proinflammatory response and evades innate immunity with attenuated interferon-β response, contributing to virulence17. To study the cytokine response duringTy-BatCoV HKU4 infection, the mRNA expression levels of antiviral cytokines (IFN-β, IFN-γ, and Mx1), proinflammatory cytokines (IL-1β, IL-2, IL-6, IL-12p40, and TNF-α), and chemokines (IP-10, MCP-1, MIP-1α, RANTES, CXCL-1, and G-CSF) in mouse tissues were measured using RT-qPCR assays (Supplementary Fig.
-4). Antiviral cytokines were suppressed in both lung and brain tissues duringTy-BatCoV HKU4 infection. In lung tissues, IL-1β showed gradual increase from 4 to 14 dpi, whereas RANTES and CXCL-1 showed rapid increase on 4 dpi but decreased afterwards. In brain tissues, IL-6 showed rapid increase on 4 dpi but decreased afterwards, whereas IP-10, MIP-1α, and RANTES showed marked increase on 14 dpi.
-DiscussionThis is the first isolation of a bat CoV capable of using hDPP4 as the receptor for cell entry. Our findings carry significant public health implications, by showing that bat CoVs closely related to MERS-CoV can potentially infect human cells and utilize the ubiquitous cellular protein for cell entry. It is considered that the RBD-receptor-binding interphase is a critical barrier for CoV cross-species transmission from bats to humans. The fact that bat CoVs can readily infect human cells suggests that they have the potential to emerge in humans by direct bat-to-human transmission without intermediate hosts. SARS-CoV was likely a recombinant virus originated from horseshoe bats, while civet was the intermediate host for bat-to-human transmission18,19. Although bat CoVs are notoriously difficult to cultivate, a few SARSr-BatCoV strains have been shown to replicate in Vero cells and able to utilize human angiotensin converting enzyme II (ACE2) as receptor20,21, suggesting the potential for SARSr-BatCoVs to infect humans directly. SARS-CoV-2 was also believed to be originated from related viruses in bats, with its genome backbone closest to bat viruses and the RBD region closest to pangolin viruses22,23. Our results suggest that diverse bat coronaviruses not limited to SARSr-CoVs may be of potential imminent risk to human health.
-Despite the considerable genetic distance from MERS-CoV (54.5% aa identities in the RBD),Ty-BatCoV HKU4 was able to utilize the same receptor as MERS-CoV for infecting human cells and hDPP4 transgenic mice. Intranasal inoculation ofTy-BatCoV HKU4 in hDPP4 transgenic mice caused a self-limiting infection, with the highest viral loads detected in the lungs on day 4 and brain on day 14, and lymphocytic inflammation observed in infected tissues.
-Ty-BatCoV HKU4 infection was associated with suppression of antiviral cytokines and activation of different proinflammatory cytokines and chemokines in lung and brain tissues, which mimics MERS-CoV infection in vitro17. Nevertheless, the lack of replication ofTy-BatCoV HKU4 in airway epithelial cultures may suggest limited adaptation to the human respiratory tract. This is in contrast to MERS-CoV, which can infect both upper and lower airway cells24. Moreover, we were unable to passageTy-BatCoV HKU4 in transgenic mice (unpublished data), suggesting inefficient transmission ofTy-BatCoV HKU4 in humans unless the virus is able to evolve rapidly upon human infection.
-Ty-BatCoV HKU4 showed purifying selection in its S protein and very few mutations were noted during passage in Caco-2 cells. Yet, the potential ofTy-BatCoV HKU4 and related viruses to emerge and adapt rapidly in an intermediate host or humans like SARSr-CoVs should be closely monitored. Given the genetic diversity among members ofMerbecovirusand the lack of serological cross-reactivity between MERS-CoV andTy-BatCoV HKU4, humans with past MERS-CoV infections are unlikely protected against other merbecovirus infections. And should these viruses emerge, interferon-based treatment may be evaluated as for MERS-CoV infections.
-The ability ofTy-BatCoV HKU4 to infect human cells and hDPP4 transgenic mice further supports a possible bat origin of MERS-CoV. However, the molecular mechanism of interspecies transmission along the evolutionary path and the role of host DPP4 remain to be elucidated. In this study,Ty-BatCoV HKU4 could only replicate efficiently in Caco-2 and Huh7 cells and showed limited replication in a dromedary cell line and a mouse cell line. Although the critical residues in the DPP4 sequences were mostly conserved between human, dromedaries and lesser bamboo bats, differential binding affinities of HKU4-RBD and MERS-RBD to hDPP4, dcDPP4 andTpDPP4 were observed. HKU4-RBD protein was able to bind all three proteins but with lower binding affinity to hDPP4 and dcDPP4 than MERS-RBD by SPR assays. The lower binding affinity of HKU4-RBD toTpDPP4 than to hDPP4 was in-line with the inability ofTy-BatCoV HKU4 to replicate in primary cells derived fromTylonycteris pachypusandTpDPP4-expressingTylonycteris pachypusor HEK293T cells. This suggests that DPP4 may not be the receptor forTy-Bat-CoV-HKU4 in its natural host. Although the bat ancestral origin of MERS-CoV is yet to be identified, our results suggest that MERS-CoV may have evolved from a closely related bat CoV, which could utilize dcDPP4 and hDPP4 as receptors for infections in camels and humans respectively. Besides MERS-CoV, SARS-CoV, and SARS-CoV-2, human coronavirus-229E and human coronavirus-NL63 were also likely originated from bats, which may have caused unrecognized epidemics in human history5,25,26. The public should be aware of the potential of bat coronaviruses to emerge and cause human epidemics, and should be refrained from disturbing the ecology of bats and consuming these important wild animals.
-MethodsEthics statementBat samples were collected and approved by Department of Agriculture, Fisheries and Conservation, HKSAR and animals were handled in accordance with guidelines of Regulations for the Administration of Laboratory Animals (Decree No. 2 of the State Science and Technology Commission of the People’s Republic of China on 14 November 1988) using standard procedures under a license from the Guangdong Entomological Institute Administrative Panel on Laboratory Animal Care (GDEI-AE-2006001); and the Committee on the Use of Live Animals in Teaching and Research at the University of Hong Kong.
-Bat sample collectionBats were captured from various locations in Hong Kong and mainland China over a 6-year period (August 2010 to August 2016). Alimentary samples were collected using procedures described previously27. All specimens were immediately placed in viral transport medium before transportation to the laboratory for RNA extraction. The bat species identity of samples positive forTy-BatCoV HKU4 was confirmed by cytochrome b sequence analysis as described previously28.
-Detection ofTy-BatCoV HKU4 from bat samplesTo detectTy-BatCoV HKU4, viral RNA was extracted from the respiratory and alimentary samples of bats using QIAamp Viral RNA Mini Kit (Qiagen). The RNA was used as the template for RT-PCR. CoV detection was performed by amplifying a 440-bp fragment of the RdRp gene of CoVs as described previously29. The sequences of the PCR products were compared with known sequences of the RdRp genes of CoVs in the GenBank database.
-Spike and genome sequence analysis ofTy-BatCoV HKU4 strainsTo study the genetic diversity of S genes ofTy-BatCoV HKU4, the complete S genes of 35Ty-BatCoV HKU4 strains detected were amplified and sequenced using the primers as shown in Supplementary Table5. To study the genetic changes ofTy-BatCoV HKU4 during passage in infected cells, the genomes of progeny viruses ofTy-BatCoV HKU4 SM3A at the 1st, 5th, and 15th passages in Caco-2 cells were sequenced using the primers as shown in Supplementary Table6. Multiple sequence alignments were constructed using Clustal W in BioEdit version 7.2.530,31. Phylogenetic trees were constructed using the maximum-likelihood method32, with bootstrap values calculated from 1000 trees. The number of synonymous substitutions per synonymous site,Ks, and the number of nonsynonymous substitutions per nonsynonymous site,Ka, for each coding region were calculated using the Nei-Gojobori method (Jukes-Cantor) in MEGA version 531.
-Cell lines and isolation ofTy-BatCoV HKU4The cell lines used in this study are described in Supplementary Table2. Primary bat cell lines were developed as described previously33. Original alimentary samples from lesser bamboo bats tested positive forTy-BatCoV HKU4 by RT-PCR were subject to virus isolation in Caco-2 cells as described previously5. Cell lines were prepared in 24-well culture plates and inoculated with 300 μl of fecal samples diluted at 1:5. Nonattached viruses were removed by washing the cells twice in phosphate-buffered saline (PBS). The monolayer cells were maintained in MEM supplemented with 1% FBS. All infected cell lines were incubated at 37 °C for 7 days. CPE were examined on day 1, 3, 5, and 7 by inverted light microscopy.
-To study the cell tropism ofTy-BatCoV HKU4,Ty-BatCoV HKU4 SM3A isolated from Caco-2 cells was used to infect various cell lines including bat and camel cells, Caki-3R, Dubca, Calu-3, HeLa, HRT-18G, HT-29, Huh7, His-1, NHBE, A549, Hep-2, HFL, NT2/D1, RD, THP-1, Raji, 293 T, CaCO2, CRFK, PK15, 3T3, RK3E, LLC-MK2, Vero, Vero E6, and BS-C-1 as described previously34. Viral titers were determined as median tissue culture infective dose (TCID50) per ml in confluent cells in 24-well tissue culture plates. Cells were seeded onto 24-well plates, at 2 × 105cells per well with the respective medium and incubated at 37 °C and 5% CO2for 24 h prior to experiment. Cells were washed once with PBS and inoculated with 1 MOITy-BatCoV HKU4 SM3A for 1 h. After 1 h of viral adsorption, the supernatant was removed, and cells were washed twice with PBS.
-Antigen detection by IFAntigen detection of infected Caco-2 cell lines was performed by IF according to protocols described previously35. Cell smears at day 7 prepared and fixed in chilled acetone at −20 °C for 10 min were tested by mouse serum againstTy-BatCoV HKU4 nucleocapsid (N) protein. The percentages of positive cells were recorded. Uninoculated cell smear was used as negative control.
-Electron microscopyNegative contrast electron microscopy was performed as described previously36,37. Tissue culture cell extracts infected withTy-BatCoV HKU4 SM3A were centrifuged at 19,000 ×gat 4 °C, after which the pellet was resuspended in PBS and stained with 2% phosphotungstic acid. Samples were examined with Philips CM100 transmission electron microscope.
-Viral replication studiesTo study viral replication, progeny viruses from cell culture supernatant collected at 5 dpi were subject to RT-qPCR as described previously with modifications33. Total RNA extracted from cell culture supernatants was reverse transcribed and amplified withTy-BatCoV HKU4 primers (forward primer 5’-CGGAAAATCAACACCGGTAATGGT-3’; reverse primer 5’-TAGCCTCTGGTCCAGTCCCA-3’) using real-time one-step RT-qPCR assay. Probes forTy-BatCoV HKU4 [5’- (FAM)TTAAACAATTGGCYCCCAGATGGTTCTTCTACTACA(BHQ1)-3’] were used. All experiments were performed in triplicates.
-IFN susceptibility ofTy-BatCoV HKU4Confluent Huh7 cells were pretreated overnight with IFN-α A/D or IFN-β (100 units) 24 h prior to infection. Pretreated cells were washed once with PBS, followed by inoculation with MERS-CoV EMC andTy-BatCoV HKU4 SM3A at MOI 1, respectively. After 1 h of virus adsorption, the inocula were removed and the cells were washed with PBS twice. MEM supplemented with 1% FBS were added to the cells before further incubation for 72 h. Apically released progeny virus genomes were determined from supernatants collected at 0, 24, 48, and 72 h of post-infection (hpi) using RT-qPCR mentioned above.
-Neutralization assays againstTy-BatCoV HKU4Dromedary sera with neutralizing antibodies to MERS-CoV detected in previous studies were selected for neutralization assays againstTy-BatCoV HKU4 as described previously3,14. The sera were heat inactivated for 30 minutes and were serial diluted from 1:10 to 1:320. One hundred TCID50ofTy-BatCoV HKU4 SM3A was mixed and incubated for 2 h at 37 °C. The mixture was inoculated in duplicate to 96-well plates of Caco-2 cells. Results were recorded after 6 days of incubation at 37 °C.
-siRNA hDPP4-knockdown Huh7 cells and infectivity assaysSilencer Select siRNA targeting hDPP4 proteins and negative control siRNA were transfected to Huh7 using Lipofectamine RNAiMAX transfection reagent (Invitrogen) according to the manufacturer’s instructions. Briefly, confluent Huh7 cells were transfected with 10pmol siRNA in serum-free medium for 6 h and siRNA-lipofectamine complex was removed after incubation. After 24 h of transfection, cells were inoculated with MERS-CoV andTy-BatCoV HKU4 at MOI 1, respectively. hDPP4 mRNA expression level in cell lysates and viral load in supernatants were determined using RT-qPCR.
-CRISPR-Cas9 hDPP4-knockout Huh7 cells and infectivity assaysLentiCRISPR-DPP4 plasmid was constructed by the subcloning of DPP4 gRNA sequence (5- CTTAGAATACAACTACGTGA-3) into the LentiCRISPR (Addgene 52961). Lentivirus expressing DPP4 gRNA and Cas9 was produced by the transfection of LentiCRISPR-DPP4, psPAX2 (Addgene 12260) and pCMV-VSV-G (Addgene 8454) into 293FT cells (Life Technologies). Huh7 cells were transduced with LentiCRISPR-DPP4 virus and further selected with puromycin dihydrochloride (Life Technologies) at 3.5 µg/ml in 10% FBS MEM. Cells were observed every 24 h for cell death. The transduced cells were subcultured to T75 culture flask for expansion when all the control cells were dead while the transduced cells stayed alive. hDPP4 expression in selected knockout cells was determined by western blot and IF staining. Purified CRISPR-Cas9 hDPP4-knockout Huh7 cells were subject to infection withTy-BatCoV HKU4 SM3A. Infectivity assay was performed as previously described at MOI 133. Both supernatants and cell lysates were collected at 0, 1, 2, 3, 5 and 7 dpi. Viral load in supernatants was determined using RT-qPCR.
-Amplification and sequencing of camel and bat DPP4 mRNA transcriptsTotal RNA was extracted from dromedary camel and lesser bamboo bat cell lysates using RNeasy Mini Spin Column (Qiagen). RNA was eluted with 50 µl of RNase-free water and 1 µg of RNA was used as template for reverse transcription. The cDNA generation was performed using random hexamers and Superscript III kit (Invitrogen). Subsequently, dcDPP4 gene was amplified with following primers: forward (5’-ATG-AAGACACCGTGGAAGGTGCTCCTGGGACTGCTGGGGA-3’) and reverse (5’-CTAAGGTAGAGAGAAGCATTGCTTTAGGAAGTGGCTCATG-3’). TheTpDPP4 gene was amplified with following primes: forward (5’-ATGAAGACACCGTGGAAGGTGCTGCTGGGACTGCTGGGG-3’) and reverse (5’-CTAAGGTAAAGAGAA-GCATTGCTTTAGGAAGTGGGTCATGTG-3’). RT-PCR products were gel purified using QIAquick gel extraction kit (Qiagen) and sequenced to obtain the dromedary camel andTylonycteris pachypusDPP4 mRNA sequences.
-Transfection of bat, camel, and human-DPP4 gene in cells and infectivity assaysHEK293T cells were transiently transfected with plasmid containingTp-, dc-, and hDPP4 gene with GFP gene and empty plasmid (as mock-transfected control) by Lipofectamine 2000 according to manufacturer’s protocol 24 h prior to infectivity assay. Transfection of cells was validated by the expression of GFP under fluorescent microscope. The transfected cells were infected by MERS-CoV andTy-BatCoV HKU4 at MOI 1 and maintained in MEM supplemented with 1% FBS before further incubation for 24 h.
-Expression and purification of S1-RBD and DPP4 proteinshDPP4 gene was PCR amplified from previously constructed pCAGEN-hDPP4-2A-EGFP vector10. Subsequently, hDPP4, dcDPP4, andTpDPP4 plus HA tag were PCR amplified and cloned into pCAGEN vector using the primers as shown in Supplementary Table7. The MERS-RBD (residues 367–606) and human codon optimized HKU4-RBD (residues 372–611) were PCR amplified and cloned into pCMV-Fc-His vector using the primers as shown in Supplementary Table7. To prepare proteins of MERS-RBD and HKU4-RBD, the resulting plasmids pCMV-MERS-RBD-Fc-His and pCMV-HKU4-RBD-Fc-His were transfected into HEK293T cells by Lipofectamine 2000 (Invitrogen), at 1 µg DNA per 106cells. After 48 h transfection, cells were washed with PBS. Then, cells were incubated with ice-cold lysis buffer (50 mM NaH2PO4, 300 mM NaCl, 10 mM imidazole, PH 8.0) for 10 min. Lysates were transferred into 1.5 ml screw tubes for centrifugation at 4 °C, 12,000 rpm for 10 min. Supernatants were collected and then proteins were purified by Protein A/G Chromatography Cartridges (Thermo Scientific) according to the manufacturer’s protocol.
-Protein binding with flow cytometry and fluorescence-activated cell sorter (FACS) analysisHEK293T cells were transfected with hDPP4, dcDPP4 andTpDPP4 constructs respectively using Lipofectamine 2000 (Invitrogen), at 1 µg DNA per 106cells in six-well plates. After 48 h, cells were washed with ice-cold PBS and trypsinized with 10 mM EDTA in PBS. Then, cells were washed and suspended in cold PBS-10% FBS with 1% sodium azide. Next, MERS-RBD and HKU4-RBD were incubated with hDPP4, dcDPP4 orTpDPP4-transfected cells, respectively, followed by incubation with 1:10 dilution of FITC-conjugated anti-His monoclonal antibody (Invitrogen) at 4 °C for 30 min. After washing with PBS-1% BSA, cells were fixed and then stained with 1:500 dilution of Alexa Fluor 647 conjugated anti-HA tag monoclonal antibody (Biolegend) at 4 °C for 30 min. The mixture was measured by flow cytometer using BD FACSDiva software according to the manufacturer’s instruction with gating strategy shown in Supplementary Table8and Supplementary Fig.
-5. FACS analysis was carried out by Flowjo software (version 10).
-Co-IP assaysTo determine the interaction between DPP4 and RBD, 1 μg of mouse anti-His monoclonal antibody (Invitrogen) and 5 μg of purified MERS-RBD-Fc-His or HKU4-RBD-Fc-His were mixed overnight at 4 °C with HEK293T cell lysates after expression of hDPP4-HA,TpDPP4-HA, and dcDPP4-HA for 48 h, respectively. The formed protein complex was then precipitated by 25 μl (1 × 107) Dynabeads goat anti-mouse IgG (Invitrogen). The bounding interaction of DPP4 and RBD were analyzed by western blot. MERS-RBD-Fc-His and HKU4-RBD-Fc-His were detected by using 1:6000 dilution of goat anti-human IgG Fc (HRP) antibody (Abcam) whereas hDPP4-HA, TpDPP4-HA, and dcDPP4-HA were detected by using 1:1000 dilution of primary mouse anti-HA monoclonal antibody [HA.C5] (Abcam) and 1: 4000 dilution of secondary goat anti-mouse HRP antibody (Invitrogen).
-Bac-to-Bac baculovirus expression of bat DPP4 protein in insect cellsThe MERS-RBD and HKU4-RBD fused to a C-terminal His-tag was expressed in Sf9 insect cells grown in Sf-900 II SFM serum-free medium (Invitrogen) at 27 °C. For protein purification, Sf9 cells and supernatants were harvested 96 hpi by centrifugation and concentration, sonicated, filtrated, and loaded onto a metal-chelating resin NiNTA Agarose (Qiagen). The peptidase domain of hDPP4 (residues 39–766), dcDPP4 (residues 39–765) andTpDPP4 (residues 37–764), fused to a C-terminal His-tag was expressed and purified using the same protocol as above.
-Binding assays with SPR analysisSPR analysis was carried out at 25 °C using BIAcore X100 machine with CM5 chips (GE Healthcare). All proteins used in the experiment were exchanged to HBS-P + buffer consisting of 0.1 M HEPS, pH7.4, 1.5 M NaCl, and 0.5% v/v Surfactant P20. RBD proteins were immobilized on the chip at a range of 3193–4370 response units (RUs). Gradient concentrations ofTp-/dc-/hDPP4 were then injected. After each cycle, the sensor surface was regenerated using 10 nM glycine-HCl pH 3.0. Measurements from the reference flow cell (immobilized with BSA) were subtracted from experimental values. The binding kinetics was analyzed with the software BIAevaluation Version 4.1 using 1:1 Langumuir binding and/or steading state affinity models.
-hDPP4 transgenic mice challengehDPP4 transgenic mice were developed from a transgenic mouse line generated by at least five microinjection experiments. In brief, 200 C57BL/6 N fertilized oocytes were collected and microinjected with the hDPP4 transgene to ensure successful integration into the mouse genome in each experiment. The oocytes carrying the transgene were transferred to pseudo-pregnant ICR foster mother mice to produce the founder mice. Founder mice were tested for the presence of transgene using isolated DNA from earpunch biospy by PCR with primers targeting to the hDPP4 gene (Forward: 5’-AGTACAACTACAACAGCCACAACGTCTATATC-3’ and Reverse: 5’-ACTG-CCCATCAGGAGATATTGAATAATCATTGATAG-3’) as well as the GFP expression in the mice earpunch biopsy under fluorescent microscope. The genotype-positive founder mice were backcrossed with wild-type C57BL/6 N to generate offsprings carrying hDPP4 transgene genotyped. The mice were maintained at the following housing condition (room temperature: 22 ± 2 °C; relative humidity: 55 ± 10%) on a dark:light cycle of 12:12 h of artificial light.
-Virus stock used for mice challenge was obtained from the 7th passage ofTy-BatCoV HKU4 SM3A in Caco-2 cells. hDPP4 transgenic mice (6–8 week old) were infected intranasally with approximately 80 μl (1 × 106TCID50) of virus suspensions as described previously37. Mice challenged with culture media (MEM with 2%FBS) from uninfected cells were included as negative controls. Mice were monitored daily for signs of disease. Mice were sacrificed at 2, 4, 7, 14, and 28 dpi, respectively. After euthanasia, necropsies of mice were performed to obtain the following tissues: intestine, spleen, kidney, liver, lung, and brain. Blood was collected for antibody tests by immunofluorescence and western blot analysis.
-Detection ofTy-BatCoV HKU4 antibodies in mice by western blot and immunofluorescence assaysTo detect the presence of antibodies againstTy-BatCoV HKU4 in infected mouse sera, 50 ng of purified recombinant N protein ofTy-BatCoV HKU4 was used as antigen for western blot analysis. After electroblotted onto a nitrocellulose membrane (Bio-Rad). The nitrocellulose membrane was further blocked by 3% BSA-PBS at 4 °C overnight. Then, the blot was incubated with mice serum of 14 dpi with 1:300 dilution at 4 °C overnight. Followed by incubation with 1:4000 goat anti-mouse HRP (Invitrogen) at 37 °C for 1 h, the blot was developed by WesternBright ECL HRP substrate (Advansta) as described previously3,36.
-The presence of antibodies againstTy-BatCoV HKU4 in infected mouse sera was further confirmed by IF assay. Serum samples ofTy-BatCoV HKU4-infected and -uninfected mice at 2, 4, 7, 14, and 28 dpi were initially diluted 10-fold in 3% BSA-PBS as baselines and then diluted with two-fold serial dilutions. The diluted serum was further incubated with theTy-BatCoV HKU4-infected Caco-2 cells in 96-wells plate, followed with incubation of 1:200 dilution of FITC-conjugated goat anti-mouse monoclonal antibody (Invitrogen) at 37 °C for 1 h. The presence of antibodies againstTy-BatCoV HKU4 in infected mice were observed by fluorescence microscopy (Nikon).
-Histopathological and IHC studiesTo examine the histopathology and viral replication ofTy-BatCoV HKU4 SM3A in tissues of challenged mice, necropsy organs of the mice were subject to both viral RNA detection by RT-PCR and immunohistological studies as described previously35,37. Tissues for histological examination were fixed in 10% neutral-buffered formalin, embedded in paraffin, and stained with hematoxylin and eosin (H&E). Histopathological changes were observed using Nikon 80imicroscope and imaging system. Infected cell lines and tissues from challenged mice that were tested positive forTy-BatCoV HKU4 by RT-PCR were subject to viral load studies and IHC staining for viral S protein. Tissue sections were subjected to antigen retrieval with pH 6.0 antigen unmasking solution (Vector Laboratories) by pressure cooker after deparaffinization and rehydration. Followed by blocking endogenous peroxidase with 0.3% H2O2for 30 min, the tissues sections were pretreated with streptavidin solution and biotin solution at room temperature for 15 min, respectively, to avoid high background signals from the endogenous biotin or biotin-binding proteins. To minimize nonspecific signal interference, tissue sections were further blocked by incubation with M.O.M.
-TMMouse Ig blocking solution (Vector Laboratories) and 1% BSA/PBS for 1 h and 30 min at 4 °C, respectively. The sections were incubated at 4 °C overnight with 1:5000 dilution of mouse anti-Ty-BatCoV HKU4 S1 monoclonal antibody (Cambridge Biologics), followed with incubation of biotinylated anti-mouse IgG (1: 1000 dilution) for 10 min (Vector Laboratories). Streptavidin/peroxidase complex reagent (Vector Laboratories) was then added and incubated at room temperature for 30 min. Sections were counterstained with hematoxylin. Cells infected or uninfected byTy-BatCoV HKU4 were included as positive and negative controls respectively in each staining. Cells were fixed in chilled acetone at −20 °C for 10 min before incubation with antibodies for staining. Color development was performed using 3,3’-diaminobenzidine and images captured with Nikon 80iimaging system and Spot-advance computer software.
-Cytokine RT-qPCR assaysTo study virus-induced cytokine profiles, lung and brain tissues ofTy-BatCoV HKU4-infected and -uninfected mice were collected at 2, 4, 7, and 14 dpi, respectively. Tissue samples were weighed and homogenized in MEM (Gbico) by TissueRuptor (Qiagen). Total RNA was extracted from tissue lysates using RNeasy Mini Kit (Qiagen). RNA was eluted in 50 μl of RNase-free water. 1 μg of RNA was converted into cDNA using random hexamers by the SuperScript III reverse transcriptase kit (Invitrogen). RT-qPCR assays for interferons (IFN-β, IFN-γ), Mx1, interleukins (IL-1β, IL-2, IL-6, IL-12p40), TNF-α, IIP-10, MCP-1, MIP-1α, RANTES, CXCL-1, and G-CSF were performed as described previously with modifications, using the primers as shown in Supplementary Table9with mouse β-actin for normalization38. RT-qPCR was performed using FastStart Universal SYBR Green Master kit (Roche) in LightCycler 2.0 (Roche). The relative expression betweenTy-BatCoV HKU4-infected and -uninfected transgenic mice for each gene was calculated by the comparative ∆∆CT method.
-Reporting summaryFurther information on research design is available in theNature Research Reporting Summarylinked to this article.
-Data availabilityThe nucleotide sequences of the complete S and genome sequence ofTy-BatCoV HKU4 strains have been lodged within the GenBank sequence database under accession no. MW218376-MW218394 and MW218395 respectively.
-Source dataare provided with this paper.
-ReferencesChan, J. F. et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster.
-Lancet395, 514–523 (2020).
-CASArticleGoogle ScholarWoo, P. C., Lau, S. K., Huang, Y. & Yuen, K. Y. Coronavirus diversity, phylogeny and interspecies jumping.
-Exp. Biol. Med. (Maywood)234, 1117–1127 (2009).
-CASArticleGoogle ScholarLau, S. K. et al. Severe acute respiratory syndrome coronavirus-like virus in Chinese horseshoe bats.
-Proc. Natl Acad. Sci. USA102, 14040–14045 (2005).
-CASArticleADSGoogle ScholarLau, S. K. P. et al. Possible bat origin of severe acute respiratory syndrome Coronavirus 2.
-Emerg. Infect. Dis.
-https://doi.org/10.3201/eid2607.200092(2020).
-Woo, P. C. et al. Molecular diversity of coronaviruses in bats.
-Virology351, 180–187 (2006).
-CASArticleGoogle ScholarWoo, P. C. et al. Comparative analysis of twelve genomes of three novel group 2c and group 2d coronaviruses reveals unique group and subgroup features.
-J. Virol.
-81, 1574–1585 (2007).
-CASArticleGoogle Scholarvan Boheemen, S. et al. Genomic characterization of a newly discovered coronavirus associated with acute respiratory distress syndrome in humans.
-mBiohttps://doi.org/10.1128/mBio.00473-12(2012).
-Woo, P. C., Lau, S. K., Li, K. S., Tsang, A. K. & Yuen, K. Y. Genetic relatedness of the novel human group C betacoronavirus to Tylonycteris bat coronavirus HKU4 and Pipistrellus bat coronavirus HKU5.
-Emerg. Microbes Infect.
-1, e35 (2012).
-CASPubMedPubMed CentralGoogle ScholarRaj, V. S. et al. Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC.
-Nature495, 251–254 (2013).
-CASArticleADSGoogle ScholarLau, S. K. P. et al. Receptor usage of a novel bat lineage C betacoronavirus reveals evolution of MERS-related coronavirus spike proteins for human DPP4 binding.
-J. Infect. Dis.
-https://doi.org/10.1093/infdis/jiy018(2018).
-Yang, Y. et al. Receptor usage and cell entry of bat coronavirus HKU4 provide insight into bat-to-human transmission of MERS coronavirus.
-Proc. Natl Acad. Sci. USA111, 12516–12521 (2014).
-CASArticleADSGoogle ScholarWang, Q. et al. Bat origins of MERS-CoV supported by bat coronavirus HKU4 usage of human receptor CD26.
-Cell Host Microbe16, 328–337 (2014).
-CASArticleGoogle ScholarMordstein, M. et al. Lambda interferon renders epithelial cells of the respiratory and gastrointestinal tracts resistant to viral infections.
-J. Virol.
-84, 5670–5677 (2010).
-CASArticleGoogle ScholarWoo, P. C. et al. Novel betacoronavirus in dromedaries of the Middle East, 2013.
-Emerg. Infect. Dis.
-20, 560–572 (2014).
-CASArticleGoogle ScholarWang, N. et al. Structure of MERS-CoV spike receptor-binding domain complexed with human receptor DPP4.
-Cell Res.
-23, 986–993 (2013).
-CASArticleGoogle ScholarLau, S. K. et al. Genetic characterization of Betacoronavirus lineage C viruses in bats reveals marked sequence divergence in the spike protein of pipistrellus bat coronavirus HKU5 in Japanese pipistrelle: implications for the origin of the novel Middle East respiratory syndrome coronavirus.
-J. Virol.
-87, 8638–8650 (2013).
-CASArticleGoogle ScholarLau, S. K. P. et al. Delayed induction of proinflammatory cytokines and suppression of innate antiviral response by the novel Middle East respiratory syndrome coronavirus: implications for pathogenesis and treatment.
-J. Gen. Virol.
-94, 2679–2690 (2013).
-CASArticleGoogle ScholarLuk, H. K. H., Li, X., Fung, J., Lau, S. K. P. & Woo, P. C. Y. Molecular epidemiology, evolution and phylogeny of SARS coronavirus.
-Infect. Genet. Evol.
-71, 21–30 (2019).
-CASArticleGoogle ScholarChinese, S. M. E. C. Molecular evolution of the SARS coronavirus during the course of the SARS epidemic in China.
-Science303, 1666–1669 (2004).
-ArticleGoogle ScholarGe, X. Y. et al. Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor.
-Nature503, 535–538 (2013).
-CASArticleADSGoogle ScholarYang, X. L. et al. Isolation and characterization of a novel bat coronavirus closely related to the direct progenitor of severe acute respiratory syndrome coronavirus.
-J. Virol.
-90, 3253–3256 (2015).
-ArticleGoogle ScholarZhou, P. et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin.
-Naturehttps://doi.org/10.1038/s41586-020-2012-7(2020).
-Lam, T. T. et al. Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins.
-Naturehttps://doi.org/10.1038/s41586-020-2169-0(2020).
-Guery, B. et al. Clinical features and viral diagnosis of two cases of infection with Middle East Respiratory Syndrome coronavirus: a report of nosocomial transmission.
-Lancet381, 2265–2272 (2013).
-ArticleGoogle ScholarCorman, V. M. et al. Evidence for an ancestral association of human coronavirus 229E with bats.
-J. Virol.
-89, 11858–11870 (2015).
-CASArticleGoogle ScholarHuynh, J. et al. Evidence supporting a zoonotic origin of human coronavirus strain NL63.
-J. Virol.
-86, 12816–12825 (2012).
-CASArticleGoogle ScholarLau, S. K. et al. Complete genome sequence of bat coronavirus HKU2 from Chinese horseshoe bats revealed a much smaller spike gene with a different evolutionary lineage from the rest of the genome.
-Virology367, 428–439 (2007).
-CASArticleGoogle ScholarMarcili, A. et al. A new genotype of Trypanosoma cruzi associated with bats evidenced by phylogenetic analyses using SSU rDNA, cytochrome b and Histone H2B genes and genotyping based on ITS1 rDNA.
-Parasitology136, 641 (2009).
-CASArticleGoogle ScholarWoo, P. C. et al. Comparative analysis of complete genome sequences of three avian coronaviruses reveals a novel group 3c coronavirus.
-J. Virol.
-83, 908–917 (2009).
-CASArticleGoogle ScholarEdgar, R. C. MUSCLE: multiple sequence alignment with high accuracy and high throughput.
-Nucleic Acids Res.
-32, 1792–1797 (2004).
-CASArticleGoogle ScholarTamura, K. et al. MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods.
-Mol. Biol. Evol.
-28, 2731–2739 (2011).
-CASArticleGoogle ScholarGuindon, S. et al. New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0.
-Syst. Biol.
-59, 307–321 (2010).
-CASArticleGoogle ScholarLau, S. K. P. et al. Replication of MERS and SARS coronaviruses in bat cells offers insights to their ancestral origins.
-Emerg. Microbes Infect.
-7, 209 (2018).
-ArticleGoogle ScholarChan, J. F. et al. Differential cell line susceptibility to the emerging novel human betacoronavirus 2c EMC/2012: implications for disease pathogenesis and clinical manifestation.
-J. Infect. Dis.
-207, 1743–1752 (2013).
-CASArticleGoogle ScholarWoo, P. C. et al. Feline morbillivirus, a previously undescribed paramyxovirus associated with tubulointerstitial nephritis in domestic cats.
-Proc. Natl Acad. Sci. USA109, 5435–5440 (2012).
-CASArticleADSGoogle ScholarLau, S. K. et al. Isolation and characterization of a novel Betacoronavirus subgroup A coronavirus, rabbit coronavirus HKU14, from domestic rabbits.
-J. Virol.
-86, 5481–5496 (2012).
-CASArticleGoogle ScholarLau, S. K. et al. Identification of novel rosavirus species that infects diverse rodent species and causes multisystemic dissemination in mouse model.
-PLoS Pathog.
-12, e1005911 (2016).
-ArticleGoogle ScholarWoo, P. C. et al. Cytokine profiles induced by the novel swine-origin influenza A/H1N1 virus: implications for treatment strategies.
-J. Infect. Dis.
-201, 346–353 (2010).
-CASArticleGoogle ScholarDownload referencesAcknowledgementsWe thank Chung-Tong Shek and members of HKSAR Department of Agriculture, Fisheries, and Conservation (AFCD) for collection of bat specimens in Hong Kong. This study was partly supported by the theme-based research scheme (project no. T11-707/15-R) of the University Grant Committee; Health and Medical Research Fund of the Food and Health Bureau of HKSAR; Consultancy Service for Enhancing Laboratory Surveillance of Emerging Infectious Disease for the HKSAR Department of Health and the University Development Fund of the University of Hong Kong.
-Author informationThese authors contributed equally: Susanna K. P. Lau, Rachel Y. Y. Fan, Longchao Zhu, Kenneth S. M. Li, Kwok-Yung Yuen.
-AffiliationsDepartment of Microbiology, The University of Hong Kong, Hong Kong, ChinaSusanna K. P. Lau, Rachel Y. Y. Fan, Longchao Zhu, Kenneth S. M. Li, Antonio C. P. Wong, Hayes K. H. Luk, Emily Y. M. Wong, Carol S. F. Lam, George C. S. Lo, Joshua Fung, Zirong He, Felix C. H. Fok, Kin-Hang Kok, Kwok-Yung Yuen & Patrick C. Y. WooCarol Yu Centre for Infection, The University of Hong Kong, Hong Kong, ChinaSusanna K. P. Lau, Kwok-Yung Yuen & Patrick C. Y. WooState Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Hong Kong, ChinaSusanna K. P. Lau, Kwok-Yung Yuen & Patrick C. Y. WooDepartment of Pathology, The University of Hong Kong, Hong Kong, ChinaRex K. H. Au-YeungGuangdong Key Laboratory of Animal Conservation and Resource Utilization, Guangdong Public Laboratory of Wild Animal Conservation and Utilization, Guangdong Institute of Applied Biological Resources, Guangzhou, ChinaLibiao ZhangYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarContributionsS.K.P.L. and P.C.Y.W. conceived and planned the study. R.Y.Y.F., L.Z., K.S.M.L., A.C.P.W., H.K.H.L., E.Y.M.W., C.S.F.L., G.C.S.L., J.F., Z.H., F.C.H.F., and R.K.H.A.Y. carried out experiments and performed data analysis. S.K.P.L., L.Z., K.S.M.L., A.C.P.W., H.K.H.L., and P.C.Y.W. coordinated data analysis and wrote the manuscript. L.Z., K.H.K., and K.Y.Y. coordinated animal sampling and transgenic mouse model development. S.K.P.L., R.Y.Y.F., L.Z., K.S.M.L., and K.Y.Y. contributed equally to this work. All authors provided critical feedback and revised the manuscript.
-Corresponding authorsCorrespondence toSusanna K. P. LauorPatrick C. Y. Woo.
-Ethics declarationsCompeting interestsThe authors declare no competing interests.
-Additional informationPeer review informationNature Communicationsthanks the anonymous reviewers for their contribution to the peer review of this work. Peer reviewer reports are available.
-Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
-Supplementary informationSupplementary InformationPeer Review FileReporting SummarySource dataSource DataRights and permissionsOpen AccessThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visithttp://creativecommons.org/licenses/by/4.0/.
-Reprints and PermissionsAbout this articleCite this articleLau, S.K.P., Fan, R.Y.Y., Zhu, L.
+Advertisement View all journals Search Log in Explore content About the journal Publish with us Sign up for alerts RSS feed nature perspectives article Download PDF Perspective Published: 16 June 2021 The rise of intelligent matter C. Kaspar ORCID: orcid.org/0000-0002-1788-6966 1 , B. J. Ravoo ORCID: orcid.org/0000-0003-2202-7485 2 , 3 , W. G. van der Wiel ORCID: orcid.org/0000-0002-3479-8853 1 , 4 , S. V. Wegner ORCID: orcid.org/0000-0002-9072-0858 5 & … W. H. P. Pernice ORCID: orcid.org/0000-0003-4569-4213 1 , 3 Show authors Nature volume 594 , pages 345–355 ( 2021 ) Cite this article 24k Accesses 183 Citations 117 Altmetric Metrics details Subjects Composites Molecular self-assembly Nanoscale biophysics Abstract Artificial intelligence (AI) is accelerating the development of unconventional computing paradigms inspired by the abilities and energy efficiency of the brain. The human brain excels especially in computationally intensive cognitive tasks, such as pattern recognition and classification. A long-term goal is de-centralized neuromorphic computing, relying on a network of distributed cores to mimic the massive parallelism of the brain, thus rigorously following a nature-inspired approach for information processing. Through the gradual transformation of interconnected computing blocks into continuous computing tissue, the development of advanced forms of matter exhibiting basic features of intelligence can be envisioned, able to learn and process information in a delocalized manner. Such intelligent matter would interact with the environment by receiving and responding to external stimuli, while internally adapting its structure to enable the distribution and storage (as memory) of information. We review progress towards implementations of intelligent matter using molecular systems, soft materials or solid-state materials, with respect to applications in soft robotics, the development of adaptive artificial skins and distributed neuromorphic computing.
+You have full access to this article via your institution.
+Download PDF Download PDF Main Intelligence can be understood as the ability to perceive information and to retain it as knowledge to be applied towards adaptive behaviour within a changing environment. Although there is no generally acknowledged definition of intelligence, corresponding concepts in the field of intelligence research embrace two main traits: first, the ability to learn and, second, the capacity to adapt to an environment 1 , 2 , 3.
+ Both abilities are thus far mostly found in living organisms. Yet, with the proliferation of AI, intense efforts are being made to implement learning and adapting skills in increasingly complex systems that co-integrate various functional components 4 , 5 , 6.
+ Going beyond such functional architectures, the realization of synthetic matter that itself shows basic features of intelligence would constitute an entirely new concept of AI. Even though such matter which we term here intelligent does not show the same level of intelligence as would be understood in a psychological sense (including, for instance, the ability for cognition or language), its functionality would go far beyond the properties of static matter. Inspiring examples of potential applications include artificial skin 7 , 8 that self-regulates temperature and absorbance, intelligent clothing 9 that, depending on the wearer’s sensation, turns into a warming or cooling garment, as well as soft robotics 10 , 11 with intelligent tactility. However, because of the vast amount of data that needs to be processed in advanced AI applications, regulating the behaviour of intelligent matter in a central manner will be very challenging. In particular, centralized information processing with conventional computers based on the von Neumann architecture will quickly reach its limits. This is because shuffling data from memory to processor and back not only greatly reduces the speed of the computation, but also requires substantial power consumption 12.
+ New approaches and computing paradigms are thus required to be implemented directly at the matter level, thus allowing for local pre-processing of data using, for instance, in-memory computing 13 , 14.
+ In this way, intelligent matter itself could interact with the environment, self-regulate its action, and even learn from the input it receives.
+For the design of intelligent matter, inspiration from nature is beneficial: bottom-up assembly is nature’s way of achieving material properties that outperform the properties of their individual constituent units. The macroscopic functionalities of natural matter emerge from sophisticated design motifs and the interplay of molecular, nanoscale and macroscale building blocks 15.
+ In artificial matter, a combination of bottom-up and top-down methods enables architectures with a variety of novel characteristics and functionalities 15 , 16.
+ We can use the concept of increasing functionality and complexity to define intelligence for artificial matter in a hierarchical manner, as illustrated in Fig.
+1.
+ This form of intelligence can be realized on a material level by combining four key functional elements (see Box 1 ): (1) sensors to interact with the environment and receive input and feedback; (2) actuators to respond to the input signal and adapt the material’s properties; (3) memory for long-term storage of information and (4) a communication network to process feedback. Ideally, these elements form functional processing continua, which do not require a centralized processing unit, but rather provide the capability for local and distributed information processing 17.
+Structural matter is static and cannot change its properties after synthesis, such as pure silicon. Responsive matter can change its properties upon application of an external stimulus (illustrated as red lightning) and comprises embedded sensors and actuators. When an orthogonal counter-stimulus (illustrated as purple lightning) is applied, responsive matter switches back to its original state. The opening and closing of a 3D-printed sunflower made of a photoresponsive shape memory composite 42 is an example of responsive matter. Adaptive matter can modify its properties in response to a stimulus using internal feedback. In addition to sensors and actuators it features a network (illustrated as light blue connections). The magnetic microswarm depicted 27 , which can move within obstructive channels, shows adaptive behaviour. Intelligent matter is able to interact with its environment, learns from the input it receives and self-regulates its action. All four key functional elements—sensor, actuator, network and long-term memory—need to be incorporated. The arm of an octopus, with its embedded sensors, actuators and nervous system, represents intelligent matter. Copyright for lower leftmost panel: Peter Sobolev/Shutterstock.com. Copyright for lower rightmost panel: ND700/Shutterstock.com.
+Full size image Four categories of matter can be identified, each of which contain different functional elements, depending on their complexity. The most basic group is structural matter without any functional elements. It may comprise highly complex but static structures, which, despite having a wide range of functions, cannot change their properties after synthesis. At a more advanced level, responsive matter is capable of changing its properties (shape, colour, stiffness, and so on) in response to an external stimulus, such as light, electrical current or force. The response results strictly from the application of the stimulus, is always equal for specific inputs and, thus, cannot change. But responsive matter can be reversed, that is, switched back to the original state, by a relaxation process or by an orthogonal counter-trigger 18 , 19 , 20.
+ To provide this active response, both embedded sensors and actuators are needed.
+Intense efforts are underway to move beyond responsive matter to adaptive matter, which has the inherent capability to process internal feedback and, thus, not only changes its properties, but even regulates them in response to different environments and stimuli 18.
+ Thus, adaptive matter relies on a further functional element—namely, a network—to provide feedback in addition to sensors and actuators. Feedback can arise from a combination of multiple responsive units integrated into the same system, realized by coupled chemical reactions or electronically, optically or magnetically coupled nanoscale components 21.
+ Although, in this way, the properties change over time depending on the input history, the evolution of the properties still depends on external input. A recent viewpoint article by Walther offers a particularly articulate view, arguing that truly adaptive materials can only arise in out-of-equilibrium systems (generally called ‘active matter’) 18.
+ This definition brings adaptive materials into the realm of ‘life-like materials’, which are synthetic materials that are inspired by biological and living matter 19.
+Moving beyond adaptive matter will lead eventually to the development of what we term intelligent matter. Intelligent matter is able to interact with its environment, learns from the inputs it receives and self-regulates its action. Learning is enabled by an inherent memory functionality in which the acquired knowledge or skill is stored long-term as experience and can be recalled to produce future behaviour. Thus, intelligent matter includes all four functional elements (sensors, actuators, network and long-term memory) and shows the highest level of complexity and functionality. Here, we outline the development trajectory of these classes of functional matter, give examples of complex systems with various degrees of functionality, and show recent trends towards the ultimate development of intelligent matter.
+Box 1  Key functional elements of intelligent matter Intelligent matter interacts with its environment, receives information, and self-adapts based on knowledge gained from past events. To realize a basic form of intelligence within artificial matter, the integration of four key functional elements is essential (see Box 1 Fig. 1).
+(1) A sensor unit is required to receive information about both the current state and changes in the environment, as well as to receive feedback signals. This process of sensing or detecting is usually an energy transformation, where the energy of the input signal is converted into a form of energy that can be further processed, such as, for example, the conversion of heat into an electrical potential or the absorbance of light to provide a different molecular structure.
+(2) In response to an external stimulus, synthetic matter can respond with a modification of its properties. This requires actuator mechanisms, which provide an output to the environment, such as a change in shape, colour, phase, conductivity and so on.
+(3) To retain the received information as knowledge, inherent memory capability is necessary. Memory enables long-term storage and processing of information, which can be recalled as knowledge in the future. In addition to the input signals, feedback signals can also be stored, so that observed consequences of actuation can be used for learning processes.
+(4) The final key functional element constitutes the interconnection of sensor, actuator and long-term memory elements. Such connections can be realized via signal pathways in a matter network, which enables the delivery of information and further allows for feedback to be provided.
+Different combinations of the four key functional elements—sensor, actuator, network and memory—in synthetic matter result in different levels of complexity and functionality. Whereas for responsive matter a sensor and actuator are both clearly necessary, adaptive matter further requires network pathways in order to provide feedback. The close interplay between all four functional elements is essential for processing information, which is generated during the entire process of interaction between matter and the environment, to enable learning. Hence, if one of the key functional elements is lacking, then, according to our definition, the material is not considered intelligent.
+We note that our definition of intelligence in matter cannot be readily compared to the intelligence of living beings in a psychological sense. The four key functional elements are essential to implement artificial intelligent matter, but at the same time they are not sufficient to enable the emergence of will or cognition, which distinguishes synthetic matter from intelligent living beings.
+Swarm-based, self-organized materials A prominent form of complex behaviour relies on the collective interaction of a large number of individual agents in groups or swarms. Here, multiple individually responsive entities can self-organize in such a way that large-scale adaptive phenomena emerge, for example, pattern formation to protect the collective. In nature, this behaviour is observed in insect colonies 22 , schools of fish 23 , birds 24 and even mammals 25.
+ The global response of the collective is often considered to exhibit features of intelligent behaviour, and typically goes beyond the capabilities of the individual elements, which only communicate with their nearest neighbours. Hence, the actions of the individual agents are coordinated in a decentralized manner. This concept of basic intelligence is particularly interesting for the realization of intelligent matter when using building blocks that are implemented on the nanoscale. Nevertheless, on such length scales it is challenging to integrate all of the four key functional elements—in particular long-term memory—as individual components. An illustrative example for emulated swarm-behaviour is the interaction of a large group of small robots, each about one centimetre tall and with limited capabilities 26 , which can arrange in complex, predefined shapes (Fig.
+2a ). The individual robots are responsive agents, merely follow their programmed individual algorithm and communicate only with their nearest neighbours. However, since an external programmer predefines the targeted shape and gives instructions in form of an algorithm, the whole group of robots is not intelligent according to our definition, but rather adaptive. When considering swarm behaviour on the nanoscale, similar restrictions remain and so such systems constitute examples of adaptive matter, as described in the following.
+a , autonomous, individually responsive robots merely follow their programmed algorithm and communicate with closest neighbours. In a swarm of a thousand robots, they self-assemble in complex 2D patterns 26.
+ Since an external programmer predefines the target shape, the swarm is adaptive and not intelligent.
+b , Paramagnetic nanoparticles form a moving microswarm in an oscillating magnetic field 27.
+ An external programmer can change the field, such that the adaptive swarm can split and circumvent obstacles. The insets show an overview of the path and of the current location of the swarm (indicated by the green line).
+c , A group of phototactic TiO 2 colloids, which cooperatively transport a larger cargo particle by producing a collective diffusiophoretic repulsion. Scale bars: left, 200 nm; right, 20 µm. This repulsion is controlled by an external programmer via ultraviolet light pulses, which makes it an adaptive swarm 31.
+ Icons show which of the four key functional elements are present.
+Full size image Nanoparticle assemblies In self-assembled material systems, local communication between the weakly coupled and highly dynamic components takes place in the form of particle−particle interactions. Yu et al.
+27 describe the application of programmed oscillating magnetic fields to arrange paramagnetic nanoparticles into a ribbon-like dynamic microswarm. Based on repulsive fluidic and attractive magnetic interactions between the chain-forming, structural nanoparticles and depending on the initial shape, the microswarm can perform reversible anisotropic deformation, controlled splitting and merging with high pattern stability as well as navigated locomotion (Fig.
+2b ). These shape adaptions rely on the input of an external programmer who manipulates the magnetic field and therefore the particles do not show intelligent behaviour by themselves.
+Colloidal particles similarly provide promising building blocks for material systems exhibiting self-organization properties. Steered by osmotic and phoretic effects, synthetic bimaterial colloids in a basic solution form two-dimensional ‘living crystals’ when illuminated by blue light 28.
+ More complex three-dimensional crystals or microtubes are grown out of Janus colloids in a precessing magnetic field 29.
+ A leader−follower relationship 30 between microparticles or a cargo transport 31 can be obtained if the size and dielectric properties of different colloids are varied and they are exposed to an alternating-current electric field or ultraviolet light (Fig.
+2c ). Additionally, the swarm performs negative or positive phototactic motions depending on the light intensity to which it is exposed. Thus, the particle system shows adaptive behaviour to ambient illumination conditions. Phototaxis, that is, the ability to sense and orient to the illumination direction of a light source, has also been realized in artificial microswimmers, which have the structure of a Janus nanotree and propel by self-electrophoresis 32.
+ Tagliazucchi and co-workers show another intriguing example of adaptive swarm behaviour. The simulations reveal that dissipative self-assembly gives rise to particle configurations of pH-responsive colloids that are not available in equilibrium. As soon as the continuous input of energy is stopped, the assembled structures decompose 33.
+Molecular materials Intriguing adaptive behaviour has been reported in synthetic molecular systems in which feedback arises from reaction networks and coupled intermolecular interactions 34 , 35.
+ Limited availability of the required building blocks leads to the successive emergence of two different sets of co-existing replicators, each consuming only their preferred feedstock. This can be understood as an adaptation to the availability of ‘food’. Moreover, information transfer regarding the size of the self-replicating molecules was observable from the ancestor to the descendent replicator. This behaviour has parallels to specification in biology. In a different dynamic molecular network, the substrate of a chemical reaction in combination with a second molecule transiently forms its own catalyst. After the reaction is completed, the catalyst is automatically decomposed. In this way, the concentration of the catalyst is regulated, reminiscent of the continuous regulation of enzyme concentration in biological systems giving rise to adaptive behaviour. Furthermore, positive feedback of self-replicators was demonstrated, in which the self-replicators recruit a cofactor for the production of their own precursors 36.
+ These related examples clearly describe adaptive systems in which feedback arises from reaction networks and coupled interactions. There is no doubt that communication takes place between individual components and that an appropriate action is derived from the ‘sensed’ information, indicating feedback. However, in-matter memory is lacking, which prevents learning from past events and adapting behaviour in an intelligent manner according to the concept shown in Fig.
+1.
+Soft-matter implementations In biological systems, softness, elasticity and compliance are salient features, which enable a continuous deformation and, hence, a smooth motion within a congested environment 37.
+ Natural skin further exhibits striking properties of basic intelligence as defined above, including the tactile sensation of force, pressure, shape, texture and temperature, a haptic memory and the capability of self-healing 38.
+ The field of soft robotics aims to translate these properties into soft-matter implementations. Soft robots are able to emulate biological motion by adapting their shape, their grip and their tactility. Compared to their rigid counterparts, the risk of harm is dramatically reduced when they are in contact with humans or other fragile objects owing to compliance matching of materials 10 , 11 , 37.
+ Intelligent soft matter, which unifies all four building blocks outlined in Box 1 , could thus assist soft-robotic devices to mimic organisms 37.
+ In the form of an artificial skin, it could further provide a variety of possibilities in health care and medical applications. Multifunctional wearables, which monitor health parameters with a potential subsequent drug delivery 39 , human motor assistance via supplying mechanical work after stroke 11 or prosthetics with tactile sensations can be envisioned.
+Although full integration of all four key functional elements in soft matter is still elusive, various implementations that combine at least two of the functional elements have been reported.
+Responsive soft matter Soft matter can receive inputs from the environment via sensing elements and provide a direct response through embedded actuators, which is the basic requirement for classification as responsive matter. The most common actuation is a change in shape and softness as a function of the input. One example is a self-contained artificial muscle consisting of a silicone elastomer matrix in which actuation relies on the liquid−vapour phase transition of embedded ethanol micro-bubbles upon heating 40.
+ This responsive artificial muscle is capable of repeatedly lifting a weight of more than 6 kg as well as agonist−antagonist based skeleton-arm motions and can be used in soft grippers for lifting objects (Fig.
+3a ). Another approach to realizing the macroscopic mechanical operations of soft robots is the responsive hydrogel based on DNA hybridization-induced double crosslinking shown by Zhao et al.
+41.
+ Gestures of a human hand were mimicked by locally controlling the volume shrinkage of the material with the help of external DNA triggers. Similarly, 3D-printable photoresponsive shape-memory composites alter their 3D forms in response to light and promise large varieties of applications, such as mimicking the open and closed states of a sunflower 42.
+ All three examples exhibit neither network pathways nor a memory element in which to store feedback information about too strong or weak actuation forces, for instance.
+a , Soft grippers and artificial muscle (consisting of a silicone elastomer matrix with embedded ethanol bubbles) lifting objects and acting as an agonist−antagonist actuator pair 40.
+ The material senses heating induced by an embedded resistive wire and changes its shape, which results in an actuation.
+b , Soft artificial skin using the triboelectic effect to sense proximity, contact and pressure 43.
+ In addition to the sensing capability, the self-powered material can also embrace objects and lift them up.
+c , Mechanical hybrid substrate that combines memory devices with strain sensors in a wearable device 45.
+d , Various deformations of a thin-film organic transistor with self-healing properties attached to human limbs 46.
+e , Self-healing process of a copolymer: after around 14 h, cuts in the material have completely healed up 47.
+f , Conditioning process of a liquid crystal network actuator; scale bar, 5 mm. After the initially neutral light stimulus is associated with a heat stimulus, the material also responds to light. The material can also be conditioned to certain wavelengths: only soft gripper number II was associated with red light, closing upon irradiation 53.
+ Icons show which of the four key functional elements are present.
+a and b clearly show responsive systems, while examples in c and d additionally feature a memory element, and thus go beyond responsive behaviour.
+Full size image Especially for artificial skins and multifunctional wearables, untethered devices are essential. Thus, the ability to self-power in order to feed sensors, actuators or memory with the required power is vital to device success. Using the embedded actuation to self-generate electrical power in response to external inputs is a highly attractive approach. One promising attempt by Lai and co-workers takes advantage of the triboelectric effect 43.
+ Their artificial skin can actively sense proximity, contact, pressure and dampness of touched objects without the need of an external power source and the skin produces electricity in response (Fig.
+3b ). Another striking example from Schroeder et al.
+44 uses a biomimetic concept to generate power inspired by the electric eel. The authors used gradients of ions between miniature polyacrylamide hydrogel compartments bounded by a repeating sequence of cation- and anion-selective hydrogel membranes. The ‘artificial eel’ uses a scalable stacking or folding geometry that generates 110 V upon simultaneous, self-registered mechanical contact activation of thousands of gel compartments in series. Unlike typical batteries, these systems are soft, flexible, transparent and potentially biocompatible.
+Soft matter with embedded memory A further class of functional soft matter combines in-matter memory with sensing capability. While such matter would not classify as adaptive matter owing to the lack of a network, it goes beyond responsive capability. The following examples are able to receive input from the environment and alter their response as a function of the input history using embedded memory elements. An attractive approach lies in combining the sensor and memory elements within a soft and flexible material, which enables them to work cooperatively. Liu et al.
+45 realized this concept in a mechanical hybrid material (Fig.
+3c ), where resistance-switching devices serve as memory elements on rigid polymerized photoresist (SU-8) islands, which are embedded in stretchable polydimethylsiloxane (PDMS). Microcracks in a thin gold film evaporated onto the PDMS act as both an electrode and a stress sensor at the same time. Attaching this motion memory device to the joints of the limbs allows for detection of human motion based on changes in stress and subsequent information storage.
+Self-healing is an important property as it allows a material to permanently restore its original properties after a disturbance/fracture and is a way of erasing memory of past wounding. Oh et al.
+46 reported an organic thin-film transistor fabricated from a stretchable semiconducting polymer that is operational even when folded, twisted and stretched on a moving human limb (Fig.
+3d ). Remarkably, this polymer is capable of self-healing after solvent and heat treatment with almost fully recovered field-effect mobility. Moreover, materials that self-heal without external intervention have been developed 47 , 48 , 49 (see Fig.
+3e ). A self-healing ability greatly improves the durability of the material and eliminates the need for costly overdesigning.
+Information processing usually involves counting, which requires a sensing capability as well as a memory element to store the latest value. Beyer et al.
+50 present a design concept for counting matter based on subsequent biochemical reactions. The actual counting procedure is realized by the release of a specific output molecule or enzyme depending on the detected number of light pulses. Another approach towards implementing information processing in soft matter is to involve the inherent properties of the soft material in the computing device 51.
+ The soft body and its complex dynamics feature nonlinearity and memory capabilities, which are used as a reservoir for reservoir computing (see also examples of solid-state matter implementations below). More specifically, the motor that generates the movements of a soft robot and the sensors that monitor the bending of the soft body together comprise the reservoir. By weighing and summing up the values the corresponding output of the computing device is generated. This method seems a promising way to make use of readily available properties of soft robots for computational resources.
+Materials that can be conditioned to learn a desired new response are extremely promising. Zhang et al.
+52 developed a hydrogel capable of associative learning, which is one of the simplest form of learning. In the hydrogel embedded and initially randomly distributed gold nanoparticles act as memory elements. Initially, the gel−sol transition, which is naturally triggered by heating, does not occur when the gel is exposed solely to laser irradiation. Simultaneous exposure to light and heat induces a photoacid-driven pH-change, which in turn leads to a clustering of the nanoparticles in the gel, producing a higher absorbance and thus an increase in temperature upon illumination. Consequently, the previously neutral (no effect) light stimulus now leads to melting of the gel. In a follow-up study, the authors demonstrate the association of light irradiation with the intrinsically effective stimulus of heating within a thermoresponsive liquid-crystal polymer network 53.
+ The actuator responds to the stimuli via bending, which allows the locomotion of microrobots or the closing of grippers (Fig.
+3f ). Even a selective response to various colours (wavelengths) of irradiation is achieved if different dyes are used as the absorbing memory element. In this form of material, the learned response to a previously neutral stimulus is limited to one stimulus, which follows the same pathway as the initially known stimulus. Thus, the behaviour is algorithmically programmed within a limited parameter range and does not allow for conditioning of a response to an arbitrary input, which would constitute intelligent behaviour.
+Adaptive soft matter Going beyond responsive examples to adaptive soft matter, He et al.
+21 demonstrate a strategy for creating autonomous homeostatic materials, which in addition to sensing and actuation also include precisely tailored chemo-mechano-chemical feedback loops (that is, a network) (Fig.
+4a ). A bilayer thin film containing hydrogel-supported, catalyst-bearing microstructures is separated from a reactant-containing ‘nutrient’ layer. Reconfiguration of the gel in response to a temperature change induces the reversible actuation of the microstructures into and out of the nutrient layer and serves as a highly precise on/off switch for chemical reactions. Exploiting a continuous feedback loop between an exothermic catalytic reaction in the nutrient layer and the mechanical action of the temperature-responsive gel results in an autonomous, self-sustained system that maintains temperature within a narrow range.
+a , Temperature regulation mechanism around a certain temperature, the lower critical solution temperature (LCST), of a self-regulated mechanochemical adaptively reconfigurable tunable system 21.
+ A temperature-responsive hydrogel, which triggers the degree of bending of micro-pillars, is coupled with an exothermic reaction that takes place when the tips of the micro-pillars reach into the upper reactant-rich layer. ‘M’ denotes a mechanical action, whereas ‘C’ stands for a chemical reaction.
+b , Schematic mechanism of oscillatory motion of microcapsules in a water column, which contain both catalase and glucose oxidase (GO x ). Reactions in hydrogen peroxide or glucose-rich zones realized by dialysis membranes (DM) at the top and bottom of the column lead to a growth or shrinkage, respectively, of an encapsulated oxygen bubble and hence to a change in buoyant forces 54.
+ Icons show which of the four key functional elements are present. Both examples feature sensors, actuators and a network and thus can be classified as adaptive matter, according to our definition.
+Full size image Another implementation of adaptive soft matter that contains an elegant combination of sensing and actuation coupled by a reaction network is the model system for autonomous particle motility shown by Kumar et al.
+54.
+ Organoclay/DNA microcapsules loaded with the enzymes catalase and glucose oxidase regulate the growth or shrinkage of encapsulated oxygen bubbles in hydrogen peroxide or glucose-rich environments, respectively. The counteractive reactions lead to an antagonistic regulation of the size of the oxygen bubbles and hence of the effective buoyant force (Fig.
+4b ). Thus, an enzyme-powered oscillatory vertical movement of colloids in a water column can be achieved.
+Garrad et al.
+55 demonstrate an integrated soft-matter computational system for both analogous and digital computation, which should enable the realization of adaptive, compliant robots. Opposing conductive fluid receptors are connected when a conductive fluid is injected into the soft matter tube, which is located between the receptors. The electrical current generated can be used to control, for example, actuators of soft robots.
+Solid-state matter implementations Whereas sensing and actuation in synthetic matter can be prominently implemented using self-organized and soft materials, the realization of matter-based information processing seems to be more challenging. Instead, the technology for information processing in solid-state materials is much more advanced, which provides attractive opportunities. In fact, physical and chemical processes themselves can be thought of as a form of computation. Although conventional computers are built from physical devices (such as transistors), they are based on a symbolic notion of computation (that is, on whether a voltage is below or above a certain threshold). Unconventional computing goes beyond the standard models of computing. Living organisms, in particular, can be considered as unconventional computing systems. A close look at complex organisms spawned by nature reveals that the workflows of information processing build directly on physical principles 56.
+ It was therefore suggested by Feynman 57 and later by Yoshihito 58 to use matter itself for computing. As Feynman puts it: “why should it take an infinite amount of logic to figure out what one tiny piece of space-time is going to do?” 57.
+ Programmable and highly interconnected networks are particularly well suited to carrying out these tasks and brain-inspired or neuromorphic hardware aims at providing physical realizations. Although in the semiconductor industry top-down fabrication, using established (inorganic) materials, has enabled neuromorphic hardware (for example, IBM’s TrueNorth 59 and Google’s Tensor Processing Unit 60 ), bottom-up approaches exploiting nanomaterials may provide pathways towards unconventional, efficient computation. In combination with the aforementioned matter implementations, hybrid approaches may eventually lead to the realization of intelligent matter.
+Neuromorphic materials Phase-change materials have been a key enabler for brain-inspired or neuromorphic hardware, allowing for the realization of artificial neurons and synapses in artificial neural networks 61.
+ Their programmability in either an amorphous or a crystalline state via Joule heating is exploited to realize fast, accessible, room-temperature, non-volatile memory devices (Fig.
+5a ). Their memristive behaviour—that is, the continuous transition between the two phases—and the cumulative change in crystallization, further renders phase-change materials suitable for brain-inspired computation 61 , 62 , where they typically embody synaptic weights and/or the nonlinear activation function. Electrical devices rely on the dependence of the electrical resistance on the material’s state, and use an applied electrical voltage for both switching and reading out 63.
+ In contrast, in photonic devices, a high-power-density light pulse is used to adjust the degree of crystallinity, which changes the absorption of light in the material 64 , 65 , 66 (Fig.
+5b ).
+a , Phase-change materials change their degree of crystallization—and thus their electrical conductance and optical absorption—upon exposure to a certain temperature 61.
+b , Schematic of the phase-change material Ge 2 Sb 2 Te 5 (GST) deposited on an integrated silicon nitride waveguide and the corresponding simulation of the E -field distribution of the transverse electric mode at the surface of the waveguide 66.
+ The optical absorption of the GST is modulated and therefore also the intensity in the photonic waveguide as shown by the E -field distribution before ( \({E}_{{\rm{GST}}}^{{\rm{in}}}\) ) and after ( \({E}_{{\rm{GST}}}^{{\rm{out}}}\) ) the phase-change material deposited on the waveguide. Working as a photonic synapse, the demonstrated system exhibits a sensor, actuator and memory element.
+c , Schematic and transmission electron microscope images of a 2D material stacked into a van der Waals heterostructure 68.
+ These materials exhibit unique and tunable physical properties, which renders them suitable for neuromorphic systems.
+d , The photoresponsivity of a photodiode consisting of the 2D material WSe 2 can be modulated with two-gate electrodes, which are biased at V G and – V G , respectively 79.
+I SC denotes the short-circuit photocurrent of the device. The image sensor presented itself constitutes an artificial neural network with a sensor and memory element, as well as a network.
+e , Schematic representation of an adaptive gold nanoparticle network that can be controlled electronically to represent any Boolean logic gate and hence combines sensor, actuator and network. The upper inset shows an electron microscope image; scale bar is 100 nm (ref.
+80 ).
+f , Schematic representation of the carbon-nanotube-based reservoir computer with input u ( n ) and control voltages V k.
+ The values of the readout electrodes (RO x ) are linearly combined using the learnable weight matrix W out , resulting in output y ( n ) (ref.
+118 ). This system features a sensor, an actuator and a network and can be classified as adaptive matter.
+Full size image Furthermore, two-dimensional (2D) materials, such as graphene, MoS 2 , WSe 2 or hexagonal boron nitride (hBN), have emerged in the realization of neuromorphic devices, allowing compact artificial neural networks to be devised. Consisting of a single atomic layer, they exhibit unique physical properties distinct from their three-dimensional counterparts 67 , 68.
+ When various 2D crystals are stacked, they build so-called van der Waals heterostructures, which enable the engineering of artificial materials and devices with flexible properties 68 , 69 (Fig.
+5c ). In particular, bandgap tuning of 2D materials, that is, engineering the size of the bandgap and even choosing between a direct and indirect gap, offers excellent opportunities for electronic and optoelectronic devices, in particular for emulating hardware mimics of neural tissue. Such changes can be achieved by simply changing the number of stacked layers 70 , 71 , intercalation (see ref.
+72 and references therein) or by inducing a certain amount of strain (by, for example, deforming the supporting substrate) 73.
+ Since 2D materials are atomically thin, devices with high mechanical flexibility can be fabricated. This property is especially useful for wearable devices or implants 74.
+ Importantly, the resistance-switching devices 75 , 76 , memristors 77 and memory devices 78 have been realized that are essential requirements for neuromorphic systems. An intriguing example from Mennel et al.
+79 is an image sensor that simultaneously processes the sensed data. The heart of the device is a WSe 2 photodiode array in which the synaptic weights are stored by modulating the photoresponsivity via multi-gate electrodes (Fig.
+5d ). The sensor can be trained to classify sensed images and, thus, acts as an artificial neural network.
+Using material learning, computational functionality was experimentally realized in disordered nanomaterial networks 80.
+ Arbitrarily interconnected gold nanoparticles functionalized with organic molecules and situated in the centre of eight radially arranged nanoelectrodes could be configured into any Boolean logic gate using artificial evolution at sub-Kelvin temperatures (Fig.
+5e ). The current response of the nanoparticle network depends in a complex, but deterministic, way on the input and configuration voltages applied to the device. This is therefore an adaptive materials system. A more recent study showed that a similar approach could be used to perform nonlinear classification and feature extraction in a disordered network of boron dopant atoms in silicon at 77 K (ref.
+81 ). Instead of realizing functionality through artificial evolution, it was shown that a deep neural network model of a nanoelectronic device can be used to tune the device efficiently to perform various classification tasks via gradient descent 82.
+ Such models are also very useful for studying more complex devices consisting of interconnected nanomaterial networks 83.
+ These works reveal the potential for exploiting the intrinsic physical properties of matter to achieve efficient computing at the nanoscale. The logical next step would be to let these systems operate stand-alone and allow them to self-adapt their potential landscape to solve computational problems. To arrive at such intelligent systems, the element of memory should be introduced.
+Distributed neuromorphic systems In neuromorphic systems, information processing and memory are co-localized, which rigorously distinguishes them from conventional von Neumann architectures. A further merging of the individual components—that is, the computational (pre-)processing and storing of information with the sensing and actuating part—into a processing continuum can be envisioned, which would enable the implementation of distributed neuromorphic systems that mimic the entire human nervous system. Such network architectures require both unconventional processing designs and efficient signalling pathways between the individual components. Promising candidates are optical neural network models, since light itself can carry out the computation by interacting with matter or interfering with itself without the need for predefined pathways. In addition, they allow for data processing at the speed of light (in the medium) and with an extremely low power consumption compared to their electrical counterparts. An illustrative example of an optical neuromorphic system is given by Lin and co-workers 84.
+ The authors present an all-optical deep-learning neural network based on several layers of 3D-printed diffractive optical elements. Each micrometre-sized pixel of a diffractive optical element represents a neuron with a certain reflection or transmission coefficient. Thus, the densely packed neurons build a continuous layer, in which each neuron is connected to the next layer’s neurons by optical diffraction. Hence, when light is propagating through the different diffractive layers, information is simultaneously processed, similar to the pre-processing of data in human skin before it is transferred to the brain via the nervous system. A similar, but integrated example is the inverse-designed metastructure proposed by Estakhri et al.
+85 , which can solve linear integral equations with the help of microwaves. The permittivity of a wide waveguide section is modulated in such a way that the guided modes interfere and perform the desired integral operator. In both examples, communication and computation take place at the site of memory, whereas there is no sensor or actuator element in the above-defined sense. Hirano et al. reported on stochastic resonance without tuning for weak periodic input signals and thermal noise in a self-organized Mn 12 /DNA redox network exhibiting nonlinear current−voltage characteristics 86.
+Feed-forward artificial neural networks are not capable of handling a time-dependent input, whereas recurrent neural networks are. Recurrent neural networks have feedback loops, which make the input of a neuron dependent on its output, introducing dynamic memory 87.
+ Recurrent neural networks may even show self-sustained temporal activation dynamics along its network connections without any input at all. However, recurrent neural networks are computationally very costly and therefore only feasible for small networks 88.
+ A solution is provided by reservoir computing, a term that covers three independently developed methods for creating and training recurrent neural networks: echo state networks 89 , liquid state machines 90 , and the backpropagation-decorrelation on-line learning rule 91.
+ The reservoir computer consists of a randomly connected network, the ‘reservoir’, which is able to create nonlinear projections of inputs into a high-dimensional space. To train these networks, a simple supervised readout layer is used to learn linear combinations of network states. As only the weights of the output layer need to be trained, and the random network itself is untouched during the process, the learning is relatively fast and efficient compared to other neural network methods. Reservoir computing is used for temporal problems such as chaotic time-series analysis or prediction and speech recognition. These tasks require short-term memory, also called fading memory, with a timescale comparable to that of the input signals. This type of memory should not be confused with the long-term memory that we have identified as being one of the required elements for realizing intelligent matter. As long as the weights of the output layer need to be trained in a supervised fashion, these systems do not self-adapt and are therefore not intelligent according to our definition.
+Implementations in dynamic systems include electronic circuits 92 , 93 , a bucket of water 94 , gene regulation networks of Escherichia coli bacteria 95 , 96 , DNA reservoir computing 97 and a cat’s primary visual cortex 98.
+ In addition, there have been demonstrations of reservoir computing in optical systems using delay lines 99 , 100 , 101 , 102 , 103 , memristor devices 104 , 105 , 106 , 107 , 108 , 109 , 110 , atomic switch networks 111 , 112 , 113 as well as carbon nanotube systems 114 , 115 , 116.
+Every matter-based reservoir tends to have its own physical problems. For memristive cross-bar arrays, variation in memristors is considered as a common problem. Alternatively, there are potential drawbacks in the reservoir model used, for example, optoelectronic systems are based on a single nonlinear node and a delay line 103 , 117 , making them sequential in nature and often quite bulky—however, they get around being sequential simply through the speed and bandwidth at which they can operate. Instead of designing a material substrate to be a good reservoir, one can also use material learning to let the reservoir emerge from the system. Different material configurations can have very different reservoir performance 114 , 118 ; see Fig.
+5f.
+ Recent advances in physical reservoir computing are reviewed by Tanaka et al.
+119.
+Outlook and perspectives Challenges ahead lie in developing effective methods for fabrication, upscaling and control of intelligent matter. Intelligent matter must contain dynamic materials that possess a substantial degree of conformational freedom, mobility and exchange of nanoscale components. This implies that the interactions between nanoscale components must be weak enough to be manipulable by external stimuli. Moreover, such matter must show a certain degree of internal organization of nanoscale components, so that feedback and long-term memory can be embedded. Furthermore, to adequately receive and transmit external input, addressability with spatial and temporal precision is needed. These requirements are to a large extent contradictory and potentially incompatible. Evidently, the key elements of intelligent matter are more easily realized separately in different material types, which may be potentially incompatible with other materials. We expect that hybrid solutions will be required to address challenges in incompatibilities.
+Clearly, none of the examples highlighted here exhibits intelligence in the sense of perceiving information, storing it and learning from it to express adaptive actions and behaviour. So, what could a roadmap towards intelligent matter look like? First, we will need demonstrators and design rules for the development of adaptive matter with inherent feedback pathways by integrating nanoscale building blocks that enable reconfigurability and adaptivity of self-assembled and top-down fabricated nanostructures. Second, we must proceed from adaptive matter that can process feedback to matter with learning capability (‘learning matter’). These materials will be empowered by embedded memory functionality, material-based learning algorithms and sensing interfaces. Third, we must proceed from learning matter to truly intelligent matter, which receives input from the environment via sensory interfaces, shows a desired response encoded via embedded memory and artificial networks, and can respond to external stimuli via embedded transducers. The development of intelligent matter will thus require a concerted, interdisciplinary and long-term research effort.
+Ultimately, complete system-level demonstrations are necessary to expedite the use of intelligent matter given that overall performance is the collective response of components and connections. A wide variety of technological applications of intelligent matter can be foreseen and the co-integration with existing AI and neuromorphic hardware will be particularly attractive. In this respect, bio-compatible implementations will also be required for applications in the life sciences and bio-cybernetic organisms.
+References Sternberg, R. J.
+Handbook of Intelligence (Cambridge Univ. Press, 2000).
+Sternberg, R. J. Theories of intelligence. In APA Handbook of Giftedness and Talent (eds Pfeiffer, S. I. et al.) 145–161 (American Psychological Association, 2018).
+Legg, S. & Hutter, M. Universal intelligence: a definition of machine intelligence.
+Minds Mach.
+17 , 391–444 (2007).
+Article Google Scholar Amato, F. et al. Artificial neural networks in medical diagnosis.
+J. Appl. Biomed.
+11 , 47–58 (2013).
+Article CAS Google Scholar Lane, N. D., Bhattacharya, S., Mathur, A., Forlivesi, C. & Kawsar, F. Squeezing deep learning into mobile and embedded devices.
+IEEE Pervasive Comput.
+16 , 82–88 (2017).
+Article Google Scholar Hecht, J. Lidar for self-driving cars.
+Opt. Photonics News 29 , 26–33 (2018).
+Article ADS Google Scholar Kanao, K. et al. Highly selective flexible tactile strain and temperature sensors against substrate bending for an artificial skin.
+RSC Adv.
+5 , 30170–30174 (2015).
+Article ADS CAS Google Scholar Kim, J. et al. Stretchable silicon nanoribbon electronics for skin prosthesis.
+Nat. Commun.
+5 , 5747 (2014).
+Article CAS PubMed ADS Google Scholar Fernández-Caramés, T. M. & Fraga-Lamas, P. Towards the internet-of-smart-clothing: a review on IoT wearables and garments for creating intelligent connected E-textiles.
+Electronics 7 , 405 (2018).
+Article Google Scholar Whitesides, G. M. Soft robotics.
+Angew. Chem. Int. Ed.
+57 , 4258–4273 (2018).
+Article CAS Google Scholar Majidi, C. Soft robotics: a perspective—current trends and prospects for the future.
+Soft Robot.
+1 , 5–11 (2014).
+Article Google Scholar Hamdioui, S. et al. Applications of computation-in-memory architectures based on memristive devices. In Proc. 2019 Design, Automation and Test in Europe Conference and Exhibition 486–491, https://doi.org/10.23919/DATE.2019.8715020 (2019).
+Ielmini, D. & Wong, H. S. P. In-memory computing with resistive switching devices.
+Nat. Electron.
+1 , 333–343 (2018).
+Article Google Scholar Sebastian, A., Le Gallo, M., Khaddam-Aljameh, R. & Eleftheriou, E. Memory devices and applications for in-memory computing.
+Nat. Nanotechnol.
+15 , 529–544 (2020).
+Article CAS PubMed ADS Google Scholar Wegst, U. G. K., Bai, H., Saiz, E., Tomsia, A. P. & Ritchie, R. O. Bioinspired structural materials.
+Nat. Mater.
+14 , 23–36 (2015).
+Article CAS PubMed ADS Google Scholar Isaacoff, B. P. & Brown, K. A. Progress in top-down control of bottom-up assembly.
+Nano Lett.
+17 , 6508–6510 (2017).
+Article CAS PubMed ADS Google Scholar McEvoy, M. A. & Correll, N. Materials that couple sensing, actuation, computation, and communication.
+Science 347 , 1261689 (2015).
+Article CAS PubMed Google Scholar Walther, A. Viewpoint: from responsive to adaptive and interactive materials and materials systems: a roadmap.
+Adv. Mater.
+32 , 1905111 (2020).
+Article CAS Google Scholar Merindol, R. & Walther, A. Materials learning from life: concepts for active, adaptive and autonomous molecular systems.
+Chem. Soc. Rev.
+46 , 5588–5619 (2017).
+Article CAS PubMed Google Scholar Urban, M. W.
+Handbook of Stimuli-Responsive Materials (Wiley, 2011).
+He, X. et al. Synthetic homeostatic materials with chemo-mechano-chemical self-regulation.
+Nature 487 , 214–218 (2012).
+An intriguing example of an autonomous, homeostatic material system based on chemo-mechanical feedback loops.
+Article CAS PubMed ADS Google Scholar Anderson, C., Theraulaz, G. & Deneubourg, J. L. Self-assemblages in insect societies.
+Insectes Soc.
+49 , 99–110 (2002).
+Article Google Scholar Lopez, U., Gautrais, J., Couzin, I. D. & Theraulaz, G. From behavioural analyses to models of collective motion in fish schools.
+Interface Focus 2 , 693–707 (2012).
+Article PubMed PubMed Central Google Scholar Bajec, I. L. & Heppner, F. H. Organized flight in birds.
+Anim. Behav.
+78 , 777–789 (2009).
+Article Google Scholar Hinchey, M. G., Sterritt, R. & Rouff, C. Swarms and swarm intelligence.
+Computer 40 , 111–113 (2007).
+Article Google Scholar Rubenstein, M., Cornejo, A. & Nagpal, R. Programmable self-assembly in a thousand-robot swarm.
+Science 345 , 795–799 (2014).
+Article CAS PubMed ADS Google Scholar Yu, J., Wang, B., Du, X., Wang, Q. & Zhang, L. Ultra-extensible ribbon-like magnetic microswarm.
+Nat. Commun.
+9 , 3260 (2018).
+This article demonstrates how paramagnetic nanoparticles self-organize in a microswarm that can pass obstacles and how its locomotion can be controlled by applying oscillating magnetic fields.
+Article PubMed PubMed Central ADS CAS Google Scholar Palacci, J., Sacanna, S., Steinberg, A. P., Pine, D. J. & Chaikin, P. M. Living crystals of light-activated colloidal surfers.
+Science 339 , 936–940 (2013).
+Article CAS PubMed ADS Google Scholar Yan, J., Bloom, M., Bae, S. C., Luijten, E. & Granick, S. Linking synchronization to self-assembly using magnetic Janus colloids.
+Nature 491 , 578–581 (2012).
+Article CAS PubMed ADS Google Scholar Liang, X. et al. Hierarchical microswarms with leader–follower-like structures: electrohydrodynamic self-organization and multimode collective photoresponses.
+Adv. Funct. Mater.
+30 , 1908602 (2020).
+Article CAS Google Scholar Mou, F. et al. Phototactic flocking of photochemical micromotors.
+iScience 19 , 415–424 (2019).
+This study shows flocking behaviour of synthesized spherical microparticles, which can execute transporting tasks along predefined pathways or bypass obstacles.
+Article PubMed PubMed Central ADS Google Scholar Dai, B. et al. Programmable artificial phototactic microswimmer.
+Nat. Nanotechnol.
+11 , 1087–1092 (2016).
+Article CAS PubMed ADS Google Scholar Tagliazucchi, M., Weiss, E. A. & Szleifer, I. Dissipative self-assembly of particles interacting through time-oscillatory potentials.
+Proc. Natl Acad. Sci. USA 111 , 9751–9756 (2014).
+Article CAS PubMed ADS PubMed Central Google Scholar Carnall, J. M. A. et al. Mechanosensitive self-replication driven by self-organization.
+Science 327 , 1502–1506 (2010).
+Article CAS PubMed ADS Google Scholar Sadownik, J. W., Mattia, E., Nowak, P. & Otto, S. Diversification of self-replicating molecules.
+Nat. Chem.
+8 , 264–269 (2016).
+Article CAS PubMed Google Scholar Monreal Santiago, G., Liu, K., Browne, W. R. & Otto, S. Emergence of light-driven protometabolism upon recruitment of a photocatalytic cofactor by a self-replicator.
+Nat. Chem.
+12 , 603–607 (2020).
+Article CAS PubMed Google Scholar Rus, D. & Tolley, M. T. Design, fabrication and control of soft robots.
+Nature 521 , 467–475 (2015).
+Article CAS PubMed ADS Google Scholar Zhu, B. et al. Skin-inspired haptic memory arrays with an electrically reconfigurable architecture.
+Adv. Mater.
+28 , 1559–1566 (2016).
+Article CAS PubMed Google Scholar Son, D. et al. Multifunctional wearable devices for diagnosis and therapy of movement disorders.
+Nat. Nanotechnol.
+9 , 397–404 (2014).
+Article CAS PubMed ADS Google Scholar Miriyev, A., Stack, K. & Lipson, H. Soft material for soft actuators.
+Nat. Commun.
+8 , 596 (2017).
+Article PubMed PubMed Central ADS CAS Google Scholar Zhao, Z., Wang, C., Yan, H. & Liu, Y. Soft robotics programmed with double crosslinking DNA hydrogels.
+Adv. Funct. Mater.
+29 , 1905911 (2019).
+This article shows impressively how to translate nanometre-scale DNA self-assembly into macroscopic movements of soft materials, an encouraging achievement for soft robotics.
+Article CAS Google Scholar Yang, H. et al. 3D printed photoresponsive devices based on shape memory composites.
+Adv. Mater.
+29 , 1701627 (2017).
+Article CAS Google Scholar Lai, Y. C. et al. Actively perceiving and responsive soft robots enabled by self-powered, highly extensible, and highly sensitive triboelectric proximity- and pressure-sensing skins.
+Adv. Mater.
+30 , 1801114 (2018).
+This work presents soft robots driven by self-generated electricity via the triboelectric effect, which can sense and embrace close objects.
+Article CAS Google Scholar Schroeder, T. B. H. et al. An electric-eel-inspired soft power source from stacked hydrogels.
+Nature 552 , 214–218 (2017).
+Article CAS PubMed PubMed Central ADS Google Scholar Liu, Y. et al. Stretchable motion memory devices based on mechanical hybrid materials.
+Adv. Mater.
+29 , 1701780 (2017).
+Article CAS Google Scholar Oh, J. Y. et al. Intrinsically stretchable and healable semiconducting polymer for organic transistors.
+Nature 539 , 411–415 (2016).
+Article CAS PubMed ADS Google Scholar Urban, M. W. et al. Key-and-lock commodity self-healing copolymers.
+Science 225 , 220–225 (2018).
+A remarkable example for an advanced soft material with self-healing capabilities.
+Article ADS CAS Google Scholar Chen, Y., Kushner, A. M., Williams, G. A. & Guan, Z. Multiphase design of autonomic self-healing thermoplastic elastomers.
+Nat. Chem.
+4 , 467–472 (2012).
+Article CAS PubMed Google Scholar Li, C. H. et al. A highly stretchable autonomous self-healing elastomer.
+Nat. Chem.
+8 , 618–624 (2016).
+Article CAS PubMed Google Scholar Beyer, H. M. et al. Synthetic biology makes polymer materials count.
+Adv. Mater.
+30 , 1800472 (2018).
+Article CAS Google Scholar Nakajima, K., Hauser, H., Li, T. & Pfeifer, R. Information processing via physical soft body.
+Sci. Rep.
+5 , 10487 (2015).
+Article PubMed PubMed Central ADS Google Scholar Zhang, H., Zeng, H., Priimagi, A. & Ikkala, O. Programmable responsive hydrogels inspired by classical conditioning algorithm.
+Nat. Commun.
+10 , 3267 (2019).
+Article PubMed PubMed Central ADS CAS Google Scholar Zeng, H., Zhang, H., Ikkala, O. & Priimagi, A. Associative learning by classical conditioning in liquid crystal network actuators.
+Matter 2 , 194–206 (2020).
+Associative learning is realized in a liquid crystal network material via a conditioning process, where an initially neutral light stimulus is asscociated with heating.
+Article PubMed PubMed Central Google Scholar Kumar, B. V. V. S. P., Patil, A. J. & Mann, S. Enzyme-powered motility in buoyant organoclay/DNA protocells.
+Nat. Chem.
+10 , 1154–1163 (2018).
+Article CAS PubMed Google Scholar Garrad, M., Soter, G., Conn, A. T., Hauser, H. & Rossiter, J. A soft matter computer for soft robots.
+Sci. Robot.
+4 , eaaw6060 (2019).
+The authors propose a computational system integrated into a soft material, which, inspired by biological systems, tranfers information via a fluid perfusing through the system.
+Article PubMed Google Scholar Miller, J. F. & Downing, K. Evolution in materio: looking beyond the silicon box. In Proc. NASA/DoD Conference on Evolvable Hardware 167–176, https://doi.org/10.1109/EH.2002.1029882 (2002).
+Feynman, R. P.
+The Character of Physical Law (MIT Press, 1967).
+Yoshihito, A. Information processing using intelligent materials - information-processing architectures for material processors.
+J. Intell. Mater. Syst. Struct.
+5 , 418–423 (1994).
+Article Google Scholar Merolla, P. A. et al. A million spiking-neuron integrated circuit with a scalable communication network and interface.
+Science 345 , 668–673 (2014).
+Article CAS ADS PubMed Google Scholar Metz, C. Google built its very own chips to power its AI bots.
+Wired https://www.wired.com/2016/05/google-tpu-custom-chips/ (accessed 10 July 2020).
+Zhang, W., Mazzarello, R., Wuttig, M. & Ma, E. Designing crystallization in phase-change materials for universal memory and neuro-inspired computing.
+Nat. Rev. Mater.
+4 , 150–168 (2019).
+Article CAS ADS Google Scholar Sebastian, A. et al. Tutorial: brain-inspired computing using phase-change memory devices.
+J. Appl. Phys.
+124 , 111101 (2018).
+Article ADS CAS Google Scholar Boybat, I. et al. Neuromorphic computing with multi-memristive synapses.
+Nat. Commun.
+9 , 2514 (2018).
+Article PubMed PubMed Central ADS CAS Google Scholar Feldmann, J., Youngblood, N., Wright, C. D., Bhaskaran, H. & Pernice, W. H. P. All-optical spiking neurosynaptic networks with self-learning capabilities.
+Nature 569 , 208–214 (2019).
+Article CAS PubMed PubMed Central ADS Google Scholar Ríos, C. et al. Integrated all-photonic non-volatile multi-level memory.
+Nat. Photon.
+9 , 725–732 (2015).
+Article ADS CAS Google Scholar Cheng, Z., Ríos, C., Pernice, W. H. P., David Wright, C. & Bhaskaran, H. On-chip photonic synapse.
+Sci. Adv.
+3 , e1700160 (2017).
+This article shows an artificial synapse consisting of a photonic waveguide and a phase-change material, which paves the way for on-chip neuromorphic computing.
+Article PubMed PubMed Central ADS CAS Google Scholar Gupta, A., Sakthivel, T. & Seal, S. Recent development in 2D materials beyond graphene.
+Prog. Mater. Sci.
+73 , 44–126 (2015).
+Article CAS Google Scholar Novoselov, K. S., Mishchenko, A., Carvalho, A. & Castro Neto, A. H. 2D materials and van der Waals heterostructures.
+Science 353 , aac9439 (2016).
+Article CAS PubMed Google Scholar Geim, A. K. & Grigorieva, I. V. Van der Waals heterostructures.
+Nature 499 , 419–425 (2013).
+Article CAS PubMed Google Scholar Mak, K. F., Lee, C., Hone, J., Shan, J. & Heinz, T. F. Atomically thin MoS 2 : a new direct-gap semiconductor.
+Phys. Rev. Lett.
+105 , 136805 (2010).
+Article PubMed ADS CAS Google Scholar Splendiani, A. et al. Emerging photoluminescence in monolayer MoS 2.
+Nano Lett.
+10 , 1271–1275 (2010).
+Article CAS PubMed ADS Google Scholar Wan, J. et al. Tuning two-dimensional nanomaterials by intercalation: materials, properties and applications.
+Chem. Soc. Rev.
+45 , 6742–6765 (2016).
+Article CAS PubMed Google Scholar Zeng, M. et al. Bandgap tuning of two-dimensional materials by sphere diameter engineering.
+Nat. Mater.
+19 , 528–533 (2020).
+Article CAS PubMed ADS Google Scholar Choi, C. et al. Human eye-inspired soft optoelectronic device using high-density MoS 2 -graphene curved image sensor array.
+Nat. Commun.
+8 , 1664 (2017).
+Article PubMed PubMed Central ADS CAS Google Scholar Shi, Y. et al. Electronic synapses made of layered two-dimensional materials.
+Nat. Electron.
+1 , 458–465 (2018).
+Article Google Scholar He, C. et al. Artificial synapse based on van der Waals heterostructures with tunable synaptic functions for neuromorphic computing.
+ACS Appl. Mater. Interfaces 12 , 11945–11954 (2020).
+Article CAS PubMed Google Scholar Park, H., Mastro, M. A., Tadjer, M. J. & Kim, J. Programmable multilevel memtransistors based on van der Waals heterostructures.
+Adv. Electron. Mater.
+5 , 1900333 (2019).
+Article CAS Google Scholar Liu, C. et al. A semi-floating gate memory based on van der Waals heterostructures for quasi-non-volatile applications.
+Nat. Nanotechnol.
+13 , 404–410 (2018).
+Article CAS PubMed ADS Google Scholar Mennel, L. et al. Ultrafast machine vision with 2D material neural network image sensors.
+Nature 579 , 62–66 (2020).
+The presented image sensor based on a 2D material constitutes at the same time an artificial neural network.
+Article CAS PubMed ADS Google Scholar Bose, S. K. et al. Evolution of a designless nanoparticle network into reconfigurable Boolean logic.
+Nat. Nanotechnol.
+10 , 1048–1052 (2015).
+Computational functionality is experimentally realized in a disordered nanomaterial network consisting of arbitrarily interconnected, functionalized nanoparticles.
+Article CAS PubMed ADS Google Scholar Chen, T. et al. Classification with a disordered dopant-atom network in silicon.
+Nature 577 , 341–345 (2020).
+Article CAS PubMed ADS Google Scholar Ruiz Euler, H.-C. et al. A deep-learning approach to realising functionality in nanoelectronic devices.
+Nat. Nanotechnol.
+15 , 992–998 (2020).
+Article PubMed ADS CAS Google Scholar Ruiz Euler, H.-C. et al. Dopant network processing units: towards efficient neural-network emulators with high-capacity nanoelectronic nodes. Preprint at http://arxiv.org/abs/2007.12371 (2020).
+Lin, X. et al. All-optical machine learning using diffractive deep neural networks.
+Science 361 , 1004–1008 (2018).
+Article MathSciNet CAS PubMed MATH ADS Google Scholar Estakhri, N. M., Edwards, B. & Engheta, N. Inverse-designed metastructures that solve equations.
+Science 363 , 1333–1338 (2019).
+Article MathSciNet MATH ADS CAS Google Scholar Hirano, Y., Segawa, Y., Kuroda-Sowa, T., Kawai, T. & Matsumoto, T. Conductance with stochastic resonance in Mn 12 redox network without tuning.
+Appl. Phys. Lett.
+104 , 233104 (2014).
+Article ADS CAS Google Scholar Hopfield, J. J. Neural networks and physical systems with emergent collective computational abilities.
+Proc. Natl Acad. Sci. USA 79 , 2554–2558 (1982).
+Article MathSciNet CAS PubMed MATH ADS PubMed Central Google Scholar Lukoševičius, M. & Jaeger, H. Reservoir computing approaches to recurrent neural network training.
+Comput. Sci. Rev.
+3 , 127–149 (2009).
+Article MATH Google Scholar Jaeger, H.
+The “Echo State” Approach to Analysing and Training Recurrent Neural Networks.
+ GMD Report 148 http://www.faculty.jacobs-university.de/hjaeger/pubs/EchoStatesTechRep.pdf (German National Research Institute for Computer Science, 2001).
+Maass, W., Natschläger, T. & Markram, H. Real-time computing without stable states: a new framework for neural computation based on perturbations.
+Neural Comput.
+14 , 2531–2560 (2002).
+Article PubMed MATH Google Scholar Steil, J. J. Backpropagation-decorrelation: online recurrent learning with O(N) complexity. In IEEE Int. Conf. on Neural Networks 2 , 843–848 (IEEE, 2004).
+Schürmann, F., Meier, K. & Schemmel, J. Edge of chaos computation in mixed-mode VLSI—a hard liquid. In Advances in Neural Information Processing Systems 17, 1201–1208 (2004).
+Schrauwen, B., D’Haene, M., Verstraeten, D. & Van Campenhout, J. Compact hardware liquid state machines on FPGA for real-time speech recognition.
+Neural Netw.
+21 , 511–523 (2008).
+Article PubMed Google Scholar Fernando, C. & Sojakka, S. Pattern recognition in a bucket. In Proc. ECAL 588–597 (2003).
+Jones, B., Stekel, D., Rowe, J. & Fernando, C. Is there a liquid state machine in the bacterium Escherichia coli ? In Proc. 2007 IEEE Symp. Artif. Life (CI-ALife 2007) 187–191, https://doi.org/10.1109/ALIFE.2007.367795 (2007).
+Dai, X. in Advances in Neural Networks Vol. 3174 (eds Yin, F. L. et al.) 519–524 (Springer, 2004).
+Goudarzi, A., Lakin, M. R. & Stefanovic, D. DNA reservoir computing: a novel molecular computing approach. In DNA Computing and Molecular Programming (eds Soloveichik D. & Yurke, B.) Vol. 8141, 76–89 (Springer, 2013).
+Nikolić, D., Haeusler, S., Singer, W. & Maass, W. Temporal dynamics of information content carried by neurons in the primary visual cortex. In Advances in Neural Information Processing Systems 1041–1048, https://doi.org/10.7551/mitpress/7503.003.0135 (2007).
+Duport, F., Smerieri, A., Akrout, A., Haelterman, M. & Massar, S. Fully analogue photonic reservoir computer.
+Sci. Rep.
+6 , 22381 (2016).
+Article CAS PubMed PubMed Central ADS Google Scholar Larger, L. et al. Photonic information processing beyond Turing: an optoelectronic implementation of reservoir computing.
+Opt. Express 20 , 3241 (2012).
+Article CAS PubMed ADS Google Scholar Vandoorne, K. et al. Experimental demonstration of reservoir computing on a silicon photonics chip.
+Nat. Commun.
+5 , 3541 (2014).
+Article PubMed ADS CAS Google Scholar Larger, L. et al. High-speed photonic reservoir computing using a time-delay-based architecture: million words per second classification.
+Phys. Rev. X 7 , 011015 (2017).
+Google Scholar Appeltant, L. et al. Information processing using a single dynamical node as complex system.
+Nat. Commun.
+2 , 468 (2011).
+Article CAS PubMed ADS Google Scholar Kulkarni, M. S. Memristor-based reservoir computing. In 2012 IEEE/ACM Int. Symp. on Nanoscale 226–232, https://doi.org/10.1145/2765491.2765531 (IEEE/ACM, 2012).
+Bürger, J. & Teuscher, C. Variation-tolerant computing with memristive reservoirs. In 2013 IEEE/ACM Int. Symp. on Nanoscale Architectures (NANOARCH) 1–6, https://doi.org/10.1109/NanoArch.2013.6623028 (IEEE/ACM, 2013).
+Merkel, C., Saleh, Q., Donahue, C. & Kudithipudi, D. Memristive reservoir computing architecture for epileptic seizure detection.
+Proc. Comput. Sci.
+41 , 249–254 (2014).
+Article Google Scholar Hassan, A. M., Li, H. H. & Chen, Y. Hardware implementation of echo state networks using memristor double crossbar arrays. In 2017 Int. Joint Conf. on Neural Networks (IJCNN) 2171–2177, https://doi.org/10.1109/IJCNN.2017.7966118 (IEEE, 2017).
+Soures, N., Hays, L. & Kudithipudi, D. Robustness of a memristor based liquid state machine. In 2017 Int. Joint Conf. on Neural Networks (IJCNN) 2414–2420, https://doi.org/10.1109/IJCNN.2017.7966149 (IEEE, 2017).
+Du, C. et al. Reservoir computing using dynamic memristors for temporal information processing.
+Nat. Commun.
+8 , 2204 (2017).
+Article PubMed PubMed Central ADS CAS Google Scholar Moon, J. et al. Temporal data classification and forecasting using a memristor-based reservoir computing system.
+Nat. Electron.
+2 , 480–487 (2019).
+Article Google Scholar Sillin, H. O. et al. A theoretical and experimental study of neuromorphic atomic switch networks for reservoir computing.
+Nanotechnology 24 , 384004 (2013).
+Article CAS PubMed Google Scholar Demis, E. C. et al. Atomic switch networks—nanoarchitectonic design of a complex system for natural computing.
+Nanotechnology 26 , 204003 (2015).
+Article CAS PubMed ADS Google Scholar Demis, E. C. et al. Nanoarchitectonic atomic switch networks for unconventional computing.
+Jpn. J. Appl. Phys.
+55 , 1102B2 (2016).
+Article CAS Google Scholar Dale, M., Stepney, S., Miller, J. F. & Trefzer, M. Reservoir computing in materio: an evaluation of configuration through evolution. In 2016 IEEE Symp. Ser. Comput. Intell. SSCI 2016 https://doi.org/10.1109/SSCI.2016.7850170 (IEEE, 2016).
+Dale, M., Miller, J. F. & Stepney, S. Reservoir computing as a model for in-materio computing. In Advances in Unconventional Computing (ed. Adamatzky, A.) 533–571 (Springer, 2017).
+Tanaka, H. et al. A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate.
+Nat. Commun.
+9 , 2693 (2018).
+Article PubMed PubMed Central ADS CAS Google Scholar Appeltant, L., Van Der Sande, G., Danckaert, J. & Fischer, I. Constructing optimized binary masks for reservoir computing with delay systems.
+Sci. Rep.
+4 , 3629 (2015).
+Article CAS Google Scholar Dale, M., Miller, J. F., Stepney, S. & Trefzer, M. A. Evolving Carbon nanotube reservoir computers. In Unconventional Computation and Natural Computation (eds Amos, M. & Condon, A.) 49–61 (Springer, 2016).
+This study demonstrates how physical media can be exploited as a reservoir for machine-learning capabilities.
+Tanaka, G. et al. Recent advances in physical reservoir computing: a review.
+Neural Netw.
+115 , 100–123 (2019).
+Article PubMed Google Scholar Download references Acknowledgements This research was supported by the Volkswagen Foundation through the Momentum program (grant A126874). This work was further funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) through project 433682494 – SFB 1459. The project has further received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement number 101017237.
+Author information Authors and Affiliations Institute of Physics, University of Münster, Münster, Germany C. Kaspar, W. G. van der Wiel & W. H. P. Pernice Organic Chemistry Institute, University of Münster, Münster, Germany B. J. Ravoo Center for Soft Nanoscience, University of Münster, Münster, Germany B. J. Ravoo & W. H. P. Pernice NanoElectronics Group, MESA+ Institute for Nanotechnology and BRAINS Center for Brain-Inspired Nano Systems, University of Twente, Enschede, The Netherlands W. G. van der Wiel Institute of Physiological Chemistry and Pathobiochemistry, University of Münster, Münster, Germany S. V. Wegner Authors C. Kaspar View author publications You can also search for this author in PubMed Google Scholar B. J. Ravoo View author publications You can also search for this author in PubMed Google Scholar W. G. van der Wiel View author publications You can also search for this author in PubMed Google Scholar S. V. Wegner View author publications You can also search for this author in PubMed Google Scholar W. H. P. Pernice View author publications You can also search for this author in PubMed Google Scholar Contributions All authors discussed the topic and wrote the manuscript together.
+Corresponding author Correspondence to W. H. P. Pernice.
+Ethics declarations Competing interests The authors declare no competing interests.
+Additional information Peer review information Nature thanks the anonymous reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Rights and permissions Reprints and Permissions About this article Cite this article Kaspar, C., Ravoo, B.J., van der Wiel, W.G.
 et al.
-Isolation of MERS-related coronavirus from lesser bamboo bats that uses DPP4 and infects human-DPP4-transgenic mice.
-Nat Commun12,216 (2021). https://doi.org/10.1038/s41467-020-20458-9Download citationReceived:27 July 2020Accepted:27 November 2020Published:11 January 2021DOI:https://doi.org/10.1038/s41467-020-20458-9Share this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
-Provided by the Springer Nature SharedIt content-sharing initiativeFurther readingThe taxonomy, host range and pathogenicity of coronaviruses and other viruses in the Nidovirales orderAnimal Diseases(2021)CommentsBy submitting a comment you agree to abide by ourTermsandCommunity Guidelines. If you find something abusive or that does not comply with our terms or guidelines please flag it as inappropriate.
-AdvertisementExplore contentAbout the journalPublish with usSearchAdvanced searchQuick linksNature Communications (Nat Commun)ISSN2041-1723(online)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature LimitedSign up for theNature Briefingnewsletter — what matters in science, free to your inbox daily.
+The rise of intelligent matter.
+Nature 594 , 345–355 (2021). https://doi.org/10.1038/s41586-021-03453-y Download citation Received : 07 August 2020 Accepted : 14 March 2021 Published : 16 June 2021 Issue Date : 17 June 2021 DOI : https://doi.org/10.1038/s41586-021-03453-y Share this article Anyone you share the following link with will be able to read this content: Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiative This article is cited by Self-vectoring electromagnetic soft robots with high operational dimensionality Wenbo Li Huyue Chen Wenming Zhang Nature Communications (2023) Self-regulated underwater phototaxis of a photoresponsive hydrogel-based phototactic vehicle Guodong Hou Xu Zhang Xiaoshi Qian Nature Nanotechnology (2023) Hydrodynamic pursuit by cognitive self-steering microswimmers Segun Goh Roland G. Winkler Gerhard Gompper Communications Physics (2023) Thermally trainable dual network hydrogels Shanming Hu Yuhuang Fang Hang Zhang Nature Communications (2023) Materials and devices as solutions to computational problems in machine learning Nathaniel Joseph Tye Stephan Hofmann Phillip Stanley-Marbell Nature Electronics (2023) Comments By submitting a comment you agree to abide by our Terms and Community Guidelines.
+ If you find something abusive or that does not comply with our terms or guidelines please flag it as inappropriate.
+You have full access to this article via your institution.
+Download PDF Download PDF Advertisement Explore content Research articles News Opinion Research Analysis Careers Books & Culture Podcasts Videos Current issue Browse issues Collections Subjects Follow us on Facebook Follow us on Twitter Sign up for alerts RSS feed About the journal Journal Staff About the Editors Journal Information Our publishing models Editorial Values Statement Journal Metrics Awards Contact Editorial policies History of Nature Send a news tip Publish with us For Authors For Referees Language editing services Submit manuscript Search Quick links Explore articles by subject Find a job Guide to authors Editorial policies Nature ( Nature ) ISSN 1476-4687 (online) ISSN 0028-0836 (print) nature.com sitemap About Nature Portfolio About us Press releases Press office Contact us Discover content Journals A-Z Articles by subject Nano Protocol Exchange Nature Index Publishing policies Nature portfolio policies Open access Author & Researcher services Reprints & permissions Research data Language editing Scientific editing Nature Masterclasses Live Expert Trainer-led workshops Research Solutions Libraries & institutions Librarian service & tools Librarian portal Open research Recommend to library Advertising & partnerships Advertising Partnerships & Services Media kits Branded content Career development Nature Careers Nature Conferences Nature events Regional websites Nature Africa Nature China Nature India Nature Italy Nature Japan Nature Korea Nature Middle East Privacy Policy Use of cookies Your privacy choices/Manage cookies Legal notice Accessibility statement Terms & Conditions Your US state privacy rights © 2023 Springer Nature Limited Close Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+Close Get the most important science stories of the day, free in your inbox.

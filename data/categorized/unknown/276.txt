@@ -1,8 +1,0 @@
-old id = 2636
-Artificial intelligence: Simple mathematical trick could slash AI development time in half | New Scientist
-unknown
-https://www.newscientist.com/article/2311525-simple-mathematical-trick-could-slash-ai-development-time-in-half
-
-NEWSLETTERSSign up to read our regular email newslettersSimple mathematical trick could slash AI development time in halfTraining artificial intelligences to identify faces or digitise text involves thousands or millions of iterations of a two-stage process known as back-propagation, but a new approach could save time, energy and computing powerByMatthew SparkesCutting training time for AI could make face recognition systems more efficientiStockphotoArtificial intelligence is growing ever more capable at increasingly complex tasks, but requires vast amounts of computing power to develop. A more efficient technique could save up to half the time, energy and computer power needed to train an AI model.
-Deep learning models are typically composed of a huge grid of artificial neurons linked by “weights” – computer code that takes an input and passes on a changed output – that represent the synapses linking real neurons. By …Continue readingSubscribe for unlimited digital accessSubscribe now for unlimited accessApp + WebPrint + App + WebExisting subscribers, pleaselog inwith your email address to link your account access.
-Paid quarterlyInclusive of applicable taxes (VAT)AdvertisementMORE FROM NEW SCIENTISTIs DeepMind's Gato AI really a human-level intelligence breakthrough?Claims that girls have a 'natural' aversion to physics are harmfulAI solves complex physics problems by looking for signs of symmetryCryptocurrency mining is still on the rise despite huge price dropsSign up to our newslettersGet the appFOLLOW US

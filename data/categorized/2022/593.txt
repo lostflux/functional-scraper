@@ -1,20 +1,160 @@
-old id = 1862
-Videos - Singularity Hub
+old id = 2370
+Deep learning super sampling - Wikipedia
 2022
-https://singularityhub.com/2022/04/18/theres-now-an-algorithm-to-help-workers-avoid-losing-their-jobs-to-an-algorithm/experts/videos
+https://en.wikipedia.org/wiki/Deep_learning_super_sampling
 
-VideosWeekly Tech News, Original Series, and Exclusive TalksLatestSee the future unfold with the latest and greatest tech videos.
-LatestWatch Boston Dynamics’ Atlas Robot Crush a New Parkour CourseNASA Timelapse Shows X-59 Supersonic Jet Being Built Over Two YearsWatch Robots Make Pizzas From Start to Finish at an Automated...
-Watch a Jet Suit Pilot Fly Onto a Ship to Trial...
-Bitcoin’s Blowing Up, and That’s Good News for Human Rights. Here’s...
-PopularDemocracy Is Ailing. Here’s How We Can Start Reviving ItA One-and-Done CRISPR Gene Therapy Will Aim to Prevent Heart AttacksA 590-Foot-Tall Dam in China Will Be Built Entirely by RobotsMoon Settlers: Scientists Say Plants Will Grow Best in Lunar ‘Soil’ From Fresh Impact...
-SeriesMeet our favorite experts face-to-face in original video interviews and series.
-Future of EverythingArtificial Intelligence | Future of Everything With Jason Silva (Part 6)Nanotechnology | Future of Everything With Jason Silva (Part 5)Biotechnology | Future of Everything With Jason Silva (Part 4)Tech-X-PlanationsHow Will Humans Colonize Space in the Years Ahead?Dark Matter Makes Up a Quarter of the Universe, But What...
-How Is Technology Evolving Over Time?Ray Kurzweil Q&ARay Kurzweil: A Strategy for Keeping the World Safe From AIRay Kurzweil: What Is the Future of Capitalism?Ray Kurzweil: Our Brain Is a Blueprint for the Master AlgorithmAsk An ExpertTechnology and Compassion: A Conversation With the Dalai LamaOur Star Trek-like Future Awaits on This Week’s Episode of Ask...
-Take a Deep Dive into the Brain with This Week’s Episode...
-Talks & InterviewsGet inside access to expert talks and interviews at live events from around the world.
-LatestHow to Unlock Creative Collaboration With Presence and PlayThe Future of Digital Health: Personalized Health Care Beyond the Doctor’s...
-Why Nothing Cuts Through Complexity Like Visual ThinkingThis AI Assistant Helps Demystify Complex ResearchWhy Doing What You Love Matters More Than Getting Top MarksPopularVolvo and DHL Are Partnering on Hub-to-Hub Autonomous TruckingDemocracy Is Ailing. Here’s How We Can Start Reviving ItMoon Settlers: Scientists Say Plants Will Grow Best in Lunar ‘Soil’ From Fresh Impact...
-A 590-Foot-Tall Dam in China Will Be Built Entirely by RobotsGet the latest news from Singularity Hub!Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.
-© 2022 Singularity Education Group. All Rights Reserved.
-Singularity University is not a degree granting institution.
+Main menu Main page Contents Current events Random article About Wikipedia Contact us Donate Help Learn to edit Community portal Recent changes Upload file Search Create account Log in Personal tools Create account Log in learn more Contributions Talk Contents (Top) 1 History Toggle History subsection 1.1 Release history 1.2 Quality presets 2 Implementation Toggle Implementation subsection 2.1 DLSS 1.0 2.2 DLSS 2.0 2.3 DLSS 3.0 2.4 DLSS 3.5 3 Anti-aliasing 4 Architecture 5 See also 6 References 7 External links Toggle the table of contents Deep learning super sampling 13 languages Català Deutsch Eesti Español 한국어 Italiano עברית 日本語 Polski Português Türkçe Українська 中文 Edit links Article Talk English Read Edit View history Tools Read Edit View history What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Wikidata item Download as PDF Printable version Deep learning super sampling ( DLSS ) is a family of real-time deep learning image enhancement and upscaling technologies developed by Nvidia that are exclusive to its RTX line of graphics cards , [1] and available in a number of video games.
+ The goal of these technologies is to allow the majority of the graphics pipeline to run at a lower resolution for increased performance, and then infer a higher resolution image from this that approximates the same level of detail as if the image had been rendered at this higher resolution. This allows for higher graphical settings and/or frame rates for a given output resolution, depending on user preference.
+[2] As of September 2022, the 1st and 2nd generation of DLSS is available on all RTX branded cards from Nvidia in supported titles, while the 3rd generation unveiled at Nvidia's GTC 2022 event is exclusive to Ada Lovelace generation RTX 4000 series graphics cards.
+[3] Nvidia has also introduced Deep learning dynamic super resolution ( DLDSR ), a related and opposite technology where the graphics are rendered at a higher resolution, then downsampled to the native display resolution using an AI-assisted downsampling algorithm to achieve higher image quality than rendering at native resolution.
+[4] History [ edit ] Nvidia advertised DLSS as a key feature of the GeForce RTX 20 series cards when they launched in September 2018.
+[5] At that time, the results were limited to a few video games (namely Battlefield V [6] and Metro Exodus ) because the algorithm had to be trained specifically on each game on which it was applied and the results were usually not as good as simple resolution upscaling.
+[7] [8] In 2019, the video game Control shipped with ray tracing and an improved version of DLSS, which did not use the Tensor Cores.
+[9] [10] In April 2020, Nvidia advertised and shipped an improved version of DLSS named DLSS 2.0 with driver version 445.75. DLSS 2.0 was available for a few existing games including Control and Wolfenstein: Youngblood , and would later be added to many newly released games and game engines such as Unreal Engine [11] and Unity.
+[12] This time Nvidia said that it used the Tensor Cores again, and that the AI did not need to be trained specifically on each game.
+[5] [13] Despite sharing the DLSS branding, the two iterations of DLSS differ significantly and are not backwards-compatible.
+[14] [15] Release history [ edit ] Release Release date Highlights 1.0 February 2019 Predominantly spatial image upscaler, required specifically trained for each game integration, included in Battlefield V and Metro Exodus , among others [6] "1.9" (unofficial name) August 2019 DLSS 1.0 adapted for running on the CUDA shader cores instead of tensor cores, used for Control [9] [5] [16] 2.0 April 2020 An AI accelerated form of TAAU using Tensor Cores, and trained generically [17] 3.0 September 2022 DLSS 3.0, augmented with an optical flow frame-generation algorithm (only available on RTX 40-series GPUs) to double framerate [3] [18] 3.5 September 2023 DLSS 3.5 adds ray reconstruction, replacing multiple denoising algorithms with a single AI model trained on five times more data than DLSS 3.
+[19] [18] Quality presets [ edit ] Quality preset [a] Scale factor [b] Render scale [c] Quality 1.50x 66.7% Balanced 1.70x 58.8% Performance 2.00x 50.0% Ultra Performance since v2.1 3.00x 33.3% ^ The algorithm does not necessarily need to be implemented using these presets; it is possible for the implementer to define custom input and output resolutions.
+^ The linear scale factor used for upsampling the input resolution to the output resolution. For example, a scene rendered at 540p with a 2.00x scale factor would have an output resolution of 1080p.
+^ The linear render scale, compared to the output resolution, that the technology uses to render scenes internally before upsampling. For example, a 1080p scene with a 50% render scale would have an internal resolution of 540p.
+Implementation [ edit ] DLSS 1.0 [ edit ] The first iteration of DLSS is a predominantly spatial image upscaler with two stages, both relying on convolutional auto-encoder neural networks.
+[21] The first step is an image enhancement network which uses the current frame and motion vectors to perform edge enhancement , and spatial anti-aliasing.
+ The second stage is an image upscaling step which uses the single raw, low-resolution frame to upscale the image to the desired output resolution. Using just a single frame for upscaling means the neural network itself must generate a large amount of new information to produce the high resolution output, this can result in slight hallucinations such as leaves that differ in style to the source content.
+[14] The neural networks are trained on a per-game basis by generating a "perfect frame" using traditional supersampling to 64 samples per pixel, as well as the motion vectors for each frame. The data collected must be as comprehensive as possible, including as many levels, times of day, graphical settings, resolutions etc. as possible. This data is also augmented using common augmentations such as rotations, colour changes, and random noise to help generalize the test data. Training is performed on Nvidia's Saturn V supercomputer.
+[15] [22] This first iteration received a mixed response, with many criticizing the often soft appearance and artifacting in certain situations; [23] [7] [6] likely a side effect of the limited data from only using a single frame input to the neural networks which could not be trained to perform optimally in all scenarios and edge-cases.
+[14] [15] Nvidia also demonstrated the ability for the auto-encoder networks to learn the ability to recreate depth-of-field and motion blur , [15] although this functionality has never been included in a publicly released product.
+[ citation needed ] DLSS 2.0 [ edit ] DLSS 2.0 is a temporal anti-aliasing upsampling (TAAU) implementation, using data from previous frames extensively through sub-pixel jittering to resolve fine detail and reduce aliasing. The data DLSS 2.0 collects includes: the raw low-resolution input, motion vectors , depth buffers , and exposure / brightness information.
+[14] It can also be used as a simpler TAA implementation where the image is rendered at 100% resolution, rather than being upsampled by DLSS, Nvidia brands this as DLAA (Deep Learning Anti-Aliasing).
+[24] TAA(U) is used in many modern video games and game engines , [25] however all previous implementations have used some form of manually written heuristics to prevent temporal artifacts such as ghosting and flickering.
+ One example of this is neighborhood clamping which forcefully prevents samples collected in previous frames from deviating too much compared to nearby pixels in newer frames. This helps to identify and fix many temporal artifacts, but deliberately removing fine details in this way is analogous to applying a blur filter , and thus the final image can appear blurry when using this method.
+[14] DLSS 2.0 uses a convolutional auto-encoder neural network [23] trained to identify and fix temporal artifacts, instead of manually programmed heuristics as mentioned above. Because of this, DLSS 2.0 can generally resolve detail better than other TAA and TAAU implementations, while also removing most temporal artifacts. This is why DLSS 2.0 can sometimes produce a sharper image than rendering at higher, or even native resolutions using traditional TAA. However, no temporal solution is perfect, and artifacts (ghosting in particular) are still visible in some scenarios when using DLSS 2.0.
+Because temporal artifacts occur in most art styles and environments in broadly the same way, the neural network that powers DLSS 2.0 does not need to be retrained when being used in different games. Despite this, Nvidia does frequently ship new minor revisions of DLSS 2.0 with new titles, [26] so this could suggest some minor training optimizations may be performed as games are released, although Nvidia does not provide changelogs for these minor revisions to confirm this.
+The main advancements compared to DLSS 1.0 include: Significantly improved detail retention, a generalized neural network that does not need to be re-trained per-game, and ~2x less overhead (~1-2 ms vs ~2-4 ms).
+[14] It should also be noted that forms of TAAU such as DLSS 2.0 are not upscalers in the same sense as techniques such as ESRGAN or DLSS 1.0, which attempt to create new information from a low-resolution source; instead TAAU works to recover data from previous frames, rather than creating new data. In practice, this means low resolution textures in games will still appear low-resolution when using current TAAU techniques. This is why Nvidia recommends game developers use higher resolution textures than they would normally for a given rendering resolution by applying a mip-map bias when DLSS 2.0 is enabled.
+[14] DLSS 3.0 [ edit ] Augments DLSS 2.0 by making use of motion interpolation.
+ The DLSS frame generation algorithm takes two rendered frames from the rendering pipeline, and generates a new frame that smoothly transitions between them. So for every frame rendered, one additional frame is generated.
+[3] DLSS 3.0 makes use of a new generation Optical Flow Accelerator (OFA) included in Ada Lovelace generation RTX GPUs. The new OFA is faster and more accurate than the OFA already available in previous Turing and Ampere RTX GPUs.
+[27] This results in DLSS 3.0 being exclusive for the RTX 4000 Series.
+At release, DLSS 3.0 does not work for VR displays.
+[ citation needed ] DLSS 3.5 [ edit ] DLSS 3.5 adds ray reconstruction, replacing multiple denoising algorithms with a single AI model trained on five times more data than DLSS 3. Ray reconstruction will be available on all RTX GPUs and will first target games with path tracing (aka "full ray tracing"), including Cyberpunk 2077 ' s Phantom Liberty DLC, Portal with RTX , and Alan Wake 2.
+[19] [18] Anti-aliasing [ edit ] DLSS requires and applies its own anti-aliasing method.
+It operates on similar principles to TAA. Like TAA, it uses information from past frames to produce the current frame. Unlike TAA, DLSS does not sample every pixel in every frame. Instead, it samples different pixels in different frames and uses pixels sampled in past frames to fill in the unsampled pixels in the current frame. DLSS uses machine learning to combine samples in the current frame and past frames, and it can be thought of as an advanced and superior TAA implementation made possible by the available tensor cores.
+[14] Nvidia offers deep learning anti-aliasing (DLAA).
+ DLAA provides the same AI-driven anti-aliasing DLSS uses, but without any upscaling or downscaling functionality.
+Architecture [ edit ] With the exception of the shader-core version implemented in Control , DLSS is only available on GeForce RTX 20 , GeForce RTX 30 , GeForce RTX 40 , and Quadro RTX series of video cards, using dedicated AI accelerators called Tensor Cores.
+[23] [28] Tensor Cores are available since the Nvidia Volta GPU microarchitecture , which was first used on the Tesla V100 line of products.
+[29] They are used for doing fused multiply-add (FMA) operations that are used extensively in neural network calculations for applying a large series of multiplications on weights, followed by the addition of a bias. Tensor cores can operate on FP16, INT8, INT4, and INT1 data types. Each core can do 1024 bits of FMA operations per clock, so 1024 INT1, 256 INT4, 128 INT8, and 64 FP16 operations per clock per tensor core, and most Turing GPUs have a few hundred tensor cores.
+[30] The Tensor Cores use CUDA Warp -Level Primitives on 32 parallel threads to take advantage of their parallel architecture.
+[31] A Warp is a set of 32 threads which are configured to execute the same instruction.
+See also [ edit ] FidelityFX Super Resolution – competing upsampling technology from AMD Intel XeSS , an AI-augmented upscaling technology from Intel Deep learning anti-aliasing – Based on DLSS 2.0 anti-aliasing algorithms without any upscaling References [ edit ] ^.
+mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit} "NVIDIA DLSS Technology for Incredible Performance".
+NVIDIA.
+ Retrieved 2022-02-07.
+^ "Nvidia RTX DLSS: Everything you need to know".
+Digital Trends.
+ 2020-02-14.
+ Retrieved 2020-04-05.
+Deep learning super sampling uses artificial intelligence and machine learning to produce an image that looks like a higher-resolution image, without the rendering overhead. Nvidia's algorithm learns from tens of thousands of rendered sequences of images that were created using a supercomputer. That trains the algorithm to be able to produce similarly beautiful images, but without requiring the graphics card to work as hard to do it.
+^ a b c "Introducing NVIDIA DLSS 3".
+NVIDIA.
+ Retrieved 2022-09-20.
+^ Archer, James (17 January 2022).
+"Nvidia DLDSR tested: better visuals and better performance than DSR".
+Rock Paper Shotgun.
+ Retrieved 23 February 2022.
+^ a b c "Nvidia DLSS in 2020: stunning results".
+ techspot.com. 2020-02-26.
+ Retrieved 2020-04-05.
+^ a b c "Battlefield V DLSS Tested: Overpromised, Underdelivered".
+ techspot.com. 2019-02-19.
+ Retrieved 2020-04-06.
+Of course, this is to be expected. DLSS was never going to provide the same image quality as native 4K, while providing a 37% performance uplift. That would be black magic. But the quality difference comparing the two is almost laughable, in how far away DLSS is from the native presentation in these stressful areas.
+^ a b "AMD Thinks NVIDIA DLSS is not Good Enough; Calls TAA & SMAA Better Alternatives".
+ techquila.co.in. 2019-02-15.
+ Retrieved 2020-04-06.
+Recently, two big titles received NVIDIA DLSS support, namely Metro Exodus and Battlefield V. Both these games come with NVIDIA's DXR (DirectX Raytracing) implementation that at the moment is only supported by the GeForce RTX cards. DLSS makes these games playable at higher resolutions with much better frame rates, although there is a notable decrease in image sharpness. Now, AMD has taken a jab at DLSS, saying that traditional AA methods like SMAA and TAA "offer superior combinations of image quality and performance." ^ "Nvidia Very Quietly Made DLSS A Hell Of A Lot Better".
+Kotaku.
+ 2020-02-22.
+ Retrieved 2020-04-06.
+The benefit for most people is that, generally, DLSS comes with a sizeable FPS improvement. How much varies from game to game. In Metro Exodus, the FPS jump was barely there and certainly not worth the bizarre hit to image quality.
+^ a b "Remedy's Control vs DLSS 2.0 – AI upscaling reaches the next level".
+Eurogamer.
+ 2020-04-04.
+ Retrieved 2020-04-05.
+Of course, this isn't the first DLSS implementation we've seen in Control. The game shipped with a decent enough rendition of the technology that didn't actually use the machine learning ^ "NVIDIA DLSS 2.0 Update Will Fix The GeForce RTX Cards' Big Mistake".
+ techquila.co.in. 2020-03-24.
+ Retrieved 2020-04-06.
+As promised, NVIDIA has updated the DLSS network in a new GeForce update that provides better, sharper image quality while still retaining higher framerates in raytraced games. While the feature wasn't used as well in its first iteration, NVIDIA is now confident that they have successfully fixed all the issues it had before ^ "NVIDIA DLSS Plugin and Reflex Now Available for Unreal Engine".
+NVIDIA Developer Blog.
+ 2021-02-11.
+ Retrieved 2022-02-07.
+^ "NVIDIA DLSS Natively Supported in Unity 2021.2".
+NVIDIA Developer Blog.
+ 2021-04-14.
+ Retrieved 2022-02-07.
+^ "HW News - Crysis Remastered Ray Tracing, NVIDIA DLSS 2, Ryzen 3100 Rumors".
+ 2020-04-19.
+ Retrieved 2020-04-19.
+The original DLSS required training the AI network for each new game. DLSS 2.0 trains using non-game-specific content, delivering a generalized network that works across games. This means faster game integrations, and ultimately more DLSS games.
+^ a b c d e f g h Edward Liu, NVIDIA "DLSS 2.0 - Image Reconstruction for Real-time Rendering with Deep Learning" ^ a b c d "Truly Next-Gen: Adding Deep Learning to Games & Graphics (Presented by NVIDIA)".
+www.gdcvault.com.
+ Retrieved 2022-02-07.
+^ Edelsten, Andrew (30 August 2019).
+"NVIDIA DLSS: Control and Beyond".
+ nividia.com.
+ Retrieved 11 August 2020.
+we developed a new image processing algorithm that approximated our AI research model and fit within our performance budget. This image processing approach to DLSS is integrated into Control ^ "NVIDIA DLSS 2.0 Review with Control – Is This Magic?".
+ techquila.co.in. 2020-04-05.
+ Retrieved 2020-04-06.
+^ a b c "Nvidia's new DLSS 3.5 works on all RTX GPUs to improve the quality of ray tracing".
+ The Verge. 22 August 2023.
+ Retrieved 6 September 2023.
+^ a b "Nvidia announces DLSS 3.5 with ray reconstruction, boosting RT quality with an AI-trained denoiser".
+ EuroGamer. 23 August 2023.
+ Retrieved 6 September 2023.
+^ "NVIDIA preparing Ultra Quality mode for DLSS, 2.2.9.0 version spotted".
+VideoCardz.com.
+ Retrieved 2021-07-06.
+^ "DLSS: What Does It Mean for Game Developers?".
+NVIDIA Developer Blog.
+ 2018-09-19.
+ Retrieved 2022-02-07.
+^ "NVIDIA DLSS: Your Questions, Answered".
+Nvidia.
+ 2019-02-15.
+ Retrieved 2020-04-19.
+The DLSS team first extracts many aliased frames from the target game, and then for each one we generate a matching "perfect frame" using either super-sampling or accumulation rendering. These paired frames are fed to NVIDIA's supercomputer. The supercomputer trains the DLSS model to recognize aliased inputs and generate high quality anti-aliased images that match the "perfect frame" as closely as possible. We then repeat the process, but this time we train the model to generate additional pixels rather than applying AA. This has the effect of increasing the resolution of the input. Combining both techniques enables the GPU to render the full monitor resolution at higher frame rates.
+^ a b c "NVIDIA DLSS 2.0: A Big Leap In AI Rendering".
+Nvidia.
+ 2020-03-23.
+ Retrieved 2020-04-07.
+^ "What is Nvidia DLAA? An Anti-Aliasing Explainer".
+Digital Trends.
+ 2021-09-28.
+ Retrieved 2022-02-10.
+^ Temporal AA small Cloud Front ^ "NVIDIA DLSS DLL (2.3.7) Download".
+TechPowerUp.
+ Retrieved 2022-02-10.
+^ "NVIDIA Optical Flow SDK".
+NVIDIA Developer.
+ 2018-11-29.
+ Retrieved 2022-09-20.
+^ "NVIDIA TENSOR CORES".
+Nvidia.
+ Retrieved 2020-04-07.
+^ "On Tensors, Tensorflow, And Nvidia's Latest 'Tensor Cores' ".
+ tomshardware.com. 2017-04-11.
+ Retrieved 2020-04-08.
+^ "TENSOR CORE DL PERFORMANCE GUIDE" (PDF).
+Nvidia.
+Archived (PDF) from the original on 2020-11-11.
+^ "Using CUDA Warp-Level Primitives".
+Nvidia.
+ 2018-01-15.
+ Retrieved 2020-04-08.
+NVIDIA GPUs execute groups of threads known as warps in SIMT (Single Instruction, Multiple Thread) fashion External links [ edit ] Official website DLSS on official Nvidia developer website.
+mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em} v t e Nvidia GeForce ( List of GPUs ) Fixed pixel pipeline Pre-GeForce NV1 NV2 RIVA 128 RIVA TNT TNT2 GeForce 256 2 4 MX Vertex and pixel shaders GeForce 3 4 Ti FX 6 7 Unified shaders GeForce 8 9 100 200 300 400 500 Unified shaders & NUMA GeForce 600 700 800M 900 10 16 Ray tracing & Tensor cores GeForce 20 30 40 Software and technologies Multimedia acceleration NVENC (video encoding) NVDEC (video decoding) PureVideo (video decoding) Software Cg (shading language) CUDA Nvidia GameWorks OptiX (ray tracing API) PhysX (physics SDK) Nvidia Omniverse (3D graphics) Nvidia RTX (ray tracing platform) Nvidia System Tools VDPAU (video decode API) Technologies Nvidia 3D Vision (stereo 3D) Nvidia G-Sync (variable refresh rate) Nvidia Optimus (GPU switching) Nvidia Surround (multi-monitor) MXM (module/socket) SXM (module/socket) NVLink (protocol) Scalable Link Interface (multi-GPU) TurboCache (framebuffer in system memory) Video Super Resolution (live video upscaling) GPU microarchitectures Fahrenheit Celsius Kelvin Rankine Curie Tesla Fermi Kepler Maxwell Pascal Volta Turing Ampere Hopper Ada Lovelace Other products Graphics processing Nvidia Quadro Quadro Plex GPGPU Nvidia Tesla DGX Console components NV2A ( Xbox ) RSX 'Reality Synthesizer' ( PlayStation 3 ) Tegra NX-SoC ( Nintendo Switch ) Nvidia Shield Shield Portable Shield Tablet Shield Android TV GeForce Now SoCs and embedded GoForce Drive Jetson Tegra CPUs Project Denver Computer chipsets nForce Company Key people Jen-Hsun Huang Chris Malachowsky Curtis Priem David Kirk Bill Dally Debora Shoquist Ranga Jayaraman Jonah M. Alben Acquisitions 3dfx Interactive Ageia ULi Cumulus Networks Icera Mellanox Technologies Mental Images PortalPlayer Exluna MediaQ Stexar Graphics processing units Graphics cards 3D computer graphics Nvidia Articles with short description Short description is different from Wikidata All articles with unsourced statements Articles with unsourced statements from February 2022 Articles with unsourced statements from May 2023 This page was last edited on 27 October 2023, at 18:03 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+ Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Code of Conduct Developers Statistics Cookie statement Mobile view Toggle limited content width

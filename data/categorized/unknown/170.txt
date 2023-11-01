@@ -1,9 +1,0 @@
-old id = 1376
-Natural Language Processing - Wikiversity
-unknown
-https://en.wikiversity.org/wiki/Natural_Language_Processing
-
-Natural Language ProcessingNatural language processing (NLP) is a subfield of artificial intelligence and linguistics. It studies the problems of automated generation and understanding of natural human languages. Natural language generation systems convert information from computer databases into normal-sounding human language, and natural language understanding systems convert samples of human language into more formal representations that are easier for computer programs to manipulate.
-The field is divided in two major categories: Speech recognition and generation, and text interpretation and generation. The technologies needed for both are very different, "speech" being addressed normally by Electronic or Telecommunications Engineers, while "text" being more addressed by Computer Scientists. Additionally, Speech recognition and speech generation are normally architectured as a layer over a Text recognition / generation engine.
-To follow a course on NLP, you must know aboutFormal languagesandGrammars, and be able to program fluently. For the practicals, you must learn aLogic programminglanguage;Prologis recommended. Arule based programminglanguage can serve as well, although it perhaps is more difficult to master.
-See also[edit|edit source]Navigation menuSearch

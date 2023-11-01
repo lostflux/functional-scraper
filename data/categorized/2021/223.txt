@@ -1,214 +1,45 @@
-old id = 2750
-Programmed exosome fusion for energy generation in living cells | Nature Catalysis
+old id = 570
+35 Innovators Under 35: Emma Beede | MIT Technology Review
 2021
-https://www.nature.com/articles/s41929-021-00669-z
+https://www.technologyreview.com/innovator/emma-beede
 
-Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
-AdvertisementProgrammed exosome fusion for energy generation in living cellsNature Catalysisvolume4,pages763–774 (2021)Cite this article4801Accesses4Citations74AltmetricMetricsdetailsSubjectsAbstractBiological membrane-enclosed organelles are fascinating examples of spatially confined nanoreactors for biocatalytic transformations such as cascade reactions involving multiple enzymes; however, the fabrication of their synthetic mimics remains a considerable challenge. Here we demonstrate supramolecular chemistry-based bridging of two membranes leading to controlled fusion of exosomes that act as nanoreactors for effective biocatalytic cascades, with prolonged functionality inside of living cells. Exosome membrane proteins were chemically engineered with a catechol moiety to drive fusion by supramolecular complexation to bridge the membranes. This strategy successfully encapsulated multiple enzymes and assembled the minimal electron transport chain in the plasma membrane, leading to tuneable, enhanced catalytic cascade activity capable of ATP synthesis inside of tissue spheroids. This nanoreactor was functional for many hours after uptake into living cells, showed successful penetration into tissue spheroids and repaired the damaged region by supplying ATP, all of which represent an advance in the mimicking of nature’s own organelles.
-This is a preview of subscription contentAccess optionsSubscribe to Nature+Get immediate online access to the entire Nature family of 50+ journals$29.99monthlySubscribe to JournalGet full journal access for 1 year$119.00only $9.92 per issueAll prices are NET prices.
-VAT will be added later in the checkout.
-Tax calculation will be finalised during checkout.
-Buy articleGet time limited or full article access on ReadCube.
-$32.00All prices are NET prices.
-Additional access options:Data availabilityData used to generate results in the current study are available from the corresponding author on reasonable request.
-Source dataare provided with this paper.
-ReferencesAgapakis, C. M., Boyle, P. M. & Silver, P. A. Natural strategies for the spatial optimization of metabolism in synthetic biology.
-Nat. Chem. Biol.
-8, 527–535 (2012).
-CASPubMedArticlePubMed CentralGoogle ScholarHammes, G. G. & Wu, C.-W. Regulation of enzyme activity.
-Science172, 1205–1211 (1971).
-ArticleGoogle ScholarKondo, S. & Miura, T. Reaction-diffusion model as a framework for understanding biological pattern formation.
-Science329, 1616–1620 (2010).
-Google ScholarLim, W. A. Designing customized cell signalling circuits.
-Nat. Rev. Mol. Cell Biol.
-11, 393–403 (2010).
-CASPubMedPubMed CentralArticleGoogle ScholarHan, D. et al. A cascade reaction network mimicking the basic functional steps of adaptive immune response.
-Nat. Chem.
-7, 835–841 (2015).
-CASPubMedPubMed CentralArticleGoogle ScholarSemenov, S. N. et al. Rational design of functional and tunable oscillating enzymatic networks.
-Nat. Chem.
-7, 160–165 (2015).
-CASPubMedArticlePubMed CentralGoogle ScholarZhang, Y., Tsitkov, S. & Hess, H. Complex dynamics in a two-enzyme reaction network with substrate competition.
-Nat. Catal.
-1, 276–281 (2018).
-ArticleGoogle ScholarChen, W.-H., Vázquez-González, M., Zoabi, A., Abu-Reziq, R. & Willner, I. Biocatalytic cascades driven by enzymes encapsulated in metal–organic framework nanoparticles.
-Nat. Catal.
-1, 689–695 (2018).
-CASArticleGoogle ScholarKüchler, A., Yoshimoto, M., Luginbühl, S., Mavelli, F. & Walde, P. Enzymatic reactions in confined environments.
-Nat. Nanotechnol.
-11, 409–420 (2016).
-PubMedArticleCASPubMed CentralGoogle ScholarVázquez-González, M., Wang, C. & Willner, I. Biocatalytic cascades operating on macromolecular scaffolds and in confined environments.
-Nat. Catal.
-3, 256–273 (2020).
-ArticleCASGoogle ScholarEinfalt, T. et al. Biomimetic artificial organelles with in vitro and in vivo activity triggered by reduction in microenvironment.
-Nat. Commun.
-9, 1127 (2018).
-CASPubMedPubMed CentralArticleGoogle ScholarBuddingh’, B. C. & van Hest, J. C. M. Artificial cells: synthetic compartments with life-like functionality and adaptivity.
-Acc. Chem. Res.
-50, 769–777 (2017).
-PubMedPubMed CentralArticleCASGoogle ScholarStaufer, O., Schröter, M., Platzman, I. & Spatz, J. P. Bottom-up assembly of functional intracellular synthetic organelles by droplet-based microfluidics.
-Small16, 1906424 (2020).
-CASArticleGoogle Scholarvan Oppen, L. M. P. E. et al. Biodegradable synthetic organelles demonstrate ROS shielding in human-complex-I-deficient fibroblasts.
-ACS Cent. Sci.
-4, 917–928 (2018).
-ArticleCASGoogle ScholarReinkemeier, C. D., Girona, G. E. & Lemke, E. A. Designer membraneless organelles enable codon reassignment of selected mRNAs in eukaryotes.
-Science363, eaaw2644 (2019).
-CASPubMedArticlePubMed CentralGoogle ScholarRideau, E., Dimova, R., Schwille, P., Wurm, F. R. & Landfester, K. Liposomes and polymersomes: a comparative review towards cell mimicking.
-Chem. Soc. Rev.
-47, 8572–8610 (2018).
-CASPubMedArticlePubMed CentralGoogle ScholarParodi, A. et al. Synthetic nanoparticles functionalized with biomimetic leukocyte membranes possess cell-like functions.
-Nat. Nanotechnol.
-8, 61–68 (2013).
-CASPubMedArticlePubMed CentralGoogle ScholarHu, C.-M. J. et al. Erythrocyte membrane-camouflaged polymeric nanoparticles as a biomimetic delivery platform.
-Proc. Natl Acad. Sci. USA108, 10980 (2011).
-CASPubMedPubMed CentralArticleGoogle ScholarLee, K. Y. et al. Photosynthetic artificial organelles sustain and control ATP-dependent reactions in a protocellular system.
-Nat. Biotechnol.
-36, 530–535 (2018).
-CASPubMedArticlePubMed CentralGoogle ScholarWeiss, M. et al. Sequential bottom-up assembly of mechanically stabilized synthetic cells by microfluidics.
-Nat. Mater.
-17, 89–96 (2018).
-CASPubMedArticlePubMed CentralGoogle ScholarYoo, J.-W., Irvine, D. J., Discher, D. E. & Mitragotri, S. Bio-inspired, bioengineered and biomimetic drug delivery carriers.
-Nat. Rev. Drug Discov.
-10, 521–535 (2011).
-CASPubMedArticlePubMed CentralGoogle ScholarGrzybowski, B. A. & Huck, W. T. S. The nanotechnology of life-inspired systems.
-Nat. Nanotechnol.
-11, 585–592 (2016).
-CASPubMedArticlePubMed CentralGoogle ScholarMiller, T. E. et al. Light-powered CO2fixation in a chloroplast mimic with natural and synthetic parts.
-Science368, 649–654 (2020).
-PubMedPubMed CentralGoogle ScholarKumar, S. et al. Human platelet membrane functionalized microchips with plasmonic codes for cancer detection.
-Adv. Funct. Mater.
-29, 1902669 (2019).
-ArticleCASGoogle ScholarKalluri, R. & LeBleu, V. S. The biology, function, and biomedical applications of exosomes.
-Science367, eaau6977 (2020).
-CASPubMedPubMed CentralArticleGoogle ScholarEl Andaloussi, S., Mäger, I., Breakefield, X. O. & Wood, M. J. A. Extracellular vesicles: biology and emerging therapeutic opportunities.
-Nat. Rev. Drug Discov.
-12, 347–357 (2013).
-CASPubMedArticlePubMed CentralGoogle ScholarArmstrong, J. P. K., Holme, M. N. & Stevens, M. M. Re-engineering extracellular vesicles as smart nanoscale therapeutics.
-ACS Nano11, 69–83 (2017).
-CASPubMedPubMed CentralArticleGoogle ScholarRobbins, P. D. & Morelli, A. E. Regulation of immune responses by extracellular vesicles.
-Nat. Rev. Immunol.
-14, 195–208 (2014).
-CASPubMedPubMed CentralArticleGoogle ScholarHindley, J. W. et al. Light-triggered enzymatic reactions in nested vesicle reactors.
-Nat. Commun.
-9, 1093 (2018).
-PubMedPubMed CentralArticleCASGoogle ScholarIshmukhametov, R. R., Russell, A. N. & Berry, R. M. A modular platform for one-step assembly of multi-component membrane systems by fusion of charged proteoliposomes.
-Nat. Commun.
-7, 13025 (2016).
-CASPubMedPubMed CentralArticleGoogle ScholarBolognesi, G. et al. Sculpting and fusing biomimetic vesicle networks using optical tweezers.
-Nat. Commun.
-9, 1882 (2018).
-PubMedPubMed CentralArticleCASGoogle ScholarKumar, S., Michael, I. J., Park, J., Granick, S. & Cho, Y.-K. Cloaked exosomes: biocompatible, durable, and degradable encapsulation.
-Small14, 1802052 (2018).
-ArticleCASGoogle ScholarStengel, G., Simonsson, L., Campbell, R. A. & Höök, F. Determinants for membrane fusion induced by cholesterol-modified DNA zippers.
-J. Phys. Chem. B112, 8264–8274 (2008).
-CASPubMedArticlePubMed CentralGoogle ScholarJumeaux, C. et al. MicroRNA detection by DNA-mediated liposome fusion.
-ChemBioChem19, 434–438 (2018).
-CASPubMedPubMed CentralArticleGoogle ScholarBarlow, N., Chalmers, D. K., Williams-Noonan, B. J., Thompson, P. E. & Norton, R. S. Improving membrane permeation in the beyond rule-of-five space by using prodrugs to mask hydrogen bond donors.
-ACS Chem. Biol.
-15, 2070–2078 (2020).
-CASPubMedArticlePubMed CentralGoogle ScholarStengel, G., Zahn, R. & Höök, F. DNA-induced programmable fusion of phospholipid vesicles.
-J. Am. Chem. Soc.
-129, 9584–9585 (2007).
-CASPubMedArticlePubMed CentralGoogle ScholarCollins, D. J., Neild, A., deMello, A., Liu, A.-Q. & Ai, Y. The Poisson distribution and beyond: methods for microfluidic droplet production and single cell encapsulation.
-Lab Chip15, 3439–3459 (2015).
-CASPubMedArticlePubMed CentralGoogle ScholarHuang, F. et al. Near-infrared light-activated membrane fusion for cancer cell therapeutic applications.
-Chem. Sci.
-11, 5592–5600 (2020).
-CASPubMedPubMed CentralArticleGoogle ScholarPiffoux, M., Silva, A. K. A., Wilhelm, C., Gazeau, F. & Tareste, D. Modification of extracellular vesicles by fusion with liposomes for the design of personalized biogenic drug delivery systems.
-ACS Nano12, 6830–6842 (2018).
-CASPubMedArticlePubMed CentralGoogle ScholarLeidal, A. M. et al. The LC3-conjugation machinery specifies the loading of RNA-binding proteins into extracellular vesicles.
-Nat. Cell Biol.
-22, 187–199 (2020).
-CASPubMedPubMed CentralArticleGoogle ScholarFuentes, P. et al. ITGB3-mediated uptake of small extracellular vesicles facilitates intercellular communication in breast cancer cells.
-Nat. Commun.
-11, 4261 (2020).
-CASPubMedPubMed CentralArticleGoogle ScholarJoshi, B. S., de Beer, M. A., Giepmans, B. N. G. & Zuhorn, I. S. Endocytosis of extracellular vesicles and release of their cargo from endosomes.
-ACS Nano14, 4444–4455 (2020).
-CASPubMedPubMed CentralArticleGoogle ScholarXu, Y. et al. Nanozyme-catalyzed cascade reactions for mitochondria-mimicking oxidative phosphorylation.
-Angew. Chem. Int. Ed.
-58, 5572–5576 (2019).
-CASArticleGoogle ScholarJeong, S., Nguyen, H. T., Kim, C. H., Ly, M. N. & Shin, K. Toward artificial cells: novel advances in energy conversion and cellular motility.
-Adv. Funct. Mater.
-30, 1907182 (2020).
-CASArticleGoogle ScholarSchütt, F., Aretz, S., Auffarth, G. U. & Kopitz, J. Moderately reduced ATP levels promote oxidative stress and debilitate autophagic and phagocytic capacities in human RPE cells.
-Investig. Ophthalmol. Vis. Sci.
-53, 5354–5361 (2012).
-ArticleCASGoogle ScholarLenzini, S., Bargi, R., Chung, G. & Shin, J.-W. Matrix mechanics and water permeation regulate extracellular vesicle transport.
-Nat. Nanotechnol.
-15, 217–223 (2020).
-CASPubMedPubMed CentralArticleGoogle ScholarYong, T. et al. Tumor exosome-based nanoparticles are efficient drug carriers for chemotherapy.
-Nat. Commun.
-10, 3838 (2019).
-PubMedPubMed CentralArticleCASGoogle ScholarBorkowska, M. et al. Targeted crystallization of mixed-charge nanoparticles in lysosomes induces selective death of cancer cells.
-Nat. Nanotechnol.
-15, 331–341 (2020).
-CASPubMedArticlePubMed CentralGoogle ScholarFeder, T. J., Brust-Mascher, I., Slattery, J. P., Baird, B. & Webb, W. W. Constrained diffusion or immobile fraction on cell surfaces: a new interpretation.
-Biophys. J.
-70, 2767–2773 (1996).
-CASPubMedPubMed CentralArticleGoogle ScholarNandi, A., Heinrich, D. & Lindner, B. Distributions of diffusion measures from a local mean-square displacement analysis.
-Phys. Rev. E86, 021926 (2012).
-ArticleCASGoogle ScholarIshmukhametov, R. R., Galkin, M. A. & Vik, S. B. Ultrafast purification and reconstitution of His-tagged cysteine-lessEscherichia coliF1Fo ATP synthase.
-Biochim. Biophys. Acta1706, 110–116 (2005).
-CASPubMedArticlePubMed CentralGoogle ScholarRumbley, J. N., Furlong Nickels, E. & Gennis, R. B. One-step purification of histidine-tagged cytochromebo3 fromEscherichia coliand demonstration that associated quinone is not required for the structural integrity of the oxidase.
-Biochim. Biophys. Acta1340, 131–142 (1997).
-CASPubMedArticlePubMed CentralGoogle ScholarDownload referencesAcknowledgementsThis work was supported by the taxpayers of South Korea through the Institute for Basic Science (IBS-R020-D1).
-Author informationAffiliationsCenter for Soft and Living Matter, Institute for Basic Science (IBS), Ulsan, South KoreaSumit Kumar, Mamata Karmacharya, Issac J. Michael, Yongjun Choi, Junyoung Kim, InUn Kim & Yoon-Kyoung ChoDepartment of Biomedical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, South KoreaSumit Kumar, Issac J. Michael, Yongjun Choi, Junyoung Kim & Yoon-Kyoung ChoDepartment of Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, South KoreaMamata KarmacharyaYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarContributionsS.K., M.K., I.J.M. and Y.-K.C. conceived the research. S.K. designed the approach and characterized all the materials. S.K., M.K. and Y.-K.C. prepared the manuscript. I.J.M. performed the majority of microfluidic device experiments. Y.C. and J.Y.K. performed the exosome tracking experiments and analysed the data. I.K. performed exosome characterization. At all the stages, Y.-K.C. supervised the research, designed experiments, and wrote the paper. All authors read and corrected the manuscript.
-Corresponding authorCorrespondence toYoon-Kyoung Cho.
-Ethics declarationsCompeting interestsI.B.S. has filed a patent (KR 10-2021-0072646) based on this work and S.K. and Y.K.C. are named as inventors. UNIST has filed patents on ExoDisc and Y.K.C. is named as an inventor, which are licensed to LabSpinner. The other authors declare no competing interests.
-Additional informationPeer review informationNature Catalysisthanks Gregor Fuhrmann, Mei He and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
-Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
-Extended dataExtended Data Fig. 1 Characterization of exosomes and CEx.
-(a)Characterization of the size of exosomes, CEx, and FEx using nanoparticles tracking analysis (NTA) for 5 independent experiments. Data represent mean ± SD and two-tailed unpaired Student’s t-test was used for comparing two groups(b)Characterization of the size distribution of exosomes from transmission electron microscopy (TEM) images. The histogram reports the size (nm) of exosomes vs frequency (%). For exosomes, 10 data points from n = 64 different TEM images; for CEx, 10 data points from n = 55 different TEM images; and for FEx, 10 data points from n = 56 different TEM images.
-(c)Zeta-potential of exosomes and CEx show that the average value is -18.5 ± 3.2 and -23.7 ± 2.9 eV, respectively (n = 5 independent experiments). After catechol modification, the zeta-potential distribution of CEx shows a negative shift compared to that of exosomes. Data represent mean ± SD and two-tailed unpaired Student’s t-test was used for comparing two groups(d)Characterization of the abundant exosomal proteins in each successive step during formation of fused exosomes (FEx) nanoreactor, analyzed by Western blot. Tetraspanin protein markers such as CD9, CD63, and CD81 are often used to characterize exosomes. From the results of Western blot analysis, it shows the presence of all the exosomes marker in control (exosomes), catechol integrated exosomes (CEx-1, CEx-2), and FEx, n = 3 independent experiments.
-Source dataExtended Data Fig. 2 Comparison of the catalytic cascade after purification of FEx nanoreactor from free enzymes.
-(a)Representative fluorescence spectra of resorufin generated by the two-enzyme cascade, under aerobic conditions, in the presence of FEx-GOx-HRP (black line) and treated with pronase (red line).
-(b)A photograph of Exodisc with 6 identical units for analysis of the CEx samples. Image on the right shows the detailed microfluidic features of the device including a sample loading chamber, filtration unit, and waste chamber.
-(c)A photograph of the table top-sized spinning device.
-(d)A schematic for the cross-sectional view of the filter unit of Exodisc.
-(e)Representative fluorescence intensity of resorufin generated by the two-enzyme cascade in the presence of CEx-GOx, CEx-HRP, CEx-GOx-HRP, and FEx-GOx-HRP purified from ultracentrifugation (left) and Exodisc (right). Data represent mean ± SD; n = 3 independent fusion experiments; two-tailed unpaired Student’s t-test was used for comparing two groups.
-Extended Data Fig. 3 Co-localization of FEx nanoreactors with endosomes and lysosomes after cellular uptake.
-(a)Representative time-lapse high resolution confocal fluorescence microscopy images of MCF-10A cells after treatment with FEx (green), and counter-stained for endosomes (pHrodo red dextran). Scale bar, 10 µm. n = 7 independent experiments.
-(b)Plot of Pearson correlation coefficient (PCCEndosome-FEx) values over time for red (Endosome) and green (FEx) fluorescence (at 10 min, 20 min, 30 min, 40 min, 50 min, and 60 min). Data represent mean ± SD of n = 7 independent experiments.
-(c)Representative time-lapse high resolution confocal fluorescence microscopy images of MCF-10A cells after treatment with FEx (green), fixed, and counter-stained with LysotrackerTMdeep red (magenta) to study the cellular uptake mechanism. Scale bar, 10 µm. n = 7 independent experiments.
-(d)Plot of Pearson correlation coefficient (PCCLysosome-FEx) values over time for magenta (lysosome) and green (FEx) fluorescence (at 10 min, 20 min, 30 min, 40 min, 50 min, and 60 min). Data represent mean ± SD of n = 10 independent experiments.
-Extended Data Fig. 4 Co-localization of FEx nanoreactor with endosomes after cellular uptake.
-(a)Representative time-lapse high-resolution confocal fluorescence microscopy images of MCF-10A cells after treatment with FEx (green), fixed, and counter-stained for early endosomal antigen 1 marker EEA1 (red). Scale bar, 10 µm. n = 10 independent experiments.
-(b)Plot of Pearson correlation coefficient (PCCEndosome-FEx) values over time for red (Endosome) and green (FEx) fluorescence (at 10 min, 1 h, 2 h, 4 h, 8 h, and 12 h). Data represent mean ± SD; n = 10 independent experiments.
-(c)Representative time-lapse western blots of endosomal fractions for cellular uptake of FEx nanoreactor. The figure shows the relative amount of the CD63 proteins for FEx nanoreactor (53 kDa) and EEA1 protein for endosomes (162 kDa) after endosomal isolation from MCF-10A cells using MinuteTMEndosome Isolation kit. n = 3 independent experiments.
-Source dataExtended Data Fig. 5 Co-localization of FEx nanoreactor with lysosomes after cellular uptake.
-(a)Representative time-lapse high-resolution confocal fluorescence microscopy images of MCF-10A cells after treatment with FEx (green), fixed, and counter-stained for lysosome-associated membrane glycoprotein 1 (magenta) to study the intracellular mechanism. Scale bar, 10 µm. n = 10 independent experiments.
-(b)Plot of Pearson correlation coefficient (PCCLysosome-FEx) values over time for magenta (lysosome) and green (FEx) fluorescence (at 10 min, 1 h, 2 h, 4 h, 8 h, and 12 h). Data represent mean ± SD of n = 10 independent experiments.
-(c)Representative time-lapse western blots of lysosomal fractions for cellular uptake of FEx nanoreactor. The figure shows the relative amount of the LAMP1 proteins and Rab7 protein for lysosomes (110 kDa, 23 kDa respectively) and CD63 (53 kDa) for FEx nanoreactors from MCF-10A cells. Lysosomal fraction was isolated using MinuteTMLysosome Isolation kit, n = 3 independent experiments.
-Source dataExtended Data Fig. 6 Stability and integrity of FEx-GOx-HRP nanoreactor after cellular integration.
-(a)Representative confocal 3D fluorescence microscopy images for co-localization study of the FEx-GOx-HRP (encapsulated FITC-labelled GOx at 488 nm and rhodamine B-labelled HRP at 561 nm) nanoreactor upon cellular uptake. Confocal fluorescence microscopic analysis after incubating FEx with MCF-10A cells for 24 h. FITC-GOx and Rhodamine-HRP overlay images. n = 3 independent experiments.
-(b)Time-course study of Pearson’s correlation coefficient (PCC). To study the integrity of the content (FITC-labelled GOx and rhodamine B-labelled HRP) inside FEx nanoreactor. Data represent the time-lapse value (at 0-24 h) ofPCCFITC-Rhodamineis computed. Data represent mean ± SD and are based on three independent experiments (n = 47 MCF-10A cells).
-(c)Motility of FEx-GOx-HRP nanoreactor after cellular integration. Representative Live-cell tracking confocal fluorescence microscopy images of FEx-GOx-HRP (FITC-labelled GOx) after cellular uptake by the human breast epithelial cells MCF-10A after 48 h where FEx movement was indicated by arrowhead. n = 2 independent experiments.
-(d)Representative confocal fluorescence images (bright field, red, green, magenta, and overlay) of the MCF-10A cells after 48 h of incubation with FEx and immunofluorescent staining of EEA1 (red) and LAMP1 (magenta). Scale bar, 10 µm. Co-localization of FEx (green) with Endosomes (red) and Lysosomes (magenta) after 48 h. Panels 1-6 show high-resolution confocal fluorescence images of sections indicated on the overlay image. Scale bar, 2 µm. n = 3 independent experiments. (e)Representative transmission electron micrographs (TEM) of MCF-10A cells after incubation with immunogold-labelled FEx nanoreactor (indicated by arrowhead) for 48 h, confirming the presence of intact FEx nanoreactor. Scale bar, 5 µm. Extended TEM images scale bar, 500 nm. n = 2 independent experiments.
-Extended Data Fig. 7 Bioorthogonal catalysis in fused exosomes.
-(a)Catalytic conversion ofproRho to free rhodamine inside the cells by using the FEx-Pd-proRho nanoreactor. The FEx-Pd-proRho nanoreactor was prepared by fusing palladium nanoparticle- (Pd NPs) loaded exosomes (CEx-Pd) and bis-allyloxycarbonyl-protected rhodamine- (proRho) loaded exosomes (CEx-proRho).
-(b)Representative TEM images of FEx-Pd-proRho. Inset shows magnified image of selection showing the presence of Pd nanostructures of size ~6 nm. Scale bar, 10 nm. n = 2 independent experiments.
-(c)Fluorescence emission spectra (λEx= 498 nm) for demasking of Rhodamine in FEx and CEx.
-(d)Change in fluorescence intensity (%) (at 527 nm) of demasking reaction as the function of time in the FEx-Pd-proRho and CEx-proRho.
-(e)Representative 3D Confocal fluorescence images with FITC filter (representing rhodamine fluorescence), DAPI (nuclei staining) and merged images after cellular uptake of FEx-Pd-proRho and CEx-proRho. n = 3 independent experiments.
-(f)Flow cytometry analysis for monitoring the demasking reaction inside the MCF-10A cells with FEx.
-(g)Catalytic conversion of pro-drug to drug with the FEx-Pd-proFU nanoreactor. Schematic for the activation of anticancer drug 5-fluorouracil (pro-FU) using FEx-Pd-proFU nanoreactor. This drug converts cytotoxic nucleotide-metabolites via functionalization on its N1-position followed by inhibition of thymidylate synthase and incorporation into RNA- and DNA-strands to disrupt cellular function(h)The cell viability of MCF-10A cells after incubating them with different concentrations of the nanoreactors FEx-Pd-proFU and CEx-proFU (10 µg mL-1, 30 µg mL-1, 60 µg mL-1, and 90 µg mL-1). Data represent mean ± SD; n = 3 independent experiments; two-tailed unpaired Student’s t-test was used for comparing two groups.
-Source dataExtended Data Fig. 8 Estimation of ATP.
-(a)Estimation of ATP in FEx-1 nanoreactors by the luciferin-luciferase assay. A standard calibration curve was obtained by monitoring luminescence intensity (luciferin to oxy-luciferin) by varying the amount of ATP (0 to 1000 nM).
-(b)Time-dependent changes in luminescence intensity were measured using the luciferin-luciferase assay by the treatment of FEx nanoreactors with DTT, glucose, or DTT-glucose. After the assembly of ATP synthase and bo3oxidase into the membranes of the FEx nanoreactors as energy modules, the electron transport chain was triggered by the addition of dithiothreitol (DTTred), which reduced coenzyme Q1(Q1H) to make it available to bo3oxidase and encapsulated GOx/HRP inside FEx-1 nanoreactors by addition of glucose.
-(c)Estimation of ROS production during the functioning of FEx-1 nanoreactors inside living cells by using the ROS assay kit. A standard calibration curve was obtained by monitoring the fluorescence intensity of dichlorodihydrofluorescein diacetate (excitation at 485 nm and emission at 535 nm) after treatment with varying concentrations oftert-butyl hydrogen peroxide (0 to 50 µM). These results demonstrate that the increase in ROS production was proportional to the increase in fluorescence intensity.
-(d)MCF-10A cells were treated with different concentrations of FEx-1 nanoreactors (10, 50, and 80 µg/mL), and the fluorescence intensity of dichlorodihydrofluorescein diacetate was measured to calculate ROS levels.
-(e)Schematic of controls for direct loading of the enzymes into exosomes. ATP production using the luciferin luciferase assay of different condition controls; control (only exosome), (A), (B), and FEx-1 after 3 h. In the first control (A), GOx, HRP, ATPsynthase, and bo3Oxidase were used all together to encapsulated inside the exosome. Their amount was quantified by BCA Protein Assay kit after removal of free enzymes by ultracentrifugation. In the second control (B), all the enzymes (GOx, HRP, ATPsynthase and bo3Oxidase) were encapsulated one by one after the other with each time washing between steps, respectively.
-(f)Luminescence intensity of multi-enzyme cascade reaction to produce the bioenergy in only exosomes, (A), and (B). ATP production was measured by luciferin-luciferase assay. Data represent mean ± SD of n = 3 independent experiments; two-tailed unpaired Student’s t-test was used for comparing two groups.
-Supplementary informationSupplementary InformationSupplementary Methods and Figs. 1–8.
-Reporting Summary41929_2021_669_MOESM3_ESM.mp4Supplementary Video 1 Microfluidic chip used for droplet generation. Droplet-based microfluidics device was used to perform high-throughput generation of the monodisperse cell-sized droplets (~10 µm) where one aqueous phase contained the CEx solutions and the other phase contained FeCl3·6H2O that met at the flow-focusing junction and were delivered into the oil stream for breaking into uniform droplets.
-41929_2021_669_MOESM4_ESM.mp4Supplementary Video 2 CEx transportation dynamics. Tracking data overlaid with imaging data for representation of transport of CEx inside the cells. The video confirms the CEx nanoreactor transportation dynamics inside the living cells.
-41929_2021_669_MOESM5_ESM.mp4Supplementary Video 3 FEx transportation dynamics. Tracking data overlaid with imaging data for representation of transport of FEx inside the cells. The video confirms the FEx nanoreactor transportation dynamics inside the living cells.
-Source dataSource Data Extended Data Fig. 1Full western blots for Extended Data Fig. 1d.
-Source Data Extended Data Fig. 4Full western blots for Extended Data Fig. 4c.
-Source Data Extended Data Fig. 5Full western blots for Extended Data Fig. 5c.
-Source Data Extended Data Fig. 7FACS data for Extended Data Fig. 7f.
-Rights and permissionsReprints and PermissionsAbout this articleCite this articleKumar, S., Karmacharya, M., Michael, I.J.
-et al.
-Programmed exosome fusion for energy generation in living cells.
-Nat Catal4,763–774 (2021). https://doi.org/10.1038/s41929-021-00669-zDownload citationReceived:29 July 2020Accepted:29 July 2021Published:13 September 2021Issue Date:September 2021DOI:https://doi.org/10.1038/s41929-021-00669-zShare this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
-Provided by the Springer Nature SharedIt content-sharing initiativeAdvertisementExplore contentAbout the journalPublish with usSearchAdvanced searchQuick linksNature Catalysis (Nat Catal)ISSN2520-1158(online)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature LimitedSign up for theNature Briefingnewsletter — what matters in science, free to your inbox daily.
+Featured Topics Newsletters Events Podcasts Featured Topics Newsletters Events Podcasts 2021 Visionaries They’re looking to the future of quantum computing, energy policy, robotics, and more.
+Lan Truong Full list Categories Past Years Age: 30 Affiliation: Google Emma Beede Her work helps ensure that fancy AI tools perform in the real world.
+Emma Beede has an unorthodox claim to technological fame: a study she ran showed that one of her employer’s new technologies needed critical improvements before it could be deployed in the real world.
+Beede’s study tested a deep-learning algorithm created by Google Health to screen eye images for diabetic retinopathy, a condition caused by high blood sugar that damages the retina and makes it difficult to sense light. Beede found that the algorithm, which had performed with over 90% accuracy in the lab, presented problems in real-world tests across 11 clinics in Thailand. She found that this was because the algorithm was trained on high-quality eye scans, and when the quality of images taken in the clinic suffered because of factors like poor lighting, the scans were rendered useless. More than 20% of retinal scans were rejected, leaving frustrated patients and their health-care providers looking for more conventional alternatives.
+Beede thinks such unsatisfying results are a critical example of the need to ensure that AI-powered tools for humans are put through rigorous and meticulous testing before being deployed. “Humans in the real world are complicated, and we should account for that,” she says. “We need to be doing our due diligence to study those downstream effects so that we can mitigate any risk for harm.” by Neel V. Patel Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 33 Affiliation: IBM Research Sara Berger Employing machine learning to make pain management more accessible.
+Developing smart technology to help patients assess and manage pain is a deeply personal pursuit for Sara Berger , who spent years watching her parents cope with chronic painand struggle to navigate the medical system. “A lot of the suffering from having chronic pain is about no longer having control over your body and your body’s sensations,” says Berger. “Being able to use digital technologies provides a sense of control and creates more informed conversations with physicians.” A neuroscientist at IBM’s T.J. Watson Research Center , Berger employs machine learning to quantify long-term pain and help predict ways to relieve it. With wearables and environmental sensors, she can capture metrics including heart rate, sleep patterns, and even the acoustic properties of a patient’s speech, all of which provide data about the person’s pain experience. Those metrics can then be analyzed using machine learning, taking into consideration other factors such as the emotional toll that often results from chronic discomfort, decreased mobility, or lost time with loved ones. What results is a far more holistic and informed assessment and treatment plan than those informed by traditional pain scales, which are prone to bias and oversimplification. “Pain isn’t linear,” says Berger. “Our assessment of it shouldn’t be either.” Many people with chronic conditions, especially women and people of color, feel marginalized by the health care system and experience bias when they seek treatment for pain. “I’m on a mission to transform pain management into an accessible, personalized, and trusted experience for individuals across different socioeconomic backgrounds,” says Berger.
+by Kathryn Miles Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 28 Affiliation: Carnegie Mellon University Priya Donti Finding climate-change solutions via computer science and public policy.
+Priya Donti knows that a problem as complex and pervasive as climate change won’t be solved by one discipline alone. That’s why she cofounded Climate Change AI , an interdisciplinary organization that brings together academics and industry experts to demonstrate how machine learning can help.
+Donti’s work combines computer science, engineering, and public policy, and her research focuses on how electric grids can more reliably integrate renewable energy.
+In 2019, Donti was also a lead author on an influential paper titled “Tackling Climate Change with Machine Learning.” “The tremendous response we received from that paper demonstrated just how many people felt a moral obligation to work on climate change but who also felt like they lacked the necessary community to do that work,” says Donti.
+Donti, a second-generation Indian American says she’s well aware of the immense burden already felt by some of the planet’s most vulnerable people and recognizes that climate change will only exacerbate those burdens. “We know that the world’s most disadvantaged populations are going to be disproportionately affected by climate change,” says Donti. “Climate Change AI wants to help mitigate that.” by Kathryn Miles Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 31 Affiliation: MIT, Sublime Systems Leah Ellis A new, climate-friendly way to make cement.
+Making cement is one of the single largest drivers of climate change, accounting for almost a tenth of global carbon dioxide emissions.
+ Ground-up limestone is typically cooked together with sand, clay, and other materials in kilns that are heated to around 1,500 ˚C (2,700 ˚F).
+The limestone releases carbon dioxide as it breaks down, as do the fossil fuels that are burned to achieve those temperatures. For every resulting pound of cement, roughly a pound of carbon dioxide escapes into the atmosphere.
+Leah Ellis came up with a better way.
+Sublime Systems , a startup she cofounded in March 2020, dissolves pulverized limestone in water and then applies an electric current to trigger a series of chemical reactions.
+The general idea of using electricity rather than heat to break down limestone has been around for a while, though earlier attempts worked at higher temperatures. Sublime’s apparatus operates at room temperature. Lots of carbon dioxide is still released from the limestone, but it’s much easier to capture and reuse — the gas comes out of one end of the device, mixed with oxygen, while hydrogen gas is released from the other end.
+This electrochemical reaction produces pure lime, a white powder made of calcium, oxygen, and hydrogen. It can then be cleanly cooked in a kiln with silicon and oxygen to make cement. Ellis and her colleagues are still considering a variety of potential business models. Because they can rely on increasingly cheap electricity from solar or wind farms, Ellis says, they’ll be able to match the prices of standard cement.
+by James Temple Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 30 Affiliation: IBM Kayla Lee She's working to build a more diverse future for quantum computing.
+In 2018 Kayla Lee joined the enterprise consulting group at IBM, where part of her job is to persuade clients they should be interested in quantum computing. For each client, she says, she needs to figure out the same thing: “How do you make this new technology that is a little bit complicated, and sounds kind of like a science project, relevant to them?” There are parallels between that work and her other project: leading the launch of the IBM-HBCU Quantum Center , a partnership between the company and 23 historically black colleges or universities, which aims to make quantum computing more accessible to Black students and faculty. Lee wants to give Black STEM students and scholars the foundation to excel in this emerging field.
+Through the partnership, HBCUs have access to IBM’s cloud-based quantum computing service, which undergraduates, graduates, and faculty can use for research. The partnership not only supports Black faculty working on quantum projects but provides funding to “seed these research projects,” says Lee. In one example, IBM recently partnered with the International Society for Optics and Photonics to create a faculty award in quantum optics and photonics specifically for IBM-HBCU Quantum Center members.
+Lee sees the project as a way to support Black students in an area where they’re grossly underrepresented. In 2017, Black students were awarded just 3% of all bachelor’s degrees in physics in the United States, and only 2% of physics PhDs. What’s more, according to the National Science Foundation, a third of all Black students who have earned doctoral degrees got their bachelor’s degrees at HBCUs , but to date few HBCUs have offered opportunities for students to study or conduct research in quantum information.
+Lee aims to change that. She wants the Quantum Center to create “clear opportunities for engagement” and simply show students “what quantum scientists look like.” This is especially important, she says, because quantum computing is such a young field. “We really are at the start of a new model of computation, in the same way that we were at the start of a new model ... back in the ’60s,” she says. “So the questions we’re asking today are: What do the qubit implementations look like? How do we make less noisy qubits? What does that architecture look like?” But for Lee there’s a further question about quantum computers: “I’m more focused on who gets to use them.” The question of who gets the opportunities to work on this cutting-edge technology will shape the way the field develops. She points to artificial intelligence, which is already known to be afflicted by problems with racial bias. She says this problem could be exponentially worse in quantum computing, both because of the complexity and inscrutability of the machines and because “there are even fewer representative people” in the field.
+by Eileen Guo Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 30 Affiliation: Stanford University Dorsa Sadigh She uses simulated environments to teach robots to be better collaborators with people.
+By developing new ways for computers to anticipate people’s actions, Dorsa Sadigh wants to help pave the way for a future in which human and robots do things like share the roads.
+In one widely cited paper from 2016, she and her colleagues considered the idealized case of two cars, one driven by a person and another by a computer program. She first had real people drive a car in a video-game-like simulation with several autonomous counterparts that followed preplanned routes. On the basis of people’s behavior in the simulation, she developed a model for how humans drive, which the robot driver then used to devise new strategies for interacting with them. Without ever being explicitly told to do so, it did things like slowly backing up at an intersection, encouraging the “human” to go first. It also developed an attitude, learning how to cut human drivers off or force them to change lanes by swerving toward them.
+More recently Sadigh and Dylan Losey, at the time her postdoctoral student, taught robots in a simulated setting how to trick humans in a game that involves negotiating who will do more work in carrying plates to a table. “This robot is capable of bringing two plates, but misleads the human to believe that it can only carry one in order to reduce its overall effort,” they wrote in a paper on the work. Teaching robots to be lazy might not sound particularly worthwhile. But Sadigh and Losey are thinking of future applications in which robots might be called upon to help stroke patients in their recovery, for example. Robots, they say, “need to make intelligent decisions that motivate user participation.” by Will Douglas Heaven Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 31 Affiliation: National Institutes of Health Kaitlyn Sadtler Her test was among the first to determine how many people had been infected with covid-19.
+In early 2020, Kaitlyn Sadtler envisioned a long, slow season getting her lab up and running. Then covid-19 happened. Within weeks, she and her team were among the first to develop an effective antibody assay capable of determining how many people had been infected with covid-19, whether they’d shown any symptoms or not.
+Antibodies tag viruses for destruction and help the body mount an immune response. Those antibodies can linger for months. Existing tests didn’t pinpoint the unique antibodies for the covid-19 virus, leading to false positives among people who had previously been exposed to other coronaviruses. Sadtler and her team at NIH made a highly sensitive antibody test, which uses six different assays to more accurately identify the presence of covid-19 antibodies. Early results published in January confirmed that about 16.8 million Americans had been infected with covid-19 but hadn’t been diagnosed. (Sadtler will update those findings this fall and estimates that as many as one-third of all Americans have been infected with the virus.) The blood test is sensitive enough to determine whether an individual has antibodies from the virus itself or in response to a vaccine, and it can distinguish between variants of the virus as well. It’s simple and cheap to use, making it practical in both rich and poor countries. “This is a global pandemic,” says Sadtler, “which means we need to think globally.” by Kathryn Miles Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 32 Affiliation: Biden-Harris administration Varun Sivaram Designing new public policies to promote energy innovation.
+Varun Sivaram earned his doctorate researching novel solar materials, but when he graduated in 2013, it wasn’t clear where he could apply those skills in the private sector.
+Very few startups working on advanced approaches had survived the clean-tech bust of the early 2010s. Commodity silicon solar panels, mostly made in China, dominated the business.
+That experience prompted him to begin exploring what changes to the innovation system would be required in order to develop better and cheaper clean energy technologies. In studies and books, Sivaram argued that governments must provide far more funding and early policy support for crucial technologies. He also concluded that solar power would still require significant advances to generate an ever larger share of electricity.
+He worked on these issues directly as chief technology officer at ReNew Power, a large Indian renewable energy company. Now he’s joined the Biden administration, where he advises John Kerry, the US climate czar, and serves as his senior director for clean energy, innovation, and competitiveness. Sivaram traveled to India with Kerry, who negotiated a partnership to help that nation achieve its 2030 climate goals. Those include reaching 450 gigawatts of renewable capacity.
+Sivaram believes that innovation is the most powerful lever the US has to help the rest of the world raise its climate ambitions. Driving down the cost of carbon-free technologies makes it cheaper, easier, and more politically palatable to accelerate the shift to emissions-free energy. Sivaram adds that this is particularly crucial for poorer nations, which often can’t afford to sacrifice economic growth. Without such advances, emissions in emerging economies will soar in coming decades, he warns.
+by James Temple Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 33 Affiliation: DeepMind Aäron van den Oord His AI system creates artificial voices that sound remarkably human.
+In 2016, Aäron van den Oord had just won an award for his research in image generation when he was struck by an idea. If his technique could learn to predict a two-dimensional sequence of pixels, could it also learn to predict a waveform and thus generate realistic voices? The idea was intriguing but seemed like a long shot. His manager at DeepMind , an AI research subsidiary of Google, gave him two weeks to try it out, saying that if it didn’t work, he should move on to something else.
+The results beat everyone’s expectations. Within two weeks, van den Oord had a prototype. Within three months, it was generating more realistic voices than any existing systems. Within another year, Google had begun using WaveNet , as the system came to be called, to generate voices for Google Assistant.
+WaveNet now powers 51 voices as well as Google’s newest voice assistant, which calls salons and restaurants on behalf of users to book appointments or reserve tables. The results are startlingly realistic. When Google CEO Sundar Pichai first demoed Duplex in 2018, with all its human-like “umms” and “ahs,” it set a new bar for what can be possible when people communicate with machines.
+While voice assistants need to do more than just generate a synthetic voice — they also need to be able to recognize when someone is talking and understand what’s being said, each of which is a challenge unto itself — researchers have long sought to create the right artificial voice for achieving natural and engaging conversations. “There’s a lot of meaning in a voice,” says van den Oord.
+by Karen Hao Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 The latest iteration of a legacy Advertise with MIT Technology Review © 2023 MIT Technology Review About About us Careers Custom content Advertise with us International Editions Republishing MIT News Help Help & FAQ My subscription Editorial guidelines Privacy policy Terms of Service Write for us Contact us twitterlink opens in a new window facebooklink opens in a new window instagramlink opens in a new window rsslink opens in a new window linkedinlink opens in a new window

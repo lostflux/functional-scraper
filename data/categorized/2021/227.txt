@@ -1,195 +1,66 @@
-old id = 2784
-Fast and energy-efficient neuromorphic deep learning with first-spike times | Nature Machine Intelligence
+old id = 574
+35 Innovators Under 35: Jonathan Gootenberg | MIT Technology Review
 2021
-https://www.nature.com/articles/s42256-021-00388-x
+https://www.technologyreview.com/innovator/jonathan-gootenberg
 
-Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
-AdvertisementFast and energy-efficient neuromorphic deep learning with first-spike timesNature Machine Intelligencevolume3,pages823–835 (2021)Cite this article2017Accesses11Citations86AltmetricMetricsdetailsSubjectsAbstractFor a biological agent operating under environmental pressure, energy consumption and reaction times are of critical importance. Similarly, engineered systems are optimized for short time-to-solution and low energy-to-solution characteristics. At the level of neuronal implementation, this implies achieving the desired results with as few and as early spikes as possible. With time-to-first-spike coding, both of these goals are inherently emerging features of learning. Here, we describe a rigorous derivation of a learning rule for such first-spike times in networks of leaky integrate-and-fire neurons, relying solely on input and output spike times, and show how this mechanism can implement error backpropagation in hierarchical spiking networks. Furthermore, we emulate our framework on the BrainScaleS-2 neuromorphic system and demonstrate its capability of harnessing the system’s speed and energy characteristics. Finally, we examine how our approach generalizes to other neuromorphic platforms by studying how its performance is affected by typical distortive effects induced by neuromorphic substrates.
-Your institute does not have access to this articleAccess optionsSubscribe to Nature+Get immediate online access to the entire Nature family of 50+ journals$29.99monthlySubscribe to JournalGet full journal access for 1 year$99.00only $8.25 per issueAll prices are NET prices.
-VAT will be added later in the checkout.
-Tax calculation will be finalised during checkout.
-Buy articleGet time limited or full article access on ReadCube.
-$32.00All prices are NET prices.
-Additional access options:Data availabilityWe used the MNIST66and the Yin-Yang dataset65. For the latter, seehttps://github.com/lkriener/yin_yang_data_set.
-Code availabilityCode for the simulations81is available athttps://github.com/JulianGoeltz/fastAndDeep.
-ReferencesKrizhevsky, A., Sutskever, I. & Hinton, G. E. ImageNet classification with deep convolutional neural networks. InAdvances in Neural Information Processing Systems1097–1105 (NIPS, 2012).
-Silver, D. et al. Mastering the game of Go without human knowledge.
-Nature550, 354–359 (2017).
-ArticleGoogle ScholarBrown, T. B. et al. Language models are few-shot learners. Preprint athttps://arxiv.org/pdf/2005.14165.pdf(2020).
-Brooks, R., Hassabis, D., Bray, D. & Shashua, A. Is the brain a good model for machine intelligence?.
-Nature482, 462–463 (2012).
-ArticleGoogle ScholarNg, A. What artificial intelligence can and can’t do right now.
-Harvard Business Review(9 November 2016).
-Hassabis, D., Kumaran, D., Summerfield, C. & Botvinick, M. Neuroscience-inspired artificial intelligence.
-Neuron95, 245–258 (2017).
-ArticleGoogle ScholarSejnowski, T. J.
-The Deep Learning Revolution(MIT Press, 2018).
-Richards, B. A. et al. A deep learning framework for neuroscience.
-Nat. Neurosci.
-22, 1761–1770 (2019).
-ArticleGoogle ScholarPfeiffer, M. & Pfeil, T. Deep learning with spiking neurons: opportunities and challenges.
-Front. Neurosci12, 774 (2018).
-ArticleGoogle ScholarGerstner, W. What is different with spiking neurons? InPlausible Neural Networks for Biological Modelling. Mathematical Modelling:Theory and ApplicationsVol 13. (eds Mastebroek, H. A. K. & Vos, J. E.) 23–48 (Springer, 2001).
-Izhikevich, E. M. Which model to use for cortical spiking neurons?IEEE Trans. Neural Netw.
-15, 1063–1070 (2004).
-ArticleGoogle ScholarGerstner, W.
-Spiking Neurons(MIT Press, 1998).
-Maass, W. Searching for principles of brain computation.
-Curr. Opin. Behav. Sci.
-11, 81–92 (2016).
-ArticleGoogle ScholarDavies, M. Benchmarks for progress in neuromorphic computing.
-Nat. Mach. Intell.
-1, 386–388 (2019).
-ArticleGoogle ScholarLinnainmaa, S.
-The Representation of the Cumulative Rounding Error of an Algorithm as a Taylor Expansion of the Local Rounding Errors. Master’s thesis (in Finnish), Univ. Helsinki 6–7 (1970).
-Werbos, P. J. Applications of advances in nonlinear sensitivity analysis. InSystem Modeling and Optimization.
-Lecture Notes in Control and Information SciencesVol. 38 (eds Drenick, R. F. & Kozin, F.) 762–770 (Springer, 1982).
-Rumelhart, D. E., Hinton, G. E. & Williams, R. J. Learning representations by back-propagating errors.
-Nature323, 533–536 (1986).
-MATHArticleGoogle ScholarTavanaei, A., Ghodrati, M., Kheradpisheh, S. R., Masquelier, T. & Maida, A. Deep learning in spiking neural networks.
-Neural Netw111, 47–63 (2018).
-ArticleGoogle ScholarNeftci, E. O., Mostafa, H. & Zenke, F. Surrogate gradient learning in spiking neural networks: Bringing the power of gradient-based optimization to spiking neural networks.
-IEEE Signal Process.
-36, 51–63 (2019).
-ArticleGoogle ScholarGütig, R. & Sompolinsky, H. The tempotron: a neuron that learns spike timing-based decisions.
-Nat. Neurosci.
-9, 420–428 (2006).
-ArticleGoogle ScholarCao, Y., Chen, Y. & Khosla, D. Spiking deep convolutional neural networks for energy-efficient object recognition.
-Int. J. Comput. Vis.
-113, 54–66 (2015).
-MathSciNetArticleGoogle ScholarDiehl, P. U., Zarrella, G., Cassidy, A., Pedroni, B. U. & Neftci, E. Conversion of artificial recurrent neural networks to spiking neural networks for low-power neuromorphic hardware. InProc. 2016 IEEE International Conference on Rebooting Computing(ICRC) 1–8 (IEEE, 2016).
-Schmitt, S. et al. Neuromorphic hardware in the loop: training a deep spiking network on the BrainScaleS wafer-scale system. InProc.
-2017 International Joint Conference on Neural Networks(IJCNN) 2227–2234 (2017).
-Wu, J., Chua, Y., Zhang, M., Yang, Q., Li, G., & Li, H. Deep spiking neural network with spike count based learning rule. InInternational Joint Conference on Neural Networks1–6 (IEEE, 2019).
-Thakur, C. S. T. et al. Large-scale neuromorphic spiking array processors: a quest to mimic the brain.
-Front. Neurosci.
-12, 891 (2018).
-ArticleGoogle ScholarMead, C. Neuromorphic electronic systems.
-Proc. IEEE78, 1629–1636 (1990).
-ArticleGoogle ScholarRoy, K., Jaiswal, A. & Panda, P. Towards spike-based machine intelligence with neuromorphic computing.
-Nature575, 607–617 (2019).
-ArticleGoogle ScholarPetrovici, M. A., Bill, J., Bytschok, I., Schemmel, J. & Meier, K. Stochastic inference with deterministic spiking neurons. Preprint athttps://arxiv.org/pdf/1311.3211.pdf(2013).
-Neftci, E., Das, S., Pedroni, B., Kreutz-Delgado, K. & Cauwenberghs, G. Event-driven contrastive divergence for spiking neuromorphic systems.
-Front. Neurosci.
-7, 272 (2014).
-ArticleGoogle ScholarPetrovici, M. A., Bill, J., Bytschok, I., Schemmel, J. & Meier, K. Stochastic inference with spiking neurons in the high-conductance state.
-Phys. Rev. E94, 042312 (2016).
-MathSciNetArticleGoogle ScholarNeftci, E. O., Pedroni, B. U., Joshi, S., Al-Shedivat, M. & Cauwenberghs, G. Stochastic synapses enable efficient brain-inspired learning machines.
-Front. Neurosci.
-10, 241 (2016).
-ArticleGoogle ScholarLeng, L. et al. Spiking neurons with short-term synaptic plasticity form superior generative networks.
-Sci. Rep.
-8, 10651 (2018).
-ArticleGoogle ScholarKungl, A. F. et al. Accelerated physical emulation of Bayesian inference in spiking neural networks.
-Front. Neurosci.
-13, 1201 (2019).
-ArticleGoogle ScholarDold, D. et al. Stochasticity from function-why the Bayesian brain may need no noise.
-Neural Netw.
-119, 200–213 (2019).
-ArticleGoogle ScholarJordan, J. et al. Deterministic networks for probabilistic computing.
-Sci. Rep.
-9, 18303 (2019).
-ArticleGoogle ScholarHunsberger, E. & Eliasmith, C. Training spiking deep networks for neuromorphic hardware. Preprint athttps://arxiv.org/pdf/1611.05141.pdf(2016).
-Kheradpisheh, S. R., Ganjtabesh, M., Thorpe, S. J. & Masquelier, T. STDP-based spiking deep convolutional neural networks for object recognition.
-Neural Netw.
-99, 56–67 (2018).
-ArticleGoogle ScholarIlling, B., Gerstner, W. & Brea, J. Biologically plausible deep learning-but how far can we go with shallow networks?.
-Neural Netw118, 90–101 (2019).
-ArticleGoogle ScholarBohte, S. M., Kok, J. N. & La Poutré, J. A. Spikeprop: backpropagation for networks of spiking neurons. In8th European Symposium on Artificial Neural Networks419–424 (2000).
-Zenke, F. & Ganguli, S. Superspike: supervised learning in multilayer spiking neural networks.
-Neural Comput.
-30, 1514–1541 (2018).
-MathSciNetArticleGoogle ScholarHuh, D. & Sejnowski, T. J. Gradient descent for spiking neural networks. InAdvances in Neural Information Processing SystemsVol. 31, 1433–1443 (NIPS, 2018).
-Thorpe, S., Delorme, A. & Van Rullen, R. Spike-based strategies for rapid processing.
-Neural Netw.
-14, 715–725 (2001).
-ArticleGoogle ScholarThorpe, S., Fize, D. & Marlot, C. Speed of processing in the human visual system.
-Nature381, 520–522 (1996).
-ArticleGoogle ScholarJohansson, R. S. & Birznieks, I. First spikes in ensembles of human tactile afferents code complex spatial fingertip events.
-Nat. Neurosci.
-7, 170–177 (2004).
-ArticleGoogle ScholarGollisch, T. & Meister, M. Rapid neural coding in the retina with relative spike latencies.
-Science319, 1108–1111 (2008).
-ArticleGoogle ScholarSchemmel, J. et al. A wafer-scale neuromorphic hardware system for large-scale neural modeling. InProc. 2010 IEEE International Symposium on Circuits and Systems1947–1950 (IEEE, 2010).
-Akopyan, F. et al. TrueNorth: design and tool flow of a 65 mW 1 million neuron programmable neurosynaptic chip.
-IEEE Trans. Comput. Aided Design Integrated Circuits Syst.
-34, 1537–1557 (2015).
-ArticleGoogle ScholarBillaudelle, S. et al. Versatile emulation of spiking neural networks on an accelerated neuromorphic substrate. InIEEE International Symposium on Circuits and Systems1–5 (IEEE, 2020).
-Davies, M. et al. Loihi: a neuromorphic manycore processor with on-chip learning.
-IEEE Micro38, 82–99 (2018).
-ArticleGoogle ScholarMayr, C., Höppner, S., & Furber, S. SpiNNaker 2: a 10 million core processor system for brain simulation and machine learning-keynote presentation. InCommunicating Process Architectures 2017 & 2018277–280 (IOS Press, 2019).
-Pei, J. et al. Towards artificial general intelligence with hybrid Tianjic chip architecture.
-Nature572, 106–111 (2019).
-ArticleGoogle ScholarMoradi, S., Qiao, N., Stefanini, F. & Indiveri, G. A scalable multicore architecture with heterogeneous memory structures for dynamic neuromorphic asynchronous processors (dynaps).
-IEEE Trans. Biomed. Circuits Syst.
-12, 106–122 (2017).
-ArticleGoogle ScholarMostafa, H. Supervised learning based on temporal coding in spiking neural networks.
-IEEE Trans. Neural Netw. Learn. Syst.
-29, 3227–3235 (2017).
-Google ScholarKheradpisheh, S. R. & Masquelier, T. S4NN: temporal backpropagation for spiking neural networks with one spike per neuron.
-Int. J. Neural Syst.
-30, 2050027 (2020).
-ArticleGoogle ScholarRauch, A., La Camera, G., Luscher, H.-R., Senn, W. & Fusi, S. Neocortical pyramidal cells respond as integrate-and-fire neurons to in vivo-like input currents.
-J. Neurophysiol.
-90, 1598–1612 (2003).
-ArticleGoogle ScholarGerstner, W. & Naud, R. How good are neuron models?Science326, 379–380 (2009).
-ArticleGoogle ScholarTeeter, C. et al. Generalized leaky integrate-and-fire models classify multiple neuron types.
-Nat. Commun.
-9, 709 (2018).
-ArticleGoogle ScholarGöltz, J.
-Training Deep Networks with Time-to-First-Spike Coding on the BrainScaleS Wafer-Scale System. Master’s thesis, Universität Heidelberg (2019);http://www.kip.uni-heidelberg.de/Veroeffentlichungen/details.php?id=3909Friedmann, S. et al. Demonstrating hybrid learning in a flexible neuromorphic hardware system.
-IEEE Trans. Biomed. Circuits Syst.
-11, 128–142 (2017).
-ArticleGoogle ScholarProdromakis, T. & Toumazou, C. A review on memristive devices and applications. InProc.
-2010 17th IEEE International Conference on Electronics,Circuits and Systems934–937 (IEEE, 2010).
-Esser, S. K., Appuswamy, R., Merolla, P., Arthur, J. V. & Modha, D. S. Backpropagation for energy-efficient neuromorphic computing. InAdvances in Neural Information Processing Systems1117–1125 (NIPS, 2015).
-van De Burgt, Y., Melianas, A., Keene, S. T., Malliaras, G. & Salleo, A. Organic electronics for neuromorphic computing.
-Nat. Electron.
-1, 386–397 (2018).
-ArticleGoogle ScholarWunderlich, T. et al. Demonstrating advantages of neuromorphic computation: a pilot study.
-Front. Neurosci.
-13, 260 (2019).
-ArticleGoogle ScholarFeldmann, J., Youngblood, N., Wright, C., Bhaskaran, H. & Pernice, W. All-optical spiking neurosynaptic networks with self-learning capabilities.
-Nature569, 208–214 (2019).
-ArticleGoogle ScholarKriener, L., Göltz, J. & Petrovici, M. A. The yin-yang dataset. Preprint athttps://arxiv.org/pdf/2102.08211.pdf(2021).
-LeCun, Y., Bottou, L., Bengio, Y. & Haffner, P. Gradient-based learning applied to document recognition.
-Proc. IEEE86, 2278–2324 (1998).
-ArticleGoogle ScholarSchemmel, J., Billaudelle, S., Dauer, P. & Weis, J. Accelerated analog neuromorphic computing. Preprint athttps://arxiv.org/pdf/2003.11996.pdf(2020).
-Comsa, I. M. et al. Temporal coding in spiking neural networks with alpha synaptic function. InProc. 2020 IEEE International Conference on Acoustics,Speech and Signal Processing(ICASSP) 8529–8533 (IEEE, 2020).
-Tavanaei, A., Kirby, Z. & Maida, A. S. Training spiking ConvNets by STDP and gradient descent. InProc.
-2018 International Joint Conference on Neural Networks(IJCNN) 1–8 (IEEE, 2018).
-Aamir, S. A. et al. An accelerated LIF neuronal network array for a large-scale mixed-signal neuromorphic architecture.
-IEEE Trans. Circuits Syst. I Regular Papers65, 4299–4312 (2018).
-ArticleGoogle ScholarPetrovici, M. A. et al. Characterization and compensation of network-level anomalies in mixed-signal neuromorphic modeling platforms.
-PLoS ONE9, e108590 (2014).
-ArticleGoogle ScholarCramer, B. et al. Training spiking multi-layer networks with surrogate gradients on an analog neuromorphic substrate. Preprint athttps://arxiv.org/pdf/2006.07239.pdf(2020).
-Petrovici, M. A.
-Form Versus Function:Theory and Models for Neuronal Substrates(Springer, 2016).
-Hubara, I., Courbariaux, M., Soudry, D., El-Yaniv, R. & Bengio, Y. Quantized neural networks: training neural networks with low precision weights and activations.
-J. Mach. Learn. Res.
-18, 6869–6898 (2017).
-MathSciNetMATHGoogle ScholarPayeur, A., Guerguiev, J., Zenke, F., Richards, B. A. & Naud, R. Burst-dependent synaptic plasticity can coordinate learning in hierarchical circuits. Preprint atbioRxivhttps://doi.org/10.1101/2020.03.30.015511(2020).
-Sacramento, J., Ponte Costa, R., Bengio, Y. & Senn, W. Dendritic cortical microcircuits approximate the backpropagation algorithm. InAdvances in Neural Information Processing SystemsVol. 31, 8721–8732 (NIPS, 2018).
-Aamir, S. A. et al. A mixed-signal structured AdEx neuron for accelerated neuromorphic cores.
-IEEE Trans. Biomed. Circuits Syst.
-12, 1027–1037 (2018).
-ArticleGoogle ScholarMüller, E. et al. Extending BrainScaleS OS for BrainscaleS-2. Preprint athttps://arxiv.org/pdf/2003.13750.pdf(2020).
-Paszke, A. et al. PyTorch: an imperative style, high-performance deep learning library. InAdvances in Neural Information Processing SystemsVol. 32, 8024–8035 (NIPS, 2019).
-Kingma, D. P. & Ba, J. Adam: a method for stochastic optimization. Preprint athttps://arxiv.org/pdf/1412.6980.pdf(2014).
-Göltz, J. et al. Fast and energy-efficient neuromorphic deep learning with first-spike times (Zenodo, 2021);https://doi.org/10.5281/zenodo.5115007Stromatias, E. et al. Scalable energy-efficient, low-latency implementations of trained spiking deep belief networks on SpiNNaker. InProc. 2015 International Joint Conference on Neural Networks(IJCNN) 1–8 (2015).
-Renner, A., Sheldon, F., Zlotnik, A., Tao, L. & Sornborger, A. The backpropagation algorithm implemented on spiking neuromorphic hardware. Preprint athttps://arxiv.org/pdf/2106.07030.pdf(2021).
-Chen, G. K., Kumar, R., Sumbul, H. E., Knag, P. C. & Krishnamurthy, R. K. A 4096-neuron 1M-synapse 3.8-pJ/SOP spiking neural network with on-chip STDP learning and sparse weights in 10-nm FinFET CMOS.
-IEEE J. Solid State Circuits54, 992–1002 (2018).
-ArticleGoogle ScholarDownload referencesAcknowledgementsWe thank J. Jordan and N. Gürtler for valuable discussions, S. Schmitt for assistance with BrainScaleS-1, V. Karasenko, P. Spilger and Y. Stradmann for taming physics, as well as M. Davies and Intel for their ongoing support (L.K., W.S., M.A.P.). Some calculations were performed on UBELIX, the HPC cluster at the University of Bern. Our work has greatly benefitted from access to the Fenix Infrastructure resources, which are partially funded from the European Union’s Horizon 2020 research and innovation programme through the ICEI project under grant agreement no. 800858. Some simulations were performed on the bwForCluster NEMO, supported by the state of Baden–Württemberg through bwHPC and the German Research Foundation (DFG) through grant no. INST 39/963-1 FUGG. We gratefully acknowledge funding from the European Union for the Human Brain Project under grant agreements 604102 (J.S., K.M., M.A.P.), 720270 (S.B., O.B., B.C., J.S., K.M., M.A.P.), 785907 (S.B., O.B., B.C., W.S., J.S., K.M., M.A.P.), 945539 (L.K., A.B., S.B., O.B., B.C., W.S., J.S., M.A.P.) and the Manfred Stärk Foundation (J.G., A.B., D.D., A.F.K., K.M., M.A.P.).
-Author informationThese authors contributed equally: J. Göltz, L. Kriener.
-AffiliationsKirchhoff-Institute for Physics, Heidelberg University, Heidelberg, GermanyJ. Göltz, A. Baumbach, S. Billaudelle, O. Breitwieser, B. Cramer, D. Dold, A. F. Kungl, J. Schemmel, K. Meier & M. A. PetroviciDepartment of Physiology, University of Bern, Bern, SwitzerlandJ. Göltz, L. Kriener, W. Senn & M. A. PetroviciSiemens AI lab, Siemens AG Technology, Munich, GermanyD. DoldYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarYou can also search for this author inPubMedGoogle ScholarContributionsJ.G., A.B. and M.A.P. designed the conceptual and experimental approach. J.G. derived the theory, implemented the algorithm and performed the hardware experiments. L.K. embedded the algorithm into a comprehensive training framework and performed the simulation experiments. A.B. and O.B. offered substantial software support. S.B., B.C., J.G. and A.F.K. provided low-level software for interfacing with the hardware. J.G., L.K., D.D., S.B. and M.A.P. wrote the manuscript.
-Corresponding authorsCorrespondence toJ. Göltz,L. KrienerorM. A. Petrovici.
-Ethics declarationsCompeting interestsThe authors declare no competing interests.
-Additional informationPeer review informationNature Machine Intelligencethanks the anonymous reviewers for their contribution to the peer review of this work.
-Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
-Supplementary informationSupplementary InformationSupplementary text with sections SI.A to SI.F, six figures (SI.A1, SI.C1, SI.D1, SI.E1, SI.E2, SI.F1) and four tables (SI.B1, SI.F1-3).
-Rights and permissionsReprints and PermissionsAbout this articleCite this articleGöltz, J., Kriener, L., Baumbach, A.
-et al.
-Fast and energy-efficient neuromorphic deep learning with first-spike times.
-Nat Mach Intell3,823–835 (2021). https://doi.org/10.1038/s42256-021-00388-xDownload citationReceived:17 November 2020Accepted:30 July 2021Published:17 September 2021Issue Date:September 2021DOI:https://doi.org/10.1038/s42256-021-00388-xShare this articleAnyone you share the following link with will be able to read this content:Sorry, a shareable link is not currently available for this article.
-Provided by the Springer Nature SharedIt content-sharing initiativeFurther readingNeuromorphic scaling advantages for energy-efficient random walk computationsNature Electronics(2022)Sparsity provides a competitive advantageNature Machine Intelligence(2021)Associated ContentSparsity provides a competitive advantageAdvertisementExplore contentAbout the journalPublish with usSearchAdvanced searchQuick linksNature Machine Intelligence (Nat Mach Intell)ISSN2522-5839(online)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature LimitedSign up for theNature Briefingnewsletter — what matters in science, free to your inbox daily.
+Featured Topics Newsletters Events Podcasts Featured Topics Newsletters Events Podcasts 2021 Inventors Their innovations point the way toward light-based chips, better gene editing, and skin-like electronics.
+Lan Truong Full list Categories Past Years Age: 30 Affiliation: MIT Jonathan Gootenberg Expanding the capabilities of gene editing.
+The gene-editing tool CRISPR uses a protein called Cas9 to snip out a targeted part of the genome. It does amazing work but has downsides. It can cause unintended edits to other places in the genome, and if you want to make only a temporary tweak, Cas9 can’t do it.
+Jonathan Gootenberg is creating other editing tools to get around these shortcomings and add to the capabilities of CRISPR. ­Gootenberg has used Cas12 — a more compact protein than Cas9 — to edit many genes at a time. This capability could be used to edit a patient’s immune cells so that they fight cancer.
+Then there’s Cas13.
+ ­Gootenberg and his colleague Omar ­Abudayyeh (a 2020 Innovator Under 35) demonstrated that the protein could target RNA instead of DNA — an intriguing finding. Many viruses have RNA as their genetic material, and bacteria have both DNA and RNA, so the researchers reasoned that you could use Cas13 to find genetic material from pathogens in human cells. That led to repurposing the gene-editing tool as a paper-based diagnostic test, and in 2019 ­Gootenberg and Abudayyeh cofounded Sherlock Biosciences to commercialize the technology.
+by Emily Mullin Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 29 Affiliation: Bolt Biotherapeutics Shelley Ackerman She co-invented a novel immunotherapy for difficult-to-treat cancers.
+Using the body’s own immune system to fight cancer has shown promise against several types of tumors, but it’s not always effective. “There’s a whole subset of patients that it really doesn’t work well in,” says Shelley Ackerman.
+Tumors have to be “hot,” or inflamed, for immunotherapy drugs to work well. Hot tumors are characterized by the presence of a type of immune cell called T cells. Immunotherapy drugs give those T cells a boost, making them better cancer fighters. But many tumors are “cold” and thus evade the immune system. Without any T cells to work with, immunotherapy drugs fail against these tumors.
+As a graduate student at Stanford, Ackerman worked with Edgar Engleman , a professor of medicine and pathology, to develop a therapy aimed at turning cold tumors into hot ones. The approach uses a tumor-targeting antibody chemically attached to an immune-stimulating small-molecule drug that prompts the immune system to recognize and attack the tumor, transforming it into a hot one invaded by tumor-killing T cells. Engleman founded a biotech company, Bolt Biotherapeutics , in 2015 to commercialize the approach; Ackerman joined Bolt in 2018.
+As a child, Ackerman lost her uncle and a close friend to metastatic cancer within a year, and that experience made her want to keep working on the therapy in hopes that it would one day be used to treat patients.
+Last year, Bolt began testing its approach in patients with breast, gastric, and other tumors that express a protein known as HER2.
+ The company, which has raised $438 million in funding, is also developing drugs for colorectal, lung, and pancreatic cancers.
+by Emily Mullin Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 32 Affiliation: Google Ryan Babbush Efficient quantum simulation algorithms might help find novel, powerful materials.
+Molecules are complicated. Forget the grade-school picture of electrons orbiting a nucleus like planets around the sun. Electrons can be shared among many atomic nuclei. They interact with one another in ways described by the equations of quantum mechanics. It’s these complex interactions, which grow exponentially with the number of electrons, that largely govern chemical reactions and the properties of molecules.
+Simulating these electrons with perfect precision might take a conventional computer millions of years. But algorithms running on quantum computers might be able to perform precise computations in days or even hours. This would provide clues on how to precisely design molecules with desired properties and tailor their reactions with amazing control.
+Sufficiently precise quantum simulation might allow chemists to create new compounds like better high-temperature superconductors, catalysts that could take nitrogen or carbon dioxide out of the air, new drugs, more efficient solar cells, strong lightweight materials for airplanes, and so forth. It would be a way to quickly figure out how a new substance would behave without actually having to synthesize it. It might herald a new age of materials science.
+Between 2014 and 2020, Ryan Babbush published dozens of papers —together with collaborators at Google and elsewhere—that outlined dramatically more efficient quantum simulation algorithms. The upshot is that some quantum simulation calculations could, in principle, be done in hours, on a sufficiently powerful quantum computer.
+Take the case of nitrogenase, an enzyme that some bacteria use to remove nitrogen from the air and create ammonia, a compound of nitrogen and hydrogen. This process, known as nitrogen fixation, is essential for agriculture, which is why nitrogen-based fertilizers are a linchpin of the world’s food system. Nitrogenase is a big molecule that includes a catalytic site known as FeMoco.
+Currently, an energy-intensive technique known as the Haber-Bosch process produces most fertilizers, accounting for about 2% of humanity’s total energy usage. “If we could figure out how that enzyme [nitrogenase] is doing this, then we might be able to design an industrially viable alternative for producing fertilizer, which could scale and save a huge amount of energy,” Babbush says.
+He and his collaborators have found a potential way to use a quantum computer to analyze FeMoco and shed light on the mechanism by which it first breaks the bonds between nitrogen atoms that are bound together in nitrogen gas and then succeeds in combining the nitrogen with hydrogen. (Babbush acknowledges that competing approaches using clever approximations to simulate molecules on classical computers might get there first.) Another line of research that Babbush has advanced aims to figure out how quantum computers can calculate the behavior of electrons in metals and crystals. Potential applications could include finding better superconductors or making more efficient solar cells. In these materials, the repeating pattern of the atoms creates very complicated behavior among the interdependent electrons. And Babbush is figuring out how quantum computers can be used to make sense of these interactions.
+If quantum computers succeed in remaking our material world, Babbush’s work will be one reason why.
+by Siobhan Roberts Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 33 Affiliation: North Carolina State University Amay Bandodkar His lightweight sensors could make wearable tech more useful and practical.
+Wearable technology can provide real-time information about a person’s health and fitness, but creating sensors that can collect data without a cumbersome and impractical system of staying powered has proved difficult.
+Amay Bandodkar thinks he’s hit on a new way of creating “self-powered” biochemical sensors through unconventional technologies, making wearable tech lighter and less cumbersome. It’s about four times smaller and 20 times lighter than similar devices produced two years ago, he says.
+The key to shrinking the sensor was overhauling how it’s powered. “All the groups that were working on this were using these really bulky batteries, and the sensor was around 3% of the total size and weight,” he says. So he built a sensor that doesn’t require a battery: it harnesses the catalytic properties of enzymes to generate signals without the need for power sources. While this concept can be used to develop self-powered sensors for some chemicals, for other kinds of sensors that still need a power source, Bandodkar has developed a lightweight battery that runs on sweat.
+ It’s made of a magnesium anode and a cathode made of silver and silver chloride, separated by a dry cellulose membrane. When a person wearing it starts to perspire, the cellulose membrane absorbs the sweat and acts as an electrolyte, effectively turning the battery on and powering the sensor.
+Bandodkar has successfully tested out a heart-rate sensor running on his battery, opening the gateway for heart-monitoring wearables.
+by Neel V. Patel Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 33 Affiliation: Lightmatter Nicholas Harris Shining light through optical chips might be the fastest way for neural networks to make decisions.
+For decades physicists and engineers have dreamed of making optical chips that use photons, not electrons, to do computing. Such circuits could be lightning fast and energy efficient. But making them work has been difficult.
+In 2017, Nicholas Harris, together with Yichen Shen and other colleagues at MIT, published a widely cited paper describing a design that allowed them to calculate the outputs of neural networks that had been conventionally trained.
+The paper describes a circuit of 56 programmable interferometers—devices that carefully break apart and recombine light waves. The circuits they created solved a simplified problem of recognizing vowels correctly—distinguishing about three quarters of the 180 cases they tried. This wasn’t as good as a conventional computer, which got over 90% of them right. Shortly thereafter, Shen and Harris launched competing startups.
+Once a given neural network has been trained and implemented on an optical chip, performing inferences— figuring out which vowel corresponds to which sound, or how an autonomous car should react if a pedestrian steps into the street—can be almost as simple as shining light through it. This has the advantage of being both fast and energy efficient.
+In March 2021, Lightmatter announced it would soon start selling a “machine-learning accelerator” chip.
+ “It’s just a completely different kind of computer,” says Harris. “Right now we’re at about a factor of 20 times more efficient than the most advanced node in digital computers.” Lightmatter closed a second round of funding in May, bringing its total investment to $113 million.
+by Konstantin Kakaes Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 32 Affiliation: Lightelligence Yichen Shen Optical chips that can make calculations for neural networks are poised to become big business.
+There are two basic types of computations involving neural networks. First, the networks must be trained, which usually involves showing them lots of data, causing them to adjust the strength of the connections between their numerous “neurons.” Next, those existing connections are used to make decisions. It’s the difference between learning to drive and driving.
+The difference is crucial. If a neural network takes weeks to learn how to recognize images, that’s not necessarily a problem. But if it is driving an autonomous car, it needs to be able to make life-or-death inferences in fractions of a second.
+That’s where optical computers come in. Despite decades of research, they’ve never worked that well. It’s harder to manipulate photons than electrons. But for certain types of computations—like those commonly needed when using an existing neural network to make inferences—photons are just the thing.
+In 2017, Yichen Shen and Nicholas Harris published a widely cited paper on the use of optical circuits for machine-learning tasks including speech and image recognition. Their design, one review article notes, “represents a truly parallel implementation of one of the most crucial building blocks of neural networks using light, and modern foundries could easily mass-fabricate this type of photonic system.” This means that optical computers on a chip could become a huge business, with one in every device that uses a neural network to make decisions.
+Shen and Harris now run competing startups. Shen’s firm, Lightelligence , released a prototype optical AI chip in 2019, and Shen says they have secured over $100 million in funding.
+by Konstantin Kakaes Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 31 Affiliation: Carnegie Mellon University Virginia Smith Her AI techniques are efficient and accurate while preserving fairness and privacy.
+When Virginia Smith began her PhD in artificial intelligence, she had a question: How do you train a neural network on data that is stored across multiple machines? Her attempts to answer it have made her a leader in the field of federated learning , which seeks to handle data spread across hundreds, or even millions, of remote sources.
+Google researchers first introduced federated learning in 2017 to use with the company’s mobile devices. The method they devised involved training millions of neural networks locally before sending them to a company server to be merged together in a master model. It allowed the master model to train on data from every device without making it necessary to centralize that data. This not only reduced latency in the mobile experience but could also improve each user’s data privacy.
+But combining millions of AI models also risks creating a central model that performs well on average but poorly for outliers—for example, voice recognition software that fails when the speaker has an unfamiliar accent.
+So Smith proposed a new technique for more “personalized” federated learning.
+ Rather than merge a million localized models into one, it merges the most similar localized models into a few—the more heterogeneous the data, the greater the number of final models. Each model still learns from many devices but is also tailored to specific subsets of the user population.
+Smith also works to overcome other challenges in federated learning, such as accounting for different power and memory constraints on different devices. To encourage more research, she co-created an open-source tool that lets researchers test their federated techniques on more realistic data sets and in more realistic environments.
+by Karen Hao Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 34 Affiliation: IBM Xiao Sun He designs imprecise—but energy-efficient—AI hardware and software.
+Artificial-intelligence systems often require a vast amount of computation. That’s why in recent years, AI hardware researchers have been striving to achieve lower precision, which is good enough to produce a correct answer but avoids the use of calculations that require keeping track of lots of digits.
+Deep learning relies on networks that might have dozens of layers, and millions, or even billions, of parameters that must be adjusted to the correct values, a process called training the network. This often takes days or weeks of computations using hundreds of specialized chips.
+Xiao Sun is part of a research group at IBM that has been finding ways to perform those computations using three-digit, or even just two-digit, numbers (in contrast, a modern laptop or cell phone uses 20 digits to make calculations, while most dedicated machine-learning chips use five).
+The real trick is in finding techniques that allow for small numbers to be used throughout the computation. You might still have to do many trillions of computations, but each one will be far simpler. This saves both time and energy—using two-digit numbers is more than 20 times more energy efficient than doing the same calculations using numbers in the billions, according to a paper by Sun and colleagues at IBM.
+In February, IBM announced a new chip , based in part on Sun’s work, that trains neural networks using computations involving mostly three-digit numbers. The company hopes to use it not only to train large neural networks in cloud computing centers but also in mobile phones that could train on local data.
+by Patrick Howell O'Neill Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 Age: 33 Affiliation: Argonne National Laboratory Jie Xu She makes durable, easy-to-manufacture polymer semiconductors for skin-like electronics.
+Jie Xu has made printable, stretchable electronics viable for mass production. Her multiple breakthroughs could be used in future wearable technology, advanced robotics, and human-computer interfaces with sensors connected to the skin.
+The key for Xu was inventing polymer circuits that kept working despite being flexed, stretched, and repeatedly moved. That had been a challenge for researchers until 2016, when Xu engineered a two-polymer coating applied to a rubbery surface that could be stretched to twice its size and still conduct electricity.
+In 2019, she refined the technology so that her stretchable semiconductors could be mass-produced using roll-to-roll manufacturing, a common industrial fabrication process used to print anything from textiles to plastics on large rollers. It was the first time anyone had achieved such a feat at scale.
+In the short term, Xu’s materials and manufacturing inventions can make flexible displays and skin-worn medical sensors much more practical and easy to make. Samsung Electronics has already patented two methods Xu helped define during collaboration with the company. Xu’s materials could also aid in the design of prosthetics with functional skin-like outer coverings.
+Wary of adding yet more plastics into the world, Xu is searching for versions of the polymer semiconducting materials that are recyclable or biodegradable. “I think that kind of idea should be integrated from the very beginning of any commercial material,” she says.
+by Russ Juskalian Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window June 30, 2021 The latest iteration of a legacy Advertise with MIT Technology Review © 2023 MIT Technology Review About About us Careers Custom content Advertise with us International Editions Republishing MIT News Help Help & FAQ My subscription Editorial guidelines Privacy policy Terms of Service Write for us Contact us twitterlink opens in a new window facebooklink opens in a new window instagramlink opens in a new window rsslink opens in a new window linkedinlink opens in a new window

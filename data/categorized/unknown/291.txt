@@ -1,9 +1,0 @@
-old id = 3103
-June 2021 | TOP500
-unknown
-https://top500.org/lists/top500/2021/06
-
-June 2021TOP500 ReleaseStatisticsDownloadsThe 57thedition of the TOP500 saw little change in the Top10. The only new entry in the Top10 is the Perlmutter system at NERSC at the DOE Lawrence Berkeley National Laboratory. The machine is based on the HPE Cray "Shasta" platform and a heterogeneous system with both GPU-accelerated and CPU-only nodes. Perlmutter achieved 64.6 Pflop/s, putting the supercomputer at No. 5 in the new list.
-The Japanese supercomputer Fugaku held onto the top spot on the list. A system codeveloped by Riken and Fujitsu, Fugaku has an HPL benchmark score of 442 Pflop/s. This performance exceeds the No. 2 Summit by 3x. The machine is based on Fujitsu's custom ARM A64FX processor. What's more, in single or further reduced precision, which is often used in machine learning and AI, Fugaku's peak performance is actually above an exaflop. Such an achievement has caused some to introduce this machine as the first "Exascale" supercomputer. Fugaku already demonstrated this new level of performance on the new HPL-AI benchmark with 2 Eflop/s.
-Outside of this, we saw quite a few instances of Microsoft Azure and Amazon EC2 Cloud instances fairly high on the list. Pioneer-EUS, the machine to snag the No. 24 spot and the No.27 Pioneer-WUS2, rely on Azure. The Amazon EC2 Instance Cluster at No. 41 utilizes Amazon EC2.
-Here is a summary of the systems in the Top10:Current List25 Year AnniversaryNewsletter SignupImprintContactLog inorSign upCopyright 1993-2021 TOP500.org (c)

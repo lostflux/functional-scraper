@@ -1,36 +1,133 @@
-old id = 53
-In the World of NFTs, Who's Making Money Off Your Image?  | WIRED
+old id = 339
+Commonsense reasoning and commonsense knowledge in artificial intelligence | Communications of the ACM
 2015
-https://www.wired.com/story/blockchain-copyright-portrait-piracy
+https://dl.acm.org/doi/10.1145/2701413
 
-To revist this article, visit My Profile, thenView saved stories.
-To revist this article, visit My Profile, thenView saved stories.
-MathanaIn the World of NFTs, Who's Making Money Off Your Image?To revist this article, visit My Profile, thenView saved stories.
-To revist this article, visit My Profile, thenView saved stories.
-Imagine this: youwalk into a contemporary art gallery and see a digitally rendered image of your face alongside an unsavory cast of industry compatriots, and as you get closer to your own face staring back at you like some kind of gallery mirror, you notice that the description placard has your full name on it and a little round orange sticker that seems to denote someone has paid money to enter their name into the artwork’s ownership ledger.
-You might be disturbed, not only that your name and face have been used without consent, but that your inclusion in this gallery was crafted as a tacit nod to an “investment-driven” art world of which you want no part.
-This speculative IRL example mirrors the emergence of “portrait piracy” in the non-fungible token (NFT) market: part identity theft, part exploitation imagery, part cryptocurrency side hustle. (NFTs are not tied to ownership of actual—digital or physical—artwork, but a receipt of the purchase of a record on a blockchain, like a notarized certificate of authenticity for digital collectables.)Two NFT collections have demonstrated how artists seeking to monetize nonconsensual images are using them to lucrative ends.
-MetaDeckzandCipher Punkswere collections of unauthorized portraits and names (somewhat resembling sports trading cards) of prominent internet personalities (popular Twitch streamers and digital rights advocates, respectively) set to be offered as NFTs. In the case of the Twitch streamers, the NFT collection was based on hand-drawn sketches of video stills from streaming footage. While the Cipher Punks NFT drop was also of fan art, it turned out the collection included multiple people from the information security and digital rights spaces who had faced allegations of toxic behavior and/or gender-based abuse.
-The idea that someone created a collection of marketable NFTs without having apparently done much research on the featured individuals or bothering to contact them is cringeworthy, but—even more concerning—these incidents also show how few safeguards there are in NFT marketplaces like OpenSea. Eventually, after individuals featured in the NFT drop raised objections, and afternegative press storiesbegan to circulate, both issuers apologized and took down their collection. Tellingly, it was the team behind the Cipher Punks NFT sale, andnot the OpenSea marketplace, thattook down the collection. Writing aMedium mea culpa post, the team took responsibility for the unauthorized images, saying “we apologize to each and every Cipher Punk for not taking consent and creating your NFTs.” But the incident remained a proof of concept for digital rights abuse and showed one of the ways the Web3 ecosystem could be used nonconsensually.
-Archivists are already highlighting shortcomings of the newVC-backedWeb3 ecosystem. The siteweb3isgoinggreat.com, for instance, humorously chronicles Web3 misfirings, such as theabuse and harassmentfaced by some beta testers on the new platform of one of Silicon Valley’s biggest companies. If abuse can happen in an ecosystem built around strongidentity management, where interactions are based on anonymity, blockchains, and cryptocurrencies, it seems a new type of web architecture has been launched with very little recourse for victims ofharassmentand without regard for the harm it could bring about. Now imagine an NFT drop doxxing ex-partners, ex-colleagues, or sex workers; dead-naming prominent trans people; or shaming adult film stars by using both their stage names and real names. Someone could even mint sexual exploitation imagery of an ex-partner. Discussing worst-case scenarios and threat-mapping avenues of exploitation is vital because precedents of abuse in the digital realm abound.
-The legal limitsof digital imagery are heating up, and the Web3 ecosystem is challenging norms around reproduction and reproducibility. Global brands have seen NFTs issued for images of products they hold copyrights and trademarks on. This has led to two high-profile brands taking legal action against NFT minters: Hermès issuing an artist for selling an NFT based on one of the company's signature handbagsand has accused the artist of “ripping off” its trademark, whileNike is suing a shoe resellerit has accused of trademark violation. These two examples show that brands may have recourse over unauthorized NFTs, but the case is not so clear for individuals who have had their portrait “pirated” as a digital asset.
-The question of who “owns” the representation, reproduction, and rights of our physical likeness is complicated and depends on where you are, and even who you are. While there is a debate regarding ownership of the likeness of one’s full body, as in the case of a French doctor who prompted outcry by attempting to sell an NFT of anX-ray of a victimof the 2015 Bataclan theater siege without consent, we will focus on portraits for the time being.
-Photographs are not copyrighted by default, but they gain IP protection once registered with an official copyright agency (like theUS Copyright Office). If a photographer copyrights (or has a copyright application in progress) an image they took, in most cases the photographer holds therights over that image, even if it is of you.
-In recent years, this issue has received greater attention. Writing inThe Cut,model Emily Ratajkowski chronicled her experience of being sued for posting her own image. Performers ranging fromAriana GrandatoDua Lipato rapperNashave faced legal action for posting paparazzi-snapped images of themselves on their own social media pages.
-In 2021, the now adult who appeared onan iconic Nirvana album coveralleged that he had been a victim of child sexual exploitation imagery and sued for damages, saying his image had been taken without consent; his case was dismissed after defense lawyers claimed in court that the alleged victim was seeking fame.
-Meanwhile, a rules change governing licensing rights for nonprofessional athletes in the US has made it possible for university sports stars tomonetize their image. In Europe, the legal struggle over the “right to the protection of one’s image” has been a hot-button issue before theEuropean Court of Human Rightsfor decades, though most cases have involved media portrayal of individuals, and no case law regarding digital assets like NFTs has yet emerged.
-Given the lack of uniform legal, technological, social, or regulatory recourse for individuals, we need to dosomething, and quickly, to deal with the proliferation of unauthorized portraits. Here are a few forms of recourse that could counter the proliferation of portrait piracy.
-Expand Personal LegalProtectionsOne solution is for people to use “publicity rights” to protect against misuse of their likeness. (The notion is sometimes dubbed ​​“personality rights” or “rights of persona.”) The International Trademark Associationdefinesthe right of publicity as IP protection that guards an individual against the commercial “misappropriation” of their likeness, name, photo/image, or any similarly identifying feature. Depending on the statutes, publicity rights may cover the commercialization of a person’s image, or even determine what privileges a rights holder or their estate mayretain after death. While similar to trademarks and copyright in theory, publicity rights require the enactment of specific legislation and therefore do not have much power as a globally applicable solution in the short term. For now, the legal landscape for such rights is territorially dependent and still evolving.
-In the US, there is no federal personality rights law, though states likeCaliforniaandNew Yorkhave their own state laws. In California, a person must be “readily identifiable” in order to have personality rights that protect their image from being exploited. The New York law, which came into effect in 2021 (afteradvocacy byby the Screen Actors Guild) is only applicable to groups like public figures and certain professional performers.
-So even in jurisdictions with some of the strongest legal protections, people need to be socially prominent to access legal recourse. Policymakers could, however, extend a right of publicity to all residents of a jurisdiction, basing new laws on the doctrine of personality rights so that anyone (not justprominent individualsand/or “public personalities”) could be covered under persona-IP protections.
-Make compliance compatible around the worldWhen it comes to the law, where an offense occurs geographically often dictates available legal recourse. Jurisdiction-specific protections create a patchwork of legal protections to guard against an international phenomenon. But just because pirating a portrait is not a crime where someone lives doesn’t mean no harm will result.
-By creating laws at different levels of governance across jurisdictions that are compatible, and even interoperable, lawmakers can make it easier for individuals, no matter who they are, to seek legal recourse if their likeness has been used in damaging ways. Both domestic and international regulatory compliance can be effective when legal norms are established and enforcement mechanisms have teeth. Multinational regulations like the GDPR have created uniform rules across Europe regarding data privacy, and laws like Germany’s NetzDB have forced platforms to adhere to specific content standards.
-Technical regulation could also coincide with oversight by securities regulators and other entities. The US Securities and Exchange Commission istaking aimat digital assets, exploring how to bring them into the securities fold. China hasbanned cryptocurrencyaltogether, though token sales of NTFs—while largely rebranded as “digital collectables”—have not been banned outright as of yet. (The case of “digital collectables” within the Chinese market is interesting, as it shows that such an asset class can exist without being tied to cryptocurrencies.) In the UK, meanwhile, tax collectors have for the first timeseized an NFTas part of a tax evasion case.
-Regulatory solutions should be codified regionally and internationally through compatible language and legal definitions. Policy solutions like “online harms and safety” bills could be used to expand recourse to citizens and noncitizens alike.
-Deduce governance lessons from social media platform regulationOpenSea’s “fraudulent content” reportingformdoesn’t covercopyright and trademarkrequests. For IP claims, the marketplace has a specific, offsitetakedown request form. But while OpenSea has reached a critical mass within the digital collectables market now, once other NFT marketplaces gain steam, and perhaps even mint tokens on other non-Ethereum blockchains, the diffusion of the ecosystem could make it harder for an individual to claim personality rights.
-Strengthening NFT market arbitration mechanisms, like making it easier for individuals to report persona-encroaching NFTs, could make it easier to flag abusive imagery (a route OpenSea has already pursued to counterspam). Nurturing coalitions of digital asset platforms to ensure that policies scale across NFT marketplaces could also reduce harm. Other solutions might include sharing collectively governed registries of blocklisted images between marketplaces (a tactic that has been used to combat sexual exploitation imageryacross different social media platforms), standardizing processes to “tombstone” or delete NFTs across multiple issuing platforms, and exploring technical solutions to essentially “confiscate” and/or “impound” NFTs minted on any given blockchain that has clout within the larger ecosystem.
-Better understand the technological ecosystem and which actors hold centralized power with the “decentralized” ecosystemDespite claims of decentralization, there are still gatekeepers within the NFT ecosystem. One of the market’s first major disruptions was not due to hackers or nation-states, but rather a database error that took a large portion of the NFT market offline. A technical issue with OpenSea’s API created a widespread outage in January 2022 andimpacted other servicesthat relied on the major NFT marketplace. Thedatabase outageat OpenSea took the company’s image-loading API offline, which propagated across the ecosystem. This episode demonstrated that the Web3 ecosystem is interdependent, and not nearly as decentralized as billed, and that a database issue with a large actor like OpenSea can have a far-reaching impact.
-A number of organizations are currently working on standards and protocols around issues likecontent authenticity,identity assurance, andcross-chain interoperability. They seek to define new NFT standards through industry standardization channels like the EIP process by which common APIs and smart contract templates on Ethereum are defined. This is not a silver bullet, as the protocols and low-level engineering behind NFTs are perhaps the most decentralized and market-driven aspect of the sector, but such standards can still have value. Adding strong identity and security features to these normative definitions would be a big step toward aligning the emerging marketplaces' interoperably around common patterns of freezability, blocklisting, authenticity, and licensing anchor points. “Our definition of what a non-fungible token is is still evolving, with multiple interesting variants gaining traction,” says Juan Caballero, standards coordinator at Centre Consortium, which works on standardization and tooling for the crypto sector. “For now, only specialists talk about NFT variants or extensions that have built-in features likelicensing anchors,automatic royalty micropayments, non-transferability (AKA "soul-binding"), ordecentralized storage. I'm optimistic that fit-for-purpose variants will someday replace today's general-purpose, low-security NFT, which I like to call NFT v0.9. In my opinion, we will look back on this period less as a gold rush than as a premature launch rushed by market factors.”The flow oftokenized digital assets transcends borders; IP, money, and ownership all build toward a lucrative global network in which a new breed of blockchain-record-based digital collectables are valued atmind-numbing sums.
-If a system is built without the capacity to revoke consent, has it not been hardcoded with the capacity to create victims without recourse? The lack of any semblance of local, national, or global arbitration capacity to disincentivize harmful social behavior threatening the most vulnerable doesn’t seem like something we can stand by and watch while those in power write ad hoc rules on the fly. I, for one, am not ready to sign away rights to my physical appearance so a stranger can put it online and sell it to the highest bidder. For someone to take away agency over our likenesses in a system that lacks recourse or reporting mechanisms seems reckless in the most charitable reading. Now is the time to have a societal-level discussion around a number of issues regarding the right to our own images. Portrait piracy is a violation that can lead to tangible harms and calls for an expanded discourse around the future of digital representations of the self—in life and in death. Should we really need to trademark our own face … or hold a copyright of our own photo, in order to stop others from profiting off our image?More From WIREDContact© 2022 Condé Nast. All rights reserved. Use of this site constitutes acceptance of ourUser AgreementandPrivacy Policy and Cookie StatementandYour California Privacy Rights.
-Wiredmay earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
-Ad Choices
+Dartmouth College Advanced Search Browse About Sign in Register Advanced Search Journals Magazines Proceedings Books SIGs Conferences People More Search Search Communications of the ACM Magazine Home Online First Latest Issue Archive Authors About CACM Affiliations ACM Award Winners More Home Magazines Communications of the ACM Vol. 58, No. 9 Commonsense reasoning and commonsense knowledge in artificial intelligence review-article Share on Commonsense reasoning and commonsense knowledge in artificial intelligence Authors: Ernest Davis New York University, New York, NY New York University, New York, NY View Profile , Gary Marcus New York University New York University View Profile Communications of the ACM Volume 58 Issue 9 September 2015 pp 92–103 https://doi.org/10.1145/2701413 Published: 24 August 2015 182 citation 41,080 Downloads 182 41,080 740 142 Get Citation Alerts New Citation Alert added! This alert has been successfully added and will be sent to: You will be notified whenever a record that you have chosen has been cited.
+To manage your alert preferences, click on the button below.
+Manage my Alerts New Citation Alert! Please log in to your account Save to Binder Save to Binder Create a New Binder Name Cancel Create Export Citation Publisher Site View all Formats PDF Communications of the ACM Volume 58, Issue 9 Previous Article Next Article Abstract AI has seen great advances of many kinds recently, but there is one critical area where progress has been extremely slow: ordinary commonsense.
+References Allison, B., Guthrie, D. and Guthrie, L. Another look at the data sparsity problem. In Proceedings of the 9 th International Conference on Text, Speech, and Dialogue , (2006), 327--334).
+Google Scholar Digital Library Baader, F., Horrocks, I. and Sattler, U. Descriptions logics.
+Handbook of Knowledge Representation.
+F. van Harmelen, V. Lifschitz and B. Porter, Eds. Elsevier, Amsterdam, 2008, 135--179.
+Google Scholar Bar-Hillel, Y. The present status of automatic translation of languges.
+Advances in Computers.
+F. Alt, Ed. Academic Press, New York, 1960, 91--163.
+Google Scholar Bojanowski, P., Lajugie, R., Bach, F., Laptev, I., Ponce, J., Schmid, C. and Sivic, J. Weakly supervised action labeling in videos under ordering constraints. ECCV (2014), 628--643.
+Google Scholar Brewka, G., Niemelli, I. and Truszczynski, M. Nonmonotonic reasoning.
+Handbook of Knowledge Representation.
+F. van Harmelen, V. Lifschitz and B. Porter, Eds. Elsevier, Amsterdam, 2008, 239--284.
+Google Scholar Cohn, A. and Renz, J. Qualitative spatial reasoning.
+Handbook of Knowledge Representation.
+F. van Harmelen, V. Lifschitz and B. Porter, Eds. Elsevier, Amsterdam, 2007, 551--597.
+Google Scholar Conesa, J., Storey, V. and Sugumaran, V. Improving Web-query processing through semantic knowledge.
+Data and Knowledge Engineering 66 , 1 (2008), 18--34.
+Google Scholar Digital Library Conesa, J., Storey, V. and Sugumaran, V. (2010). Usability of upper level ontologies: The case of ResearchCyc.
+Data and Knowledge Engineering 69 (2010), 343--356.
+Google Scholar Digital Library Curtis, J., Matthews, G., & Baxter, D. On the effective use of Cyc in a question answering system. IJCAI Workshop on Knowledge and Reasoning for Answering Questions, 2005.
+Google Scholar Davis, E. The naive physics perplex.
+AI Magazine 19 , 4 (1998), 51--79; http://www.aaai.org/ojs/index.php/aimagazine/article/view/1424/1323 Google Scholar de Kleer, J. Qualitative and quantitative knowledge in classical mechanics. MIT AI Lab, 1975.
+Google Scholar de Kleer, J. and Brown, J. A qualitative physics based on confluences.
+Qualitative Reasoning about Physical Systems.
+D. Bobrow, Ed. MIT Press, Cambridge, MA, 1985, 7--84.
+Google Scholar Dennett, D.
+Intuition Pumps and Other Tools for Thinking.
+Norton, 2013.
+Google Scholar Etzioni, O. et al. Web-scale extraction in KnowItAll (preliminary results). In Proceedings of the 13 th International Conference on World Wide Web , (2004), 100--110. Retrieved from http://dl.acm.org/citation.cfm?id=988687 Google Scholar Digital Library Etizoni, O., Fader, A., Christensen, J., Soderland, S. and Mausam. Open information extraction: The second generation.
+IJCAI , 2011, 3--10).
+Google Scholar Digital Library Ferrein, A., Fritz, C., and Lakemeyer, G. Using Golog for deliberation and team coordination in robotic soccer.
+Kuntzliche Intelligenz 19 , 1 (2005), 24--30.
+Google Scholar Fisher, M. Temporal representation and reasoning.
+Handbook of Knowledge Representation.
+F. Van Harmelen, V. Lifschitz, and B. Porter, Ed. Elsevier, Amsterdam, 2008, 513--550.
+Google Scholar Forbus, K. Qualitative process theory.
+Qualitative Reasoning about Physical Systems.
+D. Bobrow, Ed. MIT Press, Cambridge, MA, 1985, 85--168.
+Google Scholar Digital Library Forbus, K., Birnbaum, L., Wagner, E., Baker, J. and Witbrock, M. Analogy, intelligent IR, and knowledge integration for intelligence analysis: Situation tracking and the whodunit problem. In Proceedings of the International Conference on Intelligence Analysis (2005).
+Google Scholar Fromherz, M., Bobrow, D. and de Kleer, J. Model-based computing for design and control of reconfigurable systems.
+AI Magazine 24 , 4 (2003), 120.
+Google Scholar Digital Library Gene Ontology Consortium. The Gene Ontology (GO) database and informatics resource.
+Nucleic Acids Research 32 (suppl. 1), 2004, D258--D261.
+Google Scholar Cross Ref Gentner, D. and Forbus, K. Computational models of analogy.
+WIREs Cognitive Science 2 (2011), 266--276.
+Google Scholar Cross Ref Halpern, J.
+Reasoning about Uncertainty.
+MIT Press, Cambridge, MA, 2003.
+Google Scholar Digital Library Havasi, C., Pustjekovsky, J., Speer, R. and Lieberman, H. Digital intuition: Applying common sense using dimensionality reduction.
+IEEE Intelligent Systems 24 , 4 (2009), 24--35; doi:dx.doi.org/10.1109/MIS.2009.72 Google Scholar Digital Library Hearst, M. Automatic acquisition of hyponyms from large text corpora. ACL, 1992, 539--545.
+Google Scholar Digital Library Hofstadter, D. and Sander, E.
+Surfaces and Essences: Analogy as the Fuel and Fire of Thinking.
+Basic Books, New York, 2013.
+Google Scholar Kalyanpur, A. Structured data and inference in DeepQA.
+IBM Journal of Research and Development 53 , 3--4 (2012), 10:1--14.
+Google Scholar Digital Library Kolodner, J.
+Case-Based Reasoning.
+Morgan Kaufmann, San Mateo, CA, 1993.
+Google Scholar Digital Library Kuehne, S. Understanding natural language description of physical phenomena. Northwestern University, Evanston, IL, 2004.
+Google Scholar Kuipers, B. Qualitative simulation.
+Artificial Intelligence 29 (1986), 289--338.
+Google Scholar Digital Library Lenat, D., Prakash, M. and Shepherd, M. &lt;code&gt;CYC&lt;/code&gt;: Using common sense knowledge to overcome brittleness and knowledge acquisition bottlenecks.
+AI Magazine 6 , 4 (1985), 65--85.
+Google Scholar Digital Library Levesque, H., Davis, E. and Morgenstern, L. The Winograd schema challenge.
+Principles of Knowledge Representation and Reasoning , 2012.
+Google Scholar Lovett, A., Tomei, E., Forbus, K. and Usher, J. Solving geometric analogy problems through two-stage analogical mapping.
+Cognitive Science 33 , 7 (2009), 1192--1231.
+Google Scholar Cross Ref Miller, G. WordNet: A lexical database for English.
+Commun. ACM 38 , 11 (Nov. 1995), 39--41.
+Google Scholar Digital Library Minsky, M. A framework for representing knowledge.
+The Psychology of Computer Vision.
+P. Winston, Ed. McGraw Hill, New York, 1975.
+Google Scholar Mitchell, T., Cohen, W., Hruschka, E., Talukdar, P., Betteridge, J. and Carlson, A.
+Never Ending Learning.
+AAAI, 2015.
+Google Scholar Mueller, E.
+Commonsense Reasoning.
+Morgan Kaufmann, San Francisco, CA, 2006.
+Google Scholar Digital Library Pearl, J.
+Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference.
+Morgan Kaufmann, San Mateo, CA, 1988.
+Google Scholar Digital Library Peppas, P. Belief revision.
+Handbook of Knowledge Representation.
+F. Van Harmelen, V. Lifschitz, and B. Porter, Eds. Elsevier, Amsterdam, 2008, 317--359.
+Google Scholar Pisanelli, D.
+Ontologies in Medicine.
+IOS Press, Amsterdam, 2004.
+Google Scholar Price, C., Pugh, D., Wilson, M. and Snooke, N. (1995). The FLAME system: Automating electrical failure mode and effects analysis (FEMA). In Proceedings of the IEEE Reliability and Maintainability Symposium , (1995), 90--95.
+Google Scholar Cross Ref Reiter, R.
+Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems.
+MIT Press, Cambridge, MA, 2001.
+Google Scholar Digital Library Russell, B., Torralba, A., Murphy, K. and Freeman, W. Labelme: A database and Web-based tool for image annotation.
+Intern. J. Computer Vision 77 , 1--3 (2008), 157--173.
+Google Scholar Digital Library Schank, R. and Abelson, R.
+Scripts, Plans, Goals, and Understanding.
+Lawrence Erlbaum, Hillsdale, NJ, 1977.
+Google Scholar Schubert, L.
+Semantic Representation.
+AAAI, 2015.
+Google Scholar Shepard, B. et al. A knowledge-base approach to network security: Applying Cyc in the domain of network risk assessment.
+Association for the Advancement of Artificial Intelligence , (2005), 1563--1568.
+Google Scholar Digital Library Surdeanu, M. Overview of the tac2013 knowledge base population evaluation: English slot filling and temporal slot filling. In Proceedings of the 6 th Text Analysis Conference (2013).
+Google Scholar Winograd, T.
+Understanding Natural Language.
+Academic Press, New York, 1972.
+Google Scholar Digital Library Woods, W. What's in a link: Foundations for semantic networks.
+Representation and Understanding: Studies in Cognitive Science.
+D. Bobrow and A. Collins, Eds. Academic Press, New York, 1975.
+Google Scholar Wu, W., Li, H., Wang, H. and Zhu, K.Q. Probase: A probabilistic taxonomy for text understanding. In Proceedings of ACM SIGMOD , 2012.
+Google Scholar Digital Library Cited By Index Terms Commonsense reasoning and commonsense knowledge in artificial intelligence Computing methodologies Artificial intelligence Philosophical/theoretical foundations of artificial intelligence Human-centered computing Human computer interaction (HCI) Information systems Data management systems Software and its engineering Software creation and management Designing software Software implementation planning Software design techniques Software development process management Recommendations Commonsense Reasoning: An Event Calculus Based Approach Read More Engage AI and Child in Explanatory Dialogue on Commonsense Reasoning CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems Human-level commonsense reasoning capability is vital for human-AI interaction, enabling AI to understand, anticipate, and respond to human’s thoughts, feelings, and behaviors. Despite the recent advancements in AI commonsense reasoning due to ...
+Read More Logical formalizations of commonsense reasoning: a survey Commonsense reasoning is in principle a central problem in artificial intelligence, but it is a very difficult one. One approach that has been pursued since the earliest days of the field has been to encode commonsense knowledge as statements in a logic-...
+Read More Reviews Reviewer: Lalit P Saxena The famous saying, "Common sense is not so common," by Voltaire ( Dictionnaire philosophique , 1764), depends upon human experiences and individual perceptions. Commonsense reasoning (CR) in artificial intelligence (AI) includes domains like natural language processing (NLP), computer vision, and robotic manipulation. This paper discusses CR and knowledge in AI. The authors categorize successes in automated CR into four types: taxonomic reasoning, temporal reasoning, action and change, and qualitative reasoning. Taxonomic reasoning defines three basic relations: an individual is an instance of a category; one category is a subset of another; and two categories are disjoint. The temporal reasoning automates knowledge and reasoning about time, duration, and time intervals. The authors describe the theory of action, events, and change by simplifying constraints: events are atomic, single actor, and perfect knowledge. They further provide extensions to domains, including continuous domains, simultaneous events, probabilistic events, multiple agent domains, imperfect knowledge domains, and decision theory. According to the authors, "qualitative reasoning is about the direction of change in interrelated quantities." The authors classify five challenges in automating CR: virtually untouched or partial understanding of the domains, varying logical complexity in different situations, plausible reasoning involvement, long-tail phenomenon, and difficulty in discerning the proper level of abstraction. They further comprise the objectives in CR research, such as reasoning architecture, plausible inference, range of reasoning modes, painstaking analysis of fundamental domains, breadth, independence of experts, applications, and cognitive modeling. The authors divide reasoning techniques into three types: crowdsourcing, web mining, and knowledge-based approaches, which further include mathematically grounded, informal knowledge-based, and large-scale approaches. The authors doubt that the problems of CR will be easily solved. However, they recommend the creation of benchmarks, an evaluation of the program CYC, the integration of various AI approaches, the inclusion of alternative modes of reasoning in mainstream approaches, and a better understanding of human CR. This paper is an interesting read for those who are working in the area of CR and commonsense knowledge in AI applications.
+Online Computing Reviews Service Access critical reviews of Computing literature here Become a reviewer for Computing Reviews.
+Comments Login options Check if you have access through your login credentials or your institution to get full access on this article.
+Full Access Information Contributors Published in Communications of the ACM Volume 58, Issue 9 September 2015 119 pages ISSN: 0001-0782 EISSN: 1557-7317 DOI: 10.1145/2817191 Editor: Moshe Y. Vardi Association for Computing Machinery, New York, NY Issue’s Table of Contents Copyright © 2015 ACM Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from [email protected] Sponsors In-Cooperation Publisher Association for Computing Machinery New York, NY, United States Publication History Published: 24 August 2015 Permissions Request permissions about this article.
+Request Permissions Check for updates Qualifiers review-article Popular Refereed Conference Funding Sources Other Metrics View Article Metrics Bibliometrics Citations 182 Article Metrics 182 Total Citations View Citations 41,080 Total Downloads Downloads (Last 12 months) 740 Downloads (Last 6 weeks) 142 Other Metrics View Author Metrics Cited By View all PDF Format View or Download as a PDF file.
+eReader View online with eReader.
+Digital Edition View this article in digital edition.
+HTML Format View this article in HTML Format .
+Figures Other Share this Publication link https://dl.acm.org/doi/10.1145/2701413 Share on Social Media Share on 0 References Close Figure Viewer Browse All Return Change zoom level Caption Export Citations Please download or close your previous search result export first before starting a new bulk export.
+Preview is not available.
+By clicking download, a status dialog will open to start the export process. The process may take a few minutes but once it finishes a file will be downloadable from your browser. You may continue to browse the DL while the export process is in progress.
+Download Download citation Copy citation Journals Magazines Books Proceedings SIGs Conferences Collections People About ACM Digital Library ACM Digital Library Board Subscription Information Author Guidelines Using ACM Digital Library All Holdings within the ACM Digital Library ACM Computing Classification System Digital Library Accessibility Join ACM Join SIGs Subscribe to Publications Institutions and Libraries Contact Facebook Twitter Linkedin Feedback Bug Report Terms of Usage Privacy Policy Code of Ethics Your Search Results Download Request We are preparing your search results for download ...
+We will inform you here when the file is ready.
+Your Search Results Download Request Your file of search results citations is now ready.
+Your Search Results Download Request Your search export query has expired. Please try again.

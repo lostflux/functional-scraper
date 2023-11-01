@@ -1,86 +1,277 @@
-old id = 66
-South Africa's private surveillance machine is fueling a digital apartheid | MIT Technology Review
+old id = 710
+Stroop and picture—word interference are two sides of the same coin | SpringerLink
 2009
-https://www.technologyreview.com/2022/04/19/1049996/south-africa-ai-surveillance-digital-apartheid
+https://doi.org/10.3758%2FPBR.16.6.987
 
-South Africa’s private surveillance machine is fueling a digital apartheidAs firms have dumped their AI technologies into the country, it’s created a blueprint for how to surveil citizens and serves as a warning to the world.
-This story is part one of MIT Technology Review’s series on AI colonialism, the idea that artificial intelligence is creating a new colonial world order. It was supported by the MIT Knight Science Journalism Fellowship Program and the Pulitzer Center.
-Read the full series here.
-The cameras are not there yet. But the fiber already is.
-Thami Nkosi points to the telltale black box atop a utility pole on a street once home totwo Nobel Peace Prize laureates: South Africa’s first Black president, Nelson Mandela, and the anti-apartheid activist and theologian Desmond Tutu.
-It always happens this way, Nkosi says. First the fiber; then the surveillance cameras. The cameras are useless unless there’s reliable connectivity to send their video feeds back to a control room where they can be monitored by humans and algorithms.
-This is Vilakazi Street in Soweto, a historic suburb of Johannesburg—a sprawling megacity now birthing a uniquely South African surveillance model influenced by the global surveillance industry and set to influence it in turn. Civil rights activists say it’s already fueling a digital apartheid and unraveling people’s democratic liberties.
-Five years ago, this wouldn’t have been possible. Neither the city’s infrastructure nor existing video analytics could support sending and processing footage at the necessary scale. But then fiber coverage expanded, AI capabilities advanced, and companies abroad, seeing an opportunity, began dumping the latest surveillance technologies into the country. The local security industry, forged under the pressures of a high-crime environment, embraced the menu of options.
-The effect has been the rapid creation of a centralized, coordinated, entirely privatized mass surveillance operation. Vumacam, the company building the nationwide CCTV network, already has over 6,600 cameras and counting, more than 5,000 of which are concentrated in Joburg. The video footage it takes feeds into security rooms around the country, which then use all manner of AI tools like license plate recognition to track population movement and trace individuals.
-Over the years, a growing chorus of experts have argued that the impact of artificial intelligence is repeating the patterns of colonial history. Here in South Africa, where colonial legacies abound, the unfettered deployment of AI surveillance offers just one case study in how a technology that promised to bring societies into the future is threatening to send them back to the past.
-Two streets over from Vilakazi, with its touristy polish, the rest of Soweto—a predominantly Black township—is still poor and surrounded by hills formed from thetoxic wasteof the gold mining industry.
-Nkosi, a Sowetan born and bred, has spent 15 years fighting against all manner of injustices—gender-based violence, lack of water and sanitation, and, most recently, the mass surveillance that threatens civil liberties. He sounds more amused than bitter as we drive by the towering heaps that have leached chemicals into his community.
-“I’m surprised I haven’t died yet,” he says.
-Thus far Soweto has been spared the cameras, precisely because it is poor. Vumacam originally placed them where it could find paying customers. As cramped streets give way to highway and highway to affluent areas, these installations come into view: steely gray poles with thick fat discs in the middle where clusters of CCTV cameras hang like bats, their gaze trained on the roads.
-By the time we reach Rosebank, an upscale suburb of Johannesburg, the poles spring from concrete faster than we can count. Next to a mall, Nkosi, now on foot, stops and gapes at the latest fixture: a camera quadruple the size of all the others.
-“That is the first time—that big, big, big thing—that is the first time I’ve seen it,” he sputters with growing animation. “This is definitely facial recognition,” he speculates, meaning that the camera could record video at high enough resolution for such technology to work. “Jesus Christ. No way, no way.”Asked about that speculation, Vumacam says it doesn’t use facial recognition and will not consider using it until the technology is adequately regulated. “We don’t believe that facial recognition technology as it stands (from any provider) is reliable enough for ethical use,” says Vumacam's CEO Ricky Croock.
-NEC XON, the South African subsidiary of the world’s largest facial recognition provider, which says the companies had tentative talks over two years ago about adding that feature to Vumacam’s platform, adds that the cameras aren’t suited for the technology, which Vumacam confirms.
-So maybe it’s coming. Maybe it’s not. That’s the thing about a privatized model of public surveillance. It’s really hard to know.
-The first thing Rob Nicholwants to show off is the control room. Down the hall from a shared office space, the CEO of the private security company AI Surveillance opens the door to a cavernous room with screens plastered on the walls.
-The screens stream footage from cameras around the city that the company has been hired to monitor. They’re also mainly for show. The real action happens below, on two rows of computers, where employees monitor Vumacam’s Proof 360 software platform.
-Rather than display dozens of video streams at once, Proof 360 uses AI and other analytics to show only the footage that triggers security alerts. These include systems for license plate recognition and detection of “unusual” activity.
-The latter is provided by a company known as iSentry, which originally developed it for the Australian military. The software trains on 100 hours of footage so each camera can learn “normal” behavior, and then it flags anything deemed out of the ordinary. Each camera can also be configured with additional hard-coded rules. For example, it can be programmed with barriers that people should never cross and zones where cars should never stop.
-At a monitoring station in the first row, the alerts appear one by one on a security worker’s screen. In one a man’s been flagged for running, in another a woman for standing in the hall while texting, in a third a woman for walking too close to a car. The operator reviews each one and clicks a “Dismiss” button on all of them. There’s also a comment box and a button marked “Escalate.”An escalated alert is kicked back to the second row, where a dispatch team coordinates a response based on the alert type and the client’s instructions. Sometimes that means texting an on-site security guard to dispel loiterers. Other times it means calling the police to arrest a suspected criminal.
-Nichol points to a wanted-car alert, which has pulled in information from a database that the South African Police Service, or SAPS, maintains for vehicles linked to criminal activity. “It is very important that you take note of these vehicles,” he reads in the comments that SAPS wrote as a warning to security guards tasked with responding to the alert and apprehending the perpetrators. “They are involved in multiple home invasions and murders and are very dangerous. Use high-caliber weapons and will not hesitate to shoot. Call your security company and SAPS IMMEDIATELY.”Vumacam uses a subscription-based model: entities registered with the private security industry regulator as well as SAPS and metropolitan police departments can rent access to whichever cluster of camera feeds they want within the Proof 360 platform. In 2019, the company charged730 South African rand(roughly $50) a month per camera. It declined to give its latest pricing.
-The bulk of Vumacam’s subscribers have thus far been private security companies like AI Surveillance, which supply anything from armed guards to monitoring for a wide range of clients, including schools, businesses, and residential neighborhoods. This was always the plan: Vumacam CEO Croock started AI Surveillance with Nichol shortly after founding Vumacam and then stepped away to avoid conflicts with other Vumacam customers.
-Today a Vumacam subscription has become a de facto standard for security companies that operate in and around Johannesburg’s more affluent suburbs and commercial areas. “I don’t see a public space provider being able to effectively provide public security without the cameras,” says Ryan Roseveare, who lives in Craighall Park, one of the first suburbs in the country to adopt Vumacam.
-These private security companies dominate duties usually associated with policing, even though they don’t have the same legal powers. Whereas South Africa has justover 1,100 police stationswith just over 180,000 staff members, there are11,372 registered security companiesand 564,540 actively employed security guards, more than the police and themilitarycombined.
-The imbalance is a remnant of apartheid. In the late 1970s, the ruling National Party deployed police to protect its political interests, controlling widespread unrest in opposition to the government. These duties took precedence over actual police work, leaving an opening for private players.
-Later, an already underresourced police force downsized further as a condition of post-apartheid reform. The private security industry ballooned alongside the country’s staggering rates of crime. South Africa recorded more than four times as many homicides per capita as the US in the last fiscal year.
-Government policy encouraged communities and the police to collaborate with these private agencies. But the result has been the evolution of an increasingly martial private security sector. On a drive around Johannesburg, you can see these paramilitary units everywhere: uniformed men in tactical vehicles, toting big guns. They are far more prevalent than the actual police. The difference is they serve paying clients, not the public interest.
-Just as the government failed to provide boots on the ground, it also fell short on meeting the surveillance demands of private citizens and businesses. Johannesburg first installed camerasin 2009, and today they number 574, according to city officials. But the city’s been plagued bymediareportsof nonfunctioning cameras. Even the 25installed on Vilakazi Streetin 2017, part of a smart-city initiative, are now gone, Nkosi says.
-Vumacam stepped into this gap in the market: its CEO, Croock, is a product of Johannesburg’s security industry, having previously operated a private patrol and monitoring service in the more affluent suburbs. With the introduction of fiber internet, he saw the opportunity to add internet-connected cameras and AI analytics to security companies’ offerings.
-Vumacam partnered with the Chinese company Hikvision and the Swedish company Axis Communications to provide the hardware while iSentry and Milestone, a popular Denmark-based video surveillance management tool, provided the software. From there, it teamed up with private agencies patrolling wealthier residential areas and erected poles with high-definition cameras where they wanted on top of Johannesburg’s fiber network.
-On its end of the bargain, Vumacam promised regular maintenance, high uptime, and storage of the footage for up to 30 days, during which officers and legal representatives could request a more permanent copy for use as evidence in crime investigations. By March 2021, 50 security companies were subscribed to its service. Vumacam declined to say how many customers it has today.
-More recently, the company has sought adoption in malls, office buildings, and even people’s homes. It doesn’t place its own cameras within these spaces, but customers can connect their existing CCTV feeds to Proof 360 for comprehensive security monitoring of public and private spaces.
-Having achieved this market penetration, Vumacam is now pushing a new level of centralization and coordination to fight criminal activity. It pitches its solution as a way to track criminals, from the moment they commit a crime, to wherever in the city they try to escape.
-Proof 360 users can add wanted vehicles—those reported stolen or suspected of being used to commit a crime—to their own private database on the platform or a shared database that allows all users to work together to track cars across jurisdictions; in car-dependent Johannesburg, this can be as targeted as facial recognition. “In essence, we could have an incident on one of our cameras, and the security companies are all now trying to intercept that same vehicle in a coordinated fashion,” Croock says.
-Vumacam boasts that this approach is orders of magnitude faster than waiting for a police investigation. Users need not file a crime report and receive a case number from the police before adding a plate number to the system. “What if there’s an armed robbery that’s just happened?” says Kelly de Ricquebourg, Vumacam’s product software manager. “I’m going to be able to put this license plate in and catch them in the next 10 minutes. It’s not going to take me 10 minutes to get a case number from SAPS. It takes me up to 48 hours.”After 48 hours, if a license plate in the shared database still doesn’t have a case number, it’s automatically deleted, she adds. But there’s no transparency or mechanism for public accountability about how thoroughly this cleaning is done; nor is the same process applied to plates stored in each user’s private database, meaning any plate number could be added without any vetting. As a result, cars could be monitored and pulled over for erroneous or illegitimate reasons.
-Such apprehensions can be carried out by either security companies or the police, or during joint operations between the two. To avoid the bureaucracy of their own system, which entails opening an enquiry docket, police sometimes ask private security companies to use Vumacam’s network. “We had SAPS in this control room just last week checking it out and seeing what we’re doing,” Nichol says of AI Surveillance. “Last year, mid-July, a police guy came for a full day so he could have access to the cameras.”Vumacam says its approach aided in the apprehension of 97 vehicles and the arrest of 85 individuals in the Sandton Central Improvement District, a commercial area of Johannesburg, during the first seven months after its cameras were installed. Croock says it was “not privy” to details about whether the arrests led to convictions.
-Vumacam is now building out more applications on Proof 360, including a system to detect license plate cloning—when two cars show up in different locations with identical plate numbers. It’s also opening up the platform for third-party developers to add their own applications and distribute them to its users.
-In parallel, it’s extending its physical infrastructure to the rest of the country. Later this year, Croock says, the company will switch to a new model, where customers will pay a flat fee to get access to the full network of cameras instead of just a selection. Agencies will still be able to filter the alerts to their jurisdiction, but they will also be able to view any feed in the country.
-The new approach will allow Vumacam to place poles and cameras irrespective of whether there are paying customers nearby. “If you go to your cell phone provider, you don't ask him, ‘I want a tower there and a tower there.’ You say, ‘I want coverage,’” he says.
-“We need to make sure we get that coverage,” de Ricquebourg adds, “so that there's no way for the vehicles to miss those cameras or hide from the system.”The crime is real.
-On the day we walked around Rosebank with Nkosi, holding out our smartphones as recording devices, two passersby called out warnings within minutes of one another. “Ma’am you have to be careful around here,” said one. “That’s a really nice phone. They’re going to take it, and you’re going to cry too much,” said the other.
-It’s not just petty theft—though both Nkosi and the South Africa–based reporter on this piece, Heidi Swart, did have their phones stolen just days before our meeting. The last three months of 2021 saw 165,000 violent physical crimes like murder, rape, common assault, and robbery reported to police nationwide.
-It’s why Craighall Park and Craighall, two suburbs that share a residents’ association, were eager to be early adopters of Vumacam, says Roseveare, who oversaw the company’s initial installations. “When the cameras first went up, the community definitely felt safer,” he says. He believes they deterred crime—though he admits that’d be difficult to prove with statistics. “In South Africa, crime is always going up like inflation,” he says, so the impact would manifest as a slower increase or a reduction in its average severity.
-There are now 159 cameras across both communities, including 70 with license plate recognition, at all the exit and entry points and major intersections.
-But absent from the conversation is why the crime exists in the first place. Researchers of industrial societies have repeatedly demonstrated thatinequality drives crime. Not only is South Africa the world’smost unequal country, but the gap is deeply racialized, a part of apartheid’s legacy. Thelatest government reportsshow that in 2015 half of the country lived in poverty; 93% of those people were Black.
-As a result, it’s predominantly white people who have the means to pay for surveillance, and predominantly Black people who end up without a say about being surveilled.
-Adding to it all, AI tools like facial recognition and anomaly detection don’t always work, and the consequences aren’t evenly distributed. The likelihood that facial recognition software will make a false identification increases dramatically when footage is recorded outdoors, under uncontrolled conditions, and that risk is much greater for Black people.
-In many ways, the cameras have re-created the digital equivalent of passbooks, or internal passports, an apartheid-era system that the government used to limit Black people’s physical movements in white enclaves, says Michael Kwet, a visiting fellow at Yale Law School who studies the South African surveillance industry and first wrote about the phenomenonin Vice in 2019. Only Black people were required to hold the passbooks; white people moved freely. Croock says such claims “purposefully attempt to mislead the public to create fear instead of hope where technology is successful in fighting crime.”Meanwhile, theprivatization of public safetyhascrowded outdiscussionof how thesame moneycould be spent if not on mass surveillance: improved access to water, sanitation, electricity, health care, education, and youth employment to alleviate the poverty fueling the crime. Companies instead see a business opportunity.
-“They’re essentially monetizing public spaces and public life,” Nkosi says.
-“Vumacam’s technology is honed for the purpose of preventing crime and as such does not have mass surveillance capability nor intention,” says Croock. “The concerns of so-called ‘activists’ quoted is propaganda that we deem intentionally malicious, defamatory and without any basis in truth.”And though crime temporarily decreased during the pandemic, it has once again exploded. Many companies we interviewed argue that this justifies more investment in surveillance technologies. “​​Surveillance infrastructure honed on crime is key to curbing, preventing, and understanding crime which currently impedes the investment and economic growth so critical to job provision and poverty alleviation,” Croock says.
-“We have seen that surveillance technologies that were properly installed and had analytics as part of the solutions proactive rather than reactive, had a huge effect on criminal activities,” adds Jan Erasmus, NEC XON’s business lead for surveillance and analytics.
-Erasmus says security firms are now working to beef up their facial recognition capabilities to identify suspected criminals. The technology relies on a database of wanted individuals’ faces to compare with faces extracted from surveillance footage. One security provider, Bidvest Protea Coin, is collaborating with NEC XON to implement a system using 48,000 mugshots of suspects wanted for anything from rhino and abalone poaching to ATM bombings and theft of base station batteries. Both companies hope to share the system with the rest of the security industry as well as with banks and government players.
-But there have already been cases in which facial recognition has been used on face databases of individuals with no criminal background. In 2016, when economically disadvantaged Black students at universities across the country protested against high tuition fees, NEC XON collected protesters’ faces from photos and videos that were circulating on WhatsApp and social media; then it compared them against university databases of student ID photos. Erasmus says the aim was not to stop the protesters but to determine whether they were students (most were not, he says) and prevent damage to university property, which is estimated to have totaled 786 million rand ($52 million) nationally.
-But five years later, when protests erupted anew, students said they felt they were being criminalized. Police arrived with riot gear, tear gas, and rubber bullets, and they openly filmed students at close range for so-called “evidence” collection, says Ntyatyambo Volsaka, a 19-year-old law student and activist at the University of the Witwatersrand.
-“We’re trying to make sure that everyone is getting an education,” he says, “but the police treat us like animals.” Erasmus says NEC XON did not assist police with surveillance during the 2021 protests.
-These same companies are building surveillance systems around the world. South Africa represents not only a high-growth market but also a place to perfect their technologies. When AI is “developed in Europe and America and all of these places,” says Kyle Dicks, a Johannesburg-based sales engineer for Axis Communications, “often South Africa is the place to put them to the test.”Vumacam’s quietly sprawling camera networkhas met with little resistance since it launched in February 2019.
-Yet pushback came last year from an unlikely champion of privacy rights: the Johannesburg Roads Agency (JRA), a body tasked with ensuring that anyone who erects structures on municipal walkways doesn’t hold up traffic or cut into power cables or water mains. Since Vumacam’s cameras are mounted on special poles on public sidewalks, the company needed JRA approval.
-It was all smooth sailing until the JRA suddenly refused to grant Vumacam further permissions, arguing that the company would use the cameras to “spy” on the public. The agency said it would not proceed until the city released a framework to regulate surveillance cameras. Vumacam took the agency to court.
-Ultimately, the JRA lost the case, but not the privacy debate. The judge ruled that the JRA’s job was to protect the integrity of road infrastructure, not human rights. But, acknowledging the matter’s complexity, the court refrained from issuing judgment on the alleged privacy infringement.
-Since then, there’s been no further litigation from civil society organizations, andno legislationspecifically regulating surveillance cameras in public spaces or accompanying analytics like facial recognition. The public is simply preoccupied with more immediate problems, Nkosi says: “People are worried about where their next job is going to come from, where their food is going to come from, and the political instability in the country. We haven’t educated our public enough to understand the dangers of surveillance and what it means in a democratic society.”But the questions raised by the lawsuit have only grown more urgent. The global surveillance industry has always exchanged ideas across borders. To this day, the US government, the first major funder of modern surveillance technologies like facial recognition, is the most important institution shaping their direction through its standards and vendor rankings, says Os Keyes, a doctoral candidate at the University of Washington.
-Many of the technologies being used in South Africa emerged under that influence and have continued to develop with the US market in mind. Now both technology and ideology are beginning to flow back in that direction.
-AI Surveillance, for example, wants to find clients in the US that will feed their CCTV footage to its control room and monitoring staff in Johannesburg. CEO Nichol thinks the cheaper local wages will give the company a competitive edge, as will its experience handling security in the South African market. “The US is more mature in the hardware and recording—there’s more cameras and more footage stored,” he says. “South Africa is more mature in the analysis of the feed and the dispatch—out of necessity.”Vumacam has also begun to adapt its model to other markets. It’s moved into Nigeria, where it’s placing cameras on existing infrastructure like cell towers rather than erecting its own poles. In other places that have existing CCTV camera networks, such as the US and UK, it could focus on selling its Proof 360 platform. “We think we’re onto something,” Croock says. “We see big global ambitions.”There are signs that the rest of the surveillance industry is moving toward a platform-based approach as well. Milestone, the video management tool that Proof 360 is built on, similarly allows anyone to build AI applications like facial and license plate recognition for its software. So does Axis Communications, which has offices in the US and South Africa and recently launched its own platform.
-This year NEC, the parent company of NEC XON, also plans to launch a new product known as NEC Nexus that allows government agencies to combine their watchlists in a way that echoes Vumacam’s centralization of license plate databases. Nexus is currently being trialed in the UK, where NEC has the largest pilot of live facial recognition, and will soon be rolled out globally, although there are no current plans for its implementation in South Africa, Erasmus says.
-Nkosi fears what could happen next. He’s watched governments around the world embrace these advancements under the pretense of public safety before inevitably expanding it for mass surveillance of activists and civilians, with targets including theBlack Lives Matter movement in the USandthe Uyghur minority in China.
-“Ultimately you're going to have the state colluding with these private companies, because the state has no capacity to run such a massive complicated network of CCTV cameras,” he says. “That is the bigger danger for me.”Indeed, South Africa is in the process of building out anational biometric identification database called ABISthat would include the face of every resident and foreign visitor. Combined with camera upgrades to Vumacam’s nationwide surveillance network and expanded use of facial recognition, ABIS could one day enable the government to track the movements of everyone in the country.
-“We do not underplay the very real threat of activists, journalists, and business people being tracked illegally by nefarious individuals (some with fatal outcomes),” Croock says. “However, people cannot be ‘surveilled’ using our technology or systems which are not built to surveil individuals.”“​​NEC XON will always ensure that the use of facial recognition is done ethically,” Erasmus says.
-As we continue walking through Rosebank, Nkosi begins to count the cameras. Seven on one pole. Three across the street. Six on another.
-“The state may not be awake to it right now, but we’re heading there,” he says back in his home. “The spaces [for activism and protest] are going to shrink. Private companies are going to make a killing.”Read the rest ofMIT Technology Review's series on AI Colonialism here.
-Correction & updates:A previous version of this article misspelled Rob Nichol's name as Nichols. We also updated the attribution for Vumacam’s responses and citation for Michael Kwet's work.
-byKaren Hao&Heidi SwartShareDeep DiveTech policyA quick guide to the most important AI law you’ve never heard ofThe European Union is planning new legislation aimed at curbing the worst harms associated with artificial intelligence.
-Inside the fierce, messy fight over “healthy” sugar techYi-Heng “Percival” Zhang was a leader in rare sugar research. Then things got sticky.
-The secret police: Inside the app Minnesota police used to collect data on journalists at protestsIntrepid Response is a little-known but powerful app that lets police quickly upload and share information across agencies. But what happens to the information it collects?The secret police: Cops built a shadowy surveillance machine in Minnesota after George Floyd’s murderAn investigation by MIT Technology Review reveals a sprawling, technologically sophisticated system in Minnesota designed for closely monitoring protesters.
-Stay connectedGet the latest updates fromMIT Technology ReviewDiscover special offers, top stories, upcoming events, and more.
-Thank you for submitting your email!It looks like something went wrong.
-We’re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out to us atcustomer-service@technologyreview.comwith a list of newsletters you’d like to receive.
-MIT Technology ReviewOur in-depth reporting reveals what’s going on now to prepare you for what’s coming next.
-Subscribeto support our journalism.
-AboutHelp© 2022 MIT Technology Review
+Advertisement Log in Menu Search Cart Home Psychonomic Bulletin & Review Article Download PDF Download PDF Theoretical and Review Articles Published: December 2009 Stroop and picture—word interference are two sides of the same coin Leendert van Maanen 1 , Hedderik van Rijn 1 & Jelmer P. Borst 1 Psychonomic Bulletin & Review volume 16 , pages 987–999 ( 2009 ) Cite this article 4543 Accesses 63 Citations 3 Altmetric Metrics details Abstract This article presents a cognitive model that reconciles a surprising observation in the picture—word interference (PWI) paradigm with the general notion that PWI is a form of Stroop interference. Dell’Acqua, Job, Peressotti, and Pascali (2007) assessed PWI using a psychological refractory period (PRP) paradigm, and concluded that the locus of interference in PWI is during the perceptual encoding stage. Stroop interference, on the other hand, is generally attributed to response selection. Based on these findings it was argued that PWI is not a Stroop effect. The present article discusses an alternative interpretation of these results. We assume that both effects are caused by the same interference mechanism, but that the processing speed associated with the different stimuli (colors vs. words) accounts for the previously reported differences. We support this argument by presenting a single computational model that accounts for both PWI and Stroop phenomena in single task and PRP settings.
+Download to read the full article text Working on a manuscript? References Altmann, E. M.
+, & Davidson, D. J.
+(2001). An integrative approach to Stroop: Combining a language model and a unified cognitive theory. In J. D. Moore & K. Stenning (Eds.), Proceedings of the 23rd Annual Meeting of the Cognitive Science Society.
+ Mahwah, NJ: Erlbaum.
+Google Scholar Anderson, J. R.
+(2007).
+How can the human mind occur in the physical universe ? New York: Oxford University Press.
+Book Google Scholar Anderson, J. R., Bothell, D., Lebiere, C.
+, & Matessa, M.
+(1998). An integrated theory of list memory.
+Journal of Memory & Language , 38 , 341–380.
+Article Google Scholar Anderson, J. R.
+, & Milson, R.
+(1989). Human memory: An adaptive perspective.
+Psychological Review , 96 , 703–719.
+Article Google Scholar Anderson, J. R.
+, & Schooler, L. J.
+(1991). Reflections of the environment in memory.
+Psychological Science , 2 , 396–408.
+Article Google Scholar Byrne, M. D.
+, & Anderson, J. R.
+(2001). Serial modules in parallel: The psychological refractory period and perfect time-sharing.
+Psychological Review , 108 , 847–869.
+Article PubMed Google Scholar Cohen, J. D., Dunbar, K.
+, & McClelland, J. L.
+(1990). On the control of automatic processes: A parallel distributed-processing account of the Stroop effect.
+Psychological Review , 97 , 332–361.
+Article PubMed Google Scholar Collins, A. M.
+, & Loftus, E. F.
+(1975). A spreading activation theory of semantic processing.
+Psychological Review , 82 , 407–428.
+Article Google Scholar De Houwer, J.
+(2003). On the role of stimulus—response and stimulus— stimulus compatibility in the Stroop effect.
+Memory & Cognition , 31 , 353–359.
+Article Google Scholar Dell’Acqua, R., Job, R., Peressotti, F.
+, & Pascali, A.
+(2007). The picture—word interference effect is not a Stroop effect.
+Psychonomic Bulletin & Review , 14 , 717–722.
+Article Google Scholar Dell’Acqua, R., Lotto, L.
+, & Job, R.
+(2000). Naming times and standardized norms for the Italian PD/DPSS set of 266 pictures: Direct comparisons with American, English, French, and Spanish published databases.
+Behavior Research Methods, Instruments, & Computers , 32 , 588–615.
+Article Google Scholar Denckla, M. B.
+, & Rudel, R. G.
+(1976). Rapid automatized naming (RAN): Dyslexia differentiated from other learning disabilities.
+Neuropsychologia , 14 , 471–479.
+Article PubMed Google Scholar Donders, F. C.
+(1969). On the speed of mental processes.
+Acta Psychologica , 30 , 412–431. (Original work published 1868) Article PubMed Google Scholar Dyer, F. N.
+(1973). The Stroop phenomenon and its use in study of perceptual, cognitive, and response processes.
+Memory & Cognition , 1 , 106–120.
+Article Google Scholar Fagot, C.
+, & Pashler, H.
+(1992). Making two responses to a single object: Implications for the central attentional bottleneck.
+Journal of Experimental Psychology: Human Perception & Performance , 18 , 1058–1079.
+Article Google Scholar Ferreira, V. S.
+, & Pashler, H.
+(2002). Central bottleneck influences on the processing stages of word production.
+Journal of Experimental Psychology: Learning, Memory, & Cognition , 28 , 1187–1199.
+Article Google Scholar Glaser, M. O.
+, & Glaser, W. R.
+(1982). Time course analysis of the Stroop phenomenon.
+Journal of Experimental Psychology: Human Perception & Performance , 8 , 875–894.
+Article Google Scholar Glaser, W. R.
+, & Düngelhoff, F.-J.
+(1984). The time course of picture-word interference.
+Journal of Experimental Psychology: Human Perception & Performance , 10 , 640–654.
+Article Google Scholar Glaser, W. R.
+, & Glaser, M. O.
+(1989). Context effects in Stroop-like word and picture processing.
+Journal of Experimental Psychology: General , 118 , 13–42.
+Article Google Scholar Gray, W. D.
+(2007a). Composition and control of integrated cognitive systems. In W. D. Gray (Ed.), Integrated models of cognitive systems (pp. 3–12). New York: Oxford University Press.
+Google Scholar Gray, W. D.
+(Ed.) (2007b).
+Integrated models of cognitive systems.
+ New York: Oxford University Press.
+Google Scholar Greenwald, A. G.
+, & Shulman, H. G.
+(1973). On doing two things at once: II. Elimination of psychological refractory period.
+Journal of Experimental Psychology , 101 , 70–76.
+Article PubMed Google Scholar Hazeltine, E., Teague, D.
+, & Ivry, R. B.
+(2002). Simultaneous dual-task performance reveals parallel response selection after practice.
+Journal of Experimental Psychology: Human Perception & Performance , 28 , 527–545.
+Article Google Scholar Hendriks, P., van Rijn, H.
+, & Valkenier, B.
+(2007). Learning to reason about speakers’ alternatives in sentence comprehension: A computational account.
+Lingua , 117 , 1079–1096.
+Article Google Scholar Itti, L.
+, & Koch, C.
+(2001). Computational modeling of visual attention.
+Nature Reviews Neuroscience , 2 , 194–203.
+Article PubMed Google Scholar Janssen, N., Schirm, W., Mahon, B. Z.
+, & Caramazza, A.
+(2008). Semantic interference in a delayed naming task: Evidence for the response exclusion hypothesis.
+Journal of Experimental Psychology: Learning, Memory, & Cognition , 34 , 249–256.
+Article Google Scholar Jolicoeur, P.
+, & Dell’Acqua, R.
+(1998). The demonstration of short-term consolidation.
+Cognitive Psychology , 36 , 138–202.
+Article PubMed Google Scholar Juvina, I.
+, & Taatgen, N. A.
+(2009). A repetition-suppression account of between-trial effects in the Stroop task.
+Acta Psychologica , 131 , 72–84.
+Article PubMed Google Scholar Klein, G. S.
+(1964). Semantic power measured through the interference of words with color-naming.
+American Journal of Psychology , 77 , 576–588.
+Article PubMed Google Scholar Kuipers, J. R., La Heij, W.
+, & Costa, A.
+(2006). A further look at semantic context effects in language production: The role of response congruency.
+Language & Cognitive Processes , 21 , 892–919.
+Article Google Scholar Levelt, W. J. M., Roelofs, A.
+, & Meyer, A. S.
+(1999). A theory of lexical access in speech production.
+Behavioral & Brain Sciences , 22 , 1–75.
+Google Scholar Levy, J.
+, & Pashler, H.
+(2001). Is dual-task slowing instruction dependent? Journal of Experimental Psychology: Human Perception & Performance , 2 7, 862–869.
+Article Google Scholar Lovett, M. C.
+(2005). A strategy-based interpretation of Stroop.
+Cognitive Science , 2 9, 493–524.
+Article Google Scholar Luce, R. D.
+(1986).
+Response times.
+ New York: Oxford University Press.
+Google Scholar MacLeod, C. M.
+(1991). Half a century of research on the Stroop effect: An integrative review.
+Psychological Bulletin , 109 , 163–203.
+Article PubMed Google Scholar MacLeod, C. M.
+, & MacDonald, P. A.
+(2000). Interdimensional interference in the Stroop effect: Uncovering the cognitive and neural anatomy of attention.
+Trends in Cognitive Sciences , 4 , 383–391.
+Article PubMed Google Scholar Marcel, A. J.
+(1983). Conscious and unconscious perception: Experiments on visual masking and word recognition.
+Cognitive Psychology , 15 , 197–237.
+Article PubMed Google Scholar McCann, R. S.
+, & Johnston, J. C.
+(1992). Locus of the single-channel bottleneck in dual-task interference.
+Journal of Experimental Psychology: Human Perception & Performance , 18 , 471–484.
+Article Google Scholar McClelland, J. L.
+(1979). On the time relations of mental processes: Examination of systems of processes in cascade.
+Psychological Review , 86 , 287–330.
+Article Google Scholar Meyer, D. E.
+, & Kieras, D. E.
+(1997a). A computational theory of executive cognitive processes and multiple-task performance: I. Basic mechanisms.
+Psychological Review , 104 , 3–65.
+Article PubMed Google Scholar Meyer, D. E.
+, & Kieras, D. E.
+(1997b). A computational theory of executive cognitive processes and multiple-task performance: II. Accounts of psychological refractory-period phenomena.
+Psychological Review , 104 , 749–791.
+Article Google Scholar Pashler, H.
+(1994). Dual-task interference in simple tasks: Data and theory.
+Psychological Bulletin , 116 , 220–244.
+Article PubMed Google Scholar Risko, E. F., Schmidt, J. R.
+, & Besner, D.
+(2006). Filling a gap in the semantic gradient: Color associates and response set effects in the Stroop task.
+Psychonomic Bulletin & Review , 13 , 310–315.
+Article Google Scholar Roelofs, A.
+(1992). A spreading-activation theory of lemma retrieval in speaking.
+Cognition , 42 , 107–142.
+Article PubMed Google Scholar Roelofs, A.
+(2003). Goal-referenced selection of verbal action: Modeling attentional control in the Stroop task.
+Psychological Review , 110 , 88–125.
+Article PubMed Google Scholar Rossion, B.
+, & Pourtois, G.
+(2004). Revisiting Snodgrass and Vander-wart’s object pictorial set: The role of surface detail in basic-level object recognition.
+Perception , 33 , 217–236.
+Article PubMed Google Scholar Ruthruff, E., Pashler, H. E.
+, & Klaassen, A.
+(2001). Processing bottlenecks in dual-task performance: Structural limitation or strategic postponement? Psychonomic Bulletin & Review , 8 , 73–80.
+Article Google Scholar Salvucci, D. D.
+, & Taatgen, N. A.
+(2008). Threaded cognition: An integrated theory of concurrent multitasking.
+Psychological Review , 115 , 101–130.
+Article PubMed Google Scholar Schmidt, J. R.
+, & Cheesman, J.
+(2005). Dissociating stimulus—stimulus and response-response effects in the Stroop task.
+Canadian Journal of Experimental Psychology/Revue Canadienne de Psychologie Experimentale , 59 , 132–138.
+Article Google Scholar Schumacher, E. H., Lauber, E. J., Glass, J. M., Zurbriggen, E. I., Gmeindl, L., Kieras, D. E.
+, & Meyer, D. E.
+(1999). Concurrent response-selection processes in dual-task performance: Evidence for adaptive executive control of task scheduling.
+Journal of Experimental Psychology: Human Perception & Performance , 25 , 791–814.
+Article Google Scholar Schumacher, E. H., Seymour, T. L., Glass, J. M., Fencsik, D. E., Lauber, E. J., Kieras, D. E.
+, & Meyer, D. E.
+(2001). Virtually perfect time sharing in dual-task performance: Uncorking the central cognitive bottleneck.
+Psychological Science , 12 , 101–108.
+Article PubMed Google Scholar Sternberg, S.
+(1969). The discovery of processing stages: Extensions of Donders’ method.
+Acta Psychologica , 30 , 276–315.
+Article Google Scholar Stroop, J. R.
+(1935). Studies of interference in serial verbal reactions.
+Journal of Experimental Psychology , 18 , 643–662.
+Article Google Scholar Taatgen, N. A.
+, & Anderson, J. R.
+(2002). Why do children learn to say “Broke”? A model of learning the past tense without feedback.
+Cognition , 86 , 123–155.
+Article PubMed Google Scholar Taatgen, N. A.
+, & Anderson, J. R.
+(2008). Constraints in cognitive architectures. In R. Sun (Ed.), Handbook of computational psychology (pp. 170–185) New York: Cambridge University Press.
+Google Scholar Taatgen, N. A., Juvina, I., Schipper, M., Borst, J. P.
+, & Martens, S.
+(2009). Too much control can hurt: A threaded cognition model of the attentional blink.
+Cognitive Psychology , 59 , 1–29.
+Article PubMed Google Scholar Taatgen, N. A., van Rijn, H.
+, & Anderson, J. R.
+(2007). An integrated theory of prospective time interval estimation: The role of cognition, attention, and learning.
+Psychological Review , 114 , 577–598.
+Article PubMed Google Scholar Telford, C. W.
+(1931). The refractory phase of voluntary and associative responses.
+Journal of Experimental Psychology , 14 , 1–36.
+Article Google Scholar Treisman, A. M.
+, & Gelade, G.
+(1980). A feature-integration theory of attention.
+Cognitive Psychology , 12 , 97–136.
+Article PubMed Google Scholar van Maanen, L.
+(2009).
+Context effects on memory retrieval: Theory and applications.
+ Unpublished doctoral dissertation, University of Groningen, Groningen.
+Google Scholar van Maanen, L.
+, & van Rijn, H.
+(2007a). Accounting for subliminal priming in ACT-R. In R. L. Lewis, T. A. Polk, & J. E. Laird (Eds.), Proceedings of the 8th International Conference on Cognitive Modeling (pp. 1–6). New York: Psychology Press.
+Google Scholar van Maanen, L.
+, & van Rijn, H.
+(2007b). An accumulator model of semantic interference.
+Cognitive Systems Research , 8 , 174–181.
+Article Google Scholar van Maanen, L.
+, & van Rijn, H.
+(2008). The picture-word interference effect is a Stroop effect after all. In V. Sloutsky, B. Love, & K. McRae (Eds.), Proceedings of the 30th Annual Meeting of the Cognitive Science Society (pp. 645–650). Austin, TX: Cognitive Science Society.
+Google Scholar van Maanen, L., van Rijn, H., & Taatgen, N. A.
+(2009).
+Accumulators in context: An integrated theory of context effects on memory retrieval.
+ Manuscript submitted for publication.
+van Rij, J., van Rijn, H., & Hendriks, P.
+(2009).
+Cognitive architectures and language acquisition: A case study in pronoun comprehension.
+ Manuscript submitted for publication.
+van Rijn, H.
+, & Anderson, J. R.
+(2003). Modeling lexical decision as ordinary retrieval. In F. Detje, D. Dörner, & H. Schaub (Eds.), Proceedings of the Fifth International Conference on Cognitive Modeling (pp. 207–212). Bamberg: Universitätsverlag Bamberg.
+Google Scholar van Rijn, H., & Anderson, J. R.
+(2004).
+The pseudohomophone base-word frequency effect explained.
+ Paper presented at the Architectures and Mechanisms for Language Processing Conference (AMLaP), Aix-en-Provence.
+van Rijn, H.
+, & Taatgen, N. A.
+(2008). Timing of multiple overlapping intervals: How many clocks do we have? Acta Psychologica , 129 , 365–375.
+PubMed Google Scholar Van Selst, M.
+, & Jolicoeur, P.
+(1997). Decision and response in dual-task interference.
+Cognitive Psychology , 33 , 266–307.
+Article PubMed Google Scholar Van Veen, V.
+, & Carter, C. S.
+(2005). Separating semantic conflict and response conflict in the Stroop task: A functional MRI study.
+Neuro-Image , 27 , 497–504.
+PubMed Google Scholar Vukovic, R. K., Wilson, A. M.
+, & Nash, K. K.
+(2004). Naming speed deficits in adults with reading disabilities: A test of the double-deficit hypothesis.
+Journal of Learning Disabilities , 37 , 440–450.
+Article PubMed Google Scholar Welford, A. T.
+(1967). Single-channel operation in brain.
+Acta Psychologica , 27 , 5–22.
+Article PubMed Google Scholar Welford, A. T.
+(1980). The single-channel hypothesis. In A. T. Welford (Ed.), Reaction times (pp. 215–252). London: Academic Press.
+Google Scholar Wolfe, J. M.
+(1994). Guided Search 2.0: A revised model of visual search.
+Psychonomic Bulletin & Review , 1 , 202–238.
+Article Google Scholar Download references Author information Authors and Affiliations Department of Artificial Intelligence, University of Groningen, P.O. Box 407, 9700 AK, Groningen, The Netherlands Leendert van Maanen, Hedderik van Rijn & Jelmer P. Borst Authors Leendert van Maanen View author publications You can also search for this author in PubMed Google Scholar Hedderik van Rijn View author publications You can also search for this author in PubMed Google Scholar Jelmer P. Borst View author publications You can also search for this author in PubMed Google Scholar Corresponding author Correspondence to Leendert van Maanen.
+Rights and permissions Reprints and Permissions About this article Cite this article van Maanen, L., van Rijn, H. & Borst, J.P. Stroop and picture—word interference are two sides of the same coin.
+Psychonomic Bulletin & Review 16 , 987–999 (2009). https://doi.org/10.3758/PBR.16.6.987 Download citation Received : 06 October 2008 Accepted : 15 July 2009 Issue Date : December 2009 DOI : https://doi.org/10.3758/PBR.16.6.987 Share this article Anyone you share the following link with will be able to read this content: Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiative Keywords Stimulus Onset Asynchrony Stroop Task Stroop Effect Declarative Memory Color Naming Download PDF Working on a manuscript? Advertisement Search Search Navigation Find a journal Publish with us Discover content Journals A-Z Books A-Z Publish with us Publish your research Open access publishing Products and services Our products Librarians Societies Partners and advertisers Our imprints Springer Nature Portfolio BMC Palgrave Macmillan Apress Your privacy choices/Manage cookies Your US state privacy rights Accessibility statement Terms and conditions Privacy policy Help and support 129.170.197.88 Dartmouth College (8200831269) - North East Research Libraries (8200828607) © 2023 Springer Nature

@@ -1,7 +1,0 @@
-old id = 4136
-
-unknown
-Reasoning and Learning Lab
-
-Reasoning and Learning LabSchool of Computer Science,McGill UniversityThe research in the Reasoning and Learning Lab, co-directed by ProfessorsPrakash Panangaden,Doina Precup,Joelle Pineau,Jackie Chi Kit Cheung,Siva Reddy,Reihaneh Rabbany,Siamak RavanbakhshandDavid Rolnickis broadly concerned with the study of probabilistic systems. Current areas of interest include Markov processes, deep learning and its applications, reinforcement learning, natural language processing and computational linguistics. The lab is a core member of theQuebec AI Institute (Mila).
-Our research is funded by generous grants fromNSERC,FQRNT, and both theFaculty of Graduate and Postdoctoral Studiesand theSchool of Computer ScienceofMcGill University.

@@ -1,37 +1,247 @@
-old id = 2727
-‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures
+old id = 1835
+MNIST database - Wikipedia
 1994
-https://www.nature.com/articles/d41586-020-03348-4
+https://en.wikipedia.org/wiki/MNIST_database
 
-Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
-Advertisement‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structuresYou can also search for this author inPubMedGoogle ScholarYou have full access to this article via your institution.
-A protein’s function is determined by its 3D shape.
-Credit: DeepMindAn artificial intelligence (AI) network developed by Google AI offshoot DeepMind has made a gargantuan leap in solving one of biology’s grandest challenges — determining a protein’s 3D shape from its amino-acid sequence.
-DeepMind’s program, called AlphaFold, outperformed around 100 other teams in a biennial protein-structure prediction challenge called CASP, short for Critical Assessment of Structure Prediction. The results were announced on 30 November, at the start of the conference — held virtually this year — that takes stock of the exercise.
-“This is a big deal,” says John Moult, a computational biologist at the University of Maryland in College Park, who co-founded CASP in 1994 to improve computational methods for accurately predicting protein structures. “In some sense the problem is solved.”AI protein-folding algorithms solve structures faster than everThe ability to accurately predict protein structures from their amino-acid sequence would be a huge boon to life sciences and medicine. It would vastly accelerate efforts to understand the building blocks of cells and enable quicker and more advanced drug discovery.
-AlphaFold came top of the table at the last CASP — in 2018, the first year that London-based DeepMind participated. But, this year, the outfit’s deep-learning network was head-and-shoulders above other teams and, say scientists, performed so mind-bogglingly well that it could herald a revolution in biology.
-“It’s a game changer,” says Andrei Lupas, an evolutionary biologist at the Max Planck Institute for Developmental Biology in Tübingen, Germany, who assessed the performance of different teams in CASP. AlphaFold has already helped him find the structure of a protein that has vexed his lab for a decade, and he expects it will alter how he works and the questions he tackles. “This will change medicine. It will change research. It will change bioengineering. It will change everything,” Lupas adds.
-In some cases, AlphaFold’s structure predictions were indistinguishable from those determined using ‘gold standard’ experimental methods such as X-ray crystallography and, in recent years,cryo-electron microscopy (cryo-EM). AlphaFold might not obviate the need for these laborious and expensive methods — yet — say scientists, but the AI will make it possible to study living things in new ways.
-The structure problemProteins are the building blocks of life, responsible for most of what happens inside cells. How a protein works and what it does is determined by its 3D shape — ‘structure is function’ is an axiom of molecular biology. Proteins tend to adopt their shape without help, guided only by the laws of physics.
-For decades, laboratory experiments have been the main way to get good protein structures. The first complete structures of proteins were determined, starting in the 1950s, using a technique in which X-ray beams are fired at crystallized proteins and the diffracted light translated into a protein’s atomic coordinates. X-ray crystallography has produced the lion’s share of protein structures. But, over the past decade, cryo-EM has become the favoured tool of many structural-biology labs.
-Scientists have long wondered how a protein’s constituent parts — a string of different amino acids — map out the many twists and folds of its eventual shape. Early attempts to use computers to predict protein structures in the 1980s and 1990s performed poorly, say researchers. Lofty claims for methods in published papers tended to disintegrate when other scientists applied them to other proteins.
-Moult started CASP to bring more rigour to these efforts. The event challenges teams to predict the structures of proteins that have been solved using experimental methods, but for which the structures have not been made public. Moult credits the experiment — he doesn’t call it a competition — with vastly improving the field, by calling time on overhyped claims. “You’re really finding out what looks promising, what works, and what you should walk away from,” he says.
-Source: DeepMindDeepMind’s 2018 performance at CASP13 startled many scientists in the field, which has long been the bastion of small academic groups. But its approach was broadly similar to those of other teams that were applying AI, says Jinbo Xu, a computational biologist at the University of Chicago, Illinois.
-The first iteration of AlphaFold applied the AI method known as deep learning to structural and genetic data to predict the distance between pairs of amino acids in a protein. In a second step that does not invoke AI, AlphaFold uses this information to come up with a ‘consensus’ model of what the protein should look like, says John Jumper at DeepMind, who is leading the project.
-The team tried to build on that approach but eventually hit the wall. So it changed tack, says Jumper, and developed an AI network that incorporated additional information about the physical and geometric constraints that determine how a protein folds. They also set it a more difficult, task: instead of predicting relationships between amino acids, the network predicts the final structure of a target protein sequence. “It’s a more complex system by quite a bit,” Jumper says.
-Startling accuracyCASP takes place over several months. Target proteins or portions of proteins called domains — about 100 in total — are released on a regular basis and teams have several weeks to submit their structure predictions. A team of independent scientists then assesses the predictions using metrics that gauge how similar a predicted protein is to the experimentally determined structure. The assessors don’t know who is making a prediction.
-The computational protein designersAlphaFold’s predictions arrived under the name ‘group 427’, but the startling accuracy of many of its entries made them stand out, says Lupas. “I had guessed it was AlphaFold. Most people had,” he says.
-Some predictions were better than others, but nearly two-thirds were comparable in quality to experimental structures. In some cases, says Moult, it was not clear whether the discrepancy between AlphaFold’s predictions and the experimental result was a prediction error or an artefact of the experiment.
-AlphaFold’s predictions were poor matches to experimental structures determined by a technique called nuclear magnetic resonance spectroscopy, but this could be down to how the raw data is converted into a model, says Moult. The network also struggles to model individual structures in protein complexes, or groups, whereby interactions with other proteins distort their shapes.
-Overall, teams predicted structures more accurately this year, compared with the last CASP, but much of the progress can be attributed to AlphaFold, says Moult. On protein targets considered to be moderately difficult, the best performances of other teams typically scored 75 on a 100-point scale of prediction accuracy, whereas AlphaFold scored around 90 on the same targets, says Moult.
-About half of the teams mentioned ‘deep learning’ in the abstract summarizing their approach, Moult says, suggesting that AI is making a broad impact on the field. Most of these were from academic teams, but Microsoft and the Chinese technology company Tencent also entered CASP14.
-Mohammed AlQuraishi, a computational biologist at Columbia University in New York City and a CASP participant, is eager to dig into the details of AlphaFold’s performance at the contest, and learn more about how the system works when the DeepMind team presents its approach on 1 December. It’s possible — but unlikely, he says — that an easier-than-usual crop of protein targets contributed to the performance. AlQuraishi’s strong hunch is that AlphaFold will be transformational.
-“I think it’s fair to say this will be very disruptive to the protein-structure-prediction field. I suspect many will leave the field as the core problem has arguably been solved,” he says. “It’s a breakthrough of the first order, certainly one of the most significant scientific results of my lifetime.”Demis Hassabis, DeepMind’s chief executive, says that the company is learning what biologists want from AlphaFold.
-Credit: OLI SCARFF/AFP/GettyFaster structuresAn AlphaFold prediction helped to determine the structure of a bacterial protein that Lupas’s lab has been trying to crack for years. Lupas’s team had previously collected raw X-ray diffraction data, but transforming these Rorschach-like patterns into a structure requires some information about the shape of the protein. Tricks for getting this information, as well as other prediction tools, had failed. “The model from group 427 gave us our structure in half an hour, after we had spent a decade trying everything,” Lupas says.
-Demis Hassabis, DeepMind’s co-founder and chief executive, says that the company plans to make AlphaFold useful so other scientists can employ it. (It previously published enough details about the first version of AlphaFold for other scientists to replicate the approach.) It can take AlphaFold days to come up with a predicted structure, which includes estimates on the reliability of different regions of the protein. “We’re just starting to understand what biologists would want,” adds Hassabis, who sees drug discovery and protein design as potential applications.
-In early 2020, the company released predictions of the structures of a handful of SARS-CoV-2 proteins that hadn’t yet been determined experimentally. DeepMind’s predictions for a protein called Orf3a ended up being very similar to one later determined through cryo-EM, says Stephen Brohawn, a molecular neurobiologist at the University of California, Berkeley, whose team released the structure in June. “What they have been able to do is very impressive,” he adds.
-Real-world impactAlphaFold is unlikely to shutter labs, such as Brohawn’s, that use experimental methods to solve protein structures. But it could mean that lower-quality and easier-to-collect experimental data would be all that’s needed to get a good structure. Some applications, such as the evolutionary analysis of proteins, are set to flourish because the tsunami of available genomic data might now be reliably translated into structures. “This is going to empower a new generation of molecular biologists to ask more advanced questions,” says Lupas. “It’s going to require more thinking and less pipetting.”“This is a problem that I was beginning to think would not get solved in my lifetime,” says Janet Thornton, a structural biologist at the European Molecular Biology Laboratory-European Bioinformatics Institute in Hinxton, UK, and a past CASP assessor. She hopes the approach could help to illuminate the function of the thousands of unsolved proteins in the human genome, and make sense of disease-causing gene variations that differ between people.
-AlphaFold’s performance also marks a turning point for DeepMind. The company is best known for wielding AI to master games such Go, but its long-term goal is to develop programs capable of achieving broad, human-like intelligence. Tackling grand scientific challenges, such as protein-structure prediction, is one of the most important applications its AI can make, Hassabis says. “I do think it’s the most significant thing we’ve done, in terms of real-world impact.”Nature588, 203-204 (2020)doi: https://doi.org/10.1038/d41586-020-03348-4Related ArticlesAI protein-folding algorithms solve structures faster than everThe revolution will not be crystallized: a new method sweeps through structural biologyThe computational protein designersRevolutionary microscopy technique sees individual atoms for first timeSubjectsLatest on:MCM complexes are barriers that restrict cohesin-mediated loop extrusionArticle18 MAY 22Single-cell eQTL models reveal dynamic T cell state dependence of disease lociArticle11 MAY 22Fundamental immune–oncogenicity trade-offs define driver mutation fitnessArticle11 MAY 22Structural insights into the HBV receptor and bile acid transporter NTCPArticle17 MAY 22Structure of bile acid transporter NTCP crucial for hepatitis B virus entryArticle17 MAY 22How adaptability and tenacity can help you to thriveCareer Column13 MAY 22Structural insights into the HBV receptor and bile acid transporter NTCPArticle17 MAY 22Synthesis and target annotation of the alkaloid GB18Article12 MAY 22Methods combine to decode the biology of tuberculosisTechnology Feature09 MAY 22JobsPhD Student in Molecular MR ImagingGerman Cancer Research Center in the Helmholtz Association (DKFZ)Heidelberg, GermanyPhD candidate for protein engineering of imaging tools (f/m/x)Helmholtz MunichNeuherberg (bei München), GermanyPhD candidate for protein engineering of imaging tools (f/m/x)Helmholtz MunichNeuherberg (bei München), GermanyPhD candidate for the development of instrumentation for high-resolution Optoacoustic whole animal imaging (f/m/x)Helmholtz MunichNeuherberg (bei München), GermanyYou have full access to this article via your institution.
-Related ArticlesAI protein-folding algorithms solve structures faster than everThe revolution will not be crystallized: a new method sweeps through structural biologyThe computational protein designersRevolutionary microscopy technique sees individual atoms for first timeSubjectsSign up to Nature BriefingAn essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
-Sign up for theNature Briefingnewsletter — what matters in science, free to your inbox daily.
-Explore contentAbout the journalPublish with usSearchAdvanced searchQuick linksNature (Nature)ISSN1476-4687(online)ISSN0028-0836(print)nature.com sitemapDiscover contentPublishing policiesAuthor & Researcher servicesLibraries & institutionsAdvertising & partnershipsCareer developmentRegional websitesLegal & Privacy© 2022 Springer Nature Limited
+Main menu Main page Contents Current events Random article About Wikipedia Contact us Donate Help Learn to edit Community portal Recent changes Upload file Search Create account Log in Personal tools Create account Log in learn more Contributions Talk Contents (Top) 1 History 2 Performance 3 Classifiers 4 See also 5 References 6 Further reading 7 External links Toggle the table of contents MNIST database 12 languages Català Deutsch Español فارسی Français 한국어 Italiano 日本語 Русский Українська Tiếng Việt 粵語 Edit links Article Talk English Read Edit View history Tools Read Edit View history What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Wikidata item Download as PDF Printable version The MNIST database ( Modified National Institute of Standards and Technology database [1] ) is a large database of handwritten digits that is commonly used for training various image processing systems.
+[2] [3] The database is also widely used for training and testing in the field of machine learning.
+[4] [5] It was created by "re-mixing" the samples from NIST's original datasets.
+[6] The creators felt that since NIST's training dataset was taken from American Census Bureau employees, while the testing dataset was taken from American high school students, it was not well-suited for machine learning experiments.
+[7] Furthermore, the black and white images from NIST were normalized to fit into a 28x28 pixel bounding box and anti-aliased , which introduced grayscale levels.
+[7] The MNIST database contains 60,000 training images and 10,000 testing images.
+[8] Half of the training set and half of the test set were taken from NIST's training dataset, while the other half of the training set and the other half of the test set were taken from NIST's testing dataset.
+[9] The original creators of the database keep a list of some of the methods tested on it.
+[7] In their original paper, they use a support-vector machine to get an error rate of 0.8%.
+[10] Extended MNIST (EMNIST) is a newer dataset developed and released by NIST to be the (final) successor to MNIST.
+[11] [12] MNIST included images only of handwritten digits. EMNIST includes all the images from NIST Special Database 19, which is a large database of handwritten uppercase and lower case letters as well as digits.
+[13] [14] The images in EMNIST were converted into the same 28x28 pixel format, by the same process, as were the MNIST images. Accordingly, tools which work with the older, smaller, MNIST dataset will likely work unmodified with EMNIST.
+History [ edit ] The set of images in the MNIST database was created in 1994 [15] as a combination of two of NIST 's databases: Special Database 1 and Special Database 3. Special Database 1 and Special Database 3 consist of digits written by high school students and employees of the United States Census Bureau , respectively.
+[7] The original dataset was a set of 128x128 binary images, processed into 28x28 grayscale images. There were originally 60k samples in both the training set and the testing set, but 50k of the testing set were discarded. Refer to [16] for a detailed history and a reconstruction of the discarded testing set.
+Performance [ edit ] Some researchers have achieved "near-human performance" on the MNIST database, using a committee of neural networks; in the same paper, the authors achieve performance double that of humans on other recognition tasks.
+[17] The highest error rate listed [7] on the original website of the database is 12 percent, which is achieved using a simple linear classifier with no preprocessing.
+[10] In 2004, a best-case error rate of 0.42 percent was achieved on the database by researchers using a new classifier called the LIRA, which is a neural classifier with three neuron layers based on Rosenblatt's perceptron principles.
+[18] Some researchers have tested artificial intelligence systems using the database put under random distortions. The systems in these cases are usually neural networks and the distortions used tend to be either affine distortions or elastic distortions.
+[7] Sometimes, these systems can be very successful; one such system achieved an error rate on the database of 0.39 percent.
+[19] In 2011, an error rate of 0.27 percent, improving on the previous best result, was reported by researchers using a similar system of neural networks.
+[20] In 2013, an approach based on regularization of neural networks using DropConnect has been claimed to achieve a 0.21 percent error rate.
+[21] In 2016, the single convolutional neural network best performance was 0.25 percent error rate.
+[22] As of August 2018, the best performance of a single convolutional neural network trained on MNIST training data using no data augmentation is 0.25 percent error rate.
+[22] [23] Also, the Parallel Computing Center (Khmelnytskyi, Ukraine) obtained an ensemble of only 5 convolutional neural networks which performs on MNIST at 0.21 percent error rate.
+[24] [25] Some images in the testing dataset are barely readable and may prevent reaching test error rates of 0%.
+[26] In 2018, researchers from Department of System and Information Engineering, University of Virginia announced 0.18% error with simultaneous stacked three kind of neural networks (fully connected, recurrent and convolution neural networks).
+[27] Classifiers [ edit ] This is a table of some of the machine learning methods used on the dataset and their error rates, by type of classifier: Type Classifier Distortion Preprocessing Error rate (%) Linear classifier Pairwise linear classifier None Deskewing 7.6 [10] Decision stream with Extremely randomized trees Single model (depth > 400 levels) None None 2.7 [28] K-Nearest Neighbors K-NN with rigid transformations None None 0.96 [29] K-Nearest Neighbors K-NN with non-linear deformation (P2DHMDM) None Shiftable edges 0.52 [30] Boosted Stumps Product of stumps on Haar features None Haar features 0.87 [31] Non-linear classifier 40 PCA + quadratic classifier None None 3.3 [10] Random Forest Fast Unified Random Forests for Survival, Regression, and Classification (RF-SRC) [32] None Simple statistical pixel importance 2.8 [33] Support-vector machine (SVM) Virtual SVM , deg-9 poly, 2-pixel jittered None Deskewing 0.56 [34] Neural network 2-layer 784-800-10 None None 1.6 [35] Neural network 2-layer 784-800-10 Elastic distortions None 0.7 [35] Deep neural network (DNN) 6-layer 784-2500-2000-1500-1000-500-10 Elastic distortions None 0.35 [36] Convolutional neural network (CNN) 6-layer 784-40-80-500-1000-2000-10 None Expansion of the training data 0.31 [37] Convolutional neural network 6-layer 784-50-100-500-1000-10-10 None Expansion of the training data 0.27 [38] Convolutional neural network (CNN) 13-layer 64-128(5x)-256(3x)-512-2048-256-256-10 None None 0.25 [22] Convolutional neural network Committee of 35 CNNs, 1-20-P-40-P-150-10 Elastic distortions Width normalizations 0.23 [17] Convolutional neural network Committee of 5 CNNs, 6-layer 784-50-100-500-1000-10-10 None Expansion of the training data 0.21 [24] [25] Random Multimodel Deep Learning (RMDL) 10 NN-10 RNN - 10 CNN None None 0.18 [27] Convolutional neural network Committee of 20 CNNS with Squeeze-and-Excitation Networks [39] None Data augmentation 0.17 [40] Convolutional neural network Ensemble of 3 CNNs with varying kernel sizes None Data augmentation consisting of rotation and translation 0.09 [41] See also [ edit ] List of datasets for machine learning research Caltech 101 LabelMe OCR References [ edit ] ^.
+mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit} "THE MNIST DATABASE of handwritten digits".
+Yann LeCun , Courant Institute, NYU Corinna Cortes, Google Labs, New York Christopher J.C. Burges, Microsoft Research, Redmond.
+^ "Support vector machines speed pattern recognition - Vision Systems Design".
+Vision Systems Design.
+ September 2004.
+ Retrieved 17 August 2013.
+^ Gangaputra, Sachin.
+"Handwritten digit database".
+ Retrieved 17 August 2013.
+^ Qiao, Yu (2007).
+"THE MNIST DATABASE of handwritten digits".
+ Retrieved 18 August 2013.
+^ Platt, John C. (1999).
+"Using analytic QP and sparseness to speed training of support vector machines" (PDF).
+Advances in Neural Information Processing Systems : 557–563. Archived from the original (PDF) on 4 March 2016.
+ Retrieved 18 August 2013.
+^ Grother, Patrick J.
+"NIST Special Database 19 - Handprinted Forms and Characters Database" (PDF).
+National Institute of Standards and Technology.
+^ a b c d e f LeCun, Yann; Cortez, Corinna; Burges, Christopher C.J.
+"The MNIST Handwritten Digit Database".
+Yann LeCun's Website yann.lecun.com.
+ Retrieved 30 April 2020.
+^ Kussul, Ernst; Baidyk, Tatiana (2004). "Improved method of handwritten digit recognition tested on MNIST database".
+Image and Vision Computing.
+22 (12): 971–981.
+doi : 10.1016/j.imavis.2004.03.008.
+^ Zhang, Bin; Srihari, Sargur N. (2004).
+"Fast k -Nearest Neighbor Classification Using Cluster-Based Trees" (PDF).
+IEEE Transactions on Pattern Analysis and Machine Intelligence.
+26 (4): 525–528.
+doi : 10.1109/TPAMI.2004.1265868.
+PMID 15382657.
+S2CID 6883417.
+ Retrieved 20 April 2020.
+^ a b c d LeCun, Yann; Léon Bottou; Yoshua Bengio; Patrick Haffner (1998).
+"Gradient-Based Learning Applied to Document Recognition" (PDF).
+Proceedings of the IEEE.
+86 (11): 2278–2324.
+doi : 10.1109/5.726791.
+S2CID 14542261.
+ Retrieved 18 August 2013.
+^ NIST (4 April 2017).
+"The EMNIST Dataset".
+NIST.
+ Retrieved 11 April 2022.
+^ NIST (27 August 2010).
+"NIST Special Database 19".
+NIST.
+ Retrieved 11 April 2022.
+^ Cohen, G.; Afshar, S.; Tapson, J.; van Schaik, A. (2017). "EMNIST: an extension of MNIST to handwritten letters".
+arXiv : 1702.05373 [ cs.CV ].
+^ Cohen, G.; Afshar, S.; Tapson, J.; van Schaik, A. (2017). "EMNIST: an extension of MNIST to handwritten letters".
+arXiv : 1702.05373v1 [ cs.CV ].
+^ http://yann.lecun.com/exdb/publis/pdf/bottou-94.pdf [ bare URL PDF ] ^ Yadav, Chhavi; Bottou, Leon (2019).
+"Cold Case: The Lost MNIST Digits".
+Advances in Neural Information Processing Systems.
+ Curran Associates, Inc.
+32.
+arXiv : 1905.10498.
+^ a b Cires¸an, Dan; Ueli Meier; Jürgen Schmidhuber (2012).
+"Multi-column deep neural networks for image classification" (PDF).
+2012 IEEE Conference on Computer Vision and Pattern Recognition.
+ pp. 3642–3649.
+arXiv : 1202.2745.
+CiteSeerX 10.1.1.300.3283.
+doi : 10.1109/CVPR.2012.6248110.
+ISBN 978-1-4673-1228-8.
+S2CID 2161592.
+^ Kussul, Ernst; Tatiana Baidyk (2004).
+"Improved method of handwritten digit recognition tested on MNIST database" (PDF).
+Image and Vision Computing.
+22 (12): 971–981.
+doi : 10.1016/j.imavis.2004.03.008.
+ Archived from the original (PDF) on 21 September 2013.
+ Retrieved 20 September 2013.
+^ Ranzato, Marc'Aurelio; Christopher Poultney; Sumit Chopra; Yann LeCun (2006).
+"Efficient Learning of Sparse Representations with an Energy-Based Model" (PDF).
+Advances in Neural Information Processing Systems.
+19 : 1137–1144.
+ Retrieved 20 September 2013.
+^ Ciresan, Dan Claudiu; Ueli Meier; Luca Maria Gambardella; Jürgen Schmidhuber (2011).
+"Convolutional neural network committees for handwritten character classification" (PDF).
+2011 International Conference on Document Analysis and Recognition (ICDAR).
+ pp. 1135–1139.
+CiteSeerX 10.1.1.465.2138.
+doi : 10.1109/ICDAR.2011.229.
+ISBN 978-1-4577-1350-7.
+S2CID 10122297.
+ Archived from the original (PDF) on 22 February 2016.
+ Retrieved 20 September 2013.
+^ Wan, Li; Matthew Zeiler; Sixin Zhang; Yann LeCun; Rob Fergus (2013).
+Regularization of Neural Network using DropConnect.
+ International Conference on Machine Learning(ICML).
+^ a b c SimpleNet (2016).
+"Lets Keep it simple, Using simple architectures to outperform deeper and more complex architectures".
+arXiv : 1608.06037.
+ Retrieved 3 December 2020.
+^ SimpNet (2018).
+"Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet".
+Github.
+arXiv : 1802.06205.
+ Retrieved 3 December 2020.
+^ a b Romanuke, Vadim.
+"Parallel Computing Center (Khmelnytskyi, Ukraine) represents an ensemble of 5 convolutional neural networks which performs on MNIST at 0.21 percent error rate".
+ Retrieved 24 November 2016.
+^ a b Romanuke, Vadim (2016).
+"Training data expansion and boosting of convolutional neural networks for reducing the MNIST dataset error rate".
+Research Bulletin of NTUU "Kyiv Polytechnic Institute".
+6 (6): 29–34.
+doi : 10.20535/1810-0546.2016.6.84115.
+^ MNIST classifier, GitHub.
+"Classify MNIST digits using Convolutional Neural Networks".
+GitHub.
+ Retrieved 3 August 2018.
+^ a b Kowsari, Kamran; Heidarysafa, Mojtaba; Brown, Donald E.; Meimandi, Kiana Jafari; Barnes, Laura E. (2018-05-03). "RMDL: Random Multimodel Deep Learning for Classification".
+Proceedings of the 2nd International Conference on Information System and Data Mining.
+ pp. 19–28.
+arXiv : 1805.01890.
+doi : 10.1145/3206098.3206111.
+ISBN 9781450363549.
+S2CID 19208611.
+^ Ignatov, D.Yu.; Ignatov, A.D. (2017).
+"Decision Stream: Cultivating Deep Decision Trees".
+2017 IEEE 29th International Conference on Tools with Artificial Intelligence (ICTAI).
+ pp. 905–912.
+arXiv : 1704.07657.
+Bibcode : 2017arXiv170407657I.
+doi : 10.1109/ICTAI.2017.00140.
+ISBN 978-1-5386-3876-7.
+S2CID 21864203.
+{{ cite book }} : |journal= ignored ( help ) ^ Lindblad, Joakim; Nataša Sladoje (January 2014). "Linear time distances between fuzzy sets with applications to pattern matching and classification".
+IEEE Transactions on Image Processing.
+23 (1): 126–136.
+Bibcode : 2014ITIP...23..126L.
+doi : 10.1109/TIP.2013.2286904.
+PMID 24158476.
+S2CID 1908950.
+^ Keysers, Daniel; Thomas Deselaers; Christian Gollan; Hermann Ney (August 2007). "Deformation models for image recognition".
+IEEE Transactions on Pattern Analysis and Machine Intelligence.
+29 (8): 1422–1435.
+CiteSeerX 10.1.1.106.3963.
+doi : 10.1109/TPAMI.2007.1153.
+PMID 17568145.
+S2CID 2528485.
+^ Kégl, Balázs; Róbert Busa-Fekete (2009).
+"Boosting products of base classifiers" (PDF).
+Proceedings of the 26th Annual International Conference on Machine Learning.
+ pp. 497–504.
+doi : 10.1145/1553374.1553439.
+ISBN 9781605585161.
+S2CID 8460779.
+ Retrieved 27 August 2013.
+^ "RandomForestSRC: Fast Unified Random Forests for Survival, Regression, and Classification (RF-SRC)".
+ 21 January 2020.
+^ "Mehrad Mahmoudian / MNIST with RandomForest".
+^ Decoste, Dennis; Schölkopf, Bernhard (2002).
+"Training Invariant Support Vector Machines".
+Machine Learning.
+46 (1–3): 161–190.
+doi : 10.1023/A:1012454411458.
+ISSN 0885-6125.
+OCLC 703649027.
+^ a b Patrice Y. Simard; Dave Steinkraus; John C. Platt (2003).
+"Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis".
+Proceedings of the Seventh International Conference on Document Analysis and Recognition.
+ Vol. 1.
+Institute of Electrical and Electronics Engineers.
+ p. 958.
+doi : 10.1109/ICDAR.2003.1227801.
+ISBN 978-0-7695-1960-9.
+S2CID 4659176.
+^ Ciresan, Claudiu Dan; Ueli Meier; Luca Maria Gambardella; Juergen Schmidhuber (December 2010). "Deep Big Simple Neural Nets Excel on Handwritten Digit Recognition".
+Neural Computation.
+22 (12): 3207–20.
+arXiv : 1003.0358.
+doi : 10.1162/NECO_a_00052.
+PMID 20858131.
+S2CID 1918673.
+^ Romanuke, Vadim.
+"The single convolutional neural network best performance in 18 epochs on the expanded training data at Parallel Computing Center, Khmelnytskyi, Ukraine".
+ Retrieved 16 November 2016.
+^ Romanuke, Vadim.
+"Parallel Computing Center (Khmelnytskyi, Ukraine) gives a single convolutional neural network performing on MNIST at 0.27 percent error rate".
+ Retrieved 24 November 2016.
+^ Hu, Jie; Shen, Li; Albanie, Samuel; Sun, Gang; Wu, Enhua (2019). "Squeeze-and-Excitation Networks".
+IEEE Transactions on Pattern Analysis and Machine Intelligence.
+42 (8): 2011–2023.
+arXiv : 1709.01507.
+doi : 10.1109/TPAMI.2019.2913372.
+PMID 31034408.
+S2CID 140309863.
+^ "GitHub - Matuzas77/MNIST-0.17: MNIST classifier with average 0.17% error".
+GitHub.
+ 25 February 2020.
+^ An, Sanghyeon; Lee, Minjun; Park, Sanglee; Yang, Heerin; So, Jungmin (2020-10-04). "An Ensemble of Simple Convolutional Neural Network Models for MNIST Digit Recognition".
+arXiv : 2008.10400 [ cs.CV ].
+Further reading [ edit ] Ciresan, Dan; Meier, Ueli; Schmidhuber, Jürgen (June 2012).
+"Multi-column deep neural networks for image classification" (PDF).
+2012 IEEE Conference on Computer Vision and Pattern Recognition.
+ New York, NY: Institute of Electrical and Electronics Engineers.
+ pp. 3642–3649.
+arXiv : 1202.2745.
+CiteSeerX 10.1.1.300.3283.
+doi : 10.1109/CVPR.2012.6248110.
+ISBN 9781467312264.
+OCLC 812295155.
+S2CID 2161592.
+ Retrieved 2013-12-09.
+External links [ edit ] Official website Visualization of the MNIST database – groups of images of MNIST handwritten digits on GitHub.
+mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em} v t e Differentiable computing General Differentiable programming Information geometry Statistical manifold Automatic differentiation Neuromorphic engineering Pattern recognition Tensor calculus Computational learning theory Inductive bias Concepts Gradient descent SGD Clustering Regression Overfitting Hallucination Adversary Attention Convolution Loss functions Backpropagation Batchnorm Activation Softmax Sigmoid Rectifier Regularization Datasets Augmentation Diffusion Autoregression Applications Machine learning In-context learning Artificial neural network Deep learning Scientific computing Artificial Intelligence Language model Large language model Hardware IPU TPU VPU Memristor SpiNNaker Software libraries TensorFlow PyTorch Keras Theano JAX Flux.jl Implementations Audio–visual AlexNet WaveNet Human image synthesis HWR OCR Speech synthesis Speech recognition Facial recognition AlphaFold DALL-E Midjourney Stable Diffusion Whisper Verbal Word2vec Seq2seq BERT LaMDA Bard NMT Project Debater IBM Watson GPT-1 GPT-2 GPT-3 GPT-4 ChatGPT GPT-J Chinchilla AI PaLM BLOOM LLaMA Decisional AlphaGo AlphaZero Q-learning SARSA OpenAI Five Self-driving car MuZero Action selection Auto-GPT Robot control People Yoshua Bengio Alex Graves Ian Goodfellow Stephen Grossberg Demis Hassabis Geoffrey Hinton Yann LeCun Fei-Fei Li Andrew Ng Jürgen Schmidhuber David Silver Ilya Sutskever Organizations Anthropic EleutherAI Google DeepMind Hugging Face OpenAI Meta AI Mila MIT CSAIL Architectures Neural Turing machine Differentiable neural computer Transformer Recurrent neural network (RNN) Long short-term memory (LSTM) Gated recurrent unit (GRU) Echo state network Multilayer perceptron (MLP) Convolutional neural network Residual neural network Autoencoder Variational autoencoder (VAE) Generative adversarial network (GAN) Graph neural network Portals Computer programming Technology Categories Artificial neural networks Machine learning v t e Standard test items Pangram Reference implementation Sanity check Standard test image Artificial intelligence Chinese room Turing test Television ( test card ) SMPTE color bars EBU colour bars Indian-head test pattern EIA 1956 resolution chart BBC Test Card A , B , C , D , E , F , G , H , J , W , X ETP-1 Philips circle pattern ( PM 5538 , PM 5540 , PM 5544 , PM 5644 ) Snell & Wilcox SW2/SW4 Telefunken FuBK TVE test card UEIT Computer languages "Hello, World!" program Quine Trabb Pardo–Knuth algorithm Man or boy test Just another Perl hacker Data compression Calgary corpus Canterbury corpus Silesia corpus enwik8, enwik9 3D computer graphics Cornell box Stanford bunny Stanford dragon Utah teapot List Machine learning ImageNet MNIST database List Typography ( filler text ) Etaoin shrdlu Hamburgevons Lorem ipsum The quick brown fox jumps over the lazy dog Other 3DBenchy Acid 1 2 3 "Bad Apple!!" EICAR test file functions for optimization GTUBE Harvard sentences Lenna "The North Wind and the Sun" "Tom's Diner" SMPTE universal leader EURion constellation Shakedown Webdriver Torso 1951 USAF resolution test chart Datasets in computer vision All articles with bare URLs for citations Articles with bare URLs for citations from May 2023 Articles with PDF format bare URLs for citations CS1 errors: periodical ignored Articles with short description Short description matches Wikidata This page was last edited on 8 September 2023, at 21:10 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+ Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Code of Conduct Developers Statistics Cookie statement Mobile view Toggle limited content width

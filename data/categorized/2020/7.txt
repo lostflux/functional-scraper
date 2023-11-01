@@ -1,23 +1,43 @@
-old id = 112
-About the Pandemic Technology Project | MIT Technology Review
+old id = 63
+2020 | MIT Technology Review
 2020
-https://www.technologyreview.com/2020/12/16/1014876/about-the-pandemic-technology-project
+https://www.technologyreview.com/innovators-under-35/2020
 
-About the Pandemic Technology ProjectAs covid-19 began spreading around the world, an avalanche of new digital services and data-driven approaches has emerged to aid pandemic response. From smartphone exposure notifications to vaccine allocation algorithms, these systems have been developed under the watch of politicians, public health officials, scientists and businesses. They have also faced many challenges.
-ThePandemic Technology Projectexamines how these systems are being used in the fight against SARS-CoV-2. Over the course of 2021, it will investigate and report on the various ways that digital technologies are developed and deployed.
-The project is funded by support provided by a grant to MIT Technology Review from the Rockefeller Foundation. Content is editorially independent and output is overseen by MITTR editor Bobbie Johnson. Unless otherwise stated, all material posted by the project reflect the views of the individual contributors, and not the Massachusetts Institute of Technology, or the Rockefeller Foundation.
-How it startedOur coverage started inMarch 2020, as we saw technologists discussing how smartphones could help detect possible exposure to the disease. This led to a flood of apps and systems, which we began monitoring developments through ourCovid Tracing Tracker.
-As the pandemic continued, we saw these technologies supplemented by other digital interventions, including expanding the use of digital health records, the prospect of immunity passports, and other data-driven ways of approaching the spread of covid-19.
-How it's goingIn November 2020, we expanded the project to take in this larger landscape. The project is now funded by a grant from the Rockefeller Foundation, and alongside the core staff of Technology Review, we have dedicated reporters and editors focused on uncovering more about these important questions.
-Principal investigator, project lead:Bobbie JohnsonEditor:Lindsay MuscatoReporters:Cat Ferguson,Mia SatoYou can see a full list of stories we've published on the Pandemic Technology Project page.
-What they're saying about usThe project and tracker have received coverage in news outlets around the world, from international broadcasters to local websites. If you're a member of the press interested in talking to our team about this work or the role of technology in the pandemic, please email lindsay.muscato@technologyreview.comOur work has also been used in public health decisions, and cited in studies and research papers. If you are referencing our work, or have an interest in our data please email ctt@technologyreview.com to let us know.
-Google Scholar citationsbyBobbie JohnsonSharePopularKeep ReadingMost PopularWhy China is still obsessed with disinfecting everythingMost public health bodies dealing with covid have long since moved on from the idea of surface transmission. China’s didn’t—and that helps it control the narrative about the disease’s origins and danger.
-These materials were meant to revolutionize the solar industry. Why hasn’t it happened?Perovskites are promising, but real-world conditions have held them back.
-Anti-aging drugs are being tested as a way to treat covidDrugs that rejuvenate our immune systems and make us biologically younger could help protect us from the disease’s worst effects.
-A quick guide to the most important AI law you’ve never heard ofThe European Union is planning new legislation aimed at curbing the worst harms associated with artificial intelligence.
-Stay connectedGet the latest updates fromMIT Technology ReviewDiscover special offers, top stories, upcoming events, and more.
-Thank you for submitting your email!It looks like something went wrong.
-We’re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out to us atcustomer-service@technologyreview.comwith a list of newsletters you’d like to receive.
-MIT Technology ReviewOur in-depth reporting reveals what’s going on now to prepare you for what’s coming next.
-Subscribeto support our journalism.
-AboutHelp© 2022 MIT Technology Review
+Featured Topics Newsletters Events Podcasts Featured Topics Newsletters Events Podcasts Innovators Under 35 2020 In chaotic times it can be reassuring to see so many people working toward a better world. That’s true for medical professionals fighting a pandemic and for ordinary citizens fighting for social justice. And it’s true for those among us striving to employ technology to address those problems and many others.
+The 35 young innovators in these pages aren’t all working to fight a pandemic, though some are: see Omar Abudayyeh and Andreas Puschnik. And they’re not all looking to remedy social injustices though some are: see Inioluwa Deborah Raji and Mohamed Dhaouafi. But even those who aren’t tackling those specific problems are seeking ways to use technology to help people. They’re trying to solve our climate crisis, find a cure for Parkinson’s, or make drinking water available to those who are desperate for it.
+We've been presenting our list of innovators under 35 for the past 20 years. We do it to highlight the things young innovators are working on, to show at least some of the possible directions that technology will take in the coming decade. This contest generates more than 500 nominations each year. The editors then face the task of picking 100 semifinalists to put in front of our 25 judges, who have expertise in artificial intelligence, biotechnology, software, energy, materials, and so on. With the invaluable help of these rankings, the editors pick the final list of 35.
+Cathryn Virginia Share facebooklink opens in a new window twitterlink opens in a new window linkedinlink opens in a new window emaillink opens in a new window Cathryn Virginia Categories Past Years More Inventors Omar Abudayyeh He’s working to use CRISPR as a covid-19 test that you could take at home.
+Christina Boville She modifies enzymes to enable production of new compounds for industry.
+Manuel Le Gallo He uses novel computer designs to make AI less power hungry.
+Nadya Peek She builds novel modular machines that can do just about anything you can imagine.
+Leila Pirhaji She developed an AI-based system that can identify more small molecules in a patient’s body, faster than ever before.
+Randall Jeffrey Platt His recording tool provides a video of genes turning on or off.
+Rebecca Saive She found a way to make solar panels cheaper and more efficient.
+Venkat Viswanathan His work on a new type of battery could make EVs much cheaper.
+Anastasia Volkova Her platform uses remote sensing and other techniques to monitor crop health—helping farmers focus their efforts where they’re most needed.
+Sihong Wang His stretchable microchips promise to make all sorts of new devices possible.
+Entrepreneurs Jiwei Li In the last few months, Google and Facebook have both released new chatbots. Jiwei Li’s techniques are at the heart of both.
+Atima Lui She’s using technology to correct the cosmetics industry’s bias toward light skin.
+Tony Pan His company revamps an old device to allow you to generate electricity in your own home.
+Visionaries Leilani Battle Her program sifts through data faster so scientists can focus more on science.
+Morgan Beller She was a key player behind the idea of a Facebook cryptocurrency.
+Eimear Dolan Medical implants are often thwarted as the body grows tissue to defend itself. She may have found a drug-free fix for the problem.
+Rose Faghih Her sensor-laden wristwatch would monitor your brain states.
+Bo Li By devising new ways to fool AI, she is making it safer.
+Zlatko Minev His discovery could reduce errors in quantum computing.
+Miguel Modestino He is reducing the chemical industry’s carbon footprint by using AI to optimize reactions with electricity instead of heat.
+Inioluwa Deborah Raji Her research on racial bias in data used to train facial recognition systems is forcing companies to change their ways.
+Adriana Schulz Her tools let anyone design products without having to understand materials science or engineering.
+Dongjin Seo He is designing computer chips to seamlessly connect human brains and machines.
+Humanitarians Mohamed Dhaouafi His company’s artificial limbs are not only high-functioning but cheap enough for people in low-income countries.
+Alex Le Roux A massive 3D-printing project in Mexico could point the way to the future of affordable housing.
+Katharina Volz A loved one’s diagnosis led her to employ machine learning in the search for a Parkinson’s cure.
+David Warsinger His system could alleviate the drawbacks of existing desalination plants.
+Pioneers Ghena Alhanaee Heavy dependence on infrastructure like oil rigs, nuclear reactors, and desalination plants can be catastrophic in a crisis. Her data-driven framework could help nations prepare.
+Avinash Manjula Basavanna His biodegradable plastic protects against extreme chemicals, but heals itself using water.
+Lili Cai She created energy-efficient textiles to break our air-conditioning habit.
+Gregory Ekchian He invented a way to make radiation therapy for cancer safer and more effective.
+Jennifer Glick If quantum computers work, what can we use them for? She’s working to figure that out.
+Andrej Karpathy He’s employing neural networks to allow automated cars to “see.” Siddharth Krishnan A tiny, powerful sensor for making disease diagnosis cheaper, faster, and easier.
+Andreas Puschnik Seeking a universal treatment for viral diseases, he might leave us much better prepared for the next pandemic.
+The latest iteration of a legacy Advertise with MIT Technology Review © 2023 MIT Technology Review About About us Careers Custom content Advertise with us International Editions Republishing MIT News Help Help & FAQ My subscription Editorial guidelines Privacy policy Terms of Service Write for us Contact us twitterlink opens in a new window facebooklink opens in a new window instagramlink opens in a new window rsslink opens in a new window linkedinlink opens in a new window

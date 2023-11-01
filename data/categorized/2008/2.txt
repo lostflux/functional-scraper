@@ -1,36 +1,639 @@
-old id = 490
-The Epic Siberian Journey to Solve a Mass Extinction Mystery | WIRED
+old id = 804
+Stockfish (chess) - Wikipedia
 2008
-https://www.wired.com/story/the-epic-siberian-journey-to-solve-a-mass-extinction-mystery
+https://en.wikipedia.org/wiki/Stockfish_(chess)
 
-To revist this article, visit My Profile, thenView saved stories.
-To revist this article, visit My Profile, thenView saved stories.
-Matt SimonThe Epic Siberian Journey to Solve a Mass Extinction MysteryTo revist this article, visit My Profile, thenView saved stories.
-To revist this article, visit My Profile, thenView saved stories.
-Some 250 millionyears ago, the organisms of Earth were having a very bad time—the veryworsttime, you might say. The Permian-Triassic extinction event was unfolding, in which 70 percent of land species and 96 percent of marine species disappeared. Runaway global warming had raised equatorial ocean temperatures to 104 degrees Fahrenheit. The seas rapidly acidified, so shelled critters struggled to build their protective homes. Indeed, the fossil record shows these species got it the worst—strong evidence that the extinction’s culprit was CO2mucking with the oceans’ pH balance, and the rest of the planet, for that matter. Every decade or so, ozone-eating gases would dissolve Earth’s protective layer in the sky, irradiating plants and animals, before the ozone layer closed up. This happened again and again, allowing periodic blasts of extreme radiation to bombard the planet.
-One long-standing hypothesis for the cause of the Permian-Triassic extinction, also known as the Great Dying, will sound worryingly familiar to us modern humans: the large-scale burning of coal. Only such a catastrophe, scientists reckoned, had the power to transform Earth so radically in such a short period of time; the fossil record indicates that species weren’t dying off en masse over millions of years, or hundreds of thousands of years, but tens of thousands of years. A carbon-spewing volcanic event alone—even the biggest of booms—couldn’t explain such a cataclysm. And there’s no evidence of an asteroid strike in this period, like the one that would kill off the dinosaurs 190 million years later.
-It’s a juicy theory. The only problem is that scientists didn’t have the hard evidence to prove a massive combustion of coal did all those species in. But they knew where to look: in what we now call Siberia, a frigid expanse of land that 250 million years ago was anything but chilly, because it was flooded with lava. Volcanoes pumped out so much planetary goop that the stuff could have covered the entire continental United States a half-mile deep. And unfortunately for all life on Earth, scientists suspected, the lava was flash-incinerating vast deposits of coal and ejecting massive quantities of greenhouse gases into the atmosphere.
-That’s how the theory goes, anyway.
-Planetary scientist Lindy Elkins-Tanton, of Arizona State University, was on a mission to prove it. But she was stymied by the fact that the evidence she coveted lay in areas the Russian government doesn’t let its own citizens visit, much less foreign researchers. But Elkins-Tanton eats bureaucrats for breakfast. After cutting through spools of red tape for half a year, in the summer of 2008 she and her team flew from Moscow to the tiny Arctic town of Khatanga, north of the expanses the team needed to penetrate. Home to a thousand people, it’s a launching pad for Arctic scientific expeditions—a good place to stop if you’re headed to the Taymyr Peninsula to the north, for instance, to look for frozen mammoths.
-The researchers on an island in the Angara river, in Siberia. From left to right: Scott Simper, Lindy Elkins-Tanton, Sam Bowring, Seth Burgess, and Ben Black.
-To get there, though, the scientists had to hop on a … let’s sayunorthodoxflight, from a small airport in Moscow. When they boarded, they found that their seats had been piled high with baggage and boxes—the other passengers were returning to Khatanga for the summer. “Some people started piling luggage off of three seats, so we could sit down,” says Elkins-Tanton. “And the plane was so heavily loaded that it almost hit the trees during takeoff. It went way past the end of the runway and almost didn't make it.” Spooked, but nevertheless having reached cruising altitude, she and two colleagues decided to get up and find their friends seated elsewhere on the plane. “We unbuckled our seat belts and stood up, and the seats fell over backward, because they weren’t bolted to the airplane,” she says.
-Scientists. So picky.
-From Khatanga they flew in an old Soviet troop-transporting helicopter—still pocked with bullet holes—to the Kotuy River, a cold, muscular Arctic rager that ideally they’d tackle in one of those fancyZodiac motor boats. “We'd been begging our Russian friends, ‘Just let us buy some Zodiacs. We'll ship them up there. It'll be the best way to go,’” says Elkins-Tanton. “They're like, ‘No, no, no—no one else would like it. If we had Zodiacs and they didn't have Zodiacs, it would look really bad. It would ruin all the collaborations. We can’t have Zodiacs.’”“And they're like, ‘Don't bring life preservers. That's really insulting.’”Floating down the river in less fancy boats, dutifully bereft of life preservers, they pulled into any promising outcrop that might offer geological clues about the explosive incineration of coal—volcanic rocks were a good indicator. If they found a particularly choice spot, they’d stop and set up camp for a few days, surveying the permafrost landscape and summiting cliffs. This far north, the sun was out 24 hours a day in summer, and during the peak of the day, that permafrost tended to thaw out.
-“We'd be in our tents and we would just hear these gigantic roaring landslides as the permafrost gave way, and whole sides of these cliffs slipped down as mud and huge amounts of trees,” Elkins-Tanton says. “Sometimes we'd be climbing up those cliffs during the day, and we’d get to these places that were really hair-raising. I didn't quite get it—I didn't put it together in my head—until one of my colleagues said, ‘You know, the reason we're sinking almost to our knees in mud here is because all this permafrost is melted, and probably tomorrow it'll landslide.’”Elkins-Tanton and her colleagues scoured the Siberian landscape, chisels and small 10-pound sledgehammers in hand. They were looking for hard evidence of a cataclysm that might have kicked off the Permian-Triassic extinction: volcaniclastic rock—crumbly stuff, with lots of small particles stuck together, almost like sandstone.
-A lump of coal in a quarry near the town of Ust Ilimsk“I really wanted to find this place that was rumored where there were a lot of rocks that result from explosive volcanic eruptions,” Elkins-Tanton says, “because that's the only way that we know of that you can effectively drive chemicals into the upper atmosphere where they'll get spun around the whole planet.” She was closing in on the geological signals of apocalyptic climate change.
-Before this regionof Siberia tried to destroy all multicellular life on the planet, it was a peaceful inland sea, which dried up and left an “evaporite basin.” The water’s evaporation deposited a layer of limestone and minerals rich in chlorine and bromine—think of it as being like the gunk that’s left when you forget coffee or tea in a cup. Eventually, a swamp grew on top of this mineral layer. As plants and animals decomposed, they deposited layers of coal, oil, and gas. “So basically that whole area of central Siberia is just like a layer cake of toxic material, all created by Mother Nature,” says Elkins-Tanton.
-The secret ingredient of this layer cake is magma, which flowed from deep below and injected itself between layers of toxic sedimentary rock, formed from the dried-out sea. “Coal was the last thing on the top, but we know coal covered the whole basin,” Elkins-Tanton says.
-To cause a mass extinction that unfolded over a mere tens of thousands of years, somehow all that carbon had to suddenly burn off and rapidly warm the whole planet. “There's only a few things that cause global change like that,” Elkins-Tanton says. “One is a giant meteor strike, which—there's no evidence for it. It would have to be a really big one, and the evidence would be there. Another one is a nuclear war—pretty sure that did not happen.”A third option, Elkins-Tanton continues, is “you've got to figure out a way to change the whole atmosphere. And the way to change the whole atmosphere is to drive chemicals up into the stratosphere.” For that, you need an explosive volcanic eruption and, critically for Elkins-Tanton, you need the rocks to prove it.
-Not all volcanoes are so ornery. For example, Kilauea isn’t explosive at the moment, because its magma (what you call the gooey stuff while it’s still underground—it becomeslavawhen it emerges)is relatively thin and runny. When Kilauea’s magma bubbles to the surface, it releases its gases in an orderly fashion.
-Mount St. Helens, on the other hand, teemed with relatively thick magma, which better traps gases. As it ascends, the mass of magma suddenly becomes more buoyant, and it expands. And that means a bigger blowout. “If you have enough gases in the magma, instead of it bubbling out like soup, it explodes like a shaken soda bottle,” Elkins-Tanton says. “The carbon dioxide in soda is in solution. It's not in the form of bubbles until you shake it up or open it. And that's the same as releasing pressure as the magma comes closer to the surface, and all the volatiles form bubbles.”“That's like Pinatubo or Mount St. Helens, but on a much bigger scale,” she continues. “And those things have enough heat and gases that they rise all the way up and puncture through the tropopause into the stratosphere.” The tropopause is a boundary layer between the troposphere—the bit of atmosphere that we call home—and the stratosphere, which starts about 6 miles up. The troposphere is relatively chaotic, filled with all kinds of clouds, winds, and weather systems, whereas the stratosphere is relatively calm. (Planes fly in this zone to avoid turbulence, in fact.)This calmness, though, helped doom all those species 250 million years ago: Explosive volcanic eruptions in Siberia punched through the tropopause and deposited great burps of carbon into the stratosphere. If all that gas had stayed in the troposphere over Siberia, it would have stayed more local and gradually dissipated. Life would be miserable for plants and animals below, to be sure, but the rest of the Earth would have been spared a mass extinction. Instead, it spread around the world as an insulating layer of greenhouse gas.
-But the eruptions themselves were only one component of the catastrophe; they alone couldn’t have led to such intense and rapid global warming. Elkins-Tanton and her colleagues were looking for evidence that the large-scale burning of coal also helped do in life on Earth. Floating down the rivers of Siberia during six separate expeditions—in inflatable boats that refused to stay inflated—Elkins-Tanton searched for evidence in the cliff faces, the places where it had all popped off a quarter billion years ago. “Every single cliff along the river was these explosive volcanic rocks, from the water level up to the top,” says Elkins-Tanton. “Sometimes 100 meters or more of cliff, just explosive rocks.”Drudging through thawing permafrost, collecting hundreds of pounds of rocks and squirreling them away in heavy-duty plastic bags, Elkins-Tanton stumbled upon a peculiar kind of rock—they contained little bits of both coal and charcoal. “We weren't totally clear what they were, and some of the people in the field with me were not very interested. But I don't know, they seemed really unusual to me, and so I was taking care to sample them,” says Elkins-Tanton.
-Then she remembered the work of Stephen Grasby, senior research scientist at the Geological Survey of Canada. On the other side of the North Pole, in the Canadian Arctic islands, he and his colleagues had previously discovered bizarre formations called cenospheres in rocks dating back 250 million years. “They are coal experts, and they knew that the only way these little, hard, burnt bubbles of carbon are made in the current day is in super-high-temperature, coal-burning, power stations. They were not aware of them having ever been found in the geologic record before,” Elkins-Tanton says. “And they hypothesized that they were from coal burning in Siberia from the Siberian flood basalts, and that they'd been carried around the globe on these Arctic air currents and fallen in the north of Canada.”And so it all came together. Elkins-Tanton had found the rocks indicative of violent explosive eruptions that she and her team think had flash-incinerated vast deposits of coal, “degassing” the fossil fuel and propelling CO2into the stratosphere. This allowed particulate matter and greenhouse gases, suspended in the relatively calm stratosphere, to spread around the world.
-“Then, of course, all the animals and plants died,” Elkins-Tanton says. “So this is the first actual evidence—field evidence, physical evidence—for coal burning at the flood basalts in Siberia.” (She and Grasby and their colleagues recentlyreported their findingsin the journalGeology.)Geologists actually suspected that they had already found this carbon in the fossil record. The ocean absorbs CO2from the atmosphere, and in turn sea creatures incorporate carbonate into their skeletons and shells, before dying and sinking and becoming limestone. Because the average isotopic weight of carbon atoms derived from organic sources is lighter than those derived from the mantle of the Earth, scientists can analyze limestone and show a sudden surge in light carbon, indicating a surge in atmospheric CO2. But this new study is the first to put hard evidence to the mechanism for how that carbon got there, how explosive volcanoes lit fields of Siberian coal afire and flooded the stratosphere with greenhouse gases.
-“That provides us now with a smoking gun—or smoking coal, I guess—evidence that there really was degassing of these coals during the eruptions,” says Stanford University paleontologist Jonathan Payne, who wasn’t involved in the study. “This is really heroic field work.”But how much degassing, exactly? Elkins-Tanton and her colleagues have calculated that the Siberian eruptions that burned coal and other organic matter could have pumped 6,000 billion to 10,000 billion tons of carbon into the atmosphere. “The exact quantity is still hard to pin down directly by geological observations,” says Payne. “A lot of this then is a question of scaling up and making the assumption that what we see in the field is representative, and that's a perfectly reasonable assumption.” Payne adds that he wouldn’t be surprised if the high-end figure of 10,000 billion tons of carbon is in fact low, once you factor in the potential obliteration of rock like limestone, which sequesters its own carbon.
-Now for a bit of scary perspective. According to theGlobal Carbon Project, a consortium of climate researchers, we humans emit nearly 40 billion tons of CO2a year, and that’s been increasing reliably by a few percent each year, throwing Earth’s carbon cycle out of whack. Typically, the CO2system works like filling up a bathtub with an open drain. Volcanoes and tree-burning wildfires release the gas, some of which enters the atmosphere and decays over time, some of which gets absorbed by the ocean. But we as a species are now pumping way too much extra CO2into the atmosphere. The faucet is turned up too high, and the drain can’t keep up, so the tub is overflowing. The consequence is rapid global warming.
-In the same way, volcanic chaos in Siberia 250 million years ago cranked up the CO2faucet, and the bathtub overflowed. “The Earth doesn't care what is doing the work,” says research geologist Seth Burgess of the US Geological Survey. (Burgess didn’t coauthor theGeologypaper, but did accompany the team on field expeditions.) “At the end of the Permian, we have evidence for this huge slug of greenhouse gases going into the atmosphere. The biosphere responded with 90 percent mortality at a species level. The Earth doesn't care what's doing the driving—it's going to respond the same way. So we can learn about what's very likely to happen if we put levels of greenhouse gas into the atmosphere at the same pace as occurred at the end of the Permian.”It’s still unknown how the rate of emissions at the end of the Permian compares to how fast we’re burning fossil fuels today—the researchers can calculate howmuchcarbon Siberia injected into the atmosphere, but not howquickly. Still, Burgess continues, with our current carbon emissions, “we could make life for our species pretty difficult. The Earth is going to be fine, and lots of species will be fine. Many things will survive if our species decides to shoot itself in the foot. But the analogy is there. We know what happens when you significantly increase the amount of greenhouse gas in the atmosphere on a short, short timescale.”And our species isn’t just sullying the planet with greenhouse gases. There’s deforestation,microplastic pollution, and any number of other environmental sins, all compounding one another to form a super-crisis. “The Permian doesn't have any analogue to human changes in land use, overhunting, overfishing,” says Payne. “Some of the things humans are doing are really different from anything that would have happened in the Permian. But some of the big changes we’re causing to the planet are the same ones that appear to have been instrumental in the End-Permian extinction.”To humanity’s credit, and more specifically Elkins-Tanton’s, science has been able to look back a quarter billion years and piece together a remarkably detailed story about a very bad time on Earth in the only way that’s available to us, which is through the geologic record. “There's no do-over,” says Elkins-Tanton. “You can't do a double-blind experiment. You can't even dooneexperiment.”But scientists can gather observations that allow them to time-travel to an unrecognizable Siberia, and an unrecognizable Earth. They know the planet got real hot real quick, consistent with a burp of carbon dioxide. They see that carbon in the fossil record. They’ve got rocks that suggest explosive eruptions fundamentally changed the atmosphere. And they know that multicellular life almost ceased to exist.
-Carbon dioxide doesn’t get all the blame here—scientists know that the eruptions released so much sulfur that the resulting acid rain turned some parts of the sea to lemon juice. “We know that other things also happened to add to the global catastrophe,” says Elkins-Tanton. “But this was a really key missing link that now has been found.”Getting that missing geological link into a lab for analysis meant lugging almost 400 pounds of rocks out of Siberia. To conclude their expedition, the team helicoptered back to Khatanga, then booked passage in a cargo plane, because a commercial flight would have been too expensive. “Even the one with the unbolted seats, because we'd have to pay this huge amount of money per kilogram, and we have like 180 kilograms of rocks,” Elkins-Tanton says.
-Standing on the tarmac, they watched a forklift load their container of priceless scientific material into the belly of the machine. But their own onboarding would not be so easy. “The way you get in the plane is you climb up a wooden ladder holding onto a rope with knots in it,” says Elkins-Tanton. “We get in there, and of course there's people in the plane already. The only seats are little jump seats that pull down from the walls of the plane, and they're all taken.” So the scientists sat on the cold steel floor of the plane, save for takeoff and landing, when they had to stand up and wrap their arms around poles.
-“There's a navigator sitting at a desk with a protractor, plotting our flight path,” she adds. “Then part way through this flight, which is three or four hours, we notice this bad smell. We get up to walk around the plane—because it's not like there are flight attendants or anything. We walk to the back of the container that has our rocks in it, and it turns out the whole back of the plane is packed with frozen, skinned caribou. And they're beginning to thaw.”Ain’t the continuing existence of life on Earth grand?More From WIREDContact© 2022 Condé Nast. All rights reserved. Use of this site constitutes acceptance of ourUser AgreementandPrivacy Policy and Cookie StatementandYour California Privacy Rights.
-Wiredmay earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
-Ad Choices
+Main menu Main page Contents Current events Random article About Wikipedia Contact us Donate Help Learn to edit Community portal Recent changes Upload file Search Create account Log in Personal tools Create account Log in learn more Contributions Talk Contents (Top) 1 Features 2 Architecture 3 History Toggle History subsection 3.1 Fishtest 3.2 NNUE 4 Competition results Toggle Competition results subsection 4.1 Top Chess Engine Championship 4.2 Chess.com Computer Chess Championship 4.3 Stockfish 5 versus Nakamura 4.4 Stockfish 8 versus AlphaZero 5 Derivatives 6 See also 7 Notes 8 References 9 Further reading 10 External links Toggle the table of contents Stockfish (chess) 27 languages العربية Català Čeština Dansk Deutsch Español Esperanto فارسی Français 한국어 Bahasa Indonesia Italiano עברית Bahasa Melayu Nederlands 日本語 Norsk bokmål Polski Português Русский کوردی Српски / srpski Svenska Türkçe Українська Tiếng Việt 中文 Edit links Article Talk English Read Edit View history Tools Read Edit View history What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Wikidata item Download as PDF Printable version Developer(s) The Stockfish developers [1] Initial release November 2, 2008 ; 14 years ago ( 2008-11-02 ) Stable release 16 / June 30, 2023 ; 4 months ago ( 2023-06-30 ) [2] Repository.
+mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0} github.
+com /official-stockfish /Stockfish Written in C++ Operating system Microsoft Windows macOS Linux iOS Android Type Chess engine License GPL-3.0-or-later [3] Website stockfishchess.
+org This article is part of the series on Chess programming Board representations 0x88 Bitboards Evaluation functions Deep neural networks Efficiently updatable neural networks Handcrafted evaluation functions Piece-square tables Reinforcement learning Stochastic gradient descent Supervised learning Texel tuning Unsupervised learning Graph and tree search algorithms Minimax Alpha-beta pruning Principal variation search Quiescence search Monte Carlo tree search Chess computers Belle ChessMachine ChipTest Cray Blitz Deep Blue Deep Thought HiTech Hydra Mephisto Saitek Chess engines AlphaZero Chess Tiger Crafty CuckooChess Deep Fritz Dragon by Komodo Chess Fairy-Max Fritz Fruit GNU Chess HIARCS Houdini Ikarus Junior KnightCap Komodo Leela Chess Zero MChess Pro Mittens MuZero Naum REBEL Rybka Shredder Sjeng SmarThink Stockfish Torch Turochamp Zappa.
+mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em} v t e Stockfish is a free and open-source chess engine , available for various desktop and mobile platforms. It can be used in chess software through the Universal Chess Interface.
+Stockfish has consistently ranked first in most of the chess engine rating lists and, as of September 2023, is the strongest CPU chess engine in the world with an estimated Elo rating of 3546 (CCRL 40/15).
+[4] It has won all the main events in the Top Chess Engine Championship (TCEC) and the Chess.com Computer Chess Championship (CCC) since 2020.
+The Stockfish engine was developed by Tord Romstad, Marco Costalba, and Joona Kiiski. It is now being developed and maintained by the Stockfish community.
+[5] It is derived from Glaurung, an open-source engine by Tord Romstad released in 2004.
+Features [ edit ] Stockfish can use up to 1024 CPU threads in multiprocessor systems. The maximal size of its transposition table is 32 TB. Stockfish implements an advanced alpha–beta search and uses bitboards.
+ Compared to other engines, it is characterized by its great search depth, due in part to more aggressive pruning and late move reductions.
+[6] As of October 2023 [update] , Stockfish 16 (4-threaded) achieves an Elo rating of 3536 +16 −16 on the CCRL 40/15 benchmark.
+[7] Stockfish supports Chess960 , which is one feature that was inherited from Glaurung.
+[8] The Syzygy tablebase support, previously available in a fork maintained by Ronald de Man, was integrated into Stockfish in 2014.
+[9] In 2018 support for the 7-men Syzygy was added, shortly after becoming available.
+[10] Stockfish has been a very popular engine on various platforms. On desktop, it is the default chess engine bundled with the Internet Chess Club interface programs BlitzIn and Dasher. On mobile, it has been bundled with the Stockfish app, SmallFish and Droidfish. Other Stockfish-compatible graphical user interfaces (GUIs) include Fritz , Arena, Stockfish for Mac, and PyChess.
+[11] [12] Stockfish can be compiled to WebAssembly or JavaScript , allowing it to run in the browser. Both chess.com and Lichess provide Stockfish in this form in addition to a server-side program.
+[13] Release versions and development versions are available as C++ source code and as precompiled versions for Microsoft Windows , macOS , Linux 32-bit/64-bit and Android.
+Architecture [ edit ] The Stockfish engine essentially consists of three parts: board representation , heuristic tree search , board evaluation. Board representation is about coding a chess board state efficiently so that it can be efficiently stored and searched over. Heuristic tree search approximates minimax tree search, which would be too slow to perform. Board evaluation takes in a board representation and gives it a score for how "good" the board is (i.e. the estimated chances of winning).
+[14] Starting with Stockfish 12 (2020), a neural network board evaluation function was incorporated. In Stockfish 16 (2023), the classical board evaluation functions were removed, leaving just the neural network.
+History [ edit ] The program originated from Glaurung , an open-source chess engine created by Romstad and first released in 2004. Four years later, Costalba, inspired by the strong open-source engine, decided to fork the project. He named it Stockfish because it was "produced in Norway and cooked in Italy" (Romstad is Norwegian, Costalba is Italian). The first version, Stockfish 1.0, was released in November 2008.
+[15] [16] For a while, new ideas and code changes were transferred between the two programs in both directions, until Romstad decided to discontinue Glaurung in favor of Stockfish, which was the more advanced engine at the time.
+[17] The last Glaurung version (2.2) was released in December 2008.
+Around 2011, Romstad decided to abandon his involvement with Stockfish in order to spend more time on his new iOS chess app.
+[18] On 18 June 2014 Marco Costalba announced that he had "decided to step down as Stockfish maintainer" and asked that the community create a fork of the current version and continue its development.
+[19] An official repository, managed by a volunteer group of core Stockfish developers, was created soon after and currently manages the development of the project.
+[20] Fishtest [ edit ] Since 2013, Stockfish has been developed using a distributed testing framework named Fishtest , where volunteers can donate CPU time for testing improvements to the program.
+[21] [22] [23] Changes to game-playing code are accepted or rejected based on results of playing of tens of thousands of games on the framework against an older "reference" version of the program, using sequential probability ratio testing.
+ Tests on the framework are verified using the chi-squared test , and only if the results are statistically significant are they deemed reliable and used to revise the software code.
+After the inception of Fishtest, Stockfish experienced an explosive growth of 120 Elo points in just 12 months, propelling it to the top of all major rating lists.
+[24] In Stockfish 7, Fishtest author Gary Linscott was added to the official list of authors in acknowledgement of his contribution to Stockfish's strength.
+As of October 2023, the framework has used a total of more than 11200 years of CPU time to play over 6.6 billion chess games.
+[25] NNUE [ edit ] In June 2020, an efficiently updatable neural network (NNUE) fork introduced by computer shogi programmers called Stockfish NNUE was discussed by developers.
+[26] [27] In July 2020 chess news reported that Stockfish NNUE had "broken new ground in computer chess by incorporating a neural network into the already incredibly powerful Stockfish chess engine." [28] A NNUE merge into Stockfish was then announced and development builds became available.
+[29] [30] "The NNUE branch maintained by @nodchip has demonstrated strong results and offers great potential, and we will proceed to merge ... This merge will introduce machine learning based coding to the engine, thus enlarging the community of developers, bringing in new skills. We are eager to keep everybody on board, including all developers and users of diverse hardware, aiming to be an inclusive community ...the precise steps needed will become clearer as we proceed, I look forward to working with the community to make this happen!" On 2 September 2020, the twelfth version of Stockfish was released, incorporating the aforementioned neural network improvement. According to the blog announcement, this new version "plays significantly stronger than any of its predecessors", typically winning ten times more game pairs than it loses when matched against version eleven.
+[31] [32] Competition results [ edit ] Top Chess Engine Championship [ edit ] Stockfish is a TCEC multiple-time champion and the current leader in trophy count. Ever since TCEC restarted in 2013, Stockfish has finished first or second in every season except one. In TCEC Season 4 and 5, Stockfish finished runner-up, with Superfinal scores of 23–25 first against Houdini 3 and later against Komodo 1142. Season 5 was notable for the winning Komodo team as they accepted the award posthumously for the program's creator Don Dailey , who succumbed to an illness during the final stage of the event. In his honor, the version of Stockfish that was released shortly after that season was named "Stockfish DD".
+[33] On 30 May 2014, Stockfish 170514 (a development version of Stockfish 5 with tablebase support) convincingly won TCEC Season 6, scoring 35.5–28.5 against Komodo 7x in the Superfinal.
+[34] Stockfish 5 was released the following day.
+[35] In TCEC Season 7, Stockfish again made the Superfinal, but lost to Komodo with the score of 30.5–33.5.
+[34] In TCEC Season 8, despite losses on time caused by buggy code, Stockfish nevertheless qualified once more for the Superfinal, but lost the ensuing 100-game match 46.5–53.5 to Komodo.
+[34] In Season 9, Stockfish defeated Houdini 5 with a score of 54.5 versus 45.5.
+[34] [36] Stockfish finished third during season 10 of TCEC, the only season since 2013 in which Stockfish had failed to qualify for the superfinal. It did not lose a game but was still eliminated because it was unable to score enough wins against lower-rated engines. After this technical elimination, Stockfish went on a long winning streak, winning seasons 11 (59 vs. 41 against Houdini 6.03), [34] [37] 12 (60 vs. 40 against Komodo 12.1.1), [34] [38] and 13 (55 vs. 45 against Komodo 2155.00) [34] [39] convincingly.
+[40] In Season 14 , Stockfish faced a new challenger in Leela Chess Zero , but managed to eke out a win by one game (50.5–49.5).
+[34] [41] Its winning streak was finally ended in season 15 , when Leela qualified again and won 53.5–46.5, [34] but Stockfish promptly won season 16 , defeating AllieStein 54.5–45.5, after Leela failed to qualify for the superfinal.
+[34] In season 17 , Stockfish faced Leela again in the superfinal, losing 52.5–47.5. However, Stockfish has won every superfinal since: beating Leela 53.5–46.5 in season 18 , 54.5–45.5 in season 19 , 53–47 in season 20 , and 56–44 in season 21.
+[34] In Season 22, Komodo Dragon beat out Leela to qualify for the superfinal, but was crushed by Stockfish 59.5-40.5. Stockfish did not lose an opening pair in this match.
+[42] Leela made the superfinal in Season 23, but was also crushed by Stockfish 58.5-41.5.
+[43] Stockfish also took part in the TCEC cup, winning the first edition, but was surprisingly upset by Houdini in the semifinals of the second edition.
+[34] [44] Stockfish recovered to beat Komodo in the third-place playoff.
+[34] In the third edition, Stockfish made it to the finals, but was defeated by Leela Chess Zero after blundering in a 7-man endgame tablebase draw. It turned this result around in the fourth edition, defeating Leela in the final 4.5–3.5.
+[34] In TCEC Cup 6, Stockfish finished third after losing to AllieStein in the semifinals, the first time it had failed to make the finals. Since then, Stockfish has consistently made the finals, generally defeating Leela, although Leela won the 11th edition 8.5-7.5, Stockfish managed to win the most recent edition 14.5-13.5 Event Year Time Controls Result Ref Season 1 2010 100+10 3rd [45] Season 2 2011 150+30 5th [46] Season 4 2013 150+60 2nd [47] Season 5 2013 120+30 2nd [48] Season 6 2014 120+30 1st [49] Season 7 2014 120+30 2nd [50] Season 8 2015 180+30 2nd [51] Season 9 2016 180+15 1st [52] Season 10 2017 90+10 2nd [note 1] [53] Season 11 2018 120+15 1st [54] Season 12 2018 120+15 1st [55] Season 13 2018 120+15 1st [56] Season 14 2018 120+15 1st [57] Season 15 2019 120+10 2nd [58] Season 16 2019 120+10 1st [59] Season 17 2020 90+5 2nd [60] Season 18 2020 90+10 1st [61] Season 19 2020 120+10 1st [62] Season 20 2020 120+10 1st [63] Season 21 2021 120+10 1st [64] Season 22 2022 120+12 1st [65] Season 23 2022 120+12 1st [66] Season 24 2023 120+12 1st [67] Season 25 2023 120+12 1st [68] Event Year Time Controls Result Ref Cup 1 2018 30+10 1st [69] Cup 2 2019 30+5 2nd [note 1] [70] Cup 3 2019 30+5 2nd [71] Cup 4 2019 30+5 1st [72] Cup 5 2020 30+5 1st [73] Cup 6 2020 30+5 3rd [74] Cup 7 2020 30+5 1st [75] Cup 8 2021 30+5 1st [76] Cup 9 2021 30+5 1st [77] Cup 10 2022 30+3 1st [78] Cup 11 2023 30+3 2nd [79] Cup 12 2023 30+3 1st [80] Event Year Time Controls Result Ref FRC 1 2019 30+5 1st [81] FRC 2 2020 30+5 1st [82] FRC 3 2021 30+5 2nd [83] FRC 4 2022 30+5 1st [84] FRC 5 2022 30+3 1st [85] FRC 6 2023 30+3 1st [86] Event Year Time Controls Result Ref Swiss 1 2021 45+7 2nd [87] Swiss 2 2021 45+7 2nd [88] Swiss 3 2022 45+4.5 1st [89] Swiss 4 2023 30+3 1st [90] Swiss 5 2023 30+3 1st [91] Event Year Time Controls Result Ref DFRC 1 2022 30+3 1st [92] DFRC 2 2023 30+3 1st [93] Chess.com Computer Chess Championship [ edit ] Ever since chess.com hosted its first Chess.com Computer Chess Championship in 2018, Stockfish has been the most successful engine. It dominated the earlier championships, winning six consecutive titles before finishing second in CCC7. Since then, its dominance has come under threat from the neural-network engines Leelenstein and Leela Chess Zero , but it has continued to perform well, reaching at least the superfinal in every edition up to CCC11. CCC12 had for the first time a knockout format, with seeding placing CCC11 finalists Stockfish and Leela in the same half. Leela eliminated Stockfish in the semi-finals. However, a post-tournament match against the loser of the final, Leelenstein, saw Stockfish winning in the same format as the main event. After finishing second again to Leela in CCC13, and an uncharacteristic fourth in CCC14, Stockfish went on a long winning streak, taking first place in every championship since.
+Event Year Time Controls Result Ref CCC 2017 15+2 1st [94] CCC 1: Rapid Rumble 2018 15+5 1st [95] CCC 2: Blitz Battle 2018 5+2 1st [96] CCC 3: Rapid Redux 2019 30+5 1st [97] CCC 4: Bullet Brawl 2019 1+2 1st [98] CCC 5: Escalation 2019 10+5 1st [99] CCC 6: Winter Classic 2019 10+10 1st [100] CCC 7: Blitz Bonanza 2019 5+2 2nd [101] CCC 8: Deep Dive 2019 15+5 1st [102] CCC 9: The Gauntlet 2019 5+2, 10+5 1st [103] CCC 10: Double Digits 2019 10+3 2nd [104] CCC 11 2019 30+5 2nd [105] CCC 12: Bullet Madness! 2020 1+1 3rd [106] CCC 13: Heptagonal 2020 5+5 2nd [107] CCC 14 2020 15+5, 5+2, 1+1 4th [108] CCC Blitz 2020 2020 5+5 1st [109] CCC Rapid 2021 2021 15+3 1st [110] CCC Blitz 2021 2021 5+5 1st [111] CCC Chess 960 Blitz 2021 5+5 1st [112] CCC 16: Rapid 2021 15+3 1st [113] CCC 16: Bullet 2021 2+1 1st [114] CCC 16: Blitz 2022 5+5 1st [115] CCC 17: Rapid 2022 15+3 1st [116] CCC 17: Bullet 2022 2+1 1st [117] CCC 17: Blitz 2022 5+5 1st [118] CCC 18: Rapid 2022 15+3 1st [119] CCC 19: Blitz 2022 5+5 1st [120] CCC 19: Rapid 2022 15+3 1st [121] CCC 19: Bullet 2023 1+1 1st [122] CCC 20: Blitz 2023 3+2 1st [123] CCC 20: Rapid 2023 10+3 1st [124] CCC 20: Bullet 2023 1+1 1st [125] CCC 21: Blitz 2023 3+2 1st [126] CCC 21: Rapid 2023 10+3 1st [127] Event Year Time Controls Result Ref CPU Blitz Madness 2020 3+2 1st [128] Trillion-Node Throwdown III 2020 150+5 1st [129] No-Castle II 2020 5+2 1st [130] Bullet Chess is Fun 2020 2+1 1st [131] Checkmate in 4 2020 3+2 1st [132] Odds Ladder 2020 3+2 1st [133] Merry Queen Sac 2020 2+1 1st [134] Budapest Bullet 2020 2+1 2nd [135] King Gambit Madness 2021 5+5 1st [136] Drawkiller Update Party 2021 2+1 1st [137] To Castle Or Not To Castle II 2021 3+2 1st [138] Eco Mega-Match 2 (part 1) 2021 1+1 1st [139] Eco Mega-Match 2 (part 2) 2021 1+1 1st [140] Caro-Kann Special 2021 5+2 1st [141] King's Indian Defense Special 2021 10+2 2nd [142] Dutch Defense Special 2021 10+2 1st [143] Evans Gambit Madness 2021 10+2 2nd [144] Sicilian Najdorf Special 2021 10+2 1st [145] Belgian Stew 2021 2+1 1st [146] Saragossa 2021 2+1 2nd [147] Double Bongcloud , Rapid 2021 10+2 2nd [148] The Hillbilly Attack 2021 10+2 3rd [149] Romantic Openings: Danish Gambit Accepted 2021 3+2 1st [150] Romantic Openings: Evans Gambit Accepted 2021 3+2 1st [151] Romantic Openings: Urusov Gambit Accepted 2021 5+2 1st [152] Romantic Openings: Blackmar-Diemer Gambit 2021 5+2 1st [153] Romantic Openings: Stafford Gambit 2021 1+2 2nd [154] Romantic Openings: Calabrese Countergambit 2021 5+2 1st [155] Romantic Openings: Traxler Counterattack 2021 5+2 2nd [156] No Black Castling 2022 5+5 1st [157] Draw Killer Bonus 2022 15+5 1st [158] Romantic Openings: Wing Gambit 2022 5+2 1st [159] Chess 324 Bonus 2022 5+2 1st [160] Classical Cup #1 2023 30+5 1st [161] Stockfish 5 versus Nakamura [ edit ] Stockfish's strength relative to the best human chess players was most apparent in a handicap match with grandmaster Hikaru Nakamura (2798-rated) in August 2014. In the first two games of the match, Nakamura had the assistance of an older version of Rybka , and in the next two games, he received White with pawn odds but no assistance. Nakamura was the world's fifth-best human chess player at the time of the match, while Stockfish 5 was denied use of its opening book and endgame tablebase. Stockfish won each half of the match 1.5–0.5. Both of Stockfish's wins arose from positions in which Nakamura, as is typical for his playing style, pressed for a win instead of acquiescing to a draw.
+[162] Stockfish 8 versus AlphaZero [ edit ] In December 2017, Stockfish 8 was used as a benchmark to test Google division DeepMind 's AlphaZero , with each engine supported by different hardware. AlphaZero was trained through self-play for a total of nine hours, and reached Stockfish's level after just four.
+[163] [164] [165] In 100 games from the normal starting position, AlphaZero won 25 games as White, won 3 as Black, and drew the remaining 72, with 0 losses.
+[166] AlphaZero also played twelve 100-game matches against Stockfish starting from twelve popular openings for a final score of 290 wins, 886 draws and 24 losses, for a point score of 733:467.
+[167] [note 2] AlphaZero's victory over Stockfish sparked a flurry of activity in the computer chess community, leading to a new open-source engine aimed at replicating AlphaZero, known as Leela Chess Zero.
+ By January 2019, Leela was able to defeat the version of Stockfish that played AlphaZero (Stockfish 8) in a 100-game match. An updated version of Stockfish narrowly defeated Leela Chess Zero in the superfinal of the 14th TCEC season , 50.5–49.5 (+10 =81 −9), [34] but lost the superfinal of the next season to Leela 53.5–46.5 (+14 =79 -7).
+[34] [169] The two engines remain very close in strength to each other even as they continue to improve: Leela defeated Stockfish in the superfinal of TCEC Season 17 , but Stockfish won TCEC Season 18 , TCEC Season 19 , TCEC Season 20 , and TCEC Season 21 , each time defeating Leela in the superfinal.
+Derivatives [ edit ] YaneuraOu, a strong shogi engine and the origin of NNUE. Speaks USI, a variant of UCI for shogi.
+[170] Fairy Stockfish, a version modified to play fairy chess.
+ Runs with regional variants (chess, shogi, makruk , etc.) as well as other variants like antichess.
+[171] Lichess Stockfish, a version for playing variants without fairy pieces.
+[13] Crystal, which seeks to address common issues with chess engines such as positional or tactical blindness due to over reductions or over pruning, draw blindness due to the move horizon and displayed principal variation reliability.
+[172] Brainfish, which contains a reduced version of Cerebellum, a chess opening library.
+[173] BrainLearn, a derivative of Brainfish but with a persisted learning algorithm.
+[174] ShashChess, a derivative with the goal to apply Alexander Shashin theory from the book Best Play: a New Method for Discovering the Strongest Move.
+[175] [176] Houdini 6, a Stockfish derivative that did not comply with the terms of the GPL license.
+[177] [178] Fat Fritz 2, a Stockfish derivative that did not comply with the terms of the GPL license.
+[177] [179] [180] [178] See also [ edit ] Chess portal FOSS portal List of free and open-source software packages Notes [ edit ] ^ a b This result takes into account the disqualification of Houdini 6 from TCEC.
+^ The academic paper on this sequence of games does not provide the computer resources allocated to each engine.
+[168] References [ edit ] ^.
+mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit} "List of Stockfish authors".
+github.com/official-stockfish/Stockfish.
+ Retrieved 3 July 2023.
+^ "Stockfish 16".
+Stockfish.
+ 30 June 2023.
+ Retrieved 30 June 2023.
+^ "Stockfish GPLv3 license".
+github.com/official-stockfish/Stockfish.
+ Retrieved 20 July 2020.
+^ "CCRL 40/15 - Index".
+computerchess.org.uk.
+ Retrieved 2023-02-03.
+^ "Engine authors".
+Stockfish.
+ Retrieved 3 July 2023.
+^ Kaufman, Larry (24 November 2013).
+"Stockfish depth vs. others; challenge".
+TalkChess.com.
+ Retrieved 8 March 2014.
+^ "CCRL 40/15 - Index".
+ccrl.chessdom.com.
+ Retrieved 2023-01-15.
+^ "Computer Engines – Chess960.net".
+ Retrieved 2022-06-21.
+^ "Stockfish development versions".
+abrok.eu.
+ Archived from the original on 11 November 2014.
+ Retrieved 1 February 2015.
+^ "7-piece Syzygy tablebases are complete".
+lichess.org.
+ 19 August 2018.
+ Retrieved 2022-06-21.
+^ Using the Stockfish Engine Archived 2018-01-09 at the Wayback Machine , Stockfish Support.
+^ ChessEngines , PyChess Github.
+^ a b Dugovic, Daniel (8 November 2020).
+"ddugovic/Stockfish: Multi-variant fork of popular UCI chess engine".
+GitHub.
+^ "Stockfish - Chessprogramming wiki".
+www.chessprogramming.org.
+ Retrieved 2023-10-30.
+^ "About".
+stockfishchess.org.
+ Retrieved 5 March 2014.
+^ Costalba, Marco (2 November 2008).
+"Stockfish 1.0".
+talkchess.com.
+ Retrieved 6 March 2014.
+^ Romstad, Tord (5 September 2009).
+"Re: Stockfish – Glaurung".
+wbec-ridderkerk.forumotion.com.
+ Retrieved 5 March 2014.
+^ Logics (Kings_Logics), Kings (21 June 2022).
+"Stockfish".
+Chess.com.
+ Retrieved 2022-06-21.
+^ Costalba, Marco (18 June 2014).
+"Step down".
+groups.google.com.
+ Retrieved 19 June 2014.
+^ Linscott, Gary (18 June 2014).
+"New official repository".
+groups.google.com.
+ Retrieved 19 June 2014.
+^ "Stockfish Testing Framework".
+tests.stockfishchess.org.
+ Retrieved 7 March 2014.
+^ "Get Involved".
+stockfishchess.org.
+ Retrieved 8 March 2014.
+^ Costalba, Marco (1 May 2013).
+"Fishtest Distributed Testing Framework".
+talkchess.com.
+ Retrieved 18 April 2014.
+^ "CCRL Rating List".
+ Archived from the original on 30 May 2014.
+^ "Stockfish Testing Framework – Users".
+tests.stockfishchess.org.
+ Retrieved 26 September 2022.
+^ nodchip.
+"Stockfish NNUE".
+GitHub.
+ Retrieved August 3, 2020.
+^ "SF NNUE. Issue#2728 official-stockfish".
+GitHub.
+ June 27, 2020.
+ Retrieved August 3, 2020.
+^ Canary-Reed (the_real_greco), Wilhelm (20 July 2020).
+"Stockfish+NNUE, Strongest Chess Engine Ever, To Compete In CCCC".
+Chess.com.
+ Retrieved 2020-07-24.
+^ a b Joost VandeVondele (July 25, 2020).
+"official-stockfish / Stockfish, NNUE merge".
+GitHub.
+ Retrieved August 3, 2020.
+^ abrok.eu.
+"Stockfish NNUE Development Versions".
+ Archived from the original on August 5, 2020.
+ Retrieved August 3, 2020.
+^ "Stockfish 12 - Stockfish - Open Source Chess Engine".
+stockfishchess.org.
+^ "Stockfish 12 vs Stockfish 11 Raw statistics".
+Stockfish Testing Framework - Stockfish 12 vs Stockfish 11.
+ Retrieved 11 January 2022.
+^ "Stockfish Blog on Stockfish DD".
+^ a b c d e f g h i j k l m n o p "TCEC Season Archive".
+tcec-chess.com.
+ Retrieved 7 August 2021.
+^ Costalba, Marco (31 May 2014).
+"Stockfish 5".
+talkchess.com.
+ Retrieved 19 June 2014.
+^ "Stockfish is the TCEC Season 9 Grand Champion".
+Chessdom.
+ 5 December 2016.
+ Retrieved 5 December 2016.
+^ "TCEC Season 11 Superfinal 2018".
+chess24.com.
+ Retrieved 18 November 2018.
+^ "TCEC Season 12 Superfinal 2018".
+chess24.com.
+ Retrieved 18 November 2018.
+^ "TCEC Season 13 Superfinal 2018".
+chess24.com.
+ Retrieved 18 November 2018.
+^ "Stockfish convincingly wins TCEC Season 11".
+Chessdom.
+ 13 April 2018.
+ Retrieved 18 April 2018.
+^ "Stockfish continues to dominate computer chess, wins TCEC S14".
+Chessdom.
+ 1 March 2019.
+^ "Stockfish wins the TCEC Season 22 Superfinal by 19 points".
+ Chessdom. 23 April 2022.
+^ "Stockfish wins TCEC Season 23".
+ Chessdom. 18 November 2022.
+^ "Houdunit ? Most shocking chess engine game of TCEC 2019".
+YouTube.
+^ "Top Chess Engine Championship Season 1".
+tcec-chess.com.
+ Retrieved 8 March 2022.
+^ "Top Chess Engine Championship Season 2".
+tcec-chess.com.
+ Retrieved 8 March 2022.
+^ "Top Chess Engine Championship Season 4".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 5".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 6".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 7".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 8".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 9".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 10".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 11".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 12".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 13".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 14".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 15".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 16".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 17".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 18".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 19".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 20".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 21".
+tcec-chess.com.
+ Retrieved 5 March 2022.
+^ "Top Chess Engine Championship Season 22".
+tcec-chess.com.
+ Retrieved 20 April 2022.
+^ "Top Chess Engine Championship Season 23".
+tcec-chess.com.
+ Retrieved 17 November 2022.
+^ "Top Chess Engine Championship Season 24".
+tcec-chess.com.
+ Retrieved 27 April 2023.
+^ "Top Chess Engine Championship Season 25".
+tcec-chess.com.
+ Retrieved 29 October 2023.
+^ "Top Chess Engine Championship Cup 1".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship Cup 2".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship Cup 3".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship Cup 4".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship Cup 5".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship Cup 6".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship Cup 7".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship Cup 8".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship Cup 9".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship Cup 10".
+tcec-chess.com.
+ Retrieved 26 May 2022.
+^ "Top Chess Engine Championship Cup 11".
+tcec-chess.com.
+ Retrieved 14 January 2023.
+^ "Top Chess Engine Championship Cup 12".
+tcec-chess.com.
+ Retrieved 28 July 2023.
+^ "Top Chess Engine Championship FRC1".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship FRC2".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship FRC3".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship FRC4".
+tcec-chess.com.
+ Retrieved 7 March 2022.
+^ "Top Chess Engine Championship FRC5".
+tcec-chess.com.
+ Retrieved 21 July 2022.
+^ "Top Chess Engine Championship FRC6".
+tcec-chess.com.
+ Retrieved 30 May 2023.
+^ "Top Chess Engine Championship Swiss 1".
+tcec-chess.com.
+ Retrieved 19 March 2022.
+^ "Top Chess Engine Championship Swiss 2".
+tcec-chess.com.
+ Retrieved 19 March 2022.
+^ "Top Chess Engine Championship Swiss 3".
+tcec-chess.com.
+ Retrieved 4 July 2022.
+^ "TCEC Swiss 4".
+tcec-chess.com.
+ Retrieved 13 February 2023.
+^ "TCEC Swiss 5".
+tcec-chess.com.
+ Retrieved 15 July 2023.
+^ "Top Chess Engine Championship DFRC 1".
+tcec-chess.com.
+ Retrieved 4 August 2022.
+^ "Top Chess Engine Championship DFRC 2".
+tcec-chess.com.
+ Retrieved 15 June 2023.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 22 August 2023.
+^ Cilento, Pete.
+"Stockfish Wins Computer Chess Championship Rapid; Lc0 Finishes 3rd".
+Chess.com.
+ Retrieved 20 June 2019.
+^ Cilento, Pete.
+"Stockfish Wins Computer Chess Championship Blitz".
+Chess.com.
+ Retrieved 20 June 2019.
+^ Cilento, Pete.
+"Stockfish Wins Rapid Computer Championship Over Lc0; Bullet Chess Next".
+Chess.com.
+ Retrieved 20 June 2019.
+^ Cilento, Pete.
+"Stockfish Wins Computer Chess Championship Bullet; 'Escalation' Next".
+Chess.com.
+ Retrieved 20 June 2019.
+^ "Lc0 versus Stockfish | CCC 5: Finals (10|5)".
+Chess.com.
+ 2 August 2019.
+^ Cilento, Pete.
+"Computer Chess Championship Plays Blitz After Stockfish Defends Title".
+Chess.com.
+ Retrieved 20 June 2019.
+^ Cilento, Pete (17 April 2019).
+"Lc0 Wins Computer Chess Championship, Makes History".
+Chess.com.
+ Retrieved 18 April 2019.
+^ Pete (pete).
+"Stockfish Strikes Back, Tops Lc0 In Computer Chess Championship".
+Chess.com.
+ Retrieved 29 May 2019.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 9 July 2019.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 30 July 2019.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 27 December 2019.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 28 January 2020.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 30 April 2020.
+^ "CCC 14".
+Chess.com.
+ Retrieved 16 February 2022.
+^ "CCC Blitz Championship 2020 Finals".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "CCC Rapid 2021 Finals".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "CCC Blitz Championship 2021 Finals".
+Chess.com.
+ Retrieved 6 February 2022.
+^ "CCC 960 Blitz Championship Finals".
+Chess.com.
+ Retrieved 6 February 2022.
+^ "CCC 16: Rapid Finals".
+Chess.com.
+ Retrieved 23 November 2021.
+^ "CCC 16: Bullet Finals".
+Chess.com.
+ Retrieved 6 January 2022.
+^ "CCC 16: Blitz Finals".
+Chess.com.
+ Retrieved 16 February 2022.
+^ "CCC 17: Rapid Finals".
+Chess.com.
+ Retrieved 30 March 2022.
+^ "CCC 17: Bullet Finals".
+Chess.com.
+ Retrieved 18 May 2022.
+^ "CCC 17: Blitz Finals".
+Chess.com.
+ Retrieved 13 July 2022.
+^ "CCC 18: Rapid Finals".
+Chess.com.
+ Retrieved 18 August 2022.
+^ "CCC 19: Blitz Finals".
+Chess.com.
+ Retrieved 13 October 2022.
+^ "CCC 19: Rapid Finals".
+Chess.com.
+ Retrieved 3 December 2022.
+^ "CCC 19: Bullet Finals".
+Chess.com.
+ Retrieved 22 January 2023.
+^ "CCC 20: Blitz Finals".
+Chess.com.
+ Retrieved 23 March 2023.
+^ "CCC 20: Rapid Finals".
+Chess.com.
+ Retrieved 1 June 2023.
+^ "CCC 20: Bullet Finals".
+Chess.com.
+ Retrieved 20 July 2023.
+^ "CCC 21: Blitz Finals".
+Chess.com.
+ Retrieved 22 August 2023.
+^ "CCC 21: Rapid Finals".
+Chess.com.
+ Retrieved 13 October 2023.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Computer Chess Championship".
+Chess.com.
+ Retrieved 24 February 2022.
+^ "Romantic Openings: Danish Gambit Accepted".
+Chess.com.
+ Retrieved 7 February 2022.
+^ "Romantic Openings: Evans Gambit Accepted".
+Chess.com.
+ Retrieved 7 February 2022.
+^ "Romantic Openings: Urusov Gambit Accepted".
+Chess.com.
+ Retrieved 7 February 2022.
+^ "Romantic Openings: Blackmar-Diemer Gambit".
+Chess.com.
+ Retrieved 7 February 2022.
+^ "Romantic Openings: Stafford Gambit".
+Chess.com.
+ Retrieved 7 February 2022.
+^ "Romantic Openings: Calabrese Countergambit".
+Chess.com.
+ Retrieved 7 February 2022.
+^ "Romantic Openings: Traxler Counterattack".
+Chess.com.
+ Retrieved 7 February 2022.
+^ "No Black Castling Bonus".
+Chess.com.
+ Retrieved 7 February 2022.
+^ "Draw Killer Bonus".
+Chess.com.
+ Retrieved 21 July 2022.
+^ "Romantic Openings: Wing Gambit".
+Chess.com.
+ Retrieved 18 August 2022.
+^ "Chess 324 Bonus".
+Chess.com.
+ Retrieved 9 September 2022.
+^ "Classical Cup #1: Match 15".
+Chess.com.
+ Retrieved 29 October 2023.
+^ "Chess News and Event Coverage".
+^ DeepMind (6 December 2018).
+"AlphaZero: Shedding new light on chess, shogi, and Go".
+deepmind.com.
+ Retrieved 20 July 2020.
+^ Knapton, Sarah; Watson, Leon (6 December 2017).
+"Entire human chess knowledge learned and surpassed by DeepMind's AlphaZero in four hours".
+Telegraph.co.uk.
+ Retrieved 6 December 2017.
+^ Vincent, James (6 December 2017).
+"DeepMind's AI became a superhuman chess player in a few hours, just for fun".
+The Verge.
+ Retrieved 6 December 2017.
+^ " 'Superhuman' Google AI claims chess crown".
+BBC News.
+ 6 December 2017.
+ Retrieved 7 December 2017.
+^ "DeepMind's AlphaZero crushes chess".
+chess.com.
+ 6 December 2017.
+ Retrieved 13 December 2017.
+^ Silver, David ; Hubert, Thomas; Schrittwieser, Julian; Antonoglou, Ioannis; Lai, Matthew; Guez, Arthur; Lanctot, Marc; Sifre, Laurent; Kumaran, Dharshan; Graepel, Thore; Lillicrap, Timothy; Simonyan, Karen; Hassabis, Demis (5 December 2017). "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm".
+arXiv : 1712.01815 [ cs.AI ].
+^ crem.
+"Lc0 won TCEC 15".
+ Retrieved 20 June 2019.
+^ yaneurao; Noda, Hisayori; Nasu, Yu (8 November 2020).
+"YaneuraOu: the World's Strongest Shogi engine (AI player), WCSC29 1st winner, educational and USI compliant engine".
+GitHub.
+^ Fichter, Fabian (8 November 2020).
+"Fairy-Stockfish: chess variant engine supporting Xiangqi, Shogi, Janggi, Makruk, S-Chess, Crazyhouse, Bughouse, and many more".
+GitHub.
+^ "Crystal Github".
+Github.
+ Retrieved 5 March 2022.
+^ "Brainfish".
+zipproth.de.
+ Retrieved 5 March 2022.
+^ "BrainLearn GIthub".
+Github.
+ Retrieved 5 March 2022.
+^ Shashin, Alexander (2013).
+Best Play: a New Method for Discovering the Strongest Move.
+ Mongoose Press.
+ISBN 978-1936277469.
+^ "ShashChess Github".
+Github.
+ Retrieved 5 March 2022.
+^ a b "Open Source Community Critical Of Chessbase, Fat Fritz 2".
+chess.com.
+ 25 February 2021.
+ Retrieved 5 March 2022.
+^ a b "Chessbase, Stockfish Reach Settlement Over License Violation Claim".
+lichess.org.
+ 23 November 2022. Archived from the original on 2022-12-04.
+^ "Fat Fritz 2 is a rip-off".
+lichess.org.
+ 18 February 2021.
+ Retrieved 2022-06-21.
+^ "Statement on Fat Fritz 2".
+Stockfishchess.
+ Retrieved 5 March 2022.
+Further reading [ edit ] Interview with Tord Romstad (Norway), Joona Kiiski (Finland) and Marco Costalba (Italy) , programmers of Stockfish External links [ edit ] Official website Official code repository on GitHub WebAssembly port of Stockfish Development versions built for Linux and Windows Developers forum Stockfish Testing Framework v t e Chess Outline Chess theory Chess titles Grandmaster Computer chess glossary matches engines software Correspondence chess FIDE Glossary Online chess Premove Internet chess server list Rating system world rankings norms Variants List World records Equipment Chess set chessboard Dubrovnik chess set Staunton chess set Chess pieces King Queen Rook Bishop Knight Pawn Fairy Chess clock Chess table Score sheets History Timeline Versus de scachis Göttingen manuscript Charlemagne chessmen Lewis chessmen Romantic chess Hypermodernism Soviet chess school Top player comparison Geography of chess Africa South Africa China Europe Armenia Spain India Notable games List of chess players amateurs female grandmasters Women in chess Chess museums Bobby Fischer Center Gökyay Association Chess Museum World Chess Hall of Fame Rules Castling Cheating in chess Check Checkmate Draw by agreement Fifty-move rule Perpetual check Stalemate Threefold repetition En passant Pawn promotion Time control Fast chess Touch-move rule White and Black Terms Blunder Chess notation algebraic descriptive PGN annotation symbols symbols in Unicode Fianchetto Gambit Key square King walk Open file Half-open file Outpost Pawns backward connected doubled isolated passed Swindle Tempo Transposition Trap Tactics Artificial castling Battery Alekhine's gun Block Checkmate patterns Combination Decoy Deflection Desperado Discovered attack Double check Fork Interference Overloading Pawn storm Pin Sacrifice Queen sacrifice Skewer Undermining Windmill X-ray Zwischenzug Strategy Compensation Exchange the exchange Initiative first-move advantage Middlegame Pawn structure Hedgehog Isolated Queen's Pawn Maróczy Bind Piece values Prophylaxis School of chess Openings Flank opening Benko Opening Bird's Opening Dunst Opening English Opening Grob's Attack Larsen's Opening Zukertort Opening King's Indian Attack Réti Opening King's Pawn Game Alekhine's Defence Caro–Kann Defence French Defence Modern Defence Nimzowitsch Defence Open Game Four Knights Game Giuoco Piano Italian Game King's Gambit Petrov's Defence Philidor Defence Ponziani Opening Ruy Lopez Semi-Italian Opening Scotch Game Two Knights Defense Vienna Game Owen's Defence Pirc Defence Austrian Attack Scandinavian Defense Sicilian Defence Alapin Dragon / Accelerated Dragon Najdorf Scheveningen Queen's Pawn Game Budapest Gambit Colle System Dutch Defence English Defence Indian Defence Benoni Defence Modern Benoni Bogo-Indian Defence Catalan Opening Grünfeld Defence King's Indian Defence Nimzo-Indian Defence Old Indian Defense Queen's Indian Defence London System Richter–Veresov Attack Queen's Gambit Accepted Declined Slav Defence Semi-Slav Defence Chigorin Defense Torre Attack Trompowsky Attack Other List of openings theory table List of chess gambits Irregular Bongcloud Attack Fool's mate Scholar's mate Endgames Bishop and knight checkmate King and pawn vs king Opposite-coloured bishops Pawnless endgame Queen and pawn vs queen Queen vs pawn Rook and bishop vs rook Rook and pawn vs rook Lucena position Philidor position Strategy fortress opposition Tarrasch rule triangulation Zugzwang Study Tablebase Two knights endgame Wrong bishop Wrong rook pawn Tournaments List of strong chess tournaments Chess Olympiad Women World Chess Championship List Candidates Tournament Chess World Cup FIDE Grand Prix Other world championships Women Team Rapid Blitz Junior Youth Senior Amateur Chess composition Solving Computer chess championships CCC CSVN North American TCEC WCCC WCSCC Art and media Caïssa Chess aesthetics Chess in the arts early literature film novels paintings poetry short stories Chess books opening books endgame literature Oxford Companion Chess libraries Chess newspaper columns Chess periodicals Related Chess boxing Chess club Chess composer Chess engine AlphaZero Deep Blue Leela Chess Zero Stockfish Chess problem glossary joke chess Chess prodigy Simultaneous exhibition Solving chess Chess portal Category 2008 software Chess engines Free software programmed in C++ Distributed computing projects Software using the GPL license Applied machine learning Webarchive template wayback links Articles with short description Short description is different from Wikidata Articles containing potentially dated statements from October 2023 All articles containing potentially dated statements This page was last edited on 30 October 2023, at 21:55 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+ Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Code of Conduct Developers Statistics Cookie statement Mobile view Toggle limited content width
