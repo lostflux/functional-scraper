@@ -1,0 +1,33 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Facebook is all-in with mobile, CEO Zuckerberg says Share on Facebook Share on X Share on LinkedIn Mark Zuckerberg at F8 Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+Facebook chief executive Mark Zuckerberg made it very clear to the masses assembled at the F8 developer conference in San Francisco Wednesday: The company is fully mobile.
+“We’re a mobile company now,” Zuckerberg, wearing his trademark T-shirt and jeans, said to a polite round of applause.
+There was also a seismic shift in the way Facebook does things.
+The company’s previous motto of “Move fast and break things” has now morphed into “ Move fast with stable infra.
+” “It is,” Zuckerberg said, “how we operate now.” Zuckerberg confirmed Wednesday morning what has been talked about in tech circles for months: That is, mobile is Facebook’s future, and it’s roaring into the space with ferocity. That message underpinned its commitment to mobile app developers and its more than 1 billion registered users who are increasingly logging onto the site through mobile devices.
+Mobile. Mobile. Mobile.
+And it makes beautiful sense.
+“They’ve had mobile effort for a long time,” said Brian Blau, an analyst at Gartner, pointing out that Facebook’s stock suffered for a year after the company’s initial public offering because of doubts over its ability to make money on mobile. In response, the company moved aggressively to generate cash from its many mobile users, primarily through mobile ads.
+Before today’s F8, Blau said, “Facebook almost already announced they were focused on mobile devices.” But now, he said, “it’s clear their connection to businesses is on mobile.” Facebook is also building out its own in-house ad platform and juicing its power by relying less on outside data analytics firms that have helped the company launch targeted ad campaigns. Now, Facebook will be doing it more by itself: Distributing ads across many websites (not just its own) and providing metrics on how those ads are performing.
+Add Facebook’s billion active users to the nearly 500 million people communicating through Whatsapp chats, and you have a company digging in its heels for the long haul.
+Facebook bought Whatsapp earlier this year for $19 billion in cash and stock.
+“We’re focused on building a serious mobile platform,” Zuckerberg said today, stressing the importance of building, growing, and monetizing apps.
+Zuckerberg took the time during his keynote to stress that the site’s users, and to an extent its app developers, are, quite simply, the roadmap of its future. And the co-founder of the world’s largest social network stressed that giving its users the opportunity to stay firmly in control of what they share through the platform is a core commodity at Facebook.
+“People want more control over how they share their information. We take this very seriously. We are about giving you control,” he said.
+It appeared that Zuckerberg is listening to his customers. And the results are paying big dividends. Especially in the mobile arena, which is expected to top $31.5 billion by the end of this year, according to market analysis company eMarketer, and where Facebook commands a 17.53 percent share of global mobile ad spending.
+In other words, Zuckerberg took the time Wednesday to stake his claim of the mobile financial pie.
+To drive home his seriousness that mobile is the way, perhaps the only way, Zuckerberg said Facebook is paying attention to smartphones — all of them — in order to grow the company’s user base and make it easier for customers to log into its platform no matter what kind of device they are using. The emphasis here, also, is so customers can download apps with minimal friction.
+“I want to buy a phone and have all the apps work on it,” he said.
+Indeed, Facebook saw its monthly user mobile growth hit the 1.01 billion monthly active users this quarter, up from 945 million at the end of December last year. Facebook jumped from 874 million mobile monthly active users at the end of Q3 2013 to 945 million on December 31st — up by 71 million.
+Between Facebook’s Q1 2013 mobile numbers and those released last week for the company’s Q1 2014 numbers, monthly mobile active users are up 34 percent so far this year.
+Again, Zuckerberg made it clear which direction Facebook is going in. Full-bore.
+“Our goal at Facebook is to build the best cross-platform platform,” he said, only slightly redundantly.
+Zuckerberg also emphasized customer service by having his army of developers focused more on fixing major bugs on the site within 48 hours of detection. Again, it’s all in the name of serving its fast-growing app developer corps spread out around the world.
+Facebook also unveiled serious updates to Parse, a mobile service for developers. It provides app analytics, push notification services, and Parse Core, a cloud-based product with features for data storage, social logins, etc. Facebook acquired Parse almost exactly one year ago.
+“Parse is really a very interesting product,” Gartner’s Blau said.
+But even with Parse, those features are aimed at helping app developers — mobile app developers.
+So, yeah, it’s all about mobile. We get it, Mark.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

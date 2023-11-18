@@ -1,0 +1,338 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Hacker Breaks Down 26 Hacking Scenes From Movies & TV About Credits Released on 10/26/2018 They're hacking in. We got a problem.
+Tony, we're getting hacked. I need 'em.
+Gigabyte of RAM. Easy to hack.
+A hacker. All right! Hi, I'm Samy Kamkar.
+[Voiceover] Samy's a privacy researcher and computer hacker.
+Today, we're gonna talk about hacking's depiction in film and television.
+Swordfish, hacking montage.
+(upbeat music) In this clip, we see a pretty recurring theme in a lot of movies that depict hacking and that's a 3D visual interface...
+That's not my problem.
+That really has nothing to do with hacking.
+I don't know what the (bleep) is going on in this place.
+Or is really not an efficient interface to use at all.
+(bleep) A more accurate interface would be a console or terminal.
+Yeah. And that's simply because it's the most efficient way to obtain a lot of data.
+Oh, baby.
+You can look at a lot of code.
+You can look at a lot of text or a database and extract information you want very quickly.
+Thank you.
+Italian Job, hacking traffic lights.
+They used video feeds from intersections and specifically designed algorithms to predict traffic conditions and thereby control traffic lights.
+So all I did was come up with my own kick-ass algorithm to sneak in and now, we own the place.
+See, red light, green light.
+(cars crashing) Many of these traffic light systems are actually controlled through systems called Scada systems which are industrial controllers that allow things like traffic lights.
+Lights are working fine.
+Just an accident. In Los Angeles, a number of street lights were actually hacked several years ago. Oops.
+And many of these traffic lights are actually controlled over the internet and often don't even have a password to connect to them. Wow, but it's awesome.
+Is that not awesome? So totally realistic.
+It's good.
+Chuck, hacking into the Federal Reserve.
+(upbeat music) In this clip, we see a common theme and that's pretty interfaces that really have nothing to do with hacking.
+Thanks for the help. There's too much information just coming up and down and it's too quick for you to actually obtain any useful information.
+I'm sorry, are we still talking-- You pretty much never see pop-ups when you're doing any sort of programming or hacking like this.
+Who are you? In the middle of the clip, they also talk about optimizing their compilation.
+You know what, you actually have a little tick up there in the bottom of your page.
+The compiler can't optimize a value away like that.
+What they're talking about is actually optimizing something within code and you're typically doing compiling when you're writing some source code and then you're compiling it into a program or binary that you can later run.
+You seem to know your way around the computer.
+It's kind of unrelated to what they're doing.
+Oh, I'm losing! So they did take some programming jargon and throw it in the middle of there.
+Rookie mistake, I'm sure it won't happen again.
+Skyfall, MI6 gets hacked.
+He's using a polymorphic engine to mutate the code.
+Whenever I try to go and access, it changes.
+It's like solving a Rubik's cube that's fighting back.
+The 3D graphics here are similar to what you see in Swordfish. Oh, baby.
+They're not really representative of anything you'd actually see. Oh shit.
+Unlike Swordfish, there are more realistic aspects in this clip.
+For one, they're talking about polymorphic code.
+He's using a polymorphic engine to mutate the code.
+Polymorphic code is a program that essentially changes itself to try to hide itself.
+To conceal its true purpose.
+Our filters will no longer work and it could continue to spread.
+They talk a little bit about that in this clip.
+Whenever I try to go and access, it changes.
+They show hex code, which could be of the virus.
+It's just another way to represent binary data or binary information, and that is pretty accurate.
+However, for the purposes of the plot, they do add the Grandborough...
+[James] Grandborough. Which is not real hex code.
+Oh. 'Cause all hex characters are zero through nine or A through F.
+But they show that for the purpose of the plot.
+Told you.
+Hackers, competing with another hacker.
+Hey, what? Unbelievable, a hacker.
+That's enough.
+(upbeat music) This clip opens with a sequence that we would call social engineering....
+I don't play well with others.
+Which is communicating with someone, pretending to be someone else, and trying to extract information that helps you break into a machine or target computer. Yeah, okay, Acid Burn.
+That's enough.
+Besides the unrealistic visuals, this is actually something kind of common...
+Yeah. When you might hack into a machine and you find that someone else has already actually hacked in.
+Shit! At this point, you do something kind of funny.
+Revenge? Your goal is actually to patch the machine to prevent any other hackers from breaking in and you're actually helping the target.
+The sensitive type.
+But you'll often leave the back door, so that you can come back in.
+What? A back door is a piece of software that you can run on a machine that grants you access in the future without the authorized users ever knowing you're inside the machine.
+You're the moron that's been invading my turf? Yeah.
+Wargames, 1980s hacking.
+(beeping) Are those your grades? Yup, I don't think that I deserved a F, do you? (beeping) This is actually an accurate representation of hacking back in the 1980s.
+All right! Back then, it was called phreaking.
+Phreaking with a PH, as in phone hacking.
+Yeah, weird, isn't it? In this case, he's actually dialing into a computer network over a telephone line.
+Dialing into the school's computer.
+Except, when you would dial into a dial-up, you're dialing in to an ISP or internet service provider.
+Here, he's actually dialing directly into the computer that controls the grades.
+[David] They change the password every couple of weeks, but I know where they write it down.
+And this is exactly how bulletin board systems or BBSes worked back then and a number of other systems as well.
+Yeah, okay, bye.
+Accessing a server, Tron: Legacy.
+We will be making our debut on Tokyo's Nikkei Index.
+OS 12 is the most secure operating system ever released.
+(beeping) Come on, come on.
+Many films will depict hacking as accessing a machine and installing some malicious software.
+OS 12! (dog barking) Whoa, still a few bugs.
+However, I don't really consider that hacking.
+Am I supposed to explain that? In this case, he's breaking into a place, physically accessing a computer that doesn't ask for a password, that has no encryption, or has no other authorization.
+So he's simple accessing a computer and uploading a virus.
+A little gift.
+Hacking into a hospital, Mr. Robot.
+[Elliot Voiceover] Hospitals.
+A heavily networked one like this are almost too easy to hack.
+I can make my health records look like every other obedient zombie out there.
+Mr. Robot consistently demonstrates real hacking and pretty reasonable scenarios. Thanks.
+In this case, he's hacking into a hospital because they have pretty lax security.
+[Elliot Voiceover] This is William Highsmith.
+He is the IT department, he's also an idiot.
+And their technology is extremely old.
+[Elliot Voiceover] He uses useless security software that runs on Windows 98.
+Which is pretty accurate when you're talking about most hospitals.
+[Elliot Voiceover] And he's supposed to protect their network from people like me? Additionally, the interfaces in this clip are actually realistic.
+You don't have to worry.
+Recently, we've heard of actual hospitals getting hacked, having malware and ransomware installed, and even some parts shutting down simply due to the lax security and old systems.
+[Elliot Voiceover] He never stood a chance.
+NCIS, stopping a hack.
+No way! I'm getting hacked! It's moving too fast.
+Isn't there a connection to the database? Sever it. I can't! What do you got, a video game? No, Tony, we're getting hacked! I don't know what we wanna say about this.
+It's too much.
+I've never seen code like this.
+Stop the pop-ups. Oh, this is no good.
+Defending against a hacker, Untraceable.
+Whoever is behind this site is local and wants attention.
+Just shut him down.
+We are blackholing these IPs, but every time we shut one down, a new mirror pops up.
+The site's IP keeps changing constantly.
+Each new address is an exploited server.
+This clip is extremely accurate.
+Nice touch.
+A hacker has a domain name. How do you know? The US keeps taking down the IP addresses of the domain name.
+And the IP address is essentially the physical address of that domain. Huh? However, the hacker has so many other IPs or machines on the internet hacked that he or she is able to replace them very quickly.
+Oh, isn't that wonderful? Now, they state that the name server and registrar are hosted in Russia...
+The domain registrar and the name servers are all in Russian.
+Which they have no jurisdiction over.
+No jurisdiction there.
+The registrar is where you get your domain name such as wire.com.
+And the name server points the domain name like wire.com to the IP address. There's a connection there.
+In this case, the one thing they got wrong is US does have jurisdiction over the .com.
+Oh, god. So the US would be able to take down any .com domain name.
+How patriotic.
+CSI: Cyber, clickbait.
+The ads are redirecting site users to what could be a fictitious pharmacy.
+Looks like a normal ad, right? And this is the code for the ad.
+But there's actually two codes written right on top of each other.
+A clickbaiting skill. Right.
+Part of this clip is somewhat accurate.
+Good work! Being able to hack into a web server and modify the code, so that users who visit that site are then affected...
+The fake ad is masking a legitimate ad.
+Is a real thing that happens.
+Quite common, actually. What? However, the combination of codes being layered on top of each other, it's not really accurate.
+Could be a coincidence.
+If you're viewing the source code, you're pretty much viewing everything.
+Peekaboo! So not so realistic in this case. No.
+The Net, disassembling a virus.
+[Caller] I don't how these things happen, you know, I just ordered that security program last week.
+What's it called, a Gatekeeper? Well, that's what they all say.
+Not to worry.
+Everything's under control, it's gonna be okay.
+We run into the same theme where the interfaces themselves are not very accurate.
+Yeah, I know. However, everything that's actually happening here is quite accurate. I appreciate it.
+Essentially, she's taking a virus and she's disassembling it.
+One keystroke will wipe out your whole system.
+What that means is she's taking the actual binary executable and turning it into machine code, which is the type of code that your computer or CPU actually executes.
+Then she's turning it into a format that she can read to see what it's actually doing.
+Come on, why don't you just tell me what this is about? So that she can help whomever had gotten hacked, let them know what has happened and how to resolve the issue. Thank you.
+This is something that actually, there are dedicated teams and companies for today.
+You're kidding, right? [Man On Phone] Oh, god, I'm sorry, I thought you'd heard.
+Breaching the firewall, Castle.
+Oh.
+We got a problem. What? Someone synced a RAT to one of my servers, a remote access tool.
+We're being hacked.
+(alert sounding) Uh-oh.
+They're onto us.
+Spectrum's trying to track our IP address.
+Can you stop it? No.
+But I can slow him down.
+One thing we see in a lot of clips is people attempt to slow hackers down or slow something down, but really, there's nothing to slow down.
+It's either happening or it's not.
+We have to stop him. However, there are some accuracies here.
+They do use a RAT or remote access tool and there are actually tools called RATs, which allow you access into machines that you otherwise shouldn't necessarily have access to.
+The interface is quite inaccurate.
+Sorry about that. It also seems that TV like to think that hackers send a lot of animal photos as we've seen with the dog in Tron: Legacy.
+And we see here with lots and lots of cats.
+(cats meowing) What the hell? The Matrix Reloaded, hacking into a power grid.
+(typing) (beeping) In this, we see some realism. How do you know that? We see an actual Unix terminal and someone is actually using a fictitious tool called sshnuke.
+And what it pretty much does is it gives them access to the power grid. How does he always know? It drops them into a root shell on a Unix machine, which actually is pretty realistic.
+Thanks. And then they use another tool, ssh, to log in to another machine as root, which is the administrative privilege.
+It gives you pretty much full access to do whatever you want. Yeah, she can do that.
+Unrealistic.
+You have the sshnuke tool, which is not a real tool.
+Additionally, most power grids aren't on the internet.
+But there's some pretty good foreshadowing going on here as more and more are becoming connected as it simply makes them easier to maintain.
+There is nothing you can do to stop it.
+Hacking on a cellphone, Iron Man 2.
+[Rhodey] And local intelligence on the ground, indicating-- Hold on one second, buddy.
+Let me see.
+I need 'em.
+What is he doing? If you'll direct your attention to said screens, I believe that's North Korea.
+In this clip, we see Tony Stark using his mobile device to actually hack into multiple TV screens and monitors.
+Turn that off! And it's actually kind of realistic.
+You're welcome. As you could easily break into, say, a Chrome Cast or Apple TV and most smart TVs are actually internet connected now, so.
+It's working. It's a big attack surface, a lot of ways to actually break into these TVs and cast something that otherwise you shouldn't.
+You can count on me to pleasure myself.
+Weird Science, stealing processing power.
+Problem is your computer's a wimp and we need a lot more power than this.
+That's the problem. What do you suggest? (upbeat music) (voice over radio) We have another clip with some graphical interface that isn't very accurate.
+I know that, but you know, we can use it.
+And some fun 3D visuals.
+(upbeat music) However, the act of breaking into a computer, especially one with more computing power and resources than your own to try to crack something or decrypt something is pretty accurate today. Love it! The clips we saw in War Games and Weird Science take place in the same time period.
+However, what we saw in War Games was a lot more accurate than what was depicted here.
+We also get another classic Access Denied screen.
+Yeah. Yeah.
+Live Free or Die Hard, executing a virus.
+(ominous music) In this clip, they don't really show actually any hacking.
+Goddamn it.
+They do show running a virus.
+However, to actually run a virus or upload a virus, you already must have access to the target system.
+Thanks for that. Essentially, you will need to have found a vulnerability that you can run the virus on.
+And only then can you actually execute that virus.
+Such a pain in the ass.
+Snowden, surveillance.
+Think of it as a Google search, except instead of searching only what people make public, we're also looking at everything they don't.
+So emails, chats, SMS, whatever.
+Yeah, but which people? The whole kingdom, Snow White.
+This is real. Seriously? There's actually a program called XKeyscore that the NSA uses.
+XKeyscore is under 7R2 authority, which means no warrants.
+That we actually found out about from Snowden after he leaked a ton of documents to the press.
+It's a matter of principle.
+Our government and other governments do have the capability to do this sort of thing.
+(Snowden sighs) The Social Network, hackathon.
+They've 10 minutes to get root access to a Python web server, expose the SSL encryption, and then intersect all traffic over a secure port.
+They're hacking.
+Yes, all behind a Pix Firewall Emulator.
+But here's the beauty.
+Every 10th line of code written, they have to drink a shot.
+This is interesting because it's actually rumored to be true that Facebook would have these drinking, programming hackathons.
+Yeah. Although I don't expect so people on so much of a party atmosphere.
+(cheering) The type of system that he's talking about hacking into is pretty accurate.
+They have 10 minutes to get root access to a Python web server.
+This sort of thing is actually typical at Defcon, a yearly hacking conference in Vegas.
+People are hacking into each other's systems, defending against other hackers, and again, a lot of drinking.
+Welcome to Facebook. (cheering) Transformers.
+Alien hacking.
+Are you getting this? I think they're hacking the network again.
+They are planting a virus.
+In this clip, they're trying to listen to a hack.
+Do you hear that? However, you're not actually going to be able to do that for this type of hack. No way.
+Or hacking into a lot of computers.
+You will listen to sound.
+However, if you're trying to listen to certain types of radio frequencies and recognize what kind of sound or modulation it might be...
+This is a direct match to the signal in Qatar.
+There actually was a hack recently in Dallas where someone used radio frequency to set off every emergency siren in Dallas.
+(yelling) Breaking encryption, Under Siege 2.
+See here, access encoded.
+Gigabyte of RAM should do the trick.
+We're in.
+In this clip, he's attempting to break some encryption by adding a gigabyte of RAM.
+Gigabyte of RAM should do the trick.
+But adding that gigabyte of RAM really is not relevant to breaking the encryption here.
+Oh. You might need some significant memory or storage space, but it's not something you'll do in the middle of your operation.
+Really? So...
+Not that realistic. Yeah.
+Blackhat, NSA hacking.
+You asked him to change his password? When he downloaded the PDF, what he downloaded was the key logger.
+That was a pretty long password for someone who can't actually differentiate the difference between a PDF file and an executable.
+What he downloaded was the key logger.
+Because really, he downloads something that looked like a document.
+But because it was actually a key logger, that means it was a program that executed and ran an application.
+The real hit is still to come.
+Key loggers are a pretty common way to access information from an individual.
+So if you want to record their keystrokes, see what they're typing... Got it.
+Learn passwords, websites they visit, usernames, and other private information, a key logger is the typical way that someone will install that on your machine and learn that information about you.
+He is in Jakarta.
+Avengers 2: Age of Ultron.
+Ultron hacking Jarvis.
+(beeping) [Jarvis] I believe your intentions to be hostile.
+[Ultron] I'm here to help.
+[Jarvis] (swooshing) Stop.
+At the rate of progress with machine learning and artificial intelligence, something like this where two different systems could actually begin to learn about each other, communicate with each other and actually attack each other...
+This is rage.
+The visualized 3D orbs in real space are not so accurate.
+This is insane.
+In the future, machines will be able to think and will have access to physical components, so that they can actually move around.
+[Jarvis] I am a program.
+I am without form.
+[Ultron] This feels weird.
+So we could see something like this.
+However, the actual orbs of electricity or balls of electricity, that is pretty much set in science fiction.
+We're out of my field here.
+Criminal Minds, hackers competing.
+First, we need you to look up the name, Colby Baylor.
+This might be the coolest girl I've ever met.
+Her GUI is mind-blowing.
+Well, that's weird.
+Oh no, you don't.
+What, you wanna play? (beeping) This is also kind of similar to Hackers where two hackers were competing, taking over control of a machine.
+It was a bit more accurate in Hackers...
+Oh no. As they were essentially competing on the same target system, trying to prevent the other person from accessing it.
+In this, you see, they're competing on a system, but then, someone else's system actually gets hacked.
+What the hell? So in this case, there are multiple systems getting hacked and it's just a little bit less realistic.
+This isn't good.
+They mentioned the Linux operating system.
+It's completely Linux based.
+Open source programming.
+You don't see this in government systems.
+I mean, outside of, like, Switzerland.
+Which actually is used in plenty of governments.
+You serious? There's lots of open source software is used sort of across the world, including our government. Right, I get it.
+The GUI comment is not too accurate.
+Her GUI is mind-blowing.
+Usually, when you're breaking into something, you're not actually gonna run into any GUI or graphical user interface.
+Well, that's weird. And even if you do, it's usually not that exciting.
+(beeping) Sneakers, phreaking.
+I'm gonna bounce this call through nine different relay stations throughout the world and off two satellites.
+[Woman On Phone] Fort Meade, Maryland, good afternoon.
+National Security Agency, director of operations, please.
+[Man On Phone] Who is this please? It's my dime, I'll ask the questions.
+They started the trace.
+This is a cool demonstration of phreaking where they're actually jumping not just to one other machine over the phone... Who are you? [Man On Phone] Mr. Abbott.
+And made the second link.
+But actually relaying from phone to phone to phone.
+Can you guarantee my safety? [Man On Phone] Where is the item? Hang up, they've almost got us! Hang up, Bish! Phreaking is not as popular anymore as most machines are internet-connected rather than dial-up or phone-connected.
+We make the call, but we make it our way.
+Algorithm, hacking via email.
+[Will Voiceover] You know what the weakest link in any security system is? It's you with your shitty passwords and how you share every part of your life online.
+And now, I own Sam Novak's computer.
+In this clip, they're not showing too much of the actual hacking.
+But he does mention that he's exploiting the kernel.
+[Will Voiceover] I'm just exploiting the vulnerability her kernel access has created.
+This is pretty difficult to do.
+However, there has been a recent vulnerability in anti-virus software... There's always a way in.
+Where if you received an email with a very specific exploit, it could actually exploit the anti-virus software running in your kernel, which is essentially your operating system, and give the attacker full control of your computer.
+[Will Voiceover] It means they work for me.
+I think that's what they're implying here even though they're not really showing the actual exploit.
+[Will Voiceover] What difference does that make to me? [Voiceover] Conclusion.
+Hollywood has the challenge of depicting hacking, which can actually be quite a challenge because it's not that visually stimulating.
+However, it is always exciting when I do see a clip that actually is realistic.
+Starring: Samy Kamkar Movie Accent Expert Breaks Down Actors Playing Real People Accent Expert Breaks Down 6 Fictional Languages From Film & TV Movie Accent Expert Breaks Down Actors' Accents Surgical Resident Breaks Down Medical Scenes From Film & TV Forensics Expert Examines Crime Scene Investigations From Film & TV Movie Accent Expert Breaks Down 28 More Actors' Accents Lawyer Breaks Down Courtroom Scenes From Film & TV Former CIA Chief of Disguise Breaks Down Spy Scenes From Film & TV Surgical Resident Breaks Down More Medical Scenes From Film & TV Movie Accent Expert Breaks Down Actors Playing Presidents Accent Expert Breaks Down 17 More Actors Playing Real People Forensics Expert Examines 25 More Crime Scene Investigations From Film & TV Pro Driver Breaks Down Driving Scenes From Film & TV Disease Expert Breaks Down Pandemic Scenes From Film & TV NASA Astronaut Breaks Down Space Scenes From Film & TV Surgeon Breaks Down 22 Medical Scenes From Film & TV Pro Driver Breaks Down More Driving Scenes From Film & TV Lawyer Breaks Down 17 More Courtroom Scenes From Film & TV Robotics Expert Breaks Down Robot Scenes From Film & TV NASA Astronaut Breaks Down More Space Scenes From Film & TV Robotics Expert Breaks Down More Robot Scenes From Film & TV Physics Expert Breaks Down Superhero Physics From Film & TV Airline Pilot Breaks Down Flying Scenes From Film & TV Fight Master Breaks Down Sword Fighting From Film & TV Former US Air Force Fighter Pilot Breaks Down 12 Fighter Pilot Scenes From Film & TV Retired FBI Agent Breaks Down Surveillance Scenes From Film & TV Conductor Breaks Down Orchestra Scenes From Film & TV Hacker Breaks Down Hacking Scenes From Movies & TV Former Army Intel Director Breaks Down Spy Satellite Scenes From Movies & TV Surgeon Breaks Down 16 Medical Scenes From Film & TV Bug Expert Breaks Down Bug Scenes From Movies & TV Mortician Breaks Down Dead Body Scenes From Movies & TV Aquanaut Breaks Down Ocean Exploration Scenes From Movies & TV Chemist Breaks Down 22 Chemistry Scenes From Movies & TV Military Historian Breaks Down Medieval Weapons in Video Games Hacker Breaks Down 26 Hacking Scenes From Movies & TV "2034" Co-Authors Break Down Warfare Scenes From Film & TV Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

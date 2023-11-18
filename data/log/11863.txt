@@ -1,0 +1,241 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Digital Dignity: VR Pioneer Jaron Lanier at WIRED25 About Released on 10/15/2018 (soft music) I'm Nicholas Thompson I'm the editor of Wired.
+Thanks, we're having a really good weekend here.
+It is my great pleasure to get to interview one of the smartest most interesting people in Silicon Valley, Jaron fa he is one of the inventors of virtual reality.
+He is the author of many many books, two of which are downstairs, after this he will head downstairs and sign them.
+They are Dawn Of The New Everything and Ten Reasons to Delete Your Social Media Account Right Now.
+If you don't follow that advice, please tweet this event with hashtag fa (audience laughing) but I love I love interviewing Jaron.
+So this should be a very interesting conversation.
+Please welcome to the stage Jaron Lanier.
+(audience clapping) Hey nick Good to see you again.
+Hey audience.
+Alright Jaron, so in preparation for this conversation, I read all the things that Wired has written about you over the years, which is many.
+Wired has been around for 25 years, it has been 24 years and 11 months since we wrote our first profile of Jaron.
+And I wanna quote from that profile it's right after your VR our company had transferred to some other people.
+It was an interesting period in your life and this is one of the things we wrote that really stuck with me.
+Though he has walked through the valley of Silicon, he fears no evil.
+His music and his software comfort him and having survived reasonably intact, he can only revel in the exquisite wonder of it all.
+And what I like about that, (laughing) it's good right? Probably Kevin edited that.
+What I love about that is that, when you ever you read an interview with Jaron and he's been a fierce critic of Silicon Valley, he's been a fierce critic of where technology has gone, it always comes to music and spirituality.
+Every interview abig part of it, everything turns in that direction.
+It's not about product, it's not about efficiency, it's never about money.
+It's always, always ends up with music and spirituality.
+And so Jaron, reading some of your recent writings and your recent interviews, it seems like you're actually a little worried about what technology has done to our spiritual well-being as humans, and to our ability to make peace with music.
+So why don't we start with your critique of social media and what it has done to spirituality and music.
+'Cause I just wanna, I don't, I don't wanna start with like the base level of your critique I want to go like six levels deep 'cause we got 30 minutes so, go.
+Okay, first of all, you describe me as worried which I suppose is accurate but I want I wanna say before anything else that to me criticism and optimism are the same thing.
+Mm-hmm.
+That when you criticize things it's because you think they can be improved.
+So it's the complacent person or the fanatic who's the true pessimist, because they feel they already have the answer all that can be known is known and the universe is done, and the singularity is coming, there are no mysteries, science is complete, all of those cut.
+Those are the people who are the pessimists, all right.
+It's the people who think that things are open-ended that things can still be changed, through thought, through creativity.
+Those are the true optimists, and so worried sure, but it's optimistic worried.
+Okay, that's the first thing I'ma say.
+The second thing I want to say is...
+to me, a sense of open-ended mystery in reality and in life is absolutely core to being a good scientist or a good technologist, or for that matter a good writer, good artist or just a good human being.
+We don't have any consistent scientific description of the world. Mm-hmm.
+We are still groping.
+We're still in this little island of discovery that we've created wonderfully that we can grow but we're surrounded by a sea of mystery.
+And I think that that sensibility, that there's more to be invented and created than we know or can imagine is just absolutely core to any sense of meaning.
+So having said that, you want to get to the deepest stuff.
+So there's this question of like, what are we doing here in this life, in this reality? And to me, like at the cutting edge of reality, at the cutting edge of the next moment where we invent what the universe will be, where we're creating what will be the legacy for the future, there's creativity and this sort of genius required to figure out how to be kind, at any given moment.
+So we're at the moment right now where we are inventing that.
+Yeah right the second.
+Okay, and we have been in that moment creating it for the last million years for the last two years.
+Like, has something changed that it's put us in a moment where we are creating.
+I don't know.
+Mm-hmm.
+I tend to, I'm not sure if it's useful to come up with these grand theories that overreach, where we say that...
+It's Wired 25th anniversary conference, let's get some grand theories that overreach man.
+If you think you could make some money from that I'm not for it , like go for it.
+No I mean, I You know...
+there's a the funny thing about this is if what you think the core meaning is, is a mystery, if that, if the acknowledgement is some kind of mystery is central to meaning at all, then, you kind of have to walk a fine line.
+Yeah.
+I used to I don't know if this is in any of the old wired things you read but I used to imagine this tightrope, that you have to walk and on one side, maybe to the right let's say, you fall into some kind of excessive nerd supremacy reductionism sort of a thing where you say, Oh there's this grand system and we're just on this on this curve and the curve started at the Big Bang and it has an inevitable conclusion or something like that.
+And then, everything becomes kind of meaningless because you've made yourself blind with this abstraction that you think explains everything.
+And so that's kind of the the nerdism fallacy or whatever dataism, and then on the other side, is superstition.
+Yeah.
+Where you start to say, Well just because we don't really understand how quantum field theory and general relativity can connect it must mean that my mind can talk to plants or something.
+And so, that's the other that's a fallacy on the other side it's not that unrelated, but finding this point in between where you say, there is mystery, and the way to address that mystery is with rigor, it's with self-doubt, it's with modesty, it's with intellectual modesty, where you don't assume narratives that are really beyond your reach but at the same time, you believe in a destination and a quest for meaning that's but, totally beyond your reach and you quest for it incrementally, that that tightrope I think, is where technology can improve it's where beauty can happen, it's where relationships can be real.
+Well let's, let's talk about the technology part of walking on a tight rope and let's talk particularly about the social media platform.
+So, you've just written a book about them.
+What is the role that they should play in keeping society at the right point as we progress on that tightrope.
+That's an interesting way to phrase it, so kind of a top-down assumption that they have this role in keeping society a certain way.
+Well they have they have some role in influencing where we are.
+Well, alright if we want to talk about what social media could be broadly.
+We're really kind of talking about the idea of the Internet itself, some way that people can connect using information technology in a broad way.
+And I've always believed that that can and should be beautiful and even essential.
+Mm-hmm.
+I mean totally aside from anything else it's a matter of survival because we couldn't even understand what the climates doing without connected devices on an Internet, so it's not, it's not even a question that the Internet is something we need and we need we need to be able to collaborate with each other over it.
+So that's, but the thing that's...
+When we use the term social media, what we tend to mean these days, is these giant platforms that have effectively taken over the Internet for almost everybody, almost all the time, that do so using this weird business model where there, anytime two people connect, it's financed by a third person.
+Yeah.
+Whose only motivation is to manipulate those two in a sneaky way.
+And so, it's it's created this whole architecture that on every level, recursively is based on sneakiness and manipulation often using weird behaviorist, hypnotic, unacknowledged techniques to get people more and more engaged or addicted and persuaded in one way or another or get them into compulsive behavior patterns that aren't necessarily in their own interest, that aren't even necessarily coherent to anybody's interest, that are practically an open invitation to the worst actors to jump in to use the thing for their own purposes which are often terrible.
+And, and that thing that is horrible and not survivable that's the thing I criticize.
+So you don't defined social media as that thing.
+Well, the thing is, right now there's basically no social media account you can sign on to that isn't part of that, because it's taken over so much because of network effect.
+And do you think that it was inevitable that once we started creating social media systems they would end up the way they have ended up? No, in fact the earliest ones were different.
+They weren't necessarily perfect but they were certainly better.
+I think we made a series of mistakes, and the funny thing is that all of the mistakes weren't driven through a lack of consideration, but rather by a firm ideology that happens to have backfired.
+Okay, so for instance, there was this very strong culture in the 80s of night and 90s, demanding that everything be free, and...
+That wired when we put that on our cover.
+Yeah, Yeah you guys didn't necessarily help.
+(audience laughing) But the problem with that, is that there was also, in Wired and everywhere else, this practical worship of Silicon Valley entrepreneurship that like as Steve Jobs put it, You're denting the universe.
+It's this michi in contact with the future where you're these magical, special, elevated people can change the course of events through their brilliance.
+And so, if you want to have hero entrepreneurs and everything's supposed to be free, there aren't too many ways to reconcile those, so you land in this finance through third parties who are sneaky.
+I mean it's, there's really no other solution.
+So, it was two ideologies that each by themselves made sense but combined, created this third outcome that was horrible.
+But then there were other mistakes too, there were architectural mistakes, Let's stay on that one because I think it's a critique I've, a lot of people have made and you've made particular articularly which is that had say Facebook developed with a business model based on subscriptions, or sales, or commerce, or individual payments, it would be completely different and much harder to hack by the Russians then the fact that it's add support of them.
+I believe that.
+Do you think though that had Facebook changed and had it a different business model, it would truly have evolved in a different way? Would Twitter have evolved in different way? If you if you start with a different business model at the beginning, are we in a totally different place right now? Yeah. Totally, absolutely.
+Economic incentives are ultimately the most powerful elements in a, in any system that has a market.
+Okay, so then, what if today Sheryl Sandberg were to wake up, you say you know what, Ads, enough Ads, let's make it payments and subscriptions.
+What happens? Sheryl doesn't have the power, so someone else has to wake up.
+Okay,well Sheryl created that business, Sheryl and Mark they both could wake up this morning they're watching the live stream.
+Okay, now we're talking...
+Cheryl and everybody at Facebook the whole executive management team wakes up, and they say you know what...
+Some of them have by the way, often, often leaving as a result, so it's happening.
+It's not a hypothetical.
+But say if you cheat...
+So okay, but you're asking like what, with what should they do, what's the path from here today? Are the curves so, like so hardened right now that you can't change the direction, this was many companies that are to going in, or can you change it by reversing that decision that was made eight years ago.
+I think you can change it and in fact because I'm an optimist I'm convinced we will.
+Okay.
+I don't know exactly how soon, and there are a lot of open questions about how to do it, and I don't think it'll be totally smooth, but I think once it's done, shareholders will be happy, everybody will be happier.
+I think it's a multiple win thing, Vladimir Putin might not be happy, that's okay.
+But I think most almost everybody in the loop who has any stake in this thing will be happy.
+And the way to do it, of course, is the question like that, to imagine a better destination is vastly easier, that's not to say it's easy but it's vastly easier than a path to that destination that won't make things worse that's the hard part.
+And so, from the Facebook perspective, I would look to a few examples that can serve as inspiration that might show us how things can be better.
+An example I'd like to bring up is Netflix, and the reason I bring it up is when Netflix was first starting to push a streaming business when it was more of a will send you discs by mail business.
+A very common worry about that idea was that, well you can get all the streaming content you want for free.
+Which is, which was true it remains true and the response to that is, well, A, We can make an overall experience that's still worth the money because it'll just be easier, less hassle, less risk, less whatever, and B, we can expand our value proposition so it's actually saving you money versus cable or whatever, so that it doesn't feel like this new imposition but rather like a savings.
+So if you look at Netflix ability to start a subscription business successfully, I think it gives you hope that business models can change and if people are used to free things they actually can be persuaded that a paid model makes the world better.
+I think the really revolutionary transition that has to happen might, and I mean Facebook is about to announce moves in this direction, so we don't know.
+But I think people who are on Facebook need to be able to earn money directly through it.
+And, so it can't just be give us money it has to be also you can earn money you can grow the whole economy, this is a two-way street and the community that's really been putting energy into that class of solution is the blockchain community.
+Which has been around on a theoretical level for a while, but in terms of a cultural force it's pretty recent.
+And so, given all those factors, I'm actually pretty optimistic ultimately it's up to Facebook to find their own path, but I think all the ingredients are there.
+That's super interesting right 'cause I have heard the argument that, what blockchain does, is it gives you a chance to sort of break up the monopolies.
+It will do to the current centralized database monopolies, what the Internet did to Brick and Mortar stores right and it'll decentralize , create a new efficient system and you can actually create a new Facebook through blockchain.
+I've heard that argument it's a plausible argument.
+I have not heard the secondary argument that you just made which is that blockchain companies will push Facebook in a direction of payments.
+Explain how that works and what's happening right now.
+Well, I don't fully know. Mmmmhhh.
+So there's a...
+everyday there's more sort of radiation from Facebook that they're about to announce some sort of a thing in the space, so let's wait and see what they say.
+I think it sounds like it'll be soon.
+I hope it's creative and bold.
+Okay, well let's go back to another thing that Facebook is genuinely implementing.
+So Facebook payments maybe maybe not.
+What Facebook is doing, is they're genuinely trying to study their impact on people.
+They're starting to spend more time recommending that people leave Facebook and go meet people offline.
+They've changed their algorithm to focus on meaningful interactions, they've changed it to focus on trustworthiness.
+They may not have changed it enough, but if Facebook only were to make changes in those directions, if they were to push time well-spent to keep changing their algorithm but they weren't to change their business model, can they change their core effect in society or is that just never gonna work? No, I think all the changes you mentioned are positive and they're evidence of goodwill in the community of people who work at Facebook.
+So I view them optimistically, however, the core business model has to change because the incentives have to change if the results are gonna change.
+I mean you can have all the good intentions in the world and all the initiatives and all of the regulations if your government, you can do all kinds of things but if the core incentives are pulling in one direction, they'll fail.
+There has to be some kind of coherence between what you hope to do in the incentives you're creating.
+So you have to change the core business model.
+Alright, so you're happy with the stuff they've done but it's just not enough.
+So I want to go back five minutes in our conversation, where I said the core mistake was payment source advertising and you said well there were other choices made in the architecture that put it in the wrong direction what were those choices? Yeah, and perhaps I bear a little bit of responsibility for some of that too 'cause I was in the community that was complacent about this.
+So from the 80s into the 90s, there was this...
+culture of this sort of pre-Internet and then the early Internet.
+Yeah And for those who don't remember, I mean the the packet-switched idea that's at the core of the Internet had predated what we call the Internet but it was a bunch of incompatible different packet switch networks, who were persuaded in part through government bribery basically that was put together by a senator named Al Gore to become interoperable and out of that we got the Internet.
+And the original idea was to make the Internet super super barebones and to leave it all to private industry initiative.
+So the initial Internet had no representation of people, there was no membership concept, there's no identity concept, there wasn't even the tiniest bit of personal storage therefore, there was no sense of provenance or keeping track of where bits had come from, there was no sense of authentication, there was certainly no implementation of commerce solutions, there was nothing.
+It was just very very raw and that spirit of keeping everything as minimal as possible was kind of replicated by Tim Berners-Lee in the web protocol, which in my opinion committed a primal sin of not having backlinks.
+It only had, it would something could point at something else to get at that things data but they the thing that was pointed at didn't know it was being pointed at.
+And that created this web, where there was no provenance for data, no way of knowing what was real, no way of knowing where it had come from and therefore no way for people to build up a sort of an accumulation of personal achievement.
+Well, that's interesting.
+Yeah, and so the thing is, if you look so I was part of this early community, I was a chief scientist of Internet to for a while which was the academic insertion that figured out how to scale this thing in the 90s, and what we knew and we talked about this, is that we're making gifts of hundreds of billions of dollars to persons unknown to fill these missing gaps, right? So the backlinks who's gonna fill them, it turned out Google did.
+That's essentially Google's core function or it was at the start. Right.
+Who's gonna create these accounts.
+Well, initially firms like Myspace but ultimately Facebook and that these things naturally become monopolies.
+So all the things we left out deliberately turned into these giant monopolistic or behemoth companies to fill in the gaps.
+So okay let's just Yeah There's so many interesting things you said.
+Yeah yeah yeah let's focus on one.
+So I agree one of the great problems of the Internet today is that, you don't own your data your data is owned by whatever company.
+Facebook has a lot of my data, my data stays in a Facebook server and I can access it as I travel around the web but that should actually stay with me as I travel around the web instead of being pinged in the Facebook servers.
+How do you architect an Internet from the beginning, so the data stays with the person not in the servers of the companies? And then relatedly at this moment, where we built the current architecture, how do we build a new architecture? Is it possible? Yeah, well the architectural problem of letting of keeping your own data, is a solved problem and probably the current proposal that's making the rounds that's possibly the model that'll catch on is Tim Berners-Lee's new thing which is called Solid which just which does that we should have done it before, but anyway, it's not a mystery.
+The technology is not a mystery for how to do that.
+The part that it's not exactly I wouldn't call it scary or a mystery but where there's further adventure invention required is the economics of it .
+Exactly how you work out, and the economics can I say something about the economics? Please.
+Alright, (audience laughs) to understand this thing you have to kind of come at it from different angles and the economics is one of them.
+So there's this example I use all the time.
+So those have you've heard it a million times, sorry for repeating it, but it's the language translators.
+Yep.
+So for years and years my mentor Marvin Minsky had tried to figure out a way to translate between natural languages like English and Spanish and it never worked until the 90s, when some researchers at IBM figured out you could do it with big data.
+And then by having massive statistical correlations with preexisting corpora that had been translated you could get results that are readable.
+So then companies like Google and Microsoft primarily these days started offering free services and that's had the effect of reducing the employment prospects for professional translators to a tenth of what they were very much has happened for recording musicians or investigative journalists bla bla Okay, but here's the thing.
+If you look at this on the surface you might say, well too bad they're buggy whips like their economic niche has been made obsolete by automation they have to find new work, we'll train them for something else or whatever.
+Except if you look a little deeper you discover that language changes every day.
+Every day there are new public events, new pop culture, new memes, new slang and so we have to scrape or steal from these people tens of millions of new phrase translations every day just to keep the translator current enough to be usable every day.
+So through one side of her mouth we're telling them you're obsolete you don't get paid, the robots doing your job, through the other side of our mouths are saying oh but we sure better be able to steal data from you in order to create that illusion.
+And it's just fundamentally dishonest and twisted and this becomes crucial because another of the big questions of tech is where the robots will put people out of work and whether we need to all go on some you know universal basic income or something.
+And so in this case if we could just be more honest about the provenance of data and the way things work, we could transition people to new jobs in the data space instead of telling them they're obsolete.
+So you believe that there are jobs that we are getting rid off because of our religious devotion to data that would actually make the data better if we kept them.
+Hey, you have a Twitter handle for me? I have no Twitter account.
+[Man] Yeah I just took care of that.
+oh for God's sakes.
+What is wrong with you people? You really just believe in this stuff like your religion like you just, like be skeptical, think, think oh my God.
+Anyway sorry what were you saying? (audience laughing) I was saying, how do you get to the point then it seems like the argument you're making is there jobs that are being wiped away because of a devotion to data that would actually be beneficial to the world having more data and not just to the world but even to have an efficient language translators.
+How can you make the market accept that if that premise is true? Well it's like a phase transition, like right, now the paradigm or paradigm shift or something the current situation is what might be called a paradigm shaft, where we're where we have this kind of fake situation.
+So right now, we can't tell the people that we need their data.
+So therefore we have to to trick them into giving us the data we want, but what would make much more sense than just to tell them hey this is the data we need, we love you we'd like you to thrive we could create a whole new global population of middle class translators and make our translators better It would be like win-win for everybody.
+The economy would grow, like that's what markets are supposed to do, but if you're not allowed to talk to anybody in a market and it's all anonymous and tricky then the market breaks.
+So the thing is right now, within this stealthy tricky world that we've accepted, it feels like nothing can be different but that's precisely because we've put hoods on our heads and we're refusing to look at what's really going on.
+If we could actually be honest about what data we need and how data is used where it comes from, we could actually offer people more dignity and have an expanded economy and better working technology.
+I mean this to me, is kind of obvious.
+It's just the transitions hard because we're so ingrained in this sort of fallacy.
+So that leads to another question which is you know the point of this conference is what were the most important choices made in the last 25 years that helped shape things? What are the ideas that will help shape the next 25 years? You've just laid out a couple of very important ideas they can help shape last 25 years.
+Earlier you said one of the biggest errors of the previous 25 years was free.
+In the devotion everything should be free which leads to the advertising-supported model, which leads to everything, it leads to.
+Are there other things that we got wrong in Silicon Valley? Are there other big ideas of the last 25 years that everybody believed and turned out now from this vantage point we're correct or harmful.
+And just to be clear, I'm not saying that free is necessarily an impossible destination.
+It's just the incompatibility of free and hero' entrepreneurs.
+It's done all kinds of great.
+We have to choose one or the other.
+Like if we were really going to say from now on I would choose free.
+We want socialist society and we don't want Apple to charge for iPhones.
+We want that to become something that's free.
+We don't want you know we like if you're really willing to demonetize the world and make it some kind of free information space, then you have to criticize companies like Apple that charge for things.
+I'm not quite willing to do that.
+I think in general for all the flaws of market economy they've been less likely to degenerate into horrible dictatorships and attempts at socialism or communism.
+So totally agree Empirically, I think nothing's perfect in large system ideas.
+Systems are always a little confusing and beyond us and that's true in economics and in politics as much as in anything else, but, just empirically so far I distrust attempts at some kind of I don't know how to put this totally socialistic experiment.
+They just seem to degenerate because there's always some power hub at the center that gets claimed by the worst people.
+You start out with Bolsheviks and you end up with Stalinist.
+That's what always happens, and so that's why you know given the choice, but the one thing that's the worst, we're getting the worst of both worlds right now.
+We're getting the worst of free and the worst of paid at the same time.
+If you're trying to do this bizarre incompatible combination But are there other ideas besides other equivalent ideas like the notion that open-source is a good thing? If open source means transparent source, I think it's a totally worthy idea.
+Whether it's always the right thing I'm not Let me explain why it might not always be the right thing.
+I think there's this notion that people need to be able to insulate themselves until they're ready to share, like for instance you don't want scientists to show everything they're doing before they're ready to publish, because then they you would just see a bunch of stuff that might turn out to be wrong.
+People need to be able to have some privacy in order to be distinct from everyone else and in order to be able to craft what they're doing.
+And so in that sense I think having temporary secrets benefits society.
+It certainly has benefited science and many other things.
+And that has to do with more the importance of having cells and species and sort of structure instead of just a giant mush. Mmmhmm.
+I think that's really important to creativity into society but the part of the open source movement that bothers me more, this idea that the people you know what we basically did is by making code free, we made data into the superpower center.
+So right now we have this bizarre situation where companies Oh that's interesting like Facebook or Google have Apache stacks of open-source code but it's hidden away in secret data centers you can't visit with all your data running algorithms that run the world that are hyper secret, and so it's exactly backfired.
+And then if you look at the open source community, it's a what tends to happen when you make everything free is not that you impoverished everyone, but you take what had been a bell curve and make it into a zip curve. Mm-hmm.
+That's a subtle thing but it's extremely important That was the effect I was describing in Who Owns The Future a book from a long time ago.
+So if you have an open market society, you should see results that are kind of like a bell curve where people for most people kind of end up with middle results and there are a few people who's super high performers and a few people who aren't.
+When you have control from a central, a central hub that seized control in the way that a Facebook or Google has, when they have an Apache stack in a hidden server firm with everybody's data on it, you end up with a zip curve.
+So a few open-source developers end up doing pretty well through consulting contracts whatever and then if you look at the what might be called the long tail, and old wiredism...
+you see a lot of kind of impoverished people who contributed fundamental code that keeps the Internet running every day, and it's just bizarre.
+So it's created this an absolutely untenable extreme of reward and lack of reward in society that I mean totally aside from whether it's fair, it's just not sustainable you know.
+Well I am a central hub who's about to seize control 'cause the clock says zero but I want to ask you one quick last thing.
+You did a marvelous interview with my colleague Peter Rubin a couple issues ago on Wired, and at the end that you said the thing you wanted to see is for people to be able to improvise in virtual reality.
+And so very quickly explain what that means 'cause that seems like an amazing concept and I want to end on something since we've talked about stalinís and Bolshevism all the problems with data, I want to end on something beautiful.
+So what does it mean to improvise in virtual reality and then let's all head off to the rest of our days.
+(laughs) Well, I was just a complete on fire idealist lunatic in the 80s about virtual reality that some people in this room will remember, Kevin will remember.
+And one of my thoughts about it, is that someday there would be this way we can share through virtual reality that transcends communication as we know it, that's no longer about sharing symbols as we do with words and language, but is about directly co-improvising a shared world.
+Directly making stuff that's experienced without necessarily predefining a symbolic contracts for those things And so then the question is well how do you improvise reality? What does it look like? Does it look like, it certainly doesn't look like coding as we know it cause it takes too long and it's too nerdy and after.
+Maybe it looks like some kind of virtual musical instrument you can play within VR that spins reality and I did a lot of work trying to make those and this also relates to this idea that you can think of the cortex of the brain as being like a planet with undiscovered continents and this huge part which is the motor cortex which is kind of runs along the middle from front to back where a mohawk would go.
+This thing and there's a thing called the homunculus which is a mapping of the body to it.
+We know that if people explore abstract computation through that they have powers of speed that they don't have through other modalities such as when a jazz pianist is is figuring out what note to play and solving remarkably difficult harmonic problems and voice leading problems just spontaneously much faster than they can any other way.
+And so part of the idea was to try to leverage this underused part of the brain for creative purposes by creating musical instruments within virtual reality within which you could improvise both code and data and create this sort of shared world.
+It's not a dream I've given up on, I still make a stab at trying to chip away towards it every couple years and still to this day I'm chasing it.
+Alright, well having talked with Jaron Lanier, I'm convinced he uses the entirety of his brain.
+Thank you very much for coming, enjoy the rest of the day.
+(audience clapping) WIRED25: Inclusive Design -- Microsoft's Satya Nadella & Jenny Lay-Flurrie Talk Accessibility Will AI Enhance or Hack Humanity? - Fei-Fei Li & Yuval Noah Harari in Conversation with Nicholas Thompson WIRED February 2015 Issue: Microsoft in the Age of Satya Nadella WIRED25: The Future of Work With Patrick Collison, CEO of Stripe UN Secretary-General António Guterres speaks with WIRED's Nicholas Thompson WIRED25: The Future of Work With Jeff Weiner, CEO of LinkedIn SpotMini & Boston Dynamics Founder Marc Raibert at WIRED25 How Social Media Is Shaping Activism in America WIRED25: The Future of Work With Stacy Brown-Philpot, CEO of TaskRabbit The Surface Book Really Is the Ultimate Laptop Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

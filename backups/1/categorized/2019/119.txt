@@ -1,0 +1,48 @@
+To Extend Our Longevity, First We Must Understand Why We Age
+2019
+https://singularityhub.com/2019/01/24/to-extend-our-longevity-first-we-must-understand-why-we-age
+
+Topics AI Biotech Computing Space Energy Future Tech Robotics Science Experts Featured Experts Perspectives Books Events Videos Latest Series Interviews About Singularity About Programs Membership Experts Community Careers Subscribe Welcome! Search.
+News and Insights from Singularity Group Search Subscribe to our newsletter Singularity Group Singularity Community Facebook Instagram Twitter Youtube.
+st0{fill:#FFFFFF;} .st1{fill:url(#SVGID_1_);} Singularity Hub News and Insights from Singularity Group Topics Experts Events Videos Search singularity group singularity community Facebook Instagram Twitter Youtube.
+st0{fill:#FFFFFF;} .st1{fill:url(#SVGID_1_);} Singularity Hub News and Insights from Singularity Group Topics Experts Events Videos Search To Extend Our Longevity, First We Must Understand Why We Age By Healthcare today is reactive, retrospective, bureaucratic, and expensive. It’s sick care, not healthcare.
+But that is radically changing at an exponential rate.
+Through this multi-part blog series on longevity, I’ll take a deep dive into aging, longevity , and healthcare technologies that are working together to dramatically extend the human lifespan, disrupting the $3 trillion healthcare system in the process.
+I’ll begin the series by explaining the nine hallmarks of aging, as explained in this journal article.
+ Next, I’ll break down the emerging technologies and initiatives working to combat these nine hallmarks. Finally, I’ll explore the transformative implications of dramatically extending the human health span.
+In this blog I’ll cover: Why the healthcare system is broken Why, despite this, we live in the healthiest time in human history The nine mechanisms of aging Let’s dive in.
+The System is Broken—Here’s the Data: Doctors spend $210 billion per year on procedures that aren’t based on patient need, but fear of liability.
+Americans spend, on average, $8,915 per person on healthcare—more than any other country on Earth.
+Prescription drugs cost around 50 percent more in the US than in other industrialized countries.
+At current rates, by 2025, nearly 25 percent of the US GDP will be spent on healthcare.
+It takes 12 years and $359 million, on average, to take a new drug from the lab to a patient.
+Only 5 in 5,000 of these new drugs proceed to human testing. From there, only 1 of those 5 is actually approved for human use.
+And Yet, We Live in the Healthiest Time in Human History Consider these insights, which I adapted from Max Roser’s excellent database Our World in Data : Right now, the countries with the lowest life expectancy in the world still have higher life expectancies than the countries with the highest life expectancy did in 1800.
+In 1841, a 5-year-old had a life expectancy of 55 years. Today, a 5-year-old can expect to live 82 years—an increase of 27 years.
+We’re seeing a dramatic increase in healthspan. In 1845, a newborn would expect to live to 40 years old. For a 70-year-old, that number became 79. Now, people of all ages can expect to live to be 81 to 86 years old.
+100 years ago, 1 of 3 children would die before the age of 5. As of 2015, the child mortality rate fell to just 4.3 percent.
+The cancer mortality rate has declined 27 percent over the past 25 years.
+The 9 Mechanisms of Aging *This section was adapted from CB INSIGHTS: The Future Of Aging.
+Longevity, healthcare, and aging are intimately linked.
+With better healthcare , we can better treat some of the leading causes of death, impacting how long we live.
+By investigating how to treat diseases, we’ll inevitably better understand what causes these diseases in the first place, which directly correlates to why we age.
+Following are the nine hallmarks of aging. I’ll share examples of health and longevity technologies addressing each of these later in this blog series.
+Genomic instability : As we age, the environment and normal cellular processes cause damage to our genes. Activities like flying at high altitude, for example, expose us to increased radiation or free radicals. This damage compounds over the course of life and is known to accelerate aging.
+Telomere attrition : Each strand of DNA in the body (known as chromosomes) is capped by telomeres. These short snippets of DNA repeated thousands of times are designed to protect the bulk of the chromosome. Telomeres shorten as our DNA replicates; if a telomere reaches a certain critical shortness, a cell will stop dividing, resulting in increased incidence of disease.
+Epigenetic alterations : Over time, environmental factors will change how genes are expressed, i.e., how certain sequences of DNA are read and the instruction set implemented.
+Loss of proteostasis: Over time, different proteins in our body will no longer fold and function as they are supposed to, resulting in diseases ranging from cancer to neurological disorders.
+Deregulated nutrient-sensing : Nutrient levels in the body can influence various metabolic pathways. Among the affected parts of these pathways are proteins like IGF-1, mTOR, sirtuins, and AMPK. Changing levels of these proteins’ pathways has implications on longevity.
+Mitochondrial dysfunction : Mitochondria (our cellular power plants) begin to decline in performance as we age. Decreased performance results in excess fatigue and other symptoms of chronic illnesses associated with aging.
+Cellular senescence : As cells age, they stop dividing and cannot be removed from the body. They build up and typically cause increased inflammation.
+Stem cell exhaustion : As we age, our supply of stem cells begins to diminish as much as 100 to 10,000-fold in different tissues and organs. In addition, stem cells undergo genetic mutations, which reduce their quality and effectiveness at renovating and repairing the body.
+Altered intercellular communication : The communication mechanisms that cells use are disrupted as cells age, resulting in decreased ability to transmit information between cells.
+Conclusion Over the past 200 years, we have seen an abundance of healthcare technologies enable a massive lifespan boom.
+Now, exponential technologies like artificial intelligence , 3D printing and sensors, as well as tremendous advancements in genomics , stem cell research , chemistry, and many other fields, are beginning to tackle the fundamental issues of why we age.
+In the next blog in this series, we will dive into how genome sequencing and editing, along with new classes of drugs, are augmenting our biology to further extend our healthy lives.
+What will you be able to achieve with an extra 30 to 50 healthy years (or longer) in your lifespan? Personally, I’m excited for a near-infinite lifespan to take on moonshots.
+Join Me (1) A360 Executive Mastermind: If you’re an exponentially and abundance-minded entrepreneur who would like coaching directly from me, consider joining my Abundance 360 Mastermind, a highly selective community of 360 CEOs and entrepreneurs who I coach for 3 days every January in Beverly Hills, Ca. Through A360, I provide my members with context and clarity about how converging exponential technologies will transform every industry. I’m committed to running A360 for the course of an ongoing 25-year journey as a “countdown to the Singularity.” If you’d like to learn more and consider joining our 2020 membership, apply here.
+(2) Abundance-Digital Online Community: I’ve also created a Digital/Online community of bold, abundance-minded entrepreneurs called Abundance-Digital. Abundance-Digital is Singularity University’s ‘onramp’ for exponential entrepreneurs — those who want to get involved and play at a higher level.
+Click here to learn more.
+(Both A360 and Abundance-Digital are part of Singularity University — your participation opens you to a global community.) This article originally appeared on diamandis.com.
+ Read the original article here.
+Image Credit: David Carbo / Shutterstock.com Tags Health Longevity Perspectives RELATED Why Google and Bing’s Embrace of Generative AI Could Upend the SEO Industry October 29, 2023 These CRISPR-Engineered Super Chickens Are Resistant to Bird Flu October 12, 2023 A Surprising New Protein Player Restores Memory in Old Mice August 18, 2023 latest Like Humans, This Breakthrough AI Makes Concepts Out of the Words It Learns October 31, 2023 Why Google and Bing’s Embrace of Generative AI Could Upend the SEO Industry October 29, 2023 This Week’s Awesome Tech Stories From Around the Web (Through October 28) October 28, 2023 featured Carl Sagan Detected Life on Earth 30 Years Ago—Here’s Why His Experiment Still Matters Today October 26, 2023 Singularity Hub News and Insights from Singularity Group Singularity labs A 360 Singularity Hub About Creative Commons Pitch Us Contact Us Terms of Use Privacy Policy Singularity Group About Executive Program Custom Programs Podcasts Insights Blog Stay connected Facebook Instagram RSS Twitter Youtube Get the latest news from Singularity Hub! Sign Up Copyright © Singularity Group. All rights reserved.

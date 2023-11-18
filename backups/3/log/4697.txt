@@ -1,0 +1,31 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Fallout 4 1.6 update beta out now: Here’s what’s new and different Share on Facebook Share on X Share on LinkedIn Fallout 4 is getting ready for some of its new content.
+Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+Fallout 4 is getting suite of big improvements, and you can test them out on PC right now.
+Bethesda has released the 1.6 update for Fallout 4 in an early beta version on Steam. You can download it by opting into the beta version from the properties menu. As always, the publisher is bringing a number of bug fixes and gameplay improvements, but it also has new features like the new “ExitSave” that creates an autosave for you whenever you quit the game. Fallout 4 is one of the most played games on PC and console , and Bethesda uses its updates as a way of keeping players coming back for years. Maintaining that engagement is crucial to increasing lifetime value in the $99.6 billion gaming industry by having more players to sell add-ons to.
+While the 1.6 update is only in beta on PC for now, it should roll out to everyone playing on PlayStation 4, Xbox One, and PC soon.
+While you wait for that release (or for the beta to install), here’s a breakdown of what’s new and different in Fallout 4 directly from Bethesda: Event GamesBeat at the Game Awards We invite you to join us in LA for GamesBeat at the Game Awards event this December 7. Reserve your spot now as space is limited! New Features ExitSave: Exiting to the Main Menu will create an ExitSave. During next play session, the ExitSave will delete itself after you load it. The ExitSave works in all difficulty levels including Survival.
+New Add On specific icons in Workshop mode.
+Support for upcoming add-ons.
+Fixes General stability and performance improvements.
+Fixed a crash related to targeting an enemy weapon while in VATS.
+Fixed an issue where a Companion would become stuck walking and unable to run.
+Fixed issue in “Mankind Redefined” to prevent the player from getting stuck in elevators while in Mass Fusion Building.
+In “Boston After Dark” quest now completes properly when waiting for Old Man Stockton.
+Fixed occasional issue where player would become permanently invisible.
+Dead settlers can no longer be commanded or assigned to supply lines.
+Fixed issue where deleting saved games would cause other saves to disappear.
+Fixed occasional issues with activating mods that did not come from Bethesda.net.
+Minor bug fixes and optimizations to Mods load order and browsing.
+Finally, if you’re wondering exactly how to get into the beta, just follow these instructions: Boot up Steam.
+Right click on Fallout 4 from the Library tab.
+Click Settings.
+Select Betas.
+Chose “Beta” from the drop down menu.
+Hit OK.
+Let the new version download and install before booting into the game.
+GamesBeat's creed when covering the game industry is "where passion meets business." What does this mean? We want to tell you how the news matters to you -- not just as a decision-maker at a game studio, but also as a fan of games. Whether you read our articles, listen to our podcasts, or watch our videos, GamesBeat will help you learn about the industry and enjoy engaging with it.
+Discover our Briefings.
+Join the GamesBeat community! Enjoy access to special events, private newsletters and more.
+VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

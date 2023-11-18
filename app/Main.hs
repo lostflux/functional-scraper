@@ -38,8 +38,15 @@ matchCount = Parser.wordcount config
 seedURLs :: [Link]
 seedURLs = Parser.domains config
 
+{-# NOINLINE prevPages #-}
 prevPages :: [Link]
-prevPages = unsafePerformIO $! lines <$!> readFile "data.backup/metadata/urls"
+prevPages = unsafePerformIO $ do
+  urls <- lines <$!> readFile "backups/3/metadata/urls"
+  return $! filter isAllowed $ reverse urls
+
+
+isAllowed :: String -> Bool
+isAllowed url = any (`isPrefixOf` url) seedURLs
 
 
 crawl :: IO ()
@@ -48,7 +55,7 @@ crawl = do
   let allWords = EmptyTrie
   let allLinks = []
   -- !prevPages <- filter (not . null) <$!> lines <$!> readFile "data/metadata/urls"
-  let !urls = seedURLs ++ prevPages
+  let !urls = prevPages
   let !seenURLs = Set.fromList urls
 
   -- launch the crawl.
@@ -75,7 +82,7 @@ iter queue@(url:rest) seenURLs docID allWords = do
   !page <- Parser.loadPage url
   if isValid page then do
     let !words = allWords <|> text page
-    let !asList = Set.toList (links page \\ seenURLs)
+    let !asList = filter isAllowed $ Set.toList (links page \\ seenURLs)
     let !s = foldl' (flip Set.insert) seenURLs asList
     let !q = rest ++ asList
     let status = hasKeyWords page
@@ -90,8 +97,8 @@ iter queue@(url:rest) seenURLs docID allWords = do
     else iter q s docID words
   else do
     printf "%sIgnBad:     %s%s\n" red url reset
-    let !filtered = filter (not . isPrefixOf url) rest
-    iter filtered seenURLs docID allWords
+    -- let !filtered = filter (not . isPrefixOf url) rest
+    iter rest seenURLs docID allWords
 
 advance :: [Link] -> Links -> Int -> Trie -> [String] -> IO ()
 advance q s docID words allLinks

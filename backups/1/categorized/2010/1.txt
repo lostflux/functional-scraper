@@ -1,0 +1,486 @@
+Synthetic biology: applications come of age | Nature Reviews Genetics
+2010
+https://doi.org/10.1038%2Fnrg2775
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+Advertisement View all journals Search Log in Explore content About the journal Publish with us Sign up for alerts RSS feed nature nature reviews genetics review articles article Download PDF Download PDF Published: May 2010 Synthetic biology: applications come of age Ahmad S. Khalil 1 & James J. Collins 1 , 2 Nature Reviews Genetics volume 11 , pages 367–379 ( 2010 ) Cite this article 59k Accesses 938 Citations 60 Altmetric Metrics details Subjects Genetics Synthetic biology Key Points Early synthetic biology designs, namely the genetic toggle switch and repressilator, showed that regulatory components can be characterized and assembled to bring about complex, electronics-inspired behaviours in living systems (for example, memory storage and timekeeping).
+Through the characterization and assembly of genetic parts and biological building blocks, many more devices have been constructed, including switches, memory elements, oscillators, pulse generators, digital logic gates, filters and communication modules.
+Advances in the field are now allowing expansion beyond small gene networks to the realm of larger biological programs, which hold promise for a wide range of applications, including biosensing, therapeutics and the production of biofuels, pharmaceuticals and biomaterials.
+Synthetic biosensing circuits consist of sensitive elements that bind analytes and transducer modules that mobilize cellular responses. Balancing these two modules involves engineering modularity and specificity into the various circuits.
+Biosensor sensitive elements include environment-responsive promoters (transcriptional), RNA aptamers (translational) and protein receptors (post-translational).
+Biosensor transducer modules include engineered gene networks (transcriptional), non-coding regulatory RNAs (translational) and protein signal-transduction circuits (post-translational).
+The contributions of synthetic biology to therapeutics include: engineered networks and organisms for disease-mechanism elucidation, drug-target identification, drug-discovery platforms, therapeutic treatment, therapeutic delivery, and drug production and access.
+In the microbial production of biofuels and pharmaceuticals, synthetic biology has supplemented traditional genetic and metabolic engineering efforts by aiding the construction of optimized biosynthetic pathways.
+Optimizing metabolic flux through biosynthetic pathways is traditionally accomplished by driving the expression of pathway enzymes with strong, inducible promoters. New synthetic approaches include the rapid diversification of various pathway components, the rational and model-guided assembly of pathway components, and hybrid solutions.
+Abstract Synthetic biology is bringing together engineers and biologists to design and build novel biomolecular components, networks and pathways, and to use these constructs to rewire and reprogram organisms. These re-engineered organisms will change our lives over the coming years, leading to cheaper drugs, 'green' means to fuel our cars and targeted therapies for attacking 'superbugs' and diseases, such as cancer. The de novo engineering of genetic circuits, biological modules and synthetic pathways is beginning to address these crucial problems and is being used in related practical applications.
+Main The circuit-like connectivity of biological parts and their ability to collectively process logical operations was first appreciated nearly 50 years ago 1.
+ This inspired attempts to describe biological regulation schemes with mathematical models 2 , 3 , 4 , 5 and to apply electrical circuit analogies to biological pathways 6 , 7.
+ Meanwhile, breakthroughs in genomic research and genetic engineering (for example, recombinant DNA technology) were supplying the inventory and methods necessary to physically construct and assemble biomolecular parts. As a result, synthetic biology was born with the broad goal of engineering or 'wiring' biological circuitry — be it genetic, protein, viral, pathway or genomic — for manifesting logical forms of cellular control. Synthetic biology, equipped with the engineering-driven approaches of modularization, rationalization and modelling, has progressed rapidly and generated an ever-increasing suite of genetic devices and biological modules.
+The successful design and construction of the first synthetic gene networks — the genetic toggle switch 8 and the repressilator 9 ( Box 1 ) — showed that engineering-based methodology could indeed be used to build sophisticated, computing-like behaviour into biological systems. In these two cases, basic transcriptional regulatory elements were designed and assembled to realize the biological equivalents of electronic memory storage and timekeeping ( Box 1 ). Within the framework provided by these two synthetic systems, biological circuits can be built from smaller, well-defined parts according to model blueprints. They can then be studied and tested in isolation, and their behaviour can be evaluated against model predictions of the system dynamics. This methodology has been applied to the synthetic construction of additional genetic switches 8 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , memory elements 8 , 14 , 15 , 19 and oscillators 9 , 10 , 20 , 21 , 22 , 23 , as well as to other electronics-inspired genetic devices, including pulse generators 24 , digital logic gates 25 , 26 , 27 , 28 , 29 , 30 , filters 31 , 32 , 33 and communication modules 23 , 31 , 34 , 35.
+Now, 10 years after the demonstration of synthetic biology's inaugural devices 8 , 9 , engineered biomolecular networks are beginning to move into the application stage and yield solutions to many complex societal problems. Although work remains to be done on elucidating biological design principles 36 , this foray into practical applications signals an exciting coming-of-age time for the field.
+Here, we review the practical applications of synthetic biology in biosensing, therapeutics and the production of biofuels, pharmaceuticals and novel biomaterials. Many of the examples herein do not fit exclusively or neatly into only one of these three application categories; however, it is precisely this multivalent applicability that makes synthetic biology platforms so powerful and promising.
+Biosensing Cells have evolved a myriad of regulatory circuits — from transcriptional to post-translational — for sensing and responding to diverse and transient environmental signals. These circuits consist of exquisitely tailored sensitive elements that bind analytes and set signal-detection thresholds, and transducer modules that filter the signals and mobilize a cellular response ( Box 2 ). The two basic sensing modules must be delicately balanced: this is achieved by programming modularity and specificity into biosensing circuits at the transcriptional, translational and post-translational levels, as described below.
+Transcriptional biosensing.
+ As the first dedicated phase of gene expression, transcription serves as one method by which cells mobilize a cellular response to an environmental perturbation. As such, the genes to be expressed, their promoters, RNA polymerase, transcription factors and other parts of the transcription machinery all serve as potential engineering components for transcriptional biosensors. Most synthetic designs have focused on the promoters and their associated transcription factors, given the abundance of known and characterized bacterial, archaeal and eukaryotic environment-responsive promoters , which include the well-known promoters of the Escherichia coli lac , tet and ara operons.
+Both the sensory and transducer behaviours of a biosensor can be placed under synthetic control by directly engineering environment-responsive promoter sequences. In fact, this was the early design strategy adopted for establishing inducible expression systems 37 , 38 , 39 , 40.
+ By introducing, removing or modifying activator and repressor sites, a promoter's sensitivity to a molecule can be tuned. Synthetic mammalian transactivation systems are generic versions of this strategy in which an environmentally sensitive transcription factor is fused to a mammalian transactivation domain to cause inducer-dependent changes in gene expression. Synthetic mammalian biosensors based on this scheme have been created for sensing signals such as antibiotics 41 , 42 , 43 , quorum-sensing molecules 44 , 45 , gases and metabolites 46 , 47 , 48 , 49 , and temperature changes 50 , 51.
+ Fussenegger and colleagues have even incorporated this transgene design into mammalian circuits, creating synthetic networks that are responsive to electrical signals 52.
+Although the engineering of environment-responsive promoters has been valuable, additional control over modularity and specificity can be achieved by embedding environment-responsive promoters in engineered gene networks. Achieving true modularity with genetic parts is inherently difficult because of unintended interference among native and synthetic parts and therefore requires careful decoupling of functional modules. One such modular design strategy was used by Kobayashi et al.
+34 to develop whole-cell E. coli biosensors that respond to signals in a programmable fashion. In this design, a sensory module (that is, an environment-responsive promoter and associated transcription factor) was coupled to an engineered gene circuit that functions like a central processing unit.
+E. coli cells were programmed to respond to a deleterious endogenous input — specifically, DNA-damaging stimuli, such as ultraviolet radiation or mitomycin C. The gene circuit, which was chosen to be the toggle switch ( Box 1 ), processes the incoming sensory information and flips from an 'OFF' to an 'ON' state when a signal threshold is exceeded. Because the biosensor has a decoupled, modular nature, it can be wired to any desired output, from the expression of a standard fluorescent reporter to the activation of natural phenotypes, such as biofilm formation (for example, through expression of traA ) or cell suicide (for example, through expression of ccdB ).
+Sometimes a single signal may be too general to characterize or define an environment. For such situations, Anderson et al.
+25 devised a transcriptional AND gate that could be used to integrate multiple environmental signals into a single genetic circuit ( Box 2 ), therefore programming the desired level of biosensing specificity. Genetic biosensors of this sort could be useful for communicating the state of a specific microenvironment (for example, in an industrial bioreactor) within a 'sea' of environmental conditions, such as temperature, metabolite levels or cell density.
+Translational biosensing.
+ RNA molecules have a diverse and important set of cellular functions 53.
+ Non-coding RNAs can splice and edit RNA, modify ribosomal RNA, catalyse biochemical reactions and regulate gene expression at the level of transcription or translation 53 , 54 , 55 , 56.
+ The regulatory subset of non-coding RNAs 57 , 58 , 59 is well-suited for rational design 60 and, in particular, for biosensing applications. Many regulatory RNA molecules are natural environmental sensors 61 , 62 , 63 , 64 , 65 , 66 , 67 , 68 , 69 , and because of their ability to take on complex structures defined by their sequence, these molecules can mediate diverse modular functions across distinct sequence domains. Riboswitches 70 , for instance, bind specific small-molecule ligands through aptamer domains and induce conformational changes in the 5′ UTR of their own mRNA, thereby regulating gene expression. Aptamer domains that are modelled after riboswitches are versatile and widely used sensitive elements for RNA-based biosensing. The choice and number of aptamer domains can provide control over specificity. Building an entire RNA-based biosensor typically requires coupling an aptamer domain (the sensitive element) with a post-transcriptional regulatory domain (the transducer module) on a modular RNA molecule scaffold.
+Antisense RNAs 59 , 71 are one such class of natural regulatory RNAs that can control gene expression through post-transcriptional mechanisms. By linking a riboswitch aptamer to an antisense repressor on a single RNA molecule, Bayer and Smolke 11 engineered trans -acting, ligand-responsive riboregulators of gene expression in Saccharomyces cerevisiae ( Box 2 ). Binding of the aptamer to its ligand (for example, the small molecule theophylline) induces a conformational change in the RNA sensor that either sequesters the antisense domain in a stable stem loop (ON switch) or liberates it to inhibit translation of an output gene reporter (OFF switch). As a result of the cooperative dependence on both ligand and target mRNA, this biosensor shows binary-like switching at a threshold ligand concentration, similar to the genetic toggle design. Importantly, this detection threshold can be adjusted by altering the RNA sequence and therefore the thermodynamic properties of the structure. In principle, the 'antiswitch' framework is modular; in other words, aptamers for different ligands and antisense stems targeting different downstream genes could be incorporated into the scaffold to create new sensors. In practice, developing new sensors by aptamer and antisense replacement often involves re-screening compatible secondary structures to create functioning switches. In the future, this platform could be combined with rapid, in vitro aptameric selection techniques 72 , 73 , 74 , 75 for generating a suite of RNA biosensors that report on the levels of various mRNA species and metabolites in a cell. However, here it should also be noted that aptamers show specificity for a biased ligand space, and as a result aptamers for a target ligand cannot always be found.
+Another method for transducing the sensory information captured by aptamer domains is to regulate translation through RNA self-cleavage 69 , 70.
+ RNA cleavage is catalysed by ribozymes, some of which naturally possess aptameric domains and are responsive to metabolites 69.
+ Yen et al.
+76 took advantage of this natural framework and encoded ligand-sensitive ribozymes in the mRNA sequences of reporter genes. In the absence of its cognate ligand, constitutive autocleavage of the reporter mRNA resulted in little or no signal. The RNA biosensor is flipped when the cognate ligand is present to inhibit the ribozyme's activity. Similar to the 'antiswitch' framework (and with the same technical challenges), these engineered RNAs could potentially be used as endogenous sensors for reporting on a variety of intracellular species and metabolites.
+Post-translational biosensing.
+ Signal transduction pathways show vast diversity and complexity. Factors such as the nature of the molecular interactions, the number of interconnected proteins in a cascade and the use of spatial mechanisms dictate which signals are transmitted, whether a signal is amplified or attenuated and the dynamics of the response. Despite the multitude of factors and interacting components, signal transduction pathways are essentially hierarchical schemes based on sensitive elements and downstream transducer modules, and as such can be rationalized for engineering protein-based biosensors.
+The primary sensitive element for most signal transduction pathways is the protein receptor. Whereas environment-responsive promoters and RNA aptamers are typically identified from nature or selected with high-throughput combinatorial methods, protein receptors can be designed de novo at the level of molecular interactions. For instance, Looger et al.
+77 devised a computational method for redesigning natural protein receptors to bind new target ligands. Starting with a 'basis' of five proteins from the E. coli periplasmic binding protein (PBP) superfamily, the researchers replaced each of the wild-type ligands with a new, non-native target ligand and then used an algorithm to combinatorially explore all binding-pocket-residue mutations and ligand-docking configurations. This procedure was used to predict novel receptors for trinitrotoluene (TNT; a carcinogen and explosive), L -lactate (a medically-important metabolite) and serotonin (a chemical associated with psychiatric conditions). The predicted receptor designs were experimentally confirmed to be strong and specific in vitro sensors, as well as in vivo cell-based biosensors.
+Protein receptors, such as the ones discussed above, are typically membrane-bound; they trigger protein signalling cascades that ultimately result in a cellular response. However, several synthetic methods can be used to transmit captured sensory information in a tunable and desirable manner. Skerker et al.
+78 rationally rewired the transmission of information through two-component systems by identifying rules governing the specificity of a histidine kinase to its cognate response regulator. Alternatively, engineered protein scaffolds can be designed to physically recruit pathway modulators and synthetically reshape the dynamical response behaviour of a system 79 ( Box 3 ). This constitutes a modular method for programming protein-based biosensors to have any desired response, including accelerated, delayed or ultrasensitive responses, to upstream signals.
+Hybrid approaches.
+ Combining synthetic transcriptional, translational and post-translational circuits into hybrid solutions and harnessing desired characteristics from each could lead to the creation of cell-based biosensors that are as robust as those of natural organisms. Using a synthetic hybrid approach, Voigt and colleagues 80 , 81 , 82 developed E. coli -based optical sensors. A synthetic sensor kinase was engineered to allow cells to identify and report the presence of red light. As a result, a bacterial lawn of the engineered cells could faithfully 'print' a projected image in the biological equivalent of photographic film. Specifically, a membrane-bound photoreceptor from cyanobacteria was fused to an E. coli intracellular histidine kinase to induce light-dependent changes in gene expression 80 ( Box 3 ). In a clever example of its use, the bacterial optical sensor was applied in image edge detection 82.
+ In this case, by wiring the optical sensor to transcriptional circuits that perform cell–cell communication (the quorum-sensing system from Vibrio fischeri ) and logical functions ( Box 3 ), the researchers programmed only the cells that receive light and directly neighbour cells that do not receive light to produce a pigment, allowing the edges of a projected image to be traced. This work demonstrates that complex behaviour can emerge from properly wiring together smaller genetic programs, and that these programs can lead to unique real-world applications.
+Therapeutics Human health is afflicted by new and old foes, including emergent drug-resistant microbes, cancer and obesity. Meanwhile, progress in medicine is faced with challenges at each stage of the therapeutic spectrum, ranging from the drying up of pharmaceutical pipelines to limited global access to viable medicines. In a relatively short amount of time, synthetic biology has made promising strides in reshaping and streamlining this spectrum ( Box 4 ). Indeed, the rational and model-guided construction of biological parts is enabling new therapeutic platforms, from the identification of disease mechanisms and drug targets to the production and delivery of small molecules.
+Disease mechanism.
+ An electrical engineer is likely to prototype portions of a circuit on a 'breadboard' before printing it as an entire integrated circuit. This allows for the rigorous testing of submodules in an isolated, well-characterized environment. Similarly, synthetic biology provides a framework for synthetically reconstructing natural biological systems to explore how pathological behaviours may emerge. This strategy was used to give mechanistic insights into a primary immunodeficiency, agammaglobulinaemia , in which patients cannot generate mature B cells and as a result are unable to properly fight infections 83.
+ The researchers developed a synthetic testbed by systematically reconstructing the various components of the human B cell antigen receptor (BCR) signalling pathway in an orthogonal environment.
+ This allowed them to identify network topology features that trigger BCR signalling and assembly. A rare mutation in the immunoglobulin-β-encoding gene was identified in one patient and introduced into the synthetic system, in which it was shown to abolish assembly of the BCR on the cell surface, thereby linking this faulty pathway component with disease onset. Pathogenic viral genomes can similarly be reconstructed for studying the molecular underpinnings of infectious disease pandemics. For instance, synthetic reconstruction of the severe acquired respiratory syndrome (SARS) coronavirus 84 and the 1918 Spanish influenza virus 85 helped to identify genetic mutations that may have conferred human tropism and increased virulence.
+Drug-target identification.
+ Building up synthetic pathways and systems from individual parts is one way of identifying disease mechanisms and therapeutic targets. Another is to deploy synthetic biology devices to systematically probe the function of individual components of a natural pathway. Our group, for instance, has engineered modular riboregulators that can be used to tune the expression of a toxic protein or any gene in a biological network 86.
+ To achieve post-transcriptional control over a target gene, the mRNA sequence of the riboregulator 5′ UTR is designed to form a hairpin structure that sequesters the ribosomal binding site (RBS) and prevents ribosome access to it. Translational repression of this cis -repressed mRNA can be alleviated by an independently regulated transactivating RNA that targets the stem–loop for unfolding. Engineered riboregulators have been used to tightly regulate the expression of CcdB, a toxic bacterial protein that inhibits DNA gyrase , to gain a better understanding of the sequence of events leading to induced bacterial cell death 87.
+ These synthetic biology studies, in conjunction with systems biology studies of quinolones (antibiotics that inhibit gyrase) 87 , led to the discovery that all major classes of bactericidal antibiotics induce a common cellular death pathway by stimulating oxidative damage 88 , 89.
+ This work provided new insights into how bacteria respond to lethal stimuli and paved the way for the development of more effective antibacterial therapies.
+Drug discovery.
+ After a faulty pathway component or target is identified, whole-cell screening assays can be designed using synthetic biology strategies for drug discovery. As a demonstration of this approach, Fussenegger and colleagues 90 developed a synthetic platform for screening small molecules that could potentiate a Mycobacterium tuberculosis antibiotic ( Box 4 ). Ethionamide, currently the last line of defence in the treatment of multidrug-resistant tuberculosis, depends on activation by the M. tuberculosis enzyme EthA for efficacy. However, due to transcriptional repression of ethA by the protein EthR, ethionamide-based therapy is often rendered ineffective. To address this problem, the researchers designed a synthetic mammalian gene circuit that featured an EthR-based transactivator of a reporter gene and used it to screen for and identify EthR inhibitors that could abrogate resistance to ethionamide. Importantly, because the system is a cell-based assay, it intrinsically enriches for inhibitors that are non-toxic and membrane-permeable to mammalian cells, which are key drug criteria as M. tuberculosis is an intracellular pathogen. This framework, in which drug discovery is applied to whole cells that have been engineered with circuits that highlight a pathogenic mechanism, could be extended to other diseases and phenotypes.
+Therapeutic treatment.
+ Synthetic biology devices have additionally been developed to serve as therapies themselves. Entire engineered viruses and organisms can be programmed to target specific pathogenic agents and pathological mechanisms. For instance, in two separate studies 91 , 92 researchers used engineered bacteriophages to combat antibiotic-resistant bacteria by endowing them with genetic mechanisms that target and thwart bacterial mechanisms for evading antibiotic action. The first study was prompted by the observation that biofilms , in which bacteria are encapsulated in an extracellular matrix, have inherent resistance to antimicrobial therapies and are sources of persistent infections. To more effectively penetrate this protective environment, T7 phage was engineered to express the biofilm matrix-degrading enzyme dispersin B (DspB) upon infection 91.
+ The two-pronged attack of T7 expressing DspB and phage-induced lysis fuelling the creation and spread of DspB resulted in the removal of 99.997% of the biofilm bacterial cells.
+In the second study 92 , it was suggested that inhibition of certain bacterial genetic programs could improve the effectiveness of current antibiotic therapies. In this case, bacteriophages were deliberately designed to be non-lethal so as not to elicit resistance mechanisms; instead, a non-lytic M13 phage was used to suppress the bacterial SOS DNA-damage response by overexpression of its repressor, lexA3.
+ The engineered bacteriophage significantly enhanced killing by three major classes of antibiotics in traditional cell culture and in E. coli -infected mice, potentiated killing of antibiotic-resistant bacteria and, importantly, reduced the incidence of cells with antibiotic-induced resistance.
+Synthetically engineered viruses and organisms that are able to sense and link their therapeutic activity to pathological cues may be useful in the treatment of cancer, in which current therapies often indiscriminately attack tumours and normal tissues. For instance, adenoviruses were programmed to couple their replication to the state of the p53 pathway in human cells 93.
+ Normal p53 production would result in inhibition of a crucial viral replication component, whereas a defunct p53 pathway, which is characteristic of tumour cells, would allow viral replication and cell killing. In another demonstration of translational synthetic biology applied to cancer therapy, Voigt and colleagues 94 developed cancer-targeting bacteria and linked their ability to invade the cancer cells to specific environmental signals. Constitutive expression of the heterologous invasin ( inv ) gene (from Yersinia pseudotuberculosis ) can induce E. coli cells to invade both normal human cell lines and cancer cell lines. So, to preferentially invade cancer cells, the researchers placed inv under the control of transcriptional operons that are activated by environmental signals specific to the tumour microenvironment. These engineered bacteria could be made to carry or synthesize cancer therapies for the treatment of tumours.
+Therapeutic delivery.
+ In addition to engineered therapeutic organisms, synthetic circuits and pathways can be used for the controlled delivery of drugs as well as for gene and metabolic therapy. In some cases, sophisticated kinetic control over drug release in the body may yield therapeutic advantages and reduce undesired side effects. Most hormones in the body are released in time-dependent pulses. Glucocorticoid secretion, for instance, has a circadian and ultradian pattern of release, with important transcriptional consequences for glucocorticoid-responsive cells 95.
+ Faithfully mimicking these patterns in the administration of synthetic hormones to patients with glucocorticoid-responsive diseases, such as rheumatoid arthritis, may decrease known side effects and improve therapeutic response 95.
+ Periodic synthesis and release of biologic drugs can be autonomously achieved with synthetic oscillator circuits 9 , 10 , 20 , 21 , 22 or programmed time-delay circuits 96.
+ In other cases, one may wish to place a limit on the amount of drug released by programming the synthetic system to self-destruct after a defined number of cell cycles or drug release pulses. Our group has recently developed two variants of a synthetic gene counter 14 that could be adapted for such an application.
+Gene therapy is beginning to make some promising advances in clinical areas in which traditional drug therapy is ineffective, such as in the treatment of many hereditary and metabolic diseases. Synthetic circuits offer a more controlled approach to gene therapy, such as the ability to dynamically silence, activate and tune the expression of desired genes. In one such example 12 , a genetic switch was developed in mammalian cells that couples transcriptional repressor proteins and an RNAi module for tight, tunable and reversible control over the expression of desired genes ( Box 4 ). This system would be particularly useful in gene-silencing applications, as it was shown to yield >99% repression of a target gene.
+Additionally, the construction of non-native pathways offers a unique and versatile approach to gene therapy, such as for the treatment of metabolic disorders. Operating at the interface of synthetic biology and metabolic engineering, Liao and colleagues 97 recently introduced the glyoxylate shunt pathway into mammalian liver cells and mice to explore its effects on fatty acid metabolism and, more broadly, on whole-body metabolism. Remarkably, the researchers found that when transplanted into mammals, the shunt actually increased fatty acid oxidation, evidently by creating an alternative cycle. Furthermore, mice expressing the shunt showed resistance to diet-induced obesity when placed on a high-fat diet, with corresponding decreases in total fat mass, plasma triglycerides and cholesterol levels. This work offers a new synthetic biology model for studying metabolic networks and disorders, and for developing treatments for the increasing problem of obesity.
+Finally, the discovery of drugs and effective treatments may not quickly — or ever — translate to the people who need them the most because drug production processes can be difficult and costly. As discussed below, synthetic biology is allowing rare and costly drugs to be manufactured more cost-effectively ( Box 4 ).
+Biofuels, pharmaceuticals and biomaterials Recent excitement surrounding the production of biofuels, pharmaceuticals and biomaterials from engineered microorganisms is matched by the challenges that loom in bringing these technologies to production scale and quality. The most widely used biofuel is ethanol produced from corn or sugar cane 98 ; however, the heavy agricultural burden combined with the suboptimal fuel properties of ethanol make this approach to biofuels problematic and limited. Microorganisms engineered with optimized biosynthetic pathways to efficiently convert biomass into biofuels are an alternative and promising source of renewable energy. These strategies will succeed only if their production costs can be made to compete with, or even outcompete, current fuel production costs. Similarly, there are many drugs for which expensive production processes preclude their capacity for a wider therapeutic reach. New synthetic biology tools would also greatly advance the microbial production of biomaterials and the development of novel materials.
+Constructing biosynthetic pathways.
+ When engineering for biofuels, drugs or biomaterials, two of the first design decisions are choosing which biosynthetic pathway or pathways to focus on and which host organism to use. Typically, these decisions begin with the search for organisms that are innately capable of achieving some desired biosynthetic activity or phenotype 99.
+ For biofuel production, for instance, certain microorganisms have evolved to be proficient in converting lignocellulosic material to ethanol, biobutanol and other biofuels. These native isolates possess unique catabolic activity, heightened tolerances for toxic materials and a host of enzymes designed to break down the lignocellulosic components. Unfortunately, these highly desired properties exist in pathways that are tightly regulated according to the host's evolved needs and therefore may not be suitable in their native state for production scale. A longstanding challenge in metabolic and genetic engineering is determining whether to improve the isolate host's production capacity or whether to transplant the desired genes or pathways into an industrial model host, such as E. coli or S. cerevisiae ; these important considerations and trade-offs are reviewed elsewhere 99.
+The example of the microbial production of biobutanol, a higher energy density alternative to ethanol, provides a useful glimpse into these design trade-offs. Butanol is converted naturally from acetyl-CoA by Clostridium acetobutylicum 100.
+ However, it is produced in low yields and as a mixture with acetone and ethanol, so substantial cellular engineering of a microorganism for which standard molecular biology techniques do not apply is needed to produce usable amounts of butanol 101 , 102.
+ Furthermore, importing the biosynthetic genes into an industrial microbial host can lead to metabolic imbalances 103.
+ In an altogether different approach, Liao and colleagues 104 bypassed standard fermentation pathways and recognized that a broad set of the 2-keto acid intermediates of E. coli amino acid biosynthesis could be synthetically shunted to achieve high-yield production of butanol and other higher alcohols in two enzymatic steps.
+Indeed, complementary to efforts in traditional metabolic and genetic engineering is the use of engineering principles for constructing functional, predictable and non-native biological pathways de novo to control and improve microbial production. In an exemplary illustration of this, Keasling and colleagues engineered the microbial production of precursors to the antimalarial drug artemisinin to industrial levels 105 , 106 ( Box 4 ). There are now many such examples of the successful application of synthetic approaches to biosynthetic pathway construction — such approaches have been used in the microbial production of fatty-acid-derived fuels and chemicals (such as fatty esters, fatty alcohols and waxes) 107 , methyl halide-derived fuels and chemicals 108 , polyketide synthases that make cholesterol-lowering drugs 109 , and polyketides made from megaenzymes that are encoded by very large synthetic gene clusters 110.
+Optimizing pathway flux.
+ After biosynthetic pathways have been constructed, the expression levels of all of the components need to be orchestrated to optimize metabolic flux and achieve high product titres. A standard approach is to drive the expression of pathway components with strong and exogenously tunable promoters, such as the P L tet, P L lac, and P BAD promoters from the tet , lac and ara operons of E. coli , respectively. To this end, there are ongoing synthetic biology efforts to create and characterize more reusable, biological control elements based on promoters for predictably tuning expression levels 111 , 112.
+ Further to this, synthetic biologists have devised a number of alternative methods for obtaining biological pathway balance, ranging from reconfiguring network connectivity to fine-tuning individual components. A richer discussion of these topics, including the fine-tuning of parts, the application of model-guided approaches and the development of next-generation interoperable parts, is presented elsewhere 113.
+ In Box 5 and Box 6 we detail several synthetic biology strategies that specifically pertain to the optimization of metabolic pathway flux. These strategies range from those driven by evolutionary techniques, to those driven by rational design and in silico models, to those that combine both approaches.
+Programming novel functionality and materials.
+ Beyond facilitating metabolic tasks, synthetic systems can infuse novel functionality into engineered organisms for production purposes or for building new materials. Early work in the field laid the groundwork for constructing basic circuits that could sense and process signals, perform logic operations and actuate biological responses 114.
+ Wiring these modules together to bring about reliable, higher-order functionality is one of the next major goals of synthetic biology 113 , and an important application of this objective is the layering of 'smart' control mechanisms over metabolic engineering. For instance, circuits designed to sense the bioreactor environment and shift metabolic phases accordingly would further improve biofuel production. Alternatively, autonomous timing circuits could be used to shut down metabolic processes after a prescribed duration of time. Biological timers of this sort have been developed using genetic toggle switches that were deliberately rendered imbalanced through model-guided promoter engineering 112.
+ These genetic timers were used to program the time-dependent flocculation of yeast cells to facilitate the separation of cells from, for instance, the alcohol produced in industrial fermentation processes.
+Synthetic control systems can also be used to extract and purify the synthesized product. This is particularly important in the production of recombinant proteins, bioplastics and other large biomaterials, which can accumulate inside cells, cause the formation of inclusion bodies and become toxic to cells if they are present at high titres. To export recombinant spider-silk monomers, Widmaier et al.
+115 searched for a secretion system that would enable efficient and indiscriminate secretion of proteins through both bacterial membranes. The Salmonella type III secretion system (T3SS) not only fulfils these criteria but also possesses a natural regulatory scheme that ties expression of the protein to be secreted to the secretion capacity of the cell; as a result, the desired protein is only expressed when sufficient secretion complexes have been built. To obtain superior secretion rates of recombinant silk protein, the researchers needed only to engineer a control circuit that hitches the heterologous silk-protein-producing genes to the innate genetic machinery for environmental sensing and secretion commitment.
+Finally, there is an emerging branch of synthetic biology that seeks to program coordinated behaviour in populations of cells, which could lead to the fabrication of novel biomaterials for various applications. The engineering of synthetic multicellular systems is typically achieved with cell–cell communication and associated intracellular signal processing modules, as was elegantly used by Hasty and colleagues 23 to bring about synchronized oscillations in a population of bacterial cells. Weiss and colleagues 24 , 31 have similarly done pioneering work in building biomolecular signal-processing architectures that can filter communication signals originating from 'sender' cells. These systems, which can be programmed to form intricate multicellular patterns from a solid-phase cellular lawn, would aid the development of fabrication-free scaffolds for tissue engineering.
+Future challenges and conclusions The future of translational synthetic biology hinges on the development of reliable means for connecting smaller functional circuits to realize higher-order networks with predictable behaviours. In a previous article 113 , we outlined four research efforts aimed at improving and accelerating the overall design cycle and allowing more seamless integration of biological circuitry ( Box 7 ).
+Beyond the challenge of improving the design cycle, applied synthetic biology would benefit from once again summoning the original inspiration of biocomputing. The ability to program higher-level decision-making into synthetic networks would yield more robust and dynamic organisms, including ones that can accomplish many tasks simultaneously. Furthermore, as adaptive and predictive behaviours are naturally present in all organisms (including microbes) 116 , 117 , synthetic learning networks built from genetic and biological parts 118 , 119 would infuse engineered organisms with more sophisticated automation for biosensing and related applications.
+Finally, the majority of synthetic biology is currently practiced in microbes. However, many of the most pressing problems, and in particular those of human health, are inherently problems with mammalian systems. Therefore, a more concerted effort towards advancing mammalian synthetic biology will be crucial for next-generation therapeutic solutions, including the engineering of synthetic gene networks for stem-cell generation and differentiation.
+By addressing such challenges, we will be limited not by the technicalities of construction or the robustness of synthetic gene networks but only by the imagination of researchers and the number of societal problems and applications that synthetic biology can resolve.
+Box 1 | Early synthetic biology designs: switches and oscillators Switches and oscillators that occur in electronic systems are also seen in biology and have been engineered into synthetic biological systems.
+Switches In electronics, one of the most basic elements for storing memory is the reset–set (RS) latch based on logical NOR gates.
+ This device is bistable in that it possesses two stable states that can be toggled with the delivery of specified inputs. Upon removal of the input, the circuit retains memory of its current state indefinitely. These forms of memory and state switching have important functions in biology, such as in the differentiation of cells from an initially undifferentiated state. One means by which cellular systems can achieve bistability is through genetic mutual repression. The natural P R –P RM genetic switch from bacteriophage λ, which uses this network architecture to govern the lysis–lysogeny decision, consists of two promoters that are each repressed by the gene product of the other (that is, by the Cro and CI repressor proteins). The genetic toggle switch 8 constructed by our research group is a synthetically engineered version of this co-repressed gene regulation scheme. In one version of the genetic toggle, the P L promoter from λ phage was used to drive transcription of lacI , the product of which represses a second promoter, Ptrc2 (a lac promoter variant). Conversely, Ptrc2 drives expression of a gene ( cI-ts ) encoding the temperature-sensitive (ts) λ CI repressor protein, which inhibits the P L promoter. The activity of the circuit is monitored through the expression of a GFPpromoter. The system can be toggled in one direction with the exogenous addition of the chemical inducer isopropyl-β- D -thiogalactopyranoside (IPTG) or in the other direction with a transient increase in temperature. Importantly, upon removal of these exogenous signals, the system retains its current state, creating a cellular form of memory.
+Oscillators Timing mechanisms, much like memory, are fundamental to many electronic and biological systems. Electronic timekeeping can be achieved with basic oscillator circuits — such as the LC circuit (inductor L and capacitor C) — which act as resonators for producing periodic electronic signals. Biological timekeeping, which is widespread among living organisms 120 , is achieved with circadian clocks and similar oscillator circuits, such as the one responsible for synchronizing the crucial processes of photosynthesis and nitrogen fixation in cyanobacteria. The circadian clock of cyanobacteria is based on, among other regulatory mechanisms, intertwined positive and negative feedback loops on the clock genes kaiA , kaiB and kaiC.
+ Elowitz and Leibler constructed a synthetic genetic oscillator based not on clock genes but on standard transcriptional repressors (the repressilator) 9.
+ Here, a cyclic negative feedback loop composed of three promoter–gene pairs, in which the 'first' promoter in the cascade drives expression of the 'second' promoter's repressor, and so on, was used to drive oscillatory output in gene expression.
+Box 2 | Synthetic biosensors: transcriptional and translational architectures and examples Biosensors consist of two basic modules (see the figure): sensitive elements for recognizing and binding analytes, and transducer modules for transmitting and reporting signals.
+Transcriptional Transcriptional biosensors (part a ) are built by linking environment-responsive promoters to engineered gene circuits for programmed transcriptional changes. In the example shown, a transcriptional AND gate was designed to sense and report only the simultaneous presence of two environmental signals (for example, salicylate and arabinose) 25.
+ At one gate input, the researchers encoded an environment-responsive promoter (for example, P BAD ) that activates transcription of a T7 RNA polymerase gene in response to a single environmental signal (for example, arabinose). The gene, however, carries internally encoded amber stop codons (red spiked circles) that function to block translation of its transcript. Activation of the second gate input is the key to unlocking translation; specifically, translation can be induced when a second promoter (for example, P sal ) activates transcription of the supD amber suppressor tRNA in response to a second unique signal (for example, salicylate). In other words, only when the two environmental signals are simultaneously present can the T7 RNA polymerase be faithfully expressed and used to activate an output T7 promoter. This is an example of how sophisticated specificity can be programmed into a transducer module by creatively linking the sensory information of multiple sensitive elements. Furthermore, the design is transcriptionally modular in that different sets of environment-responsive promoters can be interfaced to the AND gate.
+Translational Translational biosensors (part b ) are typically built by linking RNA aptamer domains to RNA regulatory domains. The example shown is an OFF 'antiswitch'. Here, the small molecule theophylline is recognized and bound by the aptamer stem of the RNA biosensor. This causes a conformational change in the molecule that liberates the antisense domain from its sequestering stem loop and allows it to inhibit translation of an output reporter 11.
+Box 3 | Synthetic biosensors: post-translational and hybrid architectures and examples A basic biosensor has two modules (see the figure): the sensitive element recognizes and binds analytes, whereas the transducer module transmits and reports signals.
+Post-translational Post-translational biosensors (part a ) consist of membrane-bound protein receptors that trigger signal transduction cascades through signalling proteins, such as response regulators of two-component systems. In the example shown, a synthetic protein scaffold was engineered to physically localize the pathway components of the yeast mitogen-activated protein kinase (MAPK) pathway, which here is being triggered by the mating α-factor 79.
+ By recruiting pathway positive and negative modulators (±) to the scaffold, the system can be tuned to enable desired responses to upstream signals (for example, accelerated, delayed or ultrasensitive responses).
+Hybrid The hybrid example (part b ) shows a synthetic genetic edge detection circuit 82.
+ The sensitive element is a light–dark sensor, Cph8, made as a chimaera of the photoreceptor domain of the cyanobacteria phytochrome Cph1 and the kinase domain of Escherichia coli EnvZ. This synthetic sensor activates an engineered gene circuit that combines cell–cell communication (genes and promoters of the Lux operon) with a logical AND gate (P lux-λ ) to trace the edges of an image. Specifically, the absence of light triggers Cph8 kinase activity, which correspondingly activates the ompC promoter. Cells not receiving light will therefore produce the cell–cell communication molecule 3-oxohexanoyl-homoserine lactone (AHL; yellow circle) through expression of its biosynthetic enzyme LuxI. In addition, these cells will produce the transcriptional repressor CI (grey oval). AHL binds to the constitutively expressed transcription factor LuxR (light blue oval) to activate expression from the P lux-λ promoter, which is simultaneously and dominantly repressed by CI. The result is that only cells that receive light (and therefore do not express the transcriptional repressor CI) and are nearby to AHL-producing dark cells will activate the final gate and produce pigment through β-galactosidase activity (encoded by lacZ ).
+Box 4 | The impact of synthetic biology on the therapeutic spectrum Drug discovery Part a of the figure shows a synthetic mammalian gene circuit that enabled drug discovery for antituberculosis compounds 90.
+ The antibiotic ethionamide is rendered cytotoxic to Mycobacterium tuberculosis by the enzyme EthA in infected cells. Because EthA is natively repressed by EthR, resistance to ethionamide treatment is common. In the gene circuit, a fusion of EthR and the mammalian transactivator VP16 binds a minimal promoter (P min ) with a synthetic EthR operator site and activates expression of the reporter gene SEAP (human placental secreted alkaline phosphatase). This platform allows for the rapid screening of EthR inhibitors in mammalian cells.
+Treatment and delivery Part b shows a synthetic mammalian genetic switch for tight, tunable and reversible control of a desired gene for therapeutic or gene-delivery applications. In the OFF configuration (upper panel), expression of the gene of interest (green) is repressed at the levels of both transcription and translation. Constitutively expressed LacI repressor (red) binds to the lac operator sites in the transgene module of the gene of interest, therefore repressing its transcription. Any transcriptional leakage is repressed at the level of translation by an interfering RNA (blue), which targets the gene's 3′ UTR. The system is switched ON (lower panel) by the addition of isopropyl-β- D -thiogalactopyranoside (IPTG), which binds LacI repressor proteins and consequently relieves both forms of repression.
+Drug production and access The discovery of drugs does not always translate to the people who need them the most because drug production processes can be difficult and costly. Antibiotics are industrially produced from microbes and fungi, and are therefore widespread and cheap. Conversely, many other drugs are isolated from hosts that are not as amenable to large-scale production and are therefore costly and in short supply. Such drugs include the antimalaria drug artemisinin and the anticancer drug taxol. Fortunately, global access to drugs is being enabled by hybrid synthetic biology and metabolic engineering strategies for the microbial production of rare natural products. In the case of artemisinin (part c ), there exist two biosynthetic pathways for the synthesis of the universal precursors to all isoprenoids, the large and diverse family of natural products of which artemisinin is a member. The native isoprenoid pathway found in Escherichia coli (the deoxyxylulose 5-phosphate (DXP) pathway) has been difficult to optimize, so instead researchers have synthetically constructed and tested the entire Saccharomyces cerevisiae mevalonate-dependent (MEV) pathway in E. coli in a piece-wise fashion (for example, by separating the 'top' and 'bottom' operons). The researchers initially used E. coli as a simple, orthogonal host platform to construct, debug and optimize the large metabolic pathway 105.
+ They then linked the optimized heterologous pathway to a codon-optimized form of the plant terpene synthase ADS to funnel metabolic production to the specific terpene precursor to artemisinin. This work allowed them to build a full, optimized solution that could be ultimately and seamlessly deployed back into S. cerevisiae for cost-effective synthesis and purification of industrial quantities of the immediate drug precursor of artemisinin 106.
+ FPP, farnesyl pyrophosphate.
+Box 5 | Controlling metabolic flux: evolutionary strategies and rational design Evolutionary strategies In the production of artemisinin precursors, the native Escherichia coli isoprenoid pathway (the deoxyxylulose 5-phosphate (DXP) pathway) was eschewed in favour of a heterologous pathway so as to circumvent the complex regulatory control imposed by the host ( Box 4 ). In an alternative method of relieving regulatory control over the large number of DXP pathway components, Wang et al.
+121 diversified and, as a result, optimized the native DXP biosynthetic pathway in E. coli (see the figure, part a ). The researchers developed a rapid, automated method for the in vivo directed evolution of pathways, which they termed multiplex automated genome engineering (MAGE). They then applied it to evolve the translational efficiencies of DXP pathway components to achieve maximal lycopene production. Specifically, cells were subjected to cycles of genetic modifications (through oligo-mediated allelic replacement) in an automated fashion to explore sufficient genomic diversity for optimizing biosynthetic pathways at laboratory timescales.
+Rational design At the other end of the spectrum are strategies that rely on quantitative models and blueprints for the rational design of optimized networks and pathways (part b ). Typically, a component of interest (for example, an engineered promoter (P*) or ribosomal binding site (RBS*) sequence) will be built into a simple test network. The network and its input–output data will then be fed into a model, which attempts to determine a parameter set that optimally describes the component's dynamics within the framework of the model. Finally, the optimized parameter set will be used to forward-engineer new networks and components. For example, stochastic biochemical models have been developed to capture the expression dynamics of synthetically engineered promoters; these models were subsequently used to predict the correct in vivo behaviour of different and more complex gene networks built from the modelled components 122 , 123.
+ Similarly, at the level of translation, thermodynamic models that predict the relative translation initiation rates of proteins can be used to rationally forward-engineer synthetic RBS sequences to give desired expression levels 124.
+ Such techniques harness modelled genetic parameters (transcriptional or translational) to predict the level of expression of proteins and enzymes in a network. DMAPP, dimethylallyl diphosphate; FPP, farnesyl diphosphate; G3P, glyceraldehyde 3-phosphate; IPP, isopentenyl diphosphate.
+Box 6 | Controlling metabolic flux: hybrid approaches In a hybrid rational–combinatorial approach, Dueber et al.
+125 suggested that metabolic flux could be controlled by spatially recruiting the enzymes of a desired biosynthetic pathway using synthetic protein scaffolds. To construct the enzyme scaffolding, the researchers tethered protein–protein interaction domains (for example, GBD, SH3 and PDZ domains) from metazoan signalling proteins. These domains recognize and bind cognate peptides that were fused to the enzymes to be recruited (acetoacetyl-CoA thiolase (AtoB) from Escherichia coli and HMG-CoA (HMBS) synthase and HMG-CoA reductase (HMGR) from Saccharomyces cerevisiae ). By varying the number of repeats of an interaction domain, the researchers could additionally control the stoichiometry of the enzymes recruited to the complex. Using the heterologous mevalonate-dependent (MEV) pathway in E. coli as a model, they combinatorially (albeit, at a substantially smaller scale) optimized the stoichiometry of the three enzymes responsible for producing mevalonate from acetyl-CoA. Finally, they showed that the optimized synthetic scaffold could substantially increase product titre while reducing the metabolic load on the host; in other words, their high product titres did not require the overexpression of biosynthetic enzymes in the cell.
+Box 7 | Recommendations for improving the synthetic biology design cycle Scaling up to larger and more complex biological systems while simultaneously minimizing interference among parts will require an expanded synthetic biology toolkit and, in particular, libraries of interoperable parts. Eukaryotic systems are fertile grounds for discovering such parts, as many synthetic biology devices are based on a small repertoire of bacterial and archaeal regulatory elements.
+Modelling and fine-tuning of synthetic networks should be emphasized, particularly as the network size and complexity increases. This will facilitate proper matching of input–output behaviours (that is, transfer functions) when distinct modules are connected.
+There is a need to develop new probes and high-throughput methods for the in vivo measurement of circuit dynamics to rapidly characterize parts and debug networks.
+Cellular testing platforms need to be developed to quicken the pace of identifying problematic network nodes and ease the failure-prone jumps associated with either building a more complex network or deploying a network in a more complex organism. These testing platforms could be cells engineered to have minimal genomes 126 , 127 , 128 , 129 or lower model organisms that have been equipped with specific machinery from higher organisms.
+References Monod, J. & Jacob, F. General conclusions: telenomic mechanisms in cellular metabolism, growth, and differentiation.
+Cold Spring Harb. Symp. Quant. Biol.
+26 , 389–401 (1961).
+CAS PubMed Google Scholar Glass, L. & Kauffman, S. A. The logical analysis of continuous, non-linear biochemical control networks.
+J. Theor. Biol.
+39 , 103–129 (1973).
+CAS PubMed Google Scholar Savageau, M. A. Comparison of classical and autogenous systems of regulation in inducible operons.
+Nature 252 , 546–549 (1974).
+CAS PubMed Google Scholar Kauffman, S. The large scale structure and dynamics of gene control circuits: an ensemble approach.
+J. Theor. Biol.
+44 , 167–190 (1974).
+CAS PubMed Google Scholar Glass, L. Classification of biological networks by their qualitative dynamics.
+J. Theor. Biol.
+54 , 85–107 (1975).
+CAS PubMed Google Scholar McAdams, H. H. & Arkin, A. Towards a circuit engineering discipline.
+Curr. Biol.
+10 , R318–R320 (2000).
+CAS PubMed Google Scholar McAdams, H. H. & Shapiro, L. Circuit simulation of genetic networks.
+Science 269 , 650–656 (1995).
+CAS PubMed Google Scholar Gardner, T. S., Cantor, C. R. & Collins, J. J. Construction of a genetic toggle switch in Escherichia coli.
+Nature 403 , 339–342 (2000).
+CAS PubMed Google Scholar Elowitz, M. B. & Leibler, S. A synthetic oscillatory network of transcriptional regulators.
+Nature 403 , 335–338 (2000).
+References 8 and 9 describe synthetic biology's first devices — the genetic toggle switch and the repressilator — and establish the engineering-based methodology for constructing sophisticated, dynamic behaviours in biological systems from simple regulatory elements.
+CAS PubMed Google Scholar Atkinson, M. R., Savageau, M. A., Myers, J. T. & Ninfa, A. J. Development of genetic circuitry exhibiting toggle switch or oscillatory behavior in Escherichia coli.
+Cell 113 , 597–607 (2003).
+Article CAS PubMed Google Scholar Bayer, T. S. & Smolke, C. D. Programmable ligand-controlled riboregulators of eukaryotic gene expression.
+Nature Biotech.
+23 , 337–343 (2005).
+This paper establishes an RNA scaffold for the ligand-dependent ON–OFF switching of gene expression.
+CAS Google Scholar Deans, T. L., Cantor, C. R. & Collins, J. J. A tunable genetic switch based on RNAi and repressor proteins for regulating gene expression in mammalian cells.
+Cell 130 , 363–372 (2007).
+CAS PubMed Google Scholar Dueber, J. E., Yeh, B. J., Chak, K. & Lim, W. A. Reprogramming control of an allosteric signaling switch through modular recombination.
+Science 301 , 1904–1908 (2003).
+The authors provide a modular framework for programming the input–output behaviour of eukaryotic signalling-protein circuits, and construct synthetic switch proteins with a rich set of gating behaviours.
+CAS PubMed Google Scholar Friedland, A. E. et al. Synthetic gene networks that count.
+Science 324 , 1199–1202 (2009).
+CAS PubMed Central PubMed Google Scholar Ham, T. S., Lee, S. K., Keasling, J. D. & Arkin, A. P. A tightly regulated inducible expression system utilizing the fim inversion recombination switch.
+Biotechnol. Bioeng.
+94 , 1–4 (2006).
+CAS PubMed Google Scholar Ham, T. S., Lee, S. K., Keasling, J. D. & Arkin, A. P. Design and construction of a double inversion recombination switch for heritable sequential genetic memory.
+PLoS ONE 3 , e2815 (2008).
+PubMed Central PubMed Google Scholar Kramer, B. P. & Fussenegger, M. Hysteresis in a synthetic mammalian gene network.
+Proc. Natl Acad. Sci. USA 102 , 9517–9522 (2005).
+CAS PubMed PubMed Central Google Scholar Kramer, B. P. et al. An engineered epigenetic transgene switch in mammalian cells.
+Nature Biotech.
+22 , 867–870 (2004).
+CAS Google Scholar Ajo-Franklin, C. M. et al. Rational design of memory in eukaryotic cells.
+Genes Dev.
+21 , 2271–2276 (2007).
+CAS PubMed Central PubMed Google Scholar Fung, E. et al. A synthetic gene-metabolic oscillator.
+Nature 435 , 118–122 (2005).
+CAS PubMed Google Scholar Stricker, J. et al. A fast, robust and tunable synthetic gene oscillator.
+Nature 456 , 516–519 (2008).
+CAS PubMed PubMed Central Google Scholar Tigges, M., Marquez-Lago, T. T., Stelling, J. & Fussenegger, M. A tunable synthetic mammalian oscillator.
+Nature 457 , 309–312 (2009).
+CAS PubMed Google Scholar Danino, T., Mondragon-Palomino, O., Tsimring, L. & Hasty, J. A synchronized quorum of genetic clocks.
+Nature 463 , 326–330 (2010).
+CAS PubMed Central PubMed Google Scholar Basu, S., Mehreja, R., Thiberge, S., Chen, M. T. & Weiss, R. Spatiotemporal control of gene expression with pulse-generating networks.
+Proc. Natl Acad. Sci. USA 101 , 6355–6360 (2004).
+CAS PubMed PubMed Central Google Scholar Anderson, J. C., Voigt, C. A. & Arkin, A. P. Environmental signal integration by a modular AND gate.
+Mol. Syst. Biol.
+3 , 133 (2007).
+PubMed Central PubMed Google Scholar Guet, C. C., Elowitz, M. B., Hsing, W. & Leibler, S. Combinatorial synthesis of genetic networks.
+Science 296 , 1466–1470 (2002).
+CAS PubMed Google Scholar Rackham, O. & Chin, J. W. Cellular logic with orthogonal ribosomes.
+J. Am. Chem. Soc.
+127 , 17584–17585 (2005).
+CAS PubMed Google Scholar Rinaudo, K. et al. A universal RNAi-based logic evaluator that operates in mammalian cells.
+Nature Biotech.
+25 , 795–801 (2007).
+CAS Google Scholar Stojanovic, M. N. & Stefanovic, D. A deoxyribozyme-based molecular automaton.
+Nature Biotech.
+21 , 1069–1074 (2003).
+Article CAS Google Scholar Win, M. N. & Smolke, C. D. Higher-order cellular information processing with synthetic RNA devices.
+Science 322 , 456–460 (2008).
+CAS PubMed Central PubMed Google Scholar Basu, S., Gerchman, Y., Collins, C. H., Arnold, F. H. & Weiss, R. A synthetic multicellular system for programmed pattern formation.
+Nature 434 , 1130–1134 (2005).
+An excellent demonstration of synthetic control over a population of cells. By splitting the V. fischeri quorum-sensing circuit between 'sender' and 'receiver' cells, bacteria were programmed to communicate to generate intricate two-dimensional patterns.
+CAS PubMed Google Scholar Hooshangi, S., Thiberge, S. & Weiss, R. Ultrasensitivity and noise propagation in a synthetic transcriptional cascade.
+Proc. Natl Acad. Sci. USA 102 , 3581–3586 (2005).
+CAS PubMed PubMed Central Google Scholar Sohka, T. et al. An externally tunable bacterial band-pass filter.
+Proc. Natl Acad. Sci. USA 106 , 10135–10140 (2009).
+CAS PubMed PubMed Central Google Scholar Kobayashi, H. et al. Programmable cells: interfacing natural and engineered gene networks.
+Proc. Natl Acad. Sci. USA 101 , 8414–8419 (2004).
+CAS PubMed PubMed Central Google Scholar You, L., Cox, R. S., Weiss, R. & Arnold, F. H. Programmed population control by cell–cell communication and regulated killing.
+Nature 428 , 868–871 (2004).
+CAS PubMed Google Scholar Mukherji, S. & van Oudenaarden, A. Synthetic biology: understanding biological design from synthetic circuits.
+Nature Rev. Genet.
+10 , 859–871 (2009).
+CAS PubMed Google Scholar Brown, M. et al.
+Lac repressor can regulate expression from a hybrid SV40 early promoter containing a lac operator in animal cells.
+Cell 49 , 603–612 (1987).
+CAS PubMed Google Scholar Deuschle, U. et al. Regulated expression of foreign genes in mammalian cells under the control of coliphage T3 RNA polymerase and lac repressor.
+Proc. Natl Acad. Sci. USA 86 , 5400–5404 (1989).
+CAS PubMed PubMed Central Google Scholar Hu, M. C. & Davidson, N. The inducible lac operator–repressor system is functional in mammalian cells.
+Cell 48 , 555–566 (1987).
+CAS PubMed Google Scholar Lutz, R. & Bujard, H. Independent and tight regulation of transcriptional units in Escherichia coli via the LacR/O, the TetR/O and AraC/I1–I2 regulatory elements.
+Nucleic Acids Res.
+25 , 1203–1210 (1997).
+CAS PubMed Central PubMed Google Scholar Fussenegger, M. et al. Streptogramin-based gene regulation systems for mammalian cells.
+Nature Biotech.
+18 , 1203–1208 (2000).
+CAS Google Scholar Gossen, M. & Bujard, H. Tight control of gene expression in mammalian cells by tetracycline-responsive promoters.
+Proc. Natl Acad. Sci. USA 89 , 5547–5551 (1992).
+CAS PubMed PubMed Central Google Scholar Weber, W. et al. Macrolide-based transgene control in mammalian cells and mice.
+Nature Biotech.
+20 , 901–907 (2002).
+CAS Google Scholar Neddermann, P. et al. A novel, inducible, eukaryotic gene expression system based on the quorum-sensing transcription factor TraR.
+EMBO Rep.
+4 , 159–165 (2003).
+CAS PubMed Central PubMed Google Scholar Weber, W. et al.
+Streptomyces -derived quorum-sensing systems engineered for adjustable transgene expression in mammalian cells and mice.
+Nucleic Acids Res.
+31 , e71 (2003).
+PubMed Central PubMed Google Scholar Malphettes, L. et al. A novel mammalian expression system derived from components coordinating nicotine degradation in arthrobacter nicotinovorans pAO1.
+Nucleic Acids Res.
+33 , e107 (2005).
+PubMed Central PubMed Google Scholar Mullick, A. et al. The cumate gene-switch: a system for regulated expression in mammalian cells.
+BMC Biotechnol.
+6 , 43 (2006).
+PubMed Central PubMed Google Scholar Weber, W., Link, N. & Fussenegger, M. A genetic redox sensor for mammalian cells.
+Metab. Eng.
+8 , 273–280 (2006).
+CAS PubMed Google Scholar Weber, W. et al. Gas-inducible transgene expression in mammalian cells and mice.
+Nature Biotech.
+22 , 1440–1444 (2004).
+CAS Google Scholar Boorsma, M. et al. A temperature-regulated replicon-based DNA expression system.
+Nature Biotech.
+18 , 429–432 (2000).
+CAS Google Scholar Weber, W. et al. Conditional human VEGF-mediated vascularization in chicken embryos using a novel temperature-inducible gene regulation (TIGR) system.
+Nucleic Acids Res.
+31 , e69 (2003).
+PubMed Central PubMed Google Scholar Weber, W. et al. A synthetic mammalian electro-genetic transcription circuit.
+Nucleic Acids Res.
+37 , e33 (2009).
+PubMed Central PubMed Google Scholar Eddy, S. R. Non-coding RNA genes and the modern RNA world.
+Nature Rev. Genet.
+2 , 919–929 (2001).
+CAS PubMed Google Scholar Doudna, J. A. & Cech, T. R. The chemical repertoire of natural ribozymes.
+Nature 418 , 222–228 (2002).
+CAS PubMed Google Scholar Guerrier-Takada, C., Gardiner, K., Marsh, T., Pace, N. & Altman, S. The RNA moiety of ribonuclease P is the catalytic subunit of the enzyme.
+Cell 35 , 849–857 (1983).
+CAS PubMed Google Scholar Kruger, K. et al. Self-splicing RNA: autoexcision and autocyclization of the ribosomal RNA intervening sequence of Tetrahymena.
+Cell 31 , 147–157 (1982).
+CAS PubMed Google Scholar Lee, R. C., Feinbaum, R. L. & Ambros, V. The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14.
+Cell 75 , 843–854 (1993).
+CAS PubMed Google Scholar Stougaard, P., Molin, S. & Nordstrom, K. RNAs involved in copy-number control and incompatibility of plasmid R1.
+Proc. Natl Acad. Sci. USA 78 , 6008–6012 (1981).
+CAS PubMed PubMed Central Google Scholar Wagner, E. G. H. & Simons, R. W. Antisense RNA control in bacteria, phages, and plasmids.
+Annu. Rev. Microbiol.
+48 , 713–742 (1994).
+CAS PubMed Google Scholar Isaacs, F. J., Dwyer, D. J. & Collins, J. J. RNA synthetic biology.
+Nature Biotech.
+24 , 545–554 (2006).
+CAS Google Scholar Gelfand, M. S., Mironov, A. A., Jomantas, J., Kozlov, Y. I. & Perumov, D. A. A conserved RNA structure element involved in the regulation of bacterial riboflavin synthesis genes.
+Trends Genet.
+15 , 439–442 (1999).
+CAS PubMed Google Scholar Johansson, J. et al. An RNA thermosensor controls expression of virulence genes in Listeria monocytogenes.
+Cell 110 , 551–561 (2002).
+PubMed Google Scholar Lease, R. A. & Belfort, M. A trans -acting RNA as a control switch in Escherichia coli : DsrA modulates function by forming alternative structures.
+Proc. Natl Acad. Sci. USA 97 , 9919–9924 (2000).
+CAS PubMed Central PubMed Google Scholar Majdalani, N., Hernandez, D. & Gottesman, S. Regulation and mode of action of the second small RNA activator of RpoS translation, RprA.
+Mol. Microbiol.
+46 , 813–826 (2002).
+CAS PubMed Google Scholar Mandal, M., Boese, B., Barrick, J. E., Winkler, W. C. & Breaker, R. R. Riboswitches control fundamental biochemical pathways in Bacillus subtilis and other bacteria.
+Cell 113 , 577–586 (2003).
+CAS PubMed Google Scholar Mironov, A. S. et al. Sensing small molecules by nascent RNA: a mechanism to control transcription in bacteria.
+Cell 111 , 747–756 (2002).
+CAS PubMed Google Scholar Morita, M. T. et al. Translational induction of heat shock transcription factor σ 32 : evidence for a built-in RNA thermosensor.
+Genes Dev.
+13 , 655–665 (1999).
+CAS PubMed Central PubMed Google Scholar Winkler, W., Nahvi, A. & Breaker, R. R. Thiamine derivatives bind messenger RNAs directly to regulate bacterial gene expression.
+Nature 419 , 952–956 (2002).
+CAS PubMed Google Scholar Winkler, W. C., Nahvi, A., Roth, A., Collins, J. A. & Breaker, R. R. Control of gene expression by a natural metabolite-responsive ribozyme.
+Nature 428 , 281–286 (2004).
+CAS PubMed Google Scholar Winkler, W. C. & Breaker, R. R. Regulation of bacterial gene expression by riboswitches.
+Annu. Rev. Microbiol.
+59 , 487–517 (2005).
+CAS PubMed Google Scholar Good, L. Translation repression by antisense sequences.
+Cell. Mol. Life Sci.
+60 , 854–861 (2003).
+CAS PubMed Google Scholar Cox, J. C. et al. Automated selection of aptamers against protein targets translated in vitro : from gene to aptamer.
+Nucleic Acids Res.
+30 , e108 (2002).
+PubMed Central PubMed Google Scholar Ellington, A. D. & Szostak, J. W.
+In vitro selection of RNA molecules that bind specific ligands.
+Nature 346 , 818–822 (1990).
+CAS PubMed Google Scholar Hermann, T. & Patel, D. J. Adaptive recognition by nucleic acid aptamers.
+Science 287 , 820–825 (2000).
+CAS PubMed Google Scholar Tuerk, C. & Gold, L. Systematic evolution of ligands by exponential enrichment: RNA ligands to bacteriophage T4 DNA polymerase.
+Science 249 , 505–510 (1990).
+CAS PubMed Google Scholar Yen, L. et al. Exogenous control of mammalian gene expression through modulation of RNA self-cleavage.
+Nature 431 , 471–476 (2004).
+CAS PubMed Google Scholar Looger, L. L., Dwyer, M. A., Smith, J. J. & Hellinga, H. W. Computational design of receptor and sensor proteins with novel functions.
+Nature 423 , 185–190 (2003).
+CAS PubMed Google Scholar Skerker, J. M. et al. Rewiring the specificity of two-component signal transduction systems.
+Cell 133 , 1043–1054 (2008).
+CAS PubMed Central PubMed Google Scholar Bashor, C. J., Helman, N. C., Yan, S. & Lim, W. A. Using engineered scaffold interactions to reshape MAP kinase pathway signaling dynamics.
+Science 319 , 1539–1543 (2008).
+CAS PubMed Google Scholar Levskaya, A. et al. Synthetic biology: engineering Escherichia coli to see light.
+Nature 438 , 441–442 (2005).
+CAS PubMed Google Scholar Levskaya, A., Weiner, O. D., Lim, W. A. & Voigt, C. A. Spatiotemporal control of cell signalling using a light-switchable protein interaction.
+Nature 461 , 997–1001 (2009).
+CAS PubMed Central PubMed Google Scholar Tabor, J. J. et al. A synthetic genetic edge detection program.
+Cell 137 , 1272–1281 (2009).
+An outstanding example of how smaller circuits can be combined to realize larger genetic programs with sophisticated and predictable behaviour. Here, logic gates and cell–cell communication modules were coupled to program a population of bacteria to sense and trace the edges of a projected image.
+PubMed Central PubMed Google Scholar Ferrari, S. et al. Mutations of the Igβ gene cause agammaglobulinemia in man.
+J. Exp. Med.
+204 , 2047–2051 (2007).
+CAS PubMed Central PubMed Google Scholar Becker, M. M. et al. Synthetic recombinant bat SARS-like coronavirus is infectious in cultured cells and in mice.
+Proc. Natl Acad. Sci. USA 105 , 19944–19949 (2008).
+CAS PubMed PubMed Central Google Scholar Tumpey, T. M. et al. Characterization of the reconstructed 1918 Spanish influenza pandemic virus.
+Science 310 , 77–80 (2005).
+CAS PubMed Google Scholar Isaacs, F. J. et al. Engineered riboregulators enable post-transcriptional control of gene expression.
+Nature Biotech.
+22 , 841–847 (2004).
+CAS Google Scholar Dwyer, D. J., Kohanski, M. A., Hayete, B. & Collins, J. J. Gyrase inhibitors induce an oxidative damage cellular death pathway in Escherichia coli.
+Mol. Syst. Biol.
+3 , 91 (2007).
+PubMed Central PubMed Google Scholar Kohanski, M. A., Dwyer, D. J., Hayete, B., Lawrence, C. A. & Collins, J. J. A common mechanism of cellular death induced by bactericidal antibiotics.
+Cell 130 , 797–810 (2007).
+CAS PubMed Google Scholar Kohanski, M. A., Dwyer, D. J., Wierzbowski, J., Cottarel, G. & Collins, J. J. Mistranslation of membrane proteins and two-component system activation trigger antibiotic-mediated cell death.
+Cell 135 , 679–690 (2008).
+CAS PubMed Central PubMed Google Scholar Weber, W. et al. A synthetic mammalian gene circuit reveals antituberculosis compounds.
+Proc. Natl Acad. Sci. USA 105 , 9994–9998 (2008).
+CAS PubMed PubMed Central Google Scholar Lu, T. K. & Collins, J. J. Dispersing biofilms with engineered enzymatic bacteriophage.
+Proc. Natl Acad. Sci. USA 104 , 11197–11202 (2007).
+CAS PubMed PubMed Central Google Scholar Lu, T. K. & Collins, J. J. Engineered bacteriophage targeting gene networks as adjuvants for antibiotic therapy.
+Proc. Natl Acad. Sci. USA 106 , 4629–4634 (2009).
+In references 91 and 92, engineered bacteriophages were used to deliver synthetic enzymes and perturb gene networks to combat antibiotic-resistant strains of bacteria.
+CAS PubMed PubMed Central Google Scholar Ramachandra, M. et al. Re-engineering adenovirus regulatory pathways to enhance oncolytic specificity and efficacy.
+Nature Biotech.
+19 , 1035–1041 (2001).
+CAS Google Scholar Anderson, J. C., Clarke, E. J., Arkin, A. P. & Voigt, C. A. Environmentally controlled invasion of cancer cells by engineered bacteria.
+J. Mol. Biol.
+355 , 619–627 (2006).
+This study provides a potential synthetic approach to cancer therapy. Bacteria were programmed to sense environmental cues of the tumour microenvironment and respond to them by invading malignant cells.
+CAS PubMed Google Scholar Stavreva, D. A. et al. Ultradian hormone stimulation induces glucocorticoid receptor-mediated pulses of gene transcription.
+Nature Cell Biol.
+11 , 1093–1102 (2009).
+CAS PubMed Google Scholar Weber, W. et al. A synthetic time-delay circuit in mammalian cells and mice.
+Proc. Natl Acad. Sci. USA 104 , 2643–2648 (2007).
+CAS PubMed PubMed Central Google Scholar Dean, J. T. et al. Resistance to diet-induced obesity in mice with synthetic glyoxylate shunt.
+Cell Metab.
+9 , 525–536 (2009).
+CAS PubMed Central PubMed Google Scholar Fortman, J. L. et al. Biofuel alternatives to ethanol: pumping the microbial well.
+Trends Biotechnol.
+26 , 375–381 (2008).
+CAS PubMed Google Scholar Alper, H. & Stephanopoulos, G. Engineering for biofuels: exploiting innate microbial capacity or importing biosynthetic potential? Nature Rev. Microbiol.
+7 , 715–723 (2009).
+CAS Google Scholar Jones, D. T. & Woods, D. R. Acetone-butanol fermentation revisited.
+Microbiol. Rev.
+50 , 484–524 (1986).
+CAS PubMed Central PubMed Google Scholar Tummala, S. B., Welker, N. E. & Papoutsakis, E. T. Design of antisense RNA constructs for downregulation of the acetone formation pathway of Clostridium acetobutylicum.
+J. Bacteriol.
+185 , 1923–1934 (2003).
+CAS PubMed Central PubMed Google Scholar Shao, L. et al. Targeted gene disruption by use of a group II intron (targetron) vector in Clostridium acetobutylicum.
+Cell Res.
+17 , 963–965 (2007).
+CAS PubMed Google Scholar Inui, M. et al. Expression of Clostridium acetobutylicum butanol synthetic genes in Escherichia coli.
+Appl. Microbiol. Biotechnol.
+77 , 1305–1316 (2008).
+CAS PubMed Google Scholar Atsumi, S., Hanai, T. & Liao, J. C. Non-fermentative pathways for synthesis of branched-chain higher alcohols as biofuels.
+Nature 451 , 86–89 (2008).
+CAS PubMed Google Scholar Martin, V. J., Pitera, D. J., Withers, S. T., Newman, J. D. & Keasling, J. D. Engineering a mevalonate pathway in Escherichia coli for production of terpenoids.
+Nature Biotech.
+21 , 796–802 (2003).
+CAS Google Scholar Ro, D. K. et al. Production of the antimalarial drug precursor artemisinic acid in engineered yeast.
+Nature 440 , 940–943 (2006).
+References 105 and 106 provide a paradigm for the application of synthetic biology to the construction and optimization of biosynthetic pathways for cost-effective and high-yield microbial production. In these papers, the authors demonstrate industrial production of the direct precursor to the antimalarial drug artemisinin as part of a broader effort to address worldwide shortages of rare drugs.
+CAS PubMed Google Scholar Steen, E. J. et al. Microbial production of fatty-acid-derived fuels and chemicals from plant biomass.
+Nature 463 , 559–562 (2010).
+CAS PubMed Google Scholar Bayer, T. S. et al. Synthesis of methyl halides from biomass using engineered microbes.
+J. Am. Chem. Soc.
+131 , 6508–6515 (2009).
+CAS PubMed Google Scholar Ma, S. M. et al. Complete reconstitution of a highly reducing iterative polyketide synthase.
+Science 326 , 589–592 (2009).
+CAS PubMed Central PubMed Google Scholar Kodumal, S. J. et al. Total synthesis of long DNA sequences: synthesis of a contiguous 32-kb polyketide synthase gene cluster.
+Proc. Natl Acad. Sci. USA 101 , 15573–15578 (2004).
+CAS PubMed PubMed Central Google Scholar Alper, H., Fischer, C., Nevoigt, E. & Stephanopoulos, G. Tuning genetic control through promoter engineering.
+Proc. Natl Acad. Sci. USA 102 , 12678–12683 (2005).
+CAS PubMed PubMed Central Google Scholar Ellis, T., Wang, X. & Collins, J. J. Diversity-based, model-guided construction of synthetic gene networks with predicted functions.
+Nature Biotech.
+27 , 465–471 (2009).
+CAS Google Scholar Lu, T. K., Khalil, A. S. & Collins, J. J. Next-generation synthetic gene networks.
+Nature Biotech.
+27 , 1139–1150 (2009).
+CAS Google Scholar Voigt, C. A. Genetic parts to program bacteria.
+Curr. Opin. Biotechnol.
+17 , 548–557 (2006).
+CAS PubMed Google Scholar Widmaier, D. M. et al. Engineering the Salmonella type III secretion system to export spider silk monomers.
+Mol. Syst. Biol.
+5 , 309 (2009).
+PubMed Central PubMed Google Scholar Mitchell, A. et al. Adaptive prediction of environmental changes by microorganisms.
+Nature 460 , 220–224 (2009).
+CAS PubMed Google Scholar Tagkopoulos, I., Liu, Y. C. & Tavazoie, S. Predictive behavior within microbial genetic networks.
+Science 320 , 1313–1317 (2008).
+CAS PubMed Central PubMed Google Scholar Fernando, C. T. et al. Molecular circuits for associative learning in single-celled organisms.
+J. R. Soc. Interface 6 , 463–469 (2009).
+CAS PubMed Google Scholar Fritz, G., Buchler, N. E., Hwa, T. & Gerland, U. Designing sequential transcription logic: a simple genetic circuit for conditional memory.
+Syst. Synth. Biol.
+1 , 89–98 (2007).
+PubMed Central PubMed Google Scholar Dunlap, J. C. Molecular bases for circadian clocks.
+Cell 96 , 271–290 (1999).
+CAS PubMed Google Scholar Wang, H. H. et al. Programming cells by multiplex genome engineering and accelerated evolution.
+Nature 460 , 894–898 (2009).
+Provides a combinatorial/evolutionary approach to optimizing biosynthetic pathway components through rapid in vivo genome engineering by cycles of targeted genome modification and phenotype selection.
+CAS PubMed Central PubMed Google Scholar Blake, W. J., Kærn, M., Cantor, C. R. & Collins, J. J. Noise in eukaryotic gene expression.
+Nature 422 , 633–637 (2003).
+CAS PubMed Google Scholar Guido, N. J. et al. A bottom-up approach to gene regulation.
+Nature 439 , 856–860 (2006).
+CAS PubMed Google Scholar Salis, H. M., Mirsky, E. A. & Voigt, C. A. Automated design of synthetic ribosome binding sites to control protein expression.
+Nature Biotech.
+27 , 946–950 (2009).
+CAS Google Scholar Dueber, J. E. et al. Synthetic protein scaffolds provide modular control over metabolic flux.
+Nature Biotech.
+27 , 753–759 (2009).
+CAS Google Scholar Gibson, D. G. et al. Complete chemical synthesis, assembly, and cloning of a Mycoplasma genitalium genome.
+Science 319 , 1215–1220 (2008).
+CAS PubMed Google Scholar Glass, J. I. et al. Essential genes of a minimal bacterium.
+Proc. Natl Acad. Sci. USA 103 , 425–430 (2006).
+CAS PubMed PubMed Central Google Scholar Lartigue, C. et al. Genome transplantation in bacteria: changing one species to another.
+Science 317 , 632–638 (2007).
+CAS PubMed Google Scholar Lartigue, C. et al. Creating bacterial strains from genomes that have been cloned and engineered in yeast.
+Science 325 , 1693–1696 (2009).
+CAS PubMed Google Scholar Download references Acknowledgements We thank members of the Collins laboratory for helpful discussions and K. M. Flynn for help with artwork. We also thank the Howard Hughes Medical Institute and the US National Institutes of Health Director's Pioneer Award Program for their financial support.
+Author information Authors and Affiliations Department of Biomedical Engineering, Howard Hughes Medical Institute, Center for BioDynamics and Center for Advanced Biotechnology, Boston University, Boston, 02215, Massachusetts, USA Ahmad S. Khalil & James J. Collins Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, 02115, Massachusetts, USA James J. Collins Authors Ahmad S. Khalil View author publications You can also search for this author in PubMed Google Scholar James J. Collins View author publications You can also search for this author in PubMed Google Scholar Corresponding author Correspondence to James J. Collins.
+Ethics declarations Competing interests Ahmad S. Khalil and James J. Collins hold various patents and/or patent applications related to the applications of synthetic biology that are discussed in this Review.
+Related links Related links DATABASES OMIM agammaglobulinaemia FURTHER INFORMATION James J. Collins' homepage Glossary Devices used to store information about the current state of a system.
+Circuits or devices used to generate pulses. A biological pulse generator has been implemented in a multicellular bacterial system, in which receiver cells respond to a chemical signal with a transient burst of gene expression, the amplitude and duration of which depends on the distance from the sender cells.
+A digital logic gate implements Boolean logic (such as AND, OR or NOT) on one or more logic inputs to produce a single logic output. Electronic logic gates are implemented using diodes and transistors and operate on input voltages or currents, whereas biological logic gates operate on cellular molecules (chemical or biological).
+Algorithms or devices for removing or enhancing parts or frequency components from a signal.
+The capacity of a system or component to function independently of context.
+Promoters that directly transduce environmental signals (for example, heavy metal ions, hormones, chemicals or temperature) that are captured by their associated sensory transcription factors.
+A cell-to-cell communication mechanism in many species of bacteria, whereby cells measure their local density (by the accumulation of a signalling molecule) and subsequently coordinate gene expression.
+A digital logic gate that implements logical NOR, or the negation of the OR operator. It produces a HIGH output (1) only if both inputs to the gate are LOW (0).
+Oligonucleic acids that bind to a specific target molecule, such as a small molecule, protein or nucleic acid. Nucleic acid aptamers are typically developed through in vitro selection schemes but are also found naturally (for example, RNA aptamers in riboswitches).
+RNAs that bind segments of mRNA in trans to inhibit translation.
+Small regulatory RNAs that can activate or repress gene expression by binding segments of mRNA in trans.
+ They are typically expressed in response to an environmental signalling event.
+Among the simplest types of signal transduction pathways. In bacteria, they consist of two domains: a membrane-bound histidine kinase (sensitive element) that senses a specific environmental stimulus, and a cognate response regulator (transducer domain) that triggers a cellular response.
+A cellular environment or host into which genetic material is transplanted to avoid undesired native host interference or regulation. Orthogonal hosts are often organisms with sufficient evolutionary distance from the native host.
+A type II DNA topoisomerase that catalyses the ATP-dependent supercoiling of closed-circular dsDNA by strand breakage and rejoining reactions. Control of chromosomal topological transitions is essential for DNA replication and transcription in bacteria, making gyrase an effective target for antimicrobial agents (for example, the quinolone class of antibiotics).
+Surface-associated communities of bacterial cells encapsulated in an extracellular polymeric substances (EPS) matrix. Biofilms are an antibiotic-resistant mode of microbial life found in natural and industrial settings.
+Periods or cycles that are repeated throughout a 24-hour circadian day.
+A two-enzyme metabolic pathway unique to bacteria and plants that is activated when sugars are not readily available. This pathway diverts the tricarboxylic acid (TCA) cycle so that fatty acids are not completely oxidized and are instead converted into carbon energy sources.
+The rate of flow of metabolites through a metabolic pathway. The rate is regulated by the enzymes in the pathway.
+A specific form of cell aggregation in yeast triggered by certain environmental conditions, such as the absence of sugars. For example, flocculation occurs once the sugar in a beer brew has been fermented into ethanol.
+Rights and permissions Reprints and Permissions About this article Cite this article Khalil, A., Collins, J. Synthetic biology: applications come of age.
+Nat Rev Genet 11 , 367–379 (2010). https://doi.org/10.1038/nrg2775 Download citation Issue Date : May 2010 DOI : https://doi.org/10.1038/nrg2775 Share this article Anyone you share the following link with will be able to read this content: Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiative This article is cited by A split ribozyme that links detection of a native RNA to orthogonal protein outputs Lauren Gambill August Staubus James Chappell Nature Communications (2023) Microbial applications for sustainable space exploration beyond low Earth orbit Allison P. Koehle Stephanie L. Brumwell Camilla Urbaniak npj Microgravity (2023) Efficient in planta production of amidated antimicrobial peptides that are active against drug-resistant ESKAPE pathogens Shahid Chaudhary Zahir Ali Magdy Mahfouz Nature Communications (2023) Chemically inducible split protein regulators for mammalian cells Erik Rihtar Tina Lebar Roman Jerala Nature Chemical Biology (2023) High spontaneous integration rates of end-modified linear DNAs upon mammalian cell transfection Samuel Lim R. Rogers Yocum Jeffrey C. Way Scientific Reports (2023) Download PDF Advertisement Explore content Research articles Reviews & Analysis News & Comment Videos Current issue Collections Follow us on Facebook Follow us on Twitter Sign up for alerts RSS feed About the journal Aims & Scope Journal Information About the Editors Journal Credits Journal Metrics Publishing model Editorial input and checks Editorial Values Statement Editorial policies Webcasts Posters Calendars Conferences Web Feeds Contact Publish with us For Authors For Referees Submit manuscript Search Quick links Explore articles by subject Find a job Guide to authors Editorial policies Nature Reviews Genetics ( Nat Rev Genet ) ISSN 1471-0064 (online) ISSN 1471-0056 (print) nature.com sitemap About Nature Portfolio About us Press releases Press office Contact us Discover content Journals A-Z Articles by subject Nano Protocol Exchange Nature Index Publishing policies Nature portfolio policies Open access Author & Researcher services Reprints & permissions Research data Language editing Scientific editing Nature Masterclasses Live Expert Trainer-led workshops Research Solutions Libraries & institutions Librarian service & tools Librarian portal Open research Recommend to library Advertising & partnerships Advertising Partnerships & Services Media kits Branded content Career development Nature Careers Nature Conferences Nature events Regional websites Nature Africa Nature China Nature India Nature Italy Nature Japan Nature Korea Nature Middle East Privacy Policy Use of cookies Your privacy choices/Manage cookies Legal notice Accessibility statement Terms & Conditions Your US state privacy rights © 2023 Springer Nature Limited Close Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+Close Get the most important science stories of the day, free in your inbox.

@@ -1,0 +1,19 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages AMD gained share against Intel in x86 processor market in Q4 Share on Facebook Share on X Share on LinkedIn AMD's new Threadripper costs $4,000.
+Advanced Micro Devices gained market share against Intel in the x86 microprocessor business for the quarter that ended December 31, according to market researcher Mercury Research.
+AMD gained share in the three major processor markets: laptops, desktops, and servers. That marks nine consecutive quarters of growth for AMD.
+Oddly, Intel claimed in its fourth-quarter earnings report on January 23 that it was gaining market share.
+“In 2019, we gained share in an expanded addressable market that demands more performance to process, move, and store data,” Intel CEO Bob Swan said in a statement.
+But asked for clarification, an Intel spokesperson said, “We define our total addressable market much broader than server CPUs.” For instance, Intel said its networking chip business grew $5 billion in 2019 revenue, and its internet of things (IoT) and Mobileye businesses were up 11% and 26%, respectively.
+Above: AMD’s market share is growing.
+But Mercury reported that AMD’s overall share in x86 processors (not counting semi-custom chips and IoT) was 15.5%, up 3.2 percentage points from a year ago. AMD’s share hasn’t been that high since the fourth quarter of 2013.
+In laptops, AMD’s share was 16.2% in the fourth quarter, up 4 percentage points.
+In desktops, AMD’s share was 18.3%, up 2.4 percentage points.
+In servers, AMD’s share was 4.5%, up 1.4 percentage points.
+Client share for AMD was 17%, up 3.5 percentage points.
+AMD said reception for the Ryzen 9 3950X and the third-generation Threadripper family for gamers explained the share gains in desktop. In servers, AMD has been ramping up its second-generation Epyc processors.
+For the previous third quarter that ended September 30, AMD had a 14.6% share of the overall x86 processor market, up 4 percentage points from a year ago, according to Mercury.
+“I think the unit share gains show good progress, and also that AMD has a ways to go, particularly in the server market, where it started near 0% share before Epyc launched,” said Patrick Moorhead, an analyst at Moor Insights & Strategy.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

@@ -1,0 +1,24 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Guest The digital advertising strategy no one’s told you about: Blockchain Share on Facebook Share on X Share on LinkedIn Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here.
+There’s already one large company out there that’s saved $1 million dollars doing it.
+The “it,” in this case? Using a blockchain-based solution for advertising.
+To be clear, we’re in the very early stages of this decentralized revolution, in general, and for marketing, in particular.
+However, from the way the industry is shaping up, the first technology/market in the cross-hairs of this wave of disruption is ad tech.
+The pain in advertising today Recently, I had a great conversation with Stacy Huggins, CMO of MadHive (which focuses on OTT advertising). She tells me that for every $1 an advertiser spends on digital, they get about $.44 of value.
+Why? Because of all the middlemen/intermediaries that have become part of the digital ad ecosystem.
+MadHive has a plan to help publishers get some of that value back. And, in this solid video about the Basic Attention Token , we learn from Brendan Eich (who hasn’t done much in his life aside from creating Java Script and Firefox) that we are literally paying nearly $23 per month per person to view ads. (BTW, get the Brave browser) Oh, by the way, that payment comes with approximately 70 trackers that follow all of our movements.
+Brendan thinks we should get paid to watch ads, not the other way around.
+Where there’s friction, there’s opportunity Bottom line, there’s a ton of friction and waste in the digital ad eco-system because of the number of intermediaries.
+(If you want a tremendous overview on the existential threat to agencies, see Ben Thompson’s great piece, Ad Agencies and Accountability.
+“) And what up and coming technology is inherently designed to remove intermediaries, friction, and cost? Yep, you guessed it: blockchains.
+That’s why companies like adChain , NYIAX , and HubDSP are all jumping into the fray. And there will be more.
+Still early … Like I said, it’s very early, and there are certainly barriers to adoption.
+Ad tech is a market with a ton of entrenched interests and money at stake. Expect the “violent opposition” of Schopenhauer’s Stage The technology is still new and, let’s be honest, not quite proven.
+Even using digital tokens adds another layer of complexity for many publishers. Most people are simply not familiar with the concept yet. That will take time.
+… But inevitable The blockchain genie isn’t going back in the bottle.
+Whether it’s one of these companies or the next wave that follows them, the efficiency and effectiveness of the solutions make it a foregone conclusion.
+Throw in the additional benefits to the brand (i.e. potential to ensure your ads aren’t shown next to controversial content), and you have the makings of a pretty compelling value proposition.
+Here we go. … Jeremy Epstein is CEO of Never Stop Marketing and currently works with startups in the blockchain and decentralization space, including OB1/OpenBazaar, Internet of People, & Storj. He advises F2000 organizations on the implications of blockchain technology. Previously, he was VP of marketing at Sprinklr from Series A to “unicorn” status.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

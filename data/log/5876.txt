@@ -1,0 +1,12 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Apple releases iOS 9.3 update that fixes hyperlink bug Share on Facebook Share on X Share on LinkedIn The iOS 9.3 update.
+Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+Apple today rolled out an update to iOS 9.3 that fixes a nasty bug that many iOS device users discovered in the past few days.
+Essentially, people tried to click links in Safari — like Google search results — only to find that they didn’t work. Long pressing would sometimes make Safari freeze. Clicking links from the Mail app also didn’t work for several people.
+This update should solve those problems.
+But this isn’t the first big update Apple release to correct something in iOS 9.3, which rolled out to everyone on March 21.
+ There was also the activation bug that could essentially brick iOS devices during the process of updating to the new version of the operating system.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

@@ -1,0 +1,34 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons The Story Behind Google's Super Chip | WIRED BizCon About Released on 06/07/2017 Five years or ago or so, Jeff Dean, who runs our machine learning research Google brain, we call it, group, they had gotten to a point where it was clear that speech recognition would work really well compared to previous speech recognition based on neural networks, right, so they could show in the lab, so to speak that actually, wow, this is getting really good.
+But then they did the computation that said if every Android user needed three minutes a day of speech recognition, and here's how much CPU we spend per second of, you know, voice recognition.
+Here's the amount of compute, right? And so he came to us and said, you know, Is my math correct? Because it says we need to double our data center infrastructure just for Android.
+And his math was correct.
+And that included, actually, trying to use the then available GPUs, alright, so not just CPUs.
+So at this point, Google is already the largest computer network in the world.
+Yes, there's really an enormous amount.
+And so you're saying, Oh, and we would have to double that.
+So that's the magnitude of what we're talking about.
+Yes, yes.
+So obviously, even for Google, that is not something you can afford, because Android is free, right? Android speech recognition is free.
+You want to keep it free, and you can't double your infrastructure to do that.
+And also, double, three minutes of Android voice recognition is just a start, right? You want to do photos and everything else, translation, et cetera, you know, comment moderation, sort of things like that.
+So really it was not a future that would work, basically.
+Right, right.
+And so, the solution was, before we get to this, was the first iteration of this.
+The solution was, we created something.
+We call it TPU, Tenserflow Processing, or Tenser Processing Unit.
+It's sort of an insider, techy thing, but basically, when you do these neural networks, you end up doing a lot of computations, really a lot of math in order to come up with your answer and to, for example, recognize this one second snippet of video.
+But it's a very special kind of math, and so if you build a special purpose chip for it, you can do it much more efficiently than if you use a general purpose chip.
+If I can use a car analogy briefly, right? So if you drive to work in your regular car, you have a, you know, just a passenger car, and it's kind of a blend of different attributes, you know, comfort, power, et cetera, et cetera, and it's actually a great car.
+But if, then, you look at a race car.
+A race car is kind of a specialized car that's made for going fast, but it actually needs to go fast in all kinds of situations.
+It needs to break, it needs to go around corners, et cetera, but it is more efficient at that.
+But maybe you don't want to use it as a commuter car, right? And what we built was really the equivalent of a drag race car, right? It can only do one thing: go straight and go as fast as it can.
+Everything else it is really, really bad at, but this one thing it is super good at.
+It's much easier to create a drag race car that can go really fast in a quarter-mile than to make a commuter car that can go equally fast, right? That's almost impossible.
+So that TPU that we built is really sort of this drag race kind of computer that really can only do these machine running computations and nothing else.
+If you want to use it for something else, good luck.
+It might be, theoretically, possible, but it certainly won't be pleasant and it won't be fast.
+Forget Phones, Blackberry Is Getting Into the Car Business What Uber Learned from a Year of Self Driving What the What Is Quantum Computing? We've Got You Covered How Motorola Made Modular Smartphones a Reality Google Pixel 4 Hands-On Designers Reimagine the Task Light—And It’s Gorgeous Go Inside The Dome That Could Give Robots Super Senses Astro Teller, Captain of Moonshots at X, in Conversation with Sandra Upson The Thiel Fellows Get an Inside Look at Silicon Valley on a Field Trip to the Google Campus Review: Google's Pixel 2 and Pixel 2 XL Smartphones Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

@@ -1,0 +1,52 @@
+Featured Topics Newsletters Events Podcasts Featured Topics Newsletters Events Podcasts In defense of plastic (sort of) Plastics are…complicated. Can new recycling methods clean them up? By Casey Crownhart archive page Getty Images This article is from The Spark, MIT Technology Review's weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
+I’m coming in with a hot take this week: plastics might just be the most useful inventions of the 20th century.
+Before you get out the pitchforks, let me take you on a tour of just a few of the ways that people’s lives are better because of plastics.
+Plastics are instrumental in medicine, from syringes to IV bags to glasses lenses. They’re integral in electronics, making possible today’s cheap and light-weight phones and computers. Plastics have even had a hand in making electric vehicles more practical, because cutting weight helps extend how far they can go with the charge in their batteries.
+Plastics have brought down costs across industries and saved lives.
+That helps explain why they’re absolutely everywhere.
+Plastics production has exploded, topping 400 million metric tons annually.
+Plastic waste is everywhere. About 8 million metric tons of plastic end up in the ocean every year.
+Plastics are inside us. Microplastics have been found in the blood , and can cross the placental barrier.
+ (Researchers are concerned about their impacts , though evidence is still thin.) Now, I’m sure you’re probably guessing where I’m going next, but it needs to be said: plastics are an environmental, climate, and public health disaster.
+Burning plastic, a common practice in developing countries that accept plastics from richer regions like the US and EU, can produce toxic fumes , harming the most vulnerable.
+ The practice also produces greenhouse gas emissions, though those emissions are probably less significant than what’s produced by making plastics in the first place.
+Add all that up and what do we get? A large part of society that’s fully come to depend on plastics for a wide range of uses, and a lot of people that are severely and consistently harmed by their use.
+Related Story New research could help turn a mix of plastic waste into new products.
+Where the heck do we go from here? Honestly, we’re not getting rid of plastics anytime soon. They’re everywhere, truly ingrained in our lives.
+Taking steps to cut down on gratuitous plastic use is a start. And right now, there are currently major talks going on about a potential UN Plastics Treaty.
+Nations agreed to enter talks about a treaty earlier this year, and negotiations about the details began this week.
+It will probably take until 2024 for the treaty to be completed, and we don’t know all the details yet, though there’s been talk of production limits , as well as more restrictions on what can go into plastics. But limits on how much plastic nations produce probably won’t be enough to solve the problem.
+Finding ways to reinvent plastic recycling could also play a huge role in cutting down on plastic’s negative impacts.
+Most plastic recycling today relies on thermal and mechanical techniques—basically melting down plastics and reforming them. This works well in some cases, but can lead to a lower-quality product than what you started with.
+That’s why almost no plastic water bottles that do get collected for recycling are made into new water bottles.
+Instead, the small fraction that do end up getting recycled are typically used to make other products, like carpets.
+New approaches like chemical and biological recycling could fix some of these problems.
+For example, last year I wrote about a French company called Carbios, which is working on using microbes to recycle the plastic in water bottles, PET.
+ If the method winds up being economical, it could help more bottles get recycled back into bottles.
+But that process won’t work for all plastics. That brings us to chemical recycling, a huge umbrella term for a variety of different recycling approaches.
+One of the most interesting areas in chemical recycling to me is mixed-feed recycling: where different plastics might be handled with one process. Plastics that go to a recycling facility today are separated before going through processing, because your water bottle needs a different treatment from your milk jug.
+Related Story French startup Carbios just opened a demonstration plant—and hopes to expand the world’s menu of recycling options.
+If it were economical, a mixed-feed recycling system could help recycling make a more significant dent in our plastics problem.
+Chemists are trying to do just that, as I wrote about in a new story.
+ Using chemical tools like oxidation and catalysis, or biological tools like genetic engineering, researchers are trying to create a truly circular system for plastics, where old materials create the building blocks for new ones.
+A caveat here: details matter when it comes to chemical recycling.
+The term can refer to a wide range of practices that includes burning plastics, and there are concerns about how these facilities will run and how they’ll affect communities around them.
+ And some of the processes produce chemicals that won’t actually go into new plastics, or be particularly useful to anyone.
+But some chemical recycling methods can actually produce useful products, and if handled right, they may help to realize the vision of a circular plastics economy.
+There’s still a long road ahead of these efforts to reach commercialization. Improvements to the lab process will be needed to accommodate the wide range of plastics used today and to work at a large scale. But if chemical recycling can safely and economically make useful building blocks for new materials, they could help chip away at the mountain of our plastics problem.
+Do check out the full story for more on these new recycling methods and how they might fit into the industry.
+I’d also recommend this coverage from Nature and Wired on the UN plastics treaty negotiations, and this coverage from Grist and Inside Climate News on concerns about chemical recycling.
+Keeping up with climate Massive floodgates have helped Venice avert disaster.
+But just moderate sea-level rise could threaten the multi-decade, multi-billion dollar project by midcentury. ( Washington Post ) Offshore wind in Scotland is bringing new energy and jobs to communities that previously relied on oil and gas production. ( New York Times ) Satellites show offset sites in California don’t end up with more forest biomass , meaning they’re not actually capturing the carbon they advertise. ( Los Angeles Times ) → Sketchy offsets? Who would’ve thought? ( MIT Technology Review ) Dandelion Energy raised $70 million to expand geothermal energy with its residential heat pumps.
+ ( Canary Media ) Mauna Loa in Hawaii is erupting for the first time in nearly 40 years.
+ ( Gizmodo ) → In case you were wondering, humans emit more carbon dioxide than volcanoes do, by a lot.
+ ( Reuters ) Crypto miners love the cheap electricity in Texas , but concerns about their impact on the state’s grid and the climate are growing. ( Texas Observer ) Europe’s summer heat waves probably caused about 20,000 deaths in total across the UK, Spain, Germany, and France. ( Bloomberg ) → Rising temperatures are causing an uptick in air conditioning across the continent.
+( MIT Technology Review ) Environmentalists say China’s zero COVID policy is slowing climate action.
+( Bloomberg ) hide by Casey Crownhart Share linkedinlink opens in a new window twitterlink opens in a new window facebooklink opens in a new window emaillink opens in a new window Popular This new data poisoning tool lets artists fight back against generative AI Melissa Heikkilä Everything you need to know about artificial wombs Cassandra Willyard Deepfakes of Chinese influencers are livestreaming 24/7 Zeyi Yang How to fix the internet Katie Notopoulos Deep Dive Climate change and energy Think that your plastic is being recycled? Think again.
+Plastic is cheap to make and shockingly profitable. It’s everywhere. And we’re all paying the price.
+By Douglas Main archive page 15 Climate Tech Companies to Watch By Amy Nordrum archive page 2023 Climate Tech Companies to Watch: Blue Frontier and its energy-efficient AC The startup's AC units suck moisture out of the air for more efficient cooling.
+By Amy Nordrum archive page Oyster fight: The humble sea creature could hold the key to restoring coastal waters. Developers hate it.
+Revitalizing oyster farms and wild oyster reefs could undo decades of environmental destruction on our coasts By Anna Kramer archive page Stay connected Illustration by Rose Wong Get the latest updates from MIT Technology Review Discover special offers, top stories, upcoming events, and more.
+Enter your email Thank you for submitting your email! It looks like something went wrong.
+We’re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out to us at customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+The latest iteration of a legacy Advertise with MIT Technology Review © 2023 MIT Technology Review About About us Careers Custom content Advertise with us International Editions Republishing MIT News Help Help & FAQ My subscription Editorial guidelines Privacy policy Terms of Service Write for us Contact us twitterlink opens in a new window facebooklink opens in a new window instagramlink opens in a new window rsslink opens in a new window linkedinlink opens in a new window

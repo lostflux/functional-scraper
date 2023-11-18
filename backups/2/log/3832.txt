@@ -1,0 +1,247 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons UMass Professor Explains the Internet in 5 Levels of Difficulty About Released on 11/23/2022 Hi, I'm Jim Kurose, I'm a professor at the University of Massachusetts at Amherst, and I've been challenged to describe the internet in five levels of increasing difficulty.
+The internet is the most technically complex system that humanity has ever built.
+The internet is a network of networks.
+It's a platform on which all of the internet applications that you've heard of can be built.
+[bright music] Hi, it's really, really nice to meet you.
+What's your name? My name is Skylar.
+Skylar, we're here to talk about the internet, and I bet you must use the internet a lot, right? Yeah.
+What's your conception about what the internet is? The internet? For me, it's just something to use when I need like to search up something or watch videos.
+The internet is, physically, these computers that all talk to each other.
+Billions of computers, in the case of the internet.
+The internet allows us to do a lot of really, really interesting, what we call applications.
+You ever think about how that video gets to you over the internet? Yeah, I have no idea.
+Got a favorite movie? Matilda.
+Matilda. All right.
+We're gonna actually build an internet.
+I've got a couple of things here that I wanna show you, or a couple of toys, actually.
+Okay, let's pretend that these round balls are computers.
+And the internet is something that connects them.
+And right now, the internet is just one communication link.
+And Matilda is sent over the internet from this computer to your computer.
+So the internet is a network for carrying information from one computer to another.
+Now this network here looks pretty simple, doesn't it? Right? It's just one thing.
+Should we add some more friends in? Yeah.
+Let's say we want to get a video from here, over to here.
+How do you think that video would sort of travel through this network? Maybe it could go to here, to here, to here, to here.
+That's right.
+So that's pretty cool.
+There are actually lots of different ways to actually go through the internet to get from what we call a source, the place that's sending the information, to the receiver, the place that's actually gathering the information together.
+And that's something we actually call routing.
+Huh, but wouldn't it just be easier for it to go from here to here, instead of going from here to here, to here to here? Yeah. So that's a really good observation.
+In most pieces of the internet, that's exactly what would happen.
+We want to take what's called a shortest path.
+But still, there are multiple paths.
+And why do you think that might be valuable? Maybe one way is messed up or broken.
+So you go the other way.
+Exactly.
+So, Skylar, that was a great discussion about what we just built.
+And I wanted to talk to you about, or ask you about maybe one other really important part about networks.
+And it's not so much the thing itself, the physical thing, but more about the rules about communication.
+That's governed by something that are called protocols.
+Are you up for one? Yeah. Knock, knock.
+Who's there? Lettuce. Lettuce who? Lettuce go on.
+[Skylar and Jim laughing] A knock, knock joke is an example of a protocol, right? The computer that you are using say, makes a request, you ask for something, you get something in return.
+In the internet, there are protocols everywhere.
+So that two computers that have never talked to each other before know the rules for talking to each other.
+This global internet with billions of people using it are just lots of smaller networks that are all hooked together to each other.
+But also, what the internet allows are all of these what we call applications, Zoom, video playing services, can all run on top of the same internet.
+Yeah, so there's one internet for all of 'em.
+Exactly.
+There's one internet and lots and lots and lots of things that you can do on top of it.
+[bright music] So you're a student in high school, is that right? Yes, I'm a sophomore.
+Well, we're gonna be talking about computers here today, and we're gonna be talking about the internet.
+I always like to think of the internet by analogy to say road systems for example, where you have roads in your neighborhood.
+You have state roads, you have the Interstate Highway System.
+And so the internet is a lot like that.
+It's an interconnection of local roads, local networks like the network in your house for example.
+How does like all of the networks in my house connect to all the city networks? Wow. Great question.
+Often, it's a little blue wire called an ethernet cable.
+So that cable is able to bring bits of information up into your apartment at say, a billion bits per second.
+That's pretty fast, right? Literally a wire that goes between a box in your apartment, sometimes called a router or a modem in your apartment that comes from an internet service provider come into this first network and then that network connects to another network connects to another network connects to another network.
+You could FaceTime somebody who's like in Australia.
+You can talk to them at the same time, and like you're reaching the same signals.
+So how is it that it gets there so fast? We could talk about that by analogy to a road system.
+It's not just one big, super highway.
+It's a lot of smaller super highways that are all interconnected.
+And those interchanges are what are called routers.
+That's where the links come together.
+You're talking about talking to a friend in Australia.
+So oh, it's coming in from the East Coast of the United States to this router, and it's going out say, that routers in San Francisco, it's going out on an underseas cable over to Australia rather than in this direction up to Japan.
+So there is an underseas cable? The underseas cables are so cool! They're these big cables that are laid down by switches.
+They cross both the Atlantic, the Pacific, the Indian Ocean.
+So the undersea cables are how the networks in Europe, United States, Asia are all connected together.
+How do you connect wirelessly? That's really what we call the first hop.
+It's like from your phone, from your tablet, from the computer that you're on, there's no cables coming in.
+You go over a wireless connection.
+Wi-Fi is the protocol that allows your computer to talk to that first hop router over a wireless communication link.
+And I was wondering how there's so many different movies or TV shows that you can download and they're all there.
+And if you just play it, it just knows what to play.
+Like they're all in one spot.
+Ah, you said they're all in one spot.
+In fact, they're in lots of spots in Netflix.
+And so most applications would like to connect you with a server that's close to you.
+Server is really just a big computer with a lot of memory, a lot of discs that store all the Netflix movies, and also so that you don't have to cross over too many internet links to get from where the server is to the TV or the device in your home.
+So when I'm watching Vampire Diaries in my house, how does it know exactly what to do without getting scrambled up? Ah, another great question.
+There's a couple of things that could happen inside the internet.
+Information is sent in these little packets of information from the Netflix server to your display device.
+And literally, each packet that arrives says, This is the first packet for Jenna.
+This is the second.
+This is the third.
+This is the fifth.
+This is the fourth.
+And they're reordered for you.
+Matter of fact, your computer will say, using the TCP protocol to the server, Hey, I didn't get packet four, can you resend it again? And again, the Netflix server is very happy to send you packet four again.
+The other is the internet protocol.
+If you think about sending letters through the US Postal Service, how you've got an address on it.
+So every packet that flows from the Netflix server to you has an address on it.
+It says, This is going to Jenna.
+It's going to the what's called the Internet Protocol address of your device.
+Think of all the range of devices that are hooked up to the internet.
+It's totally amazing, right? Every single one of them has one thing in common, and that is they speak the IP protocol, the Internet Protocol.
+That was a great question.
+[upbeat music] So tell me a little bit about yourself? I am a senior at New York University.
+I study computer science.
+Have you taken any courses on the internet or studied it at all? I've taken Applied Internet Technology.
+So we've talked about backend/frontend frameworks and libraries, things like that.
+Okay, so really at the application level? At the application level, for sure.
+I wanted to ask you a little bit about what you know about the history of the internet.
+Have you heard of ARPANET, for example? I have not heard of ARPANET.
+Okay, back into the 1960s, there was a research agency in the United States called DARPA, the Defense Advanced Research Projects Agency.
+Actually, it was called ARPA at the time.
+They wanted to build this notion of a packet-switching network.
+Not a circuit switch network like a phone network where you get a dedicated path and a dedicated set of bandwidth and links from source to destination.
+So what would packet switching enable? I'm sure there's something big here, for sure.
+There's a lot big, right? And so remember, this was a Department of Defense, was they wanted to have forms of of communication that were very robust, that were survivable.
+Packets could all find their own ways, be routed differently through the network.
+So if parts of the network failed, you could route around failures.
+Sounds like the reason for like a request response type of structure.
+So you can sort of see how the network architecture that wasn't designed to be 100% reliable inside the core of the network, and had that complexity built into the edges of the network.
+And to me, the really cool thing is you put this infrastructure in place, and then all these super creative people think about amazing things to build on top of it.
+And you see this proliferation of amazing applications.
+Abstraction, I think it's the reason why everything.
+Ah ha! Spoken like a real computer scientist, right? You're a computer scientist. I'm a computer scientist.
+We talk about APIs, application programming interfaces.
+The API for the internet is something called a socket.
+And a socket simply says, I can communicate if I know your internet address, you know, 128.119.40.186, that number is the IP address of my server, the University of Massachusetts.
+If you know that, you can write a program anywhere in the world and send a message, and it'll pop out at my end.
+I will be remembering that.
+[Jim laughs] I've heard that there are like seven keys to the internet, something like that.
+Okay, well I don't know about the number seven, but there's something in the internet that's sort of similar to that.
+It's called the Domain Name System.
+The DNS's role is to translate names like gaia.cs.umass.edu, or ibm.com, or facebook.com to an IP address so that your application can actually send a message to that name, to that named service.
+This whatever quantity of people is able to have some form of control? So that's a great question.
+Who do you think controls the internet? I'm pretty sure the internet is fairly decentralized.
+Okay. What does that mean? No one authority holds control over any sort of decisions or destinations.
+That's 98% true.
+And if you own a network, like you're att.com, or your verizon.com, you can do, within that network, you can do what you want, right? So in that sense, the internet is very decentralized, that the control of the network is up to whoever owns the network.
+The 2% where you said there's nobody in control, there's a a little bit of centralized control.
+There's an organization called the Internet Corporation for Assigned Names and Numbers.
+Its responsibility is to handle, as the name ICANN suggests, names and numbers.
+It's that little bit of centralization, central authority that you need.
+When can we see the next tenfold increase in in Wi-Fi speed? In terms of tenfold speeds of increases, depending on what device you're using right now, it's available, all you need to do is upgrade.
+So the Wi-Fi protocol's called 802.11.
+And this is sometimes a source of confusion for people.
+How can it be that I've got a connection at 100 megabits per second from our TV into our router? 100 megabits per second not enough? Packets dropping? Where do they get dropped, do you think? Somewhere in their travel process.
+Exactly, right.
+And maybe they're dropped in your apartment, but much more likely, they're dropped because of congestion somewhere between the Hulu or the Netflix or the Disney server, if you're watching a video, and your home.
+So even though you've got 200 megabits per second on that last hop, you don't have 200 megabits per second from the server into your apartment.
+I see.
+I'm curious, has our conversation sort of changed your view or sort of taught you new things about the internet? I think that I've sort of realized that the internet is a technology that's dependent upon so many other factors.
+Some more in our control, some less.
+[bright music] Tell us a little bit about yourself? I'm Caspar Lant.
+I'm a PhD student at Columbia University under Henning Schulzrinne's tutelage.
+Oh, good pronunciation. [laughing] Thank you.
+I'm interested in networking, IoT, and sort of what kind of data science you can use with the datasets that you get from such devices.
+One of the things that I designed before, starting my PhD with Henning, was a IoT pill dispenser, essentially, which pairs with your smartphone, which does facial detection and other computer vision controls and can basically tell who's taking some sensitive medication and make sure that they've taken it correctly.
+We have these low-power devices they're sort of at the edge.
+Is it just connecting them in across a wireless link? Is that the primary challenge or? Well, I think the primary challenge is that for sure, but then an additional challenge is keeping everything configured in the way that you expect it to be configured.
+So for example, most IoT devices require you, when you're configuring them for you to enter some kind of captive login portal where you connect to a local network that the IoT device produces, and then you can input your Wi-Fi SSID and password.
+But then say if you were to change the password or the name of your Wi-Fi network or you move to a new place, then suddenly, everything needs to be reconfigured.
+'Cause that's a problem that scales linearly.
+That you don't want the complexity of managing them to go up linearly with that.
+You'd like it to still stay pretty flat as you start adding.
+Right, exactly.
+I mean, the good thing about IoT devices is that they tend to transmit very, very small amounts of data.
+We're used to ethernet cables that can handle many hundreds of gigabits per second over a wired device.
+What are the typical data rates for IoT devices? I mean, not hundreds of gigabits.
+No, I mean I would imagine upper bound, KB per second, lower bound, you could see bytes per second just on average.
+But I mean, say that you have a temperature sensor running off of your Arduino that's reporting the temperature in your house every minute.
+That's going to be far less than kilobytes per second on average.
+My sense is you're spot on, that they'll produce over time, a lot of data.
+And that a lot of IoT is about computing on that data.
+That computation happened mostly at the edge, or somehow a combination between the edge and something happening in a far away data center.
+Well, my sense is right now that all that data tends to be centralized because IoT devices are usually the commercial products of companies.
+Do you think they'll share it? Not without some persuasion, but I agree that these data have massive, massive research value.
+Something I'm interested in with my research is collaborating with people who manage these distributed sensor devices, and then taking advantage of those datasets and comparing them to, say you were interested in doing a research project on how daily rush hour traffic impacts the acoustic landscape of New York City.
+Figuring out, look, this street next to this school is causing visible ratings above what we mandate.
+And so there needs to be an intervention here.
+I think for a long time, the internet hasn't grappled with, but now has with IoT and also with cellular networks, generally is the question of mobility.
+Do you imagine in the future that it might be possible for mobile devices not to always have to connect through the same provider to go from one network to another? Definitely.
+I mean, we're already seeing long range networks like LoRa that can, first of all, provide access over a much larger coverage area, but then also look the same because they're set up to the same specification, regardless of where the individual gateway is.
+[bright music] So hey, Jen, it's great to see you again.
+Good to see you, Jim.
+We're in level five now.
+So you're the expert-expert.
+I'm a huge fan of the work that you did in RCP, the Routing Control Platform being a precursor to software-defined networking and the notion that rather than having protocols actually always compute things, that we could compute things in data centers.
+I'd be interested if you could sort of just reflect back on that time and sort of the beginnings of SDN and where it's come since then.
+Yeah, and when we were at AT&T, the thing we found most frustrating is AT&T would buy routers, and they would come pre-baked with a set of protocols instead of knobs that you could turn if you wanted to influence how the traffic flowed, and a set of dials you could read to understand what was going on inside the network.
+Right, you couldn't directly do what you wanted to.
+Exactly.
+And so we started thinking about earlier work that was done in the telephony network, the old telephone network.
+And there, they had the same problem.
+And they had the idea of having a computer running a program tell a distributed set of telephony switches what to do.
+But the idea was like, wow, it was kind of a revelation, like what would that look like if we did that? Not for the whole internet, but at least AT&T's part of the internet.
+So in other words, use software instead of distributed protocols to to tell the network what to do.
+Yeah, do you see the softwarization of the internet as a whole happening? So, so far, it hasn't very much.
+I mean, basically, software-defined networking exists, let's say within a single provider backbone, or a single cloud provider's network or a single campus.
+There's been some work on doing it at the juncture points between a pair of networks.
+But one other trend that's happening that makes it more possible is it used to be that to get from one end to the internet to the other, you have access networks getting much closer to, say Google or Microsoft or other large cloud providers, where even, you might only go through two networks Right, so some people have called that the flattening of the internet, right? I think it used to be on average, you would go through 10 different networks to get from a source to a destination.
+Right, exactly.
+And if you take that even further, they're starting to be more edge computing where you might imagine you might have a cell tower connected to a small number of routers, connected directly to a server that's gonna be running the application.
+In that case, the entire infrastructure might be controlled by a single party.
+It's totally fascinating to me that we have such an important global infrastructure, and yet, the laws that that govern it tend to be very, very local.
+There are tens of thousands of separately administered networks, and of course, in hundreds of countries.
+And the fact that it even holds together at all is kind of a miracle.
+Right, well it holds together because we have standards, and we have protocols that you mentioned. Exactly, protocol standards for how the equipment talks to one another.
+And increasingly, certificate authorities that help bootstrap the secure, encrypted and communication between end hosts.
+So there are a few of these sort of centrally, kind of agreed upon kinds of infrastructure, but for the most part, each network runs itself.
+And certainly, we've heard about some countries that impose firewalls that don't let certain kinds of traffic out, or certain kinds of traffic in.
+So there's no global body that is regulating that? Not really because each country really can have it's own laws and its own norms.
+And so they can decide, like the Great Firewall of China can decide, they don't wanna let certain content be accessed by the citizens inside that country.
+So if a country decides they don't wanna answer a request for a particular domain name, they say, Hey, I don't want to let someone know the IP address of this website.
+They can decide not to let those answers be delivered inside their country.
+And so encryption plays a role in helping people keep their privacy or prevent surveillance, but it's not perfect.
+It's often possible, still, to know a fair amount about what people are doing, even if you can't look inside the envelope at the letter that's written.
+I mean, even you could just tell that two people are communicating even though the traffic itself is encrypted.
+So you don't know what they're saying, just even knowing two devices are communicating.
+Exactly, and in fact, if you look at say, the sizes of the transfers that they're doing, you may know, hey, I'm talking to Netflix.
+And by the way, this is the length of the movie I watched.
+This is the size- So you can infer or guess a lot of things.
+Exactly.
+You're one of the most awesome networking researchers that I know.
+I'm curious, just to pick your brain, what do you think are some of the hot topics in networking research? Where do you think the field is heading? Yeah, I'm excited about the convergence of wireless communications, cellular networks, Wi-Fi with networking and cloud computing.
+And in particular, we're seeing in edge computing, a convergence of all three.
+Where you might have a mobile phone or a drone or some other kind of device connecting over the wireless medium directly to a network that connects you directly to the server that might run your application.
+So you want the computation close to where the endpoint is.
+Exactly, and I think that what's now exciting about that is all three of these technologies, wireless, networking and cloud, which are normally three different communities, three different sets of technologies, three different sets of standards or practices, now have to work together in close harmony to be able to service applications that are really critical and that that might be interacting with the physical world in ways where safety is a potential concern.
+You know, we've had cellular networks now for 20, 30 years.
+So when we hear about 5G, what's trumpeted the most is the fact that oh, super high bandwidth, right? But I sense that the exciting things are more than just the network being faster.
+I agree.
+It's both the high bandwidth, it's the low delay so that you can have these applications that interact with the physical world and need answers in real-time.
+It's about having the compute really close so that you can integrate computation and communication.
+It's about having more coverage.
+Coming back again to the softwarization.
+SDN and softwarization is a maybe a little bit behind the covers, that you wouldn't normally see it as a user going from 3G to 4G to 5G.
+You just see an increase in speed.
+But yet, the way the network is now being managed again, I think is bringing the cellular networking world sort of into the internet world in terms of the softwarization- Completely agree.
+I think the bringing in of compute and storage is important too.
+I think when you think just about networking, it really is often just one part of the IT, the information technology ecosystem.
+Is there's often compute and storage as well.
+And so, I think now there's an opportunity to have all of those parts of the infrastructure work together towards an even higher level goal.
+And so I think it's a really exciting time to be in the field 'cause now, the plumbing is getting close to the application in a way that it wasn't before.
+[upbeat music] So I really hope you've enjoyed this video, and I hope you've also understood the internet is part of the worldwide global communication fabric.
+It's absolutely fascinating how it works.
+[upbeat music] Musician Explains One Concept in 5 Levels of Difficulty Expert Explains One Concept in 5 Levels of Difficulty - Blockchain Oculus' John Carmack Explains Virtual Reality in 5 Levels of Difficulty Biologist Explains One Concept in 5 Levels of Difficulty - CRISPR Neuroscientist Explains One Concept in 5 Levels of Difficulty Astronomer Explains One Concept in 5 Levels of Difficulty Laser Expert Explains One Concept in 5 Levels of Difficulty Sleep Scientist Explains One Concept in 5 Levels of Difficulty Physicist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains One Concept in 5 Levels of Difficulty Hacker Explains One Concept in 5 Levels of Difficulty Nanotechnology Expert Explains One Concept in 5 Levels of Difficulty Physicist Explains Origami in 5 Levels of Difficulty Computer Scientist Explains Machine Learning in 5 Levels of Difficulty Neuroscientist Explains Memory in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains Black Holes in 5 Levels of Difficulty Computer Scientist Explains Fractals in 5 Levels of Difficulty College Professor Explains One Concept in 5 Levels of Difficulty Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty UMass Professor Explains the Internet in 5 Levels of Difficulty Mathematician Explains Infinity in 5 Levels of Difficulty Theoretical Physicist Explains Time in 5 Levels of Difficulty MIT Professor Explains Nuclear Fusion in 5 Levels of Difficulty Harvard Professor Explains Algorithms in 5 Levels of Difficulty Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

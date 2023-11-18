@@ -1,0 +1,17 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Microsoft kills Word Flow keyboard for iOS, recommends SwiftKey instead Share on Facebook Share on X Share on LinkedIn Word Flow for iOS.
+Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+Microsoft has killed off its experimental keyboard app Word Flow, which debuted as a feature for Windows Phone and as a Microsoft Garage project for iOS in April 2016.
+ SwiftKey is now Microsoft’s recommended, and only, keyboard for Android and iOS.
+Back in March , Microsoft changed its mind about what to do with its SwiftKey virtual keyboard apps for Android and iOS, which the company acquired last year. Microsoft originally planned to “integrate SwiftKey technology with our Guinness World Record Word Flow technology for Windows” but then decided to bring Word Flow’s features to SwiftKey. The company also decided not to bring Word Flow to Android.
+Microsoft has removed Word Flow from Apple’s App Store, according to a support document first spotted by Windows Central.
+ As you’d expect, the direct Apple App Store link for Word Flow no longer works.
+The Microsoft Garage app’s description now reads as follows: The Word Flow experiment is now complete! We encourage you to download the SwiftKey Keyboard from the App Store.
+ The SwiftKey product team is frequently building and evaluating new features for SwiftKey and shipping updates. We encourage feedback at https://support.swiftkey.com.
+Microsoft’s SwiftKey keyboard competes against Google’s Gboard keyboard and a slew of other Android and iOS keyboards. Apple’s App Store doesn’t show download numbers, but SwiftKey has over 100 million downloads, while Gboard has passed 500 million.
+Microsoft Garage debuted in October 2014.
+ The group regularly releases experimental applications for Android, iOS, and other platforms, but it closes down projects when they are deemed no longer worth the effort.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

@@ -37,15 +37,38 @@ targets:
 
 domains:
   - https://www.technologyreview.com
-  - https://www.deepmind.com
+  - https://deepmind.google
+  - https://openai.com
+  - https://www.anthropic.com
+  - https://txt.cohere.com
+  - https://ai.meta.com
+  - https://www.ibm.com/think
   - https://www.singularityhub.com
   - https://www.wired.com
   - https://www.vox.com
   - https://www.theverge.com
   - https://www.theguardian.com
   - https://www.theatlantic.com
-  - https://www.washingtonpost.com
+  #  - https://www.washingtonpost.com
   - https://www.techcrunch.com
+  - https://www.theinformation.com
+  - https://www.axios.com
+  - https://www.bloomberg.com
+  - https://thenextweb.com
+  #  - https://www.digitaltrends.com
+  #  - https://www.techradar.com
+  #  - https://arstechnica.com
+  - https://www.cnet.com
+  - https://venturebeat.com
+  #  - https://www.engadget.com
+  #  - https://gizmodo.com
+  #  - https://www.zdnet.com
+  #  - https://www.geekwire.com
+  #  - https://www.techrepublic.com
+  - https://www.newyorker.com
+  - https://script-ed.org
+  - https://deeplearningindaba.com
+  - https://mashable.com
 
-limit: 10000
+limit: 20000
 wordcount: 5

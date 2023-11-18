@@ -1,0 +1,450 @@
+A tree of Indo-African mantle plumes imaged by seismic tomography | Nature Geoscience
+2021
+https://www.nature.com/articles/s41561-021-00762-9
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+Advertisement View all journals Search Log in Explore content About the journal Publish with us Sign up for alerts RSS feed nature nature geoscience articles article Download PDF Article Published: 24 June 2021 A tree of Indo-African mantle plumes imaged by seismic tomography Maria Tsekhmistrenko ORCID: orcid.org/0000-0003-4315-6366 1 , 2 , Karin Sigloch ORCID: orcid.org/0000-0002-9876-4628 1 , 3 , Kasra Hosseini ORCID: orcid.org/0000-0003-4396-6019 1 , 4 & … Guilhem Barruol ORCID: orcid.org/0000-0002-4049-2375 5 Show authors Nature Geoscience volume 14 , pages 612–619 ( 2021 ) Cite this article 4722 Accesses 33 Citations 186 Altmetric Metrics details Subjects Geodynamics Seismology Abstract Mantle plumes were conceived as thin, vertical conduits in which buoyant, hot rock from the lowermost mantle rises to Earth’s surface, manifesting as hotspot-type volcanism far from plate boundaries. Spatially correlated with hotspots are two vast provinces of slow seismic wave propagation in the lowermost mantle, probably representing the heat reservoirs that feed plumes. Imaging plume conduits has proved difficult because most are located beneath the non-instrumented oceans, and they may be thin. Here we combine new seismological datasets to resolve mantle upwelling across all depths and length scales, centred on Africa and the Indian and Southern oceans. Using seismic waves that sample the deepest mantle extensively, we show that mantle upwellings are arranged in a tree-like structure. From a central, compact trunk below ~1,500 km depth, three branches tilt outwards and up towards various Indo-Austral hotspots. We propose that each tilting branch represents an alignment of vertically rising blobs or proto-plumes, which detached in a linear staggered sequence from their underlying low-velocity corridor at the core–mantle boundary. Once a blob reaches the viscosity discontinuity between lower and upper mantle, it spawns a ‘classical’ plume-head/plume-tail sequence.
+You have full access to this article via your institution.
+Download PDF Download PDF Main Convection plumes are expected to rise from the core–mantle boundary (CMB) because core heat diffuses into lowermost mantle rock, which becomes buoyant 1.
+ The plumes’ geoscientific importance derives from the amount of core heat these focused streams bring to the surface or near surface. From the geometries of hotspot tracks and swells, plumes should be only 100–200 km wide and account for at most 10% of geothermal heat loss 2 , 3.
+ However, the plume’s presumed feeder zones in the lowermost mantle are much broader and more voluminous. The ‘superswells’ or ‘large low-velocity provinces’ 4 , 5 (LLVPs) sprawl across ~30% of CMB area 5 and rise 500–1,000 km above it. Numerous 500- to 1,000-km-thick plumes observed in the lower mantle 6 , 7 , 8 could also point to more rising heat than admitted by the surface tallies based on narrow hotspot tracks 2 , 3.
+The LLVPs are thought to be chemically denser than ambient mantle, containing subducted crust or chemically distinct rock assemblages dating from Earth’s earliest history 5 , 9.
+ With sufficient heating from the core, such LLVP rock may start to rise buoyantly, but depending on the amount of cooling during ascent 10 , much of it may lose its positive buoyancy mid-way and never get close to the surface. A priori reasonable ranges for mantle viscosities and density anomalies, ‘height’ of the denser layer and core versus internal heating admit a wide variety of convective plume patterns 5 , 9 , 10.
+ Narrowing this parameter space depends on seismic tomographic images that confidently constrain the spatial scales and the connectivity of upwellings. Since modelled plumes have a strong tendency to rise vertically from the CMB to the surface 10 , 11 , 12 , tomographic illumination across all mantle depths is particularly useful in providing a set of self-consistent geometric constraints that mantle modelling should reproduce. This is the aim of our study.
+The Réunion Hotspot and Upper Mantle–Réunions Unterer Mantel experiment Among the most plausible locations for whole-mantle plumes 13 , almost all are located in the oceans, where high imaging resolution in the upper and lower mantle can be achieved only by instrumenting large areas of kilometre-deep seafloor 14 , 15 , 16 or the water column 17.
+ Only a few hotspots 14 , 15 , 16 have been instrumented due to the challenges of ship access and sensor technologies. The largest such experiment, in terms of spatial footprint and instruments operating simultaneously, has been the Réunion Hotspot and Upper Mantle–Réunions Unterer Mantel (RHUM–RUM) experiment 18.
+ It covered 2,000 × 2,000 km 2 of western Indian Ocean with 57 broadband ocean-bottom seismometers (OBSs) for 13 months, complemented by 37 island stations (Fig.
+1 ). In first using RHUM–RUM body-wave data for tomography, our hemispheric-scale study is able to trace at least one upwelling from the African LLVP to its surface location in high detail.
+Red dots represent broadband OBSs (October 2012–November 2013). Pink diamonds represent broadband land seismometers (2011–2016). Yellow circles and cyan hexagons represent broadband stations of partner projects SELASOMA 52 and MACOMO 53 , respectively. Lower panel shows different 3D views of usable teleseismic rays incident on OBS stations during their 13-month deployment. Red/blue rays represent seismically slower-/faster-than-average wave paths (modelled by finite-frequency kernels, not rays). Overall station event distribution can be viewed in Supplementary Fig.
+1.
+ R, La Réunion Island; M, Mauritius; SWIR, Southwest Indian Ridge.
+Full size image La Réunion Island features the primary attributes of a classical, deep hotspot 13.
+ Among Earth’s most active volcanoes, it is located ~1,000 km from the nearest plate boundary, with long-lived, stationary volcanism and the enriched and noble gas geochemistry characteristic of hotspots. A time-progressive, 5,500-km-long volcanic track leads to the Deccan Traps in India, which erupted more than 10 6 km 3 of flood basalts around 65 Ma 13 , 19 , 20.
+P-wave tomography from surface to core Our tomography samples the entire mantle column by jointly inverting three types of P-wave observations. The first dataset of travel-time picks from the International Seismological Centre (ISC)–Engdahl, van der Hilst and Buland (EHB) 21 , 22 catalogue yields a conventional global P-wave model illuminating mainly the mid-mantle. The second, methodically new dataset of core-diffracted P waves (P diff ) constrains the lowermost mantle globally 23.
+ A third new dataset of 55,657 teleseismic multi-frequency travel times, measured on the dense RHUM–RUM array 18 , resolves the upper half of the mantle under the oceanic Réunion hotspot. The respective contributions of the three datasets are illustrated by Fig.
+2 and detailed in the Methods.
+ Seismic velocity anomalies are caused primarily by mantle temperature variations, with slower-than-average regions probably hot and therefore buoyant 24.
+a , Global inversion using ISC–EHB/EHB teleseismic travel-time picks. The location of this 2D section is marked by the black great-circle line on the 3D globe in the top left. Red and blue shades indicate slower- and faster-than-average P velocities ( V p ), respectively. Vertical black column extends from La Réunion down to the CMB. Md, Madagascar; CIR, Central Indian Ridge; PGZ, plume-generation zone.
+b , The same model with slow anomalies rendered as five velocity isosurfaces (d V p / V p = –0.25%, –0.5%, –1%, –2% and –3%) within a 1,000-km-thick, cross-sectional slice (shaded blue on the globe) and everywhere in the lowermost 500 km.
+c , d , 2D cross section ( c ) and 2D cross section with 3D rendering ( d ) of joint inversion of data used in a and b plus a global dataset of 189,439 multi-frequency P diff travel times (in five frequency bands; periods 30–7.5 s).
+e , f , 2D cross section ( e ) and 2D cross section with 3D rendering ( f ) of joint inversion of data used in c and d plus 55,657 multi-frequency teleseismic travel times measured on the RHUM–RUM array.
+Full size image The teleseismic model in Fig.
+2a,b shows a voluminous body of slow P velocities resides in the lower mantle beneath southern Africa—the African LLVP with its sharp western edge, tilting eastward towards the surface 6 , 25.
+ The upper mantle is slow beneath the Réunion hotspot and Madagascar. The three-dimensional (3D) hulls in Fig.
+2b emphasize the smoothness of this conventional global tomography, characteristically lacking upper-mantle detail beneath the hotspot because seismic stations in the region were limited to a few widely spaced island locations.
+The base of the mantle is constrained only marginally by existing P-wave tomographies 7 , 26 , but it is sampled extensively by our P diff waveform measurements. Figure 2c,d shows the effect of adding these data. The lower mantle becomes slower and more structured than in Fig.
+2a,b.
+ On the CMB, a narrow, slow corridor extends southeastwards from the LLVP’s main doming, towards the viewer in Fig.
+2c , rising 500–900 km above the CMB. We term this the Southern Indian Ocean (SIO) corridor.
+The model resulting from the joint inversion of all three datasets, including RHUM–RUM, is named RROx-19 (Fig.
+2e,f ). Slow-velocity anomalies at all depths are further intensified and concentrated spatially, compared not just with Fig.
+2a–d but also with published models (Extended Data Fig.
+1 ). Crucially, the eastward-tilting mid-mantle structure sharpens into an alignment of distinctive blobs, each 700–800 km in diameter, which are robust in numerous resolution tests ( Methods ). Beneath the area instrumented by RHUM–RUM, the upper mantle acquires the expected layering of fast lithosphere underlain by slow asthenosphere and reveals small-scale, lateral subdivisions. The upwellings have a strongly 3D character.
+Figure 3 is an annotated zoom into the preferred joint inversion of Fig.
+2f , additionally showing a northeast–southwest cross section through Afar and Bouvet hotspots and the East African Rift region. Beneath Réunion, a 200-km thin vertical conduit appears in the upper mantle (right dashed arrow in Fig.
+2f ) and is robustly resolved (Extended Data Fig.
+2 ). The conduit is anchored in a slow blob (marked by a bullseye), the distal part of the 700- to 800-km-thick mid-branch that tilts up eastwards from the LLVP cusp. If a vertical slow conduit beneath Réunion continued below 1,000 km, it would be much thinner than this tilting structure because resolution in this entire vertical column is excellent according to the resolution tests (Supplementary Figs.
+4 and 5 ). Despite its disrupted downward connection, the hotspot sits vertically above slow lowermost mantle, on the SIO corridor’s northern flank (Extended Data Fig.
+3 ).
+a , The same, 1,000-km-wide, cross-sectional band through La Réunion as Fig.
+2f.
+ Long-dashed purple line marks the top of the LLVP. The bullseye and cross mark the areas where Kerguelen and East African mid-mantle branches emerge out of and into the viewing plane. Structure outside the grey dashed lines is not 3D rendered for better visibility of the main features; the same is true for the grey area between points 3 and 4, which contains a smearing artefact emerging out of plane.
+b , An analogous cross section through the Bouvet mid-mantle branch, the LLVP cusp (purple dashed line), the East Africa mid-mantle branch and Afar hotspot (vertical line).
+Full size image Another vertical, upper-mantle conduit sits beneath southernmost Madagascar (Fig.
+3 ; ~100 km in diameter, left dashed arrow) and is well resolved (Extended Data Fig.
+2 ). This conduit could relate to the unexplained, late Cenozoic onset of volcanism on Madagascar 27 , present-day low velocities in the Madagascan asthenosphere 28 and 1–2 km of dynamically supported uplift since 15 Ma 29.
+ However, no time-progressive volcanic track is known, and the geochemistry of central Madagascan volcanism requires no substantial excess temperatures 30.
+ Farther west, LLVP-connected anomalies extend to asthenospheric depths of ~250 km but appear contained beneath old Jurassic lithosphere of the Mozambique Channel 31.
+Under the Central Indian Ridge, the uppermost mantle is slow (Fig.
+2e ), as expected for active spreading 31 , 32.
+ The westward-down extension towards the mid-mantle blob is probably a smearing artefact due to lack of instrumentation because surface-wave tomography confirms slow velocities beneath the ridge to be limited to the upper 100 km 31 , 32.
+Structural elements of the LLVP The 3D connectivity of slow structure (presumably upwellings) is rendered in Fig.
+4 , centred on southern Africa. Figure 4a renders all low-velocity anomalies between 1,000 and 2,900 km (colour codes for depth); Fig.
+4b–e separates the same structure into narrower depth bins.
+a , Isosurface of d V p / V p = –0.3% encloses slow material between 1,000 and 2,900 km, with colour indicating depth and changing every 100 km. Coastlines are filled light grey at the surface and outlined in dark grey at the deepest rendered depth (2,900 km). 3D rendered area is outlined in black, extending from 55º S, 20º W to 12º N, 50º E (at all rendered depths, in all panels). Hotspot locations are marked by black vertical columns from the surface to the deepest rendered depth: A, Afar; R, La Réunion; K, Kerguelen; M, Marion; B, Bouvet.
+b , Slow anomalies between 2,900 and 2,400 km depth, contoured at d V p / V p = –0.3%. A 2D isosurface is rendered every 100 km (five isosurfaces in total, the deepest filled with colour according to the colour bar). Other elements as described for panel a.
+c , Slow anomalies between 2,300 and 1,900 km depth.
+d , Slow anomalies between 1,600 and 1,300 km depth. Arrows highlight three diverging branches; they are not meant to imply trajectories of material flow.
+e , Slow anomalies between 1,100 and 900 km depth. As in d , arrows highlight diverging branches.
+f , Conceptual cartoon of the plume tree, its East Africa and SIO branches flattened into a plane.
+Full size image The lowermost mantle (2,900–2,400 km, Fig.
+4b ) features a single, hemisphere-spanning structure, the African LLVP. It consists of a broadened central part under southern Africa, where three narrowly elongated corridors converge. The longest is the SIO corridor (~7000 km long, ~800 km wide on the CMB). The Kerguelen hotspot sits above its distal end, and Réunion and Marion hotspots near its northern and southern flanks, respectively. The East African (EA) corridor extends northwards under Kenya, atop which the Afar hotspot was sitting ~30 Ma 33 , 34 when its flood basalts erupted 35.
+ (Africa has drifted north since.) A third, shorter corridor is incident from the west (South Atlantic). These CMB corridors are discernible in some previous global tomographies (Extended Data Fig.
+4 ) but are rendered more narrowly elongated by our P diff data, hence more distinct from the LLVP’s central region under South Africa.
+Between 2,300 and 1,900 km (Fig.
+4c ), slow velocities fade above the corridors and gather in a narrow dome under South Africa, forming the LLVP’s cusp (Fig.
+3 , dashed purple line). A smaller dome is present beneath the Kerguelen area. At 1,600–1,300 km depth (Fig.
+4d ), the Kerguelen dome has faded, and the central dome has split into three diverging branches, one running southeast (above the SIO CMB corridor), another running north (above the EA corridor), and the third running southwest towards the Bouvet hotspot.
+The three branches continue to diverge and rise between 1,100 and 900 km depth (Fig.
+4e ). South of Madagascar, the SIO splits into two sub-branches running towards Réunion and Kerguelen.
+From deep to shallow levels, slow anomalies become increasingly small scale and scattered. In composite Fig.
+4a , slow anomalies are notably absent above the LLVP’s central cusp, instead clustering above the red-brown SIO and EA corridors. Into the upper mantle, we lose resolution outside instrumented areas, but the general increase in structural complexity is real (further confirmed by Supplementary Fig.
+4a,b , above 800 km) and presumably reflects the lower viscosities of the upper mantle 36.
+The key observation of Fig.
+4a , of the two major tilting branches (EA, SIO) vertically overlying the two major LLVP corridors, means that the essence of 3D structure can be captured by the 2D sections of Fig.
+3 and cartoon Fig.
+4f.
+ Figure 3b slices through the EA and Bouvet mid-mantle branches, the former rising from the LLVP cusp northwards, toward Malawi and Kenya, further connecting to Afar through anomalously slow upper mantle.
+The mid-mantle branch towards Bouvet rises southwestwards from the cusp, similar to the SIO and EA branches in overall appearance, though less well resolved (Supplementary Fig.
+2 ). A slow CMB corridor underlying the Bouvet branch is currently not resolvable (see targeted test, Extended Data Fig.
+5 ) but may be present because most global models in Extended Data Fig.
+4 show the resolvable vestiges expected for the case that a corridor were present.
+The tilting East African Rift branch was well known 6 , 37 , and the tilting SIO branch is discernible in global tomographies (Extended Data Fig.
+1 ). The Bouvet branch is newly resolved, as is the emergence of all three branches from one specific area and depth under the southern Mozambique Channel (the cusp), which thus becomes recognizable as the upper limit of the LLVP.
+A family tree of Indo-African plumes None of the existing models for LLVP–plume interaction 5 anticipated or explain the observed, multiple occurrences of tilting mid-mantle branches, vertically underlain by slow CMB corridors. Three instances of this structural element converge under southern Africa, giving the LLVP a tree-like appearance (Fig.
+4f ). Narrow, root-like CMB corridors converge on a central doming region (the trunk). Three branches split off at the top of this trunk (~1,500 km depth), diverging upwards and further splitting into a canopy of splotchy, small-scale structure above 1,000 km.
+Figure 5 proposes a new model for how the African LLVP generates plumes and hotspot volcanism. It accounts for our seismic observations and hindcasts the spatiotemporal patterns of plume-head eruptions in detail (large igneous provinces, LIPs). Each mid-mantle branch consists of several blobs or proto-plumes (~800 km in diameter, Fig.
+3a ), which rose vertically from the CMB corridor underneath. The blobs are diagonally aligned because they detached in temporally staggered sequence (not because plume material flows diagonally up within the branch).
+a , A proto-plume, 1, ~800 km in diameter, develops at the distal end of an LLVP corridor, a region of maximum d T /d x.
+b , 1 detaches and rises vertically. The next instability, 2, develops left of 1, in the new instantaneous region of maximum d T /d x.
+c , Continued vertical rise of 1 and 2 and incipient detachment of 3 in the adjacent, new region of maximum d T /d x.
+d , Present-day snapshot shows tilted alignment of rising proto-plume blobs and a thinned low-velocity corridor left behind on the CMB. On reaching the viscosity boundary between lower and upper mantle, proto-plume 1 spawns the ‘classical’ sequence of a short-lived plume head (LIP), followed by one or more thin, long-lived plume tails, which remain rooted in their mid-mantle blob. Arrival of the plume head dynamically uplifted the lithosphere 54 (vertically exaggerated). Proto-plume 1 corresponds with the Réunion plume in Fig.
+3 (top) and Fig.
+4f ; 3 corresponds with the LLVP cusp.
+Full size image Blob 1 detaches from the distal end of the CMB corridor (Fig.
+5a ). This promontory region is characterized by strong lateral temperature gradients (d T /d x ) to its non-LLVP surroundings in three directions (to the right, and in/out of the viewing plane). Settings of strong d T /d x are known to be preferential formation regions for thermal instabilities 38 , 39.
+ The upward release of Blob 1 shifts the location of maximum d T /d x left along the corridor (Fig.
+5b ), where the next instability is generated (Blob 2). Departure of Blob 2 causes instability 3 to its left, and so on. Thus, a self-triggering cascade of blob-shaped detachments propagates along a hot CMB corridor, towards the centre of the LLVP. Upon reaching the boundary to the upper mantle with its drop in ambient viscosity, each proto-plume blob spawns a plume-head/plume-tail sequence (Fig.
+5d ). This explains why the thin plume-tail conduit under present-day Réunion is anchored in a mid-mantle blob rather than the CMB.
+Tank and numerical models show a strong tendency for plume material to rise vertically 9 , 10 , 12 ; notable tilts are produced only when plume detachment regions sweep laterally across the CMB over time 12 , as in Fig.
+5.
+ Moreover, diagonal upwards flow in the branches would not require or explain CMB corridors vertically underneath. Compared with earlier S-wave models, our P diff observations narrow the CMB corridors to <1,000 km, no wider than the detaching blobs—a line-like LLVP geometry removes or supersedes the debate of whether plumes rise from the centre versus the interior of the LLVP 4 , 40.
+Our model hindcasts a linearly staggered sequence of plume-head arrivals at the surface (LIP eruptions), which are indeed observed for the EA and SIO branches. Located distally above the EA corridor, the Afar region experienced flood basalt eruptions ~30 Ma, followed by transition from continental rifting to seafloor spreading. Continental rifting is increasingly recent and less advanced towards the southern EA rift 35 , and the associated magmatism does not (yet) have LIP character, although slow-velocity anomalies are already flooding the upper mantle (Extended Data Fig.
+6 ). As predicted, no rifting is observed south of Malawi/Mozambique, where the tilting Afar branch is still at mid-mantle depths.
+Similarly, the Kerguelen flood basalts occurred ~120 Ma 19 , 41 , 42 above the distal SIO corridor and moved inwards to Marion ~90 Ma 19 , 41 , 42 (Madagascar Rise LIP) and to Réunion ~65 Ma (Deccan Traps LIP) 13 , 19 , 41 , but no flood basalts have occurred closer to the cusp, where the upwelling SIO branch is still at mid-mantle depths. The three LIP arrivals above the SIO corridor are thought to have created the Indian Ocean as they unzipped India from its Gondwana supercontinent surroundings, in the sequence India from Antarctica 19 , 41 , 42 ~120 Ma (Kerguelen); India from Madagascar 19 , 41 , 43 ~90 Ma (Marion); and India from Seychelles 19 , 41 , 42 ~65 Ma (La Réunion). Similarly, the plume heat emanating from the EA corridor may be enabling the splitting of Africa, potentially creating a new ocean basin 35.
+ Thus, SIO and EA corridor geometries foreshadowed the strikes of major future spreading systems. The linear staggering of proto-plume detachments (Fig.
+5 ) explains the effectiveness of flood basalts in unzipping continents and creating new spreading ridges 19 , 41 , 44 (compared with randomly sequenced LIP arrivals).
+This newly predictable sequencing of LIPs informs the question of whether flood basalts precede continental rifting or vice versa 45 , 46.
+ Under Kenya, for example, a future LIP seems to be rising, but rifting and hot asthenosphere inflow may have long been encroaching from the north (Afar). Thus, Kenyan rifting precedes its LIP but is driven (or facilitated) by the adjacent, preceding LIP within the EA corridor sequence.
+We predict cataclysmic flood basalts, some tens of millions of years in the future, for the surface overlying the LLVP cusp, where three inward-sweeping mid-mantle branches converge—possibly analogous to widespread, Cretaceous plateau eruptions above the Pacific LLVP 4 , 14 , 19 , 47 , 48.
+ Upwelling of the cusp probably already shapes the large-scale topography anomaly of southern Africa, which stands 500–1,000 m higher than expected 49.
+Our model of blobby proto-plumes (Fig.
+5 ) predicts a Réunion-like situation under every active hotspot of the region: a classical, thin and vertical plume conduit, but only down to ~700 km depth. There it is anchored in a mid-mantle blob without a tail to the CMB (for example, ref.
+11 ). Currently resolved structure under Afar 6 , 37 , Bouvet (Extended Data Fig.
+6 ) and Kerguelen is consistent with this prediction. Hence, the observed, near-stationarity of Indo-Atlantic hotspots (relative motions of <10 mm yr –1 ), long harnessed for constructing absolute reference frames 19 , 33 , may measure the advection of mid-mantle reservoirs at 700–1,500 km depth rather than in the lowermost mantle.
+The thin, upper-mantle conduits under Réunion and Madagascar may represent mostly thermal plumes released from the proto-plume, whose denser components tend to stay behind in the broad mid-mantle blob (Fig.
+5d ). Tailless blobs of large diameters (700–800 km under Réunion) point towards a dense chemical component in the LLVP and in the proto-plumes 10.
+ Dense blobs need to become hotter to rise, perhaps partly explaining their robust tomographic visibility. Purely thermal plumes require smaller excess temperatures to rise, should be thin and should retain their stems to the CMB 10.
+The hotspots that form the branches of the southern African LLVP tree essentially coincide with the ensemble of hotspots defining the geochemical DUPAL anomaly 50 , 51 , which distinguishes hotspot basalts of the Indo-Southern Ocean from others around the world. Hence, the source region of the DUPAL anomaly may be identified with the LLVP tree structure below its branching depth of ~1,500 km. Indian and Southern Ocean hotspot eruptions that were previously not known to be specifically related beyond their shared DUPAL signature are aligned into predictable spatiotemporal sequences by our observation of narrow LLVP corridors paired with vertically detached upwellings in the mid- and upper mantle. This inference has been enabled by the very detailed imaging, from lithosphere to core, of one complete ‘unzipping corridor’ under the SIO, including one of its currently active hotspots (La Réunion), and by much-improved resolution of the southern African LLVP. Surface relationships to geologically datable events (flood basalts, continental rift progression, dynamic topography, geochemistry) open new paths for investigating the dynamics of plumes, their source regions and their role in continental uplift and rifting.
+Methods RHUM–RUM The RHUM–RUM experiment instrumented 2,000 × 2,000 km of the western Indian Ocean (Fig.
+1 ). Its central component was a 13-month deployment of 57 German and French broadband OBSs in 2,300- to 5,600-m-deep water, supplemented by 2–3 yearlong deployments of 37 island stations on La Réunion, Mauritius, Rodrigues, the southern Seychelles, the Iles Eparses and southern Madagascar. Two complementary partner projects across Madagascar 53 and Mozambique 52 extended the deployment westwards with another 33 stations. Combined with a cluster of OBSs that stretched eastwards to the Central Indian Ridge, the overall array was elongated in an east–west direction, making optimal use of crossing wave paths from the two most prolific incidence directions of teleseismic earthquakes: the southwest Pacific subduction zones to the east and the South Sandwich subduction to the west. A line of distant southerly OBSs recorded seismicity from the Alpine–Himalayan mountain belts, and Seychelles stations recorded sparser events from the south.
+Pre-processing The RHUM–RUM dataset 55 has been assigned the FDSN network code YV and is freely accessible at the French RESIF data centre ( http://seismology.resif.fr ). Large volumes of seismic waveforms were retrieved and pre-processed using obspyDMT 56 , a program that automatically applies instrument correction and filters and cuts the waveforms around possible earthquakes according to a selected earthquake catalogue. A general description and quality assessment of the waveforms recorded by OBS stations was presented by Stähler et al.
+57 ; the main challenge in working with the ocean-bottom data was ambient (microseismic) noise and high self-noise (only in the German DEPAS stations).
+Dataset 3: teleseismic, multi-frequency measurements on Indian Ocean stations We followed the approach of Sigloch and Nolet 58 , briefly outlined in the following. Observed broadband waveforms from RHUM–RUM OBS, island stations and other land stations were Gabor-filtered in eight frequency passbands between 30 and 2.7 s centre period. To measure travel-time delays, these observations were cross correlated with bandpassed synthetic waveforms 23 , 58 (not with neighbouring observed seismograms), yielding travel-time delays relative to spherically symmetric Earth model IASP91. A measurement was accepted for input to the tomography if the Pearson cross-correlation coefficient exceeded 0.8. This procedure yielded the 55,657 teleseismic P-wave travel times in the eight frequency passbands, from 25,130 unique source-receiver paths, generated by 635 earthquakes that occurred 2011–2016 (Supplementary Fig.
+1 ). Multi-frequency measurements enable selectively rejecting data in noisy frequency bands, while often retaining at least one acceptable band per wave path. Since OBS seismograms are more affected by microseismic noise than are land stations, the method salvages a maximum of wave paths for these expensive and valuable measurements.
+Synthetic waveforms are calculated as the convolution of a (broadband) Green’s function with a (broadband) source time function (STF), which are subsequently Gabor-filtered to the same passbands as the observations. Fully numerical Green’s functions are calculated in the broadband range of 0.2 MHz to 1 Hz, using the axisymmetric spectral element method AxiSEM 59 (via its look-up database Instaseis 60 ). We propagated waves through the spherically symmetric Earth model IASP91 61 with density and attenuation taken from PREM 62.
+For each of the 635 earthquakes, a broadband STF is estimated (jointly deconvolved) from a suitable, spatially evenly distributed subset of broadband seismograms recorded for the event in question and from their broadband synthetics. For STF deconvolution, we use all stations at teleseismic distances that are part of the permanent, international networks (network codes II, IU, G or GE), but no RHUM–RUM stations or other temporary, regionally clustered networks. The computation of STFs is required for making correlation measurements because our study is almost global in scale. We cannot calculate finite-frequency travel times by correlating data with data (as in regional studies) because the waveforms may look too different to correlate well (due to the effects of radiation pattern and depth phases pP and sP). We have to correlate data with synthetics, and our frequencies are so high, and most events so shallow (depth phases pP and sP spaced by only a few seconds), that approximating the STF as Dirac pulse does not yield satisfactory correlations. STF shape is also used as a quality check; that is, events are not used for subsequent travel-time measurements when their STF estimates look non-physical 23 (see Sigloch and Nolet 58 for details).
+Dataset 2: multi-frequency travel-time measurements of P diff These deepest-diving body waves are abundantly observed on broadband seismograms, but they have hardly been used in tomography 63 , 64 because computational modelling of their diffraction by Earth’s core is challenging. In a decade-long method-development effort, we have measured multi-frequency cross-correlation travel times on broadband, core-diffracted P waveform 23 , 65 , modelled by the full-waveform propagation method AxiSEM 59.
+ Figure 2c,d illustrates the benefits of jointly inverting P diff travel times with the teleseismic ISC–EHB picks. P diff waves dive so deep that they sense Earth’s core and are diffracted around it. Their abundance and relatively short wavelengths make them the most highly resolving wave type that extensively samples the lower third of the mantle. These longest-distance P waves (epicentral distances of ~97° or greater) have been made usable for tomography by Hosseini and Sigloch 65 and Hosseini et al.
+23.
+ This study uses a regionally optimized subset of 189,439 cross-correlation measurements of P diff travel times in five frequency bands (periods 30 to 7.5 s), taken from the global dataset of ~1,400,000 travel times inverted by Hosseini et al.
+23.
+ Full-waveform synthetics were calculated using the AxiSEM 59 software, as for dataset 3.
+Dataset 1: teleseismic ISC–EHB travel-time picks The backbone dataset of over 2 million analyst-picked, teleseismic P-wave arrivals, was chosen because these data have been recorded around the sparsely instrumented Indian Ocean for three decades longer than modern broadband networks. To maximize the data coverage in the mid- and upper mantle beneath the western Indian Ocean, and to embed our new multi-frequency measurements in a global context, we complemented the inversion by a subset of analyst-picked P-wave arrival times from the EHB 21 catalogue (picks reported between 1970 and 1999) and from the new ISC–EHB 22 catalogue (2000–2014). Our aim was to select the smallest useful subset of teleseismic P-wave picks that would fill as many gaps as possible in our multi-frequency data coverage. We considered P-wave arrival picks at epicentral distances 30°–90° if the precision of their arrival-time reading was better (smaller) than 0.1 s. We also used the method of Hosseini et al.
+23 to homogenize the directional density coverage of measurements at source-receiver locations. The final selection includes 2,342,621 teleseismic P-wave phase picks.
+Tomography All P-wave travel times were corrected for crustal structure, topography and ellipticity. We correct for crustal structure using the model CRUST2.0 66 in a ray-theoretical framework 67 , that is, not accounting for frequency dependence 68.
+ Finite-frequency sensitivity kernels were computed for the P diff travel times (as in ref.
+23 ) and for the teleseismic RHUM–RUM travel times (following the method of Dahlen et al.
+69 ). The ISC data were modelled with ray-like sensitivities. Each sensitivity kernel is numerically integrated on the tetrahedral inversion grid 23 , 70 , 71.
+ The earthquakes were relocated during the inversion stage. A combination of norm damping and Laplacian smoothing operators was used to regularize the ill-posed linear system of equations. By changing the intensity of the two regularization parameters, the trade-off between residual data misfit || G m – d || 2 (where G is the matrix containing the sensitivity kernels discretized over our model m , and d is the data vector containing the travel-time measurements) in terms of \(\chi _{{\mathrm{red}}}^2\) (absolute χ 2 divided by the number of data N ) can be written as: $$\chi _{{\mathrm{red}}}^2 = \frac{1}{N}\mathop {\sum }\limits_{i = 1}^N \left( {\frac{{d_i^{{\mathrm{obs}}} - d_i^{{\mathrm{pred}}}}}{{\sigma _i}}} \right)^2$$ and the model norm || m || 2 can be analysed. In this equation, d i obs is the observed travel time, d i pred is the predicted travel time and σ is the a priori uncertainty assigned to each measurement according to the cross-correlation coefficient x c.
+ The values of x c translated to assigned measurement uncertainties σ as follows: 0.8 ≤ x c < 0.85 to σ = 1.0 s; 0.85 ≤ x c < 0.90 to σ = 0.6 s; 0.90 ≤ x c < 0.95 to σ = 0.4 s; 0.95 ≤ x c < 1.0 to σ = 0.3 s. All ISC measurements are assigned an uncertainty of σ = 1.0 s.
+Each L curve is derived by assuming a constant ratio of the \(\frac{{{\mathrm{damping}}}}{{{\mathrm{smoothing}}}}\) parameters but with different absolute amplitudes.
+\(\chi _{{\mathrm{red}}}^2 = 1\) is the optimal value to target if all σ are perfectly known. In practice, imperfect knowledge about the measurement uncertainties means some experimentation and subjective model appraisal in a relatively narrow range around this theoretically optimal χ 2 value (usually models close to the bending of the L curve). Our preferred model has χ 2 = 1.02.
+The resulting tomography models can be examined in Fig.
+2.
+ In the ISC-only model (Fig.
+2a ), the uppermost mantle between the Madagascar and the Réunion areas is laterally uniformly red (slow) and lacks any vertical layering. The shallow, fast (blue) blob just west of Réunion in Fig.
+2c (versus Fig.
+2a ) is introduced by paths incident on the Réunion station ‘RER’ from core-diffracted distances from the west (various azimuths, Andean earthquakes and Mid-Atlantic Ridge). By contrast, western paths from teleseismic distances in Fig.
+2a are essentially limited to the South Sandwich arc. These teleseismic observations are evidently not sufficiently numerous and/or not sufficiently localizable along their ray paths to ‘override’ the tomography’s smoothing constraint, which acts to blur the red anomalies to either side of the blue anomaly (Fig.
+2c ) into a single, laterally extended red anomaly in Fig.
+2a.
+ All of these structures in the ISC-only and in the ISC + P diff models are essentially constrained by only one station on Réunion, one on Mauritius, and one or two on Madagascar. In Fig.
+2e , the RHUM–RUM data confirm and intensify the intervening blue anomaly. In addition, the laterally extended RHUM–RUM network introduces a vertical layering of lithosphere, asthenosphere and transition zone in the upper mantle under this region.
+The three tomography models compared in Fig.
+2 are chosen such that they feature most nearly the same global χ 2 misfit statistics (of close to 1.0 for the global dataset and ~1.4 for data recorded in the Indian Ocean and Africa). The data fit for the ISC data does not deteriorate when the P diff data get introduced in addition (transition from Fig.
+2a,b to Fig.
+2c,d ), and the fits of ISC and P diff datasets do not deteriorate when the RHUM–RUM data get introduced (transition from model Fig.
+2c,d to Fig.
+2e,f ). This combined model fits all three datasets without conflicts or trade-offs.
+Visualization All 3D visualizations (Figs.
+2 , 3 and 4 ) were done using ParaView 72 ( http://www.paraview.org ), an open-source data analysis and visualization application. Low velocities are rendered at several isovalues (d V p / V p = –0.25%, –0.5%, –1%, –2% and –3%); this leads to a 3D rendered effect, where seismically slow structures are enclosed by the nested isosurfaces. In Figs.
+2 and 3 , the corresponding, nested cylindrical colour bar clarifies this visualization concept. Each cylinder represents one velocity isovalue, several of which are stacked into each other. Cut obliquely, we can identify the different cylinders and their isovalues (darker red means slower d V / V ). The same idea of nested hypersurfaces applies when assessing the tomographic model.
+Figures that present nested isosurfaces in thick cross-sectional slices always render volumes that are ring shaped (segments of a great circle) and 1,000 km wide; that is, the rendered region extends 500 km towards the viewer and 500 km away from the viewer, with a conventional, 2D, red-blue cross section forming the dividing plane. In addition to this, Figs.
+2 and 3 render nested isosurfaces within 500 km of the CMB.
+The published tomographic models used for comparison in Extended Data Figs.
+1 , 3 and 5 were downloaded from our free SubMachine 73 web portal and visualized with ParaView using the same techniques.
+Comparison with other tomographic models Extended Data Figs.
+1 , 3 and 5 compare our model RROx-19 with nine other global tomography models (from top to bottom and left to right): DETOX-P3 23 , GAP-P4 74 , HMSL-P06 75 , PRI-S05 70 , S363ANI + M 76 , S40RTS 77 , savani 78 , SEMUCB-WM1 79 and TX2015 80.
+ It is generally observed that d V / V anomalies in P-wave models have lower amplitudes than in S-wave models. This difference is driven by the relatively larger changes in shear modulus versus bulk modulus, (mainly) as a function of temperature heterogeneities in the mantle.
+Extended Data Fig.
+1 compares models in the 1,000-km-thick slice containing the Réunion mid-mantle branch and the SIO CMB corridor beneath it. DETOX-P3 and GAP-P4 capture the general structure of the LLVP and cusp area but lack resolution beneath Réunion. PRI-S05, S40RTS and TX2015 have the highest overall resemblance to RROx-19. All models capture the sharp, tilting western edge of the LLVP. None of the models shows comparable details to RROx-19 in the upper mantle, and most of them fail to image a connection of the LLVP with the upper mantle. Notably, DETOX-P3 does not resolve nearly as much structure under this study area, despite incorporating RHUM–RUM data in the inversion. This is no surprise since the data coverage in a global model is very heterogeneous and a dataset like RHUM–RUM would not fall into full focus.
+Extended Data Fig.
+6 compares models in the 1,000-km-thick slice containing the two mid-mantle branches towards Afar (East Africa) and Bouvet. The Afar branch has been well imaged in previous studies 6 , 37.
+ DETOX-P3 and GAP-P4 show the general shape of the LLVP and the connection to Afar. On the CMB vertically beneath Afar, a low velocity is visible (Supplementary Fig.
+4 , best seen in models S362ANI + M, SEMUCB-WM1 and TX2015), which does not seem connected to low-velocity anomalies vertically above it, in the upper third of the mantle. Only PRI-S05, S40RTS and TX2915 capture similar structures as RROx-19, including the mid-branch towards Bouvet.
+Extended Data Fig.
+4 compares models within ~500 km above the CMB. Amplitudes in P models are lower but are in good agreement with S models about the extent of the LLVP. The southeast-striking SIO corridor is prominent in all models but is more narrowly focused in RROx-19 than in other models (except perhaps S40RTS). All models (except for GAP-P4) show signs of a north–south corridor along the CMB extending from South Africa towards Afar. No model shows a clear, narrow CMB corridor towards Bouvet, but there are hints (a southwestward bulge of the slowest isosurfaces) in RROx-19, DETOX-P3 and the S-wave models (PRI-S05, SEMUCB-WM1, S40RTS and S362ANI + M).
+Resolution tests For resolution tests, synthetic travel-time data vectors are computed on the basis of synthetic, user-defined input models and a noise term (with realistic statistical properties). Solutions are then obtained through the same inversion procedure and parameter settings as for the observed data. The comparison between input and output models gives insights into how faithfully and completely the tomography can recover the hypothetical Earth structures.
+In Extended Data Fig.
+2 , we assume two narrow ( r = 75 km and 700 km deep) vertical plume conduits beneath the southernmost tip of Madagascar and southwest of Réunion. Both conduits are resolved, but the Madagascar conduit is better resolved (less smearing) than the Réunion conduit due to OBS station coverage.
+In Extended Data Fig.
+5 , we assume ~700-km-broad and ~400-km-high LLVP corridors to investigate the resolvability of these corridors. EA and SIO are well resolved whereas the Bouvet corridor vanishes. This is due to the low coverage of P diff phases in this undersampled region.
+Supplementary Fig.
+3 is whole-mantle resolution tests using a Gaussian chequerboard. The chequers are Gaussian spheres where d V p / V p peaks at their centre (±3%) and tapers exponentially to 1/ e of this value at 500 km radius (for the near-surface spheres; sphere radius decreases proportionally with depth.) Recovery in the upper mantle is good where stations are present. We observe excellent recovery of the chequerboard pattern between 800 and 2,000 km depth. Moderate smearing occurs in the mid-mantle and near the CMB, where input anomalies are smaller than the inversion mesh (typically 400 km facet length for tetrahedra at the CMB).
+Supplementary Fig.
+5 is a whole-mantle resolution test simulating vertical, whole-mantle plumes of the kind that we might have expected but did not observe under any Indian Ocean hotspot. This test shows that they would be well recovered if they were similarly thick as the mid-mantle branches that are observed instead. Note the good recovery at the CMB due to the inclusion of P diff measurements. Some lateral smearing appears below Kerguelen. In the South Atlantic, the model is not well resolved; most anomalies smear with low amplitudes or vanish completely under Tristan da Cunha and St. Helena.
+Supplementary Fig.
+4 is a resolution test for upper-mantle structure under the RHUM–RUM instrumented area, using smaller chequers (500 km 2 diameter at surface). Recovery is good in areas where OBSs were deployed. Note how the resolution drops in areas with no stations, for example, in the northern part of cross-section 1 and the northeastern part of cross-section 2, where the recovered model smears more and d V / V amplitude drops. By contrast, in the east of cross-section 3 where OBS are present, we recover the chequers with little smearing. The tomography shows the bulk of the low-velocity anomalies not centred beneath La Réunion but slightly shifted to the southwest (coinciding with the expected progression direction of the hotspot track).
+Supplementary Fig.
+6 tests the extent of artificial upward smearing in the upper 400 km. The resolution input model is RROx-19 with all structure in the upper 400 km removed. The output shows upward smearing beneath the southern Mozambique Channel and the Central Indian Ridge but no vertical smearing beneath Réunion itself (the region most densely instrumented by OBS).
+Supplementary Fig.
+7 tests the extent of artificial downward smearing below 300 km. This is an ambitious test because body-wave tomographies tend to have poor ray crossing in the uppermost mantle, and the crustal model is never perfect. Both factors contribute to artificial downward smearing. The input model is a surface-wave tomography model inverted from RHUM–RUM Rayleigh-wave measurements by Mazzullo et al.
+31 , which extends from 0 to 300 km depth. At 100–200 km depth, our body-wave inversion recovers the overall structure of the surface-wave model well, but it does not resolve vertical transitions, such as the change from red (at 100 km) to blue (at 200 km) in the southeastern quadrangle of the model. Moderate artificial smearing is observed down to 400 km, and weak smearing down to 600 km. Smearing is more pronounced outside of the instrumented area.
+Data availability All data used in this study are freely retrievable from international data centres that support the ‘web service’ protocol of the International Federation of Digital Seismograph Networks. We used the obspyDMT software of Hosseini and Sigloch 56 to retrieve and pre-process all the waveforms used in this study. Our tomography model and the models compared with in this paper are freely available through the ‘SubMachine’ tomography web portal: http://submachine.earth.ox.ac.uk/ (where the user can select models, depths and other parameters).
+Code availability The software used for tomographic inversion is available upon request from the corresponding author. It was customized from the software freely available at https://www.geoazur.fr/GLOBALSEIS/Soft.html.
+References Morgan, W. J. Convection plumes in the lower mantle.
+Nature 230 , 42–43 (1971).
+Article Google Scholar Sleep, N. H. Hotspots and mantle plumes: some phenomenology.
+J. Geophys. Res.
+95 , 6715–6736 (1990).
+Article Google Scholar Davies, G. F. Ocean bathymetry and mantle convection: 1. Large-scale flow and hotspots.
+J. Geophys. Res. Solid Earth 93 , 10467–10480 (1988).
+Article Google Scholar Burke, K., Steinberger, B., Torsvik, T. H. & Smethurst, M. A. Plume generation zones at the margins of large low shear velocity provinces on the core–mantle boundary.
+Earth Planet. Sci. Lett.
+265 , 49–60 (2008).
+Article Google Scholar Garnero, E. J., McNamara, A. K. & Shim, S.-H. Continent-sized anomalous zones with low seismic velocity at the base of Earth’s mantle.
+Nat. Geosci.
+9 , 481–489 (2016).
+Article Google Scholar Ritsema, J., Van Heijst, H. J. & Woodhouse, J. H. Complex shear wave velocity structure imaged beneath Africa and Iceland.
+Science 286 , 1925–1928 (1999).
+Article Google Scholar Montelli, R. et al. Finite-frequency tomography reveals a variety of plumes in the mantle.
+Science 303 , 338–343 (2004).
+Article Google Scholar French, S. W. & Romanowicz, B. Broad plumes rooted at the base of the Earth’s mantle beneath major hotspots.
+Nature 525 , 95–99 (2015).
+Article Google Scholar Davaille, A. Simultaneous generation of hotspots and superwells by convection in a heterogeneous planetary mantle.
+Nature 402 , 756–760 (1999).
+Article Google Scholar Kumagai, I., Davaille, A., Kurita, K. & Stutzmann, E. Mantle plumes: thin, fat, successful, or failing? Constraints to explain hot spot volcanism through time and space.
+Geophys. Res. Lett.
+35 , L16301 (2008).
+Article Google Scholar Davaille, A., Stutzmann, E., Silveira, G., Besse, J. & Courtillot, V. Convective patterns under the Indo-Atlantic «box».
+Earth Planet. Sci. Lett.
+239 , 233–252 (2005).
+Article Google Scholar Steinberger, B. & Antretter, M. Conduit diameter and buoyant rising speed of mantle plumes: implications for the motion of hot spots and shape of plume conduits.
+Geochem. Geophys. Geosyst.
+7 , Q11018 (2006).
+Article Google Scholar Courtillot, V., Davaille, A., Besse, J. & Stock, J. Three distinct types of hotspots in the Earth’s mantle.
+Earth Planet. Sci. Lett.
+205 , 295–308 (2003).
+Article Google Scholar Suetsugu, D. et al. South Pacific mantle plumes imaged by seismic observation on islands and seafloor.
+Geochem. Geophys. Geosyst.
+10 , Q11014 (2009).
+Article Google Scholar Wolfe, C. J. et al. Mantle shear-wave velocity structure beneath the Hawaiian hot spot.
+Science 326 , 1388–1390 (2009).
+Article Google Scholar Schlömer, A., Geissler, W. H., Jokat, W. & Jegen, M. Hunting for the Tristan mantle plume—an upper mantle tomography around the volcanic island of Tristan da Cunha.
+Earth Planet. Sci. Lett.
+462 , 122–131 (2017).
+Article Google Scholar Nolet, G. et al. Imaging the Galápagos mantle plume with an unconventional application of floating seismometers.
+Sci. Rep.
+9 , 1326 (2019).
+Article Google Scholar Barruol, G. & Sigloch, K. Investigating La Réunion hot spot from crust to core.
+Eos 94 , 205–207 (2013).
+Article Google Scholar Morgan, W. J. in The Oceanic Lithosphere (Ed. Emiliani, C.) 443 (Wiley, 1981).
+Richards, M. A., Duncan, R. A. & Courtillot, V. E. Flood basalts and hot spot tracks: plume heads and tails.
+Science 246 , 103–107 (1989).
+Article Google Scholar Engdahl, E. R., van der Hilst, R. & Buland, R. Global teleseismic earthquake relocation with improved travel times and procedures for depth determination.
+Bull. Seismol. Soc. Am.
+88 , 722–743 (1998).
+Article Google Scholar Weston, J., Engdahl, E. R., Harris, J., Di Giacomo, D. & Storchak, D. A. ISC-EHB: reconstruction of a robust earthquake data set.
+Geophys. J. Int.
+214 , 474–484 (2018).
+Article Google Scholar Hosseini, K. et al. Global mantle structure from multifrequency tomography using P, PP and P-diffracted waves.
+Geophys. J. Int.
+220 , 96–141 (2020).
+Article Google Scholar Masters, G., Laske, G., Bolton, H. & Dziewonski, A. in Earth’s Deep Interior: Mineral Physics and Tomography from the Atomic to the Global Scale (eds Karato, S.-I. et al.) 63–87 (AGU, 2000).
+Ni, S., Tan, E., Gurnis, M. & Helmberger, D. Sharp sides to the African superplume.
+Science 296 , 1850–1852 (2002).
+Article Google Scholar Grand, S. P., Van Der Hilst, R. D. & Widiyantoro, S. Global seismic tomography: a snapshot of convection in the Earth.
+GSA Today 7 , 1–7 (1997).
+Google Scholar Rindraharisaona, E. J. et al. Crustal structure of southern Madagascar from receiver functions and ambient noise correlation: implications for crustal evolution.
+J. Geophys. Res. Solid Earth 122 , 1179–1197 (2017).
+Article Google Scholar Pratt, M. J. et al. Shear velocity structure of the crust and upper mantle of Madagascar derived from surface wave tomography.
+Earth Planet. Sci. Lett.
+458 , 405–417 (2017).
+Article Google Scholar Roberts, G. G., Paul, J. D., White, N. & Winterbourne, J. Temporal and spatial evolution of dynamic support from river profiles: a framework for Madagascar.
+Geochem. Geophys. Geosyst.
+13 , 1525–2027 (2012).
+Article Google Scholar Cucciniello, C. et al. From olivine nephelinite, basanite and basalt to peralkaline trachyphonolite and comendite in the Ankaratra volcanic complex, Madagascar: 40 Ar/ 39 Ar ages, phase compositions and bulk-rock geochemical and isotopic evolution.
+Lithos 274–275 , 363–382 (2017).
+Article Google Scholar Mazzullo, A. et al. Anisotropic tomography around La Réunion Island from Rayleigh waves.
+J. Geophys. Res. Solid Earth 122 , 9132–9148 (2017).
+Article Google Scholar Barruol, G. et al. Large-scale flow of Indian Ocean asthenosphere driven by Réunion plume.
+Nat. Geosci.
+https://doi.org/10.1038/s41561-019-0479-3 (2019).
+O’Neill, C., Müller, D. & Steinberger, B. On the uncertainties in hot spot reconstructions and the significance of moving hot spot reference frames.
+Geochem. Geophys. Geosyst.
+6 , Q04003 (2005).
+Google Scholar Matthews, K. J. et al. Global plate boundary evolution and kinematics since the late Paleozoic.
+Glob. Planet. Change 146 , 226–250 (2016).
+Article Google Scholar Ring, U. The east African rift system.
+Austrian J. Earth Sci.
+107 , 132–146 (2014).
+Google Scholar Hager, B. H., Richards, M. A., Dziewonski, A. M., Comer, R. P. & Clayton, R. W. Lower mantle heterogeneity, dynamic topography and the geoid.
+Nature 314 , 752–752 (1985).
+Article Google Scholar Hansen, S. E., Nyblade, A. A. & Benoit, M. H. Mantle structure beneath Africa and Arabia from adaptively parameterized P-wave tomography: implications for the origin of Cenozoic Afro-Arabian tectonism.
+Earth Planet. Sci. Lett.
+319–320 , 23–34 (2012).
+Article Google Scholar Turner, J. S.
+Buoyancy Effects in Fluids (Cambridge Univ. Press, 1973).
+Namiki, A. & Kurita, K. The influence of boundary heterogeneity in experimental models of mantle convection with internal heat sources.
+Phys. Earth Planet. Inter.
+128 , 195–205 (1999).
+Article Google Scholar Austermann, J., Kaye, B. T., Mitrovica, J. X. & Huybers, P. A statistical analysis of the correlation between large igneous provinces and lower mantle seismic structure.
+Geophys. J. Int.
+197 , 1–9 (2014).
+Article Google Scholar Gibbons, A. D., Whittaker, J. M. & Müller, R. D. The breakup of East Gondwana: assimilating constraints from Cretaceous ocean basins around India into a best-fit tectonic model.
+J. Geophys. Res. Solid Earth 118 , 808–822 (2013).
+Article Google Scholar Coffin, M. F. et al. Kerguelen hotspot magma output since 130 Ma.
+J. Petrol.
+43 , 1121–1139 (2002).
+Article Google Scholar Storey, M. et al. Timing of hot spot-related volcanism and the breakup of Madagascar and India.
+Science 267 , 852–855 (1995).
+Article Google Scholar Nürnberg, D. & Müller, R. D. The tectonic evolution of the South Atlantic from Late Jurassic to present.
+Tectonophysics 191 , 27–53 (1991).
+Article Google Scholar Courtillot, V., Jaupart, C., Manighetti, I., Tapponnier, P. & Besse, J. On causal links between flood basalts and continental breakup.
+Earth Planet. Sci. Lett.
+166 , 177–195 (1999).
+Article Google Scholar White, R. & McKenzie, D. Magmatism at rift zones: the generation of volcanic continental margins and flood basalts.
+J. Geophys. Res.
+94 , 7685–7729 (1989).
+Article Google Scholar Courtillot, V. E. & Renne, P. R. On the ages of flood basalt events.
+C. R. Geosci.
+335 , 113–140 (2003).
+Article Google Scholar Madrigal, P., Gazel, E., Flores, K. E., Bizimis, M. & Jicha, B. Record of massive upwellings from the Pacific large low shear velocity province.
+Nat. Commun.
+7 , 13309 (2016).
+Article Google Scholar Jones, A. G., Afonso, J. C. & Fullea, J. Geochemical and geophysical constrains on the dynamic topography of the Southern African Plateau.
+Geochem. Geophys. Geosyst.
+18 , 3556–3575 (2017).
+Article Google Scholar Dupre, B. & Allegre, C. J. Pb–Sr isotope variation in Indian Ocean basalts and mixing phenomena.
+Nature 303 , 142–145 (1983).
+Article Google Scholar Jackson, M. G., Becker, T. W. & Konter, J. G. Evidence for a deep mantle source for EM and HIMU domains from integrated geochemical and geophysical constraints.
+Earth Planet. Sci. Lett.
+484 , 154–167 (2018).
+Article Google Scholar Tilmann, F., Yuan, X., Rümpker, G. & Rindraharisaona, E.
+SELASOMA Project, Madagascar 2012–2014 (Deutsches GeoForschungsZentrum, 2012); https://doi.org/10.14470/MR7567431421 Wysession, M., Wiens, D. & Nyblade, A.
+Investigation of sources of intraplate volcanism using PASSCAL broadband instruments in Madagascar, the Comores, and Mozambique (International Federation of Digital Seismograph Networks , 2011); https://doi.org/10.7914/SN/XV_2011 Cande, S. C. & Stegman, D. R. Indian and African plate motions driven by the push force of the Réunion plume head.
+Nature 475 , 47–52 (2011).
+Article Google Scholar Barruol, G., Sigloch, K., RHUM-RUM Group & RESIF.
+HUM-RUM experiment, 2011-2015, code YV (Réunion Hotspot and Upper Mantle – Réunion’s Unterer Mantel) funded by ANR, DFG, CNRS-INSU, IPEV, TAAF, instrumented by DEPAS, INSU-OBS, AWI and the Universities of Muenster, Bonn, La Réunion (RESIF - Réseau Sismologique et géodésique Français, 2011); https://www.fdsn.org/networks/detail/YV_2011/ Hosseini, K. & Sigloch, K. ObspyDMT: a Python toolbox for retrieving and processing large seismological data sets.
+Solid Earth 8 , 1047–1070 (2017).
+Article Google Scholar Stähler, S. C. et al. Performance report of the RHUM–RUM ocean bottom seismometer network around La Réunion, western Indian Ocean.
+Adv. Geosci.
+41 , 43–63 (2016).
+Article Google Scholar Sigloch, K. & Nolet, G. Measuring finite-frequency body-wave amplitudes and traveltimes.
+Geophys. J. Int.
+167 , 271–287 (2006).
+Article Google Scholar Nissen-Meyer, T. et al. AxiSEM: broadband 3-D seismic wavefields in axisymmetric media.
+Solid Earth https://doi.org/10.5194/se-5-425-2014 (2014).
+van Driel, M., Krischer, L., Stähler, S. C., Hosseini, K. & Nissen-Meyer, T. Instaseis: instant global seismograms based on a broadband waveform database.
+Solid Earth 6 , 701–717 (2015).
+Article Google Scholar Kennett, B. L. N. IASPEI 1991 seismological tables.
+Terra Nova 3 , 122 (1991).
+Article Google Scholar Dziewonski, A. M. & Anderson, D. L. Preliminary reference Earth model.
+Phys. Earth Planet. Inter.
+25 , 297–356 (1981).
+Article Google Scholar Wysession, M. E. Large-scale structure at the core–mantle boundary from diffracted waves.
+Nature 382 , 244–248 (1996).
+Article Google Scholar Kárason, H. & van der Hilst, R. D. Tomographic imaging of the lowermost mantle with differential times of refracted and diffracted core phases (PKP, Pdiff).
+J. Geophys. Res. Solid Earth 106 , 6569–6587 (2001).
+Article Google Scholar Hosseini, K. & Sigloch, K. Multifrequency measurements of core-diffracted P waves (Pdiff) for global waveform tomography.
+Geophys. J. Int.
+203 , 506–521 (2015).
+Article Google Scholar Bassin, C., Laske, G. & Masters, G. The current limits of resolution for surface wave tomography in North America.
+Eos 81 , F987 (2000).
+Google Scholar Nolet, G.
+A Breviary of Seismic Tomography (Cambridge Univ. Press, 2008); https://doi.org/10.1017/CBO9780511984709 Ritsema, J., van Heijst, H. J., Woodhouse, J. H. & Deuss, A. Long-period body wave traveltimes through the crust: implication for crustal corrections and seismic tomography.
+Geophys. J. Int.
+179 , 1255–1261 (2009).
+Article Google Scholar Dahlen, F. A., Hung, S. & Nolet, G. Frechet kernels for finite-frequency traveltimes—I. Theory.
+Geophys. J. Int.
+141 , 157–174 (2000).
+Article Google Scholar Montelli, R., Nolet, G., Dahlen, F. A. & Masters, G. A catalogue of deep mantle plumes: new results from finite-frequency tomography.
+Geochem. Geophys. Geosyst.
+7 , Q11007 (2006).
+Article Google Scholar Sigloch, K. Mantle provinces under North America from multifrequency P wave tomography.
+Geochem. Geophys. Geosyst.
+https://doi.org/10.1029/2010GC003421 (2011).
+Ahrens, J., Geveci, B. & Law, C. in The Visualization Handb ook (eds Hansen, C. D. and Johnson, C. R.) 717–731 (Elsevier, 2005).
+Hosseini, K. et al. SubMachine: web-based tools for exploring seismic tomography and other models of Earth’s deep interior.
+Geochem. Geophys. Geosyst.
+https://doi.org/10.1029/2018GC007431 (2018).
+Obayashi, M. et al. Finite frequency whole mantle P wave tomography: improvement of subducted slab images.
+Geophys. Res. Lett.
+40 , 5652–5657 (2013).
+Article Google Scholar Houser, C., Masters, G., Shearer, P. & Laske, G. Shear and compressional velocity models of the mantle from cluster analysis of long-period waveforms.
+Geophys. J. Int.
+174 , 195–212 (2008).
+Article Google Scholar Moulik, P. & Ekström, G. The relationships between large-scale variations in shear velocity, density, and compressional velocity in the Earth’s mantle.
+J. Geophys. Res. Solid Earth 121 , 2737–2771 (2016).
+Article Google Scholar Ritsema, J., Deuss, A., Van Heijst, H. J. & Woodhouse, J. H. S40RTS: a degree-40 shear-velocity model for the mantle from new Rayleigh wave dispersion, teleseismic traveltime and normal-mode splitting function measurements.
+Geophys. J. Int.
+184 , 1223–1236 (2011).
+Article Google Scholar Auer, L., Boschi, L., Becker, T., Nissen-Meyer, T. & Giardini, D.
+Savani : a variable resolution whole-mantle model of anisotropic shear velocity variations based on multiple data sets.
+J. Geophys. Res. Solid Earth https://doi.org/10.1002/2013JB010773 (2014).
+French, S. W. & Romanowicz, B. A. Whole-mantle radially anisotropic shear velocity structure from spectral-element waveform tomography.
+Geophys. J. Int.
+199 , 1303–1327 (2014).
+Article Google Scholar Lu, C. & Grand, S. P. The effect of subducting slabs in global shear wave tomography.
+Geophys. J. Int.
+205 , 1074–1085 (2016).
+Article Google Scholar Download references Acknowledgements RHUM–RUM was funded by Deutsche Forschungsgemeinschaft in Germany (grants SI1538/2-1, SI1538/3-1 and SI1538/4-1 and ship grant R/V Meteor cruise 101) and by Agence Nationale de la Recherche in France (project ANR-11-BS56-0013). Additional supports came from Centre National de la Recherche Scientifique–Institut National des Sciences de l’Univers (CNRS–INSU), Terres Australes et Antarctiques Françaises (TAAF), Institut Polaire Paul Emile Victor (IPEV), University of La Réunion and Alfred Wegener Institut (AWI). OBSs were provided by DEPAS (Deutsche Geräte-Pool für Amphibische Seismologie, Bremerhaven), GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel and INSU-IPGP (Institut National des Sciences de l’Univers - Institut de Physique du Globe de Paris). M.T. was funded by the NERC DTP in Environmental Research award NE/L002612/1 and a St. Edmund Hall RCUK Partnership award. K.S. acknowledges additional funding from the People Programme (Marie Curie Actions) of the European Union’s Seventh Framework Programme FP7/2007-2013/ under REA grant agreement no. PCIG14-GA-2013-631104 ‘RHUM–RUM’ and by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement 639003 ‘DEEP TIME’). K.H. acknowledges support by The Alan Turing Institute under the EPSRC grant EP/N510129/1. We thank M. Wysession for sharing MACOMO data. This is IPGP contribution 4097.
+Author information Authors and Affiliations Department of Earth Sciences, University of Oxford, Oxford, UK Maria Tsekhmistrenko, Karin Sigloch & Kasra Hosseini Geophysics Section, Dublin Institute of Advanced Studies, Dublin, Ireland Maria Tsekhmistrenko Université Côte d’Azur, Géoazur, CNRS, UMR 7329, Sophia Antipolis Cedex, France Karin Sigloch The Alan Turing Institute, British Library, London, UK Kasra Hosseini Université de Paris, Institut de physique du globe de Paris, CNRS, UMR 7154, Paris, France Guilhem Barruol Authors Maria Tsekhmistrenko View author publications You can also search for this author in PubMed Google Scholar Karin Sigloch View author publications You can also search for this author in PubMed Google Scholar Kasra Hosseini View author publications You can also search for this author in PubMed Google Scholar Guilhem Barruol View author publications You can also search for this author in PubMed Google Scholar Contributions M.T. analysed the RHUM–RUM body-wave data, modelled their sensitivities and developed the 3D visualization techniques. K.H. analysed the P-diffracted data and computed sensitivity kernels. M.T. and K.H. jointly integrated the datasets into a global-scale tomographic model. K.S. designed the tomography studies and acted as the primary academic adviser to M.T. and K.H. G.B. and K.S. designed the RHUM–RUM experiment and led the acquisition of its data. All authors contributed to writing this manuscript.
+Corresponding author Correspondence to Maria Tsekhmistrenko.
+Ethics declarations Competing interests The authors declare no competing interests.
+Additional information Peer review information Nature Geoscience thanks Alistair Boyce, Jeroen Ritsema and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Primary Handling Editor: Stefan Lachowycz.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data Extended Data Fig. 1 East-west, thick-slice cross-section through Réunion and South Africa: comparison of our model (top) with other published tomography models.
+View and 3-D visualisation are the same as in Figs.
+2 and 3.
+ Colour bar refers to dV p /V p in % for P-velocity models and dV s /V s for S-velocity models. Orange line on the CMB outlines the ‘Plume Generation Zone’ proposed by Burke et al. (ref.
+4 ), a convenient visual guide for model comparison. Top row: three global P-wave tomographies, by Hosseini et al. 2019 (DETOX-P3 23 ); Obayashi et al. 2014 (GAP-P4 74 ); Houser et al. 2006 (HMSL-P06 75 ). Middle and bottom row: 6 global S-velocity models, by Montelli et al. 2006 (PRI-S05 70 ); Moulik et al. 2016 (S363ANI + M 76 ); Ritsema et al. 2011 (S40RTS 77 ); Auer 2014 (savani 78 ), French and Romanowicz 2014 (SEMUCB-WM1 79 ), Lu and Grand 2016 (TX2015 80 ).
+Extended Data Fig. 2 Tomography result and resolution test for two thin vertical plume conduits observed in the upper mantle slight southwest of La Réunion and offshore southernmost Madagascar.
+Top row, left: Joint tomography model (ISC, P diff , RHUM-RUM P) at 200 km depth (map outcrop extending from 11ºS/45ºE to 26ºS/65ºE). Purple dots are RHUM-RUM OBS locations. The dominant feature is the sharp, SW-NE-trending contrast between slow (red) anomalies around the Réunion hotspot and its asthenospheric flows towards the Central Indian Ridge (which runs N-S along the easternmost edge of the map), versus the fast (blue) anomalies of the Mascarene basin’s old, thick lithosphere. Top right: Cross-section through the two slow conduits. Its location is marked in the previous map by a black line and coloured dots. (Due to their three-dimensional, moderately tilting geometries, the conduits are more clearly apparent as such in the 3-D thick-slice rendering of Fig.
+3.
+) Second row: Cross-sections of resolution test input and output, consisting of two vertical columns of 150 km diameter in the observed locations, from the surface to 700 km depth. Rows 3-6: Resolution test input and output at 150, 300, 500 and 700 km depth. The Réunion column is more difficult to recover than the Madagascar column because it falls into a gap between OBS stations.
+Extended Data Fig. 3 Whole mantle cross-section striking north-south through Réunion; the view is from the east.
+Left panel shows a 2-D section; right panel shows the same section supplemented by low-velocity isosurfaces rendered in a 1000-km thick great-circle slice (shaded blue in the globe inset). Same rendering styles as in Fig.
+2.
+ This perspective shows most clearly the absence of Réunion plume tail into the lowermost mantle. Long-dashed purple line marks the interpreted cusp of the LLVP, as in Fig.
+3.
+ Bull’s-eye marks the area where the Kerguelen mid-mantle branch emerges toward the viewer.
+Extended Data Fig. 4 Model comparison of seismically slow anomalies extending up to 500 km above the CMB (2400-2900 km depth).
+The same 4 P-velocity and 6 S-velocity models are rendered as in Extended Data Fig.
+1.
+ Visualization style of five nested, slow velocity isosurfaces is the same as in Figs.
+2 , 3 , and Extended Data Fig.
+1.
+ The orange line at the CMB outlines the Plume Generation Zone proposed by ref.
+4.
+ Southwestward away from the LLVP’s core (reddest area), in direction of 7 o’clock, DETOX-P3 and all six S-wave models show a bulge towards Bouvet hotspot. This observation is consistent with the existence of a fully developed CMB corridor towards Bouvet, which would be recovered only as such a vestigial bulge (see targeted resolution test Extended Data Fig.
+5 ) by our tomography, and presumably by others.
+Extended Data Fig. 5 Seismic resolvability of three slow corridors at the CMB.
+Left: the resolution test input consists of three corridor-like, slow anomalies diverging from the LLVP centre under South Africa. Its geometries are idealised from lowermost mantle structure imaged by RROx-19. As in the tomography, corridors are ~700 km wide and 500 km ‘high’ above the CMB. The white column shows the location of Bouvet. Right: the results of this test confirm that the Southern Indian Ocean and East African corridors can be recovered well, while a Bouvet corridor would not be resolvable in our model, except for remnant southeastward bulging, away from the LLVP’s core. Such a bulge is actually observed by all S-wave tomographies in Extended Data Fig.
+4 , and by P-wave model DETOX-P3. Hence the presence of a fully developed CMB corridor towards Bouvet is consistent with currently available data.
+Extended Data Fig. 6 Thick-slice cross-section through Afar, South Africa, and Bouvet (see globe inset): comparison of our model (top) with other published tomography models.
+Same 3-D visualisation and same models rendered as in Supplementary Fig.
+1.
+ Colour bar refers to dV p /V p in % for P-velocity models and dV s /V s for S-velocity models. Orange line on the CMB outlines the ‘Plume Generation Zone’ proposed by Burke et al. (ref.
+4 ).
+Supplementary information Supplementary Information Supplementary Figs. 1–7 and references.
+Rights and permissions Reprints and Permissions About this article Cite this article Tsekhmistrenko, M., Sigloch, K., Hosseini, K.
+et al.
+A tree of Indo-African mantle plumes imaged by seismic tomography.
+Nat. Geosci.
+14 , 612–619 (2021). https://doi.org/10.1038/s41561-021-00762-9 Download citation Received : 08 March 2020 Accepted : 05 May 2021 Published : 24 June 2021 Issue Date : August 2021 DOI : https://doi.org/10.1038/s41561-021-00762-9 Share this article Anyone you share the following link with will be able to read this content: Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiative This article is cited by Seismic evidence for a 1000 km mantle discontinuity under the Pacific Zhendong Zhang Jessica C. E. Irving Tariq Alkhalifah Nature Communications (2023) Evidence for compositionally distinct upper mantle plumelets since the early history of the Tristan-Gough hotspot Stephan Homrighausen Kaj Hoernle Jörg Geldmacher Nature Communications (2023) Long-term seismic network in South China Sea by floating MERMAIDs Yong Yu Yongshun John Chen Zengxi Ge Science China Earth Sciences (2023) Progress in the numerical modeling of mantle plumes Wei Leng Hao Liu Science China Earth Sciences (2023) Tectono-magmatic domes: the stationary plate equivalent of a linear volcanic chain Wesley E. LeMasurier Bulletin of Volcanology (2022) You have full access to this article via your institution.
+Download PDF Download PDF Advertisement Explore content Research articles Reviews & Analysis News & Comment Current issue Collections Follow us on Twitter Sign up for alerts RSS feed About the journal Aims & Scope Journal Information Journal Metrics About the Editors Our publishing models Editorial Values Statement Editorial Policies Content Types Web Feeds Press Releases Contact Publish with us Submission Guidelines For Reviewers Language editing services Submit manuscript Search Quick links Explore articles by subject Find a job Guide to authors Editorial policies Nature Geoscience ( Nat. Geosci.
+) ISSN 1752-0908 (online) ISSN 1752-0894 (print) nature.com sitemap About Nature Portfolio About us Press releases Press office Contact us Discover content Journals A-Z Articles by subject Nano Protocol Exchange Nature Index Publishing policies Nature portfolio policies Open access Author & Researcher services Reprints & permissions Research data Language editing Scientific editing Nature Masterclasses Live Expert Trainer-led workshops Research Solutions Libraries & institutions Librarian service & tools Librarian portal Open research Recommend to library Advertising & partnerships Advertising Partnerships & Services Media kits Branded content Career development Nature Careers Nature Conferences Nature events Regional websites Nature Africa Nature China Nature India Nature Italy Nature Japan Nature Korea Nature Middle East Privacy Policy Use of cookies Your privacy choices/Manage cookies Legal notice Accessibility statement Terms & Conditions Your US state privacy rights © 2023 Springer Nature Limited Close Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+Close Get the most important science stories of the day, free in your inbox.

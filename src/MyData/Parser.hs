@@ -160,7 +160,7 @@ getYear doc = do
   return lastYear
 
 years :: [String]
-years = map show [1900..2023]
+years = map show [2000..2023]
 
 checkYear :: String -> String
 checkYear str = iter $! words str
@@ -180,7 +180,7 @@ dropYear current years@(y:ys)
 
 -- | Get all the links in the page.
 --
--- Returns a list of strings.
+-- Returns a list of strings.[<0;96;56M[<0;85;49M
 getLinks :: Link -> IOSLA (XIOState ()) XmlTree (NTree XNode) -> IO Links
 getLinks url doc = do
   !links <- runX $! doc
@@ -188,11 +188,11 @@ getLinks url doc = do
     >>> getAttrValue "href"
     >>> arr dropBadDomains
     >>> arr (\x -> if "/"     `isSuffixOf` x || "#" `isSuffixOf` x then init x else x)
-    >>> arr (\x -> if "/"     `isPrefixOf` x && not (x `isInfixOf` url) then printf "%s%s" url x else x)
+    -- >>> arr (\x -> if "/"     `isPrefixOf` x && not (x `isInfixOf` url) then printf "%s%s" url x else x)
     >>> arr (\x -> if "#"     `isPrefixOf` x && not (x `isInfixOf` url) then printf "%s/%s" url x else x)
     -- >>> arr (\x -> if "?"     `isPrefixOf` x && not (x `isInfixOf` url) then printf "%s%s" url x else x)
-    >>> arr (\x -> if "."     `isPrefixOf` x && not (x `isInfixOf` url) then printf "%s%s" url x else x)
-    >>> arr (\x -> if "http"  `isPrefixOf` x then x else printf "%s/%s" url x)
+    -- >>> arr (\x -> if "."     `isPrefixOf` x && not (x `isInfixOf` url) then printf "%s%s" url x else x)
+    -- >>> arr (\x -> if "http"  `isPrefixOf` x then x else printf "%s/%s" url x)
     >>> arr (\x -> if "htm"   `isSuffixOf` x || "html" `isSuffixOf` x then dropEnding x else x)
     >>> arr trim
   return $! Set.fromList $! filter (not . null) links
@@ -206,22 +206,25 @@ getLinks url doc = do
         -- | Check if string has a valid domain
         dropBadDomains :: String -> String
         dropBadDomains url
-          | "?" `isInfixOf` url = ""
-          | "youtube.com" `isInfixOf` url || "youtu.be" `isInfixOf` url = ""
-          | "twitter.com" `isInfixOf` url = ""
-          | "facebook.com" `isInfixOf` url = ""
-          | "google.com" `isInfixOf` url = ""
-          | "amzn.to" `isInfixOf` url = ""
-          | "itunes.apple.com" `isInfixOf` url = ""
-          | "instagram.com" `isInfixOf` url = ""
-          | "shutterstock.com" `isInfixOf` url = ""
-          | "github.com" `isInfixOf` url = ""
-          | "tiktok.com" `isInfixOf` url = ""
-          | "linkedin.com" `isInfixOf` url = ""
-          | "snapchat.com" `isInfixOf` url = ""
-          | ".pdf" `isSuffixOf` url = ""
-          | ".zip" `isSuffixOf` url = ""
-          | otherwise = url
+          | "?" `isInfixOf` url                                         = ""
+          -- | "youtube.com" `isInfixOf` url || "youtu.be" `isInfixOf` url   = ""
+          -- | "twitter.com" `isInfixOf` url                                 = ""
+          -- | "facebook.com" `isInfixOf` url                                = ""
+          -- | "google.com" `isInfixOf` url                                  = ""
+          -- | "amzn.to" `isInfixOf` url                                     = ""
+          -- | "itunes.apple.com" `isInfixOf` url                            = ""
+          -- | "instagram.com" `isInfixOf` url                               = ""
+          -- | "shutterstock.com" `isInfixOf` url                            = ""
+          -- | "github.com" `isInfixOf` url                                  = ""
+          -- | "tiktok.com" `isInfixOf` url                                  = ""
+          -- | "linkedin.com" `isInfixOf` url                                = ""
+          -- | "snapchat.com" `isInfixOf` url                                = ""
+          | ".pdf" `isSuffixOf` url                                       = ""
+          | ".zip" `isSuffixOf` url                                       = ""
+          | "/author/" `isInfixOf` url                                    = ""
+          | "/tag/" `isInfixOf` url                                       = ""
+          | "/editor/" `isInfixOf` url                                    = ""
+          | otherwise                                                     = url
 
         trim :: String -> String
         trim = dropWhileEnd (== '/') . iter "" . dropWhileEnd isSpace . dropWhile isSpace

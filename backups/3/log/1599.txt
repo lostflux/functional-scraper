@@ -1,0 +1,124 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons WIRED25: Ethical AI: Intel's Genevieve Bell On Living with Artificial Intelligence About Released on 10/15/2018 (soft music) We're gonna change gears just a little bit.
+Just this much.
+And I thought what we'll do is talk a little bit about a different kind of future and a different way of thinking about that future.
+But I realize as I've come from Australia I actually wanted to start with the thing we do at all Australian events, which is acknowledge that we meet on the traditional lands of the all are one people the indigenous people of this area and I wanna pay my respects to their elders, past and present and their leaders emerging.
+And the reason we do that in Australia and I wish we did it here, is it's a way of saying we have conversations about the present and the future in places that have been continuously occupied, in this instance for more than 10,000 years.
+There's something really powerful about acknowledging that our conversations about the future have a past.
+And so, I wanna pay my respects that way.
+(loud applause) Which should immediately give something else about me away.
+I'm not a technologist I'm an anthropologist! I'm also the child of an anthropologist, I grew up on my mum's field sites in central in northern Australia in the 1970s and 1980s.
+I spent my time living with Aboriginal people who remembered their first sight of Europeans, their first sight of cattle and their first sight of fences not always in that order.
+And I spent most of my childhood not wearing shoes, speaking Warlpiri and getting to kill things .
+Basically best childhood ever! (crowd laughs) 'Cause I also ate those things 'cause I know people worry about what that would mean.
+So I grew up in Alec Coorong in Central Australia and it's an incredibly long way from Alec Coorong to Silicon Valley.
+And along the way still it turns out from having a PHD in culture anthropology at Stanford to being at Intel.
+Although they're not very far apart physically, they're very far apart in terms of the imagination.
+It's a long story to tell about how I ended up at Intel.
+The short version of it is I met a man in a bar.
+(crowd laughs) For those of you under the age of 30 this is not career advice.
+(crowd laughs) I met a man in a bar, he introduced me to Intel and I've spent the last 20 years there.
+My job there has been to bring stories about people and what people care about, what frustrates them, what they're passionate in, and what they're passionate about, into the ways in which we make new technology.
+So, companies like Intel have always built the future.
+We built them because of what we can do technically.
+My job was to make sure we also built them because they were the things that people would care about.
+So 20 years I was the little voice going, wait, what about people? And then about two years ago, I moved to Australia to take up a new role at the Australian National University where I find myself inexplicably as a distinguished Professor of Engineering and Computer Science. (crowd laughs) Don't tell my father because while my mother was an anthropologist My father was an engineer and he is horrified that anyone thinks I might be.
+(crowd laughs) But that means I get to spend my time thinking about the future and thinking about how we would constantly put people in it.
+And I know over the course of today and the last three days and the rest of the afternoon you're gonna hear people talking about artificial intelligence and robotics and all the technical pieces.
+I want to talk a little bit about the social pieces and about the questions we should ask and how we might prepare for that future.
+Two years ago the World Economic Forum published this graph.
+It's great, it tidies up the last 250 years of history.
+Like for those of you who weren't paying attention in high school you need to know. (crowd laughs) There were steam engines then there was electricity and there were computers, well done! Now of course you should immediately know I have some issues with this chart, like it doesn't have any people in it.
+(crowd laughs) Problem number one, problem number two it kind of suggests this is linear and most of us know that it really wasn't quite like that.
+And of course the third thing it never says right is that in indexing on each one of those technologies it didn't talk about the socio technical systems we've built.
+It talks about the steam engine but it doesn't talk about the railway.
+Talks about computers but it doesn't talk about digitization and the ecosystem that we all sit in.
+So what would it be if you were to unpack those and say what's really going on in there.
+Well the reality is each one of those technologies, required more than just technologists.
+It required all these other people to bring those technologies safely to scale.
+And for that scale to be one that we could manage we could live with and that we found ways to be safe with.
+And it's that last wave that interests me.
+What the World Economic Forum calls cyber physical systems.
+What you should think those are is A.I. inside stuff that isn't computers.
+So every time you hear someone talk about a robot or a drone or autonomous vehicle or a smart building or a smart lift, they're talking about cyber physical systems.
+So what's the challenge there? Well the challenge and the opportunity frankly, is about how we get to that moment, how do we go from A.I. as the steam engine? To the metaphoric railway to the cyber physical system.
+What will it take to do that safely and at scale.
+Well I think it actually means there are five questions we should be thinking about and I wanna rehearse them for you really briefly.
+Good news is three of them start with A.
+so you should be able to remember them.
+The first question we need to ask is, will those systems actually be autonomous? We talk about it a lot.
+We talk about autonomous vehicles, autonomous software, turns out if you ask anyone who is building those systems they all have a different definition of what they mean by autonomous.
+And the problem for us who aren't engineers, the humans amongst us, every time I say autonomous in your head, semantic slippage happens.
+I say autonomous you think sentient, conscious, self-aware.
+And if you grew up with science fiction you know what happens next.
+(crowd laughs) Frankenstein someone looking over there.
+Now the reality of course is systems can be autonomous without being sentient or conscious.
+Autonomy merely means operating without reference to a prearranged set of rules in this instance, right? But how we architect it? How we build it? Who gets to decide what's autonomous and who isn't? Who gets to decide how that's regulated? How it's secured? What its network implications are? Those are not just questions for computer scientists and engineers right? Those are questions for philosophers and people in the humanities and people who make laws.
+And frankly for all of us in the room.
+What does it mean to have systems that will be autonomous? How will we feel about that? What will it mean? How are we even signal it? How will you know it's an autonomous system? Should it have a little red A on it? Does it have to announce every time it turns up, hi I'm autonomous! 'Cause that's gonna get really irritating really quickly.
+But trust me we need to know because I'm willing to bet I'm not the only person in the room who has gotten into a smart elevator recently and watched people around me freeze in blank horror when they realized there were no buttons.
+(crowd laughs) And you're now in a lift over which you have no control of, and no one warned you in advance.
+So how are we going to create a grammar for autonomous systems.
+First set of questions.
+Second set of questions about how we put humans back into this story is to ask, Who's gonna set the limits and controls on these systems? The A here is agency.
+How we determine how far the systems can go without us? Who gets to determine those rules? Are they built in the object or outside the object? If we think about autonomous vehicles we know they have rules sitting inside them.
+But are we going to want to have an ability to override those things? If you were the emergency services, do you want to be able to say take all cars off the road so we can get a firetruck through.
+Of course you do.
+But who gets to decide when you use that? How are those rules going to work across boundaries, across countries, across cultures? How are they gonna get updated? How are they gonna get made visible? Again, there're technical questions but there're also social and human and cultural questions.
+Third set of questions.
+Are what I call the insurance questions because all the words are complicated.
+Risk, liability, trust, privacy, ethics, manageability, explicablity, ease of use.
+It's easy to blow past all of that but we're talking about systems that have some degree of autonomy and some degree of agency.
+How are we gonna decide who is responsible for them? How we decide how much risk we can tolerate? And who's gonna decide that? What does it mean to think about the systems being safe? Are they safe for the occupants inside the systems, for the people outside of the systems, for the cities in which they operate? Who gets to decide what the ethics are? Who gets to litigate the ethical dilemmas and indeed the rules? How do we think about its applicability? We have legislation that's unfolding in Europe, the GDPR, which asks the capacity for any algorithm to explain itself or at least the companies that build them.
+That's a technical question of how we create back tracing? How we create exploit the ability? How we unbox algorithms? There're technical questions but there're also social and cultural questions.
+What's it gonna take to feel safe? And will that change over time? Will there be a moment when you don't worry when you get into the lift that there are no buttons? 'Cause you know what to do? And how long will that take? And who will be the people making us safe in the meantime? Fourth set of questions.
+About how we measure these systems? So when AI goes safely to scale, how we decide if it's a good system or a bad system? And I know that sounds banal, but for 250 years the Industrial Revolution preceded by us saying, was that system efficient and productive? Did it save time or did it save money? Did it use less labor? What are the metrics we wanna use here, for autonomous vehicles, we're told that it's about safety.
+For the lifts that so preoccupied me, it's 'cause I read a lot of Douglas Adams as a child, I'm convinced those lifts are prescient.
+Those lifts we're told, those where about saving energy and electricity at the expense of where humans sit in the ecosystem, right? But what are the metrics gonna be? And how do we wanna think about that? We know that, all of this computation, whether it is algorithms, whether it is machine learning, whether it's augmented decision making, it all requires processing power and it all requires electricity.
+So how are we gonna decide how those things are unfolded in a manner that is sustainable, in a manner that is manageable? And by the way, I know this because I've spent 20 years at Intel.
+You will measure the things that matter, and conversely, what you measure is what you make.
+So we have an opportunity here to think about what the metrics are in advance rather than after the fact.
+I'm always willing to bet that if what a newcomer had been asked 250 years ago about how to build a better steam engine and then realize that the one they had built was gonna chop down every tree in Britain, they might have thought about it differently.
+So what are the metrics we want here? And last but by no means least, I think this open question, the fifth question for me about, how are we gonnao be human in that world? What are gonna be the ways we interface with these systems? I grew up in Silicon Valley.
+I've spent 25 years here and it's been an exquisite and an extraordinary privilege.
+But I also know in that period of time the way we interacted with computing was pretty narrow, keyboard, screen, a little bit of voice, some gesture later.
+I'm not sure we should be interacting with these systems that way and I'm pretty certain most of the UX's that me and my teams have been building for the last 20 years, isn't what we want to drag into the future with us.
+You do not want to get into an autonomous vehicle and have to remember whether it's a 10 to 12 character password with an uppercase and a lowercase and alphanumeric, (crowd laughs) and which system you are using.
+And you probably don't wanna be constantly using your biometric systems either and you may not wanna talk to everything because everyone else be talking to it too.
+So, the metaphors may not work, how we gonna think about all that stuff differently, and what's it going to feel like to be human when systems are making decisions that we used to make? When they're doing things we're used to doing? When we can't always see what's happening? And by the way when some of those systems are talking to each other not even about us? Great human fear, irrelevant.
+Machines don't wanna kill us, they're just not interested in what we're thinking.
+Different problem.
+So how are we going to imagine, what the interaction is going to be here? What will that look like? So five big questions.
+Scaling AI and doing it safely means we have to answer those questions.
+What does it mean to think about will these systems be autonomous? And if so which version? What will agency look like? How do we think about safety and assurance? What are the metrics we want to measure it by? And by the way ,how we're gonna engage with these things or not engage with them? Here's the problem, I can ask you five questions and I don't have answers to any of them, which is the great disappointment of being an anthropologist.
+We know how to ask questions.
+We don't always know how to answer them.
+But two years ago, I stepped out of my job at Intel and went back to Australia with the explicit purpose of trying to work out how to answer those questions 'cause I think answering them gets us some are important.
+I started with that chart from the World Economic Forum and I said each one of those previous waves generated things.
+But part of what they generated was new bodies of knowledge.
+Mchines, mechanization brought us engineers, electricity and mass production brought us electrical engineers, computers brought us computer scientists.
+What're cyber physical systems gonna bring us? Well, that's what I said that I was gonna build And the joy of being right here right now on the stage, is it's one of the few places in the world I can say, you all are gonna laugh at me.
+'Cause when you stand up and say, I thought I'd build a new branch of engineering? There are very few places except Silicon Valley you can say that. (giggles) So my plan is to build a new branch of engineering or a new applied science.
+I think we actually need to answer those questions and we need to find a new way of approaching the problem.
+So a year ago we launched a new institute at the Australian National University in Canberra.
+We recruited a small team.
+And six weeks ago we put out a call for our first cohort of students 'cause the university wanted me to wait three more years and I went.
+(stamps feet) Hell no.
+It's like I think we can go faster.
+And so we decided in the grand tradition of Silicon Valley to build a curriculum in real time and iterate it, like it was a prototype build it invite the people who want to learn with us and iterate in real time with those people.
+So we put out a call on Twitter mostly I have to say, six weeks ago and said You got five weeks, go.
+And I didn't think we'd get that many applicants and I usually can think pretty big.
+We closed it out, a week ago.
+We had 173 people from around the world who were willing to put their hands up to take a year out of their life to come to a degree program that has no name, in a town that if you're from Australia it's not very compelling, (crowd laughs to build something new.
+And I thought that was a pretty good sign that we're on to something interesting.
+So here's my ask.
+It's daunting to say you wanna build a new applied science when your branch of engineering it's frankly crazy.
+What I know from my time in the Valley is that you never do these things once and you never do it alone.
+So if for any of you in the room at any moment in time you thought, okay she sounds crazy but I kind of like what she's saying.
+Will you come find me.
+Track me down.
+Send me an email, find my team 'cause we're gonna need all the help we can get, to get to scale.
+So with that, what I want to stop and say to thank you.
+(loud applause) Silicon Valley Mourns Andy Grove, a Titan of Tech Accent Expert Explains How to Tell Accents Apart How Sea Organisms Are Changing the Way We Make Glue What Termites Can Teach Architects About Skyscraper Design Veritasium's Derek Muller Answers the Web's Most Searched Questions How Moth Eyes Inspired the Camera Lens Taking on Amazon, Google & Silicon Valley: EU Competition Chief Talks Tech with WIRED's Nicholas Thompson Accent Expert Explains Similarities Between Different Accents What Can a Humpback Whale Teach a Wind Turbine? The Largest Plane in the World Stops Traffic in Australia Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

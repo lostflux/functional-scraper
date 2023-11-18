@@ -1,0 +1,227 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons WIRED25: Sebastian Thrun & Sam Altman Talk Flying Vehicles and Artificial Intelligence About Released on 10/16/2018 (upbeat music) So after a day of brilliant polymaths, we end in a session of more brilliant polymaths.
+We're probably gonna end up talking about AI at some point in this session.
+But first I wanted to reflect on just how much these guys do.
+So, Sam at Y Combinator has 15,000 companies you're gonna fund this year.
+We're Advite.
+We'd start, but we don't give all those money.
+Work with.
+And a thousand or so will ...
+A lot of them will get some money.
+But you are part of them, on some of the boards.
+A conversation with you often takes us into nuclear fusion, nuclear fission.
+You are a prolific thinker and talker, you have opened AI, which is not only doing the tools of AI, but also think about the policy.
+And you've even been on Safari a couple of times.
+Sebastian, exactly the same pace, just over a longer time period.
+Stanford AI professor, Udacity, the Google Autonomous car project, and now Kitty Hawk, the urban air mobility, or non-urban air mobility.
+And so both of you do way more than people can understand.
+So, how? How do you do it, Sam? I mean the honest answer to this question is always that, very unfairly, Sebastian and I get the credit for many other people's work.
+Absolutely correct.
+We take credit.
+Thank you.
+Thanks guys at home.
+I think that's a real shame.
+No one can have a huge impact by themselves.
+The world works to the degree that you can get groups of super talented people aligned around a goal.
+I think it's actually easier if it's a hard goal.
+I think it's easier to start a hard company than an easy company if you have something that matters, if you have a quest that people wanna join, and be part of, you can get the most talented people to work with you on that.
+I think the things that matter are picking projects correctly, ruthless prioritization, and finding and attracting and empowering really talented people.
+And if you're willing to do that and work a lot, I think you can get a lot done.
+I think that anyone at the top of any field has to work smart, but also work really hard, I know it's kind of become like a bad word to say in San Francisco, but I believe it's fundamentally true.
+I think you can get a lot done.
+[Chris] How many hours do you sleep at night? Eight.
+Bravo.
+[Sam] Every night.
+You also manage a little work life balance by traveling.
+I think I'm a bad example of work life balance.
+I do try to take vacation.
+But the rest of the time I just work.
+You even have a child.
+I do, happily.
+His name is Jasper.
+And a very cute dog.
+That is true.
+And a cute girlfriend.
+(audience laughs) Look, when Udacity turned five, my good friend Astro Teller came to me and asked a question, like how much time would it take you to rebuild Udacity? Given what you know today.
+And I said, a year.
+He said, see, you wasted four years of your life.
+And by that, it's interesting.
+I think we have this kind of belief you have to work super hard.
+I would argue we have to work super smart.
+If you make good decisions, then we don't have to work very hard.
+Because we get the same stuff done in lesser time.
+If you make bad decisions, then we have to undo those decisions and work much harder.
+So for me, it's much more exercise can we make the right decisions as opposed to work many, many hours.
+What's an example of a bad decision that you undid quickly? Oh my God.
+(laughs) Well in the beginning of Udacity we believed we should have worked with universities.
+It turns out, not a good idea if you want to build your own university and educate the world.
+This entire notion of to market there's an education to everybody in the world is so counter to the DNA of Stanford and Harvard, who'd rather keep it small and elite, that we crashed.
+And you can go back into the media, 2013 or so, I was the most hated professor in America.
+And it was written off on the front page of New York Times Sunday morning above the fold.
+It's not a joke.
+And then I realized, that was probably not a good decision.
+Have you made any mistakes? The most humbling thing about investing in a lot of companies, is that you have such high conviction that a particular investment is going to turn out well, and then every day like many of them fail, that at this point, I feel like very zen on mistakes.
+I know that I'll make a lot.
+I do think Sebastian is probably smart enough that he can just work smart, I know I can't.
+I'm happy to just take a lot of shots on goal.
+And you know, when they work out, they really work out, but we fail all the time.
+You realize that that's totally okay, and you just go on with a smile on your face to the next one.
+So one of your largest, most technically difficult, and probably most expensive investments, are the fusion ones, the nuclear power.
+Fusion, of course, is where smart people go to die.
+Nuclear power is politically a third rail.
+And it takes forever, even when it's conceded is to say nothing of the billions of dollars of capital.
+You ought to be willing to take a high risk on something that's harder work.
+And I think if you study the history of humanity, cheap, safe, environmentally friendly energy, that's maybe the best thing you can do besides AI, for the poorest half of the world.
+So like, we're gonna go after that, we know it takes a lot of capital, and we know that we're gonna fail a lot of times but we're gonna get there at some point.
+If we can get down to a penny, two pennies per kilowatt hour, that will fundamentally transform the world.
+I think it's a real shame we've turned away from nuclear efficient, for sure, and that we just haven't invested enough to get fusion to work, we will.
+This is not prevented by the laws of physics, it is prevented by sort of like, a lack of human ambition to still go after the big iron engineering projects.
+But we will get that to work, and we have to.
+The climate change scare at this point should be like a top of mind problem for everyone.
+I actually think we're past the point where getting to, even if we got the whole world to nuclear and solar, given how long that'll take, as an engineering problem and a social problem.
+We'll have to figure out other things too.
+There's gonna be some kind of geoengineering.
+And I know that scares people so much.
+Well, I was gonna bring that up.
+So geoengineering would be the active cooling of the planet with aerosols and things like that.
+Or figuring out ways to get microbes to sort of sequester CO2 out of the air into the ground somehow.
+There are other ways.
+Do you have a geoengineering investment? We're going to announce not an investment, but a new effort there, in the next few weeks.
+Sebastian, you must have thought about this.
+Among other things, your flying things could help.
+I love everything you say, Sam.
+I thought a lot about more mundane things like how to get about.
+And for a long time I thought we should build self-driving cars.
+In fact, I thought this before most people invoked in this.
+And then I realized that it's actually not that great an idea.
+There's a lot of stuff to take into account.
+There's a lot of traffic and self driving cars won't make traffic obsolete, so the question came up, what if we had a magic thing that could lever us up like 300 feet in the air? Suppose you could push a button and be up 300 feet in the air? Whatever we do up there, we have a nice sightseeing position but sure enough, we just go in a straight line wherever we wanna go.
+And there's nothing to hit, it's so much easier.
+So we actually solved the hot problem and that's the easy part.
+So I now believe the future of transportation or mobility will be in the air.
+Much less for Amazon and Google packages, but for people.
+And hopefully someone in the audience who will enjoy a ride with us.
+So I'm slightly in that business myself, and I would say that the active flying is sort of a solved problem, on some sense.
+Yours is advanced, but it wasn't like the hardest technical thing you've ever done.
+But from a regulatory perspective, putting people in unpiloted robots over San Francisco, is gonna take ...
+Well, it's gonna happen at the pace of politics.
+So why do you wanna do something that's technically easy, but politically hard? I would say it's important to do it.
+All these regulatory things are man-made.
+When you invent something that's useful, I mean seeing self driving cars, regulars change very quickly.
+Like about a year ago, the California regular had basically outlawed any unmanned cause in California.
+And then Arizona came along and said they will come to Arizona, so way more self driving in Arizona.
+And then California flipped and said yes, we are part of me as well.
+I think we walk very, very closely with regulators and we see, actually, a very positive perspective.
+Regulators want to change the world as much as anyone change the world, it's just not technologists.
+By working with them, we get to the point where they really explore the world with us.
+We're working with the FAA, we're working with New Zealand right now.
+And I'm very hopeful that as we invent those technologies, that the regulatory framework will eventually be with us.
+And you're willing to go to D.C. and sit in those meetings and wear the suit, if that what it takes? Look, I think we need to look at the site as a whole.
+I mean, we technologists hear them say very are some a little bit myopic.
+There's roles for people to play outside technology.
+Government is really important.
+If you don't believe this, just look from space in the middle of the night at North versus South Korea, and ask yourself how much does government matter? Regulators are important, because I actually enjoy regulators to keep my money safe, and so on, keep my health safe.
+My company, Kitty Hawk is exactly the same interest, we want people to be safe.
+So, in essence, we completely agree with regulators.
+Then the question here is, what is the right path forward? And we find Washington to be very cooperative, to be honest.
+I always like reading about technological revolutions in the past, but reading the contemporary writing about what happened then.
+I love reading accounts of people as the industrial age was happening, or as motor cars were joining the roads with horse and buggy.
+My conclusion from a long study of that is that you can slow down the future but you cannot stop it.
+And if something delights customers enough, if the market is gonna pull it out of the companies or technology and products people want eventually happen.
+And people definitely want -- Just imagine go from San Francisco to Brooklyn in about four minutes on four cents of energy, reliably.
+Will you not want this? [Chris] Yeah! (audience laughs) They go from Jersey City to Times Square in a minute on one and a half cents of energy.
+We can build that today, okay? And the Lincoln Tunnel and the Holland Tunnel will eventually be empty because no one's gonna use them anymore, because it's wrong.
+And the sky is huge, and the ground, when you have two vehicles hitting the same location in different directions and you have that conflict and you put in a traffic light or a stop sign in the air, you just go in different altitudes and you're just fine.
+So there's a capacity that's unused that we have.
+It's fascinating.
+You are the missing middle of the Elon Musk vision.
+So Elon does tunnels, cars, and space, but he missed.
+(audience laughs) Honestly, I learned some of dig ourselves in, that's fine with them, but in terms of transportation, because when an airplane flies, only a very, very small fraction is being used to stay in the air, typically like 5%, and 95% is being used for drag, the air that pounds you.
+The sky's very nice because you have no infrastructure investment.
+You can do this today, without changing anything.
+If I want to like build a tunnel on any point, A to B in the world, I'm gonna dig for a long, long time.
+I would say even a high speed train today in California is a 20th Century solution.
+If you look at the energy efficiency for long haul, say between San Francisco and Los Angeles of planes versus trains, then planes are more energy efficient and safer than trains today.
+It escapes my mind why we would ever fund a train track, given that you can just fly.
+How loud will it be if one goes overhead at 300 feet? I have versions that you can't hear at 300 feet.
+(audience laughs) I'm happy.
+Alright so we need to talk about AI, in the five minutes that we have left.
+So you are one of the founders of OpenAI and Sebastian, you are one of the fathers of AI.
+[Sam] I worked in Sebastian's AI lab as an undergrad.
+I did not know this.
+And I happily take credit for all of his work.
+You should. (audience laughs) I support that. That's how we get work done.
+Speaking of Elon Musk, Elon Musk has declared his concern about killer AI, et cetera.
+People are a little confused between the AI we have today, which is natural language, and image feature detection, and then general AI.
+Could you just kind of update your definition of where one ends and the other begins? Yeah, I mean, today what we have is definitely very narrow AI.
+You know, we can train these things that can do one task incredibly well.
+Drive a car, play very complex video games, classify images better than humans understand our spoken language.
+We are getting, and we are certainly working towards truly general systems that can do anything.
+Let's at least say any economically valuable work a human can do.
+And I think we are not that far away from a world where any repetitive human work that does not require a deep emotional connection with the other person, will be done much better and for effectively free by artificial intelligence.
+And that alone will be bigger than the Industrial Revolution the Agriculture Revolution, any of that.
+And that, I think at this point, is like a certainty.
+So that's the pro case.
+That's like step one of the pro case.
+That's like in the bag.
+(audience laughs) The question is what happens next.
+That's the part that everyone's worried about.
+Well, I think it will be awesome.
+I know people are worried, and I do get that it's a very high vol moment in human history.
+But I have become, since I've been working on this, much more optimistic that we're gonna get to the good case.
+We're gonna get to the this is incredible case, and not to sort of distinguish the light.
+So part of OpenAI, I think you mentioned before that the largest single group in OpenAI is safety.
+The safety team, what do they do? Technical work on how we impart human values, how we build systems to do what we want, and not exactly what we tell them.
+We've seen many examples in our work so far of our system solving goals by doing things we really don't want them to do.
+And so figuring out how we precisely communicate what we want.
+This is gray goo problem, where you tell it to calculate pi and it decides to accidentally harvest all of the world's resources to do so.
+Right.
+So figuring out technical work we can do today, that will make sure we get to a safe and human beneficial AGI in the next few decades.
+That's what they do.
+Sebastian, you do this every day, you code algorithms, et cetera.
+Does any of this work change what you do? Yeah, I would argue that AI will be the biggest solution since the Industrial Revolution.
+I meant the safety work, the things not to do.
+One of the things to understand, is today I'm still stuck in the first generation, sorry Sam, not in the outward arching of the AI eating us for breakfast generation.
+But even if the current one there, AI is able to look at repetitive patterns and extract from its own rules.
+That to me has, as you mentioned, Sam, the ability to basically enhance every person doing repetitive office work.
+So accountants, and lawyers, and doctors diagnosing diseases and so on.
+The effect of this will be that we'll just do much less repetitive work, and we'll do much better work and we can benefit from the experience of other workers doing all of our work really well.
+At some point, I envision that these kind of technologies will give every person the ability to be an expert on day one.
+To me, the nice thing about today's AI is they're very confined.
+So when people talk artificial intelligence, they think oh my God, monsters, they want to eat us for breakfast.
+Nope, they're really just pattern recognizers, they'll take big data sets and find patterns.
+And as such, I don't see the moral burden on AI itself.
+I see the moral burden on us, the people, who use it.
+So when we put AI into a workplace, then we have the moral responsibility to make sure it's safe and good.
+And if it's not safe then we have reliability to deal with the lack of safety.
+Now obviously the flying thing is easy to find safety, it doesn't crash.
+Is it with code? Is it easier to find safety? I think it's harder, because the way ...
+I mean, further of all, flying is not quite as easy as crashing.
+(audience laughs) You could also spin too fast and break your neck in mid flight, and stuff like this.
+I think the world has become much more interconnected and I think the ability to, bad actors to do something using technology like AI in a way that's not traceable is certainly there.
+But on the positive side, I believe that we've always, manage to use technology to our betterment and make the world a better place in the end.
+So I'm mildly optimistic.
+We will again, and for me the big question is not can we technically keep it safe, 'Cause it'll turn out we can, but how do we make sure that the world we get to is a just one? The wealth and equality problems we have today will be a drop in the bucket if we don't get this right.
+And I think if we don't figure out how we build this in a way where the world is quasi-safe and everybody gets to benefit from this absolute abundance of resources and wealth, that will be a very sad outcome.
+I thought of a better answer to the productivity question.
+Okay, yeah, I'll give you 30 seconds.
+30 seconds, okay.
+I think one problem is that almost everyone optimizes for the wrong timeframe.
+You either optimize far in the future and you never to anything today, or you just think about, you have the Silicon Valley deferred life plan, where I'm gonna make $100 million in three years and I'm gonna go do what I wanna do.
+Neither of those ever work.
+What I have done, that has worked for me, is I write out, periodically, 20 years from now, what I'd like to get done with my life.
+Every year I write a very specific list of goals of the things that I wanna get done this year.
+I look at that all the time, but then every day I'm like, what can I do this day that will get me fast as possible in progress to the next goal.
+So I never have a day where I'm like, its in the future.
+And having, sort of being able to move up and down the time scales, but knowing how they relate, and then following up and looking at my list from like 2010, 2009, did those things actually all happen the way I wanted has been incredibly focusing, and good at like getting the shit that doesn't matter out of the way.
+And one last tiny thing, aside from the do awesome panel with Sebastian and Chris, give me an example of what's on your list.
+Honestly, right now, increasingly more and more, increasingly every year, it seems like working on AI is more important than everything else put together.
+And so I expect my 2019 list to be the shortest it's ever been.
+And today you're working on? AI, nuclear supersonic planes, I'm super interested in psych biology, we talked a little bit about the carbon capture work, figuring out how wide sea scales up another, like through magnitude.
+Yeah, it's only 4:30.
+(audience laughs) Go for it.
+Please join me in thanking Sam and Sebastian.
+(applause) Thank you.
+Safety and the Self-Driving Car WIRED25: Kai-Fu Lee and Fei Fei Li On What's Next for Artificial Intelligence Machine Learning: Living in the Age of AI President Barack Obama on Bureaucracy VS. Moonshots WIRED's Top Gadget Stories of 2016 Entrepeneurship Boot Camp: Alexis Ohanian and Jewel Burks on Starting Startups | WIRED25 IBM Presents Jason Kelley in Conversation with Scott Rosenfield The Trouble with Techno-Utopianism: Anand Giridharadas & Virginia Heffernan | WIRED25 President Barack Obama on How Artificial Intelligence Will Affect Jobs How a Bunch of Geeks and Dreamers Jump-Started the Self-Driving Car Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

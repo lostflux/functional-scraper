@@ -1,0 +1,58 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Firefox 39 arrives with Hello link sharing, smoother animation and scrolling on OS X, better Android pasting Share on Facebook Share on X Share on LinkedIn Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+Mozilla today launched Firefox 39 for Windows, Mac, Linux, and Android. Notable additions to the browser include an option to share Hello URLs via social networks, smoother animation and scrolling on Mac OS X, and the ability to paste Android clipboard content into editable Web content.
+Firefox 39 for the desktop is available for download now on Firefox.com , and all existing users should be able to upgrade to it automatically. As always, the Android version is trickling out slowly on Google Play.
+Mozilla doesn’t break out the exact numbers for Firefox, though the company does say “half a billion people around the world” use the browser. In other words, it’s a major platform that Web developers target — even in a world increasingly dominated by mobile apps.
+Desktop The most important addition to Firefox 39, from Mozilla’s point of view anyway, is Firefox Hello URL sharing on social networks.
+ You can now share your Firefox Hello link on Facebook, Twitter, and LinkedIn.
+In Firefox 33 beta, Mozilla introduced an experimental WebRTC feature that let users make free voice and video calls without needing to download additional software or plugins, nor create an account. The feature was further improved and launched as part of Firefox 34 (it’s now powered by the OpenTok real-time communications platform from TokBox, owned by Spanish carrier Telefonica). Mozilla calls Firefox Hello “the first global communications system built directly into a browser” and ensures users don’t need to hand over personal information to use it. Because WebRTC is compatible with Chrome and Opera browsers as well, you don’t even need the same software or hardware as the person you want to call.
+To use the new sharing option, you’ll first have to add your social networks by visiting Services for Firefox , clicking on each service you want to add, and then hitting the Activate Now button. After that, you can share links like so: Click the Firefox Hello button to create a conversation.
+In the conversation window, click Share Link and choose a social network on the list.
+Log in to your social network if prompted and post the link.
+When someone clicks the shared link, they’ll see a window where they can “Join the conversation.” Your Firefox Hello button will turn blue when they join.
+Next up, Project Silk , which aims to provide smoother scrolling and animation, has arrived on OS X. You can check out the technical details on GitHub , including how Project Silk aligns hardware vsync signals among input, content painting, and composition modules.
+Here’s the full Firefox 39 changelog : New: Share Hello URLs with social networks.
+New: Project Silk: Smoother animation and scrolling (Mac OS X).
+New: Support for ‘switch’ role in ARIA 1.1 (web accessibility).
+New: SafeBrowsing malware detection lookups enabled for downloads (Mac OS X and Linux).
+New: Support for new Unicode 8.0 skin tone emoji.
+Changed: Removed support for insecure SSLv3 for network communications.
+Changed: Disable use of RC4 except for temporarily whitelisted hosts.
+Changed: The malware detection service for downloads now covers common Mac file types (Bug 1138721 ).
+Changed: NPAPI Plug-in performance improved via asynchronous initialization.
+Changed: Performance of displaying dashed lines is improved (Mac OS X) (Bug 1123019 ).
+HTML5: List-style-type now accepts a string value.
+HTML5: Enable the Fetch API for network requests from dedicated, shared and service workers.
+HTML5: Cascading of CSS transitions and animations now matches the current spec.
+HTML5: Implement <link rel="preconnect"> allowing anticipation of a future connection without revealing any information.
+HTML5: Added support for CSS Scroll Snap Points.
+Developer: Drag and drop enabled for nodes in Inspector markup view.
+Developer: Webconsole input history persists even after closing the toolbox.
+Developer: Cubic bezier tooltip now shows a gallery of timing-function presets for use with CSS animations.
+Developer: localhost is now available offline for WebSocket connections.
+Fixed: Improve performance for IPv6 fallback to IPv4.
+Fixed: Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers.
+Fixed: The Security state indicator on a page now correctly ignores loads caused by previous pages.
+Fixed: Fixed an issue where a Hello conversation window would sometimes fail to open.
+If you’re a Web developer, more details are available for you here: Trainspotting: Firefox 39 and Firefox 39 for developers.
+Android Firefox 39 for Android isn’t a major release by any stretch. One feature worth noting, however, is the ability to finally paste into “contentEditable elements.” While copy and paste works, you can’t yet cut text from contentEditable elements, but that’s in the works as well.
+Here’s the full Firefox 39 for Android changelog : New: Paste Android clipboard content into editable web content.
+New: Support for ‘switch’ role in ARIA 1.1 (web accessibility).
+Changed: Removed support for insecure SSLv3 for network communications.
+Changed: Disable use of RC4 except for temporarily whitelisted hosts.
+HTML5: Enable the Fetch API by default.
+HTML5: List-style-type now accepts a string value.
+HTML5: Implement <link rel="preconnect">.
+HTML5: Cascading of CSS transitions and animations now matches the current spec.
+HTML5: Added support for CSS Scroll Snap Points.
+HTML5: Vertical text mode enabled by default on Developer Edition.
+HTML5: Implement Cache API.
+Fixed: Improve performance for IPv6 fallback to IPv4.
+Fixed: Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers.
+Mozilla typically releases new Firefox versions every six weeks, and we thus expect Firefox 40 to arrive by mid-August.
+Update : Mozilla has delayed Firefox 39 “due to a last-minute stability issue.” We’ll update you know when it’s available.
+Update on July 2 : You can download Firefox 39 now.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

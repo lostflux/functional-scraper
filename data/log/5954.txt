@@ -1,0 +1,40 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages 15 alternatives to Facebook’s Parse Share on Facebook Share on X Share on LinkedIn Parse no more.
+Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here.
+Sh*t happens. Sometimes cloud services and applications shut down. Yesterday, Facebook announced that it would be closing up Parse, the mobile backend as a service (MBaaS) that it acquired in 2013 for a reported $85 million.
+Customers do have a whole year to get their apps running on different infrastructure. And fortunately, there are many other cloud services to choose from if you don’t want to detail with the complexity of managing the underlying server and storage infrastructure for your mobile apps.
+Here’s a roundup of Parse alternatives to consider, along with a bit of background information on each one: AnyPresence.
+ Founded in 2011, AnyPresence has an enterprise focus. It supports on-premises deployments. It announced a $6 million funding round in September 2014.
+Appcelerator.
+ Founded in 2006 and recently acquired by Axway, Appcelerator offers its Arrow cloud service starting at $259 per seat per month. Customers include Cisco and VMware.
+Appery.
+ Appery launched in 2012 originally under the name Tiggzi, as a product from Exadel, which started in 1998. More than 300,000 developers use it, and customers include Aetna, Konica Minolta, and Toyota.
+Backendless.
+ Founded in 2012, Backendless has taken on less venture capital than some of its competitors, but “at this point the business can fund itself,” founder and CEO Mark Piller wrote in a support forum post last year. The cost of deploying apps on top of multiple servers is not posted on the company’s website.
+Built.io.
+ Founded in 2007, Built.io offers a backend that can be deployed on Amazon Web Services, IBM SoftLayer, or VMware’s vCloud Air.
+CloudMine.
+ Established in 2011, CloudMine is currently offering a special deal to Parse customers to win their business. CloudMine has integrated itself with platform as a service (PaaS) company Apprenda and it announced a $5 million funding round in March 2015.
+FeedHenry.
+ Established in 2008, FeedHenry was acquired by Red Hat in September 2014 for around $82 million. Today the pricing for the Red Hat Mobile Application Platform is not immediately visible; you have to contact Red Hat.
+Firebase.
+ Established in 2011, Firebase is a real-time cloud backend with a strong developer following and hosting for static assets in apps. It was acquired by Google in October 2014.
+Kii.
+ Established in 2007, Kii supports on-premises and cloud deployments. The company focuses on Internet of Things (IoT) applications in particular. Earlier this month Kii announced that it had received funding from Cisco Investments.
+Kinvey.
+ Founded in 2010, Kinvey has several enterprise customers, and it’s available for deployment on on-premises data centers, too. The company raised a $10.8 million round in September 2014. VMware used Kinvey’s backend to deliver a mobile offering in vCloud Air.
+Kony.
+ Founded in 2007, Kony offers the MobileFabric MBaaS. Kony raised $50 million in June 2014.
+Kumulos.
+ Founded in 2010, Kumulos focuses on providing MBaaS to companies as a tool that they can white-label for their own customers to use. Pricing, at $50 per app per month, only kicks in once apps are live.
+moBack.
+ Founded in 2012 and currently advertising free service on its website, moBack can be deployed on top of Amazon Web Services or on-premises data center infrastructure.
+Syncano.
+ Founded in 2011, Syncano announced a $5.5 million funding round in September. It costs just $25 a month to run applications in production with Syncano.
+Telerik.
+ Boasting customers such as Dell, IBM, Microsoft, and Sony, Telerik has been around since 2002; it was acquired by Progress in December 2014 for $262.5 million.
+Also, the Parse Server software is now available under an open source license , allowing you to set up a Parse-like experience on whatever infrastructure you want.
+VB Event The AI Impact Tour Connect with the enterprise AI community at VentureBeat’s AI Impact Tour coming to a city near you! If you’ve been using Parse, feel free to share what you’re doing with your mobile apps in the comments.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

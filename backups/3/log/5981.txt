@@ -1,0 +1,41 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Microsoft releases new Windows 10 preview with tablet and recovery improvements Share on Facebook Share on X Share on LinkedIn Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+Microsoft today released a new Windows 10 preview with tablet and recovery improvements. The update bumps Windows 10 from build 18965 (made available to testers on August 21) to build 18970. These builds are from the 20H1 branch, which represents the Windows 10 update that will arrive in the first half of next year.
+Windows 10 is being developed as a service , meaning it receives new features on a regular basis. Microsoft has released seven major updates so far: November Update , Anniversary Update , Creators Update , Fall Creators Update , April 2018 Update , October 2018 Update , and May 2019 Update.
+This build introduces a new tablet experience for 2-in-1 convertible PCs. The new experience lets you enter tablet posture without interruption. There are a few changes, though: Spacing between Taskbar icons increases, the search box collapses into an icon, File Explorer switches to touch-optimized layout, and touch keyboard auto-invokes when you tap text fields. There are also a few small changes to the tablet section in Settings.
+Event GamesBeat at the Game Awards We invite you to join us in LA for GamesBeat at the Game Awards event this December 7. Reserve your spot now as space is limited! Reset this PC now provides users a new choice to download Windows or use local reinstall. Until now, Reset this PC was only able to do a local reinstall from existing Windows files. The cloud download option will reinstall the same build, version, and edition that is currently installed.
+Bug fixes This 20H1 build includes the following bug fixes and improvements: Fixed a DWM memory leak that was impacting the previous two flights.
+Fixed an issue resulting in some WSL distros not loading ( Issue #4371 ).
+Fixed an issue impacting a small number of Insiders, involving a lsass.exe crash and resulting in a message saying, “Windows ran into a problem and needs to restart.” Fixed an issue resulting in WIN+(period) closing if you tried to search for an emoji when focus was set to a text field in an Electron app.
+Fixed two issues that could result in Settings crashing when interacting with options on the Search page.
+Improved the launch performance of Settings when the Settings header is visible.
+Fixed an issue resulting in some Insiders experiencing a bug check with BTHport.sys in recent flights.
+It’s important to periodically back up your data. Starting in recent Insider builds, Windows Home and Pro users without a first party backup solution will now see a friendly reminder to consider setting up a backup option that is included with Windows. If you’d prefer to turn this off, there’s an option to do so in the notification.
+Addressed feedback about the acrylic in certain surfaces not appearing immediately. In this build, it’s fixed for Start menu, the volume flyout, the network flyout, the clock & calendar flyout, and notification toasts.
+Some bug fixes and improvements to Magnifier reading capabilities.
+Improved Magnifier performance when moving the mouse around the screen.
+Resolved an issue where Control + Alt + L would not put Magnifier into Lens mode.
+Squashed several of them related to the new text cursor indicator. Text cursor indicator now appears and disappears more reliably. Text cursor indicator preview in settings no longer changes size when text scaling was on.
+Improved Magnifier reliability.
+Fixed an issue where the File Explorer search suggestions weren’t being read out by Narrator.
+Fixed an issue in Narrator where it would speak “unknown” if you had the “Header Status” column enabled within Outlook as you arrowed between different email messages.
+Fixed a couple Narrator dialog reading issues. Narrator would sometimes speak “empty document” or stop the dialog reading too early.
+Fixed an issue where Narrator would not always speak the group name of a radio button on web pages.
+Fixed an issue with Narrator and Excel not speaking the column header when arrowing between cells in a table.
+Fixed an issue where Narrator would only speak “item” when navigating by table cells in an Outlook email instead of reading the entire cell’s contents.
+Narrator will now read webpages from the top of the page and not at the main landmark with a fallback to find a paragraph. Thank you for your feedback! Narrator now supports the aria-haspopup property.
+Improved Outlook performance and stability when reading mail messages in Outlook.
+Improved Narrator reliability.
+Changed Narrator input learning, so you just have to press Narrator + 1 once to turn input learning off.
+Fixed an issue when a user navigated to a webpage in Edge, Narrator would read just the URL field and not the webpage.
+Fixed an issue when a user was replying to an email in Outlook, Narrator was automatically reading the message while the user was trying to type.
+Known issues This build has seven known issues: There has been an issue with older versions of anti-cheat software used with games where after updating to the latest 19H1 Insider Preview builds may cause PCs to experience crashes. Make sure you are running the latest version of your games before attempting to update the operating system.
+Some Realtek SD card readers are not functioning properly.
+The minimize, maximize, and close title bar buttons aren’t working for certain apps. Alt+F4 should work as expected to close the app if needed.
+Text on Devices pages in Settings for “Bluetooth and Other Devices” and “Printers and Scanners” isn’t rendering correctly.
+Search isn’t working for Insiders using certain display languages, including Polish. If you are impacted by this, switching your display language to English then back to your preferred display language should resolve it.
+As always, don’t install this on your production machine.
+GamesBeat's creed when covering the game industry is "where passion meets business." What does this mean? We want to tell you how the news matters to you -- not just as a decision-maker at a game studio, but also as a fan of games. Whether you read our articles, listen to our podcasts, or watch our videos, GamesBeat will help you learn about the industry and enjoy engaging with it.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

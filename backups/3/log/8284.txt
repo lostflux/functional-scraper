@@ -1,0 +1,96 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Review: Google Pixel 6 and Pixel 6 Pro About Credits Read the full review Released on 10/25/2021 It's very hard not to like Google's new Pixel 6 and Pixel 6 Pro.
+The hardware in these phones finally feel like they match the really smart software Google has been polishing for the past five years.
+But what's crazy is how these two phones undercut their peers in price, especially with the $599 Pixel 6.
+That feels like a steal.
+[chill music] These phones are powered by a custom processor, built by Google called Tensor.
+Now in our benchmark tests, it scored slightly less than the Qualcomm chip powering most flagship Android phones today, like the Samsung Galaxy S21 Ultra.
+But that's okay because it runs really well.
+I've yet to see a stutter or slowdown in these things.
+Now your only concern might be if you play some of the most demanding games around on your phone.
+Genshin Impact, for example, was pretty choppy and I had to lower the graphics down to low to be able to play it at 60 FPS.
+I had to do the same on the iPhone 13 Pro Max, but it still managed to run more smoothly, and it's definitely the more powerful phone.
+Still, I've tried a bunch of games like, Pokemon Unite, Hyperburner, and Dead Trigger 2, and they all ran perfectly fine.
+Battery life is really great.
+Both of these devices comfortably lasted me a full day with a little less than 40% remaining before bed.
+Now that's around five hours of screen-on time.
+And you can recharge them wirelessly or with a cord.
+The OLED screens are really nice and sharp and there's a 90 hertz panel on the Pixel 6 and a 120 hertz panel on the Pixel 6 Pro.
+So everything looks buttery smooth.
+But I do have some gripes about the screen.
+First, it barely gets bright enough to read in broad daylight, not nearly as bright as the iPhone 13 Pro.
+Second, I wish we had a bit more variety in screen sizes.
+Now, the Pixel 6 has a 6.4 inch screen and the Pro has a 6.7 inch screen.
+So it sounds different, but they're pretty similar in size.
+The Pixel 6 has thicker borders around the screen, whereas the Pro slims all of that down around the display and even curves to the edges.
+It just would have been nice to have two distinct sizes and one that's especially nice to hold for people with smaller hands.
+And finally, there's the fingerprint sensor.
+Unlike previous Pixel phones, the sensor is baked into the screen and it's just not that great.
+It usually takes me two tries to unlock it, which is just frustrating.
+But the cameras are the most exciting upgrade here on the Pixel 6 series because the Tensor chip is built to handle complex sophisticated machine learning models.
+So everything from Google's image processing to how it handles voice to text is significantly better.
+Case in point, video.
+Pixels usually have struggled in the past to match their video quality to their peers.
+But now Google's processor can run many of the same imaging algorithms it uses for photos on each frame in the video.
+And the result is video footage that's drastically better than predecessors.
+Now this is especially true in high contrast scenes that Pixel often delivered better colors and preserved shadows and highlights really well compared to the iPhone and the Samsung Galaxy S21 Ultra.
+That said, it's not a complete winner.
+There are some imaging quirks and the stabilization isn't as smooth.
+The camera hardware has also gotten a serious bump and that's obviously going to help a lot.
+The main camera is 50 megapixels up from 12, and the ultra wide is 12.
+And this is the same on both Pixels, but the Pro has an additional 4X optical telephoto camera.
+I've taken more than 300 photos over the past two weeks with other phones, comparing them all.
+And while it's hard to say the Pixel 6 is the best camera phone out there, it's pretty much tied with the iPhone 13 Pro Max in my view.
+Whether it's in low light, broad daylight, portrait mode, you'll pretty much get a really fantastic shot.
+Here's one example, singled out of this outdoor taco shop.
+The Pixel illuminated it really well, retains all the fun colors and you can still see the skyline in the background in great detail.
+I'm not quite sure what happened with the iPhone version, that blue light you see wasn't there.
+And there's a lot of detail lost to the shadows in the skyline.
+Here's one with the Ultrawide.
+This one's pretty remarkable.
+The Pixel balanced the bright sky and the dark forest really well, preserving a lot of the colors, but the iPhone shot is a bit washed out and the sky is blown out.
+And here's one with the telephoto of this skateboarder.
+Of course, the Pixels 4X zoom goes a bit further, but the picture is brighter, sharper, not as grainy and the punchy colors don't feel oversaturated.
+But the most impressive feature for me personally is real tone.
+Google says it worked with artists to help the Pixel camera capture darker skin tones, more accurately.
+And I'm just going to leave these four photos here.
+The first one was supposed to be a portrait mode the iPhone failed at, it said to move closer, and when I did it said it was ready, but then it didn't apply the blur effect.
+But anyway, it basically then just made my face really dark.
+But the Pixel didn't.
+Now, look at this one.
+This is with the rear camera and night mode.
+Now, even with night mode, the iPhone darkened up my face.
+Whereas the Pixel photo actually did a pretty great job with my skin tone.
+It just sucks that we had to wait this long for this to happen.
+There's a lot more Tensor can do in these new Pixels.
+One of my favorites is magic eraser, which is a feature in the Google photos app that lets you erase unwanted objects or subjects in the background of your photos.
+I used it to take out the leash of the photos of my dog and it works pretty well.
+I also really love live translate.
+It knows when someone messages you in another language, translates it and lets you respond in the same language without having to leave the app.
+It doesn't work in every messaging app and only a few languages are supported, but I had a whole conversation with my partner's mom in Chinese and I don't speak Chinese.
+And she understood everything I said.
+Probably the feature I use the most though is assistant voice typing.
+It's baked into the gboard, Google keyboard.
+And all you need to do is tap the mic button and talk.
+It'll suddenly start transcribing everything you're saying really fast and really accurately and it'll even add punctuation, it understands context, so when you say, send, it'll actually send the message, but if you say send in the middle of a sentence, it probably understands you're not saying a command.
+It's pretty intuitive.
+And I've just been voice typing in emails, slacks, messages, pretty much everywhere.
+Google's also doing a whole lot to make phone calls better too.
+Now, when you call a 1-800 number, you can see wait times for how busy the call might be straight in the dialer app.
+And Google can even transcribe the conversation.
+Now the transcription isn't always great, but it'll actually separate out the menu options, and I found those are pretty concise.
+And of course you don't have to wait on hold.
+Just ask Google to do it for you.
+And assistant will let you know when someone is on the other line.
+These are some attractive phones, not just on the outside, but on the inside too.
+Android 12 looks gorgeous here.
+I loved the theming options and the new widgets.
+Better yet, Google is promising five years of security updates, which is more than any other Android phone.
+It's just a shame that it's only promising three years of Android upgrades.
+Which should you choose? Well, I'm a sucker for the telephoto camera, but the Pixel 6 Pro is $899.
+And this one is $599.
+It's just crazy how much good value the Pixel 6 is.
+And that makes it arguably the best phone for the money.
+Starring: Julian Chokkattu Review: Google Pixel 4A Review: Google's Pixel 2 and Pixel 2 XL Smartphones Review: Google Pixel 5A 5G Meet the Pixel, Google's Answer to the iPhone Google Pixel 4 Hands-On Everything From the 2017 Google Pixel Event First Look: Google's Pixel 3 and Pixel 3 XL Hands On Pixel Launch 2018: Everything You Need to Know from Google's Event Google Just Got Real By Changing Its Gadget Game First Look: Google Reveals New Version of Google Lens Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

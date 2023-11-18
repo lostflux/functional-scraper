@@ -1,0 +1,236 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Astrophysicist Explains Black Holes in 5 Levels of Difficulty About Released on 03/24/2022 Hi, I'm Janna Levin.
+I'm a Professor of Physics and Astronomy at Barnard College of Columbia University.
+And today I've been asked to explain black holes in five levels of increasing complexity.
+A black hole might be different than you imagine.
+To some extent it's a place and not a thing.
+Black holes play an important role in the history of the universe, in sculpting galaxies that we live in, and possibly in the ultimate fate of the universe.
+[tense music] Hi.
+Hi, welcome.
+Tell me your name.
+Jude.
+I wanted to ask you if you have ever heard of a black hole? Yeah, I think that they're scary and cool.
+'Cause you can get sucked in and get lost forever and get plopped out in a random place.
+It's like a big, giant, black thingy.
+So black holes, you describe them as huge.
+The interesting thing about black holes is they're hugely heavy, but they're actually physically really small.
+What really matters is the density.
+Do you know what density is? It's not weight, but it's how much of it is in it.
+Here, let me show you something.
+I can ask how heavy it is. Yeah.
+I can also ask how big it is, which is a question about its volume.
+If I make it smaller, then what's happening is it's becoming more dense.
+So imagine I crushed this really, really small.
+It would weigh the same, it would have the same mass, but it would be much more dense.
+How does it go that small? If a star is heavy enough to explode into supernova what's left begins to collapse under its own weight.
+And if that's heavy enough, the core will not be able to stop collapsing, 'cause it no longer has the thermonuclear fuel, it's run outta fuel.
+And if it's run outta fuel, it's no longer shining and pushing outward.
+And without that it itself begins to go dark and there's nothing fighting the collapse anymore.
+And that's when you form a black hole.
+So if like the sun all collapsed on itself, it would form a black hole? Well, that's a really good question.
+So interestingly, the sun itself isn't heavy enough.
+So it has to be heavy enough that when it begins to collapse, it just overcomes all attempts to fight it.
+If you made something really dense, you would have to travel faster than the speed of light to actually escape.
+That's 300,000 kilometers per second.
+So it goes so fast that there's it's all dark? So it goes so fast that it goes completely dark.
+Any light that veers too close will fall in, will not be able to make it back out again.
+If a light is shining from the sun near a black hole, the black hole's not touching it.
+Why does the light get pulled in? Why does that happen? Because the black hole is taking other stuff? It is taking other stuff, but the funny question was like, if I wanted to move your chair, you'd think it was really strange if I didn't have to come near you and actually grab the chair and move it.
+One of the things Einstein thought about is he imagined that what the black hole is doing is it's changing the shape of space around it.
+What do you think of that idea? It's crazy.
+Isn't it crazy? And then Einstein goes a step further and thinks, well, what black holes must be doing is curving the space so strongly that even light gets caught.
+Sometimes you can get light caught into a whole orbit, literally the light going round and round in an orbit.
+So black hole, it doesn't attract light, it moves the space so that the curve is pointed towards it? That's right.
+We've been talking for a little while about black holes.
+What are you gonna walk away with in your impression of what a black hole is? It's kind of curves in space that are all coming to one point.
+Everything that goes on those curves changes directions to come in and even light can't escape it, nothing can.
+You said that very beautifully.
+Does that feel like a different idea of a black hole than the one you had before we spoke? Yeah, a lot.
+[midtempo music] Have you heard about black holes? Yes, I know it has a lot of mass, but it's very small.
+I know that there are several theories about the universe due to black holes, like, around the universe and how it's made.
+So a lot of times stars are born together in two star systems and when they die, if they're heavy enough, they will collapse under their own weight and form a black hole.
+So here you have a black hole and a big fluffy star.
+And what will happen is it'll start to tear apart its neighboring star.
+Literally parts of the star will begin to spill onto the black hole and splatter on the black hole.
+But let's say both those stars formed black holes.
+And what these black holes do is they are like mallets on a drum.
+They create literally waves in the shape of spacetime as they're moving.
+So imagine mallets on a drum, how the drum ripples.
+Depending on how the mallets are moving you hear different sounds.
+So effectively these black holes, as they get very close together in the final stages of their life together, they're orbiting each other at hundreds of times a second.
+It's this really crazy event, but it's happening in complete darkness.
+Eventually they bobble together and they merge and then they wring out, the spacetime's going crazy around them, it's this storm in spacetime, and they settle down to a quiet black hole.
+Then those waves that they created travel through the universe, basically undisturbed.
+For a long time people thought, well, even if black holes are out there, they're impossible to observe.
+And then they got very clever.
+You might wonder how we could possibly hear black holes, that sounds crazy.
+So I'm gonna show you, but I'm gonna need your help.
+This demo involves an electric guitar.
+Do you play at all? A little bit? Okay, you wanna do the demo for me? So the LIGO instrument electronically records the ringing of the shape of space with its very complicated instrument.
+It stands for Laser Interferometric Gravitational-Waves Observatory and the design was incredibly difficult and they didn't know if they would succeed.
+I think of the instrument as like the body of the electric guitar.
+And then they take the readout of the motions of the waves that they're recording, just like that guitar is recording the motions of the waves on the string.
+Now just play it like a little bit.
+And you can't hear anything, right? You're not meant to hear an electric guitar when it's not plugged in.
+What's happening is the guitar strings are ringing, but so quietly that we can't actually hear the sound.
+And this is like the gravitational waves, which are ringing the drum of spacetime, but so quietly that they're not move the air and we're not hearing them.
+So now play and I'm gonna turn the volume up a little bit.
+[electric guitar music] While I can't actually hear the ringing of the strings themselves, I can hear the data of the shape of the string recorded and played through this amplifier.
+And that's kind of the idea behind the LIGO instrument.
+How do you know that it's like the black hole that's making this sound and nothing else? It's a great question.
+If I didn't see you playing the guitar, I would recognize the sound of a guitar.
+And even if I had never heard of a guitar before I could figure out the frequencies that the string was playing, I could tell how strongly it had been plucked, and I could tell the length of it and where it was pinned down from the harmonics of the string.
+And I can tell the different lengths of the strings from the notes that they play.
+So I can actually reconstruct the instrument that's playing it.
+And it's very similar to LIGO, we can listen to the notes, the amplitude, the harmonics, and we can deduce the size and shape of the objects doing that.
+And they're very massive and they're very small and they have all the markings of a black hole.
+Is there anything that like, gets affected on Earth because of those waves? It's a really good question.
+Only this instrument, and that's why it was so hard to build.
+And by the time it gets here, it's so weak that it's only squeezing and stretching space at like the fraction of a nucleus over very large distances.
+Has your understanding of black holes changed over the course of our conversation? I knew there were waves for like everything, but I never thought specifically, oh yeah, black holes have, like, waves.
+I know more and less.
+I know what you mean.
+[gentle music] I'm Jayda, It's nice to meet you.
+Nice to meet you, and where are you studying? I'm a senior at NYU.
+I'm studying physics and environmental studies.
+What is your impression of what a black hole is? So it's a star that has collapsed.
+It has so much concentrated mass and gravity that there's a point outside of the black hole called the event horizon.
+So once you get past the event horizon, nothing, not even light can escape from that.
+So that's a great definition and I wanna pick that apart a little bit.
+So what you described is just right.
+Stars, when they run out of thermonuclear fuel are gonna collapse under their own weight.
+It'll explode in a supernova, it'll leave a core, and if the core itself is heavy enough, it will keep collapsing.
+It does, as you say, reach this point where not even light can escape.
+But the amazing thing is it leaves that point, you called it rightly the event horizon, it leaves it behind kind of like an archeological record because the start itself can no more sit at the event horizon than it can race outward at the speed of light.
+So the core of the star keeps collapsing and where it goes nobody knows.
+So in a weird way, the black hole isn't anymore a crush of matter.
+It left it behind in its wake, but the stuff of the star is gone.
+I've heard of Schwarzschild black holes, which is a black hole that is static, a Kerr black hole or a Kerr-Newman black hole, which is a black hole that rotates, but what makes a black hole static versus rotating? And what's more common? It turns out that there are only three quantities that define a black hole, its electric charge, its mass, and its spin.
+So the most general black hole can also spin and it can also be electrically charged.
+Whether or not they are has to do with how they formed.
+If a star collapses, it will likely be spinning when it collapses and the remnant black hole that forms will likely be spinning.
+A black hole of a certain mass, charge, and spin is indistinguishable from any other black hole with those same properties.
+So in some sense, they're like fundamental particles, which makes them absolutely exceptional for any other astrophysical object.
+Have you heard the stories about what happens inside a black hole? I remember that once you pass the event horizon space becomes time and time becomes space, in like, a coordinate sense.
+So from the outside, if you're an astronaut, you're watching your friend, another astronaut going into the black hole, it's as though your times become rotated relative to each other.
+So the profound thing is as an astronaut on the outside, looking at this round event horizon, you think of the center of black hole as a point in space, but to the person who's fallen in, it's not a point in space at all, it's a point in time.
+The singularity, or the end of it all, the crush in the center of a black hole is in their future.
+So they can no more avoid the singularity than you can avoid the next instant of time coming.
+So the death in the singularity is inevitable.
+Although we don't really think the singularity necessarily exists.
+I sort of know what a singularity is.
+I think of it as something where everything is compacted into one single point, it's a place where the laws of physics don't exactly work out.
+What did you mean when you said that you don't think the singularity really exists? So the singularity is definitely predicted in Einstein's general theory of relativity and that's purely a theory of spacetime.
+And in the theory of spacetime, there is no question that a singularity would form when the star collapses catastrophically inside the black hole.
+Now, even when people talked about singularities back in the '60s, they thought, you know, quantum mechanics is part of the story of the whole of physics.
+It's not just gravity.
+And if we understand quantum gravity we'll realize that singularity probably doesn't ever actually form.
+So since we obviously have never been to a black hole, how do we know for sure, like, what happens after you cross the event horizon or what happens inside a black hole? Is it just like, inferred from the math? I would say to some extent we don't know for sure.
+What we have found is that the mathematics is so unbelievably powerful that we're able to disprove wrong ideas just in pen and paper.
+Just very recently, within the past couple of years, the first ever human-procured image of a black hole showed us what we expected to see of the event horizon.
+So Jayda, after our conversation today, what would you say a black hole is? Something that I had never thought of before is a black hole as kind of a type of quantum fundamental particle.
+I've also learned how event horizon of a black hole kind of hides a singularity.
+The beauty of being a student of something like black holes is you never stop having new impressions of what this enigmatic phenomena is.
+So in a year, I'll tell you what I learned that's new.
+Awesome! [classical music] I'm Clare.
+And you're in graduate school and you're getting your PhD.
+What year are you? I'm a second year.
+So I'm measuring star formation histories in the Small and Large Magellanic Clouds.
+Does the Large Magellanic Cloud have a big black hole? So, I think the prevailing wisdom for a while was no, but my answer honestly is I'm not sure.
+Yeah, and probably nobody is. [women laughing] Have you heard a lot in your studies about these super massive black holes that we think lurk in the centers of very nearly every galaxy? So I don't study AGN a lot, but I do have a long term interest in black holes, it's one of the reasons I entered the field.
+I always was curious about how a black hole of that size was able to form.
+Was it the result of mergers between smaller black holes, ultimately creating gravitational well deep enough to contract a protogenic disc for a whole galaxy? Or, man, what happened? Yeah, I think it's a really good question.
+The only mechanism that we know for sure can form black holes is to collapse of very massive stars.
+So it's sensible to think, well maybe some very massive stars in a young universe collapsed under their own weight and then they merged and after some time they got big enough, but the black holes from stars can be tens of times the mass of the sun, maybe hundreds of times to the mass of the sun if they merge.
+To get to millions and billions, and if you just do the simple arithmetic of how many years that would take, there aren't enough years in the 14 billion years of the universe's lifetime.
+So they must have come from somewhere else.
+I am at a loss to think of what could have possibly happened in between the start of the universe and the formation of our galaxy that could create such a massive object.
+Yeah, I think that's right.
+I think people are really perplexed about how you make something so big in such a short period of time.
+It's kind of funny, the bigger you make a black hole, it seems maybe counterintuitive, but the less dense the material has to be out of which you make it.
+So you can, out of something the density almost of air, you can make a supermassive black hole.
+You can't make a star out of that, but weirdly, if you skip the star phase altogether, it's conceivable that they directly collapse.
+And so there's suddenly a new way to make black holes that nature has figured out.
+We spend all of our time, when we learn about black holes in school, predominantly through star collapse.
+[Janna] Yeah.
+I didn't even realize that there was an alternate route to creating a black hole.
+There might be many alternate routes.
+It might be in the very early universe that bubbles in unusual phase transitions from very high energy universe to a low energy universe can make black holes.
+Like, we haven't really thought of the range of possibilities.
+And so there could also be primordial black holes that are still around that also skipped the star stage altogether that were formed really in the very earliest phases.
+And I think the interesting thing is, with your looking at like the Large Magellanic Cloud, is to wonder if we're gonna merge.
+Absolutely.
+We thought the canonical picture of the Clouds was essentially that they had formed with the Milky Way, maybe in its halo, and had been in a stable orbit for about a Hubble time, or about 14 billion years.
+Young guns in the field have thrown a wrench in that theory that they've always been orbiting and that perhaps they're on their first orbit, they're on an unstable orbit.
+Will they join us? Can you tell us about Andromeda? Andromeda is part of the big three in the local group.
+The local group being a group of galaxies that are not expanding with the expansion of the universe away from each other, they're trapped.
+Gravitationally, all friends.
+Yes, they're all friends.
+And Andromeda is one of the few galaxies that is traveling towards us and do for a merger event at some point.
+So given a sufficiently low velocity, we would just have two big galaxies that, for the most part, pass through each other, pass by each other.
+But given a sufficiently high velocity, we will have some crazy black hole interactions and some crazy star interactions.
+But when we do merge with Andromeda, presumably our black holes will merge and Andromeda indeed has a very big black hole as well at its center.
+And then we'll have this just gigantic- Supermassive black hole.
+Yeah, and it's very possible that as you said, the collision won't be so severe that it'll be very disruptive.
+So our entire solar system could stay intact and here we would go with the sun and all the other planets in orbit around a new black hole.
+They're kind of misunderstood giants in a way.
+So I was curious, have you heard anything new or interesting in the field of black holes that will shape future discussions? We work a lot right now on thinking of black holes as batteries.
+So a black hole that can take, like a giant magnet, astronomical magnet in the form of another collapsed star, like a neutron star, and flip it around so fast, near the speed of light, that it actually creates an electronic circuit out of this moving magnet.
+And so that the power that can come out of these electronic circuits created by these batteries can be tremendous.
+You know, I know that at a certain point for our civilization to become sufficiently advanced, to travel the cosmos beyond, you know, the moon or Mars, we may have to be able to harness the power of our sun.
+Would it be similarly possible to harness the power of a black hole like you were mentioning, to travel? It's a great question.
+I once did a calculation of using a black hole made out of the moon and the strongest magnet we could find on Earth to see if I could make an electronic battery.
+And honestly, you only get about enough energy to power New York City.
+But we have to find one in our neighborhood first.
+Yeah, wouldn't be my favorite thing.
+So Claire, we've had this pretty fascinating conversation about supermassive black holes in particular.
+And after our discussion, what is it that has changed for you in your perspective or what is it that excites you? Oh, I think our discussion kind of exposed a piece of black holes that I don't think of often, which is that they're not just life takers, they're life givers.
+And they inform a lot about, not just how a galaxy is destroyed or made, but how it's shaped and how it eventually, you know, builds life like ours.
+So maybe I have to give black holes a little bit more props.
+[gentle music] Hi, Dan, I'm so glad you could make it.
+What have you been working on with black holes in the time since I've last seen you? There are a lot of aspects to black holes.
+The one that's kind of interested me most lately is trying to understand them from the point of view of information, how information is stored and processed and recovered from black holes.
+Which turns out to be a really interesting perspective.
+Talk us through Hawking's initial revolution that led to a lot of these conversations about the information around black holes.
+Hawking's big insight was that he had to apply both the rules of quantum mechanics and the rules of gravity to really understand how black holes behaved.
+But Hawking took a point of view where he brought quantum mechanics into the game.
+He really that if you took that into account, that it's actually not quite true that black holes are black, that actually things can escape from black holes.
+So what you're describing is the famous Hawking radiation where a black hole cleverly kind of steals energy from the quantum vacuum and radiates and in the process of evaporates.
+And of course this caused a big kerfuffle because when the black hole evaporates, eventually that event horizons is yanked up.
+And the question is, where did everything go that had once fallen in? A way to think about Hawking radiation is to imagine that pairs of particles and antiparticles appear out of the quantum vacuum and the particle can escape the black hole, but the antiparticle falls in.
+But the particle and antiparticle are a pair and if the antiparticle really falls into the black hole and is destroyed at the singularity, that poor particle outside the black hole has lost his partner.
+It also violates the rules of quantum mechanics.
+If you have two particles that are entangled, that has to be preserved.
+Now, to be clear, nobody disputes that black holes will quantum radiate, that Hawking radiation is a solid prediction.
+The black holes should in fact evaporate, that's not disputed, right? That's right.
+It would be wonderful if we could have some experimental of evidence for this, if we could really build a black hole in the lab and test to see whether it behaves this way.
+But I think there is hope that we'll be able to detect some of these effects either indirectly, by looking at black holes out in the universe, or also maybe indirectly in the laboratory by looking at systems which aren't black holes, but which radiate in kind of similar ways.
+There's this domain of black holes in astrophysics where we see stars collapse, and we know that they exist and there's whole observational astronomy around them.
+And then there's this domain that we're talking about, where, as you said, black holes are so special because they're kind of guiding us in the right direction to understand the very nature of reality.
+And that makes them really unusually special.
+And one of the things I wanted to draw out is that we talk about the fundamental forces of nature.
+So there's the matter forces, and then the outlier is gravity.
+We've quantized all the matter forces in a way that we're rather comfortable with.
+Gravity keeps resisting quantization of gravity itself.
+And now we're thinking in a way that you're describing that, well, maybe it's only the quantum forces altogether.
+The pursuit of quantum gravity has taken us to places we never expected to be.
+I think what's exciting about physics, about theoretical physics, that you start following a thread, you start developing a chain of logic, and you never know where it's gonna end up.
+Do you think there's ever a hope that the kind of information that you think about, the quantum gravity aspects of the universe that you think about, whether it will pan out or not, will ever be viably observed in these astronomical pursuits of the event horizon? It's a real challenge, but astronomical observations have gotten so fantastically precise.
+And there is some hope that if you looked at things like two black holes merging, each black hole comes in with its own event horizon, but then when the black holes merge, there's a very complicated process where these two event horizons merge and oscillate and vibrate, and then settle down into a single event horizon for the final black hole.
+There is some hope that if we can make sufficiently detailed observations of this process, if we could really see the way the event horizon is behaving as it settles down to this final state, that maybe that could reveal some of these quantum effects that we've been talking about.
+It is amazing in the numerical simulations of two black holes merging, you really see the event horizons bobble around.
+And we were talking earlier about how really black holes are flawless, they don't tolerate those kinds of imperfections.
+And so you can so quickly watch the system wring away that misshapen merger.
+And it comes out in the gravitational waves, which is literally the ripples in the shape of spacetime until it settles down, and then it's utterly flawless again.
+It really happens fast.
+It's quite amazing.
+Yeah, it's a spectacular process.
+In some sense, black holes aren't anything anymore.
+They're just empty, curved spacetimes and nothing is there.
+How would you possibly make one? And then it becomes, why are there so many and where are they all? Being a black hole scientist means each question leads to more questions.
+We know more and more, but we also see how much more there is to understand.
+[mellow music] I hope you've learned something about black holes.
+Thank you so much for watching.
+Musician Explains One Concept in 5 Levels of Difficulty Expert Explains One Concept in 5 Levels of Difficulty - Blockchain Oculus' John Carmack Explains Virtual Reality in 5 Levels of Difficulty Biologist Explains One Concept in 5 Levels of Difficulty - CRISPR Neuroscientist Explains One Concept in 5 Levels of Difficulty Astronomer Explains One Concept in 5 Levels of Difficulty Laser Expert Explains One Concept in 5 Levels of Difficulty Sleep Scientist Explains One Concept in 5 Levels of Difficulty Physicist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains One Concept in 5 Levels of Difficulty Hacker Explains One Concept in 5 Levels of Difficulty Nanotechnology Expert Explains One Concept in 5 Levels of Difficulty Physicist Explains Origami in 5 Levels of Difficulty Computer Scientist Explains Machine Learning in 5 Levels of Difficulty Neuroscientist Explains Memory in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains Black Holes in 5 Levels of Difficulty Computer Scientist Explains Fractals in 5 Levels of Difficulty College Professor Explains One Concept in 5 Levels of Difficulty Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty UMass Professor Explains the Internet in 5 Levels of Difficulty Mathematician Explains Infinity in 5 Levels of Difficulty Theoretical Physicist Explains Time in 5 Levels of Difficulty MIT Professor Explains Nuclear Fusion in 5 Levels of Difficulty Harvard Professor Explains Algorithms in 5 Levels of Difficulty Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

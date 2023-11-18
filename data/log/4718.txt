@@ -1,0 +1,35 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Microsoft releases new Windows 10 preview with Emoji 12.0 Share on Facebook Share on X Share on LinkedIn Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+Microsoft today released a new Windows 10 preview with Emoji 12.0. The update bumps Windows 10 from build 18841 (made available to testers on February 20) to build 18845. These builds are from the 20H1 branch, which represents the Windows 10 update that will arrive in the first half of next year.
+Update on March 1 : Microsoft released build 18348 from the 19H1 with Emoji 12.0 and largely the same bug fixes.
+Windows 10 is being developed as a service , meaning it receives new features on a regular basis. Microsoft has released six major updates so far: November Update , Anniversary Update , Creators Update , Fall Creators Update , April 2018 Update , and October 2018 Update.
+Event GamesBeat at the Game Awards We invite you to join us in LA for GamesBeat at the Game Awards event this December 7. Reserve your spot now as space is limited! Emoji 12.0 was finalized earlier this month.
+ With the set of emojis to be included in Emoji 12.0 now decided by Unicode, Microsoft has added it to Windows 10. When you press WIN+(period) or WIN+(semicolon), all of these emojis will show up when you search for their corresponding keywords (otter, sloth, waffle, ballet shoes, and so on).
+This build is for Windows Insiders who have chosen the Skip Ahead option, which only a small subset of Insiders can opt into. Normally, that would have meant 19H2 builds, since 19H1 hasn’t been released yet, but Microsoft has chosen to really skip ahead this time around. That said, Microsoft isn’t adding many new features yet, and those paying attention will note the changes and fixes in this build are very similar to build 18342 from the 19H1 branch.
+Bug fixes and known issues This 20H1 build includes the following general bug fixes and improvements: Fixed an issue which would cause the Bluetooth Hands-Free audio driver to hang.
+Fixed an issue resulting in some Insiders not being able to access the Quests section of the Feedback Hub.
+Fixed an issue resulting in a decrease in Start menu reliability in the previous flight.
+Fixed an issue resulting in Microsoft Edge crashing on launch for some Insiders in the previous flight.
+Small tweaks to make the help icon in File Explorer look a bit better when dark theme is enabled.
+Fixed an issue where in certain languages if you pressed WIN+V before having opted into clipboard history the clipboard history UI would be truncated.
+Fixed an issue with the new Adlam keyboard resulting in not being able to type certain common words.
+Fixed an issue where, when typing Vietnamese, the touch keyboard was auto-capitalizing every word in certain apps.
+Fixed an issue that could result in unexpected flickering if you used pen or touch in certain win32 apps to launch a second instance of the app when in tablet mode.
+Fixed an issue that could result in DWM crashing after enabling high contrast.
+Fixed an issue where, when friendly dates were enabled in File Explorer, in certain languages (such as Japanese and Chinese) Insiders would see the wrong day name displayed.
+Fixed an issue resulting in an unexpected and non-functional Family Safety icon in the notification area of the taskbar.
+Fixed an issue that could result in the taskbar search box text becoming black on a black background.
+Fixed an issue where Start menu would crash when using Narrator to navigate pinned folders in Start.
+This build has nine known issues: Launching games that use anti-cheat software may trigger a bugcheck (GSOD).
+Some night light reliability bugs remain.
+For display calibration scenarios, monitors may be missing in the built-in Color Management application. As a work around, use the Settings app to select color profile instead, under the Display Settings page.
+Some Realtek SD card readers are not functioning properly.
+In Windows Sandbox, if you try to navigate to the Narrator settings, Settings app crashes.
+Mouse pointer color might be incorrectly switched to white after signing out and signing back in.
+Creative X-Fi sound cards are not functioning properly.
+If you install any of the recent builds from the Skip Ahead and switch to either the Fast ring or the Slow ring, optional content such as enabling developer mode will fail. You will have to remain in the Fast ring to add/install/enable optional content. This is because optional content will only install on builds approved for specific rings.
+As always, don’t install this on your production machine.
+GamesBeat's creed when covering the game industry is "where passion meets business." What does this mean? We want to tell you how the news matters to you -- not just as a decision-maker at a game studio, but also as a fan of games. Whether you read our articles, listen to our podcasts, or watch our videos, GamesBeat will help you learn about the industry and enjoy engaging with it.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

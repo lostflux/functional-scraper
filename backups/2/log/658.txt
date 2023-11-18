@@ -1,0 +1,186 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Chess Pro Answers More Questions From Twitter About Released on 11/14/2023 I'm Levy Rozman chess educator, YouTuber, and author.
+Let's answer some of your questions from the internet.
+This is Chess Support.
+[upbeat music] @manthosh12 asks, Do chess players trash talk? That way this game would be more fun.
+You can't talk to your opponent during a chess game, period.
+So you definitely can't trash talk an opponent during a chess game.
+But outside of it, oh, it's some of the best passive-aggressive soap opera drama you can possibly imagine.
+Now that we have a young grandmaster like Hans Neimann, who despite his checkered pass, no pun intended, will actually go out of his way to trash talk other people and have more eyeballs on the game.
+So yes, but also no.
+@AnnaCramling, what, you got Anna for this video, says, Is there any more satisfying checkmate than this one? First of all, hi, Anna.
+Second of all, yes, obviously.
+Probably the most satisfying checkmate in all of chess is smothered mate, when an opponent's king is stuck on the edge of the board, boxed in by his own pieces, and you used this knight and you gallop into the position, and the king is smothered in the corner by his own army while this knight attacks, and there's nothing that you can do.
+@KeenChess asks, Was the Hans Neimann-Magnus Carlsen cheating controversy good publicity for chess? What would you make of the drama? Overall, it was a net positive for chess.
+There was a massive controversy between Magnus Carlsen and Hans Neimann where the young grandmaster from the United States defeated the world champion, and Magnus withdrew from the tournament basically doing everything but directly accusing Hans of foul play.
+Millions of people around the globe started thinking of chess.
+They were hearing all of these ridiculous headlines, but at the end of the day, it just sparked their interest in the game itself.
+@neofight78 asks, Okay, chess peeps, what's the opening or variation that's the most fun for you to play? One of my favorite variations to play is when I'm playing with the white pieces and I open with the king's pawn e4 and black responds with c5, which is the Sicilian Defense.
+It's the most popular and combative opening for black fighting for the center with a flank pawn, a pawn that's not one of the two center pawns.
+And now I will play what's called a delayed wing gambit.
+I would go pawn to a3.
+And the idea here is very, very sneaky.
+You basically want to give up this pawn, so black is going to take it, and then you are going to take back.
+Now black is gonna say, Wow, what a dummy.
+I just won that pawn.
+Now I have an extra pawn.
+And then you start kicking out the knight and you get this massive center.
+You have a lot of pawns in the center.
+You can even plug another one in.
+And then you can use all of this open space for your pieces.
+And a lot of players get overwhelmed in this position.
+Find a chess opening or variation that you like, that you understand, that gets you to a position where you know the plans better than your opponent.
+@ericfarley1 asks, How does the Elo rating work? I'm intrigued.
+An Elo is the number which quantifies your skill level.
+It's not an acronym.
+The first letter is a capital E, and then it goes L-O.
+And the way Elo works is that it goes up and down or stays the same depending on your results.
+If you're rated 1200 and you play a 1100, you will gain a certain amount of points if you win, but your opponent will actually gain slightly more because they're beating somebody with a higher Elo.
+The minimum Elo to qualify for grandmaster is 2500.
+So in over-the-board live chess, the highest ever Elo achieved is by Magnus Carlsen.
+But online, Stockfish, which is the strongest chess AI in the world, is estimated to be around 3600.
+At my peak I was 2430, then I lost to a bunch of nine-year-olds.
+@jonnyceepembs asks, How hard would Capablanca be to beat with modern preparation tools at his disposal? How good would Capablanca be with modern preparation? Ridiculously good? Probably the world chess champion.
+Jose Raul Capablanca was one of the best chess players of his generation.
+He was a fantastic positional player.
+He was an expert endgame player as well.
+The only thing that he didn't do was live in the modern century in the age of computers.
+He managed to do all of that with chess being on paperback.
+Modern preparation tools are just a complete game changer.
+They allow you to analyze positions for 15, 20 moves in advance.
+The information gap from 1920, 1930 to nowadays is just absolutely absurd.
+An 11-year-old now with modern preparation tools could probably beat Capablanca in a match just on the information that is available to the 11-year-old that Capablanca in the 1920s and '30s would not know.
+@anuragsingh asks, What is going on in your mind when you have to play your next move? Like, what is your mind processing? Combinations? Simulations? It's a great question.
+Jose Raul Capablanca said, I only think of one move at a time, and it's the best move.
+Chess is all pattern recognition.
+Most experienced chess players have studied a lot.
+They have done thousands of chess puzzles.
+So I might be remembering something in my memory palace.
+I might be remembering there was this game played in 2012 between grandmaster A and grandmaster B in this city.
+He was wearing a blue shirt, and in that game he played this.
+The more you play chess and the more you study, that is how you are going to figure out some of these good moves or an evaluation of a position.
+@YourBudJosh asks, Do old people still play chess in parks? What parks? Do you have to be old to play? I wanna play chess in the park.
+There is no minimum age requirement to play chess at your local public park, but historically chess has been associated with old guys at the park.
+When I was five or six years old, my grandparents in Brooklyn would walk me to the park where local 70-year-old men would sit there squabbling.
+A lot of park chess players are actually really good.
+The average park chess player in Union Square Park or Washington Square Park is better than you watching this right now.
+So go play against them.
+And many of them are very, very friendly.
+They will give you some pointers.
+And at least here in New York City, it's customary to throw them, like, 3 or $5 for a game.
+@sebilozano asks, Hey, Siri.
+How much do chess players make? Chess players make exactly what they win in tournaments.
+Nowadays in 2023 there's also things like endorsement deals.
+Magnus Carlsen is famously sponsored by Puma, MasterCard.
+You can also get invited to paid corporate or speaking engagements, which a lot of them do because a lot of people respect chess players now.
+So it used to be that if you were outside of the top 20 grandmasters in the world, I'm not even sure you would break six figures on a good year.
+If you're also traveling the world constantly playing tournaments and you're just not succeeding, there is so much more pressure.
+You're probably losing money in a calendar year.
+@MackenzieWeber3 says, Learning how to program has changed my perspective on a lot of things.
+How does a chess bot able to analyze an entire game and point out which moves are the best? That's so wild.
+Chess bots have been better than human beings for something like 30 years.
+Chess bots like Stockfish, Leela, AlphaZero use really, really ridiculously powerful servers and they can analyze tens of millions of positions every single second.
+What they do is then they go out into the future 40,50 moves in many, many different branches, and they come right back and they evaluate what a move would do depending on what's out there in the future.
+@_namori_fan_, that's a lot of underscores, says, Does Stockfish blunder? No.
+A blunder in a traditional sense is a monumental mistake.
+Stockfish doesn't blunder anywhere near the traditional sense, but at times it will place a piece on a certain square and then not realize that actually 20 moves down the line that piece is not supposed to be positioned there and all of a sudden it's too late to defend itself.
+Stockfish has lost. Not to humans.
+It's lost to other bots like Leela, Komodo, or Torch, but it definitely doesn't blunder like we do.
+@erosindomita asks, How does chess notation work? I'm going to bite someone.
+No need for physical assault.
+It is quite simple.
+If I was gonna play a chess game right now, I would play pawn to d4.
+And the way you write that down is just the square that the pawn moved to.
+You don't have to write P.
+So it's kind of shorthand.
+So you would write d4, and that is what that would look like.
+And then your opponent would, let's say, play e6, pawn to e6.
+You would write e6 and it would be d4 e6.
+White made their first move and black made their first move.
+C4, so you would write c4.
+Now let's say your opponent developed a knight.
+They played knight to f6.
+K is king, so knight is N, knight f6.
+So it would be Nf6.
+There's some moments where two pieces can actually move to the same square.
+For example, in this position, both of black's knights can go to d7.
+So if this knight went to d7, it started on b.
+So knight b d7.
+And if this knight went to d7, it would be knight f to d7.
+Bonus! What if both knights were on the exact same file? Now, knight b d7 is the same exact thing, so their only differentiator is what rank they're on.
+So knight 8 d7, knight 6 d7.
+You only ever really need to do this with knights and rooks because the bishops can never go to the same square 'cause they go on opposite colors.
+@aydenb_ says, Chess prodigies are so crazy to me.
+How are you seven years old and beating people who spend 60 years of their lives learning chess? That's actually the beautiful thing about chess.
+It's a timeless game.
+And incredibly, children and adults learn chess in vastly different ways.
+People who start chess at a very young age have a chance of getting to a much higher ceiling overall in their chess careers.
+That's why you'll see at a local chess tournament seven-year-old playing a 60-year-old.
+I played a chess tournament in St. Louis a couple of years ago, and I played the number four, number two, and number one ranked 11-year-olds in America, and I only scored 50%.
+@ADVUniverse asks, What is the single piece of chess advice that help you improve the most? The biggest piece of advice that I give to kids or adults trying to learn this game is to completely disconnect your ego from this learning experience.
+Be prepared to lose a lot.
+There is no other way to get better at chess.
+You will probably lose three out of every four games that you play, but there are four to five things that you can learn in each of those games.
+If you are unable to do that because it makes you angry or upset or frustrated, then you are never going to get better at chess.
+@iamalisadiq says, Hey, what is the prize stake for this Chess World Cup? So the prize stake for this year's World Cup in 2023 was won by Magnus Carlsen, and it was estimated to be something like $110,000.
+The Chess World Cup is actually different than the World Chess Championship.
+The World Cup is a knockout tournament that happens every two years in chess.
+It starts with 128 players and ends with two.
+@RoamWithJon asks, How is chess boxing a thing? Chess boxing is a sport that combines chess and boxing shockingly, and essentially all it is, is a game of chess with a person, and then you pause the game and you box for a round, and then you finish the chess game from the point it was started.
+And then you keep going until one person either wins in the chess or knocks the other out.
+It's a fascinating sport, and it wasn't too popular until 2022 when Ludwig, massive YouTuber, actually put on the chess boxing event.
+I was a part of it. I was a commentator.
+I thought I was gonna fight, but I'm a little bit too scared of getting punched in the face.
+@RoudSync asks, I still can't wrap around the concept of speed chest.
+How can you decide a move under a second? Form a strat? And it usually lasts under a minute.
+The amount of brain cells you use in this.
+There's no brain cells at all.
+The average really good chess player probably doesn't know how to make toast.
+There is no correlation between chess and intelligence, except in my case.
+Listen, speed chess is all pattern recognition.
+If you've seen it before, it's not always going to be a one-to-one, but you're gonna have enough experience that you know what parts go where.
+These people can do it in two, three seconds.
+Speech chess is my favorite type of chess.
+If I have to get slowed down, then that's where I really struggle.
+@SabaOsmaanqazi asks, Where did chess come from? Allegedly around 600 A.D. in India.
+It was called Chaturanga, and back then the rules were slightly different, but that apparently is the first earliest recorded instance of chess.
+And I would know, I was there.
+@bison_booze asks, Did chess ever change its rules? I mean, for a game that old, they must have made a few balance patches.
+Over the years, there have been very, very few changes to the game of chess.
+There are things called variants where they, let's say, shuffle the back row of pieces, and now that's called Chess960, or Giveaway where you try to lose all of your pieces, and so on and so forth.
+And the last time there was really any major update is when they instituted en passant.
+@rinnequan asks, Bro, what is en passant? What the hell? I just found out about this rule.
+En passant in chess is a rule that came out, I don't know, something like 200 years ago, and essentially all it is, your pawn has crossed the center line and your opponent makes a pawn move and stands side by side with your pawn.
+They have to move two squares.
+For this move and this move only, you can take that pawn diagonally behind it.
+The only way you can en passant is if a pawn moves two squares for this turn.
+You cannot do that if it was another piece.
+If your opponent just moved their knight to that square, you cannot en passant a knight.
+You would get punched in the face.
+@Mzslayer1 asks, Chess lovers, what do you consider to be the most famous move in chess history? 1972, Bobby Fischer, Boris Spassky, World Chess Championship, United States versus Soviet Union, Cold War era.
+They begin the match, and toward the endgame Fischer captured a pawn and got his bishop trapped in one move.
+It was an oversight that, let's say, an amateur player wouldn't even make.
+It was just a complete just mental slip for a move.
+Fischer captured a pawn in the corner of the board essentially, and all Spassky had to do was move his pawn one square.
+And his bishop had no way out.
+It was a completely inexplicable mistake.
+Fischer had not made a mistake like that in his entire career, and he never made a mistake like that ever again.
+Bobby Fischer went on to lose that game, but a World Championship match is played over many games.
+And even though he lost that first one in this completely ridiculous fashion, he actually went on to dominate and win the match.
+@cozyKKyon asks, Why do chess players resign instead of taking the loss? People at the highest level resign when they know they're going to lose and they know that their opponent knows how to beat them.
+Most of you watching this should not resign because you never know.
+Stalemate is possible at the end of a game, running out of time by accident, Wi-Fi disconnecting.
+To resign, you would either tip over your king, which is the dramatic way to do it.
+You would click a button on chess.com if you were playing, or you'll see grandmasters often times just pause the clock and I would extend my hand to my opponent to shake it, which is just a silent way of saying, I surrender.
+@QuoraQuestions4 says, What is the greatest chess match ever? The best chess match which took a long period of time, you probably have to look at 1984, Garry Kasparov and Anatoly Karpov.
+And back then it was decided by the first person to win six games.
+Karpov got out to a five-nothing lead, and then Kasparov did not lose and he defended, defended, defended.
+He fought to make it five-three with, like, 30 draws in the middle, and the match basically had to be called off due to health concerns.
+It was like two months of playing chess against each other.
+I would never survive.
+So that's all the questions we have for you today.
+I just wanna say a big thank you to all of you for watching chess, playing chess, supporting chess in any way, shape, or form.
+Until next time, thank you for watching Chess Support.
+[upbeat music] Gordon Ramsay Answers Cooking Questions From Twitter Ken Jeong Answers Medical Questions From Twitter Bill Nye Answers Science Questions From Twitter Blizzard's Jeff Kaplan Answers Overwatch Questions From Twitter Nick Offerman Answers Woodworking Questions From Twitter Bungie's Luke Smith Answers Destiny Questions From Twitter Jackie Chan & Olivia Munn Answer Martial Arts Questions From Twitter Scott Kelly Answers Astronaut Questions From Twitter LaVar Ball Answers Basketball Questions From Twitter Dillon Francis Answers DJ Questions From Twitter Tony Hawk Answers Skateboarding Questions From Twitter Jerry Rice Answers Football Questions From Twitter Garry Kasparov Answers Chess Questions From Twitter U.S. Olympic and Paralympic Athletes Answer Olympics Questions From Twitter Neuroscientist Anil Seth Answers Neuroscience Questions From Twitter Blizzard's Ben Brode Answers Hearthstone Questions From Twitter John Cena Answers Wrestling Questions From Twitter The Slow Mo Guys Answer Slow Motion Questions From Twitter Bill Nye Answers Even More Science Questions From Twitter James Cameron Answers Sci-Fi Questions From Twitter Best of Tech Support: Bill Nye, Neil DeGrasse Tyson and More Answer Science Questions from Twitter Riot Games' Greg Street Answers League of Legends Questions from Twitter Riot Games' Greg Street Answers Even More League of Legends Questions from Twitter PlayerUnknown Answers PUBG Questions From Twitter Liza Koshy, Markiplier, Rhett & Link, and Hannah Hart Answer YouTube Creator Questions From Twitter NCT 127 Answer K-Pop Questions From Twitter Neil deGrasse Tyson Answers Science Questions From Twitter Ken Jeong Answers More Medical Questions From Twitter Bon Appétit's Brad & Claire Answer Cooking Questions From Twitter Bang Bang Answers Tattoo Questions From Twitter Ed Boon Answers Mortal Kombat 11 Questions From Twitter Nick Jonas and Kelly Clarkson Answer Singing Questions from Twitter Penn Jillette Answers Magic Questions From Twitter The Russo Brothers Answer Avengers: Endgame Questions From Twitter Alex Honnold Answers Climbing Questions From Twitter Sloane Stephens Answers Tennis Questions From Twitter Bill Nye Answers Science Questions From Twitter - Part 3 Astronaut Nicole Stott Answers Space Questions From Twitter Mark Cuban Answers Mogul Questions From Twitter Ubisoft's Alexander Karpazis Answers Rainbow Six Siege Questions From Twitter Marathon Champion Answers Running Questions From Twitter Ninja Answers Fortnite Questions From Twitter Cybersecurity Expert Answers Hacking Questions From Twitter Bon Appétit's Brad & Chris Answer Thanksgiving Questions From Twitter SuperM Answers K-Pop Questions From Twitter The Best of Tech Support: Ken Jeong, Bill Nye, Nicole Stott and More Twitter's Jack Dorsey Answers Twitter Questions From Twitter Jodie Whittaker Answers Doctor Who Questions From Twitter Astronomer Jill Tarter Answers Alien Questions From Twitter Tattoo Artist Bang Bang Answers More Tattoo Questions From Twitter Respawn Answers Apex Legends Questions From Twitter Michael Strahan Answers Super Bowl Questions From Twitter Dr. Martin Blaser Answers Coronavirus Questions From Twitter Scott Adkins Answers Martial Arts Training Questions From Twitter Psychiatrist Daniel Amen Answers Brain Questions From Twitter The Hamilton Cast Answers Hamilton Questions From Twitter Travis & Lyn-Z Pastrana Answer Stunt Questions From Twitter Mayim Bialik Answers Neuroscience Questions From Twitter Zach King Answers TikTok Questions From Twitter Riot Games Answers League of Legends Questions from Twitter Aaron Sorkin Answers Screenwriting Questions From Twitter Survivorman Les Stroud Answers Survival Questions From Twitter Joe Manganiello Answers Dungeons & Dragons Questions From Twitter "Star Wars Explained" Answers Star Wars Questions From Twitter Wizards of the Coast Answer Magic: The Gathering Questions From Twitter "Star Wars Explained" Answers More Star Wars Questions From Twitter VFX Artist Answers Movie & TV VFX Questions From Twitter CrossFit Coach Answers CrossFit Questions From Twitter Yo-Yo Ma Answers Cello Questions From Twitter Mortician Answers Cadaver Questions From Twitter Babish Answers Cooking Questions From Twitter Jacob Collier Answers Music Theory Questions From Twitter The Lord of the Rings Expert Answers More Tolkien Questions From Twitter Wolfgang Puck Answers Restaurant Questions From Twitter Fast & Furious Car Expert Answers Car Questions From Twitter Former FBI Agent Answers Body Language Questions From Twitter Olympian Dominique Dawes Answers Gymnastics Questions From Twitter Allyson Felix Answers Track Questions From Twitter Dr. Michio Kaku Answers Physics Questions From Twitter Former NASA Astronaut Answers Space Questions From Twitter Surgeon Answers Surgery Questions From Twitter Beekeeper Answers Bee Questions From Twitter Michael Pollan Answers Psychedelics Questions From Twitter Ultramarathoner Answers Questions From Twitter Bug Expert Answers Insect Questions From Twitter Former Cult Member Answers Cult Questions From Twitter Mortician Answers MORE Dead Body Questions From Twitter Toxicologist Answers Poison Questions From Twitter Brewmaster Answers Beer Questions From Twitter Biologist Answers Biology Questions From Twitter James Dyson Answers Design Questions From Twitter Dermatologist Answers Skin Questions From Twitter Dwyane Wade Answers Basketball Questions From Twitter Baker Answers Baking Questions from Twitter Astrophysicist Answers Questions From Twitter Age Expert Answers Aging Questions From Twitter Fertility Expert Answers Questions From Twitter Biological Anthropologist Answers Love Questions From Twitter Mathematician Answers Math Questions From Twitter Statistician Answers Stats Questions From Twitter Sleep Expert Answers Questions From Twitter Botanist Answers Plant Questions From Twitter Ornithologist Answers Bird Questions From Twitter Alex Honnold Answers MORE Rock Climbing Questions From Twitter Former FBI Agent Answers MORE Body Language Questions From Twitter Waste Expert Answers Garbage Questions From Twitter Garbage Boss Answers Trash Questions From Twitter J. Kenji López-Alt Answers Cooking Questions From Twitter Veterinarian Answers Pet Questions From Twitter Doctor Answers Gut Questions From Twitter Chemist Answers Chemistry Questions From Twitter Taste Expert Answers Questions From Twitter Paleontologist Answers Dinosaur Questions From Twitter Biologist Answers More Biology Questions From Twitter Biologist Answers Even More Biology Questions From Twitter ER Doctor Answers Injury Questions From Twitter Toxicologist Answers More Poison Questions From Twitter Energy Expert Answers Energy Questions From Twitter BBQ Pitmaster Answers BBQ Questions From Twitter Neil Gaiman Answers Mythology Questions From Twitter Sushi Chef Answers Sushi Questions From Twitter The Lord of the Rings Expert Answers Tolkien Questions From Twitter Audiologist Answers Hearing Questions From Twitter Marine Biologist Answers Shark Questions From Twitter Bill Nye Answers Science Questions From Twitter - Part 4 John McEnroe Answers Tennis Questions From Twitter Malcolm Gladwell Answers Research Questions From Twitter Financial Advisor Answers Money Questions From Twitter Stanford Computer Scientist Answers Coding Questions From Twitter Wildlife Vet Answers Wild Animal Questions From Twitter Climate Scientist Answers Earth Questions From Twitter Medical Doctor Answers Hormone Questions From Twitter James Hoffmann Answers Coffee Questions From Twitter Video Game Director Answers Questions From Twitter Robotics Professor Answers Robot Questions From Twitter Scam Fighters Answer Scam Questions From Twitter Forensics Expert Answers Crime Scene Questions From Twitter Chess Pro Answers Questions From Twitter Former FBI Agent Answers Body Language Questions From Twitter...Once Again Memory Champion Answers Questions From Twitter Neuroscientist Answers Illusion Questions From Twitter Immunologist Answers Immune System Questions From Twitter Rocket Scientists Answer Questions From Twitter How Vinyl Records Are Made (with Third Man Records) Neurosurgeon Answers Brain Surgery Questions From Twitter Therapist Answers Relationship Questions From Twitter Polyphia's Tim Henson Answers Guitar Questions From Twitter Structural Engineer Answers City Questions From Twitter Harvard Professor Answers Happiness Questions From Twitter A.I. Expert Answers A.I. Questions From Twitter Pizza Chef Answers Pizza Questions From Twitter Former CIA Chief of Disguise Answers Spy Questions From Twitter Astrophysicist Answers Space Questions From Twitter Cannabis Scientist Answers Questions From Twitter Sommelier Answers Wine Questions From Twitter Mycologist Answers Mushroom Questions From Twitter Genndy Tartakovsky Answers Animation Questions From Twitter Pro Card Counter Answers Casino Questions From Twitter Doctor Answers Lung Questions From Twitter Paul Hollywood & Prue Leith Answer Baking Questions From Twitter Geneticist Answers Genetics Questions From Twitter Sneaker Expert Jeff Staple Answers Sneaker Questions From Twitter 'The Points Guy' Brian Kelly Answers Travel Questions From Twitter Master Chef Answers Indian Food & Curry Questions From Twitter Archaeologist Answers Archaeology Questions From Twitter LegalEagle's Devin Stone Answers Law Questions From Twitter Todd McFarlane Answers Comics Questions From Twitter Reptile Expert Answers Reptile Questions From Twitter Mortician Answers Burial Questions From Twitter Eye Doctor Answers Eye Questions From Twitter Computer Scientist Answers Computer Questions From Twitter Neurologist Answers Nerve Questions From Twitter Hacker Answers Penetration Test Questions From Twitter Nutritionist Answers Nutrition Questions From Twitter Experts Predict the Future of Technology, AI & Humanity Doctor Answers Blood Questions From Twitter Sports Statistician Answers Sports Math Questions From Twitter Shark Tank's Mark Cuban Answers Business Questions From Twitter Marvel’s Spider-Man 2 Director Answers Video Game Questions From Twitter Criminologist Answers True Crime Questions From Twitter Physicist Answers Physics Questions From Twitter | Tech Support Chess Pro Answers More Questions From Twitter Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

@@ -1,0 +1,29 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages 10 Chinese Internet of things startups to watch in 2015 Share on Facebook Share on X Share on LinkedIn Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+The Internet of Things, or IoT, emerged as the third wave of internet development and is gradually merging the physical and online worlds. Prompted by the smart hardware boom, this sector is in full bloom in China, with repercussions across fields such as smart homes, wearables, connected cities and cars, and beyond.
+The size of the Chinese IoT market has soared from RMB 170 billion (around $27 billion) in 2009 to RMB365 billion in 2012, and exceeded RMB500 billion in 2013, with annual compound growth of almost 30 percent.
+ The burgeoning market is attracting ever more companies: here are ten startups worth watching in the new year.
+1.
+Xiaomi , which has been so successful in the smartphone market, is trying to duplicate its business model in various hardware sectors. After initial success with its low-cost fitness bracelet, the company launched a 100-hardware-companies strategy in a bid to connect more smart gadgets in fields like healthcare (iHealth) , smart home (Ants, Yeelink), and so on. The company also announced a strategic partnership with Chinese home appliance giant Midea.
+2. Broadlink is smart home solution provider which specializes in IoT Wi-Fi. In addition to its existing smart socket and remote controls for infrared devices , Broadlink is also the developer of BroadLink DNA , which helps conventional home appliance makers “smartize” its products. Broadlink’s Wi-fi solution has been integrated into Xiaomi’s smart router.
+3.
+Gizwits is a Chinese IoT technology platform that connects home appliances and consumer electronics products to the Internet and smartphones. GizWits provides IoT developers with data analytics as well as tools such as remote access, notification, and over-the-air firmware upgrades. The company has launched self-serve software development platform Gizwits 2.0, and the programmable microcontroller board GoKit, for smart home gadgets.
+4.
+Ayla Networks China is the Chinese arm of U.S.-based Ayla Networks , a startup offering cloud connectivity solutions for manufacturers to turn appliances, HVAC, and more into intelligent devices. Upon the receipt of a $14.5 million investment this year , the company is going into the Chinese market with a series of moves, like launching a Chinese site, cooperating with Sina and adding a Chinese director to the board. Dave Friedman, chief executive and a cofounder, believes that China will lead the world in this sector.
+5.
+Lifesmart is a Hangzhou-based startup principally engaged in developing smart home devices. Its product line includes a smart control center, smart sockets, surveillance cameras, and environment sensors.
+6.
+Yeelink helps manufacturers build smart products, from hardware design to mobile app development, from the concept stage to initial products.
+7.
+Landing Technology is a Shenzhen-based smart home startup, dedicated to developing, manufacturing and selling smart home devices and wearable devices and related know-how. Its IVYLINK and Goldweb brands cover smart devices and network devices & accessories, respectively.
+8.
+Orvibo is focused on IoT and smart home hardware. Its product line includes smart gadgets, fully digital visual doorbell products, and cloud platforms that provide intelligent services for thousands of IoT terminals.
+9.
+MXchip was incorporated in Shanghai at the beginning of 2005, with a focus on short distance wireless network technology and products.
+10.
+Phantom is a smart home solution provider primarily focusing on smart illumination and surveillance. The company reportedly secured $1.5 million of pre-Series A investment last year.
+Editing by Mike Cormack ( @bucketoftongues ) This story originally appeared on TechNode.
+ Copyright 2014 VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

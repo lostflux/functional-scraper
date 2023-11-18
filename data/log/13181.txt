@@ -1,0 +1,31 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Wheelchairs, Pringles cans, and other unlikely objects with Amazon’s Alexa Share on Facebook Share on X Share on LinkedIn A K'nex car controlled with Amazon's Alexa Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here.
+You probably caught video a few weeks back of Alexa speaking through Big Mouth Billy Bass, a singing fish that became popular in the late 1990s.
+If you haven’t seen it yet, take a moment to watch and enjoy.
+The animatronic fish is a good reminder that Amazon’s Alexa does not just come in speakers, like Amazon Echo or Echo Dot.
+VB Event The AI Impact Tour Connect with the enterprise AI community at VentureBeat’s AI Impact Tour coming to a city near you! The Alexa Voice Service (AVS) can be used to put Alexa inside a wide range of devices, and since it’s in the cloud, Alexa can operate without depending on a local device for computing power.
+With Amazon deep learning services, the Lex bot framework , and the smarter Alexa Skills Kit announced at AWS re:Invent this week, people can expect to see and interact with Alexa in places that extend far beyond an Echo or an animatronic fish.
+Raspberry Pi These credit card-sized computers have been used to put Alexa inside coffee makers, a toy car, and a motorized wheelchair.
+ Amazon has templates and a guide available on GitHub.
+Big Mouth Billy Bass was made with Arduino Uno, a microcontroller board.
+An update to Amazon Voice Service in October made it possible to create your own “wake word,” the word used to signal Alexa that it should start listening to you. A wake word means Alexa can become a truly hands-free interface.
+Alexa with Raspberry Pi cannot call on music subscriptions for sites like Spotify, the way an Amazon Echo or Tap can, but it can give a user remarkable custom control and access to thousands of skills.
+In the U.K., games room retailer Liberty Games uses Alexa and Raspberry Pi computers to control pinball machines, arcade games, and pool tables.
+Can of Pringles If you want to MacGyver your own Alexa, like Arduino and Raspberry Pi owners, you can also make a can of Pringles into your personal Alexa.
+Turn Your Pringles Can into an #AmazonEcho with C.H.I.P.! — Blog. by Next ThingRainbow Chip Icon https://t.co/S9R6u6yxkP #IoT #Smarthome pic.twitter.com/Xi2f4AFaF4 — Dave Isbitski (@thedavedev) November 17, 2016 Watches and wearables In April, the Amazon Alexa Developers blog called CoWatch the first Alexa-enabled smart watch.
+CoWatch, made by iMCO Technology raised $291,000 in an Indiegogo campaign in June.
+ It operates with native apps on the Android-based Cronologics platform.
+Meanwhile, smartwatch maker Pebble raised $12 million in a Kickstarter campaign this summer for its clip-on Core product. Core will have Alexa and will ship to customers by January 2017.
+Fitbit acquired Pebble earlier this week.
+Home robots Omate Yumi stands 11 inches tall and has a five-inch touchscreen for a face and speakers for a body.
+Yumi does have wheels, but don’t let them fool you. The diminutive creature is not intended to rove around your house like R2-D2. The wheels allow Omate Yumi to turn and face you when you talk, not to be a fully mobile robot.
+With 16 days left, Yumi has raised $13,000 toward a $30,000 goal on Indiegogo , though it doesn’t appear to have attracted many buyers.
+Above: Samsung Family Hub Smart Fridge Refrigerators, home appliances, and cars Samsung’s Family Hub Smart Fridge has a giant 21-inch touchscreen.
+It looks like a huge Android phone on the side of a fridge, and it allows you to speak with Alexa.
+Other consumer home appliances to incorporate Alexa this year include the Nucleus home intercom system (with support from the Amazon Alexa Fund ) and Sonos speakers.
+There’s nothing strange about the idea of AI-powered assistants inside Wi-Fi and Bluetooth speakers, but home appliances are the sort of devices people can expect to hear from and speak to a lot more in the future.
+And not to be outdone by smart homes are smart cars — perhaps the most unnerving, but most obvious place to speak with Alexa. Hyundai, Tesla , and BMW have all given Alexa control to their vehicles.
+If this list tells us anything, it’s that Amazon Echo was just the beginning for Alexa. We’re already seeing the voice of Amazon trickle into all manner of other devices.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

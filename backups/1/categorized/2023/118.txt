@@ -1,0 +1,9 @@
+Department Of Computer Science | Makerere University
+2023
+https://cs.mak.ac.ug/research/groups_and_centers
+
+Makerere University Department of Computer Science Home About Department Overview Contact Department Faculty Administrative Staff Research Research Groups & Centers Flagship Research Projects Admissions General Information Deadlines Prospective Undergraduates Prospective Graduates Visting CS Department Curriculum Current Curriculum(V2021) Old Curriculum(V2017) News &Events Funding & Scholarships New Scholarships DeepMind Scholarships UW<>Mak Fellowships Scholars Notice Board Graduation List Admission List Timetables Results Feedback FAQs Research "> Groups & Centers Research ARTIFICIAL INTELLIGENCE & DATA SCIENCE RESEARCH GROUP The AI & Data Science research group under the department of computer science at Makerere University specialises in the application of artificial intelligence and data science.
+The group carries out research in areas such as machine learning, computer vision and natural language processing for example automated diagnosis of both crop and human diseases, auction design for mobile commodity markets, analysis of traffic patterns in African cities, and the use of telecoms and remote sensing data for anticipating the spread of infectious diseases.
+SOFTWARE SYSTEMS CENTER SSC is a research group that focuses on software systems in low-resource settings. The group's main focus is to improve the quality of software systems in Africa by carrying out research in best software engineering approaches that fit the low resource settings.
+The group's focus application areas include Health, Agriculture, Education and e-Governance. The group conducts software engineering research and tool development to support these areas.
+Contact Us [javascript protected email address] Academics & Research People OTHER USEFUL LINKS © 2023 - Makerere University Department of Computer Science

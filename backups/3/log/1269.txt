@@ -1,0 +1,63 @@
+Featured Topics Newsletters Events Podcasts Featured Topics Newsletters Events Podcasts Big Tech’s guide to talking about AI ethics 50-ish words you can use to show that you care without incriminating yourself.
+By Karen Hao archive page Andrea Daquino AI researchers often say good machine learning is really more art than science. The same could be said for effective public relations. Selecting the right words to strike a positive tone or reframe the conversation about AI is a delicate task: done well, it can strengthen one’s brand image, but done poorly, it can trigger an even greater backlash.
+The tech giants would know. Over the last few years, they’ve had to learn this art quickly as they’ve faced increasing public distrust of their actions and intensifying criticism about their AI research and technologies.
+Now they’ve developed a new vocabulary to use when they want to assure the public that they care deeply about developing AI responsibly—but want to make sure they don’t invite too much scrutiny. Here’s an insider’s guide to decoding their language and challenging the assumptions and values baked in.
+accountability (n) - The act of holding someone else responsible for the consequences when your AI system fails.
+accuracy (n) - Technical correctness. The most important measure of success in evaluating an AI model’s performance. See validation.
+adversary (n) - A lone engineer capable of disrupting your powerful revenue-generating AI system. See robustness , security.
+alignment (n) - The challenge of designing AI systems that do what we tell them to and value what we value. Purposely abstract. Avoid using real examples of harmful unintended consequences. See safety.
+artificial general intelligence (phrase) - A hypothetical AI god that’s probably far off in the future but also maybe imminent. Can be really good or really bad whichever is more rhetorically useful. Obviously you’re building the good one. Which is expensive. Therefore, you need more money. See long-term risks.
+audit (n) - A review that you pay someone else to do of your company or AI system so that you appear more transparent without needing to change anything. See impact assessment.
+augment (v) - To increase the productivity of white-collar workers. Side effect: automating away blue-collar jobs. Sad but inevitable.
+beneficial (adj) - A blanket descriptor for what you are trying to build. Conveniently ill-defined. See value.
+by design (ph) - As in “fairness by design” or “accountability by design.” A phrase to signal that you are thinking hard about important things from the beginning.
+compliance (n) - The act of following the law. Anything that isn’t illegal goes.
+data labelers (ph) - The people who allegedly exist behind Amazon’s Mechanical Turk interface to do data cleaning work for cheap. Unsure who they are. Never met them.
+democratize (v) - To scale a technology at all costs. A justification for concentrating resources. See scale.
+diversity, equity, and inclusion (ph) - The act of hiring engineers and researchers from marginalized groups so you can parade them around to the public. If they challenge the status quo, fire them.
+efficiency (n) - The use of less data, memory, staff, or energy to build an AI system.
+ethics board (ph) - A group of advisors without real power, convened to create the appearance that your company is actively listening. Examples: Google’s AI ethics board (canceled), Facebook’s Oversight Board (still standing).
+ethics principles (ph) - A set of truisms used to signal your good intentions. Keep it high-level. The vaguer the language, the better. See responsible AI.
+explainable (adj) - For describing an AI system that you, the developer, and the user can understand. Much harder to achieve for the people it’s used on. Probably not worth the effort. See interpretable.
+fairness (n) - A complicated notion of impartiality used to describe unbiased algorithms. Can be defined in dozens of ways based on your preference.
+for good (ph) - As in “AI for good” or “ data for good.
+” An initiative completely tangential to your core business that helps you generate good publicity.
+foresight (n) - The ability to peer into the future. Basically impossible: thus, a perfectly reasonable explanation for why you can’t rid your AI system of unintended consequences.
+framework (n) - A set of guidelines for making decisions. A good way to appear thoughtful and measured while delaying actual decision-making.
+generalizable (adj) - The sign of a good AI model. One that continues to work under changing conditions. See real world.
+governance (n) - Bureaucracy.
+human-centered design (ph) - A process that involves using “personas” to imagine what an average user might want from your AI system. May involve soliciting feedback from actual users. Only if there’s time. See stakeholders.
+human in the loop (ph) - Any person that is part of an AI system. Responsibilities range from faking the system’s capabilities to warding off accusations of automation.
+impact assessment (ph) - A review that you do yourself of your company or AI system to show your willingness to consider its downsides without changing anything. See audit.
+interpretable (adj) – Description of an AI system whose computation you, the developer, can follow step by step to understand how it arrived at its answer. Actually probably just linear regression. AI sounds better.
+integrity (n) - Issues that undermine the technical performance of your model or your company’s ability to scale. Not to be confused with issues that are bad for society. Not to be confused with honesty.
+interdisciplinary (adj) – Term used of any team or project involving people who do not code: user researchers, product managers, moral philosophers. Especially moral philosophers.
+long-term risks (n) - Bad things that could have catastrophic effects in the far-off future. Probably will never happen, but more important to study and avoid than the immediate harms of existing AI systems.
+partners (n) - Other elite groups who share your worldview and can work with you to maintain the status quo. See stakeholders.
+privacy trade-off (ph) - The noble sacrifice of individual control over personal information for group benefits like AI-driven health-care advancements, which also happen to be highly profitable.
+progress (n) - Scientific and technological advancement. An inherent good.
+real world (ph) - The opposite of the simulated world. A dynamic physical environment filled with unexpected surprises that AI models are trained to survive. Not to be confused with humans and society.
+regulation (n) - What you call for to shift the responsibility for mitigating harmful AI onto policymakers. Not to be confused with policies that would hinder your growth.
+responsible AI (n)- A moniker for any work at your company that could be construed by the public as a sincere effort to mitigate the harms of your AI systems.
+robustness (n) - The ability of an AI model to function consistently and accurately under nefarious attempts to feed it corrupted data.
+safety (n)- The challenge of building AI systems that don’t go rogue from the designer’s intentions. Not to be confused with building AI systems that don’t fail. See alignment.
+scale (n)- The de facto end state that any good AI system should strive to achieve.
+security (n) - The act of protecting valuable or sensitive data and AI models from being breached by bad actors. See adversary.
+stakeholders (n) - Shareholders, regulators, users. The people in power you want to keep happy.
+transparency (n) - Revealing your data and code. Bad for proprietary and sensitive information. Thus really hard; quite frankly, even impossible. Not to be confused with clear communication about how your system actually works.
+trustworthy (adj) - An assessment of an AI system that can be manufactured with enough coordinated publicity.
+universal basic income (ph) - The idea that paying everyone a fixed salary will solve the massive economic upheaval caused when automation leads to widespread job loss. Popularized by 2020 presidential candidate Andrew Yang. See wealth redistribution.
+validation (n) - The process of testing an AI model on data other than the data it was trained on, to check that it is still accurate.
+value (n) - An intangible benefit rendered to your users that makes you a lot of money.
+values (n) - You have them. Remind people.
+wealth redistribution (ph) - A useful idea to dangle around when people scrutinize you for using way too many resources and making way too much money. How would wealth redistribution work? Universal basic income, of course. Also not something you could figure out yourself. Would require regulation. See regulation.
+withhold publication (ph) - The benevolent act of choosing not to open-source your code because it could fall into the hands of a bad actor. Better to limit access to partners who can afford it.
+hide by Karen Hao Share linkedinlink opens in a new window twitterlink opens in a new window facebooklink opens in a new window emaillink opens in a new window Popular This new data poisoning tool lets artists fight back against generative AI Melissa Heikkilä Everything you need to know about artificial wombs Cassandra Willyard Deepfakes of Chinese influencers are livestreaming 24/7 Zeyi Yang How to fix the internet Katie Notopoulos Deep Dive Policy Three things to know about the White House’s executive order on AI Experts say its emphasis on content labeling, watermarking, and transparency represents important steps forward.
+By Tate Ryan-Mosley archive page Melissa Heikkilä archive page How generative AI is boosting the spread of disinformation and propaganda In a new report, Freedom House documents the ways governments are now using the tech to amplify censorship.
+By Tate Ryan-Mosley archive page Government technology is famously bad. It doesn’t have to be.
+New York City is fixing the relationship between government and technology–and not in the ways you’d expect.
+By Tate Ryan-Mosley archive page It’s shockingly easy to buy sensitive data about US military personnel A new report exposes the privacy and national security concerns created by data brokers. US senators tell MIT Technology Review the industry needs to be regulated.
+By Tate Ryan-Mosley archive page Stay connected Illustration by Rose Wong Get the latest updates from MIT Technology Review Discover special offers, top stories, upcoming events, and more.
+Enter your email Thank you for submitting your email! It looks like something went wrong.
+We’re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out to us at customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+The latest iteration of a legacy Advertise with MIT Technology Review © 2023 MIT Technology Review About About us Careers Custom content Advertise with us International Editions Republishing MIT News Help Help & FAQ My subscription Editorial guidelines Privacy policy Terms of Service Write for us Contact us twitterlink opens in a new window facebooklink opens in a new window instagramlink opens in a new window rsslink opens in a new window linkedinlink opens in a new window

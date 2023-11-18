@@ -1,0 +1,283 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Computer Scientist Explains One Concept in 5 Levels of Difficulty About Released on 01/18/2022 Hi, my name is Amit Sahai, and I'm a Professor of computer science at the UCLA Samueli School of Engineering.
+Today, I've been asked to explain zero-knowledge proofs in five levels of increasing complexity.
+A zero-knowledge proof is a way for a prover to convince a verifier that some statement is true, and yet reveal no additional information beyond the fact that the statement is true.
+Zero-knowledge proofs are being used in blockchains and cryptocurrencies.
+So cryptographers are excited about zero-knowledge because of its amazing mathematical properties.
+But also because of its incredible applicability to so many different scenarios.
+[upbeat playful music] What's your favorite subject? I'd say math.
+Some of the small problems can actually be really big and complicated.
+It's like a puzzle.
+I love math for the same reason.
+Today, I'm gonna tell you about a thing called zero-knowledge proof.
+So in a zero-knowledge proof, there are two people.
+There's a prover and a verifier.
+And I wanna prove that something is true to you.
+But the weird thing is, I wanna prove to you that it's true without telling you any reasons why.
+I remember when I first heard about it, I was like, wait, what? How can that possibly be? Right? - Yeah.
+So what do you see in this photo? [Chelsea] A lot of penguins.
+Yeah. Hidden along all these penguins is a puffin.
+Do you wanna try to look for it? Do you see where it is? Hmm.
+I know where it is, but I don't wanna tell you.
+Do you believe me? You're not sure to believe me. Right? Yeah.
+But what if I could prove to you that I know where the puffin is without revealing to you where it is? Let me show you.
+I took that photo that we showed you.
+And I put it behind this poster here.
+Why don't you go take a look through that hole? I see the puffin.
+So when you look at this board, we don't know where the photo was, right? Was the photo like with the corner here? In which case the puffin would be all the way at this side.
+Or was the photo with the corner here? In which case the puffin would be on the other side.
+So this is a really simple example of a zero-knowledge proof.
+I convinced you that I knew where the puffin was, but you didn't learn anything else.
+Why do you study zero-knowledge proof? When I first learned about them, I just thought they were so cool.
+But it turns out they're also really useful, not just for finding like, puffins.
+If you just type in your password and the hacker hacks into the computer, they can just get your password.
+Right? - Yeah.
+What if instead, we could somehow use a zero-knowledge proof to log in.
+You would just be able to prove that, hey, I'm Chelsea, without revealing anything to them.
+If you could do that, then it would be amazing, right? Yeah.
+Because then even if the hacker hacked into the computer, he wouldn't learn anything.
+Because even the computer doesn't learn anything.
+So Chelsea, in your own words, what is a zero-knowledge proof? Zero-knowledge proof is proof to a statement.
+You don't show them why or what.
+You just show them a tiny segment.
+Or just do some sort of, weird magic trick [chuckles] that's not really a magic trick, and they will be convinced.
+And you didn't show them why, or anything like that.
+[upbeat playful music] So have you ever heard the term zero-knowledge proof before? I have not. No. - You have not. Right.
+It's a way for a prover to convince a verifier that something is true without revealing anything about why it's true, which sounds totally bizarre.
+Right? - Yeah.
+Like how can that possibly be? What I wanna do is prove to you that I know this combination without revealing the combination to you.
+And what you could do is you could write a little note, a secret that I definitely wouldn't know.
+Fold it up, stick it in here.
+And then, if I know the combination, I should be able to open it and tell you what you wrote.
+[paper rasps] All right.
+[dial clicking] [lock clicks] There we go. [latch clacks] All right.
+So, My dog is named Doug.
+Did you figure out what the combination was? No.
+So nowhere in this interaction, did you see any information that you didn't already know.
+And yet I convinced you that I know the combination.
+Right? - Yeah.
+So what's the exact purpose of a zero-knowledge proof? Is it like proving something but without giving enough information that could endanger whatever it is that you're proving? So you're asking like, why shouldn't I just share my secrets with somebody? People don't trust each other.
+And if I was able to prove that I've done something correctly to someone without having to reveal my secrets, then that person would trust me more.
+How does this relate to computer technology? Like, do you type it into a computer and somebody else receives it? Or is it an in-person interaction? Suppose you wanted to exchange messages with someone that you knew.
+Mm-hmm. - What would you guys do? You'd probably first get together and like, figure out some secret code, right? And then like, write messages to each other in that code.
+But what if you've never met the person before? What if you wanna exchange secret messages with me and we've never met each other before? How could we possibly do that? I have no idea.
+It sounds impossible.
+Right? - It does.
+But it's not.
+You wouldn't use like, a physical lock, or a physical box.
+We would instead use mathematics to do these kinds of things.
+You could take a message and encrypt it using mathematics.
+And then, I could prove to you that I know the key, I could open it up, and send it back to you.
+That way I would be proving to you that I know the mathematical key to the mathematical lockbox.
+So based on what we've discussed today, in your own words, what is a zero-knowledge proof.
+It's like, if you have this really important secret that you want somebody to know about, but you don't want to tell them everything.
+You can use a zero-knowledge proof to prove to them that secret, but not give away all of it.
+[upbeat playful music] What are you studying? I'm a first-year computer science student at USC Viterbi.
+I'm interested in all things like, data and internet and blockchain and cryptocurrency.
+Have you ever heard of zero-knowledge proofs? Only in passing.
+So actually, in the blockchain space is one of the spaces where we are seeing zero-knowledge proofs being implemented.
+And I think it's just the beginning.
+Let's talk about zero-knowledge proofs.
+At its core, a zero-knowledge proof is an interaction between two people.
+Then I should be able to convince you that some statement is true, but you won't have any idea why it's true.
+Will I, like, understand that it's true because like, you know, the operations performed in the proof are like, of a certain, like, you know, they have like, certain attributes that would make them true? What you're basically asking is, wait, what? [both laughing] Right? Right.
+So this is what makes zero-knowledge proof so fascinating, and so counter-intuitive.
+And I think the best way I can explain it to you is by means of an example.
+But before we do that, I have to decide what I'm gonna prove to you in a, with a zero-knowledge proof. - Sounds good.
+And the way we're gonna approach this is through something called NP-completeness.
+What an NP-complete problem is, it's a problem that's really hard to solve.
+But if you can solve it, you can solve any problem that's in the class NP.
+And that includes a vast number of problems.
+And what we're gonna do is we're gonna use an NP-complete problem to actually prove an incredible variety of statements through a zero-knowledge proof.
+And the specific Np-complete problem that we're gonna be looking at is called map three-coloring.
+Okay, so here we have a map. Okay.
+And these are a bunch of countries.
+And we've arranged them so that no countries that have the same color share a border.
+That's what makes a map like this validly colored.
+And now you might think, well, why should we care? It turns out that whether or not a map can be three-colored in this way is an example of an NP-complete problem.
+And it turns out that, you know, maybe what you really wanna do, is you wanna give a zero-knowledge proof that you have at least 0.3 Bitcoins, right? [chuckles] That would be cool. - [chuckles] Yeah.
+Without revealing what the address is of your account.
+It turns out I can take that statement that I have at least 0.2 Bitcoins, and convert it into a map of countries.
+And that map of countries will be three-colorable like this only if you have at least 0.2 Bitcoins.
+How would we turn something like this into a zero-knowledge proof? Of course, the first step is we have to erase all the colors.
+What I've done is I've put a color inside each of these envelopes.
+Now, how do you know that it's a valid coloring? You don't. Right? You have to pick any two neighboring countries.
+You can pick them however you like. At random.
+Can I get these two? These two? - Yeah.
+All right. Sounds good. Right? Here we have green, right? And over here, we have blue. Okay.
+And as you can see, they're two different colors.
+Mm-hmm. - Right? So you have a little bit of confidence, right, that I have managed to color this correctly.
+but not that much confidence.
+'Cause I've only shown you two of the countries.
+Yeah. - Right? So now, of course, one way to get more confidence is to open up more of them for you, but that would be revealing information to you.
+I don't wanna do that.
+So instead, I'm gonna ask you to please turn around.
+And now, let's change up these colors.
+Can you pick two countries at random and we'll reveal two of the colors again.
+I'll take this one and this one.
+Nice.
+And that's smart of you to check with the same one of the ones you already had.
+Right? - Mm-hmm.
+But as you'll see, now it's not green, it's blue.
+And this one on the other hand, is green.
+Okay.
+The colors I showed you last time, don't work with these new colors, right? This wouldn't have worked before.
+Yeah, because of this one, right? Exactly. Right.
+But it works for this coloring that I'm showing you right now.
+So what we've done is we've made it impossible for you to put the pieces together.
+And if you do this, let's say, a thousand times.
+And if I correctly showed you different colors, each thousand times, you'd be really convinced.
+And that's it. That's the entire zero-knowledge proof.
+Oh, okay. - Okay? So is it like, there's no actual, like, explicit, like, step one, step two, [Amit] step three. - [Amit] No.
+It's just like, a probabilistic proof all.
+Yeah, in actual implementations we wouldn't use envelopes.
+Yeah. - You would use encryption.
+Right.
+But it's really, this is the protocol.
+So what are the broader implications of like, zero-knowledge proofs.
+Are they supposed to be like, more practical for like, implementation, and or, are they supposed to like, structurally prove something? It's not about making something more efficient.
+It's about doing things that we just didn't know how to do before.
+I can actually prove to you without revealing to you any of my secrets that I use to behave honestly.
+Right? I could prove to you that I signed some encrypted document correctly.
+Right? Without revealing to you what that secret document was.
+That ability to change the game.
+Like, really just change what we can do is what zero-knowledge brings to the table.
+Where do you think we could build like, more trust using like, zero-knowledge proofs? Right. - And it's implementations? One great example is like in elections.
+If you could prove that an election was correctly conducted.
+That every vote was counted, and it all added up to one person winning with a particular total, in zero-knowledge, then you don't have to give up the actual votes of any person.
+And yet everyone could see that, hey, yeah, it was done correctly.
+[light airy music] It's so great to have you here and to talk with you, Eli.
+Can you tell me a little bit about your research? My research is in cryptography.
+Specifically, I'm working on some various multi-party computation protocols.
+The one I'm working on right now is a system for computing aggregate statistics.
+So that service providers like, Google Chrome or Tesla, can collect those statistics without learning anything about individual user's data.
+That's awesome.
+I, as a user, don't have to let Firefox know that my favorite website is mylittlepony.com.
+[Amit laughs] But they can know how many users go to mylittlepony.com every day.
+That's near and dear to my heart.
+Multi-party computations.
+Obviously, zero-knowledge proofs are about proving things to another person without revealing the details of what it is that you're proving.
+But, you know, in my mind, zero-knowledge actually goes even further beyond that.
+It's like this overarching concept that you can see a lot in multi-party computation, where you wanna accomplish some sort of task without revealing anything more than exactly what you need to accomplish that task.
+Right, and it allows you to prove that you've been behaving honestly, without revealing any of the secrets involved that you use to actually behave honestly.
+So we of course know that zero-knowledge proofs for NP-complete languages plays such a huge role in cryptography.
+I'm curious.
+What was your first experience with Np-completeness like? Yeah, so my first encounter with NP-completeness was in my very first algorithms class that I took as an undergraduate.
+So that was my first introduction.
+Is that an NP-complete language is this amazing problem that not only tells you about itself, but solving this problem can actually tell you about an entire class of really interesting problems.
+When you first start to think about proofs as an interactive game where we're talking to each other, did that make zero-knowledge possible? Absolutely.
+[Amit] Right. - Yeah.
+And the idea that randomness - Yeah.
+could be useful for proving something.
+Again, seems so counter-intuitive if we think about this platonic ideal of a proof, right? There's no randomness, there's no non-determinism that's present there. - Yeah.
+And it has to do with, you know, this whole idea of flipping a proof on its head.
+You know, in an old classical proof, randomness is specifically against the goal of what you're trying to do.
+Right. - Because you're trying to make everything obvious, and you're trying to reveal the flow of information.
+Indeed. - But once you flip that on its head and you're no longer trying to do that, suddenly all of the bad properties of randomness become good.
+Exactly. Right.
+Because random is unpredictable and that's what we want.
+Right.
+We want that unpredictability around us to be utilized, to actually hide the information that we wanna hide.
+How have you used your knowledge in the projects that you've worked on? What are the challenges that you find? In my experience, usually the hardest part is figuring out exactly where the best place is to use it.
+I've written some papers in the past that have used zero-knowledge in a more theoretical way.
+But when it comes to applications, some of the most exciting applications that I've seen so far have been in the blockchain space.
+So what are some of the efficiency bottlenecks that you find? In terms of efficiency, one of the coolest things about zero-knowledge proofs is that there's so many kinds.
+Right. - I like to call them flavors.
+I think that in general, when you're using zero-knowledge proofs in application, the main bottleneck tends to lie on the prover.
+Can you take the prover's job and split it up into lots of parallel computations? Ooh. That's such a fun question.
+It's such a great question.
+And yeah, I think we still don't know the answer to that, as a field.
+One of the coolest things I've seen over the past, you know, three or four years, when I've been working on this kind of stuff, is the transition from theoretical to applied.
+Right. - And seeing all of these amazing systems that people have thought of in the past 30 years, start to actually get efficient enough to be actually made.
+No doubt.
+And especially with cloud computing, exploiting the power of the cloud to enable zero-knowledge proofs, and to make use of zero-knowledge proofs, would be amazing.
+Yeah. Absolutely.
+And also in the blockchain space, for example, if you wanna speed up the generation of proofs, if that could be done in a distributed way, then that would be great.
+One of the hopes that I have is that the power of multi-party computation is about bringing people together who are mutually distrustful.
+Yeah. - Right.
+So can we take that power that's there in the cryptography, and use it to somehow help with the [Eli] tremendous level of mistrust - [Eli] Yeah.
+that exists in society right now, in helping to bring groups of people together? I think that's one of the reasons that I was so drawn to multi-party computation in the first place.
+In my mind, one of the most important problems in the world is the fact that so many people don't trust each other.
+And to be able to actually use math to create technology that can allow people to work together without having to trust each other, is a really cool and awesome mission, I think.
+[light airy music] Shang-Hua, it's so great to see you again.
+I think last time we met was in 2017 or something like that.
+I think we Zoomed once during the pandemic, but it's good to see you in person.
+Right. Absolutely. [chuckles] And actually, in '86 I was taking a crypto class with Professor Leonard Edelman, the A of RSA.
+And he assigned me the paper by Goldwasser, Micali, and Charlie Rackoff on zero-knowledge proof.
+So that's indeed my first ever presentation, ever, in this country.
+Was about zero-knowledge. That's awesome.
+[Shang-Hua] Was about zero-knowledge, yes.
+It's such a almost hypnotic concept.
+It's also an interesting way how mathematically to formulate those concepts, right.
+For example, we have data.
+Then eventually we started from data, like data mining, you can get the information, and then you have this word called knowledge.
+[Amit] Right - Right.
+So knowledge has been long debated, even in philosophy.
+What is knowledge? - Indeed.
+But here is a very fascinating way mathematicians or computer scientists Right. - want to somehow capture this knowledge.
+It didn't say zero-information proof.
+[Amit] Right. - So what's your take on why knowledge is, rather than information, or zero-data proof.
+Clearly, there's data there.
+So can't be zero-data.
+Absolutely.
+I don't think we still have a completely satisfactory answer to that question.
+What was so, such a beautiful insight, as I'm sure you know, is that the idea of zero-knowledge Mm-hmm. - being something that you can already predict.
+Right. - Mm-hmm.
+If you can already predict the answer, then you must not be gaining any knowledge by that interaction.
+This insight of being able to predict the future accurately, and that being an evidence of a lack of new knowledge, [Shang-Hua] Mm-hmm. - was such a beautiful insight, such an amazing insight.
+Well there's not zero-information here.
+Fundamentally I, clearly from computing perspective, security perspective, is how much knowledge you're gaining, I guess.
+More than how much information you've gained.
+[Amit] Indeed. - And how much data you have.
+[Amit] Right. - [Amit] Right.
+So that data then immediately imply, a knowledge.
+But people can't, sometimes.
+Right. Sometimes.
+I mean, for example, in medical research, how amazing would it be, right, to be able to have a drug, and be able to prove that my drug works in this model. - Mm-hmm.
+And yet, not have to actually reveal the structure of the compound.
+What, currently, you're saying it would be the next directions in this space. - What's the next big things? Yes. - Yeah.
+This concept of zero-knowledge programs would allow you to carry out completely arbitrary computations Mm-hmm. - in a zero-knowledge way, without any interaction, right.
+I can just take the program, convert it to a zero-knowledge program, or an obfuscated program, and then just send it to you. - Mm-hmm.
+And then you can run it and gain the benefit of that computation without having to talk to me anymore.
+That's right.
+There's a non-interactive nature.
+[Amit] The non-interactive nature.
+But there's verifiability in it.
+Indeed.
+Sometimes when, for example, when you have multi-protocol exchange that, you know, just like a random number showed up, you have to enter the random number.
+As authentication, yes. - Authentication, right.
+Now clearly I think in block chain, they also began to incorporate a more Indeed. - general knowledge of proof in the ledger.
+We're definitely at this moment now, where zero-knowledge is gonna be used more and more.
+There are so many conferences and meetings that occur in the zero-knowledge space, where you and I are not invited.
+[Shang-Hua laughs] Because it's for the people who are developing.
+You know, the people who are programming, not us mathematicians.
+[Shang-Hua] Yes, yes.
+And I think that's a sign.
+That's a sign that our baby has grown up and, [Shang-Hua laughs] you know, it's time for it to be developed.
+I think, profoundly, the students often also ask me, what are the future direction, both in terms of crypto, zero-knowledge proof, in the real world and how mathematical you see in computing.
+It's a great question. I wish I could see the future.
+I can't actually, but let me try.
+The part of that that I'm the most comfortable answering is of course the mathematical side.
+Mm-hmm. - I think that there is, you know, we've done so much in cryptography over the last few decades, but we understand so little.
+Mm-hmm - You know, even today we understand so little.
+And I think the most fundamental aspect of that is understanding hardness.
+How do we get hard problems? - Mm-hmm.
+How do we actually build mathematically hard problems so that we can then use them to build efficient [Shang-Hua] zero-knowledge programs. - [Shang-Hua] Mm-hmm.
+And efficient zero-knowledge proofs, right? I guess also, in quantum computing, you need even harder problems.
+Indeed. Absolutely.
+You know, now that we have the [Shang-Hua] specter of quantum computing - [Shang-Hua] Yes, yes.
+coming at us and we all know that quantum computers can break a lot of cryptographic systems. - Yes. A profound challenge.
+It's a profound challenge.
+So can we find new sources of hardness [Shang-Hua] that are quantum-resistant? - [Shang-Hua] That's right.
+That even quantum computers can't break.
+And that's something I've been working on for the last several years.
+But I'd be very excited to see what happens in that space.
+But I'm sure they will motivate beautiful mathematics.
+Yes, that's right.
+You know, one of the great things about the real world is that people in the real world have demands.
+That's right. - And those demands often sound impossible.
+And that's where we come in.
+It's our job to make the impossible possible.
+Musician Explains One Concept in 5 Levels of Difficulty Expert Explains One Concept in 5 Levels of Difficulty - Blockchain Oculus' John Carmack Explains Virtual Reality in 5 Levels of Difficulty Biologist Explains One Concept in 5 Levels of Difficulty - CRISPR Neuroscientist Explains One Concept in 5 Levels of Difficulty Astronomer Explains One Concept in 5 Levels of Difficulty Laser Expert Explains One Concept in 5 Levels of Difficulty Sleep Scientist Explains One Concept in 5 Levels of Difficulty Physicist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains One Concept in 5 Levels of Difficulty Hacker Explains One Concept in 5 Levels of Difficulty Nanotechnology Expert Explains One Concept in 5 Levels of Difficulty Physicist Explains Origami in 5 Levels of Difficulty Computer Scientist Explains Machine Learning in 5 Levels of Difficulty Neuroscientist Explains Memory in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains Black Holes in 5 Levels of Difficulty Computer Scientist Explains Fractals in 5 Levels of Difficulty College Professor Explains One Concept in 5 Levels of Difficulty Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty UMass Professor Explains the Internet in 5 Levels of Difficulty Mathematician Explains Infinity in 5 Levels of Difficulty Theoretical Physicist Explains Time in 5 Levels of Difficulty MIT Professor Explains Nuclear Fusion in 5 Levels of Difficulty Harvard Professor Explains Algorithms in 5 Levels of Difficulty Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

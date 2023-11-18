@@ -1,0 +1,224 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Computer Scientist Explains Fractals in 5 Levels of Difficulty About Released on 05/30/2022 Hi, I'm Keenan Crane.
+I am a geometer and professor of computer science at Carnegie Mellon university.
+And today I've been asked to explain fractals at five levels of increasing complexity.
+So fractals are a sort of strange kind of shape that have detail at all different levels.
+Fractals appear all over nature.
+They rise naturally in computer graphics because we wanna make beautiful images of the natural world.
+Fractals are also really interesting because they show how extremely simple descriptions can give rise to really complex shapes.
+What's your name? Myra.
+Have you heard of fractals before? No, absolutely not.
+So a fractal is something that we see every day, but it's a little bit hard to describe.
+It's it's a shape that if you look at it really far away, or you look at it really up close, it has kind of a similar appearance.
+And actually that word fractal sounds a little bit like fraction.
+Yes. Right? So actually fractals are in some way fractions, but for shapes.
+Have you ever seen a movie called Moana? Yes. Yeah.
+Moana lives on this like beautiful island, right? Yes.
+This island has lots of trees on it.
+Some artists had to make all those trees.
+How do you think they do that? They tried to find something similar to that on the Google and they try to picture it in their heads saying, what would, what would it look like if they, it was animated? So somehow they have to explain to the computer what a tree looks like so that the computer can draw the tree for them.
+Yes.
+And that's kind of what we're gonna try out today.
+In fact, we're gonna have you build a fractal.
+A tree is a really good example of a fractal because if you look at the whole tree and then you break off a big branch of the tree.
+Yes.
+It almost looks like that branch that you broke off is itself another tree.
+So our rule is that every branch splits into two smaller branches.
+Okay.
+[low beat music] So your tree is totally beautiful, but it took a long time to make, right.
+How would you feel if I said, now you have to make a thousand of those trees.
+I'd be like, oh my that's a lot of work.
+Yeah, it's a ton of work.
+If you think about Moana's island, it has these tens and hundreds of thousands of trees on it.
+And that's why we need computers to help us out because computers are really good at taking these really simple rules, like put two branches on every other branch and doing it really, really fast.
+I want to know how to draw a fractal.
+On a computer if you wanna learn to draw fractals, then you might need to learn a little bit about programming.
+[Keenan] Programming. Yeah.
+Like coding.
+Like coding, exactly.
+That's what actually a lot of the artists for the movies are working with code rather than with a paintbrush.
+So in your own words, how would you describe a fractal to somebody? I would describe a fractal by saying that when you see a, a object, if you zoom in closely, you'll see that it's, it's broken down into pieces.
+So as you zoom in more closely, you'll keep seeing smaller and smaller pieces.
+Definitely that is totally what fractals are all about.
+Yes.
+[low beat music] What are you studying in seventh grade these days? I think we're doing geometry still.
+What if I told you that there are shapes where you can't measure the length of the perimeter.
+It's big, but all of the sides are kind of like, so weird that they wouldn't be able to pinpoint anything specific to add together.
+The shape is just super, super complicated.
+Yeah.
+And so you can't actually measure the length.
+Yeah. Right? Yeah.
+So that's already a really good idea of what a fractal is.
+It has some really, really interesting detail at all, scales that makes it hard to talk about standard quantities like lengths and areas and volumes.
+Would a planet or an asteroid be a fractal? Yeah, so if you look at kind of the wrinkly surface of an asteroid, each one of those little wrinkles adds a little bit to the surface area.
+And so it's really hard to say, what is the area of an asteroid? Let's take a look at a little example of where fractals actually show up in nature.
+What we're gonna try to do is we're gonna try to say what the length of the coastline of great Britain is.
+So we're gonna start out with the blue ones, which are spaced further apart.
+We're gonna ask you to connect the blue pins with a piece of string so we can get a measurement of the coastline.
+[low beat music] So we have our first measurement of the length of the coastline, and we're gonna do it over again.
+But this time we're gonna use the white pins, which are spaced closer together.
+[low beat music] So we measured the coastline again.
+And what do you think happens? There's more in and out.
+Therefore probably takes more string for this one.
+I think I agree with you, but I think to really validate our scientific experiment, we should probably compare the length of the string.
+[low beat music] A lot of extra slack in that pig of string.
+So what we noticed with great Britain is we were never able to measure it's length.
+It just kept getting longer and longer.
+This is called the coastline paradox where there's not really one definite number you can assign to the length of the coastline, but it depends on how you measure it.
+Like if we kept going to really get this to be accurate, we might have to like actually go down the beach and start measuring these tiny little details along the coastline.
+But really there's so much detail.
+We would probably never get a definite answer for how long the coastline is.
+Fractals also give us a really nice language.
+We're talking about how smooth or rough some kind of shape is.
+And actually a lot of people, engineers and scientists use this idea of fractals and this language of fractals to compare different shapes, not in terms of their size, but in terms of their roughness.
+So based on everything we talked about today, how would you describe a fractal to somebody in your own words? It's a shape, that you can't describe as a shape.
+Yeah, totally.
+Like it's a shape that you can't use sort of the ordinary language that we use to talk about shapes you really need some other ideas or concepts to talk about.
+[low beat music] Do you play any video games? I really like hard stone Minecraft.
+What happens in Minecraft if you get really, really close to a shape? Well, it just looks like a block.
+Yeah it looks really blocky.
+And it's the same thing not only with shapes and games, but also colors and textures.
+And this is an especially a big problem in virtual reality because you have no control over where people are gonna go.
+What they're gonna look at, how close they're gonna get to various objects.
+So fractals on the other hand are these things that have infinitely, you know, nice details you get closer and closer and closer.
+And so this is something that can help us solve this problem in computer graphics of generating more detail.
+One of the reasons why fractals are really nice for computer graphics is because the algorithms that we use to draw images also have this kind of recursive flavor.
+What's recursion? Recursion is a function that uses itself or calls itself in it's definition.
+And basically with that, you can figure out minute details such as searching for a value in a binary tree.
+It's kind of like iterating through itself, but it's often more sophisticated in that it's easier to write.
+They're easy for a computer to execute, right? It just has to run this recursive procedure over and over and over again.
+We can kind of get as much detail as we want or need.
+When I think about fractals and kind of what they've done for computer graphics.
+The example I think is subdivision surfaces.
+Did you, did you encounter subdivision surfaces in your graphics class at all? The name doesn't really ring a bell? So subdivision surface is a way of describing a smooth shape on a computer rather than some complicated fractal shape.
+So meshes and computer graphics are usually made of these flat polygons with kind of sharp edges.
+And so the question is how can I get something nice and round and smooth out of these sharp looking polygons? What I can do is I can start cutting one at a time, the corners of this paper off, it still looks very angular.
+I still have these really sharp points.
+Right why are we doing this? Because I want to draw a smooth curve on the screen, but all my computer can do is draw straight lines.
+And that's actually too true of GPUs.
+It's kind of interesting.
+GPUs are basically really fast machines that can only draw one thing and that's a flat triangle.
+And so if we keep doing this with our paper, you kind of get pretty quickly the idea of what's gonna happen.
+So when you go to see a Pixar movie, for instance, every surface has been subdivided down.
+So you have tiny little triangles called micro polygons that are even smaller than the size of a pixel.
+How long does this process take? Well, because people who really need to use these subdivision services for everything, people who worked hard over the years to make this super, super fast.
+In fact, subdivision services were invented basically at Pixar.
+There's this guy, Ed Capel, and he was harshly responsible for one of the most famous kinds of subdivision surfaces called Capel Clark subdivision surfaces.
+And in fact recently won the touring award for these subdivision services.
+What do you think are the current shortcomings in, I guess applying fractals to computer science right now, what are, what is the cutting edge? So we've, talked a little bit about the positive features of fractals and procedural graphics, which is you can write one simple recursive program and the computer creates a lot of detail for you.
+So that's really nice, right? It's saving you a lot of work, but the downside is you lose a lot of control.
+So because the only thing you're describing is this short little program, you don't have complete control over how this is gonna end up.
+And so adding more controllability to procedural graphics is something people have been thinking about for many years.
+So how has our conversation changed your understanding of what fractals are all about? I think it's really interesting to see the different ways, fractals will be not only useful, but necessary in being able to render these games and these different programs that are interesting in the metaverse or different media to be really beautiful.
+[low beat music] Hey, thanks for joining us remotely.
+Yeah, of course it's a pleasure I'm happy to be here.
+Do you have any sense of how you would give a really precise mathematical definition to, you know, what is a fractal? It would probably have to be some kind of recursive definition, like imaginary numbers.
+I know the Mandelbrot set we'll use those.
+The Mandelbrot set or the Julia set, you know, the idea is always, oh, I'm gonna apply some polynomial over and over again.
+Z squared plus C or something like that.
+When I think about fractals, I try to get away from these very specific examples and ask, what is it fundamentally that makes a fractal, a fractal.
+And one thing that I think you can be precise about, even if you can't really say exactly what a fractal is, is you can talk about this idea of fractal dimension.
+Have you ever heard of that? No, I have not actually.
+So if you look at this, this piece of paper, what would you say the dimension is? Well on the, on the paper itself, I would say it's two dimensional, but the actual paper would be three dimensions because it has a very small thickness.
+Yeah, great.
+So, so the real physical paper has some amount of thickness, but when we model this mathematically, we might ignore the thickness and say, yeah, this is really just kind of a two dimensional sheet of paper.
+And then you have your apple, how many dimensions is the apple? I would also say three.
+And why three? Because it has the pipes and the width.
+And there's a depth to it as well.
+Totally, now, as a little experiment, take your piece of paper and just crumple it into a ball.
+So what is it? Is the paper three dimensional or is it two dimensional? It changed and dimensions depending on how it is shaped.
+So it's not quite as solid as the apple, but it's also not quite as two dimensional as the original sheet of paper.
+And so for this reason, people associate this crumpled ball with a fractal dimension, maybe something like 2.5 dimensions instead of two or three, there are a lot of different definitions, precise definitions of fractal dimension.
+But I think the one that's easiest to understand is this thing called box counting dimension.
+You have, let's say an image and you want to decide what's the fractal dimension of this image.
+So what you're gonna do is you're gonna count the number of boxes, or you can imagine big pixels of this image that cover the boundary of this shape.
+And you're gonna see how does that counting compare with how the counts work for just an ordinary shape? So, so if I have a straight line and I start out with one big box that covers the whole line, and now I shrink my boxes by a factor of two, I just make boxes half as big.
+How many boxes will I need to cover that line two? And if I cut that box in half again, how many boxes do I need to cover the line.
+Four.
+But if you take a more interesting shape, some kind of fractal shape, like let's say the coastline of great Britain and you start doing this box, counting experiment, something really interesting happens as you make these boxes smaller, the number of boxes you need to cover the coastline grows faster than it would for just a straight line.
+Yeah, I've, I've heard about that.
+Where if you, if you change the amount of measurement for a coastline, you can actually change like how much of the coast that, that there is like if you measure in mile lengths, you're gonna get a much different estimate than if you measure in one inch increments.
+And so what this box counting is getting at is saying, well, I still can never decide what the length of the coastline is, but what I can do is I can see how quick does the number of boxes grow relative to how it would grow just for an ordinary one dimensional curve, like a line or a circle.
+Is there any other interesting applications of fractals? So procedural computer graphics, which kind of came out of thinking about fractals is one answer to this question about how do you add more detail without for instance, consuming tons of memory or requiring artists to paint ultra detail the textures.
+So if, if you can instead describe at least some aspect of what you're looking at in a procedural or recursive way, then you can add as much detail as you need when you get close to objects.
+Oh, you mean like perlin noise? Yeah like perlin noise is a great example, right? Perlin noise was one of the early ways of synthesizing additional texture at any level of detail that you needed to make things look natural and realistic.
+I have a, a random question.
+Do you know how the research into fractals began? You can look pretty far back in history to see kind of glimmers of this idea of fractals in science in the 19th century, people were trying to look for examples of things in mathematics that were very unnatural.
+So there was, for instance, this guy named Georg Cantor, who was showing that you can have these sets with really strange properties, or you can have functions with really strange properties.
+This thing called the devil staircase and so on.
+And it wasn't until about a century later where someone named Mendel Brock said, Oh, actually this strange mathematics that was meant to show how unnatural things can happen is actually a perfect description of things that really do happen in nature.
+And from there, people really ran with it and said, Oh, okay, well, if these fractal descriptions are good for nature, we can also use that for creating really realistic and believable pictures in computer graphics.
+[low beat music] I can say that when you reached out to me and I first learned about this program, I immediately went to my computer and I implemented yet another version of like zooming into the Mandelbrot set. Yeah.
+Just because I was so excited, you know? So that the thing is that it took me maybe 30 minutes.
+A kid at home who's like 13 and 14 who just starts playing around with a simple computer program can make incredibly beautiful fractals.
+Yeah for sure. And I think that's one of the things that's exciting about it.
+Or you don't even need computers.
+Like I remember when I was a kid, I played electric guitar and I had all these guitar pedals with different effects and oh, what happens if you put the output back in the input and just run it through itself, you're gonna start hearing this kind of fractal sound, right? So today we've been telling people, fractals are things that are somehow self-similar, they have detail at all scales.
+Are there other ways you might introduce fractals to somebody or are there other things you might say, this is what a fractal is? I think you could get to the reasons why does a coastline look like a coastline at all different scales? It's because the forces of nature tend to work similarly at all different scales.
+And it's those forces that are doing very, very simple things over and over and over again that are constantly creating the sense of detail.
+I think about like the scale and variance of different physical equations, like navier-stokes is, you know, kind of scale and variant, you know, this Reynolds number that tells you how viscous things are, but you can have the same kind of fluid behavior at all different scales.
+And that's why you get turbulence at all different scales.
+Yeah I actually actually remember the moment when I finally figured out how to make turbulence in computer graphics, I was working for this company, Maggi and Disney was working on a movie.
+I think it was weird science where they wanted to have a marble vase.
+And then about three in the morning, I was at a diner nearby and I was pouring the cream into the coffee and I was watching it and I started watching it swirl around.
+And I realized that what was happening was really simple that you had this line of cream and then it hits the cup and it folds and then the folds get caught up.
+And then that folds again.
+And it's a really simple process of folding within folding.
+And I just went to the computer and did that.
+Yeah.
+And things look like marble and looked like flame.
+And they looked like clouds and they look like you just keep using those simple techniques.
+Yeah and I think it's really cool that this kind of fractal description of geometry or physics is also kind of baked into the nature of computation.
+Computation is recursive kind of biased nature.
+And so it's kind of a match made in heaven that we happen to build these machines that also- [Ken] Right.
+You know, behave the way that nature does.
+You just have to understand recursion.
+Exactly.
+So somebody once told me in order to understand recursion, you just have to understand recursion.
+There you go.
+And then you get it all. Yeah.
+But I think it's this point that that point with the coffee is important because the forces we're operating at one scale, they're operating at the scale of the coffee cup.
+But over time they kept making details that were smaller and smaller.
+Process at one scale, plus time you get fractals.
+I think that's also, what's so beautiful about fractals is that, you know, if you think about sort of the history of geometry as well, Felix Klein was looking at geometry by saying, well, geometry is all about in variance.
+I have some group of transformations and I look at objects that are sort of in variant with respect to these transformations.
+So if you just look at translations, okay, what kinds of shapes remain the same under translations? Will you get tiling? You get wallpaper.
+And if you start asking that same question, what if I allow scaling in my transformations then boom, you have fractal.
+Immediately, right.
+[Keenan] Come out of nowhere.
+And when everybody understands scaling.
+[Keenan] Right? Scaling is a simple thing yeah.
+Now you work on kind of the future of virtual reality and augmented reality and extended reality.
+But it's kind of interesting because I think if I think about exploring these infinite fractal landscapes in some way, they still feel a little bit lonely or they feel a little bit poor of the kind of richness that we have in the real world.
+This is where machine learning starts coming in, because you can start saying, okay, this is a very, very rich virtual world, but it's informed by, you know, my favorite mountains that I saw in Italy once.
+So you can start training these fractal worlds on things about the real world that have particular emotional resonance for us.
+People outside of computer graphics and engineering and science and so forth have also thought a lot about and used fractals as a language for talking about nature, for characterizing shapes and behaviors and so forth tissue or friction, or all sorts of really important phenomena.
+Do you think that computer graphics has kind of dropped the ball in terms of saying, you know, this is not something that's exciting anymore to work on procedural descriptions and we're, we're moving on from that? Well, I mean, if you look at any Hollywood movie or you look at any of the game worlds that people are spending all their time in they're highly procedural, they have to be, and they have to make use of fractal techniques because it's basically a way to get enormous complexity without having to explicitly store the complexity.
+And because they're able to use these relatively simple fractal techniques to make very complex looking natural things.
+Right? Lazy evaluation, we love being lazy in computer graphics.
+Well, it's also, it's not even possible to explore, to store an entire world in your computer.
+Absolutely.
+You wanna be able to sort of generate it on the fly.
+I'm looking forward to things getting better.
+We're not there yet.
+So one of the things I guess that touches on is this question about controllability or the ease of, with which everybody can create these worlds.
+Not just people, not just mathematicians, not just, you know, trained computer scientists.
+One thing when I think about Ken Musgraves working about this program, Bryce, this one I felt like I could really use, what do you think we still need to do in terms of putting these kinds of tools in, in people's hands, making it easier for people to use procedural machine learning, to build these kind of worlds? I think in that case, it came down to the fact that Ken in particular had a mission to make accessible tools for people without sacrificing the power and the richness of making beautiful things.
+I mean, in a sense he was kind of the computer graphic, Bob Ross.
+You know? So- He made a lot of happy little trees.
+Yeah, yeah, yeah.
+Which, I mean, when you, when you think about the techniques of somebody like a Bob Ross they're fractal.
+Yeah. And I think this is what what's so beautiful also about Mandelbrot's work is him saying, you know, it's not really about these exotic examples.
+Like even the Mandelbrot set or Julia sets or whatever.
+Yeah they're like really interesting mathematical curiosities, but they get at this idea that fractals are kind of inevitable.
+And Bob Ross probably never, as far as I know, never sat down and you know, thought about recursive descriptions of trees or anything like that.
+But it's just something that naturally comes to you as an artist.
+Well, I mean, you can go back to all the classic artists da Vinci's notebooks were just full of like, this thing looks like that thing at completely different scales.
+So he didn't have a fancy word for it, but he completely understood it.
+Yeah it's really part of human nature or human's connection to nature.
+Yeah. Yeah.
+Hopefully our discussion today has helped you see the world in a different way and also see how mathematics and art can come together to make beautiful images.
+I hope it's inspired you to look at the world around you in a different way.
+Musician Explains One Concept in 5 Levels of Difficulty Expert Explains One Concept in 5 Levels of Difficulty - Blockchain Oculus' John Carmack Explains Virtual Reality in 5 Levels of Difficulty Biologist Explains One Concept in 5 Levels of Difficulty - CRISPR Neuroscientist Explains One Concept in 5 Levels of Difficulty Astronomer Explains One Concept in 5 Levels of Difficulty Laser Expert Explains One Concept in 5 Levels of Difficulty Sleep Scientist Explains One Concept in 5 Levels of Difficulty Physicist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains One Concept in 5 Levels of Difficulty Hacker Explains One Concept in 5 Levels of Difficulty Nanotechnology Expert Explains One Concept in 5 Levels of Difficulty Physicist Explains Origami in 5 Levels of Difficulty Computer Scientist Explains Machine Learning in 5 Levels of Difficulty Neuroscientist Explains Memory in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains Black Holes in 5 Levels of Difficulty Computer Scientist Explains Fractals in 5 Levels of Difficulty College Professor Explains One Concept in 5 Levels of Difficulty Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty UMass Professor Explains the Internet in 5 Levels of Difficulty Mathematician Explains Infinity in 5 Levels of Difficulty Theoretical Physicist Explains Time in 5 Levels of Difficulty MIT Professor Explains Nuclear Fusion in 5 Levels of Difficulty Harvard Professor Explains Algorithms in 5 Levels of Difficulty Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

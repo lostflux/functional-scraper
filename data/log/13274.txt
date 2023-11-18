@@ -1,0 +1,430 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Machine Learning: Living in the Age of AI About Credits Released on 06/20/2019 [intriguing piano music] Alexa, play classical music.
+[Alexa] Here's a station for classical music.
+Well my name is Jerry Neece.
+I'm 70 years old and I live in the active adult community for people 55 and over here in San Jose, California.
+[calm piano music] I actually have five desktops, four laptops, two Kindles and an iPad.
+I have Amazon Alexa, I've had her for a couple years now and as someone that didn't even see my first television 'til I was seven years old I can tell you that the evolution of technology is inevitable.
+It benefits mankind.
+I can see the stars and the milky way, I can actually spend all day under here.
+Artificial intelligence is all around us and we use it in different ways everyday.
+[phone alarm rings] You wake up, you go for a run and your watch tracks where you're going, measures your heart rate variability, using forms of AI.
+Probably AI was used by a farmer to grow the crops, and the strawberries and the blueberries that I had for breakfast.
+Maybe you're in a car that has AI that helps sense the other vehicles on the road around it.
+You sit down at your computer, you start to use your email.
+It's all filtered by AI.
+Then you take a photograph and the tools that help you sort your photographs, those are AI too.
+Artificial intelligence is everywhere.
+And it's becoming evermore present in our lives.
+What is the temperature in San Jose, California? AI and machine learning is the biggest revolution today.
+And this in the order of the agricultural, industrial revolution in the past.
+I think technology is gonna have a really hard time helping people like me.
+There's a lot of hype, but there's a lot happening as well.
+[Smartphone] Borden pasta.
+One of the great things about machine learning, is how it's been democratized.
+A sort of huge jump has happened and all of a sudden you're getting confronted with the fact that there might not be driving a car in the next 10 years.
+Because it's software, the rate of change is so much faster.
+[computer clicking] This technology will be created.
+We have no escape from it now.
+People may think AI's gonna take over the world.
+They're definitely nervous.
+Some of those dystopian things that we might think, oh, that could never happen, might actually happen.
+To me it's not what's gonna happen to us but what's possible to happen with us, and where can we go? I mean it's sort of unlimited.
+[dramatic music swells] [melodic piano music] We are progressing rapidly in AI.
+Companies are putting billions of dollars into it.
+Smartest people in the world are studying it.
+It is going very, very fast.
+But the tools are accessible.
+Even eight year olds can learn about it.
+Good morning guys! Today, we're going to be working and talking a little bit about something called artificial intelligence.
+What do you think of when you hear those two words, artificial intelligence? Things like in video games, label on top of them AI.
+When I think of artificial intelligence I think of like, how smart robots are.
+[Jennifer] How smart robots are? Okay.
+It has this control that just tells it to do things that it does.
+I like that.
+So, ready? I'm gonna show you guys and introduce you to an artificial intelligence powered robot, called Sophia.
+[Man On Video] Sophia, if you could, please wake up and say hello to everybody.
+Oh, good afternoon.
+My name is Sophia.
+I can use my expressive face to communicate with people.
+For example, I can let you know if I feel angry about something, or if something has upset me.
+[Man On Video] Why is it so important to have an expressive face, given that you're a robot? I want to live and work with humans, so I need to express emotions to understand humans and build trust with people.
+[Man On Video] Can robots be self-aware, conscious, and know they're robots? Well, let me ask you this back, how do you know you're a human? I want to use my artificial intelligence to help humans live a better life.
+How do you guys feel about living in a world with robots like Sophia? [laughs] I'm not, you guys wouldn't be too happy about that? Would you guys trust your babysitter being a robot like Sophia? [Class] No.
+[Student] She's creepy.
+She's super creepy when she does this.
+Am I really that creepy? Well even if I am, get over it.
+[Man On Video] Thank you very much Sophia.
+People are always scared about the future, and they have this kind of twin dynamic going around.
+On the one hand it's like, whoo hoo, total optimism, on the other hand it's like, oh god [laughs].
+We know in our bones that things are gonna be different because they always have been.
+A lot of the dystopia/doom talking, is not really based on facts.
+People are looking at things they don't understand.
+You wanna talk about AI you've gotta talk about data and machine learning and algorithms and sensors and whatever binds it all together.
+AI today, it's important to understand what it is and what isn't.
+It is able to learn rules from highly repetitive data.
+It's effectively a computer program that can truly learn and change.
+That to me is what the real vision of AI is.
+So artificial intelligence and machine learning as a subset of artificial intelligence will be one of the most important advances that humanity has ever made.
+Because it will make machines fundamentally different from the way they are now.
+They won't just be faster, higher resolution.
+They'll be thoughtful in a way they aren't now.
+And this will be embedded, not just in computers but in all kinds of devices everywhere.
+It's gonna change a lot, about how our economy works, and how our society functions.
+In the immediate term, the most realistic way that we'll all interact with AI is in self-driving cars.
+Everything we do in life is about more and more efficiency.
+It's about productivity.
+Self-driving cars could make all of us so much more productive.
+That is probably the most exciting possibility.
+When I first rode in an autonomous vehicle, I could see that this was going to change the way we transport ourselves, we move our goods, you know, greater economy, greater efficiency, greater convenience, greater safety.
+I could see the light at end of the tunnel.
+So here we go.
+So I just turned on self-driving mode.
+If you look at my hands I'm not touching the wheel at all.
+My feet aren't on the pedals at all, so this is fully autonomous driving.
+This is CARLA, Udacity's self-driving car.
+This is one of the sensors that CARLA uses to see the world around her.
+The lidar works by pretty much shooting laser beams around and bouncing them off of surrounding objects and we're able to use that to build up a point cloud map of the surrounding world.
+And so what we're doing right now is following a set of way points around the lot pre-recorded ahead of time, by having someone drive around the parking lot with the lidar on the roof.
+And so that's kinda where the machine learning aspect comes into play, because the more data that you have to train your systems on, the better your systems will learn.
+So one of the great benefits of self-driving cars is they can all learn from another.
+They share their maps, they share the images that they see and how to react to them.
+If one self-driving car makes a mistake, that mistake can be uploaded to a database and then ideally, other cars won't make the same mistake.
+So they're continually getting smarter over time.
+And so a lot of the times when you see the Waymo cars driving around, a lot of them you will still see a person, not just in the driver's seat but actually driving.
+They're just driving through and gathering that data but the car is not driving itself just yet.
+We're definitely not to the point where I could just say, hey CARLA take me home from work.
+Although that would be great.
+The future is coming but it's not quite here yet.
+Self-driving cars, they're really great demos, but they're not yet a product.
+[robocar motor whirring] [intriguing piano music] DIY Robocars is a place to race these cars.
+[Race announcer] On your mark, get set, go! So we come here every other month to try to learn about machine learning and self-driving, and you know, figuring out the technology that we need, so we don't need to drive.
+Thanks to the Googles of the world putting a lot of the code in the open source, we now have the ability to do things that were PhD theses just five or 10 years ago.
+[robocar engine whirs] You can go to the cloud and you can basically do supercomputer work essentially for free.
+One of the things I love about DIY Robocars is that you think about self-driving cars and you think oh, that's just stuff that Tesla and Waymo are working on, but because it's so accessible now, it's a bunch of hobbyists in Berkeley doing it themselves.
+[Chris] The difference between what we do and what the big guys do, is that we race.
+[Race Announcer] Go! And we crash, a lot.
+[upbeat jazzy music] [crowd groans] [crowd groans] The traditions of the car industry has always been to innovate through competition.
+Through racing.
+[Race Announcer] And that is points on the board.
+[Chris] But with autonomous cars it's too risky.
+It's bad for brands, 'cause they're expensive.
+[robocar engine whirring] [Man] Oh! [crowd gasping] [laughter] [Race Announcer] Go! Go! [Chris] And so we're doing the kind of the racing, the competition, the nimble, aggressive driving, that the big guys aren't willing to do.
+[crowd laughing] We can probably expect that to produce some interesting side effects, people who just sort of immerse themselves in the technology and start to have new ideas.
+I'm Buki Adeniji, and this is my wife Nia.
+And we're team Spartan.
+[laughs] I've been building model cars since I was little and since I met folks here at this meetup, I can actually participate in machine learning.
+I can learn it.
+[robocar engine whirs] By driving through, the camera is taking pictures of what it sees.
+So basically it's saying, when you see this image, then he's gonna predict, okay, I'm gonna turn x-angle, and I'm only going a certain speed.
+So that's the output of our prediction.
+It's not actually gonna learn from what it's done.
+And so this is really when you hear people talking about neural network, this is basically a super simplified way.
+[Woman] It's so easy, this is what our brain looks like.
+Knowing what a network is is very important for us to understand what artificial intelligence is.
+Because artificial intelligence is based on connections, making connections.
+We're gonna start off by playing a cool little game.
+You're going to say something about yourself.
+So for example, I can say, I live in Queens.
+So if anybody else lives in Queens, I want you to raise your hand and I'm gonna pass the string along to you.
+Now the key thing that you guys gotta remember is that we cannot let go of the string, okay? Do you have cats? [Jennifer] Who has cats? [laughs] So a neural network is a form of artificial intelligence that's been designed very specifically based on neuroscience and based on our best understanding of how the human brain works.
+As you learn, our brain modifies what's called the synapses strength which is the interconnection between two processing units.
+The neural network is the same thing.
+The neural network actually starts off where you're defining these little layers.
+Convolutional 2D, convolutional 2D, linear, linear, linear, these are types of layers that you get in these neural networks.
+And then you hook them all together.
+School can be boring.
+[laughing] [Girl Student] School is not boring.
+Yeah.
+[students all talking] [Doug] We say this layer connects to this layer.
+I like hot dogs.
+[Jennifer] Anybody else like hot dogs? I like hot dogs.
+[Doug] You say this one talks to that next one, the next one talks to that one, and once you've done it, you've built a neural network.
+[Jennifer] So what do you guys notice forming between us? It formed a bridge sort of like, there's connections in between us.
+I like that.
+There's connections between us.
+Does everyone here have a connection with each other? [class agrees] Knowing those similarities and voicing them helps us create a network between us.
+The same way neural networks help computers and machines make connections and learn how to learn things.
+So there's a lot of different things a neural networks can be set up to do.
+They have to be trained to the task.
+Like for example image classification.
+So say, this is an image of a dog.
+You get a whole bunch of examples of dogs.
+And also a dataset of non-dogs.
+Those are the inputs to the neural network and then the output is something that you're trying to learn how to do with the image, to distinguish dogs from non-dogs.
+So I can start shoveling this data into this neural network.
+You know this image over here? That needs to go over here in this 3D geometry space.
+And so it goes okay, I can do that.
+And then you do another image and another image.
+[Gene] This neural network is basically learning from example.
+It starts learning basically how to transform from this image space into this geometry space.
+It starts getting better and better and better and better and better.
+And after enough examples, the computer forms in its own brain, rules.
+It can't even explain, but they make it as competent as people are.
+[Doug] Now you don't look at problems the same way.
+You look at it like, can I capture enough data so that a machine can figure out what's going on? One of the biggest areas of application is in medical imaging and medical diagnostics.
+I've seen some research papers that shows that like neural networks can for example, spot malignant tumors.
+And possibly they do so better than a human.
+At Stanford we have a team that we trained in neural network with 129,000 images of various skin conditions, lesions, rashes, and so on, including melanomas, various skin cancers, and asked the question, can an iPhone find skin cancer? And the answer is yes.
+And then we're able to document that the accuracy of the phone is really as good as the best human physician, like Stanford level and Harvard level doctors.
+The fact that when people release a paper describing their technology that they created that often comes with code now, means that we can download it, try it out, see if we can adapt it to the problems that we want and build on it.
+You're smart, and innovative and ambitious, you can use tools that are available to anyone to do your own experiments.
+To study science, to build things.
+[futuristic music] [cube sides rotating] [sigh] I messed up like two times.
+We noticed that he's been very curious.
+You know, as a young child the main thing about Rishab is that he wants to know about everything, how the stuff work.
+I did my first science fair in fourth grade.
+Like a very simple elementary project.
+And then I wanted to work on something more complex.
+All these like, new AI products and features are coming out so I wanted to start incorporating some of that into my programming to address like an actual problem.
+My name is Rishab Jain and I am here to cure pancreatic cancer.
+And then a family friend passed away from pancreatic cancer.
+It like, further pushed me to develop a solution for it.
+This right here, this yellow part is the pancreas, and the problem is essentially, when the patient has pancreatic cancer, the tumor will be resting behind different organs, so it's very hard to reach, and because of that, when doctors apply radiotherapy they apply like a overlay around the pancreas, and that can sometimes cause other tissues and other cells to be damaged.
+That's where my tool comes in.
+I had 503 of these 3D images.
+So I had to like, tell my network, take these images in, train on them, and then it was able to identify the different types of like, textures that the pancreas had, and the tumor had, better than what a human could do.
+So my tool analyzes the patient's scan to reduce that overlay around the pancreas, and make sure that radiation is being applied to the correct spot.
+And the treatment becomes more effective.
+I want to actually do like a clinical trial.
+So first to do that I'll need to continue like, improving the accuracy and be able to run in real time.
+Machine learning is computationally happening in two different ways.
+There is training the system.
+Actually doing the learning.
+And then once you've built the system, this brain that you've created, you need to be able to run it.
+And it has to run really fast.
+And this wouldn't be possible without really big GPUs.
+This is called a WE100, the world's largest, most complicated semiconductor ever made by man.
+When packed into platforms like these, it actually offers a petaflop of computes.
+For context that's about 1,000 trillion math calculations every second.
+A GPU has a whole bunch of little teeny processors that are basically there to do one thing.
+Render pixels.
+But here, this AI learned 7,000 different species of flowers.
+This is running on a CPU.
+And see it's doing about four to five images every second.
+But you put a thousand of them or 2,000 of them together and all of sudden you've got this huge supercomputer that's built for machine learning.
+And we actually paralyzed it using one of our GPUs and this is what it's able to do.
+As scientists and engineers innovate and create new AI, there's this intense pressure for both programmability and for speed.
+[plane flying] There's a new generation of autonomous machines.
+That does require much more higher computing power.
+The faster we can make the training process, the more progress we make in AI.
+[gentle guitar music] My grandfather started the farm in 1950.
+You know, my father grew up as a farmer and I grew up as one, my kids are growing up into it as well.
+[engine revs] You know the advancements in technology with the machines, it's stuff that we have to learn all the time here.
+So there are lots of ways that artificial intelligence can be used by farmers.
+You can have drones that are using image recognition techniques to figure out where you should plant, what crops need water right now.
+You can use artificial intelligence as you model out the genes that you're building, and that you're putting into seeds.
+You can also use it for determining what kind of fertilizer to use, and you can also use it inside the machines that pick strawberries, or that take apples from trees.
+So my instinct is that AI is gonna help us.
+It'll expand our capabilities.
+It'll create new things for us to do.
+It will free up time.
+[machine running] There's a reason why almost all cool stuff has been invented in the last 150 years.
+Despite the fact that humanity is 300,000 years old.
+That's because we freed ourselves of the burden to farm everyday.
+The single most important thing for AI to accomplish in the next, say 10 years is to free up humanity from the burden of repetitive work.
+[radio static] Okay, so this one, I'll fill it.
+I guess I can't even wrap my head around self-driving vehicles.
+Like right now that train buggy's gonna pull up along side to us.
+There is ways for that machine to not have an operator in it.
+But you know, us as farmers, the one thing we enjoy is operating a machine.
+Not every job is gonna be able to be automated completely as far as fieldwork goes.
+Labor in the farming industry is a very hot topic right now.
+Often places, they don't have enough, they can't find it.
+Populations are growing, there's more and more people, a lot more mouths to feed, so the focus really is how can we produce more feed with the same amount of land, as efficiently and cost-effectively as possible? Technology is where agriculture needs to go.
+I think there's no question that computers are going to be able to do what we do.
+Make everything that we do faster and more efficient and make us more productive.
+Which is something we all say we want.
+But ultimately, being more productive means we need less people to do it.
+There's other people who said, well look, when we went from horse and buggies to cars you know did that really end everybody's jobs? No, we just sort of transitioned and morphed to something else.
+And then it's a matter of is that gonna be a good thing or a bad thing? And the reality is it's usually a little bit of both.
+They're are real concerns that AI will get so good at single domain capability to produce results to create value, and actually to do the jobs that humans do, so that job displacement could be a substantial issue.
+I think there's a path we can go down where we get more things right than wrong and we end up seeing a ton of innovation and progress that makes our lives a lot easier and a lot better but routine jobs are the first to be approved and made better, cheaper, faster using software.
+Technology has really taken on a role in our life that we just didn't predict.
+We did not expect.
+And there have been all these unintended consequences because of it.
+And so what are the mechanisms that we can put in place, what are the controls so that we feel like we still understand it, that we still have agency, that we can still sort of shape it, and it doesn't end up shaping us too much? What jobs will it replace? What jobs will it create? And it a world where there's more job churn, how do you prepare people? How do you educate people, so they can most thrive in the slightly chaotic world that AI is gonna bring us? The kinds of jobs that will happen for our children I think are gonna be different from the jobs we have today.
+[Student] You don't even have to touch him! [Bryan] That's how we progress as a society.
+And how are we going to get increased productivity without automating things that people currently do? Was there any advance that you would actually stay away from right now in this environment? I'm hoping a machine cannot do what I do.
+I'm worried though.
+I'm worried but I'm also excited in some ways, that machines are gonna be able to do a lot of this.
+It's interesting, we'll see.
+[drum heavy music] Hello everyone.
+I'm an English artificial intelligence anchor.
+This is my very first day in Xinhua News Agency.
+Recently we saw one of China's state news agencies, Xinhua announce their AI news anchor.
+It's this digital person.
+My voice and appearance are modeled on Zhang Zhao, a real anchor with Xinhua.
+It's definitely an overstatement to say this is an AI news anchor, because I suspect the actual dialog is heavily mediated.
+Right now, we really don't have AI that can strike up a real conversation or synthesize information together like a real journalist or news anchor would.
+I will work tirelessly to keep you informed as texts will be typed into my system uninterrupted.
+But just that's the beginning right? So the nice thing about AI is it gets smarter with every iteration.
+Hello, I'm Siren, and I'm a digital human.
+I was created by an international team of artists and engineers, who wanted to challenge our ideas of what a synthetic human could be.
+Digital Domain is a visual fix production company.
+We do visual effects for movies.
+In 2008 we did the Curious Case of Benjamin Button.
+When you look at Brad Pitt, you're not looking at Brad Pitt, you're looking at a digital version of Brad Pitt.
+And ever since then, we've been trying to top ourselves.
+And we said, you know what, wonder if we can do this live.
+If we could actually take this technology that we've been working on for 10 years to create the most photorealistic digital characters, trying to do it live.
+And that's what we did before Marvel Infinity War, we did the lion's share of the Thanos work.
+What you can get is the ability to create a digital copy of somebody, without having animators between to actually render the images that we want to create at almost feature film quality in real time.
+The only way to do this this fast is with machine learning.
+It's really hard to do it really accurately.
+So what you need to do is train this neural network, because that's the key thing behind machine learning.
+It's all about the data.
+And we have a lot of data.
+And it starts out producing crap, I mean it really would produce just a jumble of geometry.
+This is when it doesn't work [laughs] although my mom looked at this and said, hey that's Doug! [laughing] And eventually after 24 hours of training, out pops something that looks like this.
+Every day this gets better and better and better.
+So my performance can now drive any character that we've built.
+This kind of technology can be very useful for us.
+If I'm an actor, I can play a younger version of myself.
+As you age, maybe that isn't as much of a barrier.
+But ethically, you have to be really careful with this technology.
+And all our yesterdays of righted fools await a dusty death.
+We've gotten to the point where we can create stuff that's really hard to distinguish from reality.
+And if that's the case, how do you tell who's on the other side of things? Take my image and use it to control the face of somebody else in real time.
+This is super dangerous technology and so there's opensource software called deepfake that will do similar kinds of stuff.
+We're entering an era in which our enemies can make it look like anyone is saying anything at any point in time.
+Moving forward, we need to be more vigilant with what we trust from the internet.
+So, tools that were developed for high end digital studios are now available for anyone.
+And that's great for young people making movies at home.
+It's allowed new forms of cinematic creativity.
+And it's not so great when it's used for deepfakes and manipulation.
+And now there are plenty of people out there posting manipulated video clips.
+Right now the quality isn't great, you know you can tell that they've been faked but I think we can expect the quality to get a lot better.
+So this is what the state of the art looked like in basically 2015.
+You can see that doesn't really look like Trump but it was clear enough that we were going to get much more realistic looking results and you know at some point it was even this is what I can do with my hacked version of this, right? It's really only a matter of time before pretty much anyone can mimic anybody else with nothing more than an app.
+One striking demonstration recently came from Berkeley, where they showed that they can take a video of a professional dancer and then use it to animate a photo of you know, a regular person who could not dance like that.
+And the result looks pretty convincing.
+As the technology for rendering graphics continues to improve and the technology for synthesizing voices and videos continues to improve, there's kind of an arms race between the AI that's creating these things and the AI that would be detecting them.
+When I demo projects like this people will criticize me and say why are you trying to make it easier so that people can do this? Like, don't you see all the possibilities? And I do see the possibilities, which is why I actually try to put them in public and in the sort of like, sometimes in a humorous light before the stakes are very high.
+So people can kind of understand.
+Understand what's doing on.
+So we're building this incredible technology, machine learning, artificial intelligence, and we're setting rules for it right now.
+And one of the big questions, one of the most important questions is will we set the rules right? [Nicholas] So AI will have all kinds of massive benefits.
+It will make us richer or make our lives broader, but it can also be used to create filter bubbles that only give us certain information, it can be used to monitor our behavior, sell our personal information.
+You can imagine it going to insurance companies that look at our searches and deny us coverage.
+Or think about facial recognition technology.
+It's super useful, right? It helps you unlock your phone, all kinds of identification, but it can also be used for surveillance and tracking.
+So a lot of this stuff is happening now, and we need to think carefully about what it means as we develop this technology and figure out the role we want AI to play in society.
+It's absolutely the case that these new technologies will generate ethical dilemmas we haven't encountered before.
+For me, being able to start to critically interrogate what we're up to and why? Hugely important.
+Today we're in the age of artificial narrow intelligence.
+We have many AI applications that are good at specific things.
+For example we can beat the world grandmaster at chess using an AI program.
+We can beat the world grandmaster at Go.
+There is no AI system for example that can do true one-shot learning.
+Where you give one example, and the AI system masters that concept.
+Now on the other hand, think about the revolution that's coming in the air, with artificial intelligence and autonomous aerial vehicles, numbering in the millions, far more than the thousands of aircraft that we see today.
+Human beings simply can't keep up with that.
+AI can maintain these systems with predictive maintenance.
+AI can fly these aircraft with autonomous control.
+AI can even manage and deconflict traffic.
+These are examples where AI can truly take us into the future.
+A future that man alone cannot manage.
+So there is a lot of PR about AI for good.
+People are scared of AI, so of course companies are coming up with examples of how they're using AI for good.
+But on the other hand, it's real improvements.
+You helped someone who couldn't see, see, that is good.
+It gives you good PR, but it's also good.
+So I actually was born blind, but I was really lucky and it's the sort of fixable kind.
+And I've spanned the whole visual spectrum from complete blindness to sort of, pretty heavily impaired, to doing it fine without much assistance.
+The Mac OS introduced this thing where if you shake the mouse really fast it gets big, so you can find it.
+That has given me years of my life back.
+Like, I could've like, all the time I've spent looking for a mouse on a computer screen, I could've like, learned to play an instrument or like, learned another language.
+When you don't know what you can't see, you almost don't know when you need help.
+If you sort of feel like everything should be doable.
+But sometimes things aren't, and then you're like, oh, maybe there's something that could help me out here.
+I'm gonna download the Seeing AI app and check it out.
+[Smartphone] Hold the camera over a barcode to hear the product name.
+The faster the beeps, the closer you are to the barcode.
+I can imagine this maybe being useful in a grocery store.
+[Smartphone] Processing.
+Skippy creamy peanut butter.
+Ooh it did it! With a more traditional system, a lot of the programmer would be deciding what's of interest and what should be described very mechanically, whereas with machine learning system, where showing the system many many thousands of photos and it is using a neural network, deep learning, to identify the patterns.
+[Smartphone] Scan your surroundings to find out how many people are around you, how close they are, and their facial expressions.
+What'll it do, it'll read their emotions? That's interesting.
+[Smartphone] One face near bottom edge processing.
+Ah! [Smartphone] 27 year old woman with brown hair wearing glasses looking neutral.
+[laughs] All right.
+When I'm walking I sort of just tough it out.
+I can't really tell what's going on around me.
+I know where all the environmental stuff is 'cause you do it over and over again.
+It's the people.
+I have no idea where the people are.
+So if I had something that could tell me, like, your friend is coming, or your friend is like, over here, to your left, that would be great.
+[Smartphone] One face near left edge over 14 feet away.
+Chris near center three feet away.
+It got you eventually, once you stopped.
+[Smartphone] Zero faces.
+I think the potential is really there, to really like, to change lives.
+To change my life, even.
+[Smartphone] Zero faces.
+One face near right edge center.
+AI will help understand the world around us and I really think that could level the playing field for everyone and make the world more inclusive.
+AI will give us back things we've lost.
+Old people are using it to make their lives richer, or to give them back capabilities they've lost.
+[Robot] How is everything with you? AI is gonna be really helpfuL making sure that people are connected.
+There's a lot of people right now that can't drive.
+Giving them mobility, I think that's really transformative.
+One of the ways that self driving cars will work first is in contained environments.
+Where they've mapped all the roads.
+Where the weather is predictable.
+The car does not need to be able to drive very quickly.
+There isn't a lot of traffic.
+People just need some help to get around.
+For myself, I'm still working, I'm perfectly capable of driving around.
+But living in a 55 plus community, I have neighbors who are in their 90s, who really can't.
+So this is my mom and my father George Levokiam.
+This was their home in Riverdale, where they became housebound because they couldn't drive any longer.
+Here were two, really active, vibrant people, and they couldn't do anything without calling somebody to drive them.
+But it's really hard to be dependent on other people.
+For older people, I see the autonomous vehicle as independence.
+[upbeat music] Self driving cars are uniquely positioned to help our seniors, because there's a lot of people here that shouldn't be driving anymore.
+Makes it easier for people to make a decision about stopping driving, is when you have something that can take you down to the clubhouse or to the fitness center.
+These technologies are all helping seniors, because they will allow us to live more independently longer and more safely.
+I really wish they had this with my parents.
+God, it would've changed their life.
+At every stage in life, there's some way that AI helps.
+It's gonna make our lives longer, it's gonna make them richer, it's gonna expand our imaginations.
+Some people say that AI is going to enhance our humanity.
+I don't know if it's true.
+You know, has technology enhanced our humanity? Twitter sure hasn't.
+If Twitter was a real place it would be a terrible place to live.
+So I'm not sure what all this technology is gonna do to us.
+Is it making us better, is it making us worse? It's surely making us different.
+That's for sure.
+[Race Announcer] Timer, are you ready? [Race Timer] Yeah.
+[Race Announcer] Racer, are you ready? You know a part of what made this moment the way it is now is that we invited a whole lot of people into it.
+We didn't hold it tightly.
+[Race Announcer] On your mark, get set, go.
+[inspiring music] [robocar engine whirs] So he's trying to beat 33.33.
+We said, here are platforms, build things.
+Here are platforms, imagine what's possible.
+[Race Announcer] Timer, what's the time? [Race Timer] 25.6.
+Yeah! [Race Announcer] 25.6, that's gotta be a record.
+Whoo! [clapping] We think what we're doing with AI/ML is really good but this is nothing compared to what the brain does, so we're nowhere close yet.
+[robocar engine whirs] [audience yelling] Humans are still winning for now.
+Our processor is much better, but you know I guess the hope is that one day it'll be-- It'll be, we'll get there.
+It'll be up to speed.
+[Award Host] America's 2018 top Young Scientist is Rishab Jain.
+[clapping and cheering] I realize that not every kid has the engagement and interaction with STEM in general, so I recently formed a nonprofit organization called Samyak Science Society, so I want to further promote artificial intelligence in my community to help solve like real world problems.
+In the future I think your house will diagnose you everyday, your car, every time you take a shower you're gonna get a skin exam, anytime you look into your vanity mirror you're gonna get an eye exam, every time you sleep you're gonna measure your weight distribution to understand whether you're at risk for congestive heart failure, every time you touch the steering wheel in the car you could get a full EKG.
+I believe we're gonna invent flying cars so there's no more traffic in the world.
+I believe we're gonna find a way to live twice as long.
+I believe you're gonna find a way to seamlessly blend digital information our brains.
+So I think people really have to maintain that optimism.
+Technology has always helped human make progress.
+[Nicholas] AI is an amazing technology.
+It's happening, and it's exciting.
+[Smartphone] Processing.
+A close up of a blackboard.
+It's also true that there are a lot of risks with AI, and so we need to be thoughtful.
+We need to be deliberate as we move forward into this crazy new world that AI is creating.
+You really don't know what the future can hold for you but you gotta be ready for it.
+[dramatic music swells] [futuristic piano music] Director: Chris Cannucciari Computer Scientist Explains Machine Learning in 5 Levels of Difficulty Amazon Now Considers Itself an AI Company | WIRED BizCon WIRED25: Sebastian Thrun & Sam Altman Talk Flying Vehicles and Artificial Intelligence President Barack Obama on How We'll Embrace Self-Driving Cars President Barack Obama on the Future of AI President Barack Obama on How Artificial Intelligence Will Affect Jobs WIRED25: Kai-Fu Lee and Fei Fei Li On What's Next for Artificial Intelligence WIRED's Top Gadget Stories of 2016 Robots & Us: The Future of Work in the Age of AI How a Bunch of Geeks and Dreamers Jump-Started the Self-Driving Car Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

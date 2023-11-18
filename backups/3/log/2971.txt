@@ -1,0 +1,111 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons How This Guy Makes the World's Most Inventive Clocks About Released on 05/18/2023 [Narrator] This is a clock, and this is a clock, and this is a clock, and every one of these clocks is an inventive journey.
+This clock walks over 3000 miles a year.
+It'll walk back and forth once a minute, so if I put it on Interstate 80 headed west, it would be out in San Francisco by the end of the year.
+[Narrator] Meet Rick Stanley.
+He makes clocks using everything from bottles, to bicycles, dominoes, and even liquid.
+Each one is completely unique and totally accurate.
+Even when we're on vacation somewhere, I think of different clocks to make.
+I could not see myself doing anything other than clocks.
+[upbeat music] There's five elements of a clock: energy, gearing, escapement, control, and indication.
+Energy, this is a rock here.
+We have gearing, which slows down the speed for the hands.
+We have an escapement, which starts and stops the movement.
+Here we have a pendulum, which is what determines how fast the escapement is moving, and we have a dial to read the actual time from.
+This is a walking clock.
+[clock ticking] When it gets to this end here, it will hit this stop sign, which will increment to the next minute.
+All this metal here, I hand-bent and welded, so that the bearings would be at these exact spots.
+The inspiration from this clock came from a machine that was used for testing shoes, because everything I see is a clock.
+All I have to do is figure out how to take that concept and roll it into a clock.
+This is the domino clock.
+There's a small solenoid under there that will push the domino up every minute.
+On the hour, I carved my daughter's hand here.
+This will push out, push all the dominoes down, and the last one will hit the counter, which will move over to the next hour.
+[Narrator] Rick's lifelong study of clocks puts the concept of time into a unique perspective.
+I think time has always been something that's been important to people.
+Look, even prehistoric people look at the stars.
+Some people are always concerned about they need to do this, they need to do that.
+I don't. I kind of flow with the time.
+[Interviewer] Do you like daylight savings time? [Rick laughs] No, I don't like daylight savings time.
+It takes me weeks to change all the clocks back to how they're supposed to be.
+This is a bottle clock.
+The motor turns one revolution a minute, which is the second hand.
+The bottles mesh with one another.
+There's 12 bottles here and 24 here, so this has to go around twice for this to go around once.
+This is 30 bottles to 12, 36 bottles to 12, and 48 bottles to 12.
+That's 1/60th the speed here than it was where it started.
+Then it continues on this way and drops at another 1/12th.
+Opening on the bottles is not consistent.
+Each bolt had to be turned to a different diameter.
+This is 300 bottles, 300 bolts that we had to turn.
+Each one was a different size to get this clock to be built.
+This is my fluid clock.
+On the hour, the minutes drain out and the hours fill.
+It's the only 3D clock I know of.
+Normally clocks just have a dial.
+This one, whichever direction you walk at it, you can tell the time.
+There's pumps down here that provide oil for the hour and the minute.
+A small timer microprocessor turns the pumps on and off.
+[gentle piano music] I definitely have a very childlike curiosity.
+I think everybody should.
+When I was little, I mean like four or five years old, I took clocks apart.
+I didn't put them together, which was a problem for my parents, but I did try to build stuff over the years that were interesting, solving problems.
+[Narrator] As staggering as Rick's finished clocks are, he always has something in the works that he's never done before.
+This is my prototype area where I go from creating an idea to actually building it.
+Some of these work quite well.
+Some of them are still in the refinement stage.
+I'll come up with different designs.
+This one in particular is the timber frame clock with the different size gears that are used on that.
+Here's the chimes, [chimes clang] and here's detail of the escapement that we used.
+[dramatic music] This prototype, I call Time Traveler.
+Every hour, one clock will come out.
+This clock operates off of pneumatics, and it has air cylinders that will extend it out.
+Lift up the lid.
+The timing comes off of a little microprocessor.
+This is probably about eight months' work.
+I'm gonna build another two more sections on this for the full 12 hours.
+Future project, these cans here will lift mannequin hands, bringing balls up to a new elevation, so to actually come up with the concept usually takes less than a day.
+Then it takes a couple weeks to design.
+If there's electronic parts, order those, and then it usually takes maybe eight months to a year to actually construct the clock.
+This clock uses ball bearings.
+The wonderful feature about these versus a regular gear is that you can go at different angles.
+It has a motor here, which powers the second hand, which comes through the clock.
+This'll power the minute hand here, and then it's further reduced down in speed to power up the hour hand.
+[Narrator] While clocks are Rick's main medium, his love of invention is evident throughout his space.
+This is a feather duster I made for cleaning the barn.
+I know this only cleans one foot, but I really like the unique idea of having an arm that would clean even a small portion of the barn.
+Here we are in the cat-feteria.
+This is where the cat has her feeder.
+She has a chip.
+It'll be sensed right here, and it's only her that will be able to eat the food, and it'll come down.
+It'll stay down for three minutes, and then it'll return on up.
+Well, let me show you this, my granddaughter's favorite song is She'll Be Coming [cheerful music] Around the Mountain.
+A friend said to me, I can't believe you'd spend all this time for a two year old.
+She's not two.
+She's two and a half, and she'll correct me every time.
+Now, we'll go over into the wood shop.
+[upbeat music] First thing I usually do is I will start my music. [machinery grinding] [gentle piano music] This is a wonderful space I have.
+It has high ceilings.
+It's easy to move wood around here.
+I have all the tools that I feel I need for most of my projects.
+We'll go over to the band saw here.
+It's a very nice band saw built in the late 1800s.
+The one problem I had was lighting, so I built this light that lowers down from the ceiling. [people chatting] I'm sorry.
+I built a pneumatic air cylinder that'll lower a light down to give me the light I need.
+When I'm building a clock, I will spend hours at this band saw cutting out different pieces.
+[upbeat music] Here's another prototype I made.
+It's a transformer clock.
+I love transformers, where it'll take one object, and turn it into something completely different.
+I built this as a grandfather clock that will turn into a desk, and still keep the time.
+[machinery grinding] This uses Arduino, our microprocessor, set up that the motors will work at the proper timing.
+This probably has over a thousand hours working and reworking to get it into this state.
+It's probably still six months or a year away from becoming something that would be worth putting in a house.
+The surfaces need to be all beautiful, not how they are now.
+[Narrator] Rick loves his time in his workshop, but for him, a project isn't complete when it works.
+It requires a bit more.
+I'm elated when it works, but it doesn't stop there.
+I need to have somebody else, a family member or somebody that stops by, and I like to show it to them, and say, Look at this.
+What do you think? Because I get self-gratification, but I even get more gratification seeing other people's faces light up.
+[upbeat music] The Ultimate Paper Airplane A DIY Space Suit for the 99 Percent Meet the 89-Year Old Who Built a Train in His Backyard How This Woman Rides 20,000 Miles a Year on Her Bike How This Guy Folds and Flies World Record Paper Airplanes Meet The Domino Artist Behind These Amazing Chain Reactions These Star Wars Fans Are Building a Full-Size Millennium Falcon Cockpit Melody Yang Makes Bubbles That Billow, Bend and Break Records How Joseph's Machines Builds Crazy Contraptions How Gravity Built the World's Fastest Jet Suit How a Harvard Professor Uses Toys and Origami to Transform Design How This Guy Built a Roller Coaster In His Backyard How This Guy Became a World Yo-Yo Champion How This Guy Became a World Champion Boomerang Thrower How This Artist Makes Sculptures Out of Old Typewriter Parts How to Make and Throw an Indoor Boomerang How This Pinball Collector is Saving the Game How This Woman Started Diving in DIY Subs How This Artist Makes Mirrors Out of Pompoms and Wooden Tiles How This Guy Made the World's Hottest Peppers How This Guy Became a Whistling Champion How This Guy Builds Record-Breaking Balloon Sculptures How This Guy Became a Pizza Spinning World Champion How This Artist Uses A.I. & Data to Teach Us About the World How This Artist Collapses Dimensions How This Guy Makes His Own Novelty Instruments How This Guy Builds Mesmerizing Kinetic Sculptures How This Guy Balances Impossible Rock Structures How This Guy Stacks Playing Cards Impossibly High How This Artist Makes Magnetic Fluid Sculptures How This Guy Paddles Kayaks Over Massive Waterfalls How This Guy Makes Incredible Sand Art How This Girl Takes Indoor Skydiving to the Next Level How This Woman Makes Mesmerizing Light Sculptures How This Craftsman Weaves Huge Wooden Sculptures How This Guy Replicates Diamonds How This Guy Makes Lifelike Cardboard Sculptures How This Guy Builds Amazing Lego Models How This Woman Makes Epic Gingerbread Houses How This Guy Mastered Fingerboarding How This Guy Makes Real-Life Marvel Gadgets How This Woman Mastered Jump Rope Inside the World's Greatest Dungeons & Dragons Game How This Treasure Hunter Finds Underwater Riches How This Woman Paints Hyperrealistic Nail Art How This Pro Slackliner Crosses Canyons Meet the Self-Taught Medicinal Mushroom Cultivator Meet the Guy Making Horror Movie Masks for 40 Years How this Guy Makes the World’s Smallest Handmade Sculptures How This Chalk Artist Creates Illusions on Pavement How This Guy Mastered the Slinky How This Guy Makes Puppets That Move Like Real Creatures How This Woman Creates God of War’s Sound Effects How This Guy Makes the World's Most Inventive Clocks How This Guy Became The Best Rock Skipper On The Planet How This Guy Invents Crazy Skateboards For Custom Tricks How This Trick Shot Artist Invented 10,000+ Pool Shots Why This Woman Deconstructs Antique Books To Save Them Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

@@ -1,0 +1,74 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages How to keep Alexa, Cortana, Siri, Google Assistant, and Bixby from recording you Share on Facebook Share on X Share on LinkedIn Google Home Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+At their best, voice assistants from the likes of Microsoft, Apple, Google, Samsung, and Amazon empower us to be more productive. They queue up our favorite songs, give us previews of our weekly agendas, and place phone calls to friends and loved ones. But they’re also recording the commands we utter for posterity (and in some cases human review), which predictably doesn’t sit right with everyone.
+Fortunately, most assistants can be switched off, disabled, or otherwise fettered in a few simple steps. Here’s a guide to doing just that, and to deleting any voice snippets they managed to record in the meantime.
+Amazon’s Alexa The easiest way to delete Alexa’s voice recordings is from the Alexa app for iOS and Android.
+Tap the menu icon in the top-left portion of the screen, and then select the Settings shortcut.
+Look for Alexa Account.
+ Tap Alexa Privacy — that’s where you’ll see transcribed requests you’ve asked of Alexa, along with the times at which they were recorded and the device that recorded them. (Occasionally, you’ll see entries that read “Text not available — audio was not intended for Alexa,” indicating that Alexa was invoked by mistake.) You’re able to sort them by date, play them back, or delete them.
+Above: Voice recordings captured by Alexa, as viewed from the Alexa privacy page.
+Alternatively, you can manage Alexa recordings from the web.
+VB Event The AI Impact Tour Connect with the enterprise AI community at VentureBeat’s AI Impact Tour coming to a city near you! Head to Amazon’s Alexa Privacy page. You’ll see shortcuts to settings screens that not only collate your voice history, but let you review your Smart Alert history (events like glass breaking or smoke and CO alarm sounds that Alexa detected), manage your smart home device state history, view which third-party Alexa apps (skills) have requested permission to access your data, and manage how your voice data is used to improve Alexa.
+The Review Voice History menu largely mirrors the app experience — you can sort recordings by date range, listen to them, or delete them individually or in bulk. Ditto for Review Smart Alert History — it shows events, details, and listenable snippets sorted by date.
+Selecting the Manage How Your Data Improves Alexa shortcut brings you to a toggle that, when switched off, prevents your voice recordings from being used in the development of new Alexa features. (Amazon warns that “new features may not work well” for users who choose to opt out.) Here, you’ll also see a switch that disallows Amazon from using messages sent via Alexa Messaging — Amazon’s voice and text messaging service — to improve transcription accuracy.
+Microsoft’s Cortana Microsoft’s Cortana ships on machines running Windows 10 and has an ambient listening feature that enables it to respond to commands when a microphone attached to your PC hears the phrase “Hey Cortana.” It’s relatively easy to prevent it from listening in and storing your search habits and history while keeping its keyboard-based search functionality intact.
+Click the search box in the Windows 10 taskbar and type “Cortana.” Select Cortana & Search Settings , and then click Talk to Cortana.
+ You’ll see a toggle next to Hey Cortana.
+ Click it.
+Above: Switching off Cortana features from within the Windows 10 Settings menu.
+If Cortana on your device is collecting data that you’d rather keep private, you can go a step further by disabling its info-gathering capabilities, which will prevent your machine from sending voice and telemetry data to Microsoft.
+Return to the Cortana & Search Settings menu and select the Permissions & History shortcut.
+Turn all of the toggles off and click Cortana across all my devices.
+Turn the toggles off here, as well.
+Scroll back to the top of the page and click Manage the information Cortana can access from this device.
+ Turn off every toggle.
+Now click Speech, inking, & typing privacy settings and select Turn off speech services and typing suggestions.
+Return to the Cortana settings page and click Change what Cortana knows about me in the cloud.
+Scroll to the bottom of the Your Personal Information page that appears in the Start panel and click Clear.
+Apple’s Siri Disabling Apple’s Siri requires a quick dive into the iOS or macOS settings screen, depending on which device you’re using.
+If you’re on an iPhone, iPad, or iPod Touch running iOS 11 or iOS 12 Beta, try this: Head to the Settings menu and select Siri & Search.
+Find Listen for Hey Siri and Press Home for Siri.
+ Switch both off, and tap through the confirmation messages that appear at the bottom of the screen.
+Older versions of iOS (iOS 10 and lower) require an extra step: Launch the Settings menu, then tap General and Siri.
+Toggle off Siri, which also switches off Allow “Hey Siri.” Tap Turn Off Siri when asked to confirm your choice.
+Next, you’ll want to disable voice dictation.
+Head to the Settings menu and tap General.
+Select Keyboards and toggle off Enable Dictation.
+Tap Turn Off Dictation when asked to confirm your choice.
+So what about PCs running macOS? Here’s how to switch off Siri on those devices: From the desktop, click the Apple menu in the top-right corner and select System Preferences.
+Click Siri , and uncheck the box next to Enable Ask Siri.
+ Note that this will remove the Siri icon from the menu bar.
+Disabling voice dictation in macOS is just as easy: Return to the System Preferences menu and click Keyboard.
+Select the Off radio button next to Dictation.
+Google Assistant Disabling Google Assistant’s voice recording and collection isn’t too challenging, but the steps differ on each platform.
+On an Android phone or tablet, here’s the most reliable way to prevent Assistant from listening for commands: Press and hold your phone’s virtual (or physical) home button or say “OK, Google.” Tap the icon in the lower-left corner, followed by the profile shortcut in the upper-right.
+Select Settings , tap the Assistant tab, and scroll down to Assistant devices.
+ Choose your phone from the list.
+In the Google Assistant section near the top of that screen (beneath “Adjust settings for the Assistant on this device”), tap the blue slider.
+If you’re not seeing the slider described above, you’re probably using an older Android device and should try this instead: Follow steps 1-3 above.
+Look for OK Google Detection and the Say OK Google at any time option. Tap it.
+If you’re looking to switch off the Assistant on a Wear OS smartwatch, give this a go: Tap the Settings cog from the watch face, or press your watch’s physical crown button, and scroll down to the Settings shortcut.
+Choose Personalization , and from there, select Turn OK Google Detection Off.
+The Google Assistant app accepts typed commands as well as spoken ones. To disable the latter, follow these instructions: Open the Settings menu and tap Google Assistant.
+Select Microphone and slide the toggle off.
+Above: A list of Assistant voice recordings from Google’s My Activity page.
+Regardless of the platform on which you’ve used the Assistant, all transcribed audio snippets it has collected are always a click away on the My Activity menu within the Google Account page.
+Head to My Activity and click Filter by product and date.
+Check the Assistant , and either click the search button (for an entire list of recordings) or filter by date, or search for a specific word or phrase.
+As with Amazon’s voice recording dashboard, snippets can be played back or zapped individually. To delete one, click the Details shortcut underneath the transcript, and then click the dots in the pop-up box that appears. Select Delete.
+To delete your entire Assistant history, back out to the main My Activity menu and select Delete activity by.
+ Switch to Assistant and specify the date range, keyword, or topic.
+Samsung’s Bixby Samsung’s Bixby assistant ships on a number of the company’s flagship and midrange smartphones, including the Galaxy S10 and Galaxy Note9.
+ It comprises a number of components, but it’s fairly easy to switch off Bixby Voice, its voice feature.
+First, head to Bixby Home — the left-most dashboard on your phone’s home screen — by quickly touching the physical Bixby button.
+Select the menu icon in the upper-right corner and tap Settings.
+Toggle off the slider next to Bixby Voice.
+Bixby saves up to seven days’ worth of commands (and replies). Here’s how to access them: Tap the physical Bixby button and select More Options.
+Tap My Bixby , then History.
+ You’ll see a list of utterances in chronological order, along with quick links ( Suggest another phrase ) to correct any misinterpretations.
+Tap the Delete button in the upper right corner of the screen and the radio icons next to items you’d like erased.
+This guide is not necessarily comprehensive, and some of the settings menus and options are likely to change in the future (we’ll update the relevant sections as they do). But with any luck, it’ll empower you to exercise more control over the voice data your smart speakers, phones, tablets, and PCs collect each day.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

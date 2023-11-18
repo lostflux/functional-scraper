@@ -1,0 +1,86 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages 25 iOS apps with dark themes Share on Facebook Share on X Share on LinkedIn The stock Clock app in iOS 10 features a dark theme.
+Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+If you’re like me, you look at screens all day and late into the night. Your eyes could probably use some relief. Fortunately, an increasing number of applications offer dark themes, which display text, images, and videos on top of dark backgrounds. At least for me, they’re easier on the eyes in the nighttime, and even in the daytime.
+While the iOS operating system does have an Invert Colors option (Settings > General > Accessibility > Display Accommodations) that forces apps with a light background to go dark, iOS is lacking a full-blown dark mode that keeps photos and other content looking the way it should. So app-specific dark themes are generally a good way to go at this point.
+Here’s a list of 25 apps that currently ship with dark themes. They’re all free, unless otherwise noted.
+1.
+iA Writer Above: iA Writer’s dark theme on iPhone.
+This is a simple writing app with support for Markdown formatting, Word documents, the WordPress content management system, and Dropbox sync. It costs $4.
+2.
+Word Flow Above: Word Flow for iOS.
+This was originally the default virtual keyboard that Microsoft shipped with Windows Phones. Microsoft brought it to iOS in April.
+3.
+Spotify Above: Spotify.
+You may have heard of this music streaming app. It’s easy to overlook that the default user interface, on mobile, web, and desktop, is a dark theme.
+4.
+iBooks Above: iBooks.
+Apple has offered a dark theme in its standard-issue book-reading app since 2011.
+5. Clock Above: Clock app in iOS 10.
+Apple has refreshed the look of its default Clock app for iOS 10.
+ It now uses a dark theme by default.
+6.
+Pocket Above: Pocket.
+The dark theme in this read-it-later app is so good — it’s what inspired me to put together this article in the first place. I love to read longer stories in Pocket while in bed, before going to sleep.
+7.
+Pocket Casts Above: The new look for Pocket Casts.
+A dark theme became available in this podcasting app from independent developer Shifty Jelly just a few days ago.
+8.
+Weather Underground Above: Weather Underground.
+This app is more sophisticated than the default iOS Weather app, with interactive maps, radio and video feeds, and health information.
+9.
+Instapaper Above: Instapaper.
+This read-it-later app offers a helpful text-to-speech (TTS) feature.
+10.
+Google Maps Above: Google Maps.
+When you’re driving at night or travel through a dark area, like a tunnel, the standard mode of this map app goes dark. But you can actually enable the dark theme for the entirety of your trips. When you’re in the middle of a trip, tap the three dots on the bottom right, tap “Navigation settings,” and hit the night option in the “Color scheme” section.
+11.
+Twitterrific 5 for Twitter Above: Twitterrific.
+This free third-party Twitter client from The Iconfactory has some premium advanced features, including an ad-free experience.
+12.
+Ulysses Above: Ulysses.
+This premium writing app from third-party developer The Soulmen won an Apple Design Award earlier this year. It supports Markdown and Word formatting, lets users publish drafts to Medium, and provides a Style Exchange , where users can download themes from third-party developers. It costs $25.
+13.
+Tweetbot 4 for Twitter Above: Tweetbot.
+This premium Twitter client from third-party developer Tapbots offers a Stats view so you don’t need to check Twitter Analytics so frequently. It costs $10.
+14.
+Simplenote Above: Simplenote.
+WordPress company Automattic acquired Simperium, the company that built this note taking app, in 2013, and has thankfully kept the app alive and up to date.
+15.
+Coda Above: Coda.
+Development studio Panic made a premium Coda app that includes a text editor, file transfer capability with support for Amazon S3, a terminal, and even a playground for experimenting with JavaScript code. It costs $25.
+16.
+YouTube Gaming Above: YouTube Gaming.
+Google introduced this live game streaming app last year, following the rise of Twitch and its acquisition by Amazon in 2014.
+17.
+YouTube Music Above: YouTube Music.
+Google launched the YouTube Music app last year, as a place to discover music that’s already available on YouTube. From this app you can upgrade to the YouTube Red subscription service with audio-only mode, background play, and offline support.
+18.
+Steam Mobile Above: Steam Mobile.
+With its dark blue background, the iOS app from gaming platform Steam looks a lot like the desktop version. And that’s a good thing. You can chat with friends, browse the store, and peruse your library.
+19.
+Reddit Above: Reddit.
+Online discussion board Reddit launched its official iOS app just a few months ago, after acquiring third-party Reddit client Alien Blue in 2014.
+20.
+Fantastical 2 Above: Fantastical 2.
+This app from developer Flexibits has dedicated iPhone and iPad versions, for $5 and $10, respectively. It won an Apple Design Award in 2015.
+21.
+Portfolio Above: Portfolio.
+If you’re not happy with Apple’s pre-installed Stocks app, which itself has had a dark theme since iOS 7 came out in 2013, the Portfolio app from developer Mazuma Labs is worth checking out. You can import trades from Google Finance and Yahoo Finance, and it can send you notifications for price movements, earnings, and news.
+22.
+Feedly Above: Feedly.
+This RSS reader picked up lots of usage after Google announced that it was killing Google Reader in 2013.
+ And the Feedly iOS app has had a dark theme this whole time.
+23.
+Evernote Above: Evernote.
+This note taking app has a dark theme, but it’s not available when you’re viewing or editing files, or when you’re using the Work Chat feature.
+24.
+Overcast Above: Overcast.
+This 2-year-old podcasting app offers a dark theme as a “Patron” feature. That is, you can get it if you pay $3 for three months, $6 for six months, or $12 for a year of support from the app’s maker, Marco Arment , the founder of Instapaper and a cofounder of Tumblr.
+25.
+Xbox Above: Xbox.
+This app from Microsoft lets you check updates from friends, exchange messages, browse the Xbox Store, check your achievements, and interact with content on your Xbox One.
+Enjoy! VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

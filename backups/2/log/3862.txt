@@ -1,0 +1,132 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Hacker Answers Penetration Test Questions From Twitter About Released on 09/12/2023 I'm Jayson E Street, a penetration tester, and I'm here today to answer your questions from the internet.
+This is Pen Testing Support.
+[upbeat music] First up, John Hannon.
+Hey Siri, what is penetration testing? Penetration testing is basically a company hiring a hacker or security professional to test their security by breaking in via the website or the building itself or their internal network devices, just any way they can to validate their security.
+@VolkisAU.
+What's the most underrated physical pin test tool you use a lot? I got a lot of them.
+It's hard to narrow it down to just one.
+One of the things that you want to get when you're doing a physical pin test is you wanna record as much data as you can.
+I just need my glasses that has a camera installed in it with a micro SD card to store the data.
+I have the newer version of the Microsoft employee badge, but quite frankly why mess with the good thing? No one knows what the new employee badge looks like anyway, so I'm still using this one on mostly every engagement I go to.
+I'm always carrying a cup of coffee or a clipboard because that way the camera is facing the right way when I'm recording it with my watch and I have at least one or two video recorder pins that I carry with me.
+This is actually what the video camera looks like.
+This will, if I get close enough it will copy the employee badge of an employee going through the door.
+I can clone it and then I can resend that to the gate or the door and it'll let me in thinking I'm that employee.
+This looks like a typical iPhone charger.
+That's a micro computer with wifi and Bluetooth with several different payloads installed on it that I can launch individually from my phone.
+A lot of CEOs, a lot of executives have those high-end HDMI monitors.
+That's perfect because this screen crab plugs in HDMI from the monitor into here then back to the computer through here and records it onto a micro SD card and also will wirelessly transmit it to you so you're seeing their whole desktop.
+When I'm feeling really fancy, I like to wear my cuff links because this cuff link is a USB wireless adapter, turning any desktop or any device or any server into its own wireless access point into its company's network.
+And then this one has the drivers and malware that I can read and copy over onto that drive and use it to launch the attacks with.
+Stylish and also scary.
+More Ocean Sun.
+Can you walk me through the process of a penetration test, including the different phases and types of tests that may be performed? 90% of what you're gonna be doing on a penetration test is recon.
+Reconnaissance is actually finding out all you can about the target, all the different variables, checking their websites, trying to look to see what technology they have, looking at their location, seeing if you can find blueprints online, seeing if you can see pictures from social media of what the directions of the flows or what people are doing, what their security looks like.
+Then with the scanning what you're doing is usually you're doing different kinds of scans to see what kind of port responds, which will give you a better way of trying to exploit it to see if there's vulnerabilities in it.
+Then you're going to try to see what you can compromise and what kind of privileges you can escalate or how you can pivot to other parts of the network that can give you more privilege.
+And then you do the exploitation phase where you're actually running the code and trying to download the data and then you exfiltrate, try to get all that data out, try to show that it can be successfully taken away from the client.
+Then the worst part of the penetration test report is the reporting because the report writing is the boringest and the most important part of the whole engagement.
+@Bellaputtanaa.
+Can someone teach me how to rob a bank for my phone? Yes, and no, I'm not going to.
+@DudeWhoCode, What's a hacker attire? Everybody thinks it wants to be a hoodie.
+I am way more scarier when I'm dressed up in my suit.
+The whole stereotypes are what's gonna get you in trouble because when they're not dressed like that stereotype, you're more likely to trust that person or that attacker.
+Acornback.
+What documentation should you carry on site for a physical pen test? A get outta jail free card.
+And a get outta jail free card is going to be the letter of engagement that the client gives you.
+So when someone catches you, you show it to them and it says, Hey, they're supposed to be here, call me if you've got problems.
+I create a forged one that says, Yes, I'm supposed to be here and do these things.
+You're supposed to help me and not report it and here's some phone numbers of the people to call, but those numbers actually goes to my teammates who will then impersonate the voice of the person that gave me the authorization.
+I can show you a video of when I was conducting a physical pin test on a bank.
+Here you can see me going in and compromising the first machine within 15 seconds.
+Awesome.
+Then you see the manager.
+I'm just here to do the USB audit, so I need to look at your computer real quick, okay? Actually escorting me into the data server to lead me unattended into their vault.
+Appreciate your help.
+Thank you very much.
+Y'all take care.
+I gave them no documentation, no validation.
+All it took was a forged Microsoft employee badge to get me all this access.
+How the did that just happen? Saraf 10 million.
+If you don't say I'm in, are you really a hacker? No, and you've gotta say it properly.
+I'm in.
+@Toothnclawttv.
+What do you think is on this USB drive that I found on my gate? I always assume kitty pictures, but I'll never know because I never plug in devices that I find.
+This isn't an episode of Mr. Robot.
+I'm not gonna go plug in stuff that I find lying around, but you should be worried about this.
+'Cause yes, that is a valid tactic.
+I will leave USB drives in company bathrooms, in lobby bathrooms and more importantly when I'm on an engagement, I have a stack of blank envelopes.
+When I see someone that's not at their desk or in their office, but I see their nameplate, I write their name on the empty envelope, I put a malicious USB drive in it, I leave it on their desk, 99.9% success rate because who's not going to open up a sealed envelope in the secured area that they're in and not plug that into their computer? @HydeNS33k.
+My fellow physical pin testers, what are some of your go-to resources for doing OSINT to gather info about security measures your targets have in place? Which do you think are underrated? I'll start.
+Instagram is an absolute goldmine.
+OSINT means open source intelligence, trying to gather information on companies using open information like social media like Google.
+I am not gonna argue with that.
+I totally agree.
+I love Instagram.
+If you wanna know why security professionals drink, go to Instagram and type in a search hashtag new badge or hashtag new job.
+It's depressing.
+You have employees showing their employee badges.
+Sometimes in secure locations they're taking pictures that they shouldn't take.
+But I will tell you this one that's underrated.
+Going to LinkedIn, looking at the employees in the IT and security department and what you see is everybody's listing their skills.
+They are telling you what they were hired for, so that means that's what the company is working with and there's no alerts that's gonna go off on the company that you're doing it.
+@5m477M, Good recon skill is the most important key to being a good penetration tester.
+Agreed.
+What are the tools you use for recon? Main tool that I use to be honest, Google.
+Google is one of the best hacking tools ever invented.
+As soon as you list the company in the Google search it's gonna tell you who the CEO is, what their subsidiaries are, what are their similar companies.
+They give you all their social media profiles nicely listed, shows you the geographical location of their main headquarters building.
+Also what might show you how many employees they have, gives you the direct link to their website, and then when you start adding different keywords like problem with your target or target vulnerabilities or target harassment, which is called Google Dorking, you get way more information than probably the company even wants you to have about them.
+And then going to LinkedIn and finding their employees, finding their job postings, which list the different technologies that they have.
+Employers will actually post nice events that they've had with their employees and the employees are wearing their company badges so you can copy that.
+I robbed a telecom company in another country once and by rob I mean assimilating what an actual criminal will do.
+The CEO of the company had went to a conference three months before and I went to that conference page, found a speaker that was in the same business as him, and then I assumed that guy's identity and I sent an email to the CEO saying, Hey, like we discussed three months ago at this conference, we would like you to be on the board of directors for our new initiative that we're having.
+Here's the link to our website.
+Within 12 hours, the CEO clicked the link.
+He was the one who hired me to do the spear phishing attack and he still got caught.
+@Gossi 84.
+A fiery debate in cybersecurity is red team versus blue team, which is better? For those who don't know, red team usually means the offensive security, the people testing the security, the penetration testers.
+Blue team is the defensive team working for the company to protect their company and their assets.
+As a person who does a lot of red teaming I will tell you this, the red team only exists to make the blue team better.
+So the blue team is the ones doing the hard work.
+They're the ones trying to build the defenses to keep criminals out.
+Red teams are there just to help them do their job better.
+From Be Healthy by Natu.
+How do I know if my home wifi is being hacked? Very simple.
+You go to the web interface for your router and then there's going to be a field where it says devices connected.
+If it's got a name that you've never seen before or too many devices, you know something's up.
+@Zeff_x2.
+Do you get hacked just by clicking the link somebody sent? Yes! Not only that, but there have been certain vulnerabilities in office products where just having the reading pane open would attack your machine.
+Just receiving an SMS message or iMessage on an Apple phone would compromise your machine.
+So yes, it is just that simple.
+@Joshsavage.
+Web it legal question.
+Is it legal to try and hack a website as part of penetration testing without the owner knowing? No.
+The main difference between criminal activity and hacking is permission.
+If you may been hired by the client to do certain things, in that scope of work, it has to say that the website owner or the hosting has given permission to also test that asset.
+@MikeMac29, What do hackers actually do with your data? They bundle it up and they sell it in bulk.
+Your data's not worth that much by itself and what they can do with that information is not just open up lines of credit, they can try to go get passports, they can try to get identities, they can try to create and assume your identity, and then sell these to criminals.
+@RZ_Cyber.
+Phishing attacks.
+Why is email still such an easy target for hackers? My hot take, because companies are too busy investing in technology instead of investing in their employees.
+If they invested more time and money in educating their employees on what kind of attacks are going on and how they're part of the security team from day one, you would have a lot less successful phishing attacks.
+Phishing attacks are becoming more and more prevalent.
+82% of attacks are started with the phishing email.
+Over $30 billion has been lost because of these kind of phishing attacks.
+@Classicbraone.
+What do movies frequently get wrong about hacking? Because of the very essence of what hacking is, it's boring.
+When you talk about straight up computer network hacking, it's bunch of command prompts and it's just looking at a screen as it does letters and executing commands and then downloading a file.
+That's not exciting.
+The reason why Hackers, which was a great movie, War Games, which was a great movie, they visualized how the breaches were happening.
+They visualized how the hacks were going because no one wants just to see a bunch of lines and a bunch of code screaming around on a screen.
+Krbilyeu.
+What does a firewall do? You've ever been to a club that's been very exclusive and they're like, Nah, you can't come in.
+That's a firewall.
+A firewall inspects packets going into the network and it dictates.
+It's based on a certain set of rules that have set by the client to allow packets in or not and only in certain use cases.
+That was all the questions.
+I'm hoping you learn something and until next time.
+Gordon Ramsay Answers Cooking Questions From Twitter Ken Jeong Answers Medical Questions From Twitter Bill Nye Answers Science Questions From Twitter Blizzard's Jeff Kaplan Answers Overwatch Questions From Twitter Nick Offerman Answers Woodworking Questions From Twitter Bungie's Luke Smith Answers Destiny Questions From Twitter Jackie Chan & Olivia Munn Answer Martial Arts Questions From Twitter Scott Kelly Answers Astronaut Questions From Twitter LaVar Ball Answers Basketball Questions From Twitter Dillon Francis Answers DJ Questions From Twitter Tony Hawk Answers Skateboarding Questions From Twitter Jerry Rice Answers Football Questions From Twitter Garry Kasparov Answers Chess Questions From Twitter U.S. Olympic and Paralympic Athletes Answer Olympics Questions From Twitter Neuroscientist Anil Seth Answers Neuroscience Questions From Twitter Blizzard's Ben Brode Answers Hearthstone Questions From Twitter John Cena Answers Wrestling Questions From Twitter The Slow Mo Guys Answer Slow Motion Questions From Twitter Bill Nye Answers Even More Science Questions From Twitter James Cameron Answers Sci-Fi Questions From Twitter Best of Tech Support: Bill Nye, Neil DeGrasse Tyson and More Answer Science Questions from Twitter Riot Games' Greg Street Answers League of Legends Questions from Twitter Riot Games' Greg Street Answers Even More League of Legends Questions from Twitter PlayerUnknown Answers PUBG Questions From Twitter Liza Koshy, Markiplier, Rhett & Link, and Hannah Hart Answer YouTube Creator Questions From Twitter NCT 127 Answer K-Pop Questions From Twitter Neil deGrasse Tyson Answers Science Questions From Twitter Ken Jeong Answers More Medical Questions From Twitter Bon Appétit's Brad & Claire Answer Cooking Questions From Twitter Bang Bang Answers Tattoo Questions From Twitter Ed Boon Answers Mortal Kombat 11 Questions From Twitter Nick Jonas and Kelly Clarkson Answer Singing Questions from Twitter Penn Jillette Answers Magic Questions From Twitter The Russo Brothers Answer Avengers: Endgame Questions From Twitter Alex Honnold Answers Climbing Questions From Twitter Sloane Stephens Answers Tennis Questions From Twitter Bill Nye Answers Science Questions From Twitter - Part 3 Astronaut Nicole Stott Answers Space Questions From Twitter Mark Cuban Answers Mogul Questions From Twitter Ubisoft's Alexander Karpazis Answers Rainbow Six Siege Questions From Twitter Marathon Champion Answers Running Questions From Twitter Ninja Answers Fortnite Questions From Twitter Cybersecurity Expert Answers Hacking Questions From Twitter Bon Appétit's Brad & Chris Answer Thanksgiving Questions From Twitter SuperM Answers K-Pop Questions From Twitter The Best of Tech Support: Ken Jeong, Bill Nye, Nicole Stott and More Twitter's Jack Dorsey Answers Twitter Questions From Twitter Jodie Whittaker Answers Doctor Who Questions From Twitter Astronomer Jill Tarter Answers Alien Questions From Twitter Tattoo Artist Bang Bang Answers More Tattoo Questions From Twitter Respawn Answers Apex Legends Questions From Twitter Michael Strahan Answers Super Bowl Questions From Twitter Dr. Martin Blaser Answers Coronavirus Questions From Twitter Scott Adkins Answers Martial Arts Training Questions From Twitter Psychiatrist Daniel Amen Answers Brain Questions From Twitter The Hamilton Cast Answers Hamilton Questions From Twitter Travis & Lyn-Z Pastrana Answer Stunt Questions From Twitter Mayim Bialik Answers Neuroscience Questions From Twitter Zach King Answers TikTok Questions From Twitter Riot Games Answers League of Legends Questions from Twitter Aaron Sorkin Answers Screenwriting Questions From Twitter Survivorman Les Stroud Answers Survival Questions From Twitter Joe Manganiello Answers Dungeons & Dragons Questions From Twitter "Star Wars Explained" Answers Star Wars Questions From Twitter Wizards of the Coast Answer Magic: The Gathering Questions From Twitter "Star Wars Explained" Answers More Star Wars Questions From Twitter VFX Artist Answers Movie & TV VFX Questions From Twitter CrossFit Coach Answers CrossFit Questions From Twitter Yo-Yo Ma Answers Cello Questions From Twitter Mortician Answers Cadaver Questions From Twitter Babish Answers Cooking Questions From Twitter Jacob Collier Answers Music Theory Questions From Twitter The Lord of the Rings Expert Answers More Tolkien Questions From Twitter Wolfgang Puck Answers Restaurant Questions From Twitter Fast & Furious Car Expert Answers Car Questions From Twitter Former FBI Agent Answers Body Language Questions From Twitter Olympian Dominique Dawes Answers Gymnastics Questions From Twitter Allyson Felix Answers Track Questions From Twitter Dr. Michio Kaku Answers Physics Questions From Twitter Former NASA Astronaut Answers Space Questions From Twitter Surgeon Answers Surgery Questions From Twitter Beekeeper Answers Bee Questions From Twitter Michael Pollan Answers Psychedelics Questions From Twitter Ultramarathoner Answers Questions From Twitter Bug Expert Answers Insect Questions From Twitter Former Cult Member Answers Cult Questions From Twitter Mortician Answers MORE Dead Body Questions From Twitter Toxicologist Answers Poison Questions From Twitter Brewmaster Answers Beer Questions From Twitter Biologist Answers Biology Questions From Twitter James Dyson Answers Design Questions From Twitter Dermatologist Answers Skin Questions From Twitter Dwyane Wade Answers Basketball Questions From Twitter Baker Answers Baking Questions from Twitter Astrophysicist Answers Questions From Twitter Age Expert Answers Aging Questions From Twitter Fertility Expert Answers Questions From Twitter Biological Anthropologist Answers Love Questions From Twitter Mathematician Answers Math Questions From Twitter Statistician Answers Stats Questions From Twitter Sleep Expert Answers Questions From Twitter Botanist Answers Plant Questions From Twitter Ornithologist Answers Bird Questions From Twitter Alex Honnold Answers MORE Rock Climbing Questions From Twitter Former FBI Agent Answers MORE Body Language Questions From Twitter Waste Expert Answers Garbage Questions From Twitter Garbage Boss Answers Trash Questions From Twitter J. Kenji López-Alt Answers Cooking Questions From Twitter Veterinarian Answers Pet Questions From Twitter Doctor Answers Gut Questions From Twitter Chemist Answers Chemistry Questions From Twitter Taste Expert Answers Questions From Twitter Paleontologist Answers Dinosaur Questions From Twitter Biologist Answers More Biology Questions From Twitter Biologist Answers Even More Biology Questions From Twitter ER Doctor Answers Injury Questions From Twitter Toxicologist Answers More Poison Questions From Twitter Energy Expert Answers Energy Questions From Twitter BBQ Pitmaster Answers BBQ Questions From Twitter Neil Gaiman Answers Mythology Questions From Twitter Sushi Chef Answers Sushi Questions From Twitter The Lord of the Rings Expert Answers Tolkien Questions From Twitter Audiologist Answers Hearing Questions From Twitter Marine Biologist Answers Shark Questions From Twitter Bill Nye Answers Science Questions From Twitter - Part 4 John McEnroe Answers Tennis Questions From Twitter Malcolm Gladwell Answers Research Questions From Twitter Financial Advisor Answers Money Questions From Twitter Stanford Computer Scientist Answers Coding Questions From Twitter Wildlife Vet Answers Wild Animal Questions From Twitter Climate Scientist Answers Earth Questions From Twitter Medical Doctor Answers Hormone Questions From Twitter James Hoffmann Answers Coffee Questions From Twitter Video Game Director Answers Questions From Twitter Robotics Professor Answers Robot Questions From Twitter Scam Fighters Answer Scam Questions From Twitter Forensics Expert Answers Crime Scene Questions From Twitter Chess Pro Answers Questions From Twitter Former FBI Agent Answers Body Language Questions From Twitter...Once Again Memory Champion Answers Questions From Twitter Neuroscientist Answers Illusion Questions From Twitter Immunologist Answers Immune System Questions From Twitter Rocket Scientists Answer Questions From Twitter How Vinyl Records Are Made (with Third Man Records) Neurosurgeon Answers Brain Surgery Questions From Twitter Therapist Answers Relationship Questions From Twitter Polyphia's Tim Henson Answers Guitar Questions From Twitter Structural Engineer Answers City Questions From Twitter Harvard Professor Answers Happiness Questions From Twitter A.I. Expert Answers A.I. Questions From Twitter Pizza Chef Answers Pizza Questions From Twitter Former CIA Chief of Disguise Answers Spy Questions From Twitter Astrophysicist Answers Space Questions From Twitter Cannabis Scientist Answers Questions From Twitter Sommelier Answers Wine Questions From Twitter Mycologist Answers Mushroom Questions From Twitter Genndy Tartakovsky Answers Animation Questions From Twitter Pro Card Counter Answers Casino Questions From Twitter Doctor Answers Lung Questions From Twitter Paul Hollywood & Prue Leith Answer Baking Questions From Twitter Geneticist Answers Genetics Questions From Twitter Sneaker Expert Jeff Staple Answers Sneaker Questions From Twitter 'The Points Guy' Brian Kelly Answers Travel Questions From Twitter Master Chef Answers Indian Food & Curry Questions From Twitter Archaeologist Answers Archaeology Questions From Twitter LegalEagle's Devin Stone Answers Law Questions From Twitter Todd McFarlane Answers Comics Questions From Twitter Reptile Expert Answers Reptile Questions From Twitter Mortician Answers Burial Questions From Twitter Eye Doctor Answers Eye Questions From Twitter Computer Scientist Answers Computer Questions From Twitter Neurologist Answers Nerve Questions From Twitter Hacker Answers Penetration Test Questions From Twitter Nutritionist Answers Nutrition Questions From Twitter Experts Predict the Future of Technology, AI & Humanity Doctor Answers Blood Questions From Twitter Sports Statistician Answers Sports Math Questions From Twitter Shark Tank's Mark Cuban Answers Business Questions From Twitter Marvel’s Spider-Man 2 Director Answers Video Game Questions From Twitter Criminologist Answers True Crime Questions From Twitter Physicist Answers Physics Questions From Twitter | Tech Support Chess Pro Answers More Questions From Twitter Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

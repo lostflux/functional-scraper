@@ -1,0 +1,22 @@
+Understanding Zero-Shot Learning — Making ML More Human | by Ekin Tiu | Towards Data Science
+2021
+https://towardsdatascience.com/understanding-zero-shot-learning-making-ml-more-human-4653ac35ccab
+
+Sign up Sign In Write Sign up Sign In Member-only story Understanding Zero-Shot Learning — Making ML More Human An intuitive overview of how a model can recognize what it hasn’t seen.
+Ekin Tiu · Follow Published in Towards Data Science · 10 min read · Jun 23, 2021 -- 3 Share Introduction — What is Zero-Shot Learning? Zero-shot learning allows a model to recognize what it hasn’t seen before.
+Imagine you’re tasked with designing the latest and greatest machine learning model that can classify all animals.
+Yes, all animals.
+Using your machine learning knowledge, you immediately understand that we need a labeled dataset with at least one example for every single animal. There’s 1,899,587 described species in the world, so you’re gonna need a dataset with roughly 2 million different classes.
+Yikes.
+As you’ve probably noticed by now, getting large quantities of high quality labeled data is hard. Very hard.
+It doesn’t help when there are a gazillion different classes (i.e. animal species) that your model has to learn.
+So how do we solve this problem? One way is to decrease our models’ reliance on labeled data.
+ This is the motivation behind zero-shot learning, in which your model learns how to classify classes that it hasn’t seen before.
+In the animal species classification example, your model may be able to predict that the image on the bottom right corner is a “Panda”, even though it didn’t explicitly see a labeled example of a “Panda” during training.
+Crazy huh?! In the next section, we’ll learn how this seemingly magical method works through some examples of models that employ a zero-shot setup.
+How does Zero-Shot Learning Work? Although there are multiple approaches to zero-shot learning in literature, this article focuses on a recent method called Contrastive Language-Image Pretraining (CLIP) proposed by OpenAI that has performed well in a zero-shot setting [2].
+-- -- 3 Follow Written by Ekin Tiu 1.3K Followers · Writer for Towards Data Science CS @ Stanford University | Stanford ML Group Follow More from Ekin Tiu and Towards Data Science Ekin Tiu in Towards Data Science Understanding Latent Space in Machine Learning Learn a fundamental, yet often ‘hidden,’ concept of deep learning · 9 min read · Feb 4, 2020 -- 31 Adrian H. Raudaschl in Towards Data Science Forget RAG, the Future is RAG-Fusion The Next Frontier of Search: Retrieval Augmented Generation meets Reciprocal Rank Fusion and Generated Queries · 10 min read · Oct 6 -- 24 Damian Gil in Towards Data Science Mastering Customer Segmentation with LLM Unlock advanced customer segmentation techniques using LLMs, and improve your clustering models with advanced techniques 24 min read · Sep 26 -- 26 Ekin Tiu in Towards Data Science Understanding Contrastive Learning Learn how to learn without labels.
+· 8 min read · Jan 7, 2021 -- 7 Recommended from Medium Marco Peixeiro in Towards Data Science TimeGPT: The First Foundation Model for Time Series Forecasting Explore the first generative pre-trained forecasting model and apply it in a project with Python · 12 min read · Oct 24 -- 14 AL Anany The ChatGPT Hype Is Over — Now Watch How Google Will Kill ChatGPT.
+It never happens instantly. The business game is longer than you know.
+· 6 min read · Sep 1 -- 512 Lists Predictive Modeling w/ Python · Natural Language Processing · AI Regulation · Practical Guides to Machine Learning · Maximilian Vogel in MLearning.ai The ChatGPT list of lists: A collection of 3000+ prompts, examples, use-cases, tools, APIs… Updated Oct-18, 2023. New developer resources, marketing & SEO prompts, new prompt engineering courses, masterclasses and tutorials.
+11 min read · Feb 7 -- 125 Ming-Hao Hsu Multimodal Machine Learning Defining Multimodality and Understanding its Heterogeneity 7 min read · Jun 18 -- Cobus Greyling A New Prompt Engineering Technique Has Been Introduced Called Step-Back Prompting Step-Back Prompting is a prompting technique enabling LLMs to perform abstractions, derive high-level concepts & first principles from… 5 min read · Oct 12 -- 10 Chaitanya Dua Error Log Management Using AI A Beginner’s Guide 4 min read · Jun 24 -- Help Status About Careers Blog Privacy Terms Text to speech Teams

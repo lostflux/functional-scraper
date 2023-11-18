@@ -1,0 +1,26 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Review Pebble 2 review: I really wanted to like it, but I don’t.
+Share on Facebook Share on X Share on LinkedIn Wait! Not actually my typical Sunday! — Up close with Pebble's new smartwatch, the Pebble 2.
+Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+I tested the new Pebble 2 and I do not bring good news.
+I want to root for Pebble and its quirky watches. I’ve spent lots of time with them — I wore Pebble’s Time Round for nearly a year and I tested the Pebble 2 for weeks. But the Pebble 2 isn’t a great smartwatch, and it isn’t a good fitness tracker. It’s a geeky watch with just a little charm.
+As smartwatches get smarter and Fitbit dominates activity tracking, Pebble feels lost, somewhere between the two categories. It feels left behind. I can’t recommend it anymore.
+Smarts At $130, Pebble 2 does some things you’d expect a smartwatch to do: It displays calendar alerts and push notifications, it can change songs and answer calls on your phone, and there’s an app store.
+But Pebble’s smartwatch features pretty much end there. The Pebble 2 can’t actually take calls or play songs. It’s mostly a remote control for your phone.
+And Pebble’s app store feels neglected. Few third-party Pebble apps meaningfully expand the functionality of the watch. The standout apps are Uber, Swarm, and Runkeeper, and that’s about it. I don’t see a vibrant developer community here.
+This was fine in 2013, when Pebble shipped its first watch. And it was fine last year, when Apple’s Watch didn’t even have GPS. But while smartwatches grow more capable and independent, Pebble’s simplicity and small developer community feel like liabilities.
+Fitness The Pebble 2 tracks steps, sleep, and exercise, and it checks your heart rate. But it doesn’t do enough with the data it collects.
+The best way to view your activity over time is to check the health widgets inside Pebble’s mobile app. But Pebble’s system only lets you compare your activity to averages of past days, weeks, and months. This concept isn’t useful early on (when the app says your typical step counts are zero) and it’s not very useful later (are you supposed to just level up your average activity forever without any additional context?).
+This is where Pebble makes Fitbit look good. Fitbit’s fitness software is simple (move 10,000 steps), but it’s also precise. With Fitbit’s app, you can see your progress in detail. Inside Pebble’s app, there isn’t enough context to understand your progress.
+Even Pebble’s motivational push notifications aren’t very useful. Often, they just retroactively congratulate you for moving. I found Fitbit’s reminders far more helpful.
+Pebble may improve its health and fitness software over time. But for now, it feels like an afterthought.
+Overall Pebble watches still have some charm to them. The Pebble 2 is reminiscent of vintage calculator watches and Nike’s Volt aesthetic.
+ The retro vibe is nice, but it’s not for everyone.
+After almost a month, I didn’t receive a single compliment on the Pebble 2, but when I pressed friends for feedback on the design, I heard a few complaints. Later, one of them warmed up to it.
+If you like the Pebble 2’s design, if you want something geeky to play with, or if you’re a die-hard fan who now hates my guts, go ahead and buy one. It works fine as a watch and its battery lasts for days.
+Otherwise, I can’t recommend it for most people — even at $130. If you want a smartwatch, just save up for something with more features, like an Apple Watch. And if you want a fitness tracker, you’re better off with a Fitbit.
+I’m sorry. Honest. I’m not happy about this, either.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

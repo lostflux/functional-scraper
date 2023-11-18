@@ -1,0 +1,44 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons How Brett the Robot is Learning by Failing About Released on 09/21/2017 [Male Narrator] Pity not Brett the robot.
+While it may look like a bit of a buffoon trying to get the block in the hole, it's actually doing something fascinating.
+It's teaching itself to master a child's game like a child would, with trial and error.
+Emphasis on the error.
+Brett is a new breed of robot, no mere hunk of metal that humans programmed to follow strict commands.
+And that's a big deal, 'cause if humans expect robots to ever be truly useful, we'll have to let the machines find their own way.
+(computer music) Robots have a problem, they're good at working in structured environments like factories, but terrible at navigating an unpredictable world.
+It used to be that you had to tediously program a robot to handle different objects.
+But that's changing with robots like Brett here at UC Berkeley, because Brett can teach itself skills from scratch using artificial intelligence.
+A child could be able to learn this, but for the robot it's actually quite difficult because it has to learn really fine dexterity in order to be able to actually get the block into the correct hole.
+And it has to be able to learn precision so that it can do this over and over again really reliability.
+And so learning these kind of skills is just really useful for a lot of different manipulation tasks.
+[Male Narrator] When Brett starts out, it doesn't actually know how its arm works.
+At the beginning, it just kind of flails.
+But every so often it flails closer to the hole it's supposed to put the peg in.
+Brett's AI tallies this as a victory.
+So attempt after attempt, the robot gets closer to its goal.
+This is called reinforcement learning.
+The robot is essentially failing its way toward victory.
+In this way, Brett can teach itself a new task.
+No one told it how to put the peg in the hole, just that it needed to somehow do so.
+You've probably heard about AI using reinforcement learning to teach itself to do things in a virtual space.
+Like here, through trial and error, this creepy thing taught itself to walk and eventually run.
+That's right, it invented running.
+That's relatively easy, since in the virtual world you can try and fail rapidly over and over and over.
+And if you think about something like reinforcement learning, where you learn from trial and error, the challenge is that often you need a lot of trial and error before you get somewhere.
+And so, if you run it all on the real robot, it's not always that easy to do.
+[Male Narrator] So physical robots can learn, but a machine like Brett learns nowhere near as quickly as a human.
+Sure, a programmer could keep tweaking the algorithms to make this process more efficient.
+But what if you could let the computer itself change its own algorithm? So it says, hey I'm gonna make a tweak to my algorithm, see what happens now.
+If you can automate that process of tweaking your algorithm, you can run it in parallel over many many machines, you could hope that maybe as a consequence you end up with a better algorithm than ones that humans can design.
+And now you might have a reinforcement learning algorithm that can have a robot learning to walk in a few hours rather than two weeks.
+Maybe even faster.
+[Male Narrator] This is known as learning to learn.
+And robots will need it to make sense of new environments.
+When a robot is deployed in the real world, you can't just deploy it with a fixed set of skills.
+It need to acquire the ability to continue to learn once it's deployed.
+And without that ability it's just not going to be able to function in realistic environments so it needs to also have acquired the ability to learn as it lives.
+[Male Narrator] So one day, Brett's descendants may well learn as quickly as we humans do.
+And this will all look like child's play.
+The Robot Will See You Now – AI and Health Care The Clever Robot That Uses Air to Grow and Steer Watch the Little Robot That Taught the Big Robot Something New What’s a Robot in 2014? Rodney Brooks and Andrew McAfee Debate Pug vs. Giant Robot How to Test And Launch your Giant Robot Mech (6/7) Chimp, the Vaguely Humanoid Robot Fear Not the Robot Singularity Brett Ratner's Hercules & Pillaging Story Lines for Big-Budget CGI Films Huggable Robot Befriends Girl in Hospital Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

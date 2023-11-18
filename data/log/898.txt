@@ -1,0 +1,97 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons President Barack Obama on What AI Means for National Security About Credits Released on 10/12/2016 Some really positive outcomes, but there are certainly some risks.
+Certainly we've heard from some folks like Elon and Mick Bustrom concerned about A.I.'s potential to outpace our ability to understand it.
+What about those concerns and how do we think about that moving forward to protect not only ourselves, but humanity at scale? So let me start with what I think is the more immediate concern, that's a solvable problem, but we have to be mindful of it.
+That is this category of specialized A.I.
+If you've got a computer that can play Go, it's a pretty complicated game with a lot of variations.
+Developing an algorithm that simply says maximize profits on the New York stock exchange, is probably within sight.
+If one person, or one organization, got there first, they could bring down the stock market pretty quickly.
+Or at least they could raise questions about the integrity of the financial markets.
+An algorithm that said go figure out how to penetrate the nuclear code in the country and figure out how to launch some missiles.
+If that's their only job, it's very narrow.
+It doesn't require a super intelligence, it just requires a really effective algorithm.
+If it's self teaching, then you've got problems.
+So part of, I think, my directive to my national security team is don't worry as much yet, about machines taking over the world.
+Do worry about the capacity of either non-state actors or hostile actors, to penetrate systems.
+In that sense it's not conceptually different, or different in a legal sense than a lot of they cyber security work that we're doing.
+It just means that we're gonna have to be better because those who might deploy these systems are going to get a lot better.
+Now, I think as a precaution, and all of us have spoken to folks like Elon Musk who are concerned about the super intelligent machine.
+There's some prudence in thinking about benchmarks that would indicate some general intelligence developing on the horizon.
+If we can see that coming over the course of three decades, five decades, you know whatever the late assessments are, if ever, because there also are arguments that this thing is a lot more complicated than people make it out to be.
+Then future generations, or our kids or our grandkids are gonna be able to see it coming and figure it out.
+But I do worry right now about specialized A.I.
+I was on the West Coast and some kid who looked like he was 25 shows me a laptop.
+Or not a laptop, an iPad, and he says, This is the future of radiology.
+And he's got an algorithm that is teaching enough sufficient pattern recognition that over time, it's gonna be a better identifier of disease than a radiologist would be.
+If that's already happening today on an iPad, you know invented by some kid at MIT, then the vulnerability of a lot of our systems is gonna be coming around pretty quick.
+We're gonna have to have some preparation for that.
+But Joey may have worse nightmares.
+I generally agree.
+The only caveat is, I would say, there are a few people who believe generally A.I. will happen at some fairly high percentage chance in the next 10 years.
+And these are people who are smart.
+So I do think that keeping aware.
+But the way I look at it is there's maybe a dozen or two different breakthroughs that need to happen for each of the pieces.
+So you can kind of monitor it.
+You don't know exactly when they're going to happen because they're by definitions breakthroughs and I think it's when you think these breakthroughs will happen.
+And you just have somebody close to the power cord.
+(all laughing) So right when you see it about to end, you gotta yank that white piece out of the wall, man.
+I'm completely with the President, that short term, it's gonna be bad people using A.I.'s for bad things and they'll be an extension of us.
+Then there's this other meta thing which happens which is a group of people.
+So if you look at all of the hate on the internet.
+One person doesn't control that.
+[President Obama] Right.
+But it's a thing.
+It points at things, it's definitely feeling some political activity right now.
+It's kind of got a life of it's own.
+It's not even code, it's a culture.
+And you see that also in the Middle East, right? [President Obama] Which is why it's so hard to prevent.
+Yeah, because it actually gets stronger the more you attack it.
+To me, what's curious and interesting is going to be the relationship between an A.I., say a service that runs like that, and then you throw in bitcoin, which is the ability to move money around by a machine.
+[Interviewer] Anonymously.
+Anonymously, so to me, it will be this weird, and again, this is where I think it could be embedded, but if you gave this sort of mob, more tools.
+'Cause they are actually fairly coordinated in their own peculiar way.
+On the good side is, you can imagine, I was talking to some politicians like Michael Johnson in Colorado, he's trying to figure out how can we harness these things to inform and engage citizens.
+So to me, the problem is if you suppress it because of fear, the bad guys will still use it.
+What's important is to get people who want to use it for good, communities and leaders, and figure out how to get them to use it so that's where we start to lean.
+Yeah, this may not be a precise analogy.
+Traditionally when we think about security and protecting ourselves, we think in terms of we need armor, or walls, from swords, blunt instruments, et cetera.
+Increasingly, I find myself looking to medicine and thinking about viruses, antibodies, right? You know how do you create healthy systems, that can ward off destructive elements? In a distributed way.
+In a distributed way and that requires more imagination and we're not there yet.
+It's part of the reason why cyber security continues to be so hard.
+Is because the threat is not a bunch of tanks rolling at you, but a whole bunch of systems that may be vulnerable to a worm getting in there.
+It means that we've gotta think differently about our security.
+Make different investments that may not be as sexy, but actually may end up being as important as anything.
+Part of the reason I think about this is because I also think that what I spend a lot of time worrying about are things like pandemic.
+You can't build walls in order to prevent the next airborne lethal flu from landing on our shores.
+Instead what we have to do is be able to set up systems to create public health systems in all parts of the world, quick triggers that tell us when we see something emerging.
+Make sure we've got quick protocols, systems, that allow us to make vaccines a lot smarter.
+So if you take that model, a public health model, when you think about how we can deal with the problems of cyber security, a lot of that may end up being really helpful in thinking about the A.I. threats.
+And just one thing that I think is interesting, is when we start to think about microbio, and microbes everywhere, there's a lot of evidence to show that introducing good bacteria to fight against the bad bacteria is a strategy and not to sterilize.
+Well I still don't let Sonny and Bo lick me.
+(all chuckling) 'Cause when I walk them on the South Lawn, some of the things I see them do, ya know, and chewing on I'm all like, hey man.
+Stay away.
+I think research has shown that actually opening windows in hospitals instead of just sterilizing the air may actually limit.
+So we have to rethink what clean means.
+It's similar whether you're talking about cyber security or national security, I think the notion that you can make straight borders or that you can eliminate every possible pathogen is difficult.
+I think in that sense, in your position, to be able to see medicine and cyber and A.I., I think that's an important thing.
+Absolutely.
+So there are distributed threats, but is there also the risk that this creates a new kind of arms race? Look, I think there's no doubt that developing international norms, rules, protocols, verification mechanisms around cyber security generally, and A.I. in particular, is in it's infancy.
+Part of the reason for that is, as Joey identified, we've got a lot of non-state actors who are the biggest players.
+Part of the problem is that identifying who is doing what is much more difficult.
+If you're building a bunch of ICBM's, we see 'em.
+If somebody's sitting at a keyboard, we don't.
+So, we've begun this conversation.
+A lot of the conversation right now is not at the level of dealing with real sophisticated A.I., but has more to do with essentially states establishing norms about how they use their cyber capabilities.
+Part of what makes this an interesting problem is that the line between offense and defense is pretty blurred.
+The truth of the matter is, and part of the reason why, for example, the debate here about cyber security.
+Who are you more afraid of, big brother and the state? Or the guy who's trying to empty out your bank account? Part of the reason that's so difficult, is that if we're going to police this wild west, whether it's the internet or A.I. or any of these other areas, then by definition, the government's gotta have capabilities.
+If it's got capabilities, then they're subject to abuse.
+At a time when there's been a lot of mistrust built up, about government, that makes it difficult.
+When you have countries around the world who see America as the preeminent cyber power, now's the time for us to say, we're willing to restrain ourselves, if you are willing to restrain yourselves.
+The challenge is the most sophisticated state actors, Russia, China, Iran, don't always embody the same norms or values that we do.
+But we're gonna have to surface this as an international issue in order for us to be effective.
+'Cause effectively it's a borderless problem, and ultimately, all states are gonna have to worry about this.
+It is very shortsighted if there's a state that thinks that it can develop super capacities in this area without some 25 year old kid in a basement somewhere figuring that out pretty quickly.
+Starring: President Barack Obama, Editor in Chief Scott Dadich, MIT Media Lab Director Joi Ito President Barack Obama Guest-Edits WIRED's November Issue President Barack Obama on the Future of AI President Barack Obama on the True Meaning of Star Trek President Barack Obama on How Artificial Intelligence Will Affect Jobs President Barack Obama on What AI Means for National Security President Barack Obama on Fixing Government With Technology President Barack Obama on How We'll Embrace Self-Driving Cars President Barack Obama on Bureaucracy VS. Moonshots Huggable Robot Befriends Girl in Hospital How Tech Companies Avoid Taxes Explained with Magic Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

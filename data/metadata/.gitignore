@@ -1,0 +1,9 @@
+*.csv
+.DS_Store
+.total
+all
+dictionary
+*.txt
+trash
+*.py
+# urls

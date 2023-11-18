@@ -1,0 +1,16 @@
+Reports and Analysis - Deep Learning Indaba
+2017
+https://deeplearningindaba.com/about/resources/white-papers-reports
+
+Home Mentorship Mentees Mentors Code of Ethics and Conduct Awards Blog About Our Mission Support Us Indaba Abantu Reports and Analysis Past Editions 2017 2018 2019 2020 Home Mentorship Mentees Mentors Code of Ethics and Conduct Awards Blog About Our Mission Support Us Indaba Abantu Reports and Analysis Past Editions 2017 2018 2019 2020 Reports and Analysis July 2019 Outcomes of 2019 Kambule and Maathai Awards Accompanying blog post.
+Full report (pdf).
+We are proud to announce the winners of the three Indaba Awards: the Kambule Doctoral Award, Kambule Masters Award, and Maathai Impact Award. These awards recognise and celebrate African excellence in machine learning and artificial intelligence. We also release our report summarising the outcomes of this programme and share its key recommendations.
+March 2019 Together We Build African AI: Outcomes of the 2nd Annual Deep Learning Indaba Accompanying blog post.
+Full report (pdf).
+The Deep Learning Indaba is an organisation whose mission is to Strengthen African Machine Learning. This mission is currently executed using three principal programmes, which aim to build communities, create leadership, and recognise excellence in research and innovation across our continent.
+The 2nd Deep Learning Indaba hosted Africa’s brightest talent from 35 countries across our continent, and showed that a strong community of researchers and innovators already exists within our continent. We are proud of how strong this community has grown, and the breadth of work that has been done. This report reviews the key outcomes of the 2018 Indaba and our vision for how it will evolve into the future.
+August 2018 Recognising African Excellence in Machine Learning: The Inaugural Kambule and Maathai Awards 2018 Accompanying blog post.
+Full report (pdf).
+The Kambule and Maathai awards represent the third independent programme we run as the Indaba Organisation, and form a key part of our mission to Strengthen African Machine Learning and Artificial Intelligence. We see our three principal programmes, the Deep Learning Indaba, the IndabaX, and the Kambule and Maathai awards as forming part of an integrated system. The Deep Learning Indaba strengthens African AI communities, the IndabaX creates African leadership in AI, and the annual awards, the programme that is the subject of this report, create spaces of recognition and aspiration, allowing new stories of African AI innovation to be told. This interacting and reinforcing trinity, of community and leadership and recognition, represents the concrete instantiation of our mission.
+​ These two awards are intended to recognise ability, struggle, effort, and African excellence. The outcomes and key recommendations for enhancing this programme are described in this report.
+Contact us Deep Learning Indaba Strengthening African Machine Learning info@deeplearningindaba.com Awards Mentorship Blog About Copyright © Deep Learning Indaba 2017 - 2023. All Rights Reserved.

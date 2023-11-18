@@ -1,0 +1,150 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Todd Howard Breaks Down His Video Game Career About Released on 11/15/2023 I am Todd Howard here at Bethesda Game Studios.
+You might know me from games like Skyrim, the Fallout series, and now Starfield, and I'm here to talk to Wired about some of the games that we've made.
+[lively music] What people don't know about this game, it's one of the first full 3D shooters [gun clicking] [gun booming] where you look at controls today with mouse look controls and using WSAD.
+This is the first PC game to ever do it.
+[dramatic music] I had just started at Bethesda, this is in the mid-'90s.
+Team sizes were small, we're talking like 10 people, 12 people tops.
+Everybody had to do a lot of different things.
+So I did a bit of programming, I was producing, I did level design, I became the sound effects guy.
+[bomb exploding] What's fun with this is the old manual that came with the game and there's a sketch in the back.
+There's a lot of cool artwork here and one of our concept artists did a sketch of the core team here, positioned as if we were the resistance in The Terminator world.
+And there's me in the back and I remember David Plunkett here, the artist who drew it, just said, Todd, I gave you the biggest gun.
+[gun booming] Whenever you're on a team, even if it's four people or 400 people, learning how to use everybody's skills and work together is, you know, what gets you the best game.
+So you know, a couple of these games, starting with Terminator is the beginnings for me at Bethesda.
+And there's a couple of different phases and chapters in terms of the games we made, the platforms that we're on and how everybody worked together.
+[screen whirring] Daggerfall is a game where so much of it is a giant procedural world where we're relying on the computer to generate all of the content and put the individual things that we had built kind of in smart places around the world.
+Think about 3D today.
+That work is being done by GPUs.
+Here, it's all done on the CPU.
+How we built the world is we have a height map where you get a bunch of vertices at a certain period and then you're building a height map for the landscape and then instancing, building 3D objects that get replicated over and over on that height map.
+And believe it or not, it's how we build games today.
+It also pushes for us as we do role-playing games, what kind of character that you're gonna create.
+So Daggerfall's character system really is this jump up in terms of defining yourself.
+What are the advantages of your character? What are the disadvantages of your character and brings in for the first time The Elder Scrolls skill system that so many people know now from games like Skyrim.
+And this game had a lot of success, really brought The Elder Scrolls to a new audience.
+[screen whirring] Redguard is the first game that I was the main project leader on.
+Didn't do that well.
+It's the last kind of DOS-based PC game that we made.
+It might be one of the last DOS games.
+It's right when 3D acceleration starts coming out, really didn't hit a technology window or a gameplay style.
+I mean, it's listed as an adventure game, but it's a true genre mashup.
+It has some adventure game elements, it has action game elements, it has some role-playing elements.
+I guess you could say at that time we started making a lot of games instead of focusing and none of them turned out really, really great and the company was in a really difficult position financially.
+And I did feel responsible and I kind of stepped back from it and said, It's a really good game.
+Where did it not resonate? What's the takeaway? And it was just too conservative.
+We made a very, very small game.
+I think it's well crafted, but we weren't as ambitious as we could have been and not what our audience we'd had at the time from Daggerfall and Arena really wanted from us when it came to The Elder Scrolls.
+The company's struggling.
+We probably have one more shot if we're gonna stay in business, so let's go all in.
+[screen whooshing] The company was kind of sold to ZeniMax Media, a new company, and reformed around that.
+The decision came down, we're gonna have one team, it's gonna be under Todd and we're gonna do Morrowind.
+We aimed very high.
+We were very, very ambitious to bring back The Elder Scrolls with a core team that we had had but taking the learnings from a game like Redguard where we are hand building a world, but now we're doing it on a larger scale compared to the games people know today.
+It's actually still very, very small, but it's very, very detailed.
+And the other big thing that comes with Morrowind, we finally took it to console.
+So if we go back to the year 2000, Microsoft is thinking about creating the Xbox and technically, it was great for us, right? It's a very PC-styled console, it has a hard drive.
+So many things that we would be looking for in a console.
+And the big question was how do we, you know, translate the controls and all of those things? Fortunately, we are all here today because this game was a huge success.
+I was stunned.
+Obviously, it did well on the PC, but on Xbox, at the time, it became the second bestselling game behind Halo.
+[screen whooshing] Instead of coming out with a quick sequel to Morrowind, why don't we take four years and really go ambitious again for the next console with hardware that doesn't exist.
+Team size now is getting up to around 60, 70 people and this is a game where the core group from Morrowind was still here.
+We could build on that and be ambitious.
+We changed the technology hugely again, getting into pixel shaders, having to guess on hardware.
+So whenever you're doing technology on your own with of masses of amounts of content and art and design and then you have a moving hardware target, it's the most difficult game development or any type of exercise that you could do as it comes to tech.
+There was a moment we were making the game with Xbox where that console didn't have as much memory as we wanted.
+And when they finally called us and told us that they were doubling the memory on the console they were shipping, we threw a party here.
+And I have never seen programmers look so happy in my entire life.
+This was a game that, for many reasons, it vaulted us to an audience we had never expected to see on the PC, and the Xbox, it comes out later on PlayStation and it really starts this other era of games for us, the 360 era.
+[screen whirring] We were asked what else does the team wanna do? What do you wanna do, Todd? It'd be good to have more than one franchise or one game every four to five years.
+At the top of our list was Fallout.
+It was a series that we had loved that had come out a while ago and we were able to get the license.
+This game comes out, I believe about two and a half years only after Oblivion.
+It uses a very similar technology base that we have built.
+It's our second game on the Xbox 360.
+One of the things that happens with games is knowing your tools, knowing the level of technology and getting your whole team used to working with that pays big dividends.
+It was also really special because we're picking up a franchise that we hadn't worked in before.
+It's very new for us, it's very exciting, but how is it gonna resonate when we translate basically somebody else's work the way we would do it or the style of game that we enjoyed best? And this game was even more popular than Oblivion.
+Some of that audience came with us and it also found an all-new audience because yes, there's post-apocalyptic things in movies and literature and games obviously, but really, there's nothing like Fallout.
+It's the world before the bombs fall.
+[bomb exploding] This world where the view of the nuclear future is this utopia that then gets destroyed.
+And it also has my favorite beginning of a game.
+This idea that when you leave the vault, you would spend your whole life there and how do you make the player feel that way? So us jumping through this montage of these periods of your life, I think it's on your first birthday in the game when you're a baby and you're able to walk around, you press the button and the baby says, Dada.
+[Baby] Dad.
+That's actually my son on his first birthday that I recorded saying that back to me.
+So very special game for me.
+And that sits right with Oblivion.
+[screen whirring] Well, I think the one we're best known for is Skyrim.
+Now the team has grown, now we're about 100 people and you're looking at a team that grew from Morrowind to Oblivion to Fallout 3 and then to Skyrim.
+We were really firing on all cylinders in Skyrim and it shows.
+We also started pushing the modding community.
+Modding is when you modify a game, you take it, you change something.
+People wanna create their own adventures or artwork or anything.
+Our games allow it. We're huge fans of it.
+It's kind of how I started back on the Apple 2 changing other games.
+It's still a complicated role-playing game, but the number of people who had never played a game like ours or some people, not even any video game, they came to Skyrim.
+[text whirring] So that right there is kind of that 360 era for us with our role playing games where they find an audience that we never ever expected to find a level of popularity and us here learning how to make these games.
+The team's about 110 or so after Skyrim and we set our sights on the next Fallout.
+[screen whirring] Skyrim is the first creation engine game where we had redone a lot of the technology that then feeds into Fallout 4.
+New scripting system, how we're handling all of the NPCs and the AI, the era of Xbox One where the technology level jumps up again.
+And we had a very, very dynamic world with this game.
+If you look back in Morrowind, we have NPCs that feel believable for that era, but they're pretty much standing around, they're signposts.
+As we go into Oblivion, we push that.
+The NPCs could wander around.
+They had day-night schedules, they went to bed.
+You could poison them by stealing all the food and then just putting poison apples around.
+They would decide to eat that.
+Fallout 4, it does feel like a good action game in your hands, but it has those RPG systems.
+Everything can be used for crafting or used in some respect.
+So everything you pick up has these base components.
+Build your own settlements, modify your guns, modify your power armor.
+Minute to minute, I think Fallout 4 was a huge success for us for just how a game feels in your hands.
+So we have Fallout 4 and then really an offshoot of Fallout 4 that is multiplayer.
+[screen whirring] Every game we do, everyone asks us to do multiplayer.
+We usually decide obviously not to.
+With Fallout 4, we had gotten inspired by these online survival games a lot of us were playing.
+We said, Well, if we ever did multiplayer for Fallout, that's how we would do it.
+You know, borrows a lot of systems from Fallout 4.
+It's the first game really where we do that, where you can see things from the previous game almost directly in it.
+It's a brand new type of game.
+and I think as people know, we struggled and despite its issues, we had a lot of successes.
+We built our own online platform from scratch.
+Sold really well.
+We had a core audience playing the game despite its problems, who were telling us, We love this, please fix it.
+We joined with our community and having that communication about what would make the game better, how do we go about it? And us here learning how to get in a cadence and continue to update a game, put our heads down, do the hard work.
+And today, five years later, it is one of our most played games, now a very big success for us, both in terms of what it's doing for players, but also, it made us much, much better developers going through, you know, a difficult process.
+[screen whirring] This is an all-new experience, the most ambitious game that we've made and the scale of it dwarfs everything that we had done so far.
+For a long time, we wanted to do a space game, something that I've wanted to do for a long time and something new outside of Fallout and Elder Scrolls, an IP that hasn't existed.
+So we did our first new IP in almost 30 years.
+Started development right after Fallout 4.
+We knew we were gonna redo the bulk of our technology.
+It borrows so much of what we've done in previous games from the procedural generation in games like Daggerfall.
+We redid the base engine. That's the whole game loop.
+When people talk engine, they're talking about what is the inner core loop of the game and how all parts talk, not just the renderer? Most people see engine, they think graphics renderer, that's just one part.
+So we redid the graphics renderer, we had a whole bunch of new AI, new animation system.
+We have a different system just for crowds.
+New system for visual effects, and so much of it was new.
+This project obviously took us a while and a number of things also happened during this time.
+We're jumping up in hardware into the series X and S on Xbox.
+The pandemic happens.
+Obviously affected everybody in the world and we became fully part of Xbox, as part of them now with this game.
+You know, each of them on their own create a challenge.
+All of those things together made this one a challenge, but one that was really, really thrilling for all of us here.
+And if you see the original pitch of Starfield, go back 10 years ago, the tone, the way the game feels really, really sticks to it.
+Hmm, look what I made here. [Todd chuckling] After Redguard, the company changes and now we're part of ZeniMax.
+We almost had to like reset ourselves and who we were coming into Morrowind.
+And then we build off that.
+These share a very similar technology base in the same way these share a technology base and now this does.
+If we meet again, there'll be an Elder Scrolls 6 here and you're talking to me, but there's 450 people here and we still have people that work on 76 and a team there and doing updates for these games.
+We have about 250 on Starfield.
+These only exist because of all of those people and us working together.
+That's why the games are so big.
+That's why there's so many moving parts and so many interesting things that people will find is that comes from everybody here and all of them putting something special of themselves into it.
+You know, seeing it visually, even though they're obviously digital, the boxes make it tangible.
+These are these things, they have kind of their own personalities.
+And I'm going back and picturing the faces of the people here that I've made them with.
+There've been so many people that have been on the journey with us here and can't wait to continue it together.
+[lively music] This Heart is Not Human 13 Levels of Drumming: Easy to Complex Mathematician Breaks Down the Best Ways to Win the Lottery How This Guy Invents Crazy Skateboards For Custom Tricks NCT 127 Answer the Web's Most Searched Questions Stray Kids Answer the Web's Most Searched Questions Mrwhosetheboss Answers the Web's Most Searched Questions How This Guy Makes the World's Most Inventive Clocks LaurDIY Answers the Web's Most Searched Questions Forensics Expert Answers Crime Scene Questions From Twitter Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

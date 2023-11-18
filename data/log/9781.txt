@@ -1,0 +1,25 @@
+Toggle Navigation News Events TNW Conference 2024 June 20 & 21, 2024 TNW Vision: 2024 All events Spaces Programs Newsletters Partner with us Jobs Contact News news news news Latest Deep tech Sustainability Ecosystems Data and security Fintech and ecommerce Future of work More Startups and technology Investors and funding Government and policy Corporates and innovation Gadgets & apps Early bird Business passes are 90% SOLD OUT 🎟️ Buy now before they are gone → Data and security Deepfake fraud attempts are up 3000% in 2023 — here’s why Fraudsters are capitalising on the rise of GenAI Deepfake fraud attempts have increased by a whopping 31 times in 2023 — a 3,000% increase year-on-year.
+That’s according to a new report by Onfido, an ID verification unicorn based in London. The company attributes the surge to the growing availability of cheap and simple online tools and generative AI.
+Face-swapping apps are the most common example. The most basic versions crudely paste one face on top of another to create a “cheapfake.” M ore sophisticated systems use AI to morph and blend a source face onto a target, but these require greater resources and skills.
+The simple software, meanwhile, is easy to run and cheap or even free. An array of forgeries can then be simultaneously used in multiple attacks.
+Get your ticket NOW for TNW Conference - Super Earlybird is 90% sold out! Unleash innovation, connect with thousands of tech lovers and shape the future on June 20-21, 2024.
+These cheapfakes aim to penetrate facial verification systems, conduct fraudulent transactions, or access sensitive business information.
+They may be crude, but only one needs to succeed.
+By emphasising quantity over quality, the fraudsters target the maximum reward from the minimum effort.
+Research suggests that this is their preferred approach.
+Onfido found that “easy” or less sophisticated fraud accounts for 80.3% of all attacks in 2023 — 7.4% higher than last year.
+Despite the rise of deepfake fraud, Onfido insists that biometric verification is an effective deterrent.
+As evidence, the company points to its latest research. The report found that biometrics received three times fewer fraudulent attempts than documents.
+The criminals, however, are becoming more creative at attacking these defences.
+As GenAI tools become more common, malicious actors are increasingly producing fake documents, spoofing biometric defences, and hijacking camera signals.
+“Fraudsters are pioneers, always seeking opportunities and continually evolving their tactics,” Vincent Guillevic, the head of Onfido’s fraud lab, told TNW.
+To stop them, Onfido recommends “liveness” biometric verification tech. These systems verify the user by determining that they’re genuinely present at that moment — rather than a deepfake, photo, recording, or a masked person.
+At present, fraudsters typically attempt to spoof liveness checks with a very basic method: submitting a video of a video displayed on a screen. This approach currently accounts for over 80% of attacks.
+In the future, however, tech will offer far more sophisticated options.
+“The developments we’re likely to see with deepfakes and quantum computing will make fakes indistinguishable to the human eye,” Guillevic said.
+In response, Guillevic expects businesses to apply more automated solutions. He also sees a crucial role for non-visual fraud signals, such as device intelligence, geolocation, and repeat fraud signals that work in the background.
+Undoubtedly, the fraudsters will develop counterattacks. Both sides will have to upgrade their weapons on the AI versus AI battleground.
+Story by Thomas Macaulay Senior reporter Thomas is a senior reporter at TNW. He covers European tech, with a focus on deeptech, startups, and government policy.
+Thomas is a senior reporter at TNW. He covers European tech, with a focus on deeptech, startups, and government policy.
+Get the TNW newsletter Get the most important tech news in your inbox each week.
+Also tagged with tech Quantum AI Story by Thomas Macaulay Popular articles 1 Musk mulls removing X, formerly Twitter, from EU to dodge disinformation laws 2 TikTok complies with EU demands against Israel-Hamas disinformation 3 German anti-racism agency quits X amid Israel-Hamas disinformation wave 4 EU online piracy on the rise as consumers feel the pinch 5 Ukraine’s fight against disinformation is creating a new startup sector Related Articles deep tech A prisoner’s dilemma shows AI’s path to human cooperation deep tech From AI to fusion power: The next 10 startups in Intel’s European deep tech accelerator Join TNW All Access Watch videos of our inspiring talks for free → deep tech UK won’t regulate AI anytime soon, minister says deep tech How the UK is looking to lead the world in generative AI for lawtech The heart of tech More TNW Media Events Programs Spaces Newsletters Jobs in tech About TNW Partner with us Jobs Terms & Conditions Cookie Statement Privacy Statement Editorial Policy Masthead Copyright © 2006—2023, The Next Web B.V. Made with <3 in Amsterdam.

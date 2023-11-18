@@ -1,0 +1,53 @@
+Toggle Navigation News Events TNW Conference 2024 June 20 & 21, 2024 TNW Vision: 2024 All events Spaces Programs Newsletters Partner with us Jobs Contact News news news news Latest Deep tech Sustainability Ecosystems Data and security Fintech and ecommerce Future of work More Startups and technology Investors and funding Government and policy Corporates and innovation Gadgets & apps Early bird Business passes are 90% SOLD OUT 🎟️ Buy now before they are gone → This article was published on October 12, 2023 Deep tech New technique makes AI hallucinations wake up and face reality Iris.ai says the method can cut down AI hallucinations to single-figure percentages Image by: cottonbro studio Chatbots have an alarming propensity to generate false information, but present it as accurate. This phenomenon, known as AI hallucinations, has various adverse effects. At best, it restricts the benefits of artificial intelligence. At worst, it causes real-world harm to people.
+As generative AI enters the mainstream, the alarm bells are ringing louder. In response, a team of European researchers has been vigorously experimenting with remedies.
+Last week, the team unveiled a promising solution. They say it can reduce AI hallucinations to single-figure percentages.
+The system is the brainchild of Iris.ai , an Oslo-based startup.
+ Founded in 2015, the company has built an AI engine for understanding scientific text. The software scours vast quantities of research data, which it then analyses, categorises, and summarises.
+Customers include the Finnish Food Authority.
+ The government agency used the system to accelerate research on a potential avian flu crisis.
+According to Iris.ai, the platform saves 75% of a researcher’s time.
+The <3 of EU tech The latest rumblings from the EU tech scene, a story from our wise ol' founder Boris, and some questionable AI art. It's free, every week, in your inbox. Sign up now! What doesn’t save their time is AI hallucinating.
+“The key is returning responses that match what a human expert would say.
+Today’s large language models (LLMs) are notorious for spitting out nonsensical and false information.
+Endless examples of these outputs have emerged in recent months.
+Sometimes the inaccuracies cause reputational damage. At the launch demo of Microsoft Bing AI, for instance, the system produced an error-strewn analysis of Gap’s earnings report.
+At other times, the erroneous outputs can be more harmful. ChatGPT can spout dangerous medical recommendations.
+Security analysts fear the chatbot’s hallucinations could even drive malicious code packages towards software developers.
+“Unfortunately, LLMs are so good in phrasing that it is hard to distinguish hallucinations from factually valid generated text,” Iris.ai CTO Victor Botev tells TNW.
+“If this issue is not overcome, users of models will have to dedicate more resources to validating outputs rather than generating them.” AI hallucinations are also hampering AI’s value in research.
+In an Iris.ai survey of 500 corporate R&D workers, only 22% of respondents said they trust systems like ChatGPT. Nonetheless, 84% of them still use ChatGPT as their primary AI tool to support research. Eek.
+These problematic practices spurred Iris.ai’s work on AI hallucinations.
+Fact-checking AI Iris.ai uses several methods to measure the accuracy of AI outputs.
+The most crucial technique is validating factual correctness.
+“We map out the key knowledge concepts we expect to see in a correct answer,” Botev says. “Then we check if the AI’s answer contains those facts and whether they come from reliable sources.” A secondary technique compares the AI-generated response to a verified “ground truth.” Using a proprietary metric dubbed WISDM , the software scores the AI output’s semantic similarity to the ground truth. This covers checks on the topics, structure, and key information.
+Another method examines the coherence of the answer. To do this, Iris.ai ensures the output incorporates relevant subjects, data, and sources for the question at hand — rather than unrelated inputs.
+The combination of techniques creates a benchmark for factual accuracy.
+“The key for us is not just returning any response, but returning responses that closely match what a human expert would say,” Botev says.
+Under the covers, the Iris.ai system harnesses knowledge graphs, which show relationships between data.
+The knowledge graphs assess and demonstrate the steps a language model takes to reach its outputs. Essentially, they generate a chain of thoughts that the model should follow.
+The approach simplifies the verification process.
+By asking a model’s chat function to split requests into smaller parts and then displaying the right steps, problems can be identified and resolved.
+The structure could even prompt a model to identify and correct its own mistakes. As a result, a coherent and factually correct answer could be automatically produced.
+“We need to break down AI’s decision-making.
+Iris.ai has now integrated the tech into a new Chat feature, which has been added to the company’s Researcher Workspace platform. In preliminary tests, the feature reduced AI hallucinations to single-figure percentages.
+The problem, however, has not been entirely solved. While the approach appears effective for researchers on the Iris.ai platform, the method will be difficult to scale for popular LLMs.
+ According to Botev, the c hallenges don’t stem from the tech, but from the users.
+When someone does a Bing AI search, for instance, they may have little knowledge of the subject they’re investigating. Consequently, they can misinterpret the results they receive.
+“People self-misdiagnose illnesses all the time by searching their symptoms online,” Botev says. “We need to be able to break down AI’s decision-making process in a clear, explainable way.” The future of AI hallucinations The main cause of AI hallucinations is training data issues.
+Microsoft recently unveiled a novel solution to the problem. The company’s new Phi-1.5 model is pre-trained on “textbook quality” data, which is both synthetically generated and filtered from web sources.
+I n theory, this technique will mitigate AI hallucinations.
+If the training data is well structured and promotes reasoning, there should be less scope for a model to hallucinate.
+Another method involves removing bias from the data.
+To do this, Botev suggests training a model on coding language.
+At present, many popular LLMs are trained on a diverse range of data, from novels and newspaper articles to legal documents and social media posts. Inevitably, these sources contain human biases.
+In coding language, there is a far greater emphasis on reason. This leaves less room for interpretation, which can guide LLMs to factually accurate answers. On the other hand, it could give coders a potentially terrifying power.
+“It’s a matter of trust.
+Despite its limitations, the Iris.ai method is a step in the right direction. By using the knowledge graph structure, transparency and explainability can be added to AI.
+“A wider understanding of the model’s processes, as well as additional outside expertise with black box models, means the root causes of hallucinations across fields can be sooner identified and addressed,” says Botev.
+The CTO is also optimistic about external progress in the field.
+He points to the collaborations with LLM-makers to build larger datasets, infer knowledge graphs from texts, and prepare self-assessment metrics. In the future, this should yield further reductions in AI hallucinations.
+For Botev, the work serves a crucial purpose.
+“It is to a large extent a matter of trust,” he says. “How can users capitalise on the benefits of AI if they don’t trust the model they’re using to give accurate responses?” Story by Thomas Macaulay Senior reporter Thomas is a senior reporter at TNW. He covers European tech, with a focus on deeptech, startups, and government policy.
+Thomas is a senior reporter at TNW. He covers European tech, with a focus on deeptech, startups, and government policy.
+Get the TNW newsletter Get the most important tech news in your inbox each week.
+Also tagged with Microsoft AI startups Story by Thomas Macaulay Popular articles 1 New erotic roleplaying chatbots promise to indulge your sexual fantasies 2 UK plan to lead in generative AI ‘unrealistic,’ say Cambridge researchers 3 New AI tool could make future vaccines ‘variant-proof,’ researchers say 4 3D-printed stem cells could help treat brain injuries 5 Photoshop’s new AI feature quadruples the amount of pixels in your photos — WOW! Related Articles deep tech UK won’t regulate AI anytime soon, minister says deep tech AI is transforming the English dictionary Join TNW All Access Watch videos of our inspiring talks for free → deep tech Your pets can now eat meat that’s ‘grown’ in a lab deep tech This smart ring claims to be the lightest ever — and the first with haptic navigation The heart of tech More TNW Media Events Programs Spaces Newsletters Jobs in tech About TNW Partner with us Jobs Terms & Conditions Cookie Statement Privacy Statement Editorial Policy Masthead Copyright © 2006—2023, The Next Web B.V. Made with <3 in Amsterdam.

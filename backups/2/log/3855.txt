@@ -1,0 +1,98 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Pro Interpreters vs. AI Challenge: Who Translates Faster and Better? About Released on 06/19/2023 [Narrator] Artificial intelligence has been threatening everyone's jobs, including interpreters.
+Inaccurate interpretation can be the difference between a good or bad nuclear deal.
+So Wired tested a speech translator called KUDO versus human interpreters to see which better transmits all of the necessary elements for people to understand what they're hearing, including emotion, intonation, completeness, spontaneity and speed.
+[KUDO] Liars jobs.
+[Narrator] To test out if AI is really better than a human.
+Let's begin.
+Test one.
+Here we go.
+[Narrator] We gave Barry and KUDO a 2020 speech from King Felipe of Spain.
+The speech is about the COVID crisis.
+The subjects will focus on emotion.
+Because of the pandemic.
+I parachuted into this not knowing anything about the speech, when it was given.
+In this speech, what matters more is the emotion and the ability to connect with the audience because he's speaking to the citizens of Spain at a very difficult time when many have suffered loss, are going through a number of challenges.
+This reminds us of very deep feelings.
+At this time, many of you are fighting against the illness and what it has done in your homes.
+And the words are just the vehicle to get that across.
+[Narrator] Now let's evaluate the speech translator.
+[KUDO] Good evening, I address you on this Christmas Eve when we are living truly exceptional circumstances due to the pandemic.
+In terms of content and completeness, the AI did very well.
+[KUDO] The virus has broken into our lives, bringing suffering, sadness or fear, altered our way of life.
+It struggled with word choice in a number of areas.
+It referred to an overflow in some hospitals.
+[KUDO] And also overflow in some of our hospitals.
+Now, what that was referring to is at that time when hospitals were overwhelmed, when the king was recognizing the healthcare workers for the work that they had done and he recognized the tremendous physical and emotional burden that they were carrying and the AI translated that as the great emotional charge and physics on their backs.
+If you know Spanish, you can go back and figure out how it is that the AI determined to use those words.
+But obviously, that is borderline nonsensical.
+If you look at what the speech-to-speech translation produced, it was by and large, quite accurate.
+However, it's very difficult to get the sense of what the king is seeking to portray through the AI in its current state.
+[Narrator] Test two, spontaneity.
+We gave Walter and KUDO a 2021 speech from former senator and now current Colombian president, Gustavo Petro.
+The most powerful and nonproductive sectors of this country, 20 billion pesos a year.
+So I took the hour beforehand to look him up, look at some of his videos.
+Just listen to the level of language he employs.
+Listen to his rhythms.
+Listen to, you know, watch his body language.
+[Narrator] Now let's see how the speech translator did.
+[KUDO] You are, Mr. President-in-Office.
+[Gustavo speaking in Spanish] [KUDO] In the year of 2019, this Congress decided to give to the most powerful and unproductive sectors of the country, 20 billion pesos a year.
+The particular strength of artificial intelligence was in capturing those terms of art.
+Artificial intelligence captured president-in-office or sitting president, [Walter speaking in Spanish] minister of finance, [Walter speaking in Spanish] special drawing rights.
+That's a consecrated term.
+It's a term that's enshrined that you can find in any number of glossaries.
+That's the official translation, and I missed that.
+Official caucuses as well that the artificial translation rendered that very clearly and it pulls those in and did so very well.
+That's what I felt it was most effective at.
+And where I felt it had the most shortcomings was because of the pauses.
+[KUDO] When El Pais has a stagnant economy and an impoverished middle class what this tax reform brings.
+[Gustavo speaking in Spanish] [KUDO] It is to increase taxes on the productive company, small and medium fundamentally.
+[Gustavo speaking in Spanish] [KUDO] An absolute contradiction and absurdity.
+The artificial intelligence creates these little islands, these little bubbles that read like complete thoughts but are not because there's a flow.
+There's a flow that's coming after the pause.
+And thanks to an absolutely aggressive social policy, making a gift to the bankers.
+[KUDO] And thanks to an absolutely aggressive social policy, how to issue money to give to bankers.
+So the pauses in this particular speech seem to throw the artificial intelligence off.
+You have the vocal inflection.
+Increasing taxes on those who govern Colombia.
+That you know allows you to understand there's something else coming.
+I'm not finished yet.
+Unproductive capital, those who don't work but prey on the state, on the people and on nature.
+Thank you, sir.
+[Narrator] Test three.
+We gave Barry and KUDO a 2021 speech from El Salvadorian President Nayib Bukele.
+The speech is highly crafted, prepared and read from a teleprompter at a high rate of speed.
+We are going to make use of BANDESAL.
+I will tell you that it was a very challenging experience for me as a professional interpreter to interpret that speech accurately and completely.
+What you have to do is process that information and extract the ideas to be able to give your listener something that's usable for them to be able to follow from that huge amount or that torrent of words that's coming at you.
+[Narrator] Now let's evaluate the speech translator.
+Salvadoran people, good morning.
+As you all know, the world has suffered an increase in prices.
+When I was able to go back and listen to the AI interpretation, what I noticed throughout the entire speech is that it did not miss any of the content.
+[KUDO] The cost of these goods increases to match the supply of new dollars, new euros, new yen, and therefore, that affects world prices.
+[Nayib speaking in Spanish] [KUDO] That is why we are experiencing a global inflation that hits the pockets of everything, of all the people in the world.
+And El Salvador is no exception.
+I was taken aback by the artificial intelligence's ability to get all of the content and hold onto it.
+So in terms of completeness, it was very good and better than what I was able to do at that rate of speed.
+However, it often had mistakes and challenges with making the syntax, the word choice, and sometimes the grammar in English, and sometimes it would choose words that weren't really the most accurate way, the way a native English speaker would say something.
+It talked about new currency issues.
+[KUDO] This inflation generated by the incorporation of new currency issues, usually dollars, euros, yen.
+Which was really ambiguous because it was talking about new infusions of cash or currency into the monetary system.
+And people could confuse issues with problems and think, okay, what's the problem with these new currencies? What is happening is that the process that the professional interpreter has been doing for as long as professional interpreters have been working is to process that information and then serve it up to the listener already processed to know this is what's being talked about.
+So rather than saying new currency issues, I would've said infusions or injections of more cash into the monetary system.
+[Narrator] So for a profession that started with the Nuremberg trials and continues to be used for important meetings and negotiations today, when is it appropriate to use an AI solution? I would say in informal situations, situations where there is not a high level of consequence for mistakes.
+I would not trust this in courtrooms.
+I would not trust this in the legal system.
+If there is a decision that has to be made, a medical interaction, asylum cases.
+I don't know that I would trust it for situations that require metaphorical language, that don't catch the figurative meaning.
+Do I want to have a high-level diplomat or a president of my country speaking to another president through AI to make important decisions about the future of literally millions of lives? No. We need to look at it.
+We need to examine it.
+We need to find out how we can use this constructively and how we can use it carefully to aid us and not be afraid of it, because that's no use if we're not flexible.
+We're eminently in a world where we need to be flexible and we need to be open to new ideas and new ways of doing things.
+It is not a replacement, and you have to understand that.
+And if we're able to understand the power of the tool, we can respect the tool and use it to everyone's benefit.
+How the Disco Clam Uses Light to Fight Super-Strong Predators Architect Explains How Homes Could be 3D Printed on Mars and Earth Scientist Explains How Rare Genetics Allow Some to Sleep Only 4 Hours a Night Scientist Explains Unsinkable Metal That Could Prevent Disasters at Sea Is Invisibility Possible? An Inventor and a Physicist Explain Scientist Explains Why Her Lab Taught Rats to Drive Tiny Cars Mycologist Explains How a Slime Mold Can Solve Mazes How the Two-Hour Marathon Limit Was Broken Research Suggests Cats Like Their Owners as Much as Dogs Researcher Explains Deepfake Videos Scientist Explains How to Study the Metabolism of Ultra High Flying Geese Hurricane Hunter Explains How They Track and Predict Hurricanes Scientist Explains Viral Fish Cannon Video A Biohacker Explains Why He Turned His Leg Into a Hotspot Scientist Explains What Water Pooling in Kilauea's Volcanic Crater Means Bill Nye Explains the Science Behind Solar Sailing Vision Scientist Explains Why These Praying Mantises Are Wearing 3D Glasses Why Some Cities Are Banning Facial Recognition Technology Scientist's Map Explains Climate Change Scientist Explains How Moon Mining Would Work Scientist Explains How She Captured Rare Footage of a Giant Squid Doctor Explains How Sunscreen Affects Your Body Stranger Things is Getting a New Mall! But Today Malls Are Dying. What Happened? The Limits of Human Endurance Might Be Our Guts Meet the First College Students to Launch a Rocket Into Space Scientist Explains Why Dogs Can Smell Better Than Robots A Harvard Professor Explains What the Avengers Can Teach Us About Philosophy NASA Twin Study: How Space Changes Our Bodies What the Black Hole Picture Means for Researchers Scientist Explains How to Levitate Objects With Sound Why Scientists and Artists Want The Blackest Substances on Earth Biologist Explains How Drones Catching Whale "Snot" Helps Research Researcher Explains Why Humans Can't Spot Real-Life Deepfake Masks Doctor Explains What You Need to Know About The Coronavirus VFX Artist Breaks Down This Year's Best Visual Effects Nominees How Doctors on Earth Treated a Blood Clot in Space Scientist Explains Why Some Cats Eat Human Corpses Voting Expert Explains How Voting Technology Will Impact the 2020 Election Doctor Explains What You Need to Know About Pandemics ER Doctor Explains How They're Handling Covid-19 Why This Taste Map Is Wrong Q&A: What's Next for the Coronavirus Pandemic? Why Captive Tigers Can’t Be Reintroduced to the Wild How Covid-19 Immunity Compares to Other Diseases 5 Mistakes to Avoid as We Try to Stop Covid-19 How This Emergency Ventilator Could Keep Covid-19 Patients Alive Why NASA Made a Helicopter for Mars Theoretical Physicist Breaks Down the Marvel Multiverse Former NASA Astronaut Explains Jeff Bezos's Space Flight Physics Student Breaks Down Gymnastics Physics What Do Cities Look Like Under a Microscope? Inside the Largest Bitcoin Mine in The U.S.
+How Caffeine Has Fueled History How Mushroom Time-Lapses Are Filmed Why You’ll Fail the Milk Crate Challenge Why Vegan Cheese Doesn't Melt How 250 Cameras Filmed Neill Blomkamp's Demonic How Meme Detectives Stop NFT Fraud How Disney Designed a Robotic Spider-Man How Online Conspiracy Groups Compare to Cults Dune Costume Designers Break Down Dune’s Stillsuits Korean Phrases You Missed in 'Squid Game' Why Scientists Are Stress Testing Tardigrades Every Prototype that Led to a Realistic Prosthetic Arm Why the Toilet Needs an Upgrade How Animals Are Evolving Because of Climate Change How Stop-Motion Movies Are Animated at Aardman Astronomer Explains How NASA Detects Asteroids Are We Living In A Simulation? Inside the Journey of a Shipping Container (And Why the Supply Chain Is So Backed Up) The Science of Slow Aging How Nose Swabs Detect New Covid-19 Strains Samsung S22 Ultra Explained in 3 Minutes The Science Behind Elon Musk’s Neuralink Brain Chip Every Prototype to Make a Humanoid Robot Chemist Breaks Down How At-Home Covid Tests Work A Timeline of Russian Cyberattacks on Ukraine VFX Artist Breaks Down Oscar-Nominated CGI Why Smartphone Night Photos Are So Good Now We Invented the Perfect WIRED Autocomplete Glue How Everything Everywhere All at Once's Visual Effects Were Made How Dogs Coevolved with Humans How an Architect Redesigns NYC Streets Viking Expert Breaks Down The Northman Weapons J. Kenji López-Alt Breaks Down the Science of Stir-Fry How A.I. Is Changing Hollywood How Trash Goes From Garbage Cans to Landfills Veterinarian Explains How to Prevent Pet Separation Anxiety The Science Behind Genetically Modified Mosquitoes How Scientists & Filmmakers Brought Prehistoric Planet's Dinosaurs to Life All the Ways Google Gets Street View Images How Public Cameras Recognize and Track You How the Nuro Robotic Delivery Car Was Built Biologist Explains the Unexpected Origins of Feathers in Fashion Surgeons Break Down Separating Conjoined Twins Former Air Force Pilot Breaks Down UFO Footage Bug Expert Explains Why Cicadas Are So Loud The Best of CES 2021 Health Expert Explains What You Need to Know About Quarantines Scientist Explains How People Might Hibernate Like Bears Could a Chernobyl Level Nuclear Disaster Happen in the US? Neuroscientist Explains ASMR's Effects on the Brain & The Body Why Top Scientists Are Pretending an Asteroid is Headed for Earth Epidemiologist Answers Common Monkeypox Questions Bill Nye Breaks Down Webb Telescope Space Images How This Humanoid Robot Diver Was Designed Every Trick a Pro GeoGuessr Player Uses to Win How NASA Biologists Plan to Grow Plants on the Moon How FIFA Graphics & Gameplay Are Evolving (1993 - 2023) How a Vet Performs Dangerous Surgeries on Wild Animals This Heart is Not Human How Entomologists Use Insects to Solve Crimes Former NASA Astronaut Breaks Down a Rocket Launch Chess Pro Explains How to Spot Cheaters Why Billionaires Are Actually Ruining the Economy How to Keep Your New Year’s Resolutions for More Than a Week The Biology Behind The Last of Us English Teacher Grades Homework By ChatGPT All the Ways a Cold Plunge Affects the Body Spy Historian Debunks Chinese Spy Balloon Theories A.I. Tries 20 Jobs | WIRED Mathematician Breaks Down the Best Ways to Win the Lottery Why Music Festivals Sound Better Than Ever Pro Interpreters vs. AI Challenge: Who Translates Faster and Better? Why The Average Human Couldn't Drive An F1 Car Atomic Expert Explains "Oppenheimer" Bomb Scenes Every 'Useless' Body Part Explained From Head to Toe How Pilots and Scientists Are Thinking About the Future of Air Travel How To Max Out At Every Fantasy Football Position (Ft. Matthew Berry) All The Ways Mt. Everest Can Kill You How Fat Bears Bulk Up To Hibernate (And Why We Love To See It) Why Vintage Tech Is So Valuable To Collectors 8 Photos That Tell The History of Humans In Space How Every Organ in Your Body Ages From Head to Toe Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

@@ -1,0 +1,48 @@
+Podcast: What is AI? We made this radio play to help. | MIT Technology Review
+2021
+https://www.technologyreview.com/2021/11/24/1040589/podcast-what-is-ai-we-made-this-to-help
+
+Featured Topics Newsletters Events Podcasts Featured Topics Newsletters Events Podcasts Podcast: What is AI? We made this radio play to help.
+A podcast game to help you determine what is, or isn't, AI.
+By Anthony Green archive page Defining what is, or isn’t artificial intelligence can be tricky (or tough). So much so, even the experts get it wrong sometimes. That’s why MIT Technology Review’s Senior AI Editor Karen Hao created a flowchart to explain it all. In this bonus content our host and her team reimagined Hao’s original reporting , gamifying it into a radio play.
+Credits: This episode was reported by Karen Hao. It was adapted for audio and produced by Jennifer Strong and Emma Cillekens. The voices you hear are Emma Cillekens, as well as Eric Mongeon and Kyle Thomas Hemingway from our art team. We’re edited by Michael Reilly and Niall Firth.
+Full transcript: [:15 pre-roll] [TR ID] Jennifer: Hi there. I’m Jennifer Strong… host of In Machines We Trust.
+Defining what is, or isn’t artificial intelligence can be a little tough. So much so, that even the experts get it wrong sometimes. That’s why Tech Review’s senior AI editor Karen Hao created a flowchart to explain it… and together, we turned into this next episode… It’s silly. It’s fun. And we hope it helps.
+I also want to tell you about something really special we’ve been working on for more than a year. It’s called The Extortion Economy.
+ It’s a short podcast series about the ransomware epidemic produced in collaboration with ProPublica. And It’s available now wherever you like to listen.
+[Show ID] Emma Cilikens: Ladies and gentlemen... Welcome to ‘This is AI’...
+Players will ask questions that get to the bottom of what it is… or isn’t… AI … And... I’ve brought along an “assistant” to help out with the answers… Voice assistant: Hello.
+Emma Cilikens: Hello, Alexa.
+Emma Cilikens: And just so we’re all on the same page… Artificial Intelligence... in its broadest sense refers to machines that can learn, reason, and act for themselves. They can make their own decisions when faced with new situations, much like humans and animals do.
+Emma Cilikens: Now this bell... [SOT: ding] ...means correctly identified AI… and this buzzer... [SOT: buzzer, crowd sigh] Well... not so much.
+Emma Cilikens: Ok. So, let’s test your knowledge.. Ready... set… player one, go! ..
+Eric Mongeon: Can ‘it’ see...
+Voice assistant: Yes.
+Eric Mongeon: Can it identify what it sees...
+Voice assistant: No ...[SOT: buzzer] Emma Cilikens: Ok, so that’s just a camera… Eric Mongeon: ok ok… but what if it can identify what it sees? [SOT: ding, ding, ding] Emma Cilikens: Yep - that’s computer vision and image processing. Player two! Kyle Thomas Hemingway: Can it hear...
+Voice assistant: Yes Kyle Thomas Hemingway: Does it respond in a useful, sensible way to what it hears? Voice assistant: Yes [SOT: DING DING DING] Emma Cilikens: So, that’s NLP—natural language processing.
+The goal of this kind of AI is to help computers make sense of human languages in a way that’s useful.
+But what if it doesn’t respond in a useful, sensible way to what it hears. Could that also be AI? Kyle Thomas Hemingway: If it's transcribing what you say… [SOT: bell ding, ding, ding] Emma Cilikens: Yes! That’s also AI—it’s speech recognition, which is similar but working from the spoken word instead of text. New round of questions! Player 1.
+Eric Mongeon: Can it read? Voice assistant: Yes Eric Mongeon: Is it reading what you type? Voice assistant: No Eric Mongeon: Is it reading passages of text? Voice assistant: Yes Eric Mongeon: Is it analyzing the text for patterns? Voice assistant: Yes [SOT: ding, ding, ding] Emma Cilikens: Yes, once again that’s NLP—natural language processing. Well done! Kyle Thomas Hemingway: I’ll take that same question again - Can it read? Voice assistant: Yes Kyle Thomas Hemingway: Is it reading what you type? Voice assistant: : Yes Kyle Thomas Hemingway: Does it respond in a sensible, useful way? Voice assistant: Yes [SOT: ding, ding, ding] Emma Cilikens: That’s also NLP—natural language processing. New question please player 1.
+Eric Mongeon: Can it reason? Voice assistant: Yes Eric Mongeon: Is it looking for patterns in massive amounts of data? Voice assistant: Yes Eric Mongeon: Is it using these patterns to make decisions? Emma Cilikens: Well, if not, that sounds like math….
+Eric Mongeon: But if it is using patterns to make decisions? Voice assistant: Yes [SOT: ding, ding, ding] Emma Cilikens: Then that’s machine learning—which is when a machine learns through experience. Ok. Final round! Kyle Thomas Hemingway: Can it move? Voice assistant: Yes.
+[SOT: ding, ding, ding] Kyle Thomas Hemingway: By itself, without help? Voice assistant: Yes.
+[SOT: ding, ding, ding] Kyle Thomas Hemingway: Does it move based on what it sees and hears? Voice assistant: Yes.
+[SOT: ding, ding, ding] Kyle Thomas Hemingway: Are you sure it’s not just moving along a pre-programmed path? Voice assistant: [Alexa] Hmmm. I’m not sure.
+Emma Cilikens: Very funny… but if so, that’s just a bot.
+[SOT: buzzer, crowd sigh] Kyle Thomas Hemingway: Ok, let’s try that again. Is it moving along a pre-programmed path? Voice assistant: No.
+[SOT: ding, ding, ding] Emma Cilikens: Ok, so that’s a smart robot, meaning one that’s using AI to make some of its own decisions.
+Great….
+And that’s the game.
+Thanks for playing! [Music up full] Jennifer: We’ll be back - right after this.
+[MIDROLL] [MUSIC] Jennifer: Many thanks to the talented voices in this episode—including our producer, Emma Cillekens, with Eric Mongeon and Kyle Thomas Hemingway. The editors are Michael Reilly and Niall Firth.
+Thanks for listening… I’m Jennifer Strong.
+[Post Roll: TR ID] hide by Anthony Green Share linkedinlink opens in a new window twitterlink opens in a new window facebooklink opens in a new window emaillink opens in a new window Popular This new data poisoning tool lets artists fight back against generative AI Melissa Heikkilä How to fix the internet Katie Notopoulos Think that your plastic is being recycled? Think again.
+Douglas Main 15 Climate Tech Companies to Watch Amy Nordrum Deep Dive Artificial intelligence This new data poisoning tool lets artists fight back against generative AI The tool, called Nightshade, messes up training data in ways that could cause serious damage to image-generating AI models.
+By Melissa Heikkilä archive page Driving companywide efficiencies with AI Advanced AI and ML capabilities revolutionize how administrative and operations tasks are done.
+By MIT Technology Review Insights archive page Minds of machines: The great AI consciousness conundrum Philosophers, cognitive scientists, and engineers are grappling with what it would take for AI to become conscious.
+By Grace Huckins archive page Generative AI deployment: Strategies for smooth scaling Our global poll examines key decision points for putting AI to use in the enterprise.
+By MIT Technology Review Insights archive page Stay connected Illustration by Rose Wong Get the latest updates from MIT Technology Review Discover special offers, top stories, upcoming events, and more.
+Enter your email Thank you for submitting your email! It looks like something went wrong.
+We’re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out to us at customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+The latest iteration of a legacy Advertise with MIT Technology Review © 2023 MIT Technology Review About About us Careers Custom content Advertise with us International Editions Republishing MIT News Help Help & FAQ My subscription Editorial guidelines Privacy policy Terms of Service Write for us Contact us twitterlink opens in a new window facebooklink opens in a new window instagramlink opens in a new window rsslink opens in a new window linkedinlink opens in a new window

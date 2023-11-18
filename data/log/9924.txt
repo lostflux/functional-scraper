@@ -1,0 +1,19 @@
+DeepMind Search Search Close DeepMind About Overview Responsibility & Safety Education Careers Press Technologies Impact Discover Overview Blog The Podcast Visualising AI Search Search Close Technologies Solving the world’s most complex challenges Our next generation AI systems are solving some of the hardest scientific and engineering challenges of our time.
+Featured technology AlphaFold AlphaFold can accurately predict 3D models of protein structures and is accelerating research in nearly every field of biology.
+PaLM 2 Our next generation large language model (LLM) that builds on Google’s legacy of breakthrough research in machine learning and responsible AI.
+SynthID Robust and scalable tool for watermarking and identifying AI-generated images.
+Imagen Text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
+Phenaki Realistic video generation from open-domain textual descriptions AlphaZero and MuZero Powerful, general AI systems that mastered a range of board games and video games — and are now helping us solve real-world problems.
+AlphaGo Novel AI system mastered the ancient game of Go, defeated a Go world champion, and inspired a new era of AI.
+PaLM-SayCan Cutting-edge robotics algorithm that combines the understanding of language models with real-world capabilities of a helper robot.
+AlphaFold Breakthrough AI system accurately predicts the 3D models of protein structures — and accelerates research in nearly every field of biology.
+Universal Speech Model Family of state-of-the-art speech models that can perform automatic speech recognition (ASR) on , 300+ languages.
+WaveNet One of the first AI models to generate natural-sounding speech. It has inspired research, products, and applications in Google — and beyond.
+AlphaDev Reinforcement learning model discovers new sorting algorithms that will transform the foundations of computing.
+AlphaCode AI system writes computer programs at a competitive level, solves novel problems, and sets a new milestone in competitive programming.
+AlphaTensor First AI system for discovering novel, efficient, and provably correct algorithms for fundamental tasks such as matrix multiplication.
+AlphaStar First AI to master the real-time strategy game StarCraft II, long considered a grand challenge for AI research.
+Discover more Discover our latest breakthroughs. See how we’re shaping the future. Hear how AI can transform our world.
+Impact We’re creating transformative technologies that dramatically advance science, accelerate industry, and serve diverse communities.
+Footer links Follow us Email (e.g., name@example.com) I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance with Google's Privacy Policy.
+About Google Google products Privacy Terms Cookies management controls

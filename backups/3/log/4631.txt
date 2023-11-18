@@ -1,0 +1,37 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Guest Opposition to bitcoin isn’t unique. We’ve seen this before — with a happy ending Share on Facebook Share on X Share on LinkedIn Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here.
+Over the weekend, I found myself watching “ Tesla: Master of Lightning ,” a PBS production streaming on Netflix. From the story of Nikola Tesla , I saw parallels between his invention, alternating current (AC), and what bitcoin has been experiencing for some time now.
+On June 6, 1884, Tesla arrived in New York. The Serbian immigrant, who was from modern day Croatia, was thrilled to finally meet his hero, Thomas Edison , the renowned American inventor, who was the force behind direct current (DC).
+Tesla could not wait to wow Edison with his alternating current discoveries. Up to that moment, many of the people he had explained the technology to, including his professors, had dismissed it.
+He believed Edison, being heavily involved with the science of electricity, would not only understand how alternating current would change the world, but would also help him bring it to commercial use.
+Edison did hire him, thanks to the letter of introduction from Charles Batchelor , a business associate of his in Europe. However, he would hear nothing of Tesla’s AC power system.
+“My personal desire would be to prohibit entirely the use of alternating currents. They are unnecessary as they are dangerous,” Edison is quoted saying.
+If you replace the words “alternating currrents” with “bitcoin,” the statement above could as well have been uttered by Jamie Dimon , JPMorgan Chase’s Chairman, President and CEO.
+Giving up acquired turf Since the 1870s, Edison built his business in North America and Europe around DC technology. New York was running entirely on his invention; he had invested a lot in the technology.
+As expected, he was not ready to give up the turf he had acquired. At least not willingly. Do not expect the banking industry to be any different.
+After working for Edison for a few months and helping improve the efficiency of his DC systems, Tesla branched in 1887 amid some acrimony, opened his own laboratory, and started working on his longtime dream of making AC work for humankind.
+He best understood that while DC was a great leap from using candles for lighting and raw animal force for turning mortars, it had inefficiencies that could be taken care of by alternating current.
+The voltage of a direct current cannot be changed. What is generated is just what is consumed. That means that if electricity is generated with too high voltage, bulbs will blow up on the other end.
+There was also the issue of transmission over long distances. To do that with DC, you needed very thick copper wires and you needed boosting stations after every mile or so.
+On the other hand, the voltage of AC can be raised and lowered using transformers. Even more important, high voltage electricity can be transmitted over long distances without the need for boosting stations.
+In addition, the voltage could be controlled depending on the needs of the machine or bulb on the other end.
+Negative media campaign Edison embarked on a negative media campaign and took it upon himself to demonstrate to the public how this new technology was dangerous.
+He went as far as electrocuting animals using AC in public shows.
+ It is also said that he orchestrated the use of AC to execute criminals just to drive the point home that AC could only be associated with death.
+This parallels the effort many have put into portraying bitcoin as dangerous.
+ Making it look like the perfect tool for criminals and terrorists.
+By all accounts, Edison was winning the ‘ War of Current ’, as it came to be known — a feud that is also well captured by Author Jill Jonnes in her book Empires of Light: Edison, Tesla, Westinghouse, and the Race to Electrify the World.
+People who mattered and were in positions of power gave Edison their ears.
+The famous British Physicist Lord Kelvin , for example, sent a cable to members of a commission he chaired that was tasked with finding ways to tap the power of the Niagara Falls, suggesting they “avoid the gigantic mistake of AC.” Tesla had an opportunity to change this perception in front of 100,000 spectators, a crowd that included Lord Kelvin. Westinghouse, the company he worked for, had just won a contract to light that year’s Columbian exposition in Chicago. It was to be the first fair in the world to be lighted by electricity.
+Westinghouse won the contract for the simple reason that it quoted a significantly lower price ($0.5million) than Edison’s General Electric did ($1 million). This difference was made possible by the AC technology.
+In an effort to stop Tesla, GE refused Westinghouse permission to use its incandescent lamps at the fair. But Westinghouse worked overtime and devised lamps for the occasion.
+As night fell on May 1, 1893, eager spectators filed into the fairgrounds.
+President Grover Cleveland pressed a button and the whole ground, and the surrounding environment, exploded with light never seen before.
+And that ushered in a new era of electricity. Everywhere you look now; everything is happening thanks to alternating current.
+These challenges AC technology had to overcome to be where it is now are so removed from us that it’s hard to imagine its adoption was in question at the beginning.
+Likely, a number of years from now, it will be the same with bitcoin and blockchain technology.
+Rupert Hackett is the Community Manager at BuyaBitcoin.com.au.
+ He specializes in the digital currency and digital payment space and is currently studying the world’s first Master’s in digital currencies alongside entrepreneurship. He writes for multiple bitcoin websites and regularly blogs for buyabitcoin.com.au.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

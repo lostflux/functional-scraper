@@ -26,4 +26,7 @@ cabal.project.local~
 
 # CUSTOM IGNORE ITEMS
 
-log
+# log
+
+ai-tech-articles
+

@@ -1,0 +1,136 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Robotics Professor Answers Robot Questions From Twitter About Released on 11/22/2022 I'm Henny Admoni, I'm a professor of robotics.
+Today, I'll be answering your questions from Twitter.
+This is Robot Support.
+Down low.
+[percussive music] @agg26243 asks, Why are people so obsessed with making humanlike robots? Y'all need to chill.
+I don't disagree.
+Humanlike robots are great.
+Usually a robot that's not shaped like a human is more robust and more capable of doing the task it needs to do.
+One example of a humanoid robot is Sophia the Robot.
+Some people would call this category of robots androids.
+Sophia is a highly realistic robot, but if you've ever watched Sophia, you know that there's still a gap between what the robot is doing and what we actually expect from people.
+This is often called the uncanny valley, very humanlike robots can fall into that uncanny valley and make people pretty uncomfortable.
+@furbyfactor asks, How do you program personality into a robot? It is hard to define exactly what makes a personality.
+Robots are just programs.
+For example, if somebody makes a funny joke, should the robot laugh or should the robot roll its eyes? This all has to be created in software.
+When we're programming robots, what we're doing is building a set of instructions.
+If you run into an obstacle, back up.
+To get more complex behavior, you can't rely just on pre-specified rules.
+That's where something like machine learning comes in.
+In machine learning, we are building algorithms which are basically just sets of instructions that can, based on the information that they're getting, adapt to themselves to learn the right kinds of output.
+@krysteenie asks, Can you pick up a single M&M with a robot arm? It kind of depends on the robot arm.
+With this one, it's gonna be a little hard.
+Some robots are only robot arms and those are called manipulators, like this one right here.
+Ah, so close.
+This kind of fine motor manipulation is really challenging for robots.
+Robots don't have the level of motion and movement that we do in our fingers.
+The other thing that we use in our fingers that robots don't have is a sense of touch that allows us to tell when we are actually gripping something so that we can know that it's able to be picked up.
+This box has fiducial markers on it.
+These are essentially QR codes that allow the robot camera to recognize what orientation and position the box is in.
+It's supposed to make it easier for the robot to pick up the box autonomously.
+@SEO_Chase asks, Do you think robots will one day take over all of our jobs? The real benefit of robots is taking over the three Ds, the dull, dirty, and dangerous jobs that we probably don't want human beings to be doing anyway.
+People are working on underwater robots that can detect underwater landmines.
+Some people have worked on robots that can go into nuclear facilities after an accident and shut off different valves.
+But I do hope that robots are able to make people better at their jobs and free people up to do things that they're actually good at and they actually want to do.
+@bigtechprof asks, What is Elon's goal for the Tesla Optimus robot? Elon Musk does not consult with me, but my understanding is that he's looking to build a general purpose home robot, one that can do everything from cleaning up your room to unloading your dishwasher.
+To design a robot that's capable of doing more than just one thing takes a ton of work and a ton of sophistication.
+Tesla is pretty well positioned to do so.
+Their autonomous driving division has a huge computer vision capability, and they're building the kinds of batteries that would be needed to power this sophisticated a machine for a long period of time.
+@DisplayYourCV says, What are the major problems in the field of robotics today? There are a few big challenges that we face today when we're trying to get robots out into the real world.
+The first one is perception.
+How do we get robots to see and hear and interact with their environment and actually understand what it is that they're looking at? Another one is actuation: how do we get robots to move around in ways that allow them to achieve their tasks? And finally, another big problem is intelligence: how do we make our robots smart enough to plan the right kind of action to do in order to achieve what they're trying to? One major area of interest to me is how we get robots to interact with people, like personal home robots or healthcare robots that are helping nurses and doctors.
+@alicejanetaylor asks, I just wanna know how Boston Robotics plans to deal with humans who think pushing robots over is hilarious? There are lots of people who are doing research on how robots should respond to various forms of abuse.
+One that I like the most is that when a robot is being kicked by kids in a shopping mall, researchers found that if it just rolls to the nearest adult, the kids will stop.
+@alaviers asks, Have you ever had a genuine social interaction with a robot? Although I can't say that I have had a deep social interaction with a robot, [Kuri chirps] I can say that I have felt social reactions to robots.
+For example, this is Kuri.
+Kuri is really cute.
+If you pet Kuri's head, it'll purr.
+[Kuri purrs] And that kind of response actually does generate some social interaction for me.
+A lot of people are working on social robots to help people in the home or in elder care situations, and in these cases, it's really important that the robot is able to connect socially with people.
+For example, it should tell when somebody's frustrated or not wanting to take a bite of food or somebody's tired and should just go to bed.
+Detecting these social cues is still really challenging to build into an algorithm, and that's a huge part of social robotics.
+@TomaszKosmider asks, How #AI is being used in #Robotics? AI and robotics have a lot of overlap.
+AI is all about how you get systems to act intelligently.
+Robotics is about taking devices and putting them out in the real world and having them move around and interact with the environment or with people.
+So in order for robots to work, we really need the AI to support them, but robotics is more than just the AI that supports them, it's also about the mechanics of building a physical system and the electronics of developing safe circuitry.
+Robotics and AI, big overlap, but still two separate fields.
+@joemorone asks, Self-driving cars are already on the road.
+When there's a problem, how do we understand the decisions AI makes?' Self-driving cars are essentially a type of robot moving around in the world and making intelligent decisions based on what they're perceiving.
+These algorithms that robots are using for decision making are sort of like black boxes.
+Inputs come in in the form of perceptions or knowledge and then outputs come out in the form of actuation.
+The robot decides to merge or decides to stop.
+But that black box can be very, very complicated, and because of that, we need something like Explainable AI in order to back out the processes that the robot used to get to where it was going.
+@EEWorldOnline asks, What types of sensors are used in robots? Some robots have cameras like this one that can detect not just color images but also depth using infrared.
+Other robots have physical sensors, like bump sensors or capacitive sensors that respond to touch.
+Time of light sensors or other kinds of ways, excuse me, my robot is escaping.
+The original Roombas also had bump sensors, that's how they knew they were running into something.
+Lots of robots also use audio sensors.
+Hey Kuri.
+[Kuri chirps] Like that.
+@247pressrelease asks, What are swarm robots and how are they learning from insects? If you watched the Olympics, you've seen these beautiful displays of lights floating in space.
+Those are swarm robots.
+Swarm robots are groups of robots that operate in a collective, they have intelligence that's distributed across the entire system so that no one of them has the central information.
+These are designed and inspired by the way insect swarms operate and it's just one example of the ways that robotics has been inspired by biology.
+@RoboTricks1, How Six-Axis Industrial Robots work? Six-axis robots are called that because they can move in six different directions.
+Here's an example of of a six-axis robot.
+It can move in three directions of physical space, left and right, [robot whirs] up and down, [robot whirs] and forward and back.
+[robot whirs] They can also move in three directions of orientation space: pitch, [robot whirs] yaw, [robot whirs] and roll.
+These robots work by deciding how to move every joint in the kinematic chain in order to get the robot hand, which we call an end effector, to the right position.
+This process of calculating how the joints will need to move to put the end effector in the right spot is called inverse kinematics.
+@SpiCodeX asks, Do you know who invented the first robot in history? What was it? So what makes a robot, anyway? It needs to be able to sense its environment, plan using that sensor input in some smart way, and then act on the world.
+So given those criteria for being a robot, the first broadly accepted real robot was Shakey.
+It was invented in the mid-60s in California.
+It was a robot that had a big television camera on top and it had wheels and it could take instructions and roll around a different obstacle course with objects in its way, that was the foundation of a lot of the robotics that we do today.
+@edgeronia asks, What if the only thing that's preventing a full-on global robot takeover are a handful of CAPTCHA servers? CAPTCHA servers are servers that run those kind of annoying little answers that you have to give to prove that you're not a robot.
+You have to identify pictures that have particular objects in them.
+What you're actually doing with those CAPTCHA servers is training intelligent systems.
+On the back end, companies are using that data to try to build better classifiers for things like traffic lights or bicycles.
+We've seen lots of movies where robots are the evil beings that are taking over from humans.
+The reality is we're still really far from any notion of robots being capable enough to operate in environments in order to have any kind of impact like that.
+@localplumbinghe asks, Could 'Star Wars' droids be real? We are pretty far from robots like C3PO and R2D2.
+They are showing super advanced versions of the technologies that researchers are working on right now.
+Now these are two very different approaches and they serve different purposes.
+C3PO which is a humanoid robot, it's shaped like a person, it walks upright, it uses language that people use to communicate, including the variety of different accents and dialects that people use, and then we have R2D2.
+It's explicitly not humanoid, kind of looks like a trashcan, it uses wheels instead of legs to move around.
+The language that it speaks is beeps and boops, and humans have learned the robot's language.
+That's not something that we see today.
+Most of the time, we are getting robots to adapt to people and not the other way around.
+@steveboyl3 asks, Why do we need robotic delivery cool boxes driving around slowly getting in everyone's way? Are we just making robots for the sake of making robots? The idea behind delivery robots is to make it more convenient for people to acquire things like groceries or delivery food.
+The idea of these robots is worthy, but right now, the reality of their implementation is that they move around pretty slow and they often do block traffic.
+So the technology hasn't yet caught up to the reality.
+We don't want to make robots for the sake of making robots, but I think a lot of the times, we're building robots because we're trying to make life a little bit easier or a little bit more equal for people.
+@cif_kh asks, Could a real-life 'Westworld' be in our future? It takes a lot to make a robot that is indistinguishable from a human being.
+This is because humans are super sophisticated.
+We have dozens of muscles just in our face to make facial expressions.
+Getting a robot to be capable of that requires dozens of motors, and that's not really a realistic thing right now.
+I'd say we're still a pretty long way off from these kinds of hyper-realistic robots like in Westworld.
+@ASMEJournals asks, What are the nanobots? Nanobots are tiny robots, that's what the word nano means in their name.
+They are designed for a variety of applications including things like medicine going into the human body.
+Because they're so small, it's hard to get electronics that will fit into them.
+Often, they're designed to respond to the chemical environment, for example, something that you might find in the human body.
+It's actually this really interesting connection between robotics and chemistry and material science.
+@MetrologicallyS, How is robot simulation software used to program robots virtually? Simulation is a huge part of what we do in robot development.
+We do a lot of our testing in simulation so that we know that when we bring those into the real world, that they are more likely to work.
+Simulations can be limited, though.
+You need to replicate real-world physics including friction and different kinds of forces and wind shear.
+That can be exceedingly computationally expensive.
+Simulations are still easier than putting the robots in the real world, and so they're still a hugely popular tool in robotics.
+@BlileyTech asks, How are #robots used in #space exploration? These robots are being deployed autonomously to roll around, collect samples, take measurements, and do all of the scientific data finding that we need to do to understand what's in space.
+We've had several robots sent to Mars.
+Here at Carnegie Mellon University, where I work, we have a huge project on building robots that are capable of operating autonomously on the moon.
+There's a robot that's actually being developed and tested here right now and we're hoping to send it into space soon.
+@Distrelec asks, How are cobots helping to transform industry? A cobot is a collaborative robot specifically designed to work with human beings.
+One big area that people are looking at for cobots right now is in shared manufacturing, so you have a person who is building something in a factory and the robot is able to do things like fetch materials for them or hold parts while they do the fine motor manipulation.
+In this case, the robot is collaborative for a few reasons.
+One is that it's sharing space and tools with human beings, but another is that it's actually being trained by a human being, so it's learning how to do this from a person, and that's a big part of collaboration is this kind of sharing of information.
+@wizkellicap says, Agricultural robots a growing trend? In fact, it is.
+There's a huge problem right now in growing enough food and distributing it to get to all the people in the world, and people are looking to robotics to help solve that.
+Robots that can roll down a field of crops and tell a farmer whether the crop is healthy or needs different kinds of nutrients, or robots that can very quickly sort through strawberry plants to tell the farmer which ones are gonna grow well and which ones need to be thrown out.
+The hope is that these agricultural robots are going to be able to help farmers increase their impact and make farming in general more sustainable.
+Those are all the questions for today.
+Thanks so much for all the interesting questions, and thanks for watching Robot Support.
+Shh, she's sleeping.
+[percussive music] Gordon Ramsay Answers Cooking Questions From Twitter Ken Jeong Answers Medical Questions From Twitter Bill Nye Answers Science Questions From Twitter Blizzard's Jeff Kaplan Answers Overwatch Questions From Twitter Nick Offerman Answers Woodworking Questions From Twitter Bungie's Luke Smith Answers Destiny Questions From Twitter Jackie Chan & Olivia Munn Answer Martial Arts Questions From Twitter Scott Kelly Answers Astronaut Questions From Twitter LaVar Ball Answers Basketball Questions From Twitter Dillon Francis Answers DJ Questions From Twitter Tony Hawk Answers Skateboarding Questions From Twitter Jerry Rice Answers Football Questions From Twitter Garry Kasparov Answers Chess Questions From Twitter U.S. Olympic and Paralympic Athletes Answer Olympics Questions From Twitter Neuroscientist Anil Seth Answers Neuroscience Questions From Twitter Blizzard's Ben Brode Answers Hearthstone Questions From Twitter John Cena Answers Wrestling Questions From Twitter The Slow Mo Guys Answer Slow Motion Questions From Twitter Bill Nye Answers Even More Science Questions From Twitter James Cameron Answers Sci-Fi Questions From Twitter Best of Tech Support: Bill Nye, Neil DeGrasse Tyson and More Answer Science Questions from Twitter Riot Games' Greg Street Answers League of Legends Questions from Twitter Riot Games' Greg Street Answers Even More League of Legends Questions from Twitter PlayerUnknown Answers PUBG Questions From Twitter Liza Koshy, Markiplier, Rhett & Link, and Hannah Hart Answer YouTube Creator Questions From Twitter NCT 127 Answer K-Pop Questions From Twitter Neil deGrasse Tyson Answers Science Questions From Twitter Ken Jeong Answers More Medical Questions From Twitter Bon Appétit's Brad & Claire Answer Cooking Questions From Twitter Bang Bang Answers Tattoo Questions From Twitter Ed Boon Answers Mortal Kombat 11 Questions From Twitter Nick Jonas and Kelly Clarkson Answer Singing Questions from Twitter Penn Jillette Answers Magic Questions From Twitter The Russo Brothers Answer Avengers: Endgame Questions From Twitter Alex Honnold Answers Climbing Questions From Twitter Sloane Stephens Answers Tennis Questions From Twitter Bill Nye Answers Science Questions From Twitter - Part 3 Astronaut Nicole Stott Answers Space Questions From Twitter Mark Cuban Answers Mogul Questions From Twitter Ubisoft's Alexander Karpazis Answers Rainbow Six Siege Questions From Twitter Marathon Champion Answers Running Questions From Twitter Ninja Answers Fortnite Questions From Twitter Cybersecurity Expert Answers Hacking Questions From Twitter Bon Appétit's Brad & Chris Answer Thanksgiving Questions From Twitter SuperM Answers K-Pop Questions From Twitter The Best of Tech Support: Ken Jeong, Bill Nye, Nicole Stott and More Twitter's Jack Dorsey Answers Twitter Questions From Twitter Jodie Whittaker Answers Doctor Who Questions From Twitter Astronomer Jill Tarter Answers Alien Questions From Twitter Tattoo Artist Bang Bang Answers More Tattoo Questions From Twitter Respawn Answers Apex Legends Questions From Twitter Michael Strahan Answers Super Bowl Questions From Twitter Dr. Martin Blaser Answers Coronavirus Questions From Twitter Scott Adkins Answers Martial Arts Training Questions From Twitter Psychiatrist Daniel Amen Answers Brain Questions From Twitter The Hamilton Cast Answers Hamilton Questions From Twitter Travis & Lyn-Z Pastrana Answer Stunt Questions From Twitter Mayim Bialik Answers Neuroscience Questions From Twitter Zach King Answers TikTok Questions From Twitter Riot Games Answers League of Legends Questions from Twitter Aaron Sorkin Answers Screenwriting Questions From Twitter Survivorman Les Stroud Answers Survival Questions From Twitter Joe Manganiello Answers Dungeons & Dragons Questions From Twitter "Star Wars Explained" Answers Star Wars Questions From Twitter Wizards of the Coast Answer Magic: The Gathering Questions From Twitter "Star Wars Explained" Answers More Star Wars Questions From Twitter VFX Artist Answers Movie & TV VFX Questions From Twitter CrossFit Coach Answers CrossFit Questions From Twitter Yo-Yo Ma Answers Cello Questions From Twitter Mortician Answers Cadaver Questions From Twitter Babish Answers Cooking Questions From Twitter Jacob Collier Answers Music Theory Questions From Twitter The Lord of the Rings Expert Answers More Tolkien Questions From Twitter Wolfgang Puck Answers Restaurant Questions From Twitter Fast & Furious Car Expert Answers Car Questions From Twitter Former FBI Agent Answers Body Language Questions From Twitter Olympian Dominique Dawes Answers Gymnastics Questions From Twitter Allyson Felix Answers Track Questions From Twitter Dr. Michio Kaku Answers Physics Questions From Twitter Former NASA Astronaut Answers Space Questions From Twitter Surgeon Answers Surgery Questions From Twitter Beekeeper Answers Bee Questions From Twitter Michael Pollan Answers Psychedelics Questions From Twitter Ultramarathoner Answers Questions From Twitter Bug Expert Answers Insect Questions From Twitter Former Cult Member Answers Cult Questions From Twitter Mortician Answers MORE Dead Body Questions From Twitter Toxicologist Answers Poison Questions From Twitter Brewmaster Answers Beer Questions From Twitter Biologist Answers Biology Questions From Twitter James Dyson Answers Design Questions From Twitter Dermatologist Answers Skin Questions From Twitter Dwyane Wade Answers Basketball Questions From Twitter Baker Answers Baking Questions from Twitter Astrophysicist Answers Questions From Twitter Age Expert Answers Aging Questions From Twitter Fertility Expert Answers Questions From Twitter Biological Anthropologist Answers Love Questions From Twitter Mathematician Answers Math Questions From Twitter Statistician Answers Stats Questions From Twitter Sleep Expert Answers Questions From Twitter Botanist Answers Plant Questions From Twitter Ornithologist Answers Bird Questions From Twitter Alex Honnold Answers MORE Rock Climbing Questions From Twitter Former FBI Agent Answers MORE Body Language Questions From Twitter Waste Expert Answers Garbage Questions From Twitter Garbage Boss Answers Trash Questions From Twitter J. Kenji López-Alt Answers Cooking Questions From Twitter Veterinarian Answers Pet Questions From Twitter Doctor Answers Gut Questions From Twitter Chemist Answers Chemistry Questions From Twitter Taste Expert Answers Questions From Twitter Paleontologist Answers Dinosaur Questions From Twitter Biologist Answers More Biology Questions From Twitter Biologist Answers Even More Biology Questions From Twitter ER Doctor Answers Injury Questions From Twitter Toxicologist Answers More Poison Questions From Twitter Energy Expert Answers Energy Questions From Twitter BBQ Pitmaster Answers BBQ Questions From Twitter Neil Gaiman Answers Mythology Questions From Twitter Sushi Chef Answers Sushi Questions From Twitter The Lord of the Rings Expert Answers Tolkien Questions From Twitter Audiologist Answers Hearing Questions From Twitter Marine Biologist Answers Shark Questions From Twitter Bill Nye Answers Science Questions From Twitter - Part 4 John McEnroe Answers Tennis Questions From Twitter Malcolm Gladwell Answers Research Questions From Twitter Financial Advisor Answers Money Questions From Twitter Stanford Computer Scientist Answers Coding Questions From Twitter Wildlife Vet Answers Wild Animal Questions From Twitter Climate Scientist Answers Earth Questions From Twitter Medical Doctor Answers Hormone Questions From Twitter James Hoffmann Answers Coffee Questions From Twitter Video Game Director Answers Questions From Twitter Robotics Professor Answers Robot Questions From Twitter Scam Fighters Answer Scam Questions From Twitter Forensics Expert Answers Crime Scene Questions From Twitter Chess Pro Answers Questions From Twitter Former FBI Agent Answers Body Language Questions From Twitter...Once Again Memory Champion Answers Questions From Twitter Neuroscientist Answers Illusion Questions From Twitter Immunologist Answers Immune System Questions From Twitter Rocket Scientists Answer Questions From Twitter How Vinyl Records Are Made (with Third Man Records) Neurosurgeon Answers Brain Surgery Questions From Twitter Therapist Answers Relationship Questions From Twitter Polyphia's Tim Henson Answers Guitar Questions From Twitter Structural Engineer Answers City Questions From Twitter Harvard Professor Answers Happiness Questions From Twitter A.I. Expert Answers A.I. Questions From Twitter Pizza Chef Answers Pizza Questions From Twitter Former CIA Chief of Disguise Answers Spy Questions From Twitter Astrophysicist Answers Space Questions From Twitter Cannabis Scientist Answers Questions From Twitter Sommelier Answers Wine Questions From Twitter Mycologist Answers Mushroom Questions From Twitter Genndy Tartakovsky Answers Animation Questions From Twitter Pro Card Counter Answers Casino Questions From Twitter Doctor Answers Lung Questions From Twitter Paul Hollywood & Prue Leith Answer Baking Questions From Twitter Geneticist Answers Genetics Questions From Twitter Sneaker Expert Jeff Staple Answers Sneaker Questions From Twitter 'The Points Guy' Brian Kelly Answers Travel Questions From Twitter Master Chef Answers Indian Food & Curry Questions From Twitter Archaeologist Answers Archaeology Questions From Twitter LegalEagle's Devin Stone Answers Law Questions From Twitter Todd McFarlane Answers Comics Questions From Twitter Reptile Expert Answers Reptile Questions From Twitter Mortician Answers Burial Questions From Twitter Eye Doctor Answers Eye Questions From Twitter Computer Scientist Answers Computer Questions From Twitter Neurologist Answers Nerve Questions From Twitter Hacker Answers Penetration Test Questions From Twitter Nutritionist Answers Nutrition Questions From Twitter Experts Predict the Future of Technology, AI & Humanity Doctor Answers Blood Questions From Twitter Sports Statistician Answers Sports Math Questions From Twitter Shark Tank's Mark Cuban Answers Business Questions From Twitter Marvel’s Spider-Man 2 Director Answers Video Game Questions From Twitter Criminologist Answers True Crime Questions From Twitter Physicist Answers Physics Questions From Twitter | Tech Support Chess Pro Answers More Questions From Twitter Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

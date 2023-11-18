@@ -1,0 +1,42 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Meet The Clever Robot That's Ready to Take On Your Shopping Addiction About Released on 03/01/2018 [Host] This is the result of your online shopping addiction.
+It's a picker robot.
+Its job is to sort through goods in an order fulfillment center.
+A task that's traditionally been difficult for machines.
+But that's changing.
+Thanks in large part to a mix of AI and some good old fashioned human hand-holding.
+I guarantee you take for granted how many things you can pick up.
+What comes so naturally to you is difficult for a lot of robots.
+But not these picker robots at a startup called Kindred.
+They're able to grab a variety of items and hold them for a barcode scanner and file them in the right cubby hole.
+The big opportunity in e-commerce is that there are millions and millions of different types of objects.
+Packaging keeps changing, some are soft and squishy, some are hard, some are heavy, some are soft.
+And there's no way you can program that.
+The challenge for us is constantly learning all these new objects fast enough to respond to our customers.
+[Host] But fear not.
+The robots still need our help learning how to tackle these new objects.
+The team at Kindred lets the robot try and grasp objects on its own.
+This is known as reinforcement learning.
+Meaning, it gets a digital thumbs-up whenever it does something right.
+And adjusts its behavior accordingly.
+Humans also refine the robot's skills by remotely piloting the machine.
+[Man] The human controller guides the arm and the gripper to pick up the objects, and we use all that data from the gripper from the servers from the arm to feed our algorithms.
+So the next time they see the same shape, we know how to pick it up.
+[Host] This approach provides a flexibility that's essential in a job like order fulfillment.
+Not only does the robot need to know how to manipulate a galaxy of different objects, it has to adapt on the fly to novel products.
+So let's say that coats come into season for a retailer like Gap.
+Which is, in fact, testing Kindred's robot.
+The machine needs to know how to deal with that new shape.
+[George] As winter arrives and we get new objects we can start learning of those new objects, and then when summer comes back, we might see objects we've used before and we can switch back to those algorithms to pick up those objects.
+Or we might see a whole new class of objects.
+I don't know, maybe sombreros become popular one summer and now we need to learn how to pick up sombreros.
+[Host] Adaptability is crucial for e-commerce robots.
+Or any robot for that matter.
+We can't just program the machines to manipulate each and every one of the dizzying number of objects in our world.
+They'll have to think on their own.
+And when that doesn't work, we have to be prepared to step in and help until they get the hang of things.
+Yes, that'll make us babysitters.
+But better to babysit than let the machines get carried away with things.
+High-Speed Robots Part 2: Kiva Robots in the Workplace & in our E-commerce Economy Science of Food | Make Your Own Soft Serve With Dry Ice–And Sweet, Sweet Science Watch the Little Robot That Taught the Big Robot Something New Why Massaging Your Kale Makes It Taste Better Why the Toilet Needs an Upgrade Robot Love: How Design Studio Elastic Built WIRED's November Cover How The Rock Face Swapped with Vine Star Sione in 'Central Intelligence' The Garment District - Sound Patterns of Pittsburgh - Station to Station Is SpongeBob Ready to Move from a Pineapple to the Real World? The Ultimate Valentine’s Day Gift Guide for Women | Sponsored Content Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

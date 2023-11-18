@@ -1,0 +1,213 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Genndy Tartakovsky Answers Animation Questions From Twitter About Released on 05/09/2023 Hello, I'm Genndy Tartakovsky.
+I'm an animator and director and creator of Dexter's Lab, Samurai Jack, Primal, and Unicorn Warriors Eternal.
+I'm here to answer all your animation questions on Twitter.
+This is Animation Support.
+[percussive music] @tatsumology, How is 2D animation so smooth and fluid, tell me.
+For animation, we go at 24 frames per second.
+Let's say my arm goes from here to here in 24 frames, which is one second.
+So one-1000, it'll be really smooth.
+If I don't have the time or money to do it then I'll start going to 12 drawings.
+And now, all of a sudden, it's not as smooth.
+And then if I really am running outta money and time, then I'm gonna do it faster and I'm gonna do it in six frames.
+[pops tongue] And here, now you're losing the fluidity but I'm gaining money so I could do the rest of the episode.
+But it's a fake.
+Nobody cares about fluid or smooth.
+You want great acting, you want good jokes, good stories, good characters.
+If it's a little choppy, I don't care.
+So don't obsess over smoother fluidity, obsess over stories, [keyboard tapping] character, humor, storytelling.
+@Piech42, Why are there so many cartoon characters that don't wear pants? That is a old, timeless question.
+It's haunted me in my dreams sometimes.
+It's just somebody's choice to have a character be naked.
+And it's okay if he has a bow tie on.
+[keyboard tapping] Let's keep thinking about this one, all right, thank you.
+@Bezzeroo, Do voice actors try and time their voice to animation or do animators have to animate what the voice actor's saying? The voices come first, before the animation starts.
+We have the actor come in, they'll read the line, we edit it into the shot, and then the animator starts to animate to the lip sync and we break down the waveform, right? So what's loud, what's accented, and then we'll follow that for the animation.
+Now interestingly enough, for Primal, I just have grunting.
+[dramatic music] [Spear screams] We did our dialogue recording after the animation was done.
+Aaron LaPlante, who voiced Spear, he would then come in, we would play him the picture, [Genndy grunting] and then he would do the grunting to the picture.
+A lot of anime is actually dubbed, sometimes, after, with the voice cast.
+But for our style of animation, our mouths are very articulated.
+We have to do it [keyboard tapping] to the voice recording, not after.
+@weischoice, or Weis Choice, maybe.
+When they make sequels [muted Latin music] to animated movies, do animators repurpose shots or elements of them from the former movies? I don't really know much about animation so this could be a very stupid question.
+For Hotel Transylvania, from the first movie to the second movie, we repurposed most of their character designs and the castle itself.
+But on the other hand, because technology's going so fast, within a couple of years, Imageworks, the studio that we used, they reprogrammed all their tools so they couldn't just use it.
+They had to input it, and then change it and upgrade it.
+But yeah, usually for sequels, unless you change locations, [keyboard tapping] there is some savings in that.
+@miiccams, What're the 12 principles of animation? Basically, there's squash and stretch.
+You have a circle, it gets hit by something, and so then it squashes.
+That's squash and stretch.
+Then anticipation, before you can go straight, you have to go backwards.
+For a big, cartoony character doing a punch, the anticipation is crazy.
+So this's a big anticipation for a punch.
+And then the punch would be, you know, completely off the page.
+So there's your anticipation and there's your punch.
+And follow through is if you go to grab something, things move at different speeds.
+So if the hand is anticipating this way; and we're gonna grab; then when we move it, my wrist'll go first, my elbow'll go back.
+And so, you see the wrist is leading, here.
+And then it catches up after.
+So that's all about overlapping action and follow-through.
+And you can put the squash and stretch in there too, because then the hand can be delayed a little bit then there's a little stretch.
+And really, those three will get you started.
+There are 10 maybe, maybe there's eight.
+And I'm not gonna give them to you 'cause those are the earned principles, that you have to first learn the first five principles and then when you get to the eighth principle, sometimes we'll throw in three more principles.
+And by, you know, 30 years in the industry I know 27 principles.
+But I'm not gonna talk about them 'cause you can't even comprehend those principles.
+You know, I'm probably gonna get reamed for forgetting a whole bunch, but, you know, start with those.
+@ [beep] disorder.
+How often do animators forget to animate the characters blinking and how often do we just not notice they haven't been blinking for like, five minutes? Blinking is part of keeping a character alive, and sometimes, even breathing.
+That's an odd thing, because it's really creepy 'cause you almost feel like they are kind of alive.
+We did that on Fang in Primal, where we had her breathe more 'cause she's such a big creature.
+Sometimes you forget about the little things, and sometimes the little things say a lot.
+We're always kinda thinking about it.
+So I usually, if the character's just standing there we'll always remember [keyboard tapping] to use a blink.
+But good observation, though.
+@slowbeef, 3D modeling/animation question, is an armature and a rig the same thing.
+Rigging, we use the term for...
+You know what, I'm not gonna explain it.
+It's hurting my brain.
+An armature's basically a skeleton.
+[laughs] This's the worst drawing I've done today.
+That's your armature.
+But rigging is actually, in CG animation, you put a point here and you put a point here, and now your elbow and your arm can move.
+So that's called rigging a character for movement.
+And the armature is really the proper beginning to the rigging process.
+It's something I hate [keyboard tapping] to talk about.
+@jooniebythesea, Why's 'Hotel Transylvania's' animation so good? Hotel is good because we took the principles of classical animation, stuff that was done in the '30s, and '40s, and '50s and we translated it into CG.
+And what that means is adding, you know, new sculptures to the model and every new expression and pushing the squash and stretch and forgetting about gravity.
+And actually, one really interesting thing that happened was because our animation was so extreme, what happens is you animate, like, a naked puppet, basically.
+It goes to a different department and they put the clothe dynamics over it.
+The computer then knows how to fill in the dynamics.
+But not when you're moving from here to here in one frame.
+That doesn't happen in real life.
+So constantly, the clothes dynamics were broken.
+The animators had to go back in and actually start animating the clothes, like, how we would do it on paper.
+And then they would put those key frames in for the dynamics, and then they would follow them a little better.
+Everyone had so much fun, I think, doing it, because the results [keyboard tapping] were so unique.
+@iammeessence, or I am Essence, it's a little Popeyeish.
+[Popeye] I'm me essence.
+Who knows how to create a cartoon character? I like to really think of a character inside out.
+Is it a happy character? Is it a sad character? And then you're gonna start to find shape language that suits those personalities.
+I'm gonna draw it because I like to draw.
+Let's say we're gonna draw a happy character.
+Then the posture of that happy character will usually be happy, arched, and there's already a positive vibe to this character.
+Now, in the same respect, let's say it's kind of a sad-sacky, sad character.
+And the body posture has to work with the attitude.
+And that's really the beginning principles of it all, how it all works.
+Also, once you start drawing your character they're gonna start changing.
+It's like having a baby.
+The baby starts as a pile of mush.
+And then its starts to tighten up, and grow older, and have a personality, and all those things.
+When we first designed Dexter, Dexter was really tall even though we knew we wanted him to be short.
+And as we start drawing him as a rectangle, we do hundreds of storyboards and we keep going with it.
+All of a sudden the shorthand, he starts to shrink.
+And he gets squatter, [laughs] right? So you can see the the difference.
+And it's funny, 'cause Dee Dee didn't go through the same transformation.
+I think her torso maybe got a little smaller.
+We call it pushing proportions.
+She was kinda like this, right, in the first season.
+And then as we, same thing, we drew her, we drew her, we drew her more, and more, and more, and more.
+And then she became this.
+Nothing that we really thought about on purpose, but just something that happened organically.
+So don't be so hard on yourself and draw the character exactly the same every time you gonna draw them.
+Give yourself the freedom to get comfortable with it.
+The character will become who they organically wanna be [keyboard tapping] without trying to think about it too much.
+@littleuzimycousin, Why're the 'Clone Wars' episodes so short? The truth of it is, we were really the first ones to do Star Wars besides, like, really just doing commercials.
+And initially, George only allowed Cartoon Network to do one-minute episodes and I said Well, one minute is basically a commercial.
+I don't wanna do that.
+I need at least three to five minutes.
+They went back to George, and George and his son, especially, I think, liked Samurai Jack.
+So they said, We've got Genndy and the team from 'Samurai Jack', but they want more time.
+And so, then George said, Okay, they can have three to five minutes.
+I think he was afraid we were gonna mess it up.
+And I don't blame him, [laughs] 'cause that's like your baby, you know? I wouldn't want somebody else taking it and just doing what they want with it.
+That's the truth behind the shortness of those first Clone Wars.
+@She_Ascends, Why did my parents let me watch 'Who Framed Roger Rabbit?' at such a young age? I don't know why.
+I think it's okay, it's not that bad.
+Who Framed Roger Rabbit? helped, actually, bring back animation.
+Basically, around '88, animation was in really bad shape.
+TV shows are really bad quality.
+Even Disney feature animation was about to get sold.
+Then they were making Who Framed Roger Rabbit? And it kind of reminded people how fun animation could be.
+And not only technically did they blend live action and animation, but they combined Bugs Bunny and Mickey Mouse together in the same movie, so it felt something more special.
+And it was great because of it.
+@simmykierra, How do you direct an animated show? It's all about having a point of view and having everybody help you to create that vision.
+I was doing Dexter's Lab, an artist would draw the storyboard.
+We would pin it all up, and then they would pitch it.
+We had one storyboard artist, when he pitched the storyboard it was in, like, this funny voice.
+And so, Dexter come over here.
+And then there's Dee Dee.
+And so, the whole room was crying laughing.
+After he finished I was like, Well, how the hell am I supposed to transfer this performance into this episode? 'Cause he doesn't sound like the characters at all.
+They don't talk like that.
+But there was something about it that worked.
+And so, I realized, Oh right, that's my job.
+My job is now to take this performance and translate it into something entertaining.
+And it was like a really big epiphany in my career.
+Like, Oh right, that's actually what I do.
+@twistedlilKim, What was your favorite 'Samurai Jack' episode, and why was it the 'Jump Good' one? It's not the Jump Good one, it's probably the Blind Archers one.
+Because it's the first episode that everything worked at such a high level.
+The story was simple and super cool, the design of it was very simplistic and great, and we did that thing where we blinded him and it was black, and as the audio came up we started to see it.
+So it was so artistic but still had badass action.
+There was something about it that really clicked.
+You never wanna pick favorites, but that's probably the one that had the most impact on us.
+@chris_cull, As someone who doesn't work in animation, how often is a storyboard made? Like, every cut in the scene or is it a set number of frames? Generally, the whole rule is every time you cut there's a new storyboard.
+Every time there's a change of emotion there's a new storyboard.
+Every time anything semi-significant happens there's a new drawing in the storyboard.
+Our storyboards have now become, basically, almost extremes.
+Because the storyboard is so important, now we're drawing more and more panels.
+Lucky for you I have some storyboard examples for Unicorn: Warriors Eternal, for the first episode.
+This is Copernicus, who's the robot coming out of his little grave.
+We'll cut to the hole, and you see his arms come out, [Genndy imitates machinery] a bunch of steam that comes out, and he starts to lift his body up.
+And he continues up.
+And now we cut to a different front angle, and he rises up [Genndy imitates rocket] and then [imitates thud] lands and then we start cutting close.
+And then when I draw this, I'll maybe even break it down even more to a degree.
+And this, you know, this is all the first episode.
+I like to do it like this first so then I don't get bogged down with the drawing.
+All the emotion, and the speed, and the pacing comes out.
+Storyboards, they're the most important because that's your story.
+It's everything. [keyboard tapping] Without a storyboard, you got nothing.
+@Smomotion, Writers often give animation notes.
+Where do animators get to submit notes for the writers? That's a big question.
+In a situation, sometimes a writer has too much opinion.
+And then the artists don't have as strong of an opinion, but the writer gets to tell us what to do.
+Artists and storyboard artists are a proud bunch.
+And we know what we're doing, but sometimes we don't.
+And so, we'll forget the writing, we'll throw it away, and then we'll do it on our own.
+And it's equally doesn't work.
+So usually the healthiest relationships are the writer and the animator are both together and they're a unified team.
+That's why I always write my own stuff for the most part, because I want to have dual power. [laughs evilly] But yeah, usually animation folks don't get a chance to give writers critiques.
+We just complain about it [keyboard tapping] at our desks for three years.
+@_qp96, Do you know the difference between animation and cartoon or should I mind my own business? Animation, cartoons, anime, whatever.
+It's all the same thing.
+But yeah, in the industry, especially in features, cartoony might have some negative connotations.
+I love all the old style of animation, the Warner Brothers Tex Avery, all that stuff.
+I love to use the word cartoon, it's one of my favorite words. [keyboard tapping] So I think you're good! @95vevo, My character design homework is to draw cartoon character using the golden mean.
+How the fuck? I'm not really familiar with the golden mean.
+I think what it's trying to say is to be dynamic.
+We used to say this thing, Keep the proportions of the design special.
+If you have a character, you don't want all of the elements to feel even, because this's just boring.
+What you want is your elements of the design to be special.
+If I'm designing a football player, you can design him like a, you know, human proportions, or it's that.
+And same thing for composition too.
+Usually we think of the camera broken down into thirds, and where do you put your horizon line? If you put it in the center and then your character in the center everything is kind of boring.
+But if you take, you know, your horizon line and you lower it, and then your character's on the side, here, all of a sudden we've got drama, and interest, and scale.
+So when it says your character design homework is using that principle, it's just big, small, and medium.
+And think about it as what's special or unique? @unorigusername, Cartoons're better because you can create a world.
+What limitations do animators face that they can't surpass? It's all about how well you draw.
+If you can draw it, it can exist.
+If you can imagine it and you can draw it, it exists.
+So the only things I can't do're the things that I can't draw.
+And in my position, I'll then find somebody who can draw those things [laughs] and I'll hire them.
+But yeah, usually you're just limited [keyboard tapping] by your drawing ability.
+There is no limitations.
+And, I guess, your imagination.
+[mouse clicks] Well, I think [muted Latin music] that about wraps it up.
+Thank you so much.
+Thank you for all the questions.
+And really, thank you for the last 30 years for watching all the shows.
+It's super special to me and I appreciate all your time, and thank you.
+Gordon Ramsay Answers Cooking Questions From Twitter Ken Jeong Answers Medical Questions From Twitter Bill Nye Answers Science Questions From Twitter Blizzard's Jeff Kaplan Answers Overwatch Questions From Twitter Nick Offerman Answers Woodworking Questions From Twitter Bungie's Luke Smith Answers Destiny Questions From Twitter Jackie Chan & Olivia Munn Answer Martial Arts Questions From Twitter Scott Kelly Answers Astronaut Questions From Twitter LaVar Ball Answers Basketball Questions From Twitter Dillon Francis Answers DJ Questions From Twitter Tony Hawk Answers Skateboarding Questions From Twitter Jerry Rice Answers Football Questions From Twitter Garry Kasparov Answers Chess Questions From Twitter U.S. Olympic and Paralympic Athletes Answer Olympics Questions From Twitter Neuroscientist Anil Seth Answers Neuroscience Questions From Twitter Blizzard's Ben Brode Answers Hearthstone Questions From Twitter John Cena Answers Wrestling Questions From Twitter The Slow Mo Guys Answer Slow Motion Questions From Twitter Bill Nye Answers Even More Science Questions From Twitter James Cameron Answers Sci-Fi Questions From Twitter Best of Tech Support: Bill Nye, Neil DeGrasse Tyson and More Answer Science Questions from Twitter Riot Games' Greg Street Answers League of Legends Questions from Twitter Riot Games' Greg Street Answers Even More League of Legends Questions from Twitter PlayerUnknown Answers PUBG Questions From Twitter Liza Koshy, Markiplier, Rhett & Link, and Hannah Hart Answer YouTube Creator Questions From Twitter NCT 127 Answer K-Pop Questions From Twitter Neil deGrasse Tyson Answers Science Questions From Twitter Ken Jeong Answers More Medical Questions From Twitter Bon Appétit's Brad & Claire Answer Cooking Questions From Twitter Bang Bang Answers Tattoo Questions From Twitter Ed Boon Answers Mortal Kombat 11 Questions From Twitter Nick Jonas and Kelly Clarkson Answer Singing Questions from Twitter Penn Jillette Answers Magic Questions From Twitter The Russo Brothers Answer Avengers: Endgame Questions From Twitter Alex Honnold Answers Climbing Questions From Twitter Sloane Stephens Answers Tennis Questions From Twitter Bill Nye Answers Science Questions From Twitter - Part 3 Astronaut Nicole Stott Answers Space Questions From Twitter Mark Cuban Answers Mogul Questions From Twitter Ubisoft's Alexander Karpazis Answers Rainbow Six Siege Questions From Twitter Marathon Champion Answers Running Questions From Twitter Ninja Answers Fortnite Questions From Twitter Cybersecurity Expert Answers Hacking Questions From Twitter Bon Appétit's Brad & Chris Answer Thanksgiving Questions From Twitter SuperM Answers K-Pop Questions From Twitter The Best of Tech Support: Ken Jeong, Bill Nye, Nicole Stott and More Twitter's Jack Dorsey Answers Twitter Questions From Twitter Jodie Whittaker Answers Doctor Who Questions From Twitter Astronomer Jill Tarter Answers Alien Questions From Twitter Tattoo Artist Bang Bang Answers More Tattoo Questions From Twitter Respawn Answers Apex Legends Questions From Twitter Michael Strahan Answers Super Bowl Questions From Twitter Dr. Martin Blaser Answers Coronavirus Questions From Twitter Scott Adkins Answers Martial Arts Training Questions From Twitter Psychiatrist Daniel Amen Answers Brain Questions From Twitter The Hamilton Cast Answers Hamilton Questions From Twitter Travis & Lyn-Z Pastrana Answer Stunt Questions From Twitter Mayim Bialik Answers Neuroscience Questions From Twitter Zach King Answers TikTok Questions From Twitter Riot Games Answers League of Legends Questions from Twitter Aaron Sorkin Answers Screenwriting Questions From Twitter Survivorman Les Stroud Answers Survival Questions From Twitter Joe Manganiello Answers Dungeons & Dragons Questions From Twitter "Star Wars Explained" Answers Star Wars Questions From Twitter Wizards of the Coast Answer Magic: The Gathering Questions From Twitter "Star Wars Explained" Answers More Star Wars Questions From Twitter VFX Artist Answers Movie & TV VFX Questions From Twitter CrossFit Coach Answers CrossFit Questions From Twitter Yo-Yo Ma Answers Cello Questions From Twitter Mortician Answers Cadaver Questions From Twitter Babish Answers Cooking Questions From Twitter Jacob Collier Answers Music Theory Questions From Twitter The Lord of the Rings Expert Answers More Tolkien Questions From Twitter Wolfgang Puck Answers Restaurant Questions From Twitter Fast & Furious Car Expert Answers Car Questions From Twitter Former FBI Agent Answers Body Language Questions From Twitter Olympian Dominique Dawes Answers Gymnastics Questions From Twitter Allyson Felix Answers Track Questions From Twitter Dr. Michio Kaku Answers Physics Questions From Twitter Former NASA Astronaut Answers Space Questions From Twitter Surgeon Answers Surgery Questions From Twitter Beekeeper Answers Bee Questions From Twitter Michael Pollan Answers Psychedelics Questions From Twitter Ultramarathoner Answers Questions From Twitter Bug Expert Answers Insect Questions From Twitter Former Cult Member Answers Cult Questions From Twitter Mortician Answers MORE Dead Body Questions From Twitter Toxicologist Answers Poison Questions From Twitter Brewmaster Answers Beer Questions From Twitter Biologist Answers Biology Questions From Twitter James Dyson Answers Design Questions From Twitter Dermatologist Answers Skin Questions From Twitter Dwyane Wade Answers Basketball Questions From Twitter Baker Answers Baking Questions from Twitter Astrophysicist Answers Questions From Twitter Age Expert Answers Aging Questions From Twitter Fertility Expert Answers Questions From Twitter Biological Anthropologist Answers Love Questions From Twitter Mathematician Answers Math Questions From Twitter Statistician Answers Stats Questions From Twitter Sleep Expert Answers Questions From Twitter Botanist Answers Plant Questions From Twitter Ornithologist Answers Bird Questions From Twitter Alex Honnold Answers MORE Rock Climbing Questions From Twitter Former FBI Agent Answers MORE Body Language Questions From Twitter Waste Expert Answers Garbage Questions From Twitter Garbage Boss Answers Trash Questions From Twitter J. Kenji López-Alt Answers Cooking Questions From Twitter Veterinarian Answers Pet Questions From Twitter Doctor Answers Gut Questions From Twitter Chemist Answers Chemistry Questions From Twitter Taste Expert Answers Questions From Twitter Paleontologist Answers Dinosaur Questions From Twitter Biologist Answers More Biology Questions From Twitter Biologist Answers Even More Biology Questions From Twitter ER Doctor Answers Injury Questions From Twitter Toxicologist Answers More Poison Questions From Twitter Energy Expert Answers Energy Questions From Twitter BBQ Pitmaster Answers BBQ Questions From Twitter Neil Gaiman Answers Mythology Questions From Twitter Sushi Chef Answers Sushi Questions From Twitter The Lord of the Rings Expert Answers Tolkien Questions From Twitter Audiologist Answers Hearing Questions From Twitter Marine Biologist Answers Shark Questions From Twitter Bill Nye Answers Science Questions From Twitter - Part 4 John McEnroe Answers Tennis Questions From Twitter Malcolm Gladwell Answers Research Questions From Twitter Financial Advisor Answers Money Questions From Twitter Stanford Computer Scientist Answers Coding Questions From Twitter Wildlife Vet Answers Wild Animal Questions From Twitter Climate Scientist Answers Earth Questions From Twitter Medical Doctor Answers Hormone Questions From Twitter James Hoffmann Answers Coffee Questions From Twitter Video Game Director Answers Questions From Twitter Robotics Professor Answers Robot Questions From Twitter Scam Fighters Answer Scam Questions From Twitter Forensics Expert Answers Crime Scene Questions From Twitter Chess Pro Answers Questions From Twitter Former FBI Agent Answers Body Language Questions From Twitter...Once Again Memory Champion Answers Questions From Twitter Neuroscientist Answers Illusion Questions From Twitter Immunologist Answers Immune System Questions From Twitter Rocket Scientists Answer Questions From Twitter How Vinyl Records Are Made (with Third Man Records) Neurosurgeon Answers Brain Surgery Questions From Twitter Therapist Answers Relationship Questions From Twitter Polyphia's Tim Henson Answers Guitar Questions From Twitter Structural Engineer Answers City Questions From Twitter Harvard Professor Answers Happiness Questions From Twitter A.I. Expert Answers A.I. Questions From Twitter Pizza Chef Answers Pizza Questions From Twitter Former CIA Chief of Disguise Answers Spy Questions From Twitter Astrophysicist Answers Space Questions From Twitter Cannabis Scientist Answers Questions From Twitter Sommelier Answers Wine Questions From Twitter Mycologist Answers Mushroom Questions From Twitter Genndy Tartakovsky Answers Animation Questions From Twitter Pro Card Counter Answers Casino Questions From Twitter Doctor Answers Lung Questions From Twitter Paul Hollywood & Prue Leith Answer Baking Questions From Twitter Geneticist Answers Genetics Questions From Twitter Sneaker Expert Jeff Staple Answers Sneaker Questions From Twitter 'The Points Guy' Brian Kelly Answers Travel Questions From Twitter Master Chef Answers Indian Food & Curry Questions From Twitter Archaeologist Answers Archaeology Questions From Twitter LegalEagle's Devin Stone Answers Law Questions From Twitter Todd McFarlane Answers Comics Questions From Twitter Reptile Expert Answers Reptile Questions From Twitter Mortician Answers Burial Questions From Twitter Eye Doctor Answers Eye Questions From Twitter Computer Scientist Answers Computer Questions From Twitter Neurologist Answers Nerve Questions From Twitter Hacker Answers Penetration Test Questions From Twitter Nutritionist Answers Nutrition Questions From Twitter Experts Predict the Future of Technology, AI & Humanity Doctor Answers Blood Questions From Twitter Sports Statistician Answers Sports Math Questions From Twitter Shark Tank's Mark Cuban Answers Business Questions From Twitter Marvel’s Spider-Man 2 Director Answers Video Game Questions From Twitter Criminologist Answers True Crime Questions From Twitter Physicist Answers Physics Questions From Twitter | Tech Support Chess Pro Answers More Questions From Twitter Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

@@ -1,0 +1,163 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Physicist Answers Physics Questions From Twitter | Tech Support About Released on 11/07/2023 I'm Jeffrey Hazboun, I'm a physicist.
+Let's answer some questions off the internet.
+This is Physics Support.
+[upbeat music] @PAzaz91 asks, how do black holes influence the space-time around them? Anything that's massive will bend space-time.
+So if I think about this sheet of elastic as being space-time with nothing in it, as soon as I put something that has any mass in there, it bends space-time around it.
+If I then take something really small like this marble and give it a little bit of oomph, it'll orbit around that object.
+And it's that following curved space-time is why the earth moves around the sun.
+So if I have a really big object and I look at what that looks like in space-time, that bends it even more.
+The key with a black hole is making something that's really, really dense, and as I increase that density, that stretches the space-time further and further and further down, so much that light can't escape that curvature anymore, and that's what we call a black hole.
+@petalsforjack asks, wait, what's space-time? Space-time is the thing that we live in.
+It is four dimensions, three dimensions of space and adding to that the dimension of time.
+It's what we're moving through as we sit still, it's what we're moving through as we walk through our house.
+@FrvnkieSmacks asks, how do you split an atom? What you're really doing is you're splitting the nucleus.
+And let's say this is the nucleus of a uranium atom, and what you do is you shoot another particle at it, usually a neutron, really, really fast.
+And when you shoot it at the nucleus, the nucleus breaks into pieces, into a few different pieces that are smaller nuclei.
+And when you do that, it also, as you can see, releases a lot of energy, and that's where the first nuclear bombs came from and that's where the energy we get from nuclear power comes from.
+User alir8203 asks, if the sun just suddenly disappeared, it would take us eight minutes to find out.
+But does earth still orbit where the sun was, or will it go out of the orbit immediately after it disappeared? The answer is it's gonna keep moving around the sun for another eight minutes.
+We don't know here on earth that the sun disappeared because it takes eight minutes for the light to get to us from the sun.
+It also takes eight minutes for any changes in gravity to get from the sun to us.
+@Mike_Bianchi asks, hasn't read a God-damned thing about physics since high school.
+Hey, did you hear about the gravitational waves? I have heard about the gravitational waves and I helped publish some of the recent results about gravitational waves.
+In case you haven't been paying attention, gravitational waves are these expansions and contractions of space-time that are traveling through space-time at us from super massive black holes at the centers of faraway galaxies.
+One of the really neat things about gravitational waves is they pass unimpeded through the universe.
+We can actually get closer to the Big Bang using observations of gravitational waves.
+So they're gonna teach us all kinds of neat stuff about the early universe.
+@only1_66 asks, one question, how do you detect gravitational waves in space-time? The first way we detected gravitational waves a few years ago was using lasers in big vacuum tubes.
+And you split a laser, you shoot it down two tubes, and you keep track of how far apart the mirrors are using the lasers to tell you the distance between the mirrors.
+That's called LIGO.
+The second way that we've learned to detect gravitational waves is by using these exotic stars called pulsars.
+They are really fast spinning stars that pulse every time they come into our line of sight.
+We watch those pulses over time, if the pulses arrive a little bit later or a little bit earlier, we can attribute that to the expansion and contraction of space-time between us and those stars.
+I'm part of a collaboration that looks at almost 70 of these stars in all different directions and we've been monitoring it for almost 20 years.
+@thetarekhatib asks, I'm genuinely paying you $1,000 if you answer this right.
+Is light a wave or a particle? The answer is that light is both a wave and a particle.
+We've known the wave-like properties of light for a long time.
+There's a classic experiment called the Young's double-slit experiment.
+Let's show it to you right now.
+Let's take down the lights.
+We're gonna take a laser pointer here, which is not how the original experiment was done.
+I'm just gonna take this plate that has a little tiny slit in it and point the laser through it.
+And what happens is it splits the light into two different waves and those waves are a little separated from each other.
+They're not quite matched up because two different waves are meeting up with each other, and this is what we call interfering, and that's what gives us that pattern.
+There's actually two waves hitting there and they're constructively interfering.
+So the black spots are actually the same as what you get in noise-canceling headphones.
+One of the waves is canceling out the other wave, and only a wave behaves like this.
+Lights, please.
+Light is actually something bigger than a wave or a particle, it's something we call a quantum field and that quantum field has particle-like characteristics and wave-like characteristics, and we can measure both.
+So I think you owe me a thousand bucks, dude.
+@Dr_Z_GCDisney asks, what's the difference between fission and fusion anyway? Do you wanna go fission with me? I don't want to be anywhere near where fission is happening.
+Fission is where you take a nucleus that's really big of an atom and you break it into pieces.
+Fusion is where you take pieces of atoms and you push them together to make something bigger.
+Fusion is what happens in the sun where really small nuclei come together, and that is a huge explosion.
+And we've been trying to build something like that on earth to make energy, we haven't been able to figure out how to control it yet.
+Shivanshu21212 asks, how will the universe end? The universe will end in the heat death of the universe, which just means that over time the universe is expanding and all of the light that we know about is going to get degraded and absorbed by black holes.
+It just gets really cold and really dark.
+We won't be able to see anything in the distance and just nothing.
+The heat death of the universe is not something to worry about because it's gonna happen 40 to 50 billion years in the future, and we're only about 14 billion years from the beginning of the universe.
+@ClwnPrncCharlie asks, wait, are black holes/wormholes actually spheres? Watching Interstellar.
+Black holes are pretty much perfect spheres.
+If they're spinning, they are a little bit more expanded around their equator where they're spinning than at their poles, but pretty much spheres.
+So in that classic image from Interstellar, you see this pretty much spherical black hole at the center and then you see all of this light, which is the light from the other side of the black hole getting bent around it.
+And that disk that you see across the front, that tells you that the black hole is actually spinning.
+And every black hole that we know of is spinning, like every other star in the universe.
+@52xmax asks, what's so special about special relativity? Well, that's relative.
+Einstein, probably.
+Special relativity is special for a few reasons.
+Number one, it gives us a universal speed limit, which is the speed of light.
+Nothing can go faster than the speed of light, and that's unique to Einstein.
+He figured this out in 1905 and no one had really thought that there was any kind of universal speed limit.
+Couple other things that are really special about special relativity are that it tells you if you're moving close to the speed of light, time dilates, it gets longer.
+So if you're moving really fast, you experience time more slowly than someone who's not moving really fast.
+@cowboyvard asks, can someone explain the twin paradox to me in simple terms? You have two twins, both on earth, one of the twins decides to be an astronaut.
+She takes off in a spaceship going super fast, almost the speed of light.
+It takes her 50 years to go out to a star and come back.
+When the astronaut comes back, the twin that remained, she's 50 years older, the other twin might only be 20 years old depending on how fast she was going.
+And so it's the person in the rocket that will see time move more slowly and will only age 20 years.
+@ayresforce1 asks, the speed of light as constant is falsehood.
+What's the speed of light in water? Slower? The speed of light as a constant is not a falsehood.
+We have a glass of water and I'm gonna put this pencil in there.
+And when I put the pencil in, the pencil looks bent, the light that's coming out that you're seeing is bent.
+And that bending comes from the fact that as the light hits it at some angle, it sort of veers in that direction.
+The light's interacting with the water, it's getting absorbed and remitted.
+It's seeing a little bit longer path as it gets scattered, and it's that that makes the light look like it's bent, those interactions take a little bit of time, and that's why we say that it's effectively moving more slowly.
+Between one interaction and the next, the speed of light is the speed of light.
+@aquariusdonkek asks, the question is, how does time dilation work? Long story short, time dilation is the fact that when you're moving really close to the speed of light, time passes more slowly.
+It's pretty simple to write down.
+The time that passes for someone who's moving at some speed is proportional to how time is passing for someone who's not moving at that speed.
+And there's this funky square root down here.
+And what matters is the comparison of how fast that person's moving, that's what V is, as compared to the speed of light.
+And in that line there.
+And as you go faster and faster and faster, that factor of delta t prime gets longer and longer and longer, so time is passing more and more slowly.
+When you get to the speed of light, time no longer passes.
+@neilcameron78 asks, are black holes really wormholes? Or are wormholes really black holes? Eh, eh? #science.
+We know black holes exist.
+We can see evidence for them out there.
+We've seen light around these black holes and what it looks like.
+We've seen the silhouette of a black hole.
+Wormholes are a shortcut through space-time from one place to another.
+The first idea of a wormhole is something called an Einstein-Rosen Bridge.
+It would take moving faster than the speed of light to travel through.
+And we have no evidence whatsoever that wormholes exist.
+Some physicists have posited that if we use some of the special characteristics of quantum field theory, that maybe we can create tiny, tiny little wormholes that we can send a signal through from one place in space-time to another.
+And while these have been successful as thought experiments and successful as computer simulations, it's not yet been seen in the real world in a real-life experiment.
+@MATTP1949 asks, you think time travel is possible under current physics understanding? No, probably not, at least not from what we understand right now.
+There's a couple of ways to think about how we might travel in time.
+One way is using a wormhole.
+Some physicists have done this thought experiment and written down all of the pieces you would need.
+So you build a wormhole that somehow changes and tunnels through space-time back into the past.
+You write down the math for what that wormhole looks like.
+The kind of matter that you would need to hold that wormhole open doesn't exist in our current understanding of physics.
+The type of matter that you would need to hold a wormhole open is called exotic matter, things like negative energy density, which what does that mean? It means like thinking of something with negative mass.
+So I don't know if we're going to be building a time machine anytime soon unless we can figure out how to find and make this exotic matter.
+Brad_alexandru asks, is there anything infinite in the real world, or is infinity just a concept in our mind? Infinity is not just a concept in our minds.
+The most important infinity that I study is that the universe is infinite.
+So that's a great example of something that's infinite.
+We use infinities all the time when we're making predictions in physics, and it turns out that the size of the universe is infinite.
+The amount of time the universe will be around is also infinite.
+@OneDayWellBeOk asks, quick question, does anybody know the difference between particle physics and quantum physics, please? Particle physics is a small part of quantum physics.
+And quantum physics is the area of physics that really studies small stuff and the interactions on really, really small scales, but particle physics focuses on the particles that make up atoms, the fundamental particles that make up everything around us.
+@Cipher707 asks, I thought quantum physics was a fanfic.
+Absolutely not.
+Quantum physics is how the world works, but you have to look at a really small scale to understand what's going on.
+If I throw a ball up in the air, it comes down back into my hand, that's classical physics.
+Quantum physics acts in surprising ways.
+So instead of having pure predictions about what's gonna happen at a quantum level, we just get probabilities.
+There's a 50% chance that this thing is gonna happen, a 20% chance that this other thing is going to happen.
+If you watch a lot of Marvel movies, I could see why you'd think it was fanfic, because it gets used anytime you don't know how to explain the science that you wanna do.
+@ravenbiter asks, lecturer just asked what Heisenberg contributed to physics and loads of people answered crystal meth.
+That's a different Heisenberg.
+The Heisenberg that we know is a very famous quantum physicist.
+He worked with the German government during World War II, but he's really well known for being one of the people who figured out all of these rules of quantum mechanics really early on.
+He came up with something called the uncertainty principle.
+Basically, if I know one aspect of a particle, like where it is, I can't know how fast it's moving very well, or if I know how fast it's moving, I can't know where it is.
+@tim_amburgey asks, I just learned about quantum entanglement and I'm shook.
+How can two particles be so connected that they affect each other even when they're light-years apart? Is this the secret to long-distance relationships? #quantumlove.
+Two particles light-years apart can absolutely be connected if we've set them up in a entangled state.
+And what that means is we take two particles where the measurement has something to do with chance.
+So if I roll this dice, whatever value I get on that face, I'm gonna get the same value on the other dice if that's how I've set up the entangled system.
+And these two particles can be very, very far apart from each other.
+And this is just how nature works.
+The weird part about this is the chance that no matter how I roll the dice, whatever it lands on, the other dice will land on the same exact value.
+This is just a fundamental way about how the universe works.
+@u_tibi asks, what the hell does the Large Hadron Collider do anyways? The Large Hadron Collider is the largest particle accelerator in the world.
+It is a huge 10-kilometer circle in Switzerland where we take two streams of protons.
+Protons are a kind of hadron, hadrons are really heavy particles.
+Takes those two streams of protons and aligns them just right, they're going almost the speed of light, not quite, but almost the speed of light, and smashes them into each other.
+The faster you can get those protons to go, the more stuff comes out of that explosion when you smash 'em together.
+We're making new particles that we haven't seen before.
+They're part of nature, but they take so much energy to make that they haven't been around since the Big Bang when the universe was really tiny and really, really energetic.
+So not only are we learning about these fundamental forces, we're also learning about physics right at the beginning of our universe.
+@PhysicsInHistory asks, is string theory really a dead end? No, it's not a dead end.
+String theory is a theory that says, instead of the fundamental pieces of the universe being particles, they're strings.
+And these strings can vibrate in different ways.
+You can have strings that are long, you can have strings that are in loops.
+And not only does it describe all of particle physics and quantum mechanics, some pieces of this actually predict what quantum gravity would look like, gravity on a really small scale, which is not a theory that we have right now.
+So those are all the questions for today.
+Thanks for such insightful questions.
+Thanks for watching Physics Support.
+Gordon Ramsay Answers Cooking Questions From Twitter Ken Jeong Answers Medical Questions From Twitter Bill Nye Answers Science Questions From Twitter Blizzard's Jeff Kaplan Answers Overwatch Questions From Twitter Nick Offerman Answers Woodworking Questions From Twitter Bungie's Luke Smith Answers Destiny Questions From Twitter Jackie Chan & Olivia Munn Answer Martial Arts Questions From Twitter Scott Kelly Answers Astronaut Questions From Twitter LaVar Ball Answers Basketball Questions From Twitter Dillon Francis Answers DJ Questions From Twitter Tony Hawk Answers Skateboarding Questions From Twitter Jerry Rice Answers Football Questions From Twitter Garry Kasparov Answers Chess Questions From Twitter U.S. Olympic and Paralympic Athletes Answer Olympics Questions From Twitter Neuroscientist Anil Seth Answers Neuroscience Questions From Twitter Blizzard's Ben Brode Answers Hearthstone Questions From Twitter John Cena Answers Wrestling Questions From Twitter The Slow Mo Guys Answer Slow Motion Questions From Twitter Bill Nye Answers Even More Science Questions From Twitter James Cameron Answers Sci-Fi Questions From Twitter Best of Tech Support: Bill Nye, Neil DeGrasse Tyson and More Answer Science Questions from Twitter Riot Games' Greg Street Answers League of Legends Questions from Twitter Riot Games' Greg Street Answers Even More League of Legends Questions from Twitter PlayerUnknown Answers PUBG Questions From Twitter Liza Koshy, Markiplier, Rhett & Link, and Hannah Hart Answer YouTube Creator Questions From Twitter NCT 127 Answer K-Pop Questions From Twitter Neil deGrasse Tyson Answers Science Questions From Twitter Ken Jeong Answers More Medical Questions From Twitter Bon Appétit's Brad & Claire Answer Cooking Questions From Twitter Bang Bang Answers Tattoo Questions From Twitter Ed Boon Answers Mortal Kombat 11 Questions From Twitter Nick Jonas and Kelly Clarkson Answer Singing Questions from Twitter Penn Jillette Answers Magic Questions From Twitter The Russo Brothers Answer Avengers: Endgame Questions From Twitter Alex Honnold Answers Climbing Questions From Twitter Sloane Stephens Answers Tennis Questions From Twitter Bill Nye Answers Science Questions From Twitter - Part 3 Astronaut Nicole Stott Answers Space Questions From Twitter Mark Cuban Answers Mogul Questions From Twitter Ubisoft's Alexander Karpazis Answers Rainbow Six Siege Questions From Twitter Marathon Champion Answers Running Questions From Twitter Ninja Answers Fortnite Questions From Twitter Cybersecurity Expert Answers Hacking Questions From Twitter Bon Appétit's Brad & Chris Answer Thanksgiving Questions From Twitter SuperM Answers K-Pop Questions From Twitter The Best of Tech Support: Ken Jeong, Bill Nye, Nicole Stott and More Twitter's Jack Dorsey Answers Twitter Questions From Twitter Jodie Whittaker Answers Doctor Who Questions From Twitter Astronomer Jill Tarter Answers Alien Questions From Twitter Tattoo Artist Bang Bang Answers More Tattoo Questions From Twitter Respawn Answers Apex Legends Questions From Twitter Michael Strahan Answers Super Bowl Questions From Twitter Dr. Martin Blaser Answers Coronavirus Questions From Twitter Scott Adkins Answers Martial Arts Training Questions From Twitter Psychiatrist Daniel Amen Answers Brain Questions From Twitter The Hamilton Cast Answers Hamilton Questions From Twitter Travis & Lyn-Z Pastrana Answer Stunt Questions From Twitter Mayim Bialik Answers Neuroscience Questions From Twitter Zach King Answers TikTok Questions From Twitter Riot Games Answers League of Legends Questions from Twitter Aaron Sorkin Answers Screenwriting Questions From Twitter Survivorman Les Stroud Answers Survival Questions From Twitter Joe Manganiello Answers Dungeons & Dragons Questions From Twitter "Star Wars Explained" Answers Star Wars Questions From Twitter Wizards of the Coast Answer Magic: The Gathering Questions From Twitter "Star Wars Explained" Answers More Star Wars Questions From Twitter VFX Artist Answers Movie & TV VFX Questions From Twitter CrossFit Coach Answers CrossFit Questions From Twitter Yo-Yo Ma Answers Cello Questions From Twitter Mortician Answers Cadaver Questions From Twitter Babish Answers Cooking Questions From Twitter Jacob Collier Answers Music Theory Questions From Twitter The Lord of the Rings Expert Answers More Tolkien Questions From Twitter Wolfgang Puck Answers Restaurant Questions From Twitter Fast & Furious Car Expert Answers Car Questions From Twitter Former FBI Agent Answers Body Language Questions From Twitter Olympian Dominique Dawes Answers Gymnastics Questions From Twitter Allyson Felix Answers Track Questions From Twitter Dr. Michio Kaku Answers Physics Questions From Twitter Former NASA Astronaut Answers Space Questions From Twitter Surgeon Answers Surgery Questions From Twitter Beekeeper Answers Bee Questions From Twitter Michael Pollan Answers Psychedelics Questions From Twitter Ultramarathoner Answers Questions From Twitter Bug Expert Answers Insect Questions From Twitter Former Cult Member Answers Cult Questions From Twitter Mortician Answers MORE Dead Body Questions From Twitter Toxicologist Answers Poison Questions From Twitter Brewmaster Answers Beer Questions From Twitter Biologist Answers Biology Questions From Twitter James Dyson Answers Design Questions From Twitter Dermatologist Answers Skin Questions From Twitter Dwyane Wade Answers Basketball Questions From Twitter Baker Answers Baking Questions from Twitter Astrophysicist Answers Questions From Twitter Age Expert Answers Aging Questions From Twitter Fertility Expert Answers Questions From Twitter Biological Anthropologist Answers Love Questions From Twitter Mathematician Answers Math Questions From Twitter Statistician Answers Stats Questions From Twitter Sleep Expert Answers Questions From Twitter Botanist Answers Plant Questions From Twitter Ornithologist Answers Bird Questions From Twitter Alex Honnold Answers MORE Rock Climbing Questions From Twitter Former FBI Agent Answers MORE Body Language Questions From Twitter Waste Expert Answers Garbage Questions From Twitter Garbage Boss Answers Trash Questions From Twitter J. Kenji López-Alt Answers Cooking Questions From Twitter Veterinarian Answers Pet Questions From Twitter Doctor Answers Gut Questions From Twitter Chemist Answers Chemistry Questions From Twitter Taste Expert Answers Questions From Twitter Paleontologist Answers Dinosaur Questions From Twitter Biologist Answers More Biology Questions From Twitter Biologist Answers Even More Biology Questions From Twitter ER Doctor Answers Injury Questions From Twitter Toxicologist Answers More Poison Questions From Twitter Energy Expert Answers Energy Questions From Twitter BBQ Pitmaster Answers BBQ Questions From Twitter Neil Gaiman Answers Mythology Questions From Twitter Sushi Chef Answers Sushi Questions From Twitter The Lord of the Rings Expert Answers Tolkien Questions From Twitter Audiologist Answers Hearing Questions From Twitter Marine Biologist Answers Shark Questions From Twitter Bill Nye Answers Science Questions From Twitter - Part 4 John McEnroe Answers Tennis Questions From Twitter Malcolm Gladwell Answers Research Questions From Twitter Financial Advisor Answers Money Questions From Twitter Stanford Computer Scientist Answers Coding Questions From Twitter Wildlife Vet Answers Wild Animal Questions From Twitter Climate Scientist Answers Earth Questions From Twitter Medical Doctor Answers Hormone Questions From Twitter James Hoffmann Answers Coffee Questions From Twitter Video Game Director Answers Questions From Twitter Robotics Professor Answers Robot Questions From Twitter Scam Fighters Answer Scam Questions From Twitter Forensics Expert Answers Crime Scene Questions From Twitter Chess Pro Answers Questions From Twitter Former FBI Agent Answers Body Language Questions From Twitter...Once Again Memory Champion Answers Questions From Twitter Neuroscientist Answers Illusion Questions From Twitter Immunologist Answers Immune System Questions From Twitter Rocket Scientists Answer Questions From Twitter How Vinyl Records Are Made (with Third Man Records) Neurosurgeon Answers Brain Surgery Questions From Twitter Therapist Answers Relationship Questions From Twitter Polyphia's Tim Henson Answers Guitar Questions From Twitter Structural Engineer Answers City Questions From Twitter Harvard Professor Answers Happiness Questions From Twitter A.I. Expert Answers A.I. Questions From Twitter Pizza Chef Answers Pizza Questions From Twitter Former CIA Chief of Disguise Answers Spy Questions From Twitter Astrophysicist Answers Space Questions From Twitter Cannabis Scientist Answers Questions From Twitter Sommelier Answers Wine Questions From Twitter Mycologist Answers Mushroom Questions From Twitter Genndy Tartakovsky Answers Animation Questions From Twitter Pro Card Counter Answers Casino Questions From Twitter Doctor Answers Lung Questions From Twitter Paul Hollywood & Prue Leith Answer Baking Questions From Twitter Geneticist Answers Genetics Questions From Twitter Sneaker Expert Jeff Staple Answers Sneaker Questions From Twitter 'The Points Guy' Brian Kelly Answers Travel Questions From Twitter Master Chef Answers Indian Food & Curry Questions From Twitter Archaeologist Answers Archaeology Questions From Twitter LegalEagle's Devin Stone Answers Law Questions From Twitter Todd McFarlane Answers Comics Questions From Twitter Reptile Expert Answers Reptile Questions From Twitter Mortician Answers Burial Questions From Twitter Eye Doctor Answers Eye Questions From Twitter Computer Scientist Answers Computer Questions From Twitter Neurologist Answers Nerve Questions From Twitter Hacker Answers Penetration Test Questions From Twitter Nutritionist Answers Nutrition Questions From Twitter Experts Predict the Future of Technology, AI & Humanity Doctor Answers Blood Questions From Twitter Sports Statistician Answers Sports Math Questions From Twitter Shark Tank's Mark Cuban Answers Business Questions From Twitter Marvel’s Spider-Man 2 Director Answers Video Game Questions From Twitter Criminologist Answers True Crime Questions From Twitter Physicist Answers Physics Questions From Twitter | Tech Support Chess Pro Answers More Questions From Twitter Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

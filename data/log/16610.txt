@@ -1,0 +1,39 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Hearthstone’s Battlegrounds adds Dragons in massive 16.4 update Share on Facebook Share on X Share on LinkedIn There be dragons! Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+For weeks, fans of Hearthstone’s Battlegrounds have wondered when Dragons would come to Blizzard Entertainment’s auto-battler, and what this tribe would do in the mode. Finally, we know.
+Blizzard announced today that Dragons would be part of a number of changes coming to Battlegrounds today (Wednesday, February 26). The 16.4 patch adds seven new heroes along with 18 new minions (many of which are Dragons). The heroes include Reno Jackson, Galakrond the Awakened (as the star of the Descent of Dragons expansion, of course this wyrm is part of this), and the five original Dragon Aspects (Alexstrasza, Deathwing, Malygos, Nozdormu, Ysera). Eleven of the 18 new units are either Dragons or have synergies with the tribe, and with a host of uninspiring minions and heroes rotating out, along with some fatigue with existing archetypes, expect a lot of experimentation our of the gates.
+Auto-battlers like Auto Chess , Dota Underlords , and Teamflight Tactics are a rising market niche for online games. They combine the draft of card games with the placement of turn-based strategy, and they’ve proven to be massive hits both as games and as entertainment on Twitch. Tens of millions play the games. According to StreamElements, Battlegrounds hasn’t cracked the top 3 on Twitch or YouTube yet. But changes like this help keep games exciting and bring in new players and viewers. And Battlegrounds is still in beta.
+Here be Dragons Blizzard set up a special Battlegrounds realm for visiting press and other personalities at a recent Hearthstone briefing in Irvine, California. I played two matches, so while I had some time to tinker with these new units and heroes, I by no means had enough of a chance to give anything but my rudimentary thoughts as a rank amateur auto-battler.
+Event GamesBeat at the Game Awards We invite you to join us in LA for GamesBeat at the Game Awards event this December 7. Reserve your spot now as space is limited! First, let’s look at the new Heroes and their draconic powers: Galakrond: Galakrond’s Greed [Cost 1]: Replace a minion in Bob’s Tavern with a random one from a higher Tavern Tier.
+Deathwing: ALL Will Burn! [Passive]: All minions have +3 Attack.
+Ysera: Dream Portal [Cost 1]: Refresh and add a Dragon to Bob’s Tavern.
+Nozdormu: Clairvoyance [Passive]: Your first Refresh each turn costs (0).
+Malygos: Arcane Alteration [Cost 0]: Replace a minion with a random one of the same Tavern Tier.
+Alexstrasza: Queen of Dragons [Passive]: After you upgrade Bob’s Tavern to Tavern Tier 5, Discover two Dragons.
+Reno Jackson: Gonna Be Rich! [Cost 4]: Make a friendly minion Golden (once per game).
+In my two games, I only got offered one Dragon hero, Deathwing. The passive buff applies to all minions — yours, Bob’s, and your opponents. This was a surprise in the first round, as I had assumed it would buff your minions. Since I had limited time with it, it’s difficult to draw any conclusions, especially since I’m not sure how well this will work with the other new minions.
+However, I could see this working well with builds that prize minions with high health. But right now, with Demon and buffed-up Murloc lineups being so prevalent (though I did encounter someone with a Mech build with a gold 104/104 and a gold 72/70 Pogo-Hoppers), I’m not sure how much impact Deathwing’s power will have later in a match, though I can see it helping you get ahead if you have big butt minions early on.
+New Minions for the dirty work The 16.4 patch adds 18 minions to Bob’s Tavern. Here’s a rundown of what you’ll find when you play Battlegrounds later today or tomorrow. Some of these are new creations, and others are old favorites from previous expansions that have thrived either in Constructed or the Arena. You can check out each card in the gallery above as well.
+Dragonspawn Lieutenant [Dragon, Tier 1] 2 Attack, 3 Health: Taunt.
+Red Whelp [Dragon, Tier 1] 1 Attack, 2 Health: Start of Combat, deal 1 damage per friendly Dragon to one random enemy minion.
+Glyph Guardian [Dragon, Tier 2] 2 Attack, 4 Health: When this minion attacks, double its attack.
+Steward of Time [Dragon, Tier 2] 2 Attack, 4 Health: When you sell this minion, give all minions in Bob’s Tavern +1/+1.
+Waxrider Togwaggle [Tier 2] 1 Attack, 2 Health: Whenever a friendly Dragon kills an enemy, gain +2/+2.
+Unstable Ghoul [Tier 2] 1 Attack, 3 Health: Taunt, Deathrattle: Deal 1 damage to all minions.
+Bronze Warden [Dragon, Tier 3] 2 Attack, 1 Health: Divine Shield, Reborn.
+Hangry Dragon [Dragon, Tier 3] 4 Attack, 4 Health: At the start of your turn, if you won the last combat get +2/+2.
+Drakonid Enforcer [Dragon, Tier 4] 3 Attack, 6 Health: After a friendly minion loses Divine Shield, gain +2/+2.
+Murozond [Dragon, Tier 5]: Battlecry: Add a minion to your hand from your last opponent’s warband.
+Herald of Flame [Dragon, Tier 4] 5 Attack, 4 Health: Overkill: Deal 3 damage to the left-most enemy minion.
+Cobalt Scalebane [Dragon, Tier 4] 5 Attack, 5 Health: At the end of your turn, give another random friendly minion +3 Attack.
+Murozond [Dragon, Tier 5] 5 Attack, 5 Health: Battlecry: Add a minion to your hand from your last opponent’s warband.
+Twilight Emissary [Dragon, Tier 5] 6 Attack, 8 Health: Taunt, Battlecry: Give a friendly Dragon +3/+3.
+Razorgore, the Untamed [Dragon, Tier 5] 2 Attack, 4 Health: At the end of your turn, gain +1/+1 for each Dragon you have.
+Holy Mackerel [Murloc, Tier 6] 8 Attack, 4 Health: After another friendly minion loses Divine Shield, gain Divine Shield.
+Imp Mama [Demon, Tier 6] 6 Attack, 8 Health: Whenever this minion takes damage, summon a random Demon and give it Taunt.
+Kalecgos, Arcane Aspect [Dragon, Tier 6] 2 Attack, 8 Health: After you play a minion with Battlecry, give your Dragons +1/+1.
+Nadina the Red [Tier 6] 7 Attack, 4 Health: Deathrattle: Give your Dragons Divine Shield.
+The Dragon Whelp felt powerful, even if it only does 1 damage as opposed to the 3 damage from the Soul Juggler. It’s enough to ping away Divine Shields and weak minions early on, but in my limited time with the 16.4 patch, it didn’t feel strong enough later on to make much of a difference, especially with a number of Divine Shield minions leaving the format.
+1 2 View All Join the GamesBeat community! Enjoy access to special events, private newsletters and more.
+VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

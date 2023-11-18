@@ -1,0 +1,25 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Task management startup Asana is launching a major revamp Share on Facebook Share on X Share on LinkedIn Asana cofounders Dustin Moskovitz, left, and Justin Rosenstein at a press event at the startup's San Francisco headquarters on Sept. 30.
+Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship.
+Learn more.
+Task management app Asana today is rolling out a major revamp to all users on web and mobile.
+“The news today is that we’re unveiling a new version of Asana that will empower more teams to do great things together more easily than what has ever been possible,” Asana cofounder and chief executive Dustin Moskovitz told reporters at an event at the company’s San Francisco headquarters today.
+Above: The new look of Asana.
+Asana has been working on a redesign for the past year. The new version has more white space, a different typeface, and interesting use of color for different actions.
+“It’s a simpler, clearer, more energizing experience,” Vanessa Koch, the lead designer on the redesign, said at the event.
+There’s a new Asana Conversations feature to keep in touch with employees, too. You can create tasks inside of the new Conversations section, said product manager Jennifer Nan.
+Above: The new Asana Conversations feature.
+But Asana isn’t stoping there. Another new feature will provide spreadsheet-like functionality, with easy filtering and dashboards. And from there Asana can notify those who are involved with a task.
+Currently in beta, this feature, called Track Anything, will ship in early 2016.
+Above: Charts in the Progress tab built with data in Asana.
+Asana is looking to open up Track Anything for third-party app developers to help companies make the service work exactly how they need it to.
+Finally, Asana has a new logo and design language.
+“These three dots represent teammates working together, with this glow of energy that’s uniting them,” Asana cofounder Justin Rosenstein told reporters.
+Above: The new Asana logo.
+Taken together, the new Asana will be able to do things that people have typically done outside of Asana, including email, chat (hello, Slack!), spreadsheets, and even customer-relationship management software. And that makes Asana more of a threat to other task management tools, including Trello and Wrike.
+“There’s a lot going on right now, but there’s still some big opportunities,” Moskovitz said.
+Asana started in 2009. after Moskovitz and Rosenstein built a work-tracking tool to use internally at Facebook. The startup last raised funding — with a $28 million round at a $280 million valuation.
+More than 140,000 companies now use Asana, Moskovitz said. Companies using the app include BuzzFeed, Cisco, Harvard University, NASA, the New York Mets, Snapchat, and Tesla.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

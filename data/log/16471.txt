@@ -1,0 +1,41 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Opinion ProBeat: What we’ve learned so far from Zoom’s big boom Share on Facebook Share on X Share on LinkedIn Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here.
+Not a day goes by in the age of the coronavirus (COVID-19) without a mention of Zoom. The video conferencing tool is being used by political parties, corporate offices, school districts, small businesses, and individuals needing to connect as they work and learn from home.
+ We now finally have some numbers to quantify the jump: Zoom went from 10 million daily active users to 200 million daily active users in three months.
+Let’s put those numbers into context. Skype’s daily active users grew by 70% month over month.
+ Microsoft Teams’ daily active users jumped 110% in four months.
+ Zoom’s daily active users exploded 1,900% in three months.
+Such a drastic increase in usage is a huge boon for any company, let alone one like Zoom that hasn’t been public for even a year.
+ It also brings plenty of technical obstacles, and even more questions. This is common in tech; the more popular a service gets, the more problems it has, and the more scrutiny it receives. The problems compound if the rise is razor-sharp.
+Scale, settings, and security There are three categories of learnings. The first is scale.
+ Any company that grows 20X in 3 months would struggle. Case studies will be written on how Zoom was able to adapt its infrastructure to the astronomical demand in weeks and often probably days. The learning here is Zoom made the right investments early on and was able to do a phenomenal job increasing its capacity.
+VB Event The AI Impact Tour Connect with the enterprise AI community at VentureBeat’s AI Impact Tour coming to a city near you! The second is settings.
+ There has been a ton of confusion on why Zoom works in certain ways, how to avoid Zoombombing trolls, and what you can do to protect your privacy in general. For its K-12 program, Zoom has changed the settings so virtual waiting rooms are on by default, and so that teachers are the only ones who can share content in class by default. If you’re not in that program, you may want to change your Zoom settings as well — the EFF has a handy guide.
+ The learning here is never underestimate the importance of defaults.
+The third is security.
+ This should not be conflated with settings. While Zoom wasn’t designed for consumer use, security researchers have identified plenty of issues that can’t be changed with a setting. Zoom has responded swiftly, but plenty of damage has already been done. The learning here is you can never start taking security seriously too early.
+Zoom’s whole business is about making video calling easy to use. It’s easy to make software easy to use. It’s hard to make secure software easy to use.
+Security scrutiny Over the past few weeks, Zoom has been the subject of too many security headlines to list. Just this week alone, we’ve seen: New York’s attorney general sent a letter to Zoom over security vulnerabilities and privacy concerns.
+While Zoom claimed to use end-to-end encryption , its video and audio content from meetings is not end-to-end encrypted.
+Zoom’s macOS installer was leveraging malware tricks.
+Zoom’s Windows client was letting attackers use UNC to steal Windows login credentials.
+Per a California lawsuit, Zoom is being sued for sharing users’ personal data with Facebook via its iOS app, even when those users don’t have Facebook accounts.
+Zoom was letting users covertly access data from some people’s LinkedIn profiles.
+Zoom is using encryption keys issued by servers in Beijing , even for calls outside of China.
+That’s not an exhaustive list for the week, but hopefully it explains why SpaceX banned Zoom and called it a day.
+For its part, Zoom has apologized for the slew of failures and froze development of new features to focus on security and privacy. The company has done a lot to address some of the issues, including: Removed the Facebook SDK in its iOS client and prevented it from collecting unnecessary device information from users.
+Permanently removed the attendee attention tracker feature.
+Released fixes for two Mac-related issues.
+Released a fix for the Windows UNC link issue.
+Permanently removed the LinkedIn Sales Navigator app after identifying unnecessary data disclosure.
+It’s great that Zoom didn’t waste time discounting the claims and instead acted quickly. The company didn’t really have a choice if it wants to keep its 20X larger user base. But it’s concerning that so many issues existed in the first place. And the hits are going to keep coming.
+Zoom is playing Whac-A-Mole.
+ Just yesterday, infamous security journalist Brian Krebs highlighted an automated Zoom conference meeting finder “zWarDial” that discovers some 100 meetings per hour that aren’t protected by passwords. It can then extract a Zoom meeting’s link, date, time, organizer, and topic. Today, we learned a simple web search can unearth thousands of Zoom calls recorded in people’s homes. Zoom has fundamental flaws that no amount of band-aids can fix.
+Long-term solutions Zoom CEO Eric Yuan today shared that soon, all meetings will require password protection. Depending on the execution, that might disrupt the ease of joining a Zoom meeting. Already, the process has an additional step compared to browser-based video conferencing tools in that Zoom requires installation.
+Yuan also says Zoom will double down on its bug bounty program. This is a smart move — bug bounty programs motivate individuals and hacker groups to not only find flaws your security team didn’t, but to disclose them properly. Otherwise they are more likely to use them maliciously or sell them to parties who will. Rewarding security researchers with bounties costs peanuts compared to paying for security snafus.
+Most importantly, however, Yuan said that if he can’t turn Zoom into the “most secure platform in the world” in the next several years, he’ll consider open-sourcing Zoom’s code. That’s a big deal and would be a huge vote of confidence for the platform. It’s a lot easier to find security holes if you have all the code right in front of you.
+So why not just open-source it now? Based on everything we’ve seen, my bet is that Zoom’s code isn’t ready. It’s 20X harder to add security and privacy after the fact than to build it in from the start.
+ProBeat is a column in which Emil rants about whatever crosses him that week.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

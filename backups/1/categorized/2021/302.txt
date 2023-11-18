@@ -1,0 +1,433 @@
+Avalanches and edge-of-chaos learning in neuromorphic nanowire networks | Nature Communications
+2021
+https://www.nature.com/articles/s41467-021-24260-z
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+Advertisement View all journals Search Log in Explore content About the journal Publish with us Sign up for alerts RSS feed nature nature communications articles article Download PDF Download PDF Article Open access Published: 29 June 2021 Avalanches and edge-of-chaos learning in neuromorphic nanowire networks Joel Hochstetter ORCID: orcid.org/0000-0003-3460-7305 1 , Ruomin Zhu 1 , Alon Loeffler 1 , Adrian Diaz-Alvarez 2 , Tomonobu Nakayama ORCID: orcid.org/0000-0001-9696-475X 1 , 2 , 3 & … Zdenka Kuncic ORCID: orcid.org/0000-0001-6765-3215 1 , 2 , 4 Show authors Nature Communications volume 12 , Article number: 4008 ( 2021 ) Cite this article 15k Accesses 71 Citations 319 Altmetric Metrics details Subjects Complex networks Computational nanotechnology Nanowires Nonlinear phenomena Phase transitions and critical phenomena Abstract The brain’s efficient information processing is enabled by the interplay between its neuro-synaptic elements and complex network structure. This work reports on the neuromorphic dynamics of nanowire networks (NWNs), a unique brain-inspired system with synapse-like memristive junctions embedded within a recurrent neural network-like structure. Simulation and experiment elucidate how collective memristive switching gives rise to long-range transport pathways, drastically altering the network’s global state via a discontinuous phase transition. The spatio-temporal properties of switching dynamics are found to be consistent with avalanches displaying power-law size and life-time distributions, with exponents obeying the crackling noise relationship, thus satisfying criteria for criticality, as observed in cortical neuronal cultures. Furthermore, NWNs adaptively respond to time varying stimuli, exhibiting diverse dynamics tunable from order to chaos. Dynamical states at the edge-of-chaos are found to optimise information processing for increasingly complex learning tasks. Overall, these results reveal a rich repertoire of emergent, collective neural-like dynamics in NWNs, thus demonstrating the potential for a neuromorphic advantage in information processing.
+Introduction The age of big data has driven a renaissance in Artificial Intelligence (AI). Indeed, the ability of AI to find patterns in big data could arguably be described as super-human; the human brain is simply not designed for brute-force iterative optimisation at scale. Rather, the brain excels at processing information that is sparse, complex and changing dynamically in time. The increasing prevalence of streaming data requires a shift in neuro-inspired information processing paradigms, beyond static Artificial Neural Network (ANN) models used in AI. The brain’s unique capacity for adaptive, real-time learning is enabled by the complex interplay between its neuro-synaptic non-linear elements and a recurrent network topology 1 , with information processing manifested through emergent collective dynamics 2.
+Physically implemented neuro-inspired information processing has been demonstrated by nano-electronic device components that integrate memory and computation, enabling a shift away from the traditional von Neumann architecture. Resistive switching memories 3 are an important class of such devices known as memristors 4.
+ Their electrical response depends not only on applied stimulus, but also on memory to past signals 5 , which can mimic the short-term plasticity and long-term potentiation of neural synapses 6.
+ Utilising memristive switches as artificial synapses in crossbar architectures 7 has shown great promise in realising physical implementations of popular ANNs such as feed-forward 8 and convolutional neural networks 9.
+Self-assembled networks of metallic nanowires with memristive cross-point junctions 10 , 11 , 12 , 13 are an approach to move from rigid crossbar array architectures towards a more neural-like structure in hardware. Nanowire networks (NWNs) exhibit a small-world topology 14 , thought to be integral to the brain’s own efficient processing ability 15.
+ Electrochemical metallic filament growth through electrically insulating, ionically conducting coatings (e.g. metal-oxides 16 , Ag 2 S 10 or PVP 11 ), enables memristive switching at the metal-insulator-metal junctions 11 , 17.
+ The interplay between memristive switching and a recurrent network topology promotes emergence of collective, adaptive dynamics, such as formation of conducting transport pathways that can be dynamically tuned 18 , 19 , giving networks a biologically plausible structural plasticity 20.
+ These neuromorphic properties equip NWNs with unique learning potential, with applications ranging from shortest-path optimisation 21 to associative memory 22.
+ Additionally, the neuromorphic dynamics of NWNs may be exploited for processing dynamic data in a reservoir computing framework 23 , as shown in both experimental 24 , 25 and simulation 26 , 27 , 28 studies.
+It has been widely postulated that optimal information processing in non-linear dynamical systems may be achieved close to a phase transition, in a state known as criticality 29.
+ Distinct phase transitions are associated with criticality, notably ‘avalanche criticality’ 30 and ‘edge-of-chaos criticality’ 31.
+ In avalanche criticality, a system lies at the critical point of an activity–propagation transition where perturbations to the system may trigger cascades over a range of sizes and duration, characterised by scale-free power-law distributions. In sub-critical systems, activity can only propagate locally. Super-critical systems exhibit characteristically large avalanches that span the system. Scale-invariant avalanches, concomitant with avalanche criticality, have been observed in neuronal cultures 29 , 32 , 33 and neuromorphic systems comprised of percolating nanoparticles 34.
+ In edge-of-chaos criticality, dynamical states lie between order and disorder and the system retains infinite memory to perturbations. Edge-of-chaos dynamics have been observed in cortical networks 35 and appear to optimise computational performance in recurrent neural networks 36 , echo state networks 37 and random boolean networks 38.
+The observation of 1/ f power spectra in neuromorphic NWNs has led to the suggestion that they may be poised at criticality 12 , 39.
+ While necessary, 1/ f spectra are insufficient for criticality as 1/ f noise can be produced by a diverse range of processes without spatio-temporal correlations, including uncoupled networks of isolated memristors 40.
+ Here, we present evidence for avalanche criticality in memristive NWNs and show that a critical-like state occurs near a first-order (discontinuous) phase transition. We also present the first evidence for edge-of-chaos criticality in neuromorphic NWNs and demonstrate that information processing is optimised at the edge-of-chaos for computationally complex tasks. Our results reveal new insights into neuro-inspired learning, suggesting that in addition to non-linear neuro-memristive junctions, the adaptive collective dynamics facilitated by neuromorphic network structure is essential for emergent brain-like functionality.
+Results A physically motivated model for neuromorphic structure and function in nanowire networks PVP-coated Ag nanowires self-assemble to form a highly disordered, complex network topology (experiment: Fig.
+1 a; simulation: Supplementary Fig.
+1 ). As a neuromorphic device, NWNs are operated by applying an electrical bias between fixed electrode locations across the network 12 , 22.
+ To gain deeper insight into the neuromorphic dynamics, a physically motivated computational model of Ag-PVP NWNs was developed. The model is briefly described here (see Methods for further details).
+a Optical microscope image of a self-assembled Ag-PVP NWN (scalebar = 100 μm).
+b Biased nanowire-nanowire junctions promote Ag + migration and redox-induced Ag filament formation through the electrically insulating, ionically conducting PVP layer. Filament gap distance s varies from \({s}_{\max }\) to 0. Junction resistance is modelled as a constant series resistance ( \({R}_{r}={R}_{{\rm{off}}}={G}_{{\rm{off}}}^{-1}\) ), in parallel with constant filamentary resistance ( \({R}_{{\rm{f}}}={{\rm{G}}}_{0}^{-1}\) ) and time-dependent tunnelling resistance ( R t ).
+c Junction conductance ( \({G}_{{\rm{jn}}}={R}_{{\rm{jn}}}^{-1}\) ) and s , as a function of state variable Λ( t ). As ∣ Λ ∣ increases, the junction transitions from high resistance to tunnelling and then ballistic transport.
+Full size image Ag ∣ PVP ∣ Ag junctions lie at the intersection between nanowires. These electrical junctions are modelled as voltage-controlled memristors 12 , 41.
+ Λ( t ) represents the state of a junction’s conductive Ag filament in the PVP layer (Fig.
+1 b, Eq. ( 5 )), and is closely related to the physical filament gap distance (Fig.
+1 b, c, Eq. ( 8 )) that determines the junction’s conductance ( \({G}_{{\rm{jn}}}(t)={R}_{{\rm{jn}}}^{-1}={I}_{{\rm{jn}}}/{V}_{{\rm{jn}}}\) ).
+A junction filament grows when voltage exceeds a threshold: ∣ V jn ∣ > V set.
+ The sign of Λ( t ) encodes the junction polarity: a filament approaches \({{\Lambda }}={{{\Lambda }}}_{\max }\) when V jn > V set and approaches \({{\Lambda }}=-{{{\Lambda }}}_{\max }\) when V jn < − V set.
+ When the voltage is sufficiently low ( ∣ V jn ∣ < V reset ), the filament decays towards Λ = 0, as a result of thermodynamic instability. The rate of filament growth or decay is determined by the voltage difference relative to V set or V reset.
+ Hence, Λ( t ) encodes a junction’s memory to past electrical stimuli. See Methods (Eq. ( 5 ), Fig.
+9 ) for full mathematical details.
+Figure 1 c shows the non-linear dependence of G jn on ∣ Λ ∣ that produces switch-like junction dynamics. When 0 ≤ ∣ Λ ∣ < Λ crit , the junction is insulating ( G jn = G off ≪ G on , where G on = G 0 is the conductance quantum). As ∣ Λ ∣ approaches Λ crit , the junction transitions to a tunnelling regime where conductance exponentially grows as ∣ Λ ∣ increases. After the filament has grown ( \({{{\Lambda }}}_{{\rm{crit}}}\le | {{\Lambda }}| \,<\,{{{\Lambda }}}_{\max }\) ), the filament tip width is the limiting factor of conductance and transport is ballistic, with G jn = G on = G 0.
+Next, simulations using this model are presented analysing the network level dynamics of this neuromorphic system.
+Adaptive network dynamics near a discontinuous phase transition NWNs driven by a constant bias V converge to a steady-state conductance (simulation: Fig.
+2 ; experiment: Supplementary Fig.
+2 a). The transient dynamics of the network conductance time-series, G nw ( t ), occurs in steps, as the network shifts between metastable states (plateaus in G nw ). Above a threshold voltage V th , NWNs exhibit system-level switching, with G nw dramatically increasing by three orders of magnitude. Post-activation, the conductance increase slows to a rate comparable with pre-activation (on logarithmic scale). Increasing V increases the activation rate and diminishes the step-like increases in conductance. These qualitative features of G nw ( t ) are independent of the specific network and voltage in simulation and experiment.
+Simulations using a 100 nanowire, 261 junction NWN.
+a DC activation curves for an initially inactive NWN (Λ = 0 for all junctions) for increasing applied voltages ( V * = V / V th ), with V th = 0.09 V.
+b Snapshot visualisation of NWN, showing formation of first transport pathway, corresponding to shortest path length n.
+c Steady-state network conductance (with \({G}_{{\rm{nw}}}^{* }=n{G}_{nw}/{{\rm{G}}}_{0}\) ), as a function of V *.
+ Black circles are for an initially inactive network. Red triangles are for a network pre-activated by a 1.8 V DC bias. Inset shows a zoom-in near V * = 1 with a logarithmic vertical scale.
+Full size image Simulations reveal that in the Low Conductance State (LCS: G nw ≲ 10 −3 G 0 for this network), all network junctions exhibit low tunnelling conductance and no junctions are in a ballistic transport regime. The High Conductance State (HCS: G nw ≳ 10 −1 G 0 ) exhibits pathways of high-conductance junctions ( G jn ≈ G 0 ) spanning from source to drain electrodes. Figure 2 b shows a single pathway, however the HCS may also consist of multiple, parallel high conductance pathways at higher voltages (Supplementary Fig.
+3 ), and for large or dense networks with many equivalently short source-drain paths.
+Figure 2 c shows the steady-state G nw (re-scaled to \({G}_{\infty }^{* }=n{G}_{{\rm{nw}}}(t=\infty )/{{\rm{G}}}_{0}\) , where n is the graph length of the shortest path between source and drain electrodes) as a function of V * = V / V th for two different network initial states: an inactive (LCS) network, with all junctions initialised to Λ = 0 (black circles); and a network pre-activated (HCS) to \({G}_{{\rm{nw}}}^{* }=n{G}_{nw}/{{\rm{G}}}_{0}\approx 4.7\) by a 1.8 V = 20 V th DC bias for 10 s (red triangles). For V * < n V reset , networks always converge to a stable LCS, irrespective of initial conditions. Above this level, multiple stable \({G}_{\infty }^{* }\) states emerge. Multi-stable conductance states for a wider range of initial conditions are shown in Supplementary Fig.
+4.
+ Networks exhibit hysteresis, since initial junction filament states control which stable state is reached. In simulation, for all initial conditions, \({G}_{\infty }^{* }\) is always non-decreasing with V * , but this is not observed experimentally (Supplementary Fig.
+2 c) as it is difficult to prepare a network in exactly the same state before each activation (due to long-term memory of junctions). Additionally, persistent fluctuations from junction noise, not included in the model, can facilitate transitions between multi-stable states 12 , 39 (Supplementary Fig.
+2 b).
+A discontinuity in the order parameter (steady-steady conductance, \({G}_{\infty }^{* }\) ) between LCS ( \({G}_{\infty }^{* } \sim 0\) ) and HCS ( \({G}_{\infty }^{* } \sim 1\) ) is revealed as the control parameter ( V ) is varied for any given network and initial conditions. This is found in both simulation (e.g.
+V * = 0.5 for pre-activated and V * = 1 for inactive networks in Fig.
+2 c) and experiment (Supplementary Fig.
+2 c). These distinctive discontinuities ( V * = 0.5 for pre-activated and V * = 1 for inactive), along with the properties of multistability and hysteresis, indicate that the formation/annihilation of the first conducting pathway in the network corresponds to a first-order (discontinuous) non-equilibrium phase transition, marking an abrupt change in the global state of the system. In the model, the location of the discontinuous transition is universal (Supplementary Fig.
+5 ), as it depends only on the length of the shortest path between the electrodes and on the initial state (either LCS or HCS). Networks in a LCS (no conducting pathways) transition to a HCS (conducting pathways exist) when V * > n V set.
+ Networks in a HCS transition to a LCS when V * < n V reset.
+ In real (i.e. non-ideal) NWNs, V set and V reset may vary between junctions due to variations in the thickness of PVP coating around nanowires.
+Additional discontinuities in \({G}_{\infty }^{* }\) may be observed at higher integer multiples of thresholds ( V = m V set , V * = k V reset ). For example, at V * = 11/9 ≈ 1.2 (corresponding to V = 11 V set ) in Fig.
+2 c. These correspond to the formation/annihilation of additional transport pathways. In the limit of large network size, only the first discontinuity (between \({G}_{\infty }^{* }\sim0\) and \({G}_{\infty }^{* } \sim 1\) ) in \({G}_{\infty }^{* }\) vs V remains concomitant with formation of the first conducting pathway (Supplementary Fig.
+5 ).
+These results demonstrate that NWNs can adaptively respond to external driving and can undergo a first-order phase transition between bi-stable states (LCS and HCS). These global network dynamical states arise from the recurrent connectivity between junctions and their switching dynamics, as shown next.
+Collective junction switching drives non-local transport Network activation or de-activation as described above can be understood as a collective effect emerging from recurrent connections between junctions. By Kirchoff’s Voltage Law (KVL), the sum of voltages along any path between source and drain is equal to the externally applied voltage, while the sum of voltages around any closed loop in the network is zero. Since the voltage across a given junction V jn ( t ) controls the future evolution of its filament state Λ( t ) and hence conductance G jn ( t ), KVL couples the dynamics of memristive junctions to the network topology. A simulation at V * = 1.1, with uniform initial conditions (Λ = 0), showing G jn ( t ) (Fig.
+3 a), V jn (t) (Fig.
+3 b) and corresponding visualisations at three time-points (Fig.
+3 c–e), reveals the qualitative characteristics of collective switching dynamics in NWNs.
+Simulations using a 100 nanowire, 261 junction NWN at voltage V * = V / V th = 1.1.
+a Conductance states of each junction, G jn , along shortest source-drain path (in units of conductance quantum G 0 ). Junctions are numbered sequentially according to distance from source ( # 1 closest, # 9 farthest). Network conductance, \({G}_{{\rm{nw}}}^{* }(t)\) (normalised by source-drain path length), is also shown.
+b Corresponding junction voltage, \({V}_{{\rm{jn}}}^{* }={V}_{{\rm{jn}}}/{V}_{{\rm{set}}}\) , dynamical re-distribution.
+c – e Snapshots of G jn distribution (edges shown on a logarithmic colourbar scale) at different time-points during network activation. Node colour indicates voltage on nanowires between source (green asterisk) and drain (red asterisk).
+Full size image Initially, the disordered network structure ensures the voltage distribution (Fig.
+3 b) is inhomogeneous, with junctions near the electrodes typically having the highest V jn.
+ For junctions with | V jn | < V set , filament states remain static, or otherwise decay to ∣ Λ ∣ = 0, if Λ ≠ 0 and ∣ V jn ∣ < V reset.
+ When ∣ V jn ∣ > V set , filaments grow at a constant rate d Λ/ d t = ∣ V jn ∣ − V set until G jn (Fig.
+3 a) rapidly increases from the onset of tunnelling, coinciding with a decrease in V jn (Fig.
+3 b).
+G jn plateaus once ∣ V jn ∣ reaches V set.
+ This first occurs at t ≈ 0.8 s for junction # 1. Voltage is redistributed locally to neighbouring junctions 42 (junctions near opposite electrodes, e.g.
+# 1 and # 9, can be considered connected by an edge, with R jn = 0, at the power source). If the subsequent voltage increase results in ∣ V jn ∣ > V set , the filament growth rate increases for these junctions. For junctions already in a tunnelling regime ( G off < G jn < G on = G 0 ), G jn briefly increases until V jn returns to V set , whereas insulating junctions experience a delay before G jn increases as their filament grows. Hence, G nw displays small, step-like increases coinciding with junctions transitioning from insulating ( G jn = G off ) to tunnelling ( G off < G jn < G on ) and groups of already active junctions adaptively adjust their G jn such that their V jn lies on or below the threshold. These active junctions effectively wait for other junctions to activate before switching on, resulting in a switching synchronisation phenomenon similar to that seen in 1D memristive networks 43 , 44.
+Through these switching events, the network self-organises to prevent a large voltage drop (greater than V set ) across any given junction, funnelling most of the current down a single (or a few) transport pathways, which grow from the electrodes towards the centre of the network (Fig.
+3 c, d). For any given pathway of length m , if V * < m V set , then after higher voltage junctions adjust their voltage to V set the pathway ceases to grow. This is the fate of all paths in networks with V * < 1. When, V * > 1, nearby pathways grow in competition, with the shortest pathway forming first.
+Once the final junction along a source-drain pathway enters a tunnelling regime ( t ≈ 6 s), G jn of each junction on the path adjusts (Fig.
+3 e) such that they receive the same voltage ( V jn = V / n > V set ), since a larger V jn increases d Λ/ d t and hence, G jn , which in turn reduces V jn.
+ At this point, junctions along the path behave collectively like a single memristive junction under constant bias: for each of these junctions, Λ grows linearly in time, leading to exponential growth in G jn and hence, G nw.
+ This manifests itself as a large, rapid increase in G nw ( t ). This growth ceases when all junctions along the path reach the ballistic transport regime (Λ = Λ crit , G jn = G 0 ), where they stably remain at later times. For higher voltages or denser networks, additional transport pathways may form, resulting in later steps in G nw (cf. Fig.
+2 a). For sufficiently high voltages (when V jn > V set for all junctions along the path), the plateaus become less pronounced and conductance increases continuously with time, however synchronous switching is still observed (Supplementary Fig.
+6 ).
+These results show that the emergence of transport pathways can be attributed to coupling between the complex network topology and memristive junction switching. Cascades of activity are induced as junctions transition into the conducting regime, adaptively redistributing voltage to their neighbours. This collective switching activity near a phase transition is reminiscent of avalanche dynamics, investigated next.
+Avalanche switching dynamics Avalanches with scale-free size and lifetime event statistics—a hallmark of critical dynamics—have been observed in neuronal populations 29 , 32 , 33 and other neuromorphic systems 34 , 45.
+ For NWNs, the conductance time-series of each junction (from the model described above) is converted to discrete switching events by introducing a threshold for the conductance change Δ G jn between adjacent time-points. A similar procedure is applied to experimental measurements of G nw.
+ As in neuronal data 32 , 33 , events are binned discretely in time into frames (width Δ t ). This allows an ‘avalanche’ to be defined as a sequence of frames containing events preceded and followed by an empty frame. Avalanche size ( S ) is defined as the total number of events in the avalanche. Avalanche life-time ( T ) is defined as the number of frames in the avalanche. See Methods for full details.
+Systems near criticality exhibit avalanche size S and lifetime T probability distributions ( P ( S ), P ( T )) and average avalanche size (〈 S 〉( T )) that follow power-laws (Eqs. ( 1 ), ( 2 ), ( 3 )), with exponents obeying the crackling noise relationship (Eq. ( 4 )) 46.
+ The agreement of the independent estimates (Eqs. ( 3 ), ( 4 )) of 1/ σ ν z more rigorously tests avalanches for consistency with criticality than mere power-laws, as power-law size and life-time distributions can be obtained by thresholding stochastic processes 47 , but do not obey Eq. ( 4 ).
+$$P(S) \sim {S}^{-\tau }$$ $$P(T) \sim {T}^{-\alpha }$$ $$\langle S\rangle (T) \sim {T}^{1/\sigma \nu z}$$ $$\frac{1}{\sigma \nu z}=\frac{\alpha -1}{\tau -1}$$ Both simulated and experimental NWNs stimulated with voltages close to the switching threshold ( V * ≈ 1) exhibit power-law P ( S ) (Fig.
+4 a, d) and P ( T ) (Fig.
+4 b, e) (KS test, p > 0.5). In the simulated NWNs, the power-laws exhibit a break attributed to the finite-size of the network limiting avalanche propagation. As network size or density is increased (Supplementary Fig.
+7 ), the slope of the power-law region remains unchanged, while the power-law break increases for P ( S ), P ( T ) and 〈 S 〉( T ). The break in the distribution is consistent with criticality as the avalanche distributions obey finite-size scaling 48 , 49 (Supplementary Fig.
+8 a–c). Experimental NWNs contain many more nanowires so no power-law break is evident in the avalanches sampled. Additionally, 〈 S 〉( T ) follows a power-law (Fig.
+4 c, f). For simulated NWNs, τ ≈ 1.95 ± 0.05 (Kolmogorov–Smirnov distance (KSD) = 0.006, p = 0.54) and α ≈ 2.25 ± 0.05 (KSD = 0.004, p = 0.54), yielding 1/ σ τ z ≈ 1.3 ± 0.1, which is in agreement with 1/ σ τ z = 1.3 ± 0.05 from 〈 S 〉( T ). The same agreement is obtained for experimental NWNs with τ ≈ 2.05 ± 0.10 and α ≈ 2.25 ± 0.10 (for P ( S ), KSD = 0.032, p = 0.80; for P ( T ), KSD = 0.037, p = 0.59), yielding 1/ σ τ z ≈ 1.2 ± 0.15, which is in agreement with 1/ σ τ z = 1.2 ± 0.05 from 〈 S 〉( T ). The agreement of the individual estimates of exponent 1/ σ ν z in both simulated and experimental data confirms the crackling noise relationship (Eq. ( 4 )) is obeyed within uncertainties. Further evidence for avalanche criticality is found by collapse of avalanche shape onto a universal scaling function (Supplementary Fig.
+9 ), obtaining a third independent estimate that 1/ σ ν z ≈ 1.3. These factors strongly suggest that these avalanches are consistent with critical-like dynamics.
+Top row—probability distributions of avalanche size S ( a ) and life-time T ( b ) and plot of average size as function of life-time ( c ) for simulated networks. Bottom row—probability distributions of avalanche size S ( d ) and life-time T ( e ) and plot of average size as function of life-time ( f ) for experimental networks. Statistics are produced from simulations on an ensemble of 1000 independently generated networks stimulated at V * = 1. Simulations used networks with 2250 nanowires and 6800–7100 junctions (size 150 × 150 μm 2 and density 0.10 nw (μm) −2 ). Experiments are at the same density and have size 500 × 500 μm 2.
+ Maximum likelihood power-law fits are indicated.
+Full size image By altering the strength of the driving voltage away from the threshold V th , the avalanche distributions begin to deviate from a power-law (Fig.
+5 ). When V * < 1, pathways are unable to form across the network and the switching events result in small-scale avalanches (black points). As V * approaches 1, the distribution elongates and becomes a power-law (red points). Above V * = 1 (when the networks activate), a bi-modal distribution is evident, as avalanches of large characteristic sizes and lifetimes emerge above the power-law tail (cyan and blue points). As network size increases, the probability density of the bump relative to the power-law region grows (Supplementary Fig.
+8 d–f). This suggests these anomalously large avalanches are consistent with super-critical states.
+Avalanche size S ( a ) and life-time T ( b ) distributions in simulated NWNs at voltages V * = 0.7, 1.0, 1.05, 1.8 (black, red, cyan, blue). Statistics are produced from simulations on an ensemble of 1000 independently generated networks with 1000 nanowires and 3000–3200 junctions (size 100 × 100 μm 2 and density 0.10 nw (μm) −2 ). The time-frame (Δ t = 160 ms, corresponding to average inter-event-interval at V * = 1) chosen to bin switching events is the same for each V * and distributions are linearly binned with same bin-sizes for each curve.
+Full size image Order-chaos transition from polarity-driven switching The response of a NWN to constant voltage stimulus, examined above, has revealed rich collective dynamics, but ultimately conductance converges to a steady state. When networks are driven by unipolar periodic stimuli, they converge to periodic attractor states. However, in response to a periodic, alternating polarity driving signal, NWNs exhibit a more diverse range of dynamics, from ordered to chaotic, depending on the amplitude A and frequency f of the driving signal. This is quantified by calculating the maximal Lyapunov exponent λ for simulated networks driven by a triangular AC signal (see Methods).
+λ measures the exponential convergence or divergence of nearby states of the system separated by an infinitesimal perturbation 50.
+ For λ < 0, the perturbations shrink over the trajectory and the network evolves to stationary (fixed point) or periodic (limit cycle) behaviour. For λ > 0, perturbations rapidly amplify, resulting in chaotic dynamics.
+λ ≈ 0 corresponds to the edge-of-chaos state.
+Figure 6 a plots λ as a function of A and f for triangular AC stimuli. Highly ordered dynamics can be inferred from the low- f and low- A regime where λ ≲ − 10 s −1 (black region). For f ≲ 0.2 Hz, increasing A results in an increase in λ towards zero at A ≈ 3 V. Above this frequency, increasing A can lead to a λ > 0 and the onset of chaotic dynamics in the network. For A ≳ 2.5 V and f ≳ 1.5 Hz, stronger chaotic dynamics are inferred, with λ ≳ 10 s −1 (yellow region). Further increasing f for a given A leads to a decrease of λ.
+a For a 100 nanowire, 261 junction simulated network, the driving amplitude A and frequency f controls the maximal Lyapunov exponent λ and hence, dynamical evolution of the network: λ < 0 indicates convergence to stable attractor states; λ > 0 indicates chaotic dynamics; and λ ≈ 0 corresponds to an edge-of-chaos state.
+b For a given λ , the collective network response is captured by the average ratio of maximum-to-minimum network conductance states, r.
+Full size image For a given λ , the collective switching states of NWNs was characterised by the ratio of maximum to minimum network conductance, r , averaged over each AC cycle. When 1 ≲ r ≲ 10, the network remains in either LCS (no pathways) or HCS (pathways exist). When r ≳ 10 3 , the network is persistently driven back and forth across the transition between these states. Figure 6 b reveals that only networks exhibiting strong switching ( r ≳ 10 3 ) can exhibit chaotic dynamics ( λ > 0), whereas both edge-of-chaos dynamics ( λ ≈ 0) and ordered dynamics ( λ < 0) are observed over the range of possible collective switching states.
+Figure 7 a–f shows simulated I − V (top row) and G − V (bottom row) curves over 20 successive triangular AC cycles for A = 1.25 V and varying f , producing different network dynamical regimes: ordered (left column, f = 0.1 Hz, λ = − 2.6 s −1 ); edge-of-chaos (centre, f = 0.5 Hz, λ = 0.4 s −1 ); and chaotic (right column, f = 0.85 Hz, λ = 4.1 s −1 ). Examples of corresponding junction conductance and voltage time-series are shown in Supplementary Fig.
+10.
+ In the λ < 0 regime, I − V (Fig.
+7 a) and G − V (Fig.
+7 d) cycles exhibit symmetric, repetitive hysteresis. For these states the minimum conductance occurs when V = 0, meaning the network fully activates and de-activates before polarity reverses. In the edge-of-chaos regime ( λ ≈ 0), I − V (Fig.
+7 b) and G − V (Fig.
+7 e) cycles are still symmetric and repetitive, but now the network does not deactivate completely before polarity reverses. In the chaotic regime ( λ > 0), I − V (Fig.
+7 c) and G − V (Fig.
+7 f) trajectories diverge over successive cycles (evident from the thickening of blue curves). These chaotic trajectories are not unbound, but are instead confined to a reduced region of phase space (a ‘chaotic attractor’). Examples of chaotic trajectories of different Lyapunov exponents are shown in Supplementary Fig.
+11.
+Each column corresponds to a single NWN simulation for a triangular AC input ( n = 20) cycles, with A = 1.25 V and f = 0.1, 0.5, 0.85 Hz (left to right). Top row: I − V curves, with arrows indicating direction of voltage control. Bottom row: corresponding network conductance, G nw.
+ First column ( a , d ): f = 0.1 Hz, r = 7.7 × 10 3 and λ = − 2.6 s −1 ; all junction filament states return to 0 between cycles (reaching V = 0), resulting in symmetric repeatable I − V and G nw − V cycles. Second column ( b , e ): states near the edge-of-chaos, with f = 0.5 Hz, r = 7.1 × 10 3 and λ = 0.4 s −1 ; network does not fully deactivate as polarity of voltage is reversed. Third column ( c , f ): f = 0.85 Hz, r = 5.9 × 10 3 and λ = 4.1 s −1 ; network trajectories are chaotic. A 100 nanowire, 261 junction network is used, but qualitatively similar results are found on a range of network sizes and densities.
+Full size image Qualitatively, the observed Lyapunov exponents can be understood by considering a small perturbation ( δ Λ) to the filament state (Λ i ) of the i -th junction. When tunnelling is absent (cf. Fig.
+1 c), δ Λ changes G jn and hence, leaves the voltage distribution of the network unchanged. Thus, as the network continues to evolve, δ Λ is remembered by the junction (the junction states remain a fixed distance δ Λ apart). When Λ i approaches its boundaries (cf. Fig.
+1 ), either from when the filament decays to zero (Λ i → 0 when ∣ V i ∣ < V reset ) or saturates ( \(| {{{\Lambda }}}_{i}| \to {{{\Lambda }}}_{\max }\) when ∣ V ∣ > V set ), δ Λ shrinks. When a junction is in a tunnelling regime, however, any perturbation to Λ i is exponentially amplified in terms of conductance. Perturbations that increase a junction’s conductance decrease its voltage, slowing filament growth if ∣ V i ∣ > V set , or increasing filament decay if ∣ V i ∣ < V reset.
+ The effect on neighbouring junctions is the opposite. Under slow driving, the network can adapt to such perturbations and retain the size of the perturbation. Under fast driving, however, the network is unable to adapt and perturbations grow during activation and de-activation, leading to separation of nearby network states. The frequency which constitutes fast or slow depends on the amplitude applied (cf. Fig.
+6 ) and the network structure (size and density). The dynamical balance between the mechanisms that enforce order (perturbations shrink) and create chaos (perturbations grow) determines the stability of the global network dynamics. Hence, tuning the driving signal allows control over system dynamics. As shown next, this may be advantageous when utilising neuromorphic NWNs for information processing 36 , 45.
+Information processing optimised at the edge-of-chaos The information processing capacity of neuromorphic NWNs in different dynamical regimes was tested with the benchmark reservoir computing 51 , 52 task of non-linear wave-form transformation previously demonstrated in NWN experiments 24 , 25 and simulations 26 , 27.
+ In this task a triangular wave is input into the network, nanowire voltages are used as readouts and are trained using linear regression to different target wave-forms. Examples of target waveforms obtained are shown in Supplementary Fig.
+12 and sample network readouts (nanowire voltages) are shown in Supplementary Fig.
+13.
+Figure 8 shows the network performance in transforming an initial triangular wave of given A and f to different target wave-forms as a function of the maximal Lyapunov exponent λ for each input (cf. Fig.
+6 ). Over the range of λ , the rank order of relative accuracy between tasks is consistent with the similarity between the input (triangular) and target waveforms, namely sin > square > π /2-shift ≈ 2 f.
+ The similarity between waveforms can be understood by considering the Fourier decomposition of each signal. To convert to a sine wave, higher harmonics must be removed from the triangular input signal, whereas conversion to a square wave requires additional odd higher harmonics. For double frequency conversion, odd higher harmonics must be removed, with even harmonics added. For phase shift conversion, the network must produce a lag to the input signal, i.e. coefficients of cosine terms in the Fourier series become coefficients of sine terms. The sine wave transformation accuracy is always ≥ 0.98 before decreasing to ≈ 0.95 above λ ≈ 0. The square wave and π /2-shifted wave accuracy increase as λ increases towards zero, peaking when −2 s −1 ≲ λ ≲ 0 s −1 at 0.86 for square wave and 0.69 for π /2-shifted wave. Like the sine wave, both the square wave and π /2-shifted wave accuracy tapers off rapidly when the network is in a chaotic regime ( λ > 0), to an approximately constant accuracy of ~ 0.6 for square and 0.3 for π /2-shift. Notably, for the π /2-shifted wave, the accuracy for chaotic states lies above the minimum accuracy for ordered states. For the 2 f target wave, the accuracy is zero for λ ≲ − 0.5 s −1 , before rapidly increasing to peak near the edge-of chaos regime λ ≈ − 0.1 s −1 at an accuracy of 0.79. Like the other wave-forms, accuracy decreases as the network becomes chaotic ( λ > 0), but accuracy is higher than for ordered dynamics ( λ < 0). For all tasks, strongly chaotic states underperform compared to the edge-of-chaos. This suggests that while more ordered (sine wave target) or slightly chaotic (2 f target) dynamical regimes may be optimal depending on the computational complexity of the task, only a relatively narrow range of network states, those tuned to the ‘edge-of-chaos’, are robust performers over a diverse set of target waveforms.
+Accuracy of transformation of input triangular wave into different target waves: sinusoidal (blue), square (green), π /2 phase-shifted triangular (pink) and double frequency (2 f ) triangular (black), as a function of the network maximal Lyapunov exponent λ (averaged over all junctions whose state changes while the task is being performed). Vertical line indicates λ = 0. Data-points correspond to individual simulations for a fixed f and A of the input wave for a 100 nanowire, 261 junction network.
+Full size image Discussion The formation (or destruction) of long-range transport pathways between electrodes is a ubiquitous feature of disordered memristive networks with threshold-driven junction switching 53 , including nanowires 12 , 18 , 19 and nanoparticles 54.
+ Here, it was found that the network undergoes a discontinuous phase transition when the first pathway forms, with a linear relation between threshold voltage and source-drain path length. A similar discontinuous transition coinciding with pathway formation was reported in simulations of adiabatically driven memristive networks with large G on / G off ratios (ratio between maximum and minimum possible G jn ) 53.
+ Smaller G on / G off ratios were instead found to result in a continuous transition. When G on / G off is large, changes to G jn lead to large changes in the voltage distribution, strongly coupling the dynamics of junctions in the network. This results in a switching synchronisation phenomenon (cf. Fig.
+3 a), analogous to that observed in 1D memristive networks 43 , 44.
+ Conversely, when G on / G off is small, junctions changing conductance have a smaller effect on their neighbours. In this regime, junctions still collectively switch between metastable states, but do not exhibit switching synchronisation (Supplementary Fig.
+14 ). Hence, by tuning G on / G off , which can be achieved experimentally by varying thickness of PVP coating, the collective behaviour of NWNs can be controlled.
+Finding power-law avalanche distributions over a few orders of magnitude near a first-order (discontinuous) transition is surprising, as they are usually associated with second-order (continuous) transitions 55.
+ Disorder and hysteretic behaviour are likely key ingredients for scale-free avalanches observed in other systems driven near a discontinuous phase transition, such as magnetic materials 56 and neural networks 57.
+ These properties are certainly present in NWNs.
+Critical avalanches were demonstrated here by tuning voltage to the activation threshold, but the role of self-organisation in achieving and sustaining critical avalanches requires further investigation. Experiments show NWNs continue to exhibit persistent, bi-directional conductance fluctuations (Supplementary Fig.
+2 b) as a result of junction noise, electromigration-induced junction breakdown events, and subsequent recurrent feedback by the network 12 , 58.
+ These mechanisms may allow NWNs to self-organise to an avalanche critical state, allowing mapping to models such as ‘self-organised criticality’ (SOC) 30 (self-organisation to a continuous transition), ‘self-organised bistability’ (SOB) 59 (self-organisation to a discontinuous transition), quasicriticality 60 (departs from criticality with crackling noise equation (Eq. ( 4 )) obeyed) and their non-conservative counterparts 61.
+ Over long time scales, if anomalously large avalanches coexist with scale-free avalanches, then SOB would be a better description of NWNs than SOC. However, fluctuations could plausibly make the transition (cf. Fig.
+2 c) continuous resulting in a SOC-like state.
+Critical dynamics has previously been observed in self-assembled tin nanoparticle networks (NPNs) 34 , 62.
+ There are notable differences between dynamics observed in nanowire and nanoparticle networks. In NWNs, resistive switching is facilitated by filament growth through an insulating layer. In NPNs, the nanoparticles are not coated with an insulating layer and resistive switching is due to tunelling-driven filament growth across nano-gaps between nanoparticles. Thus, in the absence of filament growth, nanoparticles in contact are conductive, whereas nanowires in contact are insulating. Consequently, resistive switching dynamics and critical avalanches are only observed when the nanoparticle density is finely tuned to the percolation threshold. NWNs, on the other hand, exhibit resistive switching and avalanches at densities close to and well above the percolation threshold, such as twice the threshold (cf. Supplementary Figs.
+7 and 8 ). Conversely, in NPNs, the voltage does not need to be finely tuned to achieve critical avalanches, provided networks are on the percolation threshold. Breakage of conductive filaments from Joule heating and electromigration effects self-tune NPNs to a critical state. In NWNs, critical avalanches with power-law sizes and life-times are observed when tuning networks close to the threshold voltage. At voltages below the threshold, avalanches do not span the network and exhibit exponentially decaying avalanche distributions (cf. Fig.
+5 ), while at voltages significantly above the threshold, large avalanches of a characteristic size and duration are observed, corresponding to formation and annihilation of non-local conducting pathways. Thus, passivation of nanoscale metallic components affords the advantage of not having to fine-tune density.
+The universality of avalanches poses an interesting question for future studies on neuromorphic systems. The experimental studies of avalanches in percolating NPNs presented non-universal avalanche exponents that satisfy criteria for avalanche criticality 34 , 62.
+ Notably their model 62 exhibits avalanche exponents ( τ = 2.0, α = 2.3, 1/ σ τ z = 1.3) very close to NWN values, suggesting they may belong to the same universality class. A capacitive breakdown model of current-controlled NWNs, in a lower current regime than studied here, 63 found universal avalanche exponents consistent with the classic SOC sandpile model 30.
+ However, in other neuromorphic systems such as adiabatically driven memristive networks 53 and spiking neuromorphic networks 45 , as well as neuronal culture experiments 32 , avalanche statistics match that of a branching process 64 , a member of the universality class of directed percolation ( τ = 1.5, α = 2, 1/ σ τ z = 2).
+While ordered attractor ( λ < 0) states in models of networks of voltage-controlled memristors under alternating polarity stimuli have previously been observed 65 , the diverse edge-of-chaos and chaotic dynamics of neuromorphic NWNs have not been previously shown in memristive networks. Unlike certain types of memristors 66 , individual junctions driven by periodic stimuli are incapable of exhibiting chaos, but chaos emerges in these networks due to strong recurrent coupling between components 67.
+ This requires an alternating polarity pulse where activation and de-activation are both strongly driven: for unipolar periodic pulses only λ ≤ 0 is found. As the ‘edge-of-chaos’ ( λ ≈ 0) can be reached in a strongly driven regime (high f ), it does not necessarily coexist with ‘avalanche critical’ states. Avalanche distributions ( P ( S ) and P ( T )) near λ ≈ 0 do not follow power-laws (Supplementary Fig.
+15 ): power-law fits fail Kolmogorov–Smirnov test unless range of fit is made very small ( \({x}_{\max }/{x}_{\min }\) ≲ 2), unlike the DC case at V * = 1. This deviation may be attributed to the fast driving signal which ensures activity is injected into the network at a non-uniform rate while avalanches propagate, breaking time-scale separation between driving and network feedback (avalanches), obfuscating the distinction between consecutive avalanches. This reinforces the point often overlooked in neural network models that despite often coinciding 68 , activity propagation (avalanche) and order-chaos transitions are distinct 69.
+The observation of optimal overall performance on the non-linear transformation task at the ‘edge-of-chaos’ corroborates the popular hypothesis of robustness of information processing near phase transitions 31 and is consistent with simulations in other types of recurrent networks 36 , 37 , 38.
+ Despite this, the task dependence of accuracy is striking. For the simplest task (transformation to sine wave) the ‘edge-of-chaos’ state afforded no computational advantage. On the other hand, the greatest pay-off from the ‘edge-of-chaos’ state was found for the most dissimilar target wave-forms (double frequency, phase shifted). This result corroborates a previous study using a spiking neuromorphic network that found critical dynamics maximises the abstract properties of the system (auto-correlation time, susceptibility and information theoretic measures) and hence, performance in tasks of non-trivial computational complexity, yet for simpler tasks ordered dynamical states (away from criticality) may perform more optimally 45.
+Neuromorphic NWNs may be utilised for a range of information processing tasks. Information may be stored in memristive junction pathways for static tasks such as associative memory 22 and image classification 26.
+ However, it is the coupling of memristive junctions with recurrent network topology that makes NWNs ideal for temporal information processing when implemented in a reservoir computing framework, such as signal transformation 24 , 25 , 27 and non-linear time-series forecasting 26 , 70.
+ These applications suggest NWNs are a promising neuromorphic system for adaptive signal processing of streaming data.
+The rich dynamical behaviour revealed here may be observed on other network topologies, provided networks are highly recurrent and disordered. Recurrent networks have many short loops 71 , allowing junctions to be strongly coupled (e.g. short loops in Fig.
+2b which are coupled by Kirchoff’s laws), thus generating the diverse range of time scales for avalanche events and chaotic dynamics to be observable. This recurrent topology is important for information processing in networks, such as recurrent neural networks 52 , 71.
+ Disorder ensures spatio-temporal inhomogeneity of the voltage distribution, maximising the degrees of freedom of networks. Understanding how to harness network structure for optimal information processing provides an exciting future challenge for neuromorphic network research.
+In conclusion, neuromorphic NWNs respond adaptively and collectively to electrical stimuli and undergo a first-order phase transition in conductance at a threshold voltage determined by the shortest path length between electrodes. Due to recurrent loops in the network, junctions switch collectively as avalanches. These avalanches are consistent with avalanche criticality at the critical voltage. At higher voltages, anomalously large avalanches coexist with avalanches spanning a range of scales. Under alternating polarity stimuli, networks can be tuned between ordered and chaotic dynamical regimes. The edge-of-chaos is the most robust dynamical regime for information processing over a range of task complexities. These results suggest that neuromorphic NWNs can be tuned into regimes with diverse, brain-like collective dynamics 2 , 35 , which may be leveraged to optimise information processing.
+Methods Simulations NWNs were modelled (Supplementary Fig.
+1 a) by randomly placing lines of varying length (randomly sampled from a gamma distribution with mean 10 μm and standard deviation 1 μm) and angular distribution (sampled uniformly on [0, π ]) on an 30 × 30 μm 2 grid (centre locations sampled from a uniform distribution).
+The network was converted to a graph representation (Supplementary Fig.
+1 b) in which nodes and edges correspond to equipotential nanowires and Ag ∣ PVP ∣ Ag junctions, respectively. The largest connected component was used in the simulations. Unless stated otherwise, a network with 100 nanowires and 261 junctions was used.
+A voltage bias is applied between source and drain nodes (chosen at opposite ends of the network) and the model solves Kirchoff’s laws to calculate the voltages V jn ( t ) across each junction at each time point. At each junction (edge), electrochemical metallisation is phenomenologically modelled with a conductive filament parameter (Λ( t )). The filament parameter is restricted to the interval \(-{{{\Lambda }}}_{\max }\le {{\Lambda }}(t)\le {{{\Lambda }}}_{\max }\) and dynamically evolves according to a threshold-driven bipolar memristive switch model (Fig.
+9 , Eq. ( 5 )) 41 , 72 : $$\frac{d{{\Lambda }}}{dt}=\left\{\begin{array}{ll}\kern-0.5pc (| {V}_{{\rm{jn}}}(t)| -{V}_{{\rm{set}}})\ \,{\text{sgn}}\,({\rm{V}}_{{\rm{jn}}}(t))&| {V}_{{\rm{jn}}}(t)| \,> \,{V}_{{\rm{set}}}\\ \kern-9.5pc 0&\kern1.9pc{V}_{{\rm{reset}}}\,<\,| V(t)| \,<\,{V}_{{\rm{set}}}\\ b\ (| {V}_{{\rm{jn}}}(t)| -{V}_{{\rm{reset}}})\ \,{\text{sgn}}\,({{\Lambda }}(t))&\kern0.2pc{V}_{{\rm{reset}}}\,> \,| {V}_{{\rm{jn}}}(t)| \\ \kern-9.5pc0&\kern-1.1pc| {{\Lambda }}| \ge {{{\Lambda }}}_{\max }\end{array}\right.$$ Junction conductance (cf. Fig.
+1 b, c) is modelled as a constant residual resistance of the insulating PVP layer ( R r ), in parallel with constant filamentary resistance ( \({R}_{{\rm{f}}}={{\rm{G}}}_{0}^{-1}\ll {R}_{r}\) ) and Λ-dependent tunnelling resistance ( R t ), $$G({{\Lambda }})=\frac{1}{{R}_{{\rm{t}}}({{\Lambda }})+{R}_{{\rm{f}}}}+\frac{1}{{R}_{{\rm{off}}}}$$ with tunnelling conductance G t calculated using the low voltage Simmon’s formula (Eq. ( 7 )) for a MIM junction 73.
+$$\begin{array}{ll}{G}_{t}&\kern-11.3pc={[{R}_{{\rm{t}}}({{\Lambda }})]}^{-1}\\ &=\frac{3{(2{m}_{* })}^{1/2}{e}^{5/2}{(\phi /e)}^{1/2}}{A2{h}^{2}{s}^{2}}\exp \Big\{-\frac{4\pi {(2{m}_{* }e)}^{1/2}}{h}s{\left(\frac{\phi }{e}\right)}^{1/2}\Big\}\end{array}$$ $$s=\max \left[\left({{{\Lambda }}}_{{\rm{crit}}}-| {{\Lambda }}| \right)\frac{{s}_{\max }}{{{{\Lambda }}}_{{\rm{crit}}}}\ ,\ 0\right]$$ with effective mass m * = 0.99 m e and PVP layer (assumed homogeneous) thickness \({s}_{\max }=5\ \,\text{nm}\,\).
+ The potential barrier ϕ = 0.82 eV is the difference between Fermi levels of PVP and Ag.
+A = (0.41 nm) 2 = 0.17 nm 2 is the area of a face of the silver unit cell. Nanowire resistance is considered negligible compared to junction resistance 11.
+G t thus introduces an additional non-linear dependence on V , through the filament growth parameter s = s (Λ( V )), that modulates junction switching due to filament formation (cf. Supplementary Fig.
+20 ).
+Evolution of Λ( t ) (vertical axis) as a function of junction voltage V jn (horizontal axis) in threshold memristor junction model (Eq.
+(5) ). Arrows are proportional to filament growth rate ( d Λ/ d t ) and point in the direction of filament growth. When V reset ≤ ∣ V jn ∣ ≤ V set , or \(| {{\Lambda }}| ={{{\Lambda }}}_{\max }\) , d Λ/ d t = 0.
+Full size image Free parameters are chosen such that activation time is comparable to experiment. Values used are V set = 0.01 V, V reset = V set /2, Λ crit = 0.01 Vs, \({{{\Lambda }}}_{\max }=0.015\ \) Vs, \({R}_{{\rm{off}}}=1{0}^{3}{({{\rm{G}}}_{0})}^{-1}=12.9\ \) MΩ, \({R}_{{\mathrm{f}}}={({{\mathrm{G}}}_{0})}^{-1}=12.9\ \) kΩ and b = 10. For the Lyapunov analysis and non-linear transformation task V set = V reset was used. Simulations use the Euler method with time-step d t = 10 −3 s. The effect of model parameters on results presented here is discussed in Supplementary Information.
+Experimental Physical NWNs were synthesised with the polyol process 74 using 1,2-propyleneglycol (PG) as an oxidising agent for silver nitrate (AgNO 3 ) and were drop-cast onto a glass substrate 12.
+ NWN size was 500 × 500 μm. Nanowires had mean length 7.0 ± 2.4 μm, diameter 500 ± 100 nm and density ≈ 0.1 nw/μm 2 determined with a high amplification optical microscope. The PVP-coating thickness is 1.2 ± 0.5 nm 12.
+ Networks were electrically stimulated with pre-patterned rectangular gold electrodes of width 500 μm and current was read out using an in-house amplification system 12 at a sampling rate of 1 kHz.
+Avalanche analysis For simulation, an event is defined as when \(\frac{1}{{G}_{{\rm{jn}}}}| \frac{{{\Delta }}{G}_{{\rm{jn}}}}{dt}|\) exceeds a certain threshold (10 −3 s −1 ) before returning below the threshold. A similar procedure was applied to experimental data using the network level (rather than junction level) conductance time-series, with an event defined as when \(\frac{1}{{G}_{{\rm{nw}}}}| \frac{{{\Delta }}{G}_{{\rm{nw}}}}{dt}|\) exceeds 1 s −1 before returning below the threshold, or when Δ G nw , exceeds a threshold 5 × 10 −8 S before returning below the threshold. Changing the event detection threshold leads to negligible change of avalanche statistics.
+As in studies of avalanches in neural cultures 32 and nanoparticle networks 34 , the natural choice of frame (Δ t ) is the average inter-event-interval, 〈IEI〉, over the time-scale that events occur, where IEI is the time between adjacent events. Effect of changing frame on avalanche statistics is shown in Supplementary Fig.
+16.
+ Avalanche size and life-time distributions, P ( S ) and P ( T ), were binned linearly for simulations (logarithmically for experiments due to poorer resolution of the tail) and fit using a Maximum Likelihood (ML) power-law fit ( P ( x ) ∝ x − σ ). Scaling exponent ( σ ) were determined to precision 10 −2 , lower ( \({x}_{\min }\) ) and upper ( \({x}_{\max }\) ) cut-offs 75 were determined to nearest integer. Statistical significance of the ML fit was tested using the Kolmogorov–Smirnov (KS) test 76.
+ 500 synthetic data sets were generated from the distribution of the ML fit. The KS distance between each and the ML fit, was compared with the KS distance between the empirical (simulation or experiment) data and the ML fit. The p value is the fraction of fits where the KS distance is smaller for the empirical data than the synthetic data. In all cases where power-laws were presented above, the null hypothesis that data followed a doubly truncated power-law was accepted to the chosen statistical significant ( p > 0.5). For power-law fits with p > 0.5, no significant change was found to exponents (within uncertainties) for different \({x}_{\min }\) and \({x}_{\max }\) values up to a cut-off determined by system size (Supplementary Fig.
+17 ). Hence, \({x}_{\min }\) and \({x}_{\max }\) are chosen such that \({\mathrm{log}}\,({x}_{\max }/{x}_{\min })\) is maximised for fits with p > 0.5. As average avalanche size (〈 S 〉( T )) is not in the form of a probability distribution (so ML methods do not apply), it was fit using linear regression on a log-log plot.
+In simulation, as networks converge to a steady-state under constant DC bias (cf. Fig.
+2 ), to generate avalanches, either a voltage pulse is applied to a network in a steady state (allowing certain junctions to activate/deactivate, subsequently triggering avalanches of other switching junctions), or junctions are manually perturbed by changing their state (e.g. switching them from high G jn to low G jn or vice versa). Results based on the former method are presented here. Avalanches are calculated from the transients as networks relax to their steady state using the binning method described above. To obtain enough statistics to sample the avalanche statistical distributions an ensemble of 1000 randomly generated networks of physical dimensions 150 × 150 μm 2 (100 × 100 μm 2 for Fig.
+5 ), density 0.10 nw (μm) −2 and with nanowire length 10 ± 1 μm were simulated for 30 s each starting from all filament states from Λ = 0. All nanowires with physical centre location within 2.5% (3.75 μm for this network size) of top of network were selected as source electrodes. All nanowires with physical centre location within 2.5% of bottom of network were selected as drain electrodes. This ensured the whole network is stimulated, reducing finite-size effects.
+In experiment, noise and junction breakdown events 12 perturb networks from their steady-state allowing spontaneous initiation of avalanches at constant voltage. NWNs were stimulated with DC biases of gradually increasing voltage (with waiting time of 3 h between measurements) until the switching threshold was determined. The network was then stimulated with a voltage just above threshold for 1000 s, or until current exceeded 8 × 10 −5 A (to prevent network damage), recording data at 30 kHz. This was repeated 3 times (with 3 h wait between measurements) on the same network. Time-series are truncated, first by excluding initial times for which network current I < 1 × 10 −8 A and then between the first and last detected event. Avalanche statistics from all data-sets (at fixed voltage just above threshold) were combined to produce avalanche statistical distributions. Combining data-sets is valid under the assumption that avalanches at fixed voltage on an individual network follow the same statistical distribution.
+Unlike in simulations, in experimental data, switching activity and avalanches in sub-threshold networks cannot be identified as they fall below the experimental noise floor. In contrast, junction conductance time-series can be simulated at all voltages. Examples of both experimental and simulated avalanches are shown in Supplementary Fig.
+18.
+Lyapunov analysis A triangular wave of period T was applied for a simulation time of 3000 s to allow the network to converge to an attractor. The perturbation method 50 was used to calculate the maximal Lyapunov exponent, λ.
+ Briefly, the procedure was: (1) Perturb filament state (Λ i ) of i -th junction in network by ϵ = 5 × 10 −4 Vs.
+(2) Simultaneously evolve perturbed and unperturbed networks by one time-step ( d t = 5 × 10 −4 s) to obtain perturbed Λ p ( t ) (filament states for each junction) and unperturbed Λ u ( t ) state vectors.
+(3) Compute Euclidean distance, γ ( t ) = ∣ Λ p ( t ) − Λ u ( t ) ∣ , and re-normalise perturbed state vector Λ p ( t ) to \({{\boldsymbol{\Lambda }}}_{{\rm{u}}}(t)+\frac{\epsilon }{\gamma (t)}({{\boldsymbol{\Lambda }}}_{{\rm{p}}}(t)-{{\boldsymbol{\Lambda }}}_{{\rm{u}}}(t))\).
+(4) Repeat steps 2 and 3 until end of period. Average over all time-steps to obtain junction Lyapunov exponent \({\lambda }_{{\rm{j}}}(T)=\frac{1}{dt}{\langle {\mathrm{ln}}\,\left(\gamma (t)/\epsilon \right)\rangle }_{t}\).
+(5) Repeat step 4 until λ j ( T ) converges to within error tolerance ( ∣ λ j ( T ) − λ j ( T − 1) ∣ < 10 −2 s −1 ) (6) Repeat steps 1–5 for all junctions. Average over λ j to obtain network Lyapunov exponent λ = 〈 λ j 〉.
+Note, Lyapunov analysis is only performed under periodic driving where network converges to time-varying attractor. Under constant DC voltage where network converges to a steady-state λ is not as well defined.
+Non-linear transformation task Following the reservoir computing implementation analysed in previous studies 26 , 27 , junction filament states were pre-initialised to the starting values used in Lyapunov analysis, and network was driven by AC triangular wave for 80 s. Target waves T ( t ) were sine-wave, square wave, double frequency triangular wave, and triangular wave phase shifted by π /2. Absolute voltage ( v i for i -th node) of each of the n nanowires were used as reservoir readout signals, V ( t ) = [ v 1 ( t ), v 2 ( t ),..., v n ( t )], with corresponding weights \({\boldsymbol{\Theta }}={[{{{\Theta }}}_{1},{{{\Theta }}}_{2},...,{{{\Theta }}}_{n}]}^{T}\).
+ The network’s output signal is y ( t ) = V ( t ) ⋅ Θ.
+ Weights were trained using linear regression to minimise the cost-function \(J({\boldsymbol{\Theta }})=\mathop{\sum }\nolimits_{m = 1}^{M}{(T({t}_{m})-y({t}_{m}))}^{2}\) , over all time-points. Performance accuracy of the task is quantified by 1-RNMSE (Eq. ( 9 )), where RNMSE is the root-normalised mean-squared error.
+$$\,{\text{RNMSE}}\,=\sqrt{\frac{J({\boldsymbol{\Theta }})}{\mathop{\sum }\limits_{m=1}^{M}{[T({t}_{m})]}^{2}}}$$ Data availability Experimental data generated in this study have been provided as a Source Data file.
+Source data are provided with this paper.
+Code availability Code to perform all simulations, process experimental data and generate all figures is on the repository https://github.com/joelhochstetter/NWNsim.
+References Bullmore, E. & Sporns, O. Complex brain networks: Graph theoretical analysis of structural and functional systems.
+Nat. Rev. Neurosci.
+10 , 186–198 (2009).
+Article CAS PubMed Google Scholar Chialvo, D. R. Emergent complex neural dynamics.
+Nat. Phys.
+6 , 744–750 (2010).
+Article CAS Google Scholar Waser, R. & Aono, M. Nanoionics-based resistive switching memories.
+Nat. Mater.
+6 , 833–840 (2007).
+Article ADS CAS PubMed Google Scholar Zhu, J., Zhang, T., Yang, Y. & Huang, R. A comprehensive review on emerging artificial neuromorphic devices.
+Appl. Phys. Rev.
+7 , 011312 (2020).
+Article ADS CAS Google Scholar Chua, L. Memristor-The Missing Circuit Element.
+IEEE Trans. Circuit Theory 18 , 507–519 (1971).
+Article Google Scholar Ohno, T. et al. Short-term plasticity and long-term potentiation mimicked in single inorganic synapses.
+Nat. Mater.
+10 , 591–595 (2011).
+Article ADS CAS PubMed Google Scholar Yang, J. J., Strukov, D. B. & Stewart, D. R. Memristive devices for computing.
+Nat. Nanotechnol.
+8 , 13–24 (2013).
+Article ADS CAS PubMed Google Scholar Serb, A. et al. Unsupervised learning in probabilistic neural networks with multi-state metal-oxide memristive synapses.
+Nat. Commun.
+7 , 1–9 (2016).
+Article CAS Google Scholar Yao, P. et al. Fully hardware-implemented memristor convolutional neural network.
+Nature 577 , 641–646 (2020).
+Article ADS CAS PubMed Google Scholar Avizienis, A. V. et al. Neuromorphic atomic switch networks.
+PLoS ONE 7 , e42772 (2012).
+Article ADS CAS PubMed PubMed Central Google Scholar Bellew, A. T., Manning, H. G., Gomes da Rocha, C., Ferreira, M. S. & Boland, J. J. Resistance of single ag nanowire junctions and their role in the conductivity of nanowire networks.
+ACS Nano 9 , 11422–11429 (2015).
+Article CAS PubMed Google Scholar Diaz-Alvarez, A. et al. Emergent dynamics of neuromorphic nanowire networks.
+Sci. Rep.
+9 , 14920 (2019).
+Article ADS PubMed PubMed Central CAS Google Scholar Kuncic, Z. & Nakayama, T. Neuromorphic nanowire networks: principles, progress and future prospects for neuro-inspired information processing.
+Adv. Phys.: X 6 , 1894234 (2021).
+Google Scholar Loeffler, A. et al. Topological properties of neuromorphic nanowire networks.
+Front. Neurosci.
+14 , 3 (2020).
+Article Google Scholar Lynn, C. W. & Bassett, D. S. The physics of brain network structure, function and control.
+Nat. Rev. Phys.
+1 , 318–332 (2019).
+Article Google Scholar Milano, G., Porro, S., Valov, I. & Ricciardi, C. Recent developments and perspectives for memristive devices based on metal oxide nanowires.
+Adv. Electron. Mater.
+5 , 1800909 (2019).
+Article CAS Google Scholar Sandouk, E. J., Gimzewski, J. K. & Stieg, A. Z. Multistate resistive switching in silver nanoparticle films.
+Sci. Technol. Adv. Mater.
+16 , 045004 (2015).
+Article PubMed PubMed Central CAS Google Scholar Manning, H. G. et al. Emergence of winner-takes-all connectivity paths in random nanowire networks.
+Nat. Commun.
+9 , 1–9 (2018).
+Article ADS CAS Google Scholar Li, Q. et al. Dynamic electrical pathway tuning in neuromorphic nanowire networks.
+Adv. Funct. Mater.
+30 , 2003679 (2020).
+Article CAS Google Scholar Milano, G. et al. Brain-inspired structural plasticity through reweighting and rewiring in multi-terminal self-organizing memristive nanowire networks.
+Adv. Intell. Syst.
+2 , 2000096 (2020).
+Article Google Scholar Pershin, Y. V. & Di Ventra, M. Self-organization and solution of shortest-path optimization problems with memristive networks.
+Phys. Rev. E 88 , 1–8 (2013).
+Article CAS Google Scholar Diaz-Alvarez, A., Higuchi, R., Li, Q., Shingaya, Y. & Nakayama, T. Associative routing through neuromorphic nanowire networks.
+AIP Adv.
+10 , 025134 (2020).
+Article ADS Google Scholar Tanaka, G. et al. Recent advances in physical reservoir computing: a review.
+Neural Netw.
+115 , 100–123 (2019).
+Article PubMed Google Scholar Sillin, H. O. et al. A theoretical and experimental study of neuromorphic atomic switch networks for reservoir computing.
+Nanotechnology 24 , 384004 (2013).
+Article PubMed CAS Google Scholar Demis, E. C. et al. Nanoarchitectonic atomic switch networks for unconventional computing.
+Jpn. J. Appl. Phys.
+55 , 1102B2 (2016).
+Article CAS Google Scholar Kuncic Z. et al. Neuromorphic Information Processing with Nanowire Networks. 2020 IEEE International Symposium on Circuits and Systems (ISCAS).
+10.
+https://doi.org/10.1109/ISCAS45731.2020.9181034 (2020).
+Fu, K. et al. Reservoir Computing with Neuromemristive Nanowire Networks. 2020 International Joint Conference on Neural Networks (IJCNN).
+7.
+https://doi.org/10.1109/IJCNN48605.2020.9207727 (2020).
+Zhu, R. et al. Information dynamics in neuromorphic nanowire networks.
+Sci. Rep., in print, https://doi.org/10.1038/s41598-021-92170-7 (2021).
+Muñoz, M. A. Colloquium: Criticality and dynamical scaling in living systems.
+Rev. Mod. Phys.
+90 , 031001 (2018).
+Article ADS MathSciNet Google Scholar Bak, P., Tang, C. & Wiesenfeld, K. Self-organized criticality: an explanation of the 1/ f noise.
+Phys. Rev. Lett.
+59 , 381–384 (1987).
+Article ADS CAS PubMed Google Scholar Langton, C. G. Computation at the edge of chaos: phase transitions and emergent computation.
+Phys. D.
+42 , 12–37 (1990).
+Article MathSciNet Google Scholar Beggs, J. M. & Plenz, D. Neuronal avalanches in neocortical circuits.
+J. Neurosci.
+23 , 11167–11177 (2003).
+Article CAS PubMed PubMed Central Google Scholar Friedman, N. et al. Universal critical dynamics in high resolution neuronal avalanche data.
+Phys. Rev. Lett.
+108 , 208102 (2012).
+Article ADS PubMed CAS Google Scholar Mallinson, J. B. et al. Avalanches and criticality in self-organized nanoscale networks.
+Sci. Adv.
+5 , eaaw8438 (2019).
+Article ADS CAS PubMed PubMed Central Google Scholar Dahmen, D., Grün, S., Diesmann, M. & Helias, M. Second type of criticality in the brain uncovers rich multiple-neuron dynamics.
+Proc. Natl Acad. Sci.
+116 , 13051–13060 (2019).
+Article CAS PubMed PubMed Central Google Scholar Bertschinger, N. & Natschläger, T. Real-time computation at the edge of chaos in recurrent neural networks.
+Neural Comput.
+16 , 1413–1436 (2004).
+Article PubMed MATH Google Scholar Boedecker, J., Obst, O., Lizier, J. T., Mayer, N. M. & Asada, M. Information processing in echo state networks at the edge of chaos.
+Theory Biosci.
+131 , 205–213 (2012).
+Article PubMed Google Scholar Snyder, D., Goudarzi, A. & Teuscher, C. Computational capabilities of random automata networks for reservoir computing.
+Phys. Rev. E 87 , 042808 (2013).
+Article ADS CAS Google Scholar Stieg, A. Z. Emergent criticality in complex Turing B-type atomic switch networks.
+Adv. Mater.
+24 , 286–293 (2012).
+Article CAS PubMed Google Scholar Caravelli, F. & Carbajal, J. Memristors for the curious outsiders.
+Technologies 6 , 118 (2018).
+Article Google Scholar Kuncic Z., et al. Emergent brain-like complexity from nanowire atomic switch networks: towards neuromorphic synthetic intelligence. 2018 IEEE 18th International Conference on Nanotechnology (IEEE-NANO).
+7.
+https://doi.org/10.1109/NANO.2018.8626236 (2018).
+Caravelli, F. Locality of interactions for planar memristive circuits.
+Phys. Rev. E 96 , 52206 (2017).
+Article ADS CAS Google Scholar Slipko, V. A., Shumovskyi, M. & Pershin, Y. V. Switching synchronization in one-dimensional memristive networks.
+Phys. Rev. E 92 , 052917 (2015).
+Article ADS MathSciNet CAS Google Scholar Slipko, V. A. & Pershin, Y. V. Switching synchronization in one-dimensional memristive networks: an exact solution.
+Phys. Rev. E 96 , 062213 (2017).
+Article ADS CAS PubMed Google Scholar Cramer, B. et al. Control of criticality and computation in spiking neuromorphic networks with plasticity.
+Nat. Commun.
+11 , 2853 (2020).
+Article ADS CAS PubMed PubMed Central Google Scholar Sethna, J. P., Dahmen, K. A. & Myers, C. R. Crackling noise.
+Nature 410 , 242–250 (2001).
+Article ADS CAS PubMed Google Scholar Touboul, J. & Destexhe, A. Power-law statistics and universal scaling in the absence of criticality.
+Phys. Rev. E 95 , 012413 (2017).
+Article ADS PubMed Google Scholar Cardy, J. Scaling and Renormalization in Statistical Physics. 4 (Cambridge University Press, 1996).
+Pruessner, G.
+Self-Organised Criticality.
+ (Cambridge University Press, Cambridge, 2012).
+Book MATH Google Scholar Sprott, J. C.
+Chaos and Time-Series Analysis.
+ (Oxford University Press, Oxford, United Kingdom, 2003).
+MATH Google Scholar Jaeger, H. Tutorial on training recurrent neural networks, covering BPPT, RTRL, EKF and the echo state network approach.
+GMD-Forschungszentrum Informationstechnik 5 , 1 (2002).
+Google Scholar Verstraeten, D., Schrauwen, B., D’Haene, M. & Stroobandt, D. An experimental unification of reservoir computing methods.
+Neural Netw.
+20 , 391–403 (2007).
+Article CAS PubMed MATH Google Scholar Sheldon, F. C. & Di Ventra, M. Conducting-insulating transition in adiabatic memristive networks.
+Phys. Rev. E 95 , 1–11 (2017).
+Article Google Scholar Fostner, S. & Brown, S. A. Neuromorphic behavior in percolating nanoparticle films.
+Phys. Rev. E 92 , 052134 (2015).
+Article ADS CAS Google Scholar Eugene Stanley, H. Introduction to Phase Transitions and Critical Phenomena. (Oxford University Press, 1987).
+Sethna, J. P. et al. Hysteresis and hierarchies: Dynamics of disorder-driven first-order phase transformations.
+Phys. Rev. Lett.
+70 , 3347–3350 (1993).
+Article ADS CAS PubMed Google Scholar Scarpetta, S., Apicella, I., Minati, L. & de Candia, A. Hysteresis, neural avalanches, and critical behavior near a first-order transition of a spiking neural network.
+Phys. Rev. E 97 , 062305 (2018).
+Article ADS CAS PubMed Google Scholar Stieg, A. Z. et al. Self-organized atomic switch networks.
+Jpn. J. Appl. Phys.
+53 , 01AA02 (2014).
+Article CAS Google Scholar Santo, S., Burioni, R., Vezzani, A. & Muñoz, M. A. Self-organized bistability associated with first-order phase transitions.
+Phys. Rev. Lett.
+116 , 240601 (2016).
+Article PubMed CAS Google Scholar Fosque, L. J., Williams-García, R. V., Beggs, J. M. & Ortiz, G. Evidence for quasicritical brain dynamics.
+Phys. Rev. Lett.
+126 , 098101 (2021).
+Article ADS CAS PubMed Google Scholar Buendía, V., Santo, S., Bonachela, J. A. & Muñoz, M. A. Feedback mechanisms for self-organization to the edge of a phase transition.
+Front. Phys.
+8 , 9 (2020).
+Article Google Scholar Pike, M. D. et al. Atomic scale dynamics drive brain-like avalanches in percolating nanostructured networks.
+Nano Lett.
+20 , 3935–3942 (2020).
+Article ADS CAS PubMed Google Scholar O’Callaghan, C. et al. Collective capacitive and memristive responses in random nanowire networks: emergence of critical connectivity pathways.
+J. Appl. Phys.
+124 , 152118 (2018).
+Article ADS CAS Google Scholar Zapperi, S., Lauritsen, K. B. & Stanley, H. E. SelF-organized Branching Processes: Mean-field Theory for Avalanches.
+Phys. Rev. Lett.
+75 , 4071–4074 (1995).
+Article ADS CAS PubMed Google Scholar Pershin, Y. V. & Slipko, V. A. Dynamical attractors of memristors and their networks.
+EPL 125 , 20002 (2019).
+Article ADS CAS Google Scholar Kumar, S., Strachan, J. P. & Williams, R. S. Chaotic dynamics in nanoscale NbO2 Mott memristors for analogue computing.
+Nature 548 , 318–321 (2017).
+Article ADS CAS PubMed Google Scholar Sprott, J. C. Chaotic dynamics on large networks.
+Chaos 18 , 023135 (2008).
+Article ADS MathSciNet CAS PubMed Google Scholar Haldeman, C. & Beggs, J. M. Critical branching captures activity in living neural networks and maximizes the number of metastable states.
+Phys. Rev. Lett.
+94 , 058101 (2005).
+Article ADS PubMed CAS Google Scholar Kanders, K., Lorimer, T. & Stoop, R. Avalanche and edge-of-chaos criticality do not necessarily co-occur in neural networks.
+Chaos 27 , 047408 (2017).
+Article ADS MathSciNet PubMed Google Scholar Zhu, R. et al. Harnessing adaptive dynamics in neuro-memristive nanowire networks for transfer learning. 2020 International Conference on Rebooting Computing (ICRC).
+https://doi.org/10.1109/ICRC2020.2020.00007 (2020).
+Maass, W., Natschläger, T. & Markram, H. Real-time computing without stable states: a new framework for neural computation based on perturbations.
+Neural Comput.
+14 , 2531–2560 (2002).
+Article PubMed MATH Google Scholar Pershin, Y. V., Slipko, V. A. & Di Ventra, M. Complex dynamics and scale invariance of one-dimensional memristive networks.
+Phys. Rev. E 87 , 022116 (2013).
+Article ADS CAS Google Scholar Simmons, J. G. Generalized formula for the electric tunnel effect between similar electrodes separated by a thin insulating film.
+J. Appl. Phys.
+34 , 1793–1803 (1963).
+Article ADS Google Scholar Sun, Y., Mayers, B., Herricks, T. & Xia, Y. Polyol synthesis of uniform silver nanowires: a plausible growth mechanism and the supporting evidence.
+Nano Lett.
+3 , 955–960 (2003).
+Article ADS CAS Google Scholar Marshall, N. et al. Analysis of power laws, shape collapses, and neural complexity: new techniques and MATLAB support via the NCC toolbox.
+Front. Physiol.
+7 (June), 1–18 (2016).
+Google Scholar Clauset, A., Shalizi, C. R. & Newman, M. Power-law distributions in empirical data.
+SIAM Rev.
+51 , 661–703 (2009).
+Article ADS MathSciNet MATH Google Scholar Download references Acknowledgements The authors acknowledge use of the Artemis High Performance Computing resource at the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.
+Author information Authors and Affiliations School of Physics, University of Sydney, Sydney, NSW, Australia Joel Hochstetter, Ruomin Zhu, Alon Loeffler, Tomonobu Nakayama & Zdenka Kuncic International Center for Materials Nanoarchitectonics (WPI-MANA), National Institute for Materials Science (NIMS), Tsukuba, Ibaraki, Japan Adrian Diaz-Alvarez, Tomonobu Nakayama & Zdenka Kuncic Graduate School of Pure and Applied Sciences, University of Tsukuba, Tsukuba, Ibaraki, Japan Tomonobu Nakayama The University of Sydney Nano Institute, Sydney, NSW, Australia Zdenka Kuncic Authors Joel Hochstetter View author publications You can also search for this author in PubMed Google Scholar Ruomin Zhu View author publications You can also search for this author in PubMed Google Scholar Alon Loeffler View author publications You can also search for this author in PubMed Google Scholar Adrian Diaz-Alvarez View author publications You can also search for this author in PubMed Google Scholar Tomonobu Nakayama View author publications You can also search for this author in PubMed Google Scholar Zdenka Kuncic View author publications You can also search for this author in PubMed Google Scholar Contributions J.H. and Z.K. conceived and designed the study. J.H., Z.K., R.Z. and A.L. developed the model. A.D.A. synthesised the networks and performed the experiments. J.H. performed the simulations and analysed the simulation and experimental results. T.N. conceived the system. Z.K. supervised the project. J.H. wrote the manuscript, with consultation from other authors.
+Corresponding authors Correspondence to Joel Hochstetter or Zdenka Kuncic.
+Ethics declarations Competing interests The authors declare no competing interests.
+Additional information Peer review information Nature Communications thanks the anonymous reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information Supplementary Information Peer Review File Source data Source Data Rights and permissions Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+Reprints and Permissions About this article Cite this article Hochstetter, J., Zhu, R., Loeffler, A.
+et al.
+Avalanches and edge-of-chaos learning in neuromorphic nanowire networks.
+Nat Commun 12 , 4008 (2021). https://doi.org/10.1038/s41467-021-24260-z Download citation Received : 30 October 2020 Accepted : 10 June 2021 Published : 29 June 2021 DOI : https://doi.org/10.1038/s41467-021-24260-z Share this article Anyone you share the following link with will be able to read this content: Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiative This article is cited by A scalable solution recipe for a Ag-based neuromorphic device Tejaswini S. Rao Indrajit Mondal Giridhar U. Kulkarni Discover Nano (2023) All-ferroelectric implementation of reservoir computing Zhiwei Chen Wenjie Li Jun-Ming Liu Nature Communications (2023) Tomography of memory engrams in self-organizing nanowire connectomes Gianluca Milano Alessandro Cultrera Carlo Ricciardi Nature Communications (2023) Dynamical stochastic simulation of complex electrical behavior in neuromorphic networks of metallic nanojunctions F. Mambretti M. Mirigliano D. E. Galli Scientific Reports (2022) In materia reservoir computing with a fully memristive architecture based on self-organizing nanowire networks Gianluca Milano Giacomo Pedretti Carlo Ricciardi Nature Materials (2022) Comments By submitting a comment you agree to abide by our Terms and Community Guidelines.
+ If you find something abusive or that does not comply with our terms or guidelines please flag it as inappropriate.
+Download PDF Associated content Focus AI and machine learning Advertisement Explore content Research articles Reviews & Analysis News & Comment Videos Collections Subjects Follow us on Facebook Follow us on Twitter Sign up for alerts RSS feed About the journal Aims & Scope Editors Journal Information Open access Calls for Papers Editorial Values Statement Journal Metrics Editors' Highlights Contact Editorial policies Top Articles Publish with us For authors For Reviewers Language editing services Submit manuscript Search Quick links Explore articles by subject Find a job Guide to authors Editorial policies Nature Communications ( Nat Commun ) ISSN 2041-1723 (online) nature.com sitemap About Nature Portfolio About us Press releases Press office Contact us Discover content Journals A-Z Articles by subject Nano Protocol Exchange Nature Index Publishing policies Nature portfolio policies Open access Author & Researcher services Reprints & permissions Research data Language editing Scientific editing Nature Masterclasses Live Expert Trainer-led workshops Research Solutions Libraries & institutions Librarian service & tools Librarian portal Open research Recommend to library Advertising & partnerships Advertising Partnerships & Services Media kits Branded content Career development Nature Careers Nature Conferences Nature events Regional websites Nature Africa Nature China Nature India Nature Italy Nature Japan Nature Korea Nature Middle East Privacy Policy Use of cookies Your privacy choices/Manage cookies Legal notice Accessibility statement Terms & Conditions Your US state privacy rights © 2023 Springer Nature Limited Close Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+Close Get the most important science stories of the day, free in your inbox.

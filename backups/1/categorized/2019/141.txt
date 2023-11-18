@@ -1,0 +1,19 @@
+About 40% of Europe’s “AI companies” don’t use any AI at all | MIT Technology Review
+2019
+https://www.technologyreview.com/the-download/613078/about-40-of-europes-ai-companies-dont-actually-use-any-ai-at-all
+
+Featured Topics Newsletters Events Podcasts Featured Topics Newsletters Events Podcasts About 40% of Europe’s “AI companies” don’t use any AI at all By Will Knight archive page A surprising number of firms are jumping on the artificial-intelligence bandwagon—without actually investing in any AI.
+What? Yes, I’m afraid so. MMC Ventures, an investment firm in London, looked at 2,830 European companies that claim to make use of AI. It found that a whopping 40% of them are not using any machine learning, a field of AI that has taken off in recent years both academically and commercially.
+Numbers game: One company singled out in an article in the FT ($) said it was gathering “data and knowledge to enable the implementation of AI.” That’s pretty embarrassing, but also hardly surprising. The report claims that “AI-focused” startups receive 15% more funding on average, so it’s going to be pretty tempting to stretch the definition a little.
+AI or not AI? Another problem, of course, is that “ artificial intelligence” refers to a huge field of academic research.
+ So it can be used to refer to the most basic forms of software automation or the kind of advanced machine learning seen in AlphaGo. This makes it a lot easier for companies to convince investors—and perhaps themselves—that they are involved in AI.
+To get the real lowdown on AI, you should sign up for our AI newsletter The Algorithm. To have it directly delivered to your inbox, sign up here for free.
+hide by Will Knight Share linkedinlink opens in a new window twitterlink opens in a new window facebooklink opens in a new window emaillink opens in a new window Popular This new data poisoning tool lets artists fight back against generative AI Melissa Heikkilä How to fix the internet Katie Notopoulos Think that your plastic is being recycled? Think again.
+Douglas Main 15 Climate Tech Companies to Watch Amy Nordrum Deep Dive Artificial intelligence This new data poisoning tool lets artists fight back against generative AI The tool, called Nightshade, messes up training data in ways that could cause serious damage to image-generating AI models.
+By Melissa Heikkilä archive page Driving companywide efficiencies with AI Advanced AI and ML capabilities revolutionize how administrative and operations tasks are done.
+By MIT Technology Review Insights archive page Minds of machines: The great AI consciousness conundrum Philosophers, cognitive scientists, and engineers are grappling with what it would take for AI to become conscious.
+By Grace Huckins archive page Generative AI deployment: Strategies for smooth scaling Our global poll examines key decision points for putting AI to use in the enterprise.
+By MIT Technology Review Insights archive page Stay connected Illustration by Rose Wong Get the latest updates from MIT Technology Review Discover special offers, top stories, upcoming events, and more.
+Enter your email Thank you for submitting your email! It looks like something went wrong.
+We’re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out to us at customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+The latest iteration of a legacy Advertise with MIT Technology Review © 2023 MIT Technology Review About About us Careers Custom content Advertise with us International Editions Republishing MIT News Help Help & FAQ My subscription Editorial guidelines Privacy policy Terms of Service Write for us Contact us twitterlink opens in a new window facebooklink opens in a new window instagramlink opens in a new window rsslink opens in a new window linkedinlink opens in a new window

@@ -1,0 +1,35 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Friday stumper: Find all of Apple’s 23 acquisitions from the past 16 months Share on Facebook Share on X Share on LinkedIn Apple chief executive Tim Cook.
+Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here.
+At Apple’s annual meeting in Cupertino, Calif., today, chief executive Tim Cook dropped a curious factoid: In the past 16 months, Apple has bought 23 companies.
+Like Cisco, IBM, Salesforce.com, Oracle, Yahoo, and other aging tech giants seeking to stay relevant, Apple has been on an acquisition binge. The mobile device, PC, and software maker keeps lots of cash on hand.
+ Enough cash to round up a whole flock of acqui-hires, technology buys, and other M&A deals.
+We couldn’t help ourselves. We poked around and came up with documentation for at least 16 of the said 23 purchases.
+Here are the ones we’re sure about: 1.
+SnappyLabs , maker of a mobile camera app.
+2. Note-taking app company Catch.
+3. Mapping company BroadMap.
+4. Social media analytics company Topsy.
+5.
+PrimeSense , the company that devised the technology underlying Microsoft’s Xbox 360 Kinect.
+6. Productivity app maker Cue.
+7.
+AlgoTrim , a mobile data compression company.
+8. Public transportation app maker Embark.
+9.
+Matcha , the company behind an app showing stuff you can watch.
+10.
+Passif Semiconductor , a company that made low-power chips for mobile devices.
+11. Public-transportation app maker HopStop.
+12. Map data company Locationary.
+13.
+WiFiSlam , a company that figured out a way to pinpoint people’s locations inside buildings using a Wi-Fi signal.
+14. Web development company Particle.
+15. The engineering team behind photo-sharing app maker Color Labs.
+16. TestFlight maker Burstly.
+Beyond these 16, we’ve come across a few other companies Apple might have acquired in the 16-month range, but we don’t have official confirmation for them: 17? Grokr , a company that came up with, a predictive search app.
+18? Basis Science , a company that makes health-tracking watches.
+ It could be of use to Apple as it reportedly works on an “iWatch.” We know we’re missing companies here. So help us, please, and tell us what we left out. Send us mail at tips@venturebeat.com. Oh, and if you know someone who knows someone whose company just got bought by Apple, tell us that, too.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

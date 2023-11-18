@@ -1,0 +1,17 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Look at all the psychedelic art people are creating with Google’s DeepDream AI code Share on Facebook Share on X Share on LinkedIn Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here.
+Just a few days after Google open-sourced its code for generating trippy images using artificial intelligence , you can now explore a subreddit page on social discussion board site Reddit that’s specifically devoted to sharing pictures created with DeepDream.
+Reddit user UngerUnder announced the establishment of the subreddit yesterday.
+ Hat tip to Will Knight of the MIT Technology Review for tweeting out a link to the subreddit this morning.
+The subreddit, which goes by the name DeepDreaming, is a veritable shrine to machines tripping on data. It’s already a riot to look through.
+The top spot is currently held by “The Dog Is Watching,” a patchwork of many, many dog heads and too many eyes to count.
+Above: “The Dog Is Watching” Below that is “Matchstick Crane,” a tall structure decorated with dog heads. Eyes patiently look on from the sky in the background.
+Above: “Matchstick Crane” There is also “Open Wide,” a mysterious tree stump composed of dogs.
+Above: “Open Wide” Not that r/deepdreaming is the only place to explore DeepDream art.
+Over the past few days, people have been tweeting out their DeepDream creations with the hashtag #deepdream.
+Flickr is chock full of DeepDream images, too. There’s even a page on the website Know Your Meme dedicated to DeepDream.
+ But now people can share, explain, and critique DeepDream creations on a dedicated subreddit.
+Note: Please do not hold us responsible if you throw up while viewing the images.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

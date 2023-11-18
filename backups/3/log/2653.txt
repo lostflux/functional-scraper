@@ -1,0 +1,53 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons How SpotMini and Atlas Became the Internet's Favorite Robots About Released on 10/30/2018 [Narrator] Maybe you've seen Atlas, the humanoid robot that can run, do back flips, and parkour.
+Or SpotMini, the Internet's favorite robotic dog, which opens doors for its friends.
+Yes, every time Boston Dynamics drops a video, the internet has itself a freakout.
+Its latest release? SpotMini doing the running man to Uptown Funk.
+[Uptown Funk by Bruno Mars] And the reaction online is well deserved.
+These are some of the most impressive robots on earth.
+But can they make the transition from Internet stardom to real-world? People seem to love looking at it.
+I don't know exactly what the fascination is.
+They don't seem afraid of it, they mostly are drawn to it.
+[Narrator] But the truth is, these demonstrations don't show typical behavior, but rather the very best performance the robots can muster.
+It took over 20 tried to get Atlas to do this trick.
+Once it got the hang of things though, it could pull it off 90% of the time.
+And we honestly don't know the full extent of SpotMini's abilities.
+'Cause Boston Dynamics is a very secretive company.
+At the very least, we know that in some of SpotMini's demos, the robot is remote-controlled.
+But we also know SpotMini can map environments and then navigate them autonomously, which is a major step forward for robots like this.
+The core of SpotMini is its mobility.
+It can go in a large variety of terrains, it kind of takes care of all the things it has to worry about to keep itself balanced so that, if there's a person involved they can just give it high level guidance.
+If there's AI involved it can give it high level guidance.
+And the robot takes care of everything else.
+So it's a mixture of the mechanical design, which has some clever things done, and the software that let it do that.
+[Narrator] SpotMini's design has its roots in a rougher looking robot called Big Dog.
+And we learned a ton about the role of dynamic control and balance in building that.
+But it was totally a prototype.
+It had a noisy engine that required lots of continuous maintenance.
+We were flying by the seat of our pants.
+But once that started to mature, we did a couple of other projects.
+We did a big, walking robot that could carry 400 pounds, and then we did a fast one called the Cheetah, and we started to see that if you did the right kind of design, you could really have a much more functional, almost product-level quadruped.
+[Narrator] All of that led to the original, larger version of Spot.
+[Marc] So, Spot had great performance, the best of any robot we'd ever built, and sort of paved the way for then doing a smaller version, which is the SpotMini.
+[Narrator] And oh how far SpotMini has come.
+Sensors allow it to automatically keep its balance, even if a human assaults it.
+And if you pilot it towards an obstacle it'll redirect on its own.
+And it has an attachable arm that can move much like a human's.
+And no, that's not its head, that's its hand.
+It can rotate, move up and down, and bend at the elbow.
+It comes equipped with a camera, which might make it good for things like inspecting construction sites when it hits the market next year.
+Which leads us back to the million dollar question.
+What is SpotMini actually good for? For starters, you won't be seeing them in people's homes any time soon.
+Yeah, we focusing on business-to-business right now, not on consumers.
+[Narrator] The world just hasn't seen a machine like this, so Boston Dynamics is relying, to a large degree, on customers to tell it what works.
+Well, we've designed Spot to be a customizable platform.
+So it's a platform like an Android or even an iOS phone is a platform.
+The basic idea is that we're gonna provide a set of functionality, and then other people, including our own applications groups, will provide both hardware and software that works on that platform to customize it for specific applications.
+You know, we don't know what the big successes will be yet, but we're looking at construction, commercial security, some municipal security, entertainment.
+[Narrator] Which might get you thinking that a robot like SpotMini will steal your job.
+But at least in the near-term, the machines are more likely to supplement human labor, not replace it.
+Any yes, SpotMini will continue to wow us all online, but it's the market that will determine its future.
+So, if you've been looking for a dance instructor that never gets tired, now's the time to speak up.
+[funky music] 2017: The Year Robots Went Everywhere How to Get Robots to Walk (and Jump and Run) Among Us Chimp, the Vaguely Humanoid Robot This Robot Snake Means No Harm, Really 3 Amazing Robots You’ve Never Seen How Brett the Robot is Learning by Failing How Robots Are Fueling the Ascendance of the Electric Motor How to Prototype a Giant Robot Mech (3/7) Watch FX Experts Build the Prototype of a 14-Foot Creature Maybe These Aren’t the Droids We are Looking For Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

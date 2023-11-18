@@ -1,0 +1,97 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons WIRED25: Kai-Fu Lee and Fei Fei Li On What's Next for Artificial Intelligence About Released on 10/16/2018 (calm alternative music) Thank you both for being here.
+I'm gonna go right into this because we're talking about AI, which I have to say, I am sure everyone in this audience understands is one of the biggest topics in the world, and we don't have that much time.
+And their names are up on the screen, so.
+(Everyone laughing) I wanted to start by asking Kai-Fu Lee, you run a large VC company that focuses you know, in large part on business that are AI based.
+[Kai-Fu] Right.
+And you nominated Dr. Li, Fei-Fei Li to be a person who's going to shape the future.
+Why is that? Well. I think today, there's a lot of talk about AI.
+Many by non-experts, people who have had history, philosophy, physics backgrounds, and they're not necessarily speaking about it based on the true expertise.
+And Fei-Fei's one of the true top experts in AI, but more than that, she has a real conscientious and heart, and is a great spokesperson, and talks about AI, not as a dystopia, but with a lot of warmth and the future opportunities that can make us all better with AI technologies.
+Right, right, so Dr. Li, you do talk about human-based AI, and I'd love for you to explain what that means.
+You've been speaking to Congress, and writing Op-eds, and been very vocal about it on a high level, and it'd be great to get a good sense and a good understanding of what human-based AI means to you.
+Sure, Maria, and also I want to start by thanking Wired and thanking Kai-Fu for the nomination.
+Kai-Fu is another Dr. Li on stage. (laughs) I was reading his AI papers when I was a student, so quite an honor to be here.
+AI is one of the talks of the town right now.
+Believe it or not, it's still a very young field.
+It's only had a little more than 60 years of history, and almost 20 years ago when I started as a graduate student in AI, it was my own intellectual curiosity.
+Little would I have expected, it has grown into such a field of major driving force of the industrial transformation we're seeing.
+As the excitement increases, over the past decade, seeing the impact of AI is potentially making, as a technologist, I've been thinking a lot about what is the future of AI, especially as my job as a professor.
+And I not only work on the technology itself, but I work with the next generation AI leaders.
+And that's when my colleagues and I are coming to this conclusion that what what's really important is to put humanity back into the center of this technology.
+And to unpack a little bit the three critical ingredients of human-centered AI, our thinking is first is: as much as AI is already showing it's power, it's still amazing technology.
+Where is that going as a technology? It should be more human-inspired.
+Should be a cognitively, inspired by cognition, neuroscience, and human behavior.
+Can you give us another example of what that might look like, what that might mean? Yes, for example, that computer vision, which is the subfield of AI I work in, there's a lot of excitement of looking at a picture and recognizing objects in a picture.
+For example, there's a golden retriever, or a cat, or a chair, but what about the nuance that really mattered to humans? When I take a look at a scene, the interactions for example, the scene.
+Our interactions, our emotional dynamics, our relationship between us, the audience, these kind of more human-centered understanding of the world by a technology would be critical in helping humans down the road.
+We talked briefly about myths that you wanted to dispel.
+Because I could feel how people would still be afraid.
+And you had mentioned how there's these ideas out there that AI can be a very scary thing, and I could hear how people still might think that even when they see, if you understood seeing the emotional component of seeing a cute picture of a golden retriever.
+But are there myths that you both would like to dispel that would help people understand how this is going to work, and how having that understanding would lead to a better place? Well, I think there's so many myths out there.
+One myth is because AI is so good at a single task, and it does so with complex mathematics, and it exceeds human capabilities, there is a myth that there is singularity coming, and when they will wake up, and we'll all be enslaved or forced to plug our brains to the AI, I want to ensure everyone.
+[Maria] Deep breaths.
+We are investors in AI.
+Ai is wonderful.
+AI is a great pattern recognition engine in particular domains.
+We're commercializing it.
+It's going to help us make money, save money.
+But it is nowhere close to displacing humans, and also I totally agree with Fei-Fei that AI should be used as a tool to help doctors treat patients, help scientists find new drugs, and there's a good opportunity for symbiosis.
+That brings me to two steps.
+One is, you both have spoken about the benefits of AI, and it would be good to talk a little bit more about where you see AI being incredibly helpful in the future.
+Other people on this stage have mentioned really wonderful uses of Artificial Intelligence, and Jenny Lay-Flurrie just mentioned that in disability.
+So, one of the other theme of human centered AI is about enhancing and augmenting humans rather than replacing humans.
+This word, this very word replacement having been a central topic of AI during this AI time.
+And as a technologist, we recognize that this is a technology that could play a huge role in enhancing and augmenting.
+As an example, at Stanford, I've been working with Stanford Medical School experts and doctors in how the technology of AI can help the work flow of the clinical health-care delivery.
+For example, hand hygiene, hospital-inquired infection, kills three times more people than car accidents in the US.
+Mostly due to the lack of good hand hygiene practiced by clinicians.
+And in the Standford Hospital right now, we are looking at a project by using smart censors and the deep-learning algorithm behind it to help clinicians to assist and improve their hand hygiene practice in the clinically important situations when they are interacting with patients.
+And this is an example where we give clinicians the time, the focus back to the patients but assist them to make better decisions or practice better work flow, and this is just one small example of that.
+That does lead me to, and you've spoken about jobs.
+Because there is some fear, right? Let me first talk about another example that shares commonalities in education.
+At Sinovation Ventures, we funded about 45 AI companies and about 40 education companies.
+And we've been helping them to connect them together.
+In China, the top schools and the top cities have great teachers, and that, in villages, you still have 40, 50 kids from first to sixth grade going to one school with one or two teachers who can't possibly be experienced to be great teachers.
+So, we've connected and helped all these portfolio companies to connect up.
+Video conferencing form the city of Beijing, simultaneously teaching 800 kids in this villages and in the village schools there's a clicker with a large video conference.
+And also, to help these village teachers, there are tools that we've provided for them that can grade homework assignments, that can do drills for math, (mumbles) their week, helping with english pronunciation.
+Really, AI is coming in to help teachers help students individually improve their capabilities and their week and give more time to the students to spend with teachers, giving teachers more time to one-on-one mentoring.
+I was going to ask if you are then taking the teacher's jobs then.
+Well, not at all, because I think there will be three times as many teachers in the world.
+There's not enough teachers in poorer regions in the world, and teacher's jobs should be a mentor, one on one, face-to-face, understanding what the student needs, and giving mentoring and coaching and guidance.
+Not the repetitive course, during roll call, giving assignments, doing tasks.
+The AI should do all that.
+You've both spoken about that there will be jobs that are lost, and there's a balance and an augmentation.
+I know you've spoken about that quite a bit.
+Is there anything more you'd want to add? I think we have to separate.
+I think it's neither the case that all of AI will be symbiotic with humans, nor the case that AI will take human jobs.
+In my new book, I talk about different types of situations.
+In the creative types, I think AI can amplify the creatives.
+In the professional's case, I think AI can do the analytic thinking with the human adding more to it, so one plus one equals three.
+Like a teacher, or a doctor.
+But there are routine jobs that will be taken by AI, and I think we have to be cognizant of that.
+As we look at some of our investments, some of them are creative, some of them are augmentative, symbiotic, but there are some that are displacing jobs.
+So part of why would the VC write the book is to alert people that there will be some jobs that would be lost due to AI's ability to do them better.
+Mostly to the routine jobs.
+That brings me to a slight shift, and I realize we're quickly running out of time, but Dr. Li, you've talked a lot about diversity, and you've talked about wanting to make sure that the tools and the people building the technology we're going to be using is diverse.
+Can you talk a little bit more about that? When it comes to AI, I feel like humanity has never created a technology that resembles ourselves as much as AI technology has.
+And in the context of that, who are the people making AI? Who are the people being influential to AI technology as well as impact.
+We're severely lacking that diversity in that from the technology world all the way to the policy, to the policy world.
+So, involving diversity has several really important advantage.
+First is actually jobs itself, we're still lacking computing AI talents in the world to create better, more AI, and we're missing huge chunks of humanity by not involving women and underrepresented minority.
+And it's also important for innovation and creativity, and most of all it's bringing that diverse value and representation to the creation and application of this technology brings that kind of justice and moral compass to this.
+And it's critical for AI's future.
+You're starting a new Stanford initiative.
+Is that what the focus is? Stanford's in preparation of a human-centered AI initiative.
+This is really bringing together the top thinkers of humanities such as social scientists such as economists, philosophers, law scholars, ethicists, next together with the technologists, engineers, to think about the next AI generation of technology, its social and humanistic impact, and to investing areas like education, healthcare, automation and sustainability, in guiding AI towards a more human-centered development.
+In our last very few seconds, 25 years out, are you optimistic? Do we have the time now to get to an optimistic view? Well, I think now we're faced with a lot of challenges and chaos, but in 25 years, we're going to look back and be very very grateful that AI has liberated us from routine jobs.
+So, we can think about why we exist and what we're passionate about.
+Not much more, sorry! No, no, go ahead.
+I'm only optimistic if this generation takes on the responsibility of human-centered AI.
+Do we have time? We have time, but we have to act now.
+We have so many things we could talk about but we are out of time.
+We are out of time. (laughs) (audience claps) [Maria] Thank you.
+President Barack Obama on How We'll Embrace Self-Driving Cars President Barack Obama on Bureaucracy VS. Moonshots President Barack Obama on How Artificial Intelligence Will Affect Jobs President Barack Obama on the Future of AI WIRED25: Move Fast, Fix Things WIRED25: Sebastian Thrun & Sam Altman Talk Flying Vehicles and Artificial Intelligence President Barack Obama on What AI Means for National Security WIRED's Top Gadget Stories of 2016 Booze Science | Ice 4-Foot LEGO Super Star Destroyer - How We Smashed It Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

@@ -1,0 +1,56 @@
+Cohere Website For Business Docs Research Cohere Team Extract Entities from Invoices Using Large Language Models Developers Share: TL;DR: - Use an invoice scanning application to scan invoices and extract data for use in their accounting processes.
+- Use your company’s own dataset to train and use a pre-trained model to extract data from invoices.
+This article’s title and TL;DR have been generated with Cohere.
+Get started with text generation From e-commerce platforms to brick-and-mortar chains to nationwide service providers, modern businesses utilize electronic documents, and one of the most widely used types of electronic documents is the invoice. Busy enterprises will handle a large volume of invoices as part of their accounting processes. This seems manageable enough until you need to start looking for specific information or categorizing invoices based on specific data, such as a customer’s name and location, invoice amount, invoice reference number, and of course, the charges incurred.
+Like searching for any kind of data, trying to sort through invoice data manually is inefficient and time-consuming. Adding to this challenge, external invoices can come in various formats with different layouts and data. Since standardization and consistency are key to keeping accounts balanced, monitoring and quantifying sales, and developing a holistic understanding of business processes and success, you need to extract data from these invoices both effectively and efficiently.
+The best way is to build an invoice scanning application and then automate the data extraction process using machine learning (ML) or artificial intelligence (AI) language models. But doing so would require you to build, train, and retrain those models using your datasets for quite some time before their results would be refined enough for business use. In addition to being time-consuming, this training also requires high-level ML/AI expertise and consistent attention as you’ll need to adjust the models to have them extract different invoice elements and handle different formats regularly.
+Instead of taking on this laborious work, you can make handling and extracting invoice data easier and faster with the Cohere Platform.
+ With pre-trained models for natural language processing (NLP), you don’t need to worry about model training. Instead, you can use one of Cohere’s pre-trained large language models and prompts — the inputs for the models — and start using them in your invoice scanner application immediately. All you need to do is provide prompts that contain the text to be analyzed and the label or element to be extracted, and then pass the prompts without the label. Then, Cohere will extract the text for you automatically.
+In this article, you’ll see how to use the Cohere platform to extract different forms of data from invoices using a real-life dataset via Kaggle.
+Invoice Entity Extractor As mentioned earlier, this tutorial demonstrates how to extract data from restaurant invoices using a real-life dataset. You’ll begin by extracting a restaurant’s name from an invoice, and then you’ll extract its address.
+Prerequisites Before beginning this tutorial, be sure you: Log in to your Cohere account or sign up if you’re not already a user. Note that for this tutorial, you’ll need access to an API key which you can obtain for free on the platform’s free tier.
+ You’ll also be using the Cohere API.
+Install Node.js on your machine.
+Have a working knowledge of Node.js and JavaScript in general.
+You can find the final project on GitHub.
+Start Building To get started, create a new folder on your machine and call it cohere-invoice-extractor.
+ Inside the folder, bootstrap an npm project by running npm init -y.
+Next, install cohere-ai as a project dependency using the command below.
+npm install cohere-ai Getting Your API Key Next, you’ll need to get your API key. After signing up or logging in, go to the Cohere dashboard.
+ Once you see it, click on the Create API Key button at the bottom of the screen.
+After clicking on the Create API Key button, proceed to enter the API name (enter any name of your choice) in the popup and click the Create API Key button.
+Copy the API key and store it safely, as you’ll need it later.
+Downloading the Dataset As mentioned in the introduction, this tutorial uses real-life datasets available via Kaggle. To access these datasets, begin by registering for a Kaggle account or signing in to your account if you’ve used Kaggle before.
+Then, download the invoice dataset by clicking the Download button.
+Extracting Restaurant Names from an Invoice This section guides you through extracting restaurant names from an invoice to demonstrate how Cohere can help you extract entities from an invoice.
+To begin extraction, unzip the downloaded file and open the invoices.csv file in the folder. Then, copy the text from the invoices in the format shown below. You can use a few lines for this or all of them. The larger the number of lines, the better results.
+In the invoice labels above, you have the buyer's name, email address, product ID, item quantity, and so on. “ -- ” is used to separate the data from different invoices.
+Cohere learns the pattern shown in the pasted invoice data and applies the ML algorithm to generate the product code of the invoice in question, which is usually the last piece of invoice data. Note the empty label, Product code:. That is where the extracted ID will be appended to.
+Using the NLP Algorithm in a Node Application Next, you’ll use Cohere’s NPL algorithm in a Node application that allows the user to enter the invoice details in a form that then displays the name to the user with the click of a button. This is visually summarized in the image below.
+Since a user interface is being built, you’ll need a way to parse the body of the request sent from the form. To do that, you'll need the Express framework and two modules: express and body-parser.
+ The latter is the middleware for parsing the body request from the form.
+Implement the two modules using the command below.
+npm install express body-parser The Backend With this installation done, you need to create the application’s backend. Create a file called app.js from the root of your folder and add the code below.
+The code first starts by importing the required modules, initializing the Express app, and goes through the Cohere dependency by passing in the API key. It then proceeds to add an async-await function called extractIt.
+In this function, you’ve used the generate method of the Cohere object to send a prompt for analysis. The generate method accepts an anonymous object with several options that you configure to control predictions (same as on the dashboard). Here, you’ve used the following options: model —This is the size of the model used for analysis. The larger the model, the better the predictions will be, though it’s at the cost of a longer analysis time.
+prompt —This represents the input for the model.
+max_tokens —This specifies the number of tokens to be predicted.
+temperature —This enables you to control the randomness of the model. The larger the value, the more freedom the model has to generate creative outputs. You want to increase this value to reduce the repeatability of the model. However, for this demonstration, you want the model to be repeatable. Therefore, you use a low-temperature value.
+k —This specifies the number of top k predictions. Here, you’ve disabled this feature and only used one prediction with the highest score.
+p —This specifies the minimum probability of detection to be included in the response. Here, you’ve only accepted the first detection with the highest score. So, your response will always contain only one generation (the result of the generate method).
+stop_sequences —This is an array of strings that will cut off your generation at the end of the sequence. It then returns the extracted information in a variable, extractedVal.
+After that, Express’s app.get function is used to render the HTML page where the UI will be placed.
+The app.post function takes in the parsed request body from the form, where the Node engine will internally use it to process the data. The text entered into the form by the user is retrieved and passed into the extractIt function, which will be sent to Cohere’s NLP engine for extraction. The extracted value is then captured, converted to JSON, and then sent to the user.
+Before creating the front end, be sure to add this line to the scripts object of the package.json file, as it sets the entry point for your Express app. The file is found in the root of your folder.
+"start": "node app.js" Building the Frontend Next, you need to build the frontend. Create a file called ui.html in your root folder and add this snippet below to it. It contains the HTML elements for building out the form. Bootstrap 5 is used for styling. It’s added to the file using a CDN link.
+At the end of the file, a JavaScript script is added. It starts with an arrow function called sendForExtraction , which fires after the button is clicked. It displays the extracted value in a <h5> element after retrieving it from the fetchValue method.
+fetchValue ’s logic shares similarities with what was done in the backend in the value retrieval.
+Next, test the code by running npm start in your terminal and heading on to http://localhost:4000/. This will be the output.
+And as you can see, the NLP model correctly extracted the restaurant name! Note that it’s good to experiment with this application and run it several times. If it outputs random values, the model becomes too creative. If this happens, you need to reduce the temperature. You can also experiment with the code to change the parameters p and k to see how it will affect the number of generations.
+Extracting a Customer’s Email from the Invoice As another example of how Cohere can extract invoice entities, this section demonstrates how to extract an email address.
+The data is the same, with only the labels changing.
+After running the app again, you’ll see the following output.
+Again, the NLP model correctly recognized the email address.
+Conclusion Manually extracting data from invoices brings about many challenges. Some of them include inaccuracies, fatigue, slowness, and increased labor costs. With NLP, this can be automated and done quickly with little or no human intervention.
+This has been a demonstration of how to use the Cohere Platform to perform text extraction quickly and efficiently in an invoice use case. You saw that using Cohere, the complex capabilities of natural language processing can be quickly and easily incorporated into your Node.JS applications—all done using a form you created and linked with the backend.
+Learn more about Cohere’s Large Language Models and start building ! Keep reading Cohere — Nov 16, 2023 Cohere’s Enterprise AI Models Coming Soon to Microsoft Azure AI as a Managed Service Newsroom Seraphina Goldfarb-Tarrant , Maximilian Mozes — Nov 14, 2023 The Enterprise Guide to AI Safety For Business Cohere Team — Nov 03, 2023 Emerging Trends in Generative AI Research: A Selection of Recent Papers Research Cohere.com Get Started About Classify Generate Responsibility Documentation Careers

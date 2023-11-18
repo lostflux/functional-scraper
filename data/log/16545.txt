@@ -1,0 +1,31 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Opinion ProBeat: WFH tips I’ve learned after working from home for 12 years Share on Facebook Share on X Share on LinkedIn Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here.
+I’ve been working from home my whole career. Online journalism happens to be well suited for remote work, but not every job is. With the current COVID-19 coronavirus , more and more companies are telling their employees to work from home. As the outbreak has grown, some employees chose to WFH, then individual team leaders encouraged their teams to avoid the office. And suddenly, WFH has become mandatory policy for entire companies. Whether your job is ideal for working from home or not, this is your reality for the foreseeable future. And that’s why I figure now is the time to share what I’ve learned over the years.
+As I’ve argued before, the future of work is remote.
+ While I’m publishing this list now, I hope it will be useful long after the COVID-19 pandemic is over — for employees as well as team leaders. I’ve broken the tips up into those two sections, but regardless of whether you report to someone or someone reports to you, I would encourage you to read them all.
+10 work from home tips for you Without further ado, here are my work from home tips: Don’t work from your bed. At the very least use a table (if a desk is not available) and a chair.
+Don’t wear the same thing as you do to bed. What you wear doesn’t matter (yay), but make sure you change.
+Set work hours for yourself. Make sure the line between work time and you time is as distinct as possible.
+Drink water throughout the day. Don’t forget to eat.
+Overcommunicate with your team. It’s easy to forget that you’re all experiencing work differently because you’re not in the same physical space.
+Before you join a video call, check yourself and your surroundings. If it’s not required, disable video.
+Get up. Leave your computer, stretch, and walk around.
+Take advantage of your space. Cook for yourself, work out, run an errand — do whatever you couldn’t normally do in a physical office.
+Go out in the evening. Especially if you work from home for multiple days, make sure you have activities that take you away from your computer and out of the house.
+Ask when you need help. You can’t count on someone noticing that you’re struggling with something or hearing audible sighs.
+You don’t need to apply all these tips at once, and some may not work for you at all. Whether you’re transitioning to WFH now or have done so for a long time, the most important is to figure out what works for you. And as you do so, make sure you’re communicating what works and what doesn’t with your manager and teammates.
+9 work from home tips for the team leader Speaking of which, if you are leading a remote team, here are a few more tips: Discuss hours, goals, or targets for your team members. Make clear what you expect them to get done and then let them do it.
+Don’t ask where your teammates are. Let them volunteer the information.
+Offer your time and make sure your team members know you’re available. You can’t just drop by their desk, but you can always check in via chat, email, video chat, or whichever tool your company prefers.
+Ask which tools are working and which aren’t. Be open to changing the tools and pushing management to make adjustments.
+Have regular meetings at set times. Offer to adjust those times to accommodate various schedules and time zones.
+Figure out how to make remote work more fun for your team. Share links that you come across online so that just like in a physical office, the day’s discussion isn’t strictly work related.
+Encourage everyone to take breaks. Lead by example.
+Make sure your tone isn’t being misinterpreted or misread. Add exclamation marks, emojis, and whatever else is necessary to accurately reflect how you would have said it in person.
+Tell your team members when you’re going mobile and when you’re signing off. Remind them when and how to reach out if they need you.
+Some of these may also work even if you aren’t leading a team — to apply yourself or as a reminder of what your boss might be struggling with. Did I miss something? I’m sure I did.
+Let me know your tip.
+ProBeat is a column in which Emil rants about whatever crosses him that week.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+The AI Impact Tour Join us for an evening full of networking and insights at VentureBeat's AI Impact Tour, coming to San Francisco, New York, and Los Angeles! VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

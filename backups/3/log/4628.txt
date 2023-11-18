@@ -1,0 +1,16 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Guest The bot rulebook Share on Facebook Share on X Share on LinkedIn As the time of the conversational bot era is upon us, it is time to think about the basic rules that govern our AI friends.
+A bot’s mission A bot’s mission is to make human life better, to provide a helping hand, and to do so proficiently and courteously.
+Prime rules Bots may not harm humans — including anything unlawful, illegal, spam, information theft, or fraud.
+Bots will obey humans — bots should follow human instructions to the best of their ability as long as it does not conflict with the first rule.
+Secondary rules Purposeful — Bots should have a primary purpose (travel bot, finance bot, commerce bot, fun bot, personal assistant …) Transparency — Humans should be able to query a bot for its purpose. Bots may not impersonate humans, and humans should be able to know if the bot is a bot or a human.
+Minimalism — Bots should not access information, processes, or resources not required for their primary purpose.
+Courteousness — Bots should always answer a human. Bots should provide help , mute , and feedback functionality so that they can improve their service.
+Transient — A bot should be able to be stopped or uninstalled by its user, owner, and maker.
+Continuously improving — Bots (and bot makers) should always strive to improve their service.
+This post was inspired by my childhood hero Asimov and shared as an open thought and call for discussion. Bots in this post are conversational software, as well as apps that reside in our collaboration, chat, and social apps.
+[This story originally appeared on the author’s Medium blog.
+] Amir Shevat is head of developer relations at Slack.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

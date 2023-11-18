@@ -1,0 +1,211 @@
+Open Navigation Menu To revist this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revist this article, visit My Profile, then View saved stories.
+Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons James Daly Opinion 101 Ways to Save Apple Save this story Save Save this story Save An assessment of what can be done to fix a once-great company.
+Dear Apple, In the movie Independence Day , a PowerBook saves the earth from destruction. Now it's time to return the favor. Unfortunately, even devoted Mac addicts must admit that you look a little beleaguered these days: a confusing product line, little inspiration from the top, software developers fleeing.
+But who wants to live in a world without you ? Not us. So we surveyed a cross section of hardcore Mac fans and came up with 101 ways to get you back on the path to salvation. We chose not to resort to time travel or regurgitate the same old shoulda / coulda / wouldas(you shoulda licensed your OS in 1987, for instance, or coulda upped your price / performance in 1993).
+We don't believe Apple is rotten to the core. Chrysler nearly went under in the late 1970 s and came back to lead its industry. Here's a fresh assessment of what can be done to fix your once-great company using the material at hand. Don't wait for a miracle. You have the power to save the world-and yourself.
+Edited by James Daly 1. Admit it. You're out of the hardware game.
+Outsource your hardware production, or scrap it entirely, to compete more directly with Microsoft without the liability of manufacturing boxes.
+2. License the Apple name / technology to appliance manufacturers and build GUIs for every possible device-from washing machines to telephones to WebTV. Have them all use the same communications protocol. Result: you monopolize the market for smart devices / homes.
+3. Start pampering independent software vendors.
+Your future depends on strong, user-friendly software. ISVs are losing confidence and crossing over to the Dark Side to take advantage of Wintel's market share. Remember what happened to OS/2 - not enough applications, updates too late, scarce industry support. And all the marketing dollars IBM threw at it couldn't help.
+4. Gil Amelio should steal a page from Lee Iacocca's book - work for one year without a salary, just to inspire the troops.
+5. Straighten out the naming convention.
+Link model numbers to processor speed. When buying a 3400 laptop computer, what, exactly, are you getting ? Unless you study the brochures, you don't know how it compares with its competition. On the other hand, Wintel talks explicitly about processor speed. It's a Pentium 200-MHz box.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight 6. Apologize.
+You've let down many devoted users and did not deliver on the promise of the Macintosh platform.
+7. Don't disappear from the retail chains.
+Rent space in a computer store, flood it with Apple products(especially software), staff it with Apple salespeople, and display everything like you're a living, breathing company and not a remote, dusty concept.
+8. Buy a song.
+Last year, it would have been "Respect" by Aretha Franklin. This year, maybe it's "Ain't too Proud to Beg." 9. Fire the people who forecast product demand.
+In 1996, you had a million dollars in back orders for the PowerBook 1400, while the warehouses were full of unsold Performas.
+10. Get a great image campaign.
+Let's get some branding(or rebranding) going on. Reproduce the "1984" spot with a 1997 accent.
+11. Instead of trying to protect your multicolored ass all the time, try looking forward.
+You've gotten stale by adopting the worst aspects of your competitor's business practices.
+12. Build a fire under your ad agency.
+People don't need warm, fuzzy infomercials about the Mac family. And who cares what's on Todd Rundgren' s PowerBook ? People want to know about power(the CPU kind, not George Clinton's), performance, and price.
+13. Exploit every Wintel user's secret fear that some day they're going to be thrown into a black screen with a blinking C-prompt. Advertise the fact that Mac users never have to rewrite autoexec. bat or sys. ini files.
+14. Do something creative with the design of the box and separate yourselves from the pack.
+The original Macs stood out because of their innovative look. Repeat that. Get the folks at Porsche to design a box. Or Giorgio Giugiaro. Or Philippe Starck. We'd all feel better about shelling out the bucks for a Power Mac 9600 if we could get a tower with leopard spots.
+15. Dump(or outsource) the Newton, eMate, digital cameras, and scanners.
+16. Take better care of your customers.
+You need every one. Make customer service a point of pride. Many Mac users feel alienated and have jumped ship.
+17. Build some decent applications that the business community will care about.
+18. Stop being buttoned-down corporate and appeal to the fanatic feeling that still exists for the Mac. Power Computing's "I'll give up my Mac when they pry it from my stiff, dying fingers " campaign hits the right note. In the tech world, it's still a crusade. Support the Mac community, and the Mac community will support you.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight 19. Get rid of the cables.
+Go wireless.
+20. Tap the move toward push media by creating a network computer with state of -the-art technologies, e. g., videogame support for Nintendo 64, top notch graphics such as QuickDraw 3 D, and the best possible bandwidth.
+21. Sell yourself to IBM or Motorola , the PowerPC makers. You can become the computer division that Motorola wants or the alternative within IBM. This would give the company volume for its PowerPC devices and leverage for other PowerPC offerings.
+22. Create a new kids' computer , an upgradable Wintel-compatible machine, in bright rugged colors that can take stickers and duct tape, and that a young user can call his / her own. This machine has two killer apps: autograding of homework for the teachers; passing notes via wireless for the kids. Price: US$350 before upgrades.
+23. Create a new logo.
+ The corporate graphic of the multicolored apple was tired in the 1980 s, now it's positively obsolete. Plaster the new logo on hats and T shirts to be worn conspicuously by Andre Agassi, Nicolas Cage, and Ashley Judd.
+24. Pay cartoonist Scott Adams $10 million to have Dilbert fall in love with a Performa repairwoman.
+25. Portables, portables, portables.
+ Pick the best-of -breed Wintel in each of the portable categories and then better it. Wintel has a fantastic range.
+26. If you sell it, make it! Stop releasing new products if you can't fulfill the orders. Angering the few loyal customers you still have isno way to do business.
+27. Relocate the company to Bangalore and make it cheap, cheap, cheap.(See Wired 4.02 , page 110.) 28. Don't lose your sense of humor.
+Build a very large life preserver and display it in front of your Cupertino, California, headquarters.
+29. Work closely with Hewlett-Packard , Casio, or someone who understands power management. When was the last time anyone got more than 60 minutes out of a PowerBook battery ? 30. Reach forward by reaching back.
+ Secure the hearts and wallets of college students through a highly targeted AppleLoan program.
+31. Build a PDA for less than $250 that actually does something : a) cellular email b) 56 - channel TV c) Internet phone.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight 32. Advice to Gil Amelio: shorter speeches, tighter pants.
+33. Change the visual presentation of marketing / advertising to signal that real change is under way. Focus attention(operationally and in marketing terms) on Apple's concrete growth. Boldly setting the milestones along the path to rebirth and hitting them is the only way to evolve the marketing message that so far has focused on undelivered promises.
+34. Port the OS to the Intel platform , with its huge amount of investment in hardware, software, training, and experience. Don't ignore it; co-opt it. Operating systems are dependent on installed base; that is your biggest hurdle now. It is not the head-to-head, feature-set comparison between Windows and Mac OS.
+35. Get MkLinux and BeOS to run on PowerBooks.
+36. Clone the PowerBook.
+ When the shabbily made 5300 s started to fall apart, catch on fire, and explode, a lot of Apple customers were forced to turn to Wintel for laptops. There was no place else to go. If clones had been available, the users might have stayed in the family.
+37. Take advantage of NeXT's easy and powerful OpenStep programming tools to entice a new generation of Mac software developers.
+38. Make it easier for ISVs to make applications for both Apple and Wintel environments-if not at the desktop, then certainly at the server. Without these innovations, the only hope is to keep what is left of the installed base.
+39. Build a laptop that weighs 2 pounds.
+40. Cash in on millennium fever with an ad campaign that portrays Apple as a return to basics, a rediscovery of simplicity and purity, a rejection of complexity.
+41. Arrange venture funding for new, cutting-edge multimedia publishers-this is where you shine and where the public will become interested again.
+42. Organize a telethon.
+ Hire Jerry Lewis to get dewy-eyed over the new line of Mac products.
+43. Remain committed to the openDVD Consortium , addressing the issues of implementing digital versatile-disc technology. You've always been a bridge between the entertainment and high tech industries. Maintain it.
+44. Continue your research in voice recognition.
+ It's the only way you're going to compete in videoconferencing and remote access.
+45. Don't raise the Mac OS licensing fee.
+ Cloners have helped stabilize and even increase market share for the Mac OS; this keeps software developers happy.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight 46. Stop wasting time on frivolities like Spartacus , the 20th-anniversary Mac. Get over yourself... at least for a while.
+47. Work on ways to make your lower-end models truly upgradable.
+ Giving customers a definite, manageable upgrade path will attract and hold customers. People need to be able to upgrade and expand, so they don't feel dead-ended every time Apple changes its mind. Upgrading a IIvx to a Power Mac is theoretically possible, but there are so many hardware and software problems that the experience is enough to turn a nun into a crack-smoking serial killer.
+48. Get Ben & Jerry's to name a flavor after you.
+ Suggestion: Apple Silicon Chip Supreme.
+49. Bring back Andy Hertzfeld and the other original Mac folks to explain to the executive team that simplicity and design elegance are what made the Mac attractive to developers in the first place and what still makes the Mac unique: automounting diskettes, self-configuration of hardware, direct manipulation of files, free-form filenames with spaces and no three-dot suffixes, uniform user interface across applications.
+50. Give Steve Jobs as much authority as he wants in new product development.
+ Let Gil Amelio stick to operations. There's no excitement at the top, and Apple's customers want to feel like they've joined a computer revolution*.* Even if Jobs fails, he'll do it with guns a-blazin', and we'll be spared this slow water torture that Amelio has subjected us to.
+51. Speak to the consumer.
+ Not to the press, not to the competition, but to the people who grew up with the Mac.
+52. Return to the heady days of yore by insisting that Steve Jobs regrow his beard.
+53. Recharge your strategy for Europe , where the PC market penetration is lower than in the US and the population is educated and interested in high tech. There's an opening there that doesn't exist here.
+54. Sell off the laser printer business.
+ Create an auction between HP and Lexmark International. Get Japanese companies into the act. Sell to one that's already making money in the printer business or to one that makes related products. That way, the buyer is getting increased market share.
+55. Give the company that buys the printer business a contract to manufacture printers with the Apple trademark and then put it in your existing distribution system. Selling off the manufacturing assets for printers provides a one-shot infusion of cash that reduces the drain on the balance sheet. You also make a distribution margin on the printers and associated supplies.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight 56. Stick to your schedule.
+ After canceling the long awaited Copland, you can't afford to miss even one of your OS deadlines.
+57. Bring back John Sculley.
+ He would provide a convenient whipping boy.
+58. Create dollar incentives to attract software vendors to write for the upcoming Rhapsody platform. You have cash in the bank-use it.
+59. Invest heavily in Newton technology , which is one area where Microsoft can't touch you. Build voice recognition and better gesture recognition into Newton, making a new environment for desktop, laptop, and palmtop Macs. Newton can also be the basis of a new generation of embedded systems, from cash registers to kiosks.
+60. Abandon the Mach operating system you just acquired and run Windows NT kernel instead. This would let Mac run existing PC programs.(Microsoft actually has Windows NT working on Mac hardware. It also has emulation of Mac programs with NT running on both Power PC and x86.) 61. Ink a promotion / development deal with Shaquille O'Neal ; introduce designer Shaqintosh model.
+62. Build a computer that doesn't crash.
+63. Make Java work on your OS.
+ Then develop an enterprise computing strategy in partnership with Sun. Java is not a magic bullet, but supporting it will keep Mac owners happy and prevent them from looking elsewhere.
+64. Team up with Sony , which wants to get into the computer business in a big way-think Sony MacMan.
+65. Roll out the Mac Plus again as a hip retro machine.
+ Make it really, really uncool to use whizzy, leading-edge PCs.
+66. Get the top systems integrators to push NeXT's WebObjects as the ultimate intranet / Internet development environment. You cornered desktop publishing. What do you think the Web is becoming ? ! Besides, there's plenty of room in this area for new tools.
+67. Tighten the focus on your publishing niche - both print and electronic-and seek to dominate it in every way.
+68. Retain your Apple Fellows at all costs.
+ With Don Norman and Alan Kay recently leaving, there is a serious drain in the Big Think department.
+69. Change your name to Snapple and see if you can dupe Quaker Oats into buying you.
+70. Simplify your PC product line.
+ Reduce the number of Apple motherboards and the number of distinct Apple system models.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight 71. Become a graphic design company and dominate your niche the way Sun and Silicon Graphics do .
+72. Try the industry-standard serial port plug.
+ RS - 422 should be a last resort.
+73. Rename the company Papaya and begin an aggressive South Pacific marketing campaign.
+74. Solidify the management team.
+ Pushing people out or allowing them to leave does not inspire the remaining troops.
+75. Speed sells. Push your advantage on the speed of the processor. This summer, you'll release Macs using 450- and 533-MHz processors. Your lead over Intel will be remarkable. Brag about this. Once the operating system shifts toward the end of this year, the PowerPC will really kick some ass(the OS is a major drag on the processor). Intel is forever marketing the speed of its chips. Make it clear that yours are much faster.
+76. Make damn sure that Rhapsody runs on an Intel chip.
+ Write a Windows NT emulator for Rhapsody's Intel version.
+77. Lose the cybercafés idea.
+ Geez, what were you thinking ? 78. Turn Claris loose so it can do some real damage.
+79. Exploit your advantage in the K - 12 education market.
+ That's the future. Most students use the computer as a true multimedia tool, and their technological expertise is very sophisticated, especially when compared to the typical business user.
+80. Maintain existing loyalty at all costs.
+ Use incentives like free upgrades and stock certificates. Gimmicky ? Sure. But it helps create a bond and a religious following.
+81. Merge with Sega and become a game company.
+82. Give the first Apple made exclusively for Windows a cheeky name (like The Big Apple) and an irresistible industrial design like the 20 th-anniversary Macintosh. Introduce it with a mammoth ad campaign that shows the makers of other Windows PCs running for cover, as if they've been fearing Apple's monstrous entry into their market for decades.
+83. Develop proprietary programs that run only on Macs. Crow about them.
+84. Effectively communicate your game plan to employees, customers, and developers. People need a strong presentation of what's going to happen.
+85. Quit making each Mac in a platform-specific case , with platform-specific parts. Make one case for desktop systems and another for laptops. The case, chassis, and all that stuff needs to be as upgradable as the system software used to be.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight 86. Organize a very large bake sale - look what cookie sales have done for the Girl Scouts.
+87. Price the CPUs to sell.
+ Offer novice users the ability to enter the Mac market at a competitive price point and move up the power curve as their level of sophistication increases. The initial price keeps new buyers away.
+88. Acknowledge that there are people with repetitive stress injuries.
+ Why do loyal customers have to go to a weird third-party vendor to get a split keyboard ? 89. Create a chemical that cleans the Mac's pale gray plastic - they look cruddy after a year, and normal solutions either don't work or seem like they'll corrode the machine.
+90. Design a desktop model-call it La Dolce Vita-with a built-in cappuccino maker (featuring anything but Starbuck's-Washington's other great homogenizer).
+91. Start a new special projects group led by either Jobs or another passionate and creative designer to create the next "insanely great" technology. This time, focus on rolling the technology into the existing Mac line; make sure developers are inspired and in the loop.
+92. With each new Mac, include a CD-ROM that explains the Apple family tree and future plans.
+93. Develop a way to program that requires no scripting or coding.
+94. Maintain differentiation between Wintel and Apple. Cross-platform means Apple OS on Intel boxes, not just add-ins to Windows. Making the Mac more like Windows, or making all technologies "cross-platform," is a going-out-of business strategy. Extend and improve the Mac's capabilities to handle Wintel data and emulate Wintel for those applications that require it.
+95. Fight back. Stand up for yourself with ads that respond to the negative press. Dispute, in particular, reports that Apple's PC market share has fallen. While this is true, overall Mac OS sales have risen.
+96. Partner with Oracle , using its technology for a backend database with your friendly face.
+__97. Have Pixar make 3001, A Space Odyssey __, with HAL replaced by a Mac.
+98. Testimonials.
+ Create commercials featuring real-life people in situations where buying a Mac(or switching to a Mac) saved the day.
+99. Reincorporate as a nonprofit research foundation.
+ Instead of buying computers, customers would buy memberships, just as they do inthe National Geographic Society. They'd receive an Apple computer as part of their membership perks. Dues would be tax-deductible. Your(eventual) profits would also be tax-exempt, and the foundation could continue its noble battle to keep Microsoft on its toes.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight 100. Build a second graphics / video product based on the connection with Pixar(and therefore with Disney). Steve Jobs and Michael Eisner should define it.
+101. Don't worry. You'll survive.
+ It's Netscape we should really worry about.
+The company gets sued by Xerox, which challenges the validity of Apple's graph-ical user interface copyrights. Apple introduces its first portable Mac. At more than 15 pounds, it's instantly dubbed a "luggable." US District Court dismisses most of Xerox's lawsuit against Apple.
+Michael Spindler becomes presi-dent of Apple. Spindler, a straight-ahead businessman nicknamed "The Diesel," provides an uninspiring figurehead. Microsoft rolls out Windows 3.0. Apple lays off 400 employees.
+PowerBook introduced; Apple, IBM, and Motorola team up to make PowerPC RISC chips. IBM and Apple combine to create Taligent, an ill-conceived and poorly executed attempt to write a new object-oriented operating system.
+__Wired: __ Launches consumer-oriented Performa line.
+__Tired: __ Initiates trend toward Macintoshbrand confusion.
+Apple ships the 10 millionth Mac.
+Apple releases the Newton personal digital assistant: great idea, poor execution. Sculley is relieved of hisposition as CEO, leaving Spindler in charge.
+The firm introduces the Power Mac family, the first Macs to be based on the PowerPC chip. Mac OS is licensed to Power Computing, now the most successful Mac clone maker.
+The company has $1 billion in back orders-and not enough parts to fill them. Microsoft releases Windows 95, which mimics the Mac GUI better than ever.
+Mac market share bounces back, thanks to success of clones.
+Spindler is replaced by Gil Amelio, another bland corporate suit. Apple posts staggering $740 million Q2 loss.
+Jobs is brought back on board as a consultant.
+__Wired: __ While working as programmers at Atari, Steve Wozniak and Steve Jobs create a blueprint for an easy-to-use personal computer. They offer the idea to their boss, founder Nolan Bushnell.
+__Tired: __ Bushnell turns them down.
+Wozniak and Jobs finish work on the Apple I-a preassembled computer circuit board that has no keyboard, case, sound, or graphics-and launch Apple Computer Company.
+No one notices.
+The Apple II is introduced at the first West Coast Computer Faire. It is the first personal computer to generate color graphics and includes a built-in keyboard and power supply.
+The media pays more attention to other, earlier PC makers, such as Kaypro and Osborne.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight Apple Disk II-an inexpensive, user-friendly, and fast floppy drive-débuts, making possible the development of serious software.
+Hardly anyone makes applications for it.
+Company's first printer, the Silentype, is introduced. Jobs visits Xerox PARC, realizes future is in graphical computing, and grabs it for Apple. Macintosh project begins.
+Xerox doesn't have a clue.
+Apple goes public.
+The company launches Apple III, its first turkey.
+Jobs becomes Apple chair.
+IBM releases its first PC; the safe brand name will ultimately allow an inferior technology to dominate the market.
+Apple becomes the first PC company to reach US$1 billion in annual sales.
+The company doesn't clone its machines. Meanwhile, more than 100 computer manufacturers churn out IBM PC knockoffs.
+__Wired: __ John Sculley is wooed away from Pepsi to become president / CEO.
+__Tired: __ Lisa computer is introduced. The $9,995 machine proves to be an overpriced flop.
+Apple unveils the Macintosh and airs the now-legendary "1984" commercial, directed by Ridley Scott, during the third quarter of the Super Bowl. The Orwellian scene depicts the IBM world being shattered by a new machine.
+The commercial is never shown again. Apple fails to successfully push Macintosh to the business market.
+The company rolls out the LaserWriter, the original affordable PostScript laser printer, and Aldus releases PageMaker, one of the first desktop publishing programs.
+Wozniak resigns. Jobs resigns after failing to oust Sculley in an attempted boardroom coup. Apple lays off 1,200 employees, one-fifth of its workforce, and posts its first quarterly loss. Microsoft introduces Windows 1.0.
+Apple débuts the Mac SE and Mac II, which make the Macintosh line a viable, powerful family of computers. The company announces plans to create an independent software company, later known as Claris.
+The company ignores suggestions to license its OS.
+MacWorld Expo begins. Apple posts its first billion-dollar quarter.
+The company gets sued by Xerox, which challenges the validity of Apple's graphical user interface copyrights. Apple introduces its first portable Mac. At more than 15 pounds, it's instantly dubbed a "luggable." US District Court dismisses most of Xerox's lawsuit against Apple.
+Michael Spindler becomes president of Apple. Spindler, a straight-ahead businessman nicknamed "The Diesel," provides an uninspiring figurehead. Microsoft rolls out Windows 3.0. Apple lays off 400 employees.
+PowerBook introduced; Apple, IBM, and Motorola team up to make PowerPC RISC chips. IBM and Apple combine to create Taligent, an ill-conceived and poorly executed attempt to write a new object-oriented operating system.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight __Wired: __ Launches consumer-oriented Performa line.
+__Tired: __ Initiates trend toward Macintoshbrand confusion.
+Apple ships the 10 millionth Mac.
+Apple releases the Newton personal digital assistant: great idea, poor execution. Sculley is relieved of hisposition as CEO, leaving Spindler in charge.
+The firm introduces the Power Mac family, the first Macs to be based on the PowerPC chip. Mac OS is licensed to Power Computing, now the most successful Mac clone maker.
+The company has $1 billion in back orders and not enough parts to fill them. Microsoft releases Windows 95, which mimics the Mac GUI better than ever.
+Mac market share bounces back, thanks to success of clones.
+Spindler is replaced by Gil Amelio, another bland corporate suit. Apple posts staggering $740 million Q2 loss.
+Jobs is brought back on board as a consultant.
+Apple considers increasing licensing fees. Company lays off 4,100 workers.
+Technologists get so caught up in the bits and bytes that they forget why people use computers at all.
+Apple has been a victim of the success of the Macintosh. It made an overcommitment to across-the-board backward compatibility and is suffering from a severe lack of vision. Success has blinded management to more radical alternatives. It never rethinks the whole proposition. Throw out the old and clumsy desktop, along with its operating-system-and-applications paradigm, and go for true task centered design. Hanging on to the decades-old "look and feel" will keep the old customer base while sacrificing the future. The new software should be platform-independent, making Apple primarily a software supplier and giving the world a superior alternative to Microsoft's Windows.
+\ - Jef Raskin, creator of the Mac Drop that wimpy ad campaign with its effete typeface.
+Come out slugging with hard-nosed product comparisons. Possible ad lines: "Pentium-for the rest of them." "The fastest laptop in the world!" "I'm in a great big hurry - give me the Mac." \ - Roger Ebert, film critic Apple should: 1. Merge with Nintendo - this moves the brand into the consumer space and under one management team . 2. Buy Gateway\ - out with the cow spots and in with the Apple logo . 3. License Windows 95 and NT - keep the guts of the OS and work exclusively on making the Windows GUI just like the Mac.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight \ - Ann Winblad, principal at Hummer Winblad Venture Partners Adopt, acquire, and create new technologies that can give Apple yet another technological edge. Such technologies include integrated full-text search in the OS(Apple does have V-Twin), remote diagnostics by phone, Net-oriented automatic software upgrades(like Castanet), and a better / faster / more robust file system.
+\ - Bruce Horn, member of original Macintosh development team Listen to the great cry that has gone up from the software development and end-user community.
+Online VRML, MIDI development, and 3 - D graphics acceleration all rocketed past Apple; many of the most innovative advancements on the Web need to be experienced on a Windows machine to be fully appreciated. As a longtime user of the Mac and an early and vocal fan of its simplicity and power, I find it all a bit sad.
+\ - Jim Ludtke, graphic artist __Key question: Why save Apple ? __ It isn't entirely obvious why a company whose management has done as much destruction to shareholders, employees, vendors, and customers ought to be saved. More to the point, what does save really mean ? Besides why, we need to consider who and what, in addition to the implied how. Having been flamed - mindlessly and sometimes venomously - by Guy Kawasaki's Mac-addict brownshirts, I hesitate to make any formal recommendation. However, emboldened perhaps by a glass of adequate merlot, I will offer this utterly hypothetical speculation as grist for lateral thinking : maybe Apple's shareholders should sell what is left of Apple to Steve Jobs's Pixar for, say, $400 million.
+\ - Lewis J. Perelman, president of Kanbrain Institute Apple has always been too proud of its marketing - since 1984 the company has been a vertically integrated advertising agency. So get rid of all the well-dressed charismatic engineers and keep the ones who'll fix the simple things wrong in the Mac OS, like getting quickly and reliably on the Internet. My wife and I think Apple will pull through. We are raising our children on Macintoshes. We just bought them each a new Performa. Of course, we are the lucky ones. We can afford to buy Wintel clunkers-holding our noses-if Apple goes under.
+Culture The Future of Game Accessibility Is Surprisingly Simple Geoffrey Bunting Science SpaceX’s Starship Lost Shortly After Launch of Second Test Flight Ramin Skibba Business Elon Musk May Have Just Signed X’s Death Warrant Vittoria Elliott Business OpenAI Ousts CEO Sam Altman Will Knight \ - Bob Metcalfe, inventor of Ethernet, founder of 3 Com I'm a Mac lover, but last year I switched over completely to Windoze because Apple couldn't build a reasonable laptop. I really want it to succeed, but I think the company's finished. Software vendors aren't turning out enough code to keep the Mac as a really good platform, even for family and school stuff. This whole NeXT decision seems to be a waste of time. It should have been sold to HP for $35 per share a year and a half ago. Maybe if Apple caves in , Windows will get so much market share that the Department of Justice will intervene and break up Microsoft. I think Window's competition is really the NC-and WebTV-type box. Which is truly sad.
+\ - Milo Medin, president of @Home Repurpose entirely and sell actual apples - the fruit, that is. It could hybridize in special orchards south of Santa Clara, California, and release Apple 1.0 in time for the fall pie season.
+\ - Jon Carroll, newspaper columnist At a certain critical point -perhaps five years ago- Apple stopped investing time, effort, brainpower, and money in continuing to make a better product. Instead, it dissipated its energy on everything but the Macintosh - on Newton, Sweet Pea, Kaleida, Taligent. Meanwhile, the rest of the world caught up. The last great engineering task accomplished on the Mac was the switch to PowerPC. However, no new features went in . The company that had been the leader in operating systems found that it could no longer write an operating system - Copland was a disaster that never shipped. It had to suffer the ultimate ignominy of buying one outside. The NeXT purchase is too little too late. The Apple of the past was an innovative company that used software and hardware technology together to redefine the way people experienced computing. That Apple is already dead. Very adroit moves might be able to save the brand name. A company with the letters A - P - P - L - E in its name might survive, but it won't be the Apple of yore.
+\ - Nathan Myhrvold, chief technology officer at Microsoft Make a lightweight, portable, palmtop Mac.
+Ideally, it should be a wearable, with a private eye screen and some sort of half-keyboard. If Apple can't manufacture this, it could make a deal with another hardware maker. Wearables are the future.
+\ - Marvin Minsky, AI pioneer Topics magazine-5.06 Simon Hill Brenda Stolyar Jaina Grey Brendan Nystedt Scott Gilbertson Eric Ravenscraft Scott Gilbertson Matt Jancer Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

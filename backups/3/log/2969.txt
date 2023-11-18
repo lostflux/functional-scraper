@@ -1,0 +1,250 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Mathematician Explains Infinity in 5 Levels of Difficulty About Released on 01/30/2023 I'm Emily Riehl and I'm a mathematician.
+I've been challenged to explain the concept of infinity at five levels of increasing complexity.
+So while the concept of infinity can seem mysterious, and it's very difficult to find infinity in the real world, mathematicians have developed ways to reason very precisely about the strange properties of infinity.
+So what do you know about infinity? I think it means that it's really just something that's infinite, that never ends.
+That's a great way to think about it.
+Infinity is something that never ends, where finite, the opposite of infinity, refers to a process or a quantity that we could actually count all the way through, at least in theory if given enough time.
+So if you had to guess, how many Skittles are in this jar? I would say about like 217.
+217.
+And if we wanted to figure out the exact number, how would we find out? We could put them all out and divide them into pieces of five and then we could use that.
+Yeah, absolutely.
+In fact, I did that before you got here, and it's 649 Skittles.
+Here's a much harder question.
+How many pieces of glitter do you think are in that jar? Maybe like 4,012.
+I'll admit. I have absolutely no idea.
+Do you think it's a finite number or an infinite number? Finite because I can see them all in here.
+Yeah, you can see them all.
+And in fact, if we were really, really, really patient, we could do the same thing as with the Skittles.
+But here's another question.
+You said that there's a finite amount of glitter in that jar, and I agree.
+So how many jars would we need to hold an infinite amount of glitter? An infinite amount of jars.
+Very good. Why do you say that? Because if there's unlimited pieces of glitter, we need unlimited pieces of jar.
+So let's try and imagine infinitely many jars.
+Would they fit in this room? No.
+Yeah, absolutely not.
+Because this room holds only a finite amount of space.
+And in fact, infinitely many jars would not even fit in something called the observable universe, which is the portion of the universe that astronomers can see.
+Really how does that make you feel? That makes me feel like my brain is exploding.
+Yeah, that makes me feel like my brain is exploding.
+Can infinity ever get bigger? That's a wonderful question, a very rich question.
+What do you think? I think maybe because you said it was unlimited.
+You have very good intuition.
+So there are ways that mathematicians can build infinite collections of things.
+And if you repeat those processes, it's in fact possible to build even bigger and bigger sizes of infinity.
+So what have you learned today about infinity? I've learned that even if it's unlimited, there are many different ways of making infinity and you can never actually see it all.
+What does infinity mean to you? Really anything that has no end to it.
+Yeah, that's absolutely right.
+So infinity gets used a lot of different ways in mathematics.
+There's a way that mathematicians think of infinity as a number, just like the number 13, just like the number 10 million.
+So the reason that mathematicians consider infinity to be a number is that it is a size of a set.
+So the first example of an infinite set in mathematics is the set of all counting numbers.
+So one, two, three, four, five, six, seven, et cetera.
+That list goes on forever. That is an infinite set.
+And to be a little bit more precise, it's a countably infinite set.
+But as a number, infinity is pretty strange.
+What do you mean by that? Adding infinities. Multiplying infinities.
+And there's a sense in which it's very similar to the arithmetic that you learned about already.
+But it's also totally different.
+It has some very weird properties.
+Welcome to Hilbert's Hotel.
+Unlike an ordinary hotel, has accountably infinitely many rooms.
+Suppose a new guest shows up, you might think that the new guest could take the room that's all the way down at the end of the hall, all the way at infinity, except there isn't a room like that.
+The rooms each have a number, and even though there's infinitely many rooms, each room is only a finite distance away.
+So here's how we're gonna make room for the new guest.
+I'm gonna ask the guest in room one to move into room two, and then we're gonna ask the guest in room two to move into room three, and we'll continue this all the way along.
+It looks to me like there's space for the new guest.
+Where is it? It'll be in room number one.
+Room number one. Exactly.
+I'm gonna use this symbol for infinity, but what we've just shown is that one, the one new guest plus infinity is equal to the same infinity.
+What happens if we had a second guest? Would it be two plus infinity equals infinity? Absolutely.
+So now I'm gonna make this story a little more complex.
+That there's another Hilbert's Hotel down the street and they're having plumbing issues and we need to find room for them.
+They can't live together? They can't live together.
+That would be a great solution.
+I don't know.
+I think these people don't really get along.
+So I need to somehow create infinitely many new rooms, but I can only ask each person in the hotel to move a finite distance away.
+So let's take the guest who is originally in room one and move them into room two.
+So that's creating one new space for us.
+And I'm gonna take the guest who was originally in room two and move them into room four.
+Are you starting to see a pattern here? Yes. You're going up one each time? Yeah, I'm increasing by one more each time.
+So I'm doubling the room number in fact.
+So this is some of the strange arithmetic of infinity.
+So we have two Hilbert Hotels, each of which have infinitely many guests, then this is equal to? Infinity.
+Infinity, great.
+Hilbert's Hotel is a story that mathematicians have been telling themselves for almost 100 years because it's a really visceral way to think about some of the counterintuitive properties of the arithmetic of infinity.
+How does infinity come across in mathematics for you? So when I'm teaching calculus and talking about concepts like limits and derivatives, those are only defined precisely with infinity.
+Teaching algebra, which is meant in a different sense about number systems, we deal with infinite families of numbers in their operations.
+Infinite sets are somehow very exotic.
+They're not found so commonly in their real world, but they're all over mathematics.
+[bright music] What do you know about infinity? A property of something being endless.
+Great.
+So today we're gonna focus on infinity as a cardinality, and what cardinality means is it's a size of a set.
+What are you studying? I'm studying computer science Studying computer science.
+Are you taking any math courses right now? Yeah, right now I'm taking calculus two.
+Calculus involves the study of functions.
+Functions are one of the most fundamental concepts in mathematics, but they aren't always so clearly defined.
+What would you say a function is? I would say a function is a procedure that takes an input and does some operation and returns an output.
+That's the computer science brain thinking right there.
+So we wanna think of a function as procedure or mapping between sets.
+So a function defines a one-to-one correspondence if it defines a perfect matching between the elements of its domain set and the elements of its output set.
+We call such functions bijections or isomorphisms.
+So the reason I'm so interested in this idea of a bijective function or a one-to-one correspondence that guarantees that every element of one set gets matched with an element of the other set, no matter how many elements there are, these bijections or these one-to-one correspondences as they help mathematicians reason about infinity.
+How can you compare something that is endless? Today we're gonna think about infinity as a cardinality, which is a technical term for a number that could be a size of a set.
+And we're gonna use this idea of one-to-one correspondence to try and investigate the question of whether all infinite sets have the same size.
+So what I've drawn here are some pictures of some of the infinite sets that appear in mathematics.
+So the natural numbers are the prototypical example of an infinite set.
+So the natural numbers are clearly a subset of the integers.
+Both of these are infinite sets.
+Are they the same size infinity or different size infinities? Yes, the integers would, there'd be more integers than natural numbers.
+I'm gonna now try and convince you that they are in fact the same size infinity.
+And this is using this idea of a one-to-one correspondence which was applied in this context by Georg Cantor.
+What he says is if we can match up the elements of the integers with the elements of the natural numbers so that there's nothing left over, so that there's a bijective function between them, then that's a proof that there's exactly as many natural numbers as there are integers.
+Start by matching zero with zero and one with one.
+But then we wanna include the negatives in the list.
+So which natural number would we match with negative one? Maybe two.
+Maybe two. Why not? Because now we're starting to make progress on matching all the negatives.
+We can match the natural number three with the integer two, the natural number four with the integer minus two.
+And do you see a pattern? All of the positive integers would be odd numbers and all of the negative integers would be even numbers? Great. So now I have a much harder question.
+So we have the same challenge, again, evidently there are way, way, way more rational numbers than there are integers.
+Does that mean this is a larger infinite set than the integers? What do you think? By intuition I would say yes, but that was the same case with the integers.
+I would imagine there might be some bijective function for mapping natural numbers to rational numbers.
+So I'm going to use this picture to count the rational numbers by actually counting the elements of this larger set because it'll be clearer geometrically.
+What I've drawn in this picture is the integer lattice.
+So Z cross Z refers to the set of all of these dots.
+So I'll start by counting the number at the origin, and you can see I'm just labeling the dots around the origin, moving in a counterclockwise fashion and getting progressively further away.
+And this process could continue, but maybe by now you see the pattern, though it'd be a little bit difficult to describe as a function.
+Oh is it for each rational number, there's a pair of integers that represent that rational number? Yeah, that's exactly right.
+And now for each pair of integers, I'm gonna represent it by a corresponding natural number.
+That's what's going on with this counting.
+And when I compose those operations, what I've done is I've encoded rational numbers as natural numbers in a way that reveals that they can be no larger, there are no more rational numbers than natural numbers.
+So this slope is represented by three, two, and three, two is in here as 25.
+Exactly. That's exactly right.
+So we were hoping to compare the size of infinity of the rational numbers with the size of infinity of the natural numbers.
+What we've done is introduced an intermediate set, these pair of integer points, and this proves that this size of infinity is smaller than this size of infinity.
+Since we also have an injective function the other way, this size of infinity is smaller than this size of infinity so therefore they must be the same size.
+That's wild.
+Now there's one final collection of numbers that we haven't yet discussed, which are the real numbers, all of the points on the number line.
+Do you think that's the same size infinity? I guess again, intuition seems like it must be much larger, but I don't know, I haven't been on a roll.
+Georg Cantor proved that it is impossible to count all real numbers like we've just counted the rational numbers or just counted the integers.
+This is called the cardinality of the continuum, it is uncountable.
+What I'm going to do now is form a new real number that I guarantee is not on this list.
+Okay, so here's how we do this.
+What I'm gonna do is I'm gonna look at the diagonal elements.
+So I'll highlight them.
+This continues forever, and now I'm going to form a new real number by changing all of these.
+If you just like added one to them, then that would be something that doesn't exist in any of the other ones.
+Yes. You see the idea right away.
+So I'm gonna form a new real number whose first digit is different from this one.
+And you've already convinced yourself that this number is not on this list anywhere.
+Why is that? Because at every point there's at least one change from a number in there.
+Great. That's exactly right.
+So what we've proven is that this number is missing, and therefore it is impossible to define a bijection between the natural numbers and the real numbers.
+Oh wow.
+So we've started to explore some of the counterintuitive properties of infinity.
+On the one hand there are infinite sets that feel very different like the natural numbers, the integers, the rational numbers that nevertheless have the same size or the same infinite cardinality.
+While there are other infinities that are larger.
+So there's more than one size of infinity, not all infinities are created equal.
+I was wondering what the kind of practical implications are, what you can do with this sort of knowledge.
+Really glad you asked me that.
+There's a practical implication for computer science.
+Alan Turing, he came up with a mathematical model of a computer, something called a Turing machine.
+So Turing was wondering is it possible to compute every real number, an arbitrary real number to within arbitrary precision in finite time? He defined a real number to be computable< if you could calculate its value, maybe not exactly, but as accurately as you'd like in a finite amount of time.
+And because there are uncountably infinitely many real numbers, but only a countably infinitely many Turing machines, what that means is that the vast majority of real numbers are uncomputable.
+So we'll never be able to access them with a computer program.
+[upbeat music] You're a PhD student, is that right? Yes, I'm a second year PhD student at the University of Maryland.
+Does infinity come up in your mathematics that you're studying? One place infinity comes up is in algebraic geometry.
+Normally we think okay, well if you have two lines like this, you'd keep drawing them, they intersect right here.
+But in projective space, two parallel lines will also intersect at the point at infinity.
+Infinity is like this perfect concept for what we can add to a space that allows lines to have this more uniform property.
+What's your research in? So one of my main research areas is something called category theory, it's been described as the mathematics of mathematics.
+It's a language that can be used to prove very general theorems.
+And an interesting aspect of being a researcher in category theory that doesn't come up as much in other areas is that we have to really pay attention to the axioms of set theory in our work.
+When you're proving theorems, have you ever used the axiom of choice? Yeah, it's basically this idea that you can put a choice function on any set.
+And a choice function does what exactly? Yeah, that's a good question.
+So the way I think about it is if you have an infinite or an arbitrary family of sets and you know for sure that none of these sets are empty, then a choice function would allow you to select an element from each set sort of all at once.
+When you've used the axiom of choice in proofs, do you know which incarnation of this you've used? Yeah, I've used it like that.
+I've also used it in Zorn's lemma and in the well ordering principle.
+So there are three well-known famous equivalent forms of the axiom of choice.
+The well ordering principle is the assumption, the axiom that any set can be well ordered, but there are lots of subsets of real numbers that do not have a minimal element.
+So that ordering is not a well ordering.
+So here's the key question.
+Do you believe the axiom of choice? I do believe the axiom of choice.
+You do believe the axiom of choice, though it leads us to some strange conclusions.
+So if the axiom choice is true, then it's necessarily the case that there exists a well ordering of the reals.
+And what that means is that we can perform induction over real numbers like we perform induction over the natural numbers.
+This is trans-finite induction.
+It would work for any ordinal.
+So there must be some uncountably infinite ordinal that represents the order type of the real numbers.
+And this allows us to prove some crazy things.
+Imagine three-dimensional Euclidean space.
+So the space that we live in, extending infinitely in all directions.
+So it is possible to completely cover three-dimensional Euclidean space by disjoint circles, so infinitesimal circles, disjoint circles of radius one.
+So what that means is you can put a circle somewhere in space and then put a second circle somewhere in space that can't intersect with the first one because these are solid circles and then another circle can somehow cover every single point in space with no gaps in between.
+It's crazy.
+It's not the only crazy thing.
+Do you have a favorite consequence of the axiom of choice? I mean the Banach-Tarski paradox is a big one.
+So basically it says that you can, using just rigid motions I think, you can take one ball-- One solid ball with a finite volume.
+Cut it up and then rearrange the pieces so that in the end you get two balls which are the exact same size, the exact same volume.
+So you've actually taken one thing and using just pretty normal operations to it, you can double it, which seems pretty implausible in real life.
+Right. That seems crazy to me.
+And yet it's an irrefutable consequence of this axiom that you tell me you believe is true.
+So how many infinities are there? Well, definitely uncountably many infinities.
+So there's certainly no stop to this procedure.
+But could you give a precise cardinality to that? Probably not because if I could, there would be a set of all sets, right? So Cantor's diagonal argument can be abstracted and then generalized to prove that for an arbitrary set A, its power set has a strictly larger cardinality.
+And since that's true for any set, we can just iterate this process.
+When set theory was being discovered or invented or created in the late 19th century, one of the natural question to ask is can there be a universe of all sets? This comes up in my research in category theory because even though there is no set of all sets, we would really like for there to be a category of sets.
+So what category theorists need to do to make their work rigorous is to add additional axioms to set theory.
+One of my favorites was introduced by an algebraic geometer Alexander Grothendieck.
+This is something that we sometimes call a Grothendieck universe, or also an inaccessible cardinal.
+It's an infinite number that is so big that it cannot be accessed by any of the other constructions within set theory.
+It's so big that we'll never get to it and this allows us to contemplate the collection of all sets whose cardinality is bounded by this size that will never reach.
+So you're just making a cutoff point.
+You're saying we're never gonna get sets bigger than this anyway, so we might as well make our category only include things smaller than that.
+That's right.
+So a rigorous way to work with a category of sets is to demand that it's a category of sets whose size is bounded by this cardinality, Alpha say.
+That is then an example of a category that fits into another even still larger Grothendieck universe Beta.
+So implicitly in a lot of my research, I have to add an additional assumption that there exists maybe countably many inaccessible cardinals.
+[upbeat music] Examples of infinite sets abound in mathematics.
+You know, we see them every day.
+So do those infinities exist? Think you'll get a different answer from every person, every mathematician you meet.
+It is a construct.
+So it exists in the same way that things like poetry exists when you talk about even cardinality and it's just like, well here's an infinite hotel.
+I had one student who was like, no, no, it does not exist.
+When I describe, well imagine you do this infinitely many times, they're done with me because they're like I can't, no one can do this infinitely many times.
+These interesting paradoxes that come from like the ape typing on a typewriter and eventually getting to Hamlet is an example of well if you give something forever and any random event is going to happen.
+It can be generative for sure.
+It's definitely a really interesting thing to try to talk to students about.
+I'll grant you that Hilbert's Hotel does not exist.
+For me, infinite objects absolutely exist.
+And I can't read the thoughts in your head, but I have a high degree of confidence that we have a lot of the same ideas about infinity.
+It's this idea that are things that you can think of, do they exist? You're getting into philosophy of math now.
+It's just exciting.
+I mean I think that's another common misconception about mathematics is that it's so far removed from the humanities, for instance.
+I mean it's hard to ignore some of these philosophical questions, particularly when we're talking about certain things like infinity.
+And I think one of the most difficult things to really be precise about and to explain to students is the continuum hypothesis.
+What do you say to students about the continuum hypothesis? The most fun thing to teach when you teach about infinity, when students realize that you are talking about different sizes of infinity, but then a natural thing is for them to think about what is the next size of infinity that I can think about? And sort of the continuum hypothesis is sort of one of these really hard things to grasp.
+So what's so fascinating about the continuum hypothesis, if you take a subset of the real line that's infinite, does it necessarily have either the cardinality of the naturals or the cardinality of continuum, or is there some sort of third possibility? What's very surprising is the continuum hypothesis has been completely resolved in the sense that we now know for absolute certain that we will never know whether it's true or false.
+So this is a little bit confusing.
+The standard foundational axioms of mathematics that we take for granted are completely insufficient to prove the continuum hypothesis one way or the other.
+Mathematicians among other things have been very clear about exactly what they're taking as an assumption and exactly what they're concluding from it.
+So mathematical practice is to be exact transparent about the hypotheses you need to prove your theorem.
+So now I think of a proof of a theorem more like constructing a function where the domain of that function is all of the hypotheses that I'm assuming and then the target of that function is maybe a particular element in some universe that is the modularized space of the statement that I'm trying to prove or something like this.
+If the foundations were to change, if set theory were replaced by something else, maybe dependent type theory, do you think the theorem you've proven would still be true? There's a lot of math that we sort of take for granted as this is the thing that you can do without really admitting that we are creating the foundations that are the basis for the work we do later.
+And so yes, I think that if we change the foundations, we would change mathematics.
+But I think that's also very humbling in that it's not that we're sort of discovering a universal truth, it's we are humans constructing meaning.
+It's abstract art in a sense.
+There is something there even if you can't see all the pieces for particular things.
+And I think that it's really fascinating.
+I was thinking about this on the drive here.
+The way that I interact with infinity I mentioned earlier is sometimes we, in number theory especially, we say, does this type of equation have infinitely many solutions? And then the question is are there infinitely many, are there not? Or are there infinitely many twin primes? These are sort of interesting ideas but I don't think that knowing if it's infinite or not is necessarily the most interesting thing for me.
+What's been most interesting to me is all the math that gets developed to be able to answer that question.
+Given current technology.
+And who knows what mathematics will look like in 100 years.
+150 years ago when we barely knew infinity, and look where we are today.
+[upbeat music] Infinity inspires me to imagine a world that is so much broader than what I'll ever experience with my senses over the span of a human life.
+The ideas can just go on and on and on forever.
+Musician Explains One Concept in 5 Levels of Difficulty Expert Explains One Concept in 5 Levels of Difficulty - Blockchain Oculus' John Carmack Explains Virtual Reality in 5 Levels of Difficulty Biologist Explains One Concept in 5 Levels of Difficulty - CRISPR Neuroscientist Explains One Concept in 5 Levels of Difficulty Astronomer Explains One Concept in 5 Levels of Difficulty Laser Expert Explains One Concept in 5 Levels of Difficulty Sleep Scientist Explains One Concept in 5 Levels of Difficulty Physicist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains One Concept in 5 Levels of Difficulty Hacker Explains One Concept in 5 Levels of Difficulty Nanotechnology Expert Explains One Concept in 5 Levels of Difficulty Physicist Explains Origami in 5 Levels of Difficulty Computer Scientist Explains Machine Learning in 5 Levels of Difficulty Neuroscientist Explains Memory in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains Black Holes in 5 Levels of Difficulty Computer Scientist Explains Fractals in 5 Levels of Difficulty College Professor Explains One Concept in 5 Levels of Difficulty Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty UMass Professor Explains the Internet in 5 Levels of Difficulty Mathematician Explains Infinity in 5 Levels of Difficulty Theoretical Physicist Explains Time in 5 Levels of Difficulty MIT Professor Explains Nuclear Fusion in 5 Levels of Difficulty Harvard Professor Explains Algorithms in 5 Levels of Difficulty Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

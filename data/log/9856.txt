@@ -1,0 +1,47 @@
+Cohere Website For Business Docs Research Cohere Team What’s Trending in AI — Topic Modeling of AI Papers in 2022 Topic modeling is a great way to find clusters and trends in large volumes of text data. In this demo, we apply it to AI Papers and uncover 5 broad trends.
+Research Share: In a previous article, we talked about different use cases for Large Language Models.
+ While generating text is the most popular, there's a lot of fun to be had with use cases like text embeddings to perform topic modeling.
+Topic modeling uses unsupervised learning to extract topics or themes from a collection of documents. Data scientists also apply clustering methods to processes like automatic document organization and rapid information retrieval or filtering.
+Perhaps the most impressive facet of clustering is that — despite its powerful potential — it’s incredibly easy to integrate into your applications. In this demo, we’ll use the Cohere Embed endpoint to plot out and cluster a list of AI research papers and identify trends.
+We’ll write a simple application that scrapes the Journal of Artificial Intelligence Research , performing semantic searching and clustering of paper titles to discover trends in AI. Our application will output the results as a list of recently published AI-themed papers.
+Then, we’ll use Cohere’s Embed endpoint to generate word embeddings using our list of AI papers, which we will visualize and use to build our semantic search and topic modeling application.
+Prerequisites To follow along with this tutorial, you’ll need: Familiarity with Python.
+Python version 3.6 or later installed on your development machine. Alternatively, you can use Google Colab to build the project in the cloud.
+A Cohere account. Register for a new Cohere account to receive $75 worth of credits. Once you’ve used your credits, you’ll have access to a pay-as-you-go option.
+You can find the full project code on GitHub.
+Getting started First, install the Python dependencies required to run the project using the command below: Next, you’ll need to create an API key to use the Cohere Platform. To do this, log into your Cohere account and click Dashboard.
+Next, click the Create API Key button in the API Keys window and assign a name to your new key. Ensure that you copy this API key to integrate with Cohere.
+Now, create a new folder in your development machine. Inside the folder, create a new Python file named cohere_nlp.py. Write all of your code in this file.
+Then, import the dependencies and initialize Cohere’s client: Data collection and cleaning Since this tutorial focuses on applying topic modeling to look for recent trends in AI, you need to source a list of titles of AI papers. To do this, you’ll need to use web scraping techniques to collect a list of papers, with the Journal of Artificial Intelligence Research serving as your data source. Finally, we will clean this data by removing unwanted characters.
+First, import the required libraries to make web requests and process the web content.
+Next, make an HTTP request to the source website that has an archive of the AI papers.
+Use this archive to get the published list of AI papers. While this archive features papers published beginning in 2015, our code filters for papers published more recently (on or after 2020).
+Finally, you’ll need to clean the titles of the AI papers gathered. Remove trailing white spaces and unwanted characters.
+The dataset created using this process has 258 AI papers published between 2020 and 2022. Use the pandas library to create a data frame to hold your text data.
+Create and visualize text embeddings Word embedding is a technique for computers to assign and learn representations of words so that words with similar meanings will have similar representations. An embedding is a list of floating-point numbers that capture the semantic meaning of the represented text. You can use these embeddings to: Cluster large amounts of text Match a query with other similar sentences Perform classification tasks, such as sentiment classification Cohere’s platform provides an embed endpoint that returns text embeddings. The models used to create these embeddings are available in small, medium, and large sizes. Small models are faster, while large models offer higher-quality results.
+Now, you’ll need to create text embeddings using Cohere’s API. The list of titles for AI papers will be used as the input. The embeddings will be stored in a new column inside your dataframe.
+That’s all you need to create the word embeddings. Feel free to try it out with the 'small' and 'large' models as well.
+Now, you can visualize the embeddings using a scatter plot. First, you’ll need to reduce the dimensions of the embeddings by using the Principal Component Analysis (PCA) method.
+Start by importing the necessary packages and creating a function to return the principal components.
+Next, create a function to generate a scatter plot chart. You’ll use the Altair library to create the charts.
+Finally, use flattened embeddings to create a scatter plot.
+Here’s a chart that demonstrates the text embeddings for AI papers. It’s important to note that the chart represents a sample size of 200 papers.
+Semantic search Data searching techniques focus on using keywords to retrieve text-based information. You can take this a step further using search queries to determine the information’s intent and contextual meaning.
+In this section, you’ll use Cohere to create embeddings for the search query and use the embeddings to compare with your dataset’s embeddings. The output is a list of similar AI papers.
+First, create a function to get similarities between two embeddings. This will use the cosine similarity algorithm from the scikit-learn library.
+Next, create embeddings for the search query.
+Now, you can check the similarity between the two embeddings and display the top ten most similar papers using your result.
+Your result should appear similar to what’s shown below.
+You can go a step further to visualize the semantic search result in a scatterplot. You’ll use the same column created earlier, which represents if the similarity score is greater than 33%.
+The plot below shows that the search query, “graph network strategies,” is located closest to the AI papers about puzzles/games, path-finding, and bayesian probability.
+Below is another plot displaying the semantic search results for “language and translation.” Similar nodes are located near nodes about linguistics, neural networks, and image captions.
+Text clustering Clustering is the process of grouping similar documents. As a result of clustering, you can discover and map emerging patterns. In this section, you will use the KMeans clustering algorithm to identify the top five clusters of similar papers.
+First, import the KMeans algorithm from the scikit-learn package. Then, configure two variables: the number of clusters and a duplicate dataset.
+Next, initialize the KMeans model and use it to fit the embeddings to create the clusters.
+K-means is an unsupervised machine learning model, meaning the clusters created will not have meaningful labels. To solve this problem, you are going to create a word cloud for each cluster. This will show you the keywords in each cluster, enabling you to assign a label to each cluster.
+The slideshow below shows the word cloud charts for the five clusters created earlier.
+Word cloud of AI research papers Finally, create a scatter plot to visualize the five clusters in your sample size.
+Your results should appear similar to the example below.
+5 clusters of research papers in AI Conclusion This tutorial used Cohere’s simple and intuitive NLP platform to create word embeddings, perform a semantic search, and cluster text. In this demo, we used a list of AI Research Papers, but it can just as easily be replicated with any other large list of text you want to explore.
+Try it out yourself.
+Register with Cohere to get your API key and $75 worth of credits! Keep reading Cohere — Nov 16, 2023 Cohere’s Enterprise AI Models Coming Soon to Microsoft Azure AI as a Managed Service Newsroom Seraphina Goldfarb-Tarrant , Maximilian Mozes — Nov 14, 2023 The Enterprise Guide to AI Safety For Business Cohere Team — Nov 03, 2023 Emerging Trends in Generative AI Research: A Selection of Recent Papers Research Cohere.com Get Started About Classify Generate Responsibility Documentation Careers

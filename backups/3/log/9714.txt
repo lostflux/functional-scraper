@@ -1,0 +1,212 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons WIRED25: Google CEO Sundar Pichai on Doing Business in China, Working with the Military, and More About Released on 10/15/2018 (downtempo electronic music) Hi, everyone.
+We're gonna end on a high note.
+We've got Sundar Pichai, who's the CEO of Google.
+That's pretty good.
+(audience laughing) Be careful what you wish for.
+He became CEO in 2015, I learned.
+I didn't have to Google, he was right here to answer that question for me.
+I remember, though, my moment with you came.
+I knew we'd met before in 2008 when we did a story for Wired Magazine.
+We were embedded in the Chrome project, which Sundar headed.
+He had this crazy idea that Google should do a browser.
+It can compete with the dominant browsers on the Internet.
+How did Chrome do? I think we've done well.
+Like the most popular in the world, is that true? So that was pretty good.
+(audience laughing) I was working on a book about Google back then.
+It came out about seven years ago and I think in the last few years, a lot has happened to make me wonder what's different about Google than it was just a few years ago in the pre-mobile, pre-AI world there? Is Google different? Is the mission still the same, which is to organize the world's information and make it universally accessible? Or is it something broader or different now than it was from that founding mission that Larry and Sergey had? That's a good question.
+I think we had a chance to reflect upon it.
+We turned 20 years old just this past month.
+It gives you a chance to step back and think about it.
+I think there are many ways in which the company's still the same and some ways different.
+I do think our mission feels timeless to me.
+We are fortunate to have a mission which I think is still as applicable today.
+Our values feel the same to me and as a company, if anything, with the Google-Alphabet transition I think we feel rejuvenated about working on the core problem of information.
+I think we can do it better because of AI.
+So that's been a core focus.
+I still think it's possible in the company for individual engineers to work and create new things just like we did Gmail or News.
+When we launched Google Duplex, it's a pretty profound technology.
+It was started by an engineer who was frustrated at the time it took to call a restaurant.
+So I think things like that happen.
+It's definitely changed in the sense that we have many products now.
+We're humbled and fortunate to serve billions of users, which with it, comes a sense of responsibility now.
+I think we are much more deliberate about what we do and how we think about it and now when we think about impact, we don't think about users alone.
+We think about users, groups of people, societies, institutions, non-profit, for-profit businesses, and so we take a more expansive look at it.
+Also I think when we think about information problems, rather than just Search alone, we think about how can we use better information to help healthcare or education, so it's expansive that way.
+So, many things the same but I think a lot of exciting differences as well.
+And the structure is different.
+You're the CEO of Google.
+Google is part of a larger enterprise, a holding company called Alphabet where the founders of the company 20 years ago, Larry Page and Sergey Brin, work there.
+I'm sort of curious about their involvement in there and to paraphrase or even quote Bloomberg Business Week, where's Larry? Larry's doing what he loves to do.
+I think both Larry and Sergey.
+They are at their best when they're not thinking about what other people are working on today but they're thinking further ahead.
+They tend to think in 10-year time frames about what you can do.
+I think, partly, the structure allows them to do that.
+I think the way Alphabet is set up is we do have other efforts.
+We call them Other bets.
+Waymo, Calico, et cetera, are great examples of it verily.
+They focused on that.
+They spent time with the people who run those groups.
+They do that pretty deeply and regularly.
+They are there.
+I meet them once a week too.
+It's working as we intended it to.
+Mm-hmm.
+How often would you be talking to Larry? We still do our weekly meetings at Google.
+We used to do it on Fridays but it's now on Thursdays.
+We take questions from the company and we answer.
+Google is a wonderful place.
+There's a lot of debate about everything.
+We can talk about that, yeah.
+We do that every Thursday night.
+The other big change, I always saw Google as an AI company, but in the past few years, like other companies too, AI has just become so much more central, particularly, machine learning, deep learning AI.
+Tell me about that transition, what that means and how Google is trying to drive AI, not only within the company but into the mainstream of business and life in general? We are very excited by it.
+I think we made a big bet on it as a company.
+Google has always had this kind of academic deep computer science approach to things.
+It's what we believe we are good at.
+You're fortunate once in a while to come across something which you think is pretty profound.
+I'm sure as all of you understand, AI is that.
+As a company, we are working hard.
+I think it's a cross-cutting thing, which will impact many fields.
+We take that view.
+For us, seeing the work we can do on healthcare or even education, et cetera, I think AI feels very profound.
+We are putting a lot of effort into it.
+I do think we have some of the best in class teams across Google and DeepMind and so on.
+Pretty excited at the progress.
+Just last Friday, we just published a paper on directing breast cancer and the fact that AI working with pathologists together outperformed either pathologists doing it alone or AI doing it alone.
+It's an exciting finding and things like that really motivate us to do more.
+Right, well certainly at Wired, we celebrate AI but we also follow pretty closely to the discussions about ethics in AI, which I know you folks are concerned in.
+What principles do you operate on to make sure that the AI you develop and maybe in health and other places in AI in general, moves along ethically in a way that's not gonna harm people or take us over and kill us? This is why we stepped back as a company.
+Once we started working on AI, we realized this is different from other things we have worked on.
+As a company, I think we publicly published and committed ourselves to a set of AI principles.
+I think we've gone more comprehensive than most other companies, than anyone else.
+We've kind of articulated our goals in terms of how we would do it, how we would approach our work and things we would not pursue too.
+I think we are spending a lot of time thinking about it.
+I think it is something which we will need to evolve over time but we need to take it very, very seriously.
+Do you think that Google and the industry in general can self-regulate those ethics? Or at some point, would you welcome some outside body, or even the government, to make sure that AI proceeds ethically? I think the scale at which technology is impacting society, you are going to see regulation.
+I think it's important there is powerful regulation on these things.
+We think that's the right thing.
+We do need to self-regulate quite a bit because sometimes regulation follows rather than keeping pace with it.
+It would draw a parallel to geneticists and biologists.
+When they are progressing with technologies like CRISPR, they draw boundaries on what they would do and they would not do well before regulations come into play.
+We see our work the same way when we're working on AI.
+I think it's good to do both.
+Earlier on the stage, we had Jeff Bezos.
+I asked him about the work that they're doing in defense contracts, both in the sky with Blue Origin and on the ground in AWS, there's a Project JEDI.
+Google, after a lot of internal discussion, we could talk about how that discussion goes on.
+Google has decided, tell me if this is correct, that it's not going to bid on this defense department cloud-computing Project JEDI.
+You had a contract with the Department of Defense with a thing called Project Maven.
+It's to use AI in the military and you're not gonna renew that there.
+Talk about that.
+What led to that? Maybe you can tell me whether you call it a reversal or not.
+What led to Google's decision really to, it looks like back away from using AI in defense work? Maybe a few clarifications.
+We do do work with the military.
+Obviously, we deeply respect what they do to protect our country.
+As Google, we have values.
+As society, we cherish our values but we can enjoy that because of the, our country is defended.
+I do wanna say we deeply respect the military and we are working with them on a set of projects.
+We are going to continue to do on a set of projects, which we are qualified to do so, in areas like cybersecurity or even logistics, transportation, planning, et cetera.
+The only area where we are being more deliberate about is where AI gets used with autonomous weaponry, AI and weaponry.
+That's why I gave the, it's not just the consent of employees.
+If you talk to senior researchers working in the field in the AI community, there's just worries about when you're so early with a powerful technology, how do you thoughtfully work your way through it? That's why I gave the biology example.
+I think the parallel holds true here that we are thoughtful about it.
+I think we are committed to, with the JEDI contract, it is more of a wholesale contract.
+We don't have all the certifications.
+But I think over time, there will be opportunities for us to work with the military on many things.
+You can also imagine, as a consumer company, on many aspects, we are not the best qualified company to do it in certain projects, but we are definitely going to be thoughtful about how we think about it.
+How much was the voice of your employees a factor in this? Throughout Google's history, we have given our employees a lot of voice and say in it, but we don't run the company by holding referendums.
+It's an important input, we take it seriously.
+Even on this particular issue, it's not just what the employees said.
+It's more also the debate within the AI community around how you pursue your work in this area.
+Another interesting area.
+You mentioned the Duplex project there.
+That was a fascinating thing.
+Maybe I'll let you describe a little what it is rather than my characterization of it.
+What's Duplex? It's where using AI, at least in a narrow domain, we are able to act on behalf of people.
+So if you wanna call a restaurant and book a reservation, we call, we tell this is an automated service from Google calling and we'd like to book an appointment for you and do that.
+It's a good area where we've been very deliberate about it.
+We have the capability to roll it out much faster than what we have done.
+We wanna test it and make sure people are okay with it.
+People give us the right feedback and we are reading through it.
+The thing that was fascinating about it and what a lot of people noticed was when you conversed with this thing, it was so good in part because you put in conversational pauses and made people feel that were talking with a human being, which on one hand, could give them a comfort level of being able to ask freely what they want.
+Sometimes, people are stilted when they talk to something that sounds automated.
+On the other hand, some people hide concerns.
+People might be tricked, maybe not so much by Duplex, but down the road, we wouldn't know whether we're talking to a bot or not.
+With every technology, we are actually doing deep AI work to detect when something is AI on the other side.
+It's no different from spam or anything else you work on.
+I think part of the reason it's important to work on technology is technology ends up progressing whether we want it to or not.
+I feel on every important technology, it's important that you work aggressively to make sure the outcome is good.
+That's the way we think a lot about our work.
+Let's talk about another probably favorite subject, China.
+(audience laughing) We've been hearing that Google has been working on a project called Dragonfly, which is a search engine which would be able to work with the Chinese rules of censorship.
+I spent a lot of time on my book writing about Google's experience in China previously.
+It had a search engine that worked, or attempted to work within those boundaries.
+Super controversial inside the company.
+Eventually, the company pulled out.
+Consider that again, why go back in? And what's the status of Dragonfly? Steven, you wrote a lot about it for those of you who are unfamiliar.
+In 2006, Google went into China.
+We served Search.
+In 2010, we stopped serving Search in China, but we didn't exit the country.
+We have engineers and over the past few years, we have hired more people.
+Android is obviously a very popular operating system there.
+We support small and medium businesses there in terms of them exporting their products, et cetera.
+We are in the market.
+It's been eight years.
+Every time we are in a country, our mission is to provide information to everyone.
+It's 20% of the world's population, so it does weigh heavily on us.
+Any time we work in countries across the world, it's probably people don't understand it fully, but we are always balancing a set of values.
+We are providing users access to information, freedom of expression, user privacy, but we also follow the rule of law in every country we do.
+Obviously, when it comes to China, given our history, it's a more weighty topic.
+Our intent was the reason we did the internal project was to complete it, it's been many years.
+We've been out of the market.
+It's a wonderful, innovative market.
+We wanted to learn what it would look like if Google were in China.
+That's what we've built internally.
+If Google were to operate in China, what would it look like? What queries will we be able to serve? It turns out we'll be able to serve well over 99% of the queries.
+There are many, many areas where we would provide information better than what's available.
+When people type cancer treatments, today, people either get fake cancer treatments or they actually get useful information.
+Things like that weigh heavily on us but we wanna balance it with what the conditions would be.
+It's very early.
+We don't know whether we would or could do this in China, but we felt it was important for us to explore.
+I take a long-term view on this.
+I think it's important for us, given how important the market is and how many users there are.
+We feel obliged to think hard about this problem and take a long-term view.
+You've been at Google since what, 2004? Yeah. Is that right? I remember that.
+I guess the theme of the day is when Wired started out, we were just brimming with optimism about what the Internet was gonna do and how freedom of expression would go forth.
+The late John Perry Barlow, who is a big part of our community, expounded on this.
+We've seen, you've just talked about it, the various things, considerations in China, how it's a more tough world to spread that kind of freedom that the Internet seemed to provide.
+Google's right in the middle of it.
+We heard some of that from Susan's session, fighting fake news and misinformation.
+Tell me where you stand on this.
+Are you as optimistic as you were in 2004? I still, There are many, many times we run into.
+It's part of the work.
+We run into people getting access to information for the first time, either buying their first phone.
+You see the impact it has.
+I grew up without access to computing.
+I got it much later in my life.
+For sure, it impacted my life very, very positively and profoundly.
+I still carry that optimism with me every day.
+We do realize technology is working at scale and with that comes different lens with which you look at.
+I think it's important to be deliberate, thoughtful, have larger societal goals as we make progress through it.
+But there's no doubt to me, just looking at the work and the results we are getting by using technology in healthcare alone, there is no doubt to me there's a lot of positive impact ahead.
+But we need to learn from what's happened and pick it up and continue working on it.
+Just one final thing there I did wanna mention.
+Who you nominated for your next 25, can you just briefly tell us who that was? It's a wonderful organization.
+It's from my hometown in India.
+It's called Aravind Eye Foundation.
+They see about 2,000 patients a day.
+They try and cure eye diseases.
+They do mostly their work for free.
+And Dr. Kim.
+The ethics and the values with which these people approach their work.
+We started working with them because we developed an AI model which can detect an early onset of blindness.
+If you detect it early, it's completely curable, but most people don't get detected early.
+We are now testing it with them so that they can use that to detect it in more people.
+It's a good example of how you think about technology.
+Dr. Kim would say people ask questions about, Hey, with the AI, are you worried it'll impact your job? He thinks about it as It'll give me a chance to treat more than 2,000 patients a day and I wanna be able to do that.
+It's a pleasure to be able to honor Dr. Kim.
+On that technology optimistic note, I thank you.
+Alright, thank you.
+(applause) WIRED25: CEO Susan Wojcicki On Making YouTube A Better Place WIRED25: Kai-Fu Lee and Fei Fei Li On What's Next for Artificial Intelligence WIRED25: Accenture CTO Paul Daugherty On Reimagining The Future of Business President Barack Obama on How Artificial Intelligence Will Affect Jobs WIRED25: The Future of Work With Jeff Weiner, CEO of LinkedIn Digital Dignity: VR Pioneer Jaron Lanier at WIRED25 Astro Teller, Captain of Moonshots at X, in Conversation with Sandra Upson Companies of the Future: Reid Hoffman & Joi Ito at WIRED25 Esther Wojcicki Speaks at WIRED25 WIRED25: Ethical AI: Intel's Genevieve Bell On Living with Artificial Intelligence Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

@@ -1,0 +1,48 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Google Maps Is Upgrading Street View and You Can Help About Released on 09/05/2017 [Narrator] For more than a decade, Google's street view cameras have been recording the world around us.
+Street view over the years has gone to literally, every corner of the planet.
+We've gone to dense urban areas.
+We've gone to the tops of mountains.
+We've taken it under water and we've taken it to islands populated primarily by sheep.
+We've taken it to the International Space Station.
+[Narrator] Now there's a new camera rig on the road that will capture our world in greater detail than ever before.
+On the top you'll see the rosette.
+In the past the ball was about this big and now we've went from 15 cameras down to seven cameras.
+There are 20 megapixel sensors behind each one of these lenses.
+[Narrator] Expect shaper, more contrast images and fewer stitching errors like these from Santa Cruz, California, one of the first places the new cameras have recorded.
+[Steve] The two cans in the front and the back are laser radars.
+Those are used to position us in the world.
+Then down here is the side looking HD cameras, which are designed for picking up business names and street signs.
+[Narrator] That data is then analyzed by Google's artificial intelligence, which has learned to know what part of an image warrant the most attention.
+[Andrew] This is an actual example of a real street view image taken in Brazil of a business.
+A tire shop I actually think.
+In addition to actually being able to pull out useful information like what these words are, it does something a little neat.
+It realizes the title, in this case I'm going to screw up the pronunciation because I don't speak Portuguese but, it's Zelina Pneus.
+But it manages to actually ignore the brand names, the phone numbers, stuff like that, that's kind of spurius.
+What's interesting about that is that's kind of what a human is doing too.
+One of the other nice things that the detection mechanism allows you to do is, this model is able to learn kind of in an end to end sense what normalized text looks like.
+In this particular situation, it's learned that when it sees AV on a street sign, what we typically care about is the word avenida.
+P-R-E-S period typically refers to presidente at least in this market.
+[Narrator] This sort of image recognition applied to mapping can not only make for more accurate directions, but it can also help keep up with rapid growth and change in mega cities like Lagos Nigeria.
+[Andrew] The Lagos work was actually a really neat application of a number of these pipelines.
+We've built some of them deep learning base, that allow us to look at a couple of different inputs including street view imagery and very quickly populate the map in areas where otherwise we might have to spend an awful lot of protracted effort.
+[Narrator] What Google is doing here is what Google has always done, and done so well.
+It's indexing.
+[Charles] People expect that we've indexed the world's websites and generally the world's information.
+Indexing the world's spaces is actually a far more challenging problem even if people have the same expectation of us.
+So by being more able to deliver on those expectations, by putting the power into people's hands, we think that we can have happier users.
+[Narrator] Now Google wants you the public to help by contributing street views of your own.
+Thanks to an explosion of relatively inexpensive 360 degree cameras, nearly anyone can contribute their own fresh images to Google Maps.
+The newer cameras are now increasingly capable of 360 video capture at higher resolutions.
+So with the street view app, what we've done is really lean into that by allowing you to collect video, 360 video on the go while you're driving, biking, walking, whatever it may be and actually just collect a ton of individual 360 photos from that.
+Stringing that back together into the traditional street view experience that you're familiar with, from something like this.
+[Narrator] One caveat, Google won't automatically scrub user generated captures to blur out faces but you can choose to do so in the app.
+[Charles] Always make sure that you respect the privacy tensions and requests of anybody that you're passing by.
+A lot of people don't want to be in public imagery.
+[Narrator] So record carefully.
+Knowing that your contributions will help Google in its quest to index the world and maintain its map's dominance.
+[Jen] We see our job on the Google Maps team as building a data set that helps really capture all the knowledge understanding of the real world and bring that into digital form.
+A lot of what we're doing, whether it's with street view with our user generated content and ability for people to contribute their own knowledge and understanding, is really helping it build a deeper data set of knowledge about the world so that when people come to Google and ask questions about the world around them, we have more and more of the answers.
+Every Trick a Pro GeoGuessr Player Uses to Win Here's Everything New From Google Everything From the 2017 Google Pixel Event Thermal Imaging Tech Helps Protect Endangered Wildlife AI Won't Replace Doctors, It'll Help Them | WIRED BizCon WIRED's Top Gadget Stories of 2016 Review: Google Pixel 4A First Look: Google's Pixel 3 and Pixel 3 XL Hands On Pixel Launch 2018: Everything You Need to Know from Google's Event Review: Google Pixel 6 and Pixel 6 Pro Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

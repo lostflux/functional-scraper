@@ -1,0 +1,259 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Theoretical Physicist Explains Time in 5 Levels of Difficulty About Released on 04/19/2023 I'm Brian Greene, and today I have been challenged to explain a topic in five levels of difficulty.
+We're going to be talking about the nature of time, the most familiar and the most mysterious quality of the physical universe.
+There is nothing that we experience that does not take place in some duration of time.
+So if you can understand time, you're on your way to understanding reality.
+[rapid music] Hello? Hello.
+What's your name? Kayla.
+How old are you, Kayla? I am nine years old.
+So if you are nine years old, what does that mean about the earth? How many times has it gone around the sun? Nine times.
+Nine times.
+So there's a relationship between motion through space, the earth is going through space, and the passage of time.
+They're kind of connected Yeah. in some way.
+But there are differences, right? If I asked you to move through space, you could do it freely, right? Can you get up? And let's see how easy it is to move through space.
+Can you move over to that location? And can you come back? Anything getting in your way? Easy to do? Yep.
+If I were to ask you to sit perfectly still in space, can you do that? I mean, hold perfectly still.
+That's good.
+But if I ask you to hold still in time, to not go to the next second or the next second, can you do that? No.
+So there's definitely this difference between space and time, some fundamental quality that distinguishes how freely we can move through space versus how freely we can move through time.
+Have you heard of Albert Einstein? Yes.
+What do you know about him? He has crazy hair.
+He does have crazy hair, and I think I'm maybe heading in that direction actually.
+He showed us an approach to travel to the future.
+You want me to tell you how you do it? Okay.
+You build a spaceship.
+You go out into space really quickly.
+You turn around and you come back to planet Earth, and he showed us that when you're on that ship, your clock will tick off time more slowly.
+You will age more slowly.
+So that journey may only take you, say, a year, six months out and six months back, but you know what? When you step out of the ship, it'll be 100 years into the future or 1,000 years, a million years into the future.
+Would you do that if you could? I would probably be dead by then.
+No, you'd be alive, that's the amazing thing.
+I'd be dead.
+Everybody else would be dead who stayed on earth, but your body would only age one year, and yet it would be 1,000 years into the future.
+The question though is, could you get back? And I don't know the answer to that, nobody does.
+We don't know if you can travel back, but we certainly know that you can travel forward.
+Has anyone ever tried to go forward and back? I don't think so.
+That same guy with the crazy hair, Albert Einstein, showed that there's actually a limit to how fast things can go.
+And you know what the limit limit is? The limit is the speed of light, because light travels 671 million miles per hour, that is fast enough to go around the entire earth seven times in one second.
+So if we could build a spaceship that would go as fast as light, we'd be able to do what Einstein noted.
+There's something else that's really curious about time.
+Things tend to go in one direction, and we call it the arrow of time.
+It sort of points from the past into what we call the future.
+If you're to ask me why is there an arrow to time, ask me.
+Why is there an arrow to time? I'm not really sure.
+I have some ideas, but I'd say we've still not completely nailed it down.
+Kayla, what have you learned about time from talking about it here? That you can't really travel back through time.
+And can you travel to the future in principle? Maybe.
+Maybe, that's absolutely right.
+I think it's unlikely we'll learn how to travel to the past, but it's not been ruled out.
+That's kind of exciting that it's still at least an open possibility.
+Yeah.
+[rapid music] If I was to ask you what is time, what would you say? Well, time is kind of strange because it's almost a man-made idea.
+There is the tangible of, you know, how the Earth revolves around the sun or how we orbit around ourselves, it's almost in a way, does it exist if the way that we measure it is manmade? Before there was any life on planet Earth, I think we all agree the universe existed.
+Yeah.
+Did things change before there was life on Earth? Yes.
+And how would you talk about that change without invoking this concept of time? It's difficult to talk about something without adding time into it.
+Even if it is a human-made concept that the universe evolved, developed, changed through time, ultimately giving rise to galaxy, stars, planets, and on this particular planet, life.
+That conception of time gives a feel that it's like universal, that it's out there, it's the same for everybody.
+It's independent of our actions or activities.
+Do you know that Albert Einstein shattered that view of time? He found that if you and I, say, have identical wrist watches, I'm sitting still and I'm watching you move, I will find that your clock is taking off time more slowly than my clock.
+But you know what's really remarkable? You can figure out this quality of time if you know one fact, that the speed of light is constant.
+Have you ever heard that phrase? Yeah, my freshman year physics class.
+Yeah, if you're clever, you can use that with high school algebra, maybe even a little high school trigonometry to make it even easier, to derive that clocks take off time at different rate.
+Do you want me to show you how that goes? Yes, please.
+All right, so to figure out the effect of motion on time, I'm gonna use a really simple clock, it's called a light clock.
+It's two mirrors that are facing each other.
+And what we do is we have a little ball of light called a photon, right? That goes up, hits the top mirror, then comes back down and hits the bottom mirror.
+And every time it does that, they go tick-tock, that's one unit of time.
+Imagine now, we have another one of these light clocks, but I'm gonna have it in motion.
+Now what do you notice about that path? It's much longer.
+It's much longer, right? This one's going tick-tock, tick.
+This is gonna go tick, tock.
+In fact, we can figure out the ratio.
+Let's consider time on the stationary clock compared to time on this moving clock.
+Well, that ratio is gonna be the ratio of the lengths.
+Then this would be given by D over L.
+More time on the stationary because it's longer distance on the moving clock.
+Well, this length over here, that's the same as this L over here, right? So we want D over L.
+Now, you may have recall that in trigonometry, there's a name for L over D.
+Sine of theta, opposite is L, hypotenuse is D, right? And so this ratio is just 1 over sine of theta.
+So if we can figure out 1 over sine theta, we'll have our beautiful formula for the ratio of time and the stationary clock to time on the moving clock, we just need one other fact.
+The speed of light along this diagonal is equal to what we call C.
+C equals speed of light.
+But in order for this ball of light to hit that point on the mirror, the component of the speed of light in the horizontal direction better be keeping perfect pace with the speed of the clock itself.
+So let's assume that this clock is moving in this direction with the speed equal to V.
+So C times cosine theta must be equal to the speed of the clock in motion.
+And from this, we learn that cosine theta is equal to V over C.
+There's another beautiful identity you may recall from your study of trigonometry, that sine-squared theta plus cosine-squared theta is equal to 1.
+This is really just a Pythagorean theorem in disguise.
+And from that, we can now solve for a sine-squared theta equals 1 minus V over C squared.
+And therefore sine theta is the square root of this.
+And now, we're basically done because we already had over here that this ratio is 1 over sine theta, which now is 1 over the square root of 1 minus V over C squared.
+So you see, as V gets very close to C, this gets very close to 1.
+1 minus something very close to 1 is very close to 0.
+1 over something close to 0 is huge, which means the ratio of time on the stationary to time on the moving, that can be a huge number as the speed of the moving clock approaches the speed of light.
+Now I did this for a light clock, but it's true for any clock, and this is what Einstein discovered in 1905 with his special theory of relativity.
+Do you think that in the near or foreseeable future of humans, as we know ourselves now, will there be a time where we are using these formulas and these concepts in our daily lives? As technology progresses, the barrier between the limitations of experience and the truth of how the world behaves in extreme environments will be moved in the very same way that, you know, we can toss a pack of gum and we know where to put our other hand to catch it.
+Will we have that kind of intuition about these ideas? I think it's quite possible.
+[rapid music] What are you studying right now? I'm doing physics and computer science.
+So have you spent any time thinking about this weird quality of the laws of physics, that there's no mathematical distinction in the laws between forward in time and backward in time? Is that something you're familiar with? Yeah, and the one thing that really confuses me there, I'm thinking about one of the most basic things we learn, I guess, from Interstellar is that the universe is expanding, or space is expanding. Yeah.
+And so I'm thinking how does that square with gravity and electromagnetism, which is like kind of predicated on the density of charges or masses.
+The fact that space expands is perfectly compatible with our understanding of all the forces of nature because all of them continue to operate in a somewhat more subtle way, but we have a beautiful prescription for taking any law that we understand in the simpler context of flat space time and juicing it up so that it works in a curved space time.
+The more philosophical question is in any of those formulations.
+If you replace T by -T, and you do it properly in the equations, the equations still work.
+But if past and future are kind of treated on equal footing in the fundamental equations, why are they so different from the perspective of experience? And when you're talking about the perspective experience, is that just human subjective experience or actual observation for physics? Well, certainly it starts with human subjective experience, but then we are able to elevate it to a more objective description, for instance, when we introduce words like disorder and order, and entropy in the second law of thermodynamics.
+And the equation, usually the way we say it, is S equals K log W, entropy equals Boltzmann constant times log of a particular quantity, which is ultimately counting the number of distinct configurations that a system can be in.
+What Boltzmann and others showed is that entropy tends to increase toward the future.
+But the key word there is tends to increase.
+So this arrow of time going from the past to the future rests on a curious foundation.
+It's a statistical foundation, which says that it's more likely for eggs to splatter than unsplatter.
+It's more likely for glasses to smash than unsmash, but not that it's impossible for things to happen.
+You just have to wait a really long time for there to be a reasonable chance of it ever taking place.
+When you said that, you know, it's more likely for an egg to smash or for glass to smash, and that's probably because there's so many atoms, so much stuff going on. Yes.
+But I'm thinking if we zoom in on, like a single thing, I guess, do we have variations that are extremely unintuitive because, you know, things can happen in a way that isn't the statistical average? If I take a film of that electron, and it's a little fanciful to describe it that language because you know about quantum mechanics and so forth, but I take a film of a little particle moving around, and I show you that film, you'll be really hard-pressed to determine whether I've shown you the film running forward in time or whether I've shown you the film going in reverse time.
+If I had two, or three, or four, or a gazillion particles into the mix, then it will be much easier for you to determine whether the film is going forward in time or backward in time.
+But order and disorder don't have much meaning if there's only one particle.
+And that's why the fundamental laws don't draw a distinction, but the macroscopic experience does, but it raises a key question.
+Where'd the order of the egg come from? If everything goes toward disorder, how did I get this orderly collection of atoms called an egg? Well, you probably would say from-- Chicken. A chicken.
+But then I say to you, where'd the chicken come from? And you'd say from an egg.
+But there's actually some real insight we can draw from this, because if we keep going back with the chicken and egg story, we'll go back through the evolutionary lineage of life, we'll go back to early moments of the sun and the galaxy, and ultimately, the universe, each step taking us to greater and greater order.
+So we believe that the ultimate source of order is the Big Bang itself.
+Highly ordered beginning called the Bang, and we have been living through the degradation of that order ever since.
+We still don't really have a solid explanation for why the Big Bang had to be or was, highly ordered.
+At the moment, it's really a deep assumption.
+Back with Einstein, you know, we wondered, does time change with speed? And that's another change with that before, we didn't think possible, but I guess we found out eventually some of the fanciful ideas.
+I guess it's just tiny sliver of hope that.
+Yeah, not only did we find that time changes with speed in special relativity, but we also found that time changes with gravity.
+Einstein showed that the rate at which a clock ticks slows down based upon the stronger gravitational field, or gravitational potential actually, that it is experiencing.
+I think you mentioned the Interstellar before.
+Yeah.
+Do you remember the scene in Interstellar? They're going to a planet that's near a black hole.
+They go down to the planet, and they spend just a couple hours there, but when they go back to the ship, it's 23 years later on the ship because time is elapsing slowly near the strong gravitational field, comparatively quickly far away.
+And that's not science fiction, that's actually how time behaves.
+I've always heard people say, Oh, general relativity, you know, it might not seem applicable.
+But GPS, due to satellites, we could synchronize those clocks by accounting for relativity.
+Well, but that's even a really, really good point.
+The GPS would become completely inaccurate in a very short period of time if the satellites weren't taken account of, or the software wasn't taking account of the fact that time elapses differently for the clocks on the satellite compared to the clocks down here on earth.
+So we walk around with general relativity in our pockets even though most of us perhaps don't really know that.
+[rapid music] Have you started any projects yet, or that's? I am just starting one right now.
+What's it on? I'm trying to figure out how stars in the galaxy are moving based on what they're made of, which is interesting.
+Oh, clearly, time comes in to what you're doing.
+To what extent do you have to grapple with some of the subtle features of time? Yeah, with my research in particular, I've really want to know what happened in the past and what happened in the future, but you only get a single snapshot when you look up at the night sky.
+Right, but if it's sufficiently far back, you're-- Great, and so we can learn a lot by looking at other galaxies and seeing what they were doing in their present, I suppose.
+Yeah.
+Just figuring out what's gonna happen next is part of the issue.
+That's looking into the future, I suppose.
+And so have you taken general relativity, or you taken that now, or? I took a course on general relativity, yeah.
+But you learned about black holes? Sure.
+One of the weird things and wonderful things about wormholes is that they are tunnels, if you will, shortcuts from one point in space to another point in space.
+But once you have a shortcut from here to there, the beautiful thing is, if you move the openings, time will elapse differently at the different openings.
+So there's a possibility of wormholes as time machines.
+Go one direction, you're going into the future, go the other direction, you'd be going into the past.
+But that, of course, raises philosophical and logical-- Paradoxes.
+yeah, absolutely. paradoxes and sort.
+So what do you think, what do you? [both laughs] I throw it to you.
+Yeah, I've heard a few different theories that people posit.
+Like maybe it is back to the future, and you really change your own universe.
+I've also heard people say that you could have multiple universes spawned from this event or something along these lines.
+Yeah, if you are going to be able to change the past, that's the one that resonates most with me.
+I think the same.
+Yeah, so you go into the past, and maybe you can prevent your parents from meeting, but you're preventing them from meeting in the parallel reality, which means that you will never be born in that reality, but the origin of your birth is still completely understood, it was in the universe from which you originated.
+Another one that's more subtle is, the laws of physics may prevent you from interceding.
+Right.
+And that raises uncomfortable issues for many people having to do with like free will.
+I'm immediately uncomfortable.
+Yeah, so that one, there's actually some people like Joe Polchinski who did some wonderful studies of billiard ball tables, where you imagine a billiard ball goes into a wormhole, comes out and hits the very ball that was going into the hole.
+And in that way, if it could knock it off course, we seem to be in some logical paradox.
+Absolutely.
+But the finding was, the ball can come out and just sort of graze the other one, but it can't affect it enough to prevent the sequence of events from happening.
+And the way I like to think about it frankly is if there's one universe, not parallel universes like in the other solution, moments in time just are.
+They don't change, the whole point of time is the variable along which change can happen.
+So if you have the atoms of time, the individual events, there's no conception of them changing.
+So whatever collection of influences were in play that allowed your parents to meet, they will always be in play because you were always part of that moment.
+Do you think travel back to the past is impossible because of a deep physical, like mathematical reasoning, or just because of all of these problems that yet you've been talking about? I suspect that when we've fully understand the mathematics of the final physical laws, if we ever come upon them, I think there's gonna be something built in that prevents this kind of free travel to the past.
+But sometimes I wonder if that's just coming from a more emotional place where I sort of want the world to be safe from this kind of paradoxes.
+So what's pretty clear based on any of the hypothetical proposals for traveling to the past that have come out of physics, you can't travel to a moment in the past before the first time travel machine is built.
+Sure, you know the twin paradox? [Brian] Yeah, sure.
+Where, you know, you fly off, looks like you're moving fast, but to you, it looks like the other guy's moving fast so who actually ages more? Who ages less? A resolution I've heard is that because you have to be going away and then coming back, you had to accelerate at some point, and this breaks the ambiguity.
+Yeah.
+What if, say, the universe isn't flat? What if the universe is curved, and you go off in one direction and then you come back in the same direction, you pass by the Earth, who's older then? Do we have an answer? Yeah, we do have an answer.
+So the simplest version of that is, imagine that the universe has a shape of a donut.
+Imagine I'm on the circular part of this donut universe.
+All right.
+And imagine I turn on two laser beams, sending a beam of light going to my right and to my left.
+And these beams will go around the entirety of space, and they'll both come back, and at some point, they will hit me.
+Imagine they hit me at the same moment from my perspective.
+Now imagine someone's moving relative to my frame of reference, say, to my left, they do the same experiment.
+They fire the beam of light left and right.
+Notice that the beam that they fire to their left will have to travel farther to reach them because they're moving away from it.
+Whereas the beam that they fired to their right will not have to travel as far because in some sense, they're moving toward it.
+The two beams of light will not hit that moving observer at the same moment.
+To you or to them? To them.
+Wow.
+Which means that there's a preferred frame of reference in this universe.
+Everybody is not on equal footing Fascinating. as they are when we teach to freshmen the special theory of relativity.
+That's right, exactly. Me, for example.
+No, everybody else is moving relative to me, and it's real motion.
+So everybody else will be like the moving twin.
+They will be younger and I will be older.
+And when you think about past and future on a cosmological scale, there was a long period when there were no human beings in the universe.
+The fact of the matter is there will be these two long stretches with our presence being sort of a flicker in between, does that thought inform anything about how you live in your brief flicker within that brief flicker? I rage against thinking like that.
+Too defeatist? I think it's too defeatist.
+I think that's the perfect way to put it.
+Because it might be a brief flicker on a single moat of dust like floating in a cosmic eternity.
+[Brian] Yep.
+But it's everything.
+There's nothing else that I'll ever experience.
+And so in a way, there's nothing else to me.
+Yeah, yeah.
+There's an eternity, but I'm never gonna see it, I'm never gonna feel it.
+It can be debilitating to imagine an eternal future of sort of nothing, where none of what we do sort of persist.
+On the other hand, if you flip your perspective around and say, How remarkable is it that we have this brief moment that allows us to think and feel and love and explore and illuminate, wow, how wonderful is that? Yeah.
+[rapid music] So often, when we try to give the basic idea of what time is, I'm fond of saying, Look, space is the language that allows us to say where events take place, and time is the language that allows us to specify when they take place.
+Where would you jump off from there and trying to give a deeper understanding of the basics of time? Maybe part of the distinction in between time and space, it's that you have a clear irreversible evolution.
+So how to explain what time is, well, it's a parameter that is measured by clocks.
+I mean, at the end, this is what we know.
+And allows us to talk about change.
+And also that we know how to describe in terms of some set of equations.
+Which gives a clear sense of causality.
+Yep.
+To note our recent paper, where we were thinking about Einstein's ideas of special relativity, but in a setting where the global shape of the space time, we imagine there might be a curled up dimension of space, a circular dimension and thought about how special relativity works in that setting, we came to a result in this very basic setting.
+You can send signals into the past, not in a way that will violate causality.
+Did that surprise you, that by going from the usual topology that doesn't have a closed part of space, but making that one change, you could have this radical impact? I found quite surprising that you could have this exotic behavior of signal propagation in a system that was extremely simple, totally classical, there was nothing weird except one dimension that was compactified, was identified on a circle.
+Actually, even the standard vanilla causal structure of special relativity may give some very unexpected behaviors when you combine it with other simple modifications of just the flat space time.
+And the beauty of it is, it is not like there is some high-powered mathematical methodology, straightforward algebra that a high school kid would know is all that you need to extract these unusual results.
+And they were unusual because even if you do not violate causality, we discovered that a fast-moving observer, that could be us on a rocket, could send signals very far and then back in a very small time.
+And so the old idea that of course we always hear about, that if we ever make contact with extraterrestrial life, if they're far away, we can't really have a conversation because we'll say hello, and then like 10,000 years or 100,000 years later, they'll answer us 'cause they'll take that long for the signals.
+But at least in this setup, which we don't know is true about our universe, but if it were, then you could have a real-time conversation over arbitrarily large distances, which is-- That was unexpected.
+And so that shows how even ideas that seem to be well-settled and well-understood have surprises.
+Like, why didn't Einstein realize this? Yeah, maybe the idea of living on a subspace, of being confined in this extra dimension on a surface, may have been looked exotic but definitely did not look exotic after the 1990s.
+Many people have begun thinking about the possibility that space and time may be so-called emergent quantities that they're not as fundamental as perhaps Newton or Einstein would've thought.
+Where do you stand on that idea? It seems not unthinkable.
+Saying that something is emergent will make full sense only when we have some concrete model in which space and time emergent, in which we make sense of this non-space, non-time description of a theory.
+I don't know if we are still at this stage in which I would say we begin to understand this scenario because, often, I tell my students, the greatest scientific revolution has been not in the 20th century, has not been quantum mechanics nor general relativity nor special relativity, that's been the passage from qualitative description of nature, the quantitative one.
+When you pass from asking how to how much, then you understand something.
+And who do you credit with that? Is that Newton? Do you go Newton or a little bit below? Do you Galileo? I would say Galileo, Newton.
+Of course, the completion of this idea is Newton.
+One of the things that relativity also sheds a light on is what exists, that if someone's moving relative to me, what they consider now might be in my past, what they consider now might be in my future, which would suggest that all of time exists much as we're willing to accept that all of space exists.
+Is that cold water? Actually, it resonates with me for various reasons.
+One is that, professionally, we use spacetime diagrams, Penrose diagrams, a lot of diagrams where space and times are just two axis on a board.
+And when we describe a particle, we have a line that goes up in time.
+By the way, this image also is the last image in Pros, the last page, there is this beautiful sentence, which is also true, saying that if he has the time, he would like to describe people as being monstrous beings that extending time much longer than in space.
+If C equal to 1, that's very true.
+So this idea that you have a continuum, and time should not be made to disappear as soon as it's gone, is very practical.
+It's also what is behind the idea of histories in quantum mechanics.
+When in the approach of various people including Hartle that collaborated a lot with Hawking.
+There is this idea that what you describe is a history, it's not a particular moment in time, but it's an evolution.
+This history treats space and time on a more equal basis.
+But would you say there's more to it than the technical, more to it than the diagrams, more to it than sort of an interpretation of the mathematical equations? would you go so far as to take solace in the fact that, in a sense that you will always exist because you will always be at the moments of space and time that you have occupy throughout your life? Well, actually, that's probably the only way in which you can take solace because all the rest, right, is almost children's stories.
+Yeah.
+I mean, of course, it's something that you come by yourself, and you arrive at this conclusion, which is totally not objective and is part of your personal history by yourself, but it was interesting to see that, for instance, Kurt Vonnegut had exactly the same take.
+He said, no, I mean the only thing that really makes you not fear what will happen or your own mortality is that every instant is a turn of instances, exactly as each point in space is nothing, space disappears.
+It will always be there.
+Yeah, the idea that something is irretrievable maybe is an accident, and we go back again to all the initial conditions in which we started.
+Absolutely.
+[gentle music] From this discussion of time, I hope that you have appreciated the subtlety and the richness of this quality of the world that we experience all the time.
+Thanks so much for watching.
+Musician Explains One Concept in 5 Levels of Difficulty Expert Explains One Concept in 5 Levels of Difficulty - Blockchain Oculus' John Carmack Explains Virtual Reality in 5 Levels of Difficulty Biologist Explains One Concept in 5 Levels of Difficulty - CRISPR Neuroscientist Explains One Concept in 5 Levels of Difficulty Astronomer Explains One Concept in 5 Levels of Difficulty Laser Expert Explains One Concept in 5 Levels of Difficulty Sleep Scientist Explains One Concept in 5 Levels of Difficulty Physicist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains One Concept in 5 Levels of Difficulty Hacker Explains One Concept in 5 Levels of Difficulty Nanotechnology Expert Explains One Concept in 5 Levels of Difficulty Physicist Explains Origami in 5 Levels of Difficulty Computer Scientist Explains Machine Learning in 5 Levels of Difficulty Neuroscientist Explains Memory in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains Black Holes in 5 Levels of Difficulty Computer Scientist Explains Fractals in 5 Levels of Difficulty College Professor Explains One Concept in 5 Levels of Difficulty Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty UMass Professor Explains the Internet in 5 Levels of Difficulty Mathematician Explains Infinity in 5 Levels of Difficulty Theoretical Physicist Explains Time in 5 Levels of Difficulty MIT Professor Explains Nuclear Fusion in 5 Levels of Difficulty Harvard Professor Explains Algorithms in 5 Levels of Difficulty Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

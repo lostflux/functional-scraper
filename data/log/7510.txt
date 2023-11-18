@@ -1,0 +1,191 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Computer Scientist Explains One Concept in 5 Levels of Difficulty About Released on 09/19/2022 My name is Chelsea Finn.
+I'm a professor at Stanford.
+Today, I've been challenged to explain a topic in five levels of difficulty.
+[upbeat music] Today, we're talking about Moravec's paradox, which says that the things that are really, really easy and second nature for humans, are actually really difficult to program into AI systems and robots.
+It's an important topic, because it means that when we program robots, some of the really basic stuff that we take for granted is actually quite difficult.
+Hi, I'm Chelsea, what's your name? Juliette.
+Nice to meet you, Juliette.
+Today, we'll talk a little bit about a concept called Moravec's paradox.
+What's that? Something that explains what's hard and what's easy for a robot.
+Something like stacking these two cups.
+Do you think that's easy or hard? If it's this way, then it's easy, but if it's this way, you need to balance it or, oh- It's still pretty easy, right? It turns out that stacking these two cups, it's actually really hard for robots to do that.
+So, let's think about how we might have a robot stack these two cups.
+You could program the robot to move its hand right here and then program the robot to close its hand around the cup. Okay.
+And then program the robot to move over here and open the- And drop it.
+Exactly, right? That seemed pretty simple for the robot to do.
+Say we even just move the cup over here.
+Do you think the robot would still be able to stack the cups? Yes.
+We can see what happens.
+So it's gonna, we programed the robot to move to the same exact position as before.
+Oh yeah. So it goes to the same place.
+When we gave it instructions, did we tell it to look at where the cup was? Or did we tell it to just move over here? We told it to just move over here.
+Exactly.
+So, Moravec's paradox is something that means that these really simple things, like stacking cups, is really, really hard for robots, even though it's really easy for us.
+While robots are actually really good at really complicated and really difficult things.
+Think about the task of multiplying two really big numbers together. Okay.
+Does that seem like a hard task or an easy task? It's easy for me.
+You're good at multiplying big numbers together? Yes.
+Could you multiply 4,100 by- No, I can't do that.
+But it's actually really easy for a computer to do that.
+So how fast were you able to stack the two cups? Like two seconds.
+It took me like a couple days when I learned how to stack cups.
+Yeah.
+But so it took you a couple days when you learned how to stack cups, but before that, you already knew how to grasp objects, right? You already knew how to pick up cups. Yeah.
+And so you could use that when you were learning to stack cups.
+We're trying to be inspired by how humans learn to do tasks, to allow robots to do the same kind of things that are very simple for people, like stacking cups.
+We want robots to be able to do something like that too.
+[upbeat music] What grade are you in? I am about to be a junior.
+Have you heard of something called Moravec's paradox? Never heard of it.
+Typically you would think that things that are easy for humans, are also easy for robots and computers to do. Right.
+And things that are hard for humans should also be hard for robots and humans to do.
+But it turns out that it's actually the opposite.
+I wanna try a little demo. Okay.
+So I have a penny in my hand and I'd like you to pick it up with your right hand and put it into your left hand.
+So that was pretty easy, right? Yeah.
+We're gonna make this a little bit harder now.
+So, can you put these on? And we'll try to do the same thing again with your eyes closed.
+There you go.
+Let's try that one more time, and see if you can do any better.
+So close your eyes.
+Oh, there we go.
+Yeah. So that you're able, with a bit more practice, you're able to figure it out.
+When it fell on the ground, how did you know to pick it up off the ground? From the sound.
+So when a robot tries to do something, like pick up an object, not only do you need to program exactly like what the motors should do, the robot also needs to be able to see where the object is.
+Then this is what's called a perception action loop in robotics.
+So if the object moves, the robot can then adapt what it's doing and change what it's doing to successfully pick up the object.
+It's really important for robots to be able to leverage, not just like the past hour of experience, but also ideally many years of experience, in order to do the kinds of things that you did.
+It's kind of hard for me to understand why like robots can do like all these crazy calculations, but they can't do like all the simple stuff, so.
+Yeah. It's really unintuitive.
+In order to survive, we need to pick up objects and everything.
+Basically many, many, like billions of years of evolution actually created humans and the ability to manipulate objects like that.
+So, it actually turns out that things that are really basic for us are actually just really complex tasks in general.
+So do robots know, like, they messed up? They know.
+That's a great question.
+So in reinforcement learning, the robot tries the task, and then it gets some sort of reinforcement, some sort of feedback.
+It's similar to how you might train a dog. Yeah.
+So you could give it feedback like that.
+So it won't necessarily know itself, especially on the first few tries, but it's trying to figure out what the task is even.
+Does a robot see like how we see or does it like, just see like a program or something? We give robots a camera and the camera produces this array of numbers.
+Basically, each pixel has three different numbers, one for R, for G and for B.
+And so the robot sees this really massive set of numbers.
+And it has to be able to figure out, from that massive set of numbers, what is in the world.
+There is a number of different ways to have the robot see, but we use a technique called neural networks, that tries to take out in those big numbers and form representations of the objects in the world, and where those objects are.
+Can a robot ever go off the program? It depends on how you program the robot.
+If you program the robot to follow exact motions and follow a very specific program, then it won't go off that program.
+It will always do those actions.
+But if something unexpected happens, that the program wasn't designed to handle, then the robot might go off court.
+Do you think robots will take over the world? Just being honest.
+I think that robotics is really, really hard.
+Having robots do even really basic stuff, like pick up objects, is really, really hard.
+So if they do take over the world, I think it'll be a very, very, very, very long time from now. Very long time. Yeah.
+[upbeat music] So today we'll talk a bit about robotics and machine learning and artificial intelligence.
+So have you heard of Moravec's paradox? I haven't heard of Moravec's paradox? Yeah. That's what it's called.
+Yeah. yeah, I haven't heard of it before.
+It describes something in AI, which is that things that are really intuitive and easy for humans, are actually really difficult to build into AI systems.
+And on the flip side, picking up an object, really simple for people, but it's actually really difficult to build that into robotic systems.
+So do you have any experience working with robots or other AI systems? Yeah, I did work with robots, but they weren't doing like artificial intelligence type of stuff.
+We were just sending like instructions and the robot would do, like, perform like a simple task.
+I wasn't so used to the aspect of, like, teaching computer how to do stuff.
+So I'm always on that other end of like giving instructions, more focused on the data analysis and machine learning aspect of it.
+And how would you just describe machine learning, like in one sentence? I'd say machine learning is giving like feeding data to a program or to a machine and they start to learn based off of that data.
+Do you have any thoughts on like what the data might look like in a robotic setting, if you were to apply machine learning to robots? I think of like coordinates.
+Yeah, exactly.
+One thing that my research has been looking into is, if we can have robots learn from data, we'll collect data from the robot sensors.
+And if the robot has sensors in its arm, to figure out the angle of one of its wrist, for example, then we'll record that angle.
+And all of the robots experience will go into a data set, that if we wanted a robot to solve a task, like, I don't know, picking up a cup, and then maybe you want to pick up a different cup, if it only had the data of picking up the first cup, do you think it would be able to perform well on the second cup? I don't think so. I feel like that might be a problem.
+Yeah, so there's this generalization gap, this gap between what it was trained to do and the new thing.
+So what's like the most complicated thing for a robot to learn, is it motion? So you can think of robotics as having two core components.
+One is perception, being able to see and feel and so forth, and action, where the robot actually figures out how to move its arm.
+And both components are really essential, and both components are quite difficult.
+If you train a perception system independently of how to choose actions, then it might make errors in a way that mess up the system that selects actions.
+And so if you instead try to train these two systems together, to have it learn perception action for the goal of solving these different tasks, then the robot can be more successful.
+One thing that's really difficult about robotics is, there actually isn't that much data of robots in the world.
+On the internet, there's all sorts of text data, all sorts of image data that people upload and write.
+But there isn't a lot of data of doing a simple thing, like tying your shoe, for example, because it's so basic.
+One challenge is even just getting data sets that allow us to teach robots to do these simple kinds of tasks.
+Do you think that we'd be able to kind of accelerate that process of collecting data? Or do you think, is it the way that we've been collecting those types of data sets? Is that what's keeping us behind? That's a great question.
+I think we should be able to accelerate the data collection process by having robots collect more data autonomously on their own.
+And by doing that, we might be able to overcome some of the challenges of Moravec's paradox.
+What are some common algorithms that are used in these types of techniques as the robot is learning? Deep learning is a common toolbox for addressing some of these challenges, because it allows us to leverage large data sets.
+And so, deep learning is basically, corresponds to methods for training these artificial neural networks.
+Another common method that comes up is reinforcement learning.
+A third kind of algorithm is meta learning algorithms.
+And these algorithms learn not just from the most recent experience on the current task, but leverage experience from other task in the past.
+And they're not just completely separate.
+We can combine the aspects of these algorithms into a single method that gets the benefits of each of them.
+[upbeat music] What year are you in your PhD? I'm just finishing up my first year.
+Studying food manipulation and also bimanual manipulations, and just enabling robots to have these capabilities, so that, eventually, we can use it in like a home robot use case, for example.
+What are some of the challenges that you've run into when trying to work with robots and do these tasks? So, I was really interested in the problem of scooping peas on a plate.
+They're relatively homogenous, but when it came to more complex foods, like broccoli, or deformable foods, like tofu, that can crumble, that gets a lot more complex to simulate.
+One thing I find really fascinating about robotics is that the things that are so simple for us, like feeding yourself broccoli, so second nature to us, are really hard for robotics.
+When you try to take a robot and train it to do a task and simulation, and the simulation isn't perfectly accurate, it's really hard to actually model the physics of how tofu crumbles. Right.
+What algorithms do you think are most promising for handling non-rigid deformable objects and the other things you've been looking at? For most of my past work, which have been relatively more complex tasks, I lean towards the imitation learning type of algorithm approach, behavioral clonning and all that.
+Mostly because, if it's hard to simulate an interaction with an object, then I think RL is harder to go with, because it's not as sample efficient as imitation learning can be.
+And a lot of the times I'll be learning some high level policy of what to do, and then hard coding a lot of the, like action primitives that I want to select between my task.
+How can we get robots to learn more efficiently or learn faster? From my experience, it's a matter of how much support you give the, like, robot when it's learning.
+One could be like a narrower task range.
+Another is maybe like also biasing the types of samples that you're collecting can bias towards interactions that are gonna be useful where the hands actually interact with each other, rather than just off doing their own things.
+What have you found to be like your go-tos between the different styles? I think I have a somewhat similar perspective to you in that, if we provide more structure and support, and sort of forms of prior knowledge or experience in the algorithm, that should make it more efficient.
+And so if we can acquire those kinds of priors about the world and about interaction from previous data, maybe offline data, then I think we should be able to make learning of new tasks more efficient.
+It's similar to like skill transfer style of things, because some skills are just repeatable.
+Like if I know how to pick up a cylinder, then maybe I know also how to pick up a mug.
+Yeah.
+So you may not transfer the exact strategy or the exact policy that the robot takes, but you should be able to learn some general heuristics about performing manipulation.
+There's this gap between the simulators that we have now and what we actually experience in reality.
+So what do you think are promising directions to try out for actually making our simulations match reality more closely? It's a really, really hard problem.
+A lot of simulators, they don't simulate the world as a fine enough time granularity to really accurately capture things like skewing an object, for example.
+One thing that I think is promising is to try to not build simulators entirely from first principles, from our knowledge of physics.
+But instead to look at real data and see how real data might inform our simulations and try to build, allow robots to build models of the world, build simulators of the world, based on data and based on experiences.
+There's a little bit of a chicken and egg problem, because if we wanna use simulators to get lots of data, and we also need data to get good simulators, then there's no way to get around this.
+So when you say building simulators that don't rely on first principles, are you saying like, kind of like a learn simulator? We have all these videos of humans interacting with the world, and that can be your, like, physics data that you then use to inform when you're building a simulator, that's learning based on those videos.
+Exactly.
+I think we can use machine learning to learn about physics and to build these kinds of physics simulators.
+That's really cool. That's a cool idea.
+[upbeat music] So great to see you, Michael.
+Thanks for coming.
+It's my pleasure.
+So over the past four levels, we've been talking about Moravec's paradox.
+I'm curious to get your perspective.
+There are still a lot of open questions for how to leverage previous experience and learn cumulatively over time.
+It's funny because I'm kind of at the heart, a developmental psychologist.
+And so when we talk about babies, a lot of what we're talking about is how they become human.
+I started to try to build computer models of little tiny bits of babies cognition.
+And I would ask people, and they'd say, You have to assume that you can recognize objects, because actually recognizing objects is impossible.
+And I was like, Wait, it's impossible? What about AI? And they're like, That's, that's really hard.
+Why do you think it's so hard to build these things into AI systems and robots? I guess if you think about a quintessentially human task, like playing chess or solving arithmetic problem, things that other creatures just don't do, when you're a human being, you have to learn that in cultural time.
+And so there's a limited amount of data you have.
+But if you're talking about seeing the world interacting with the world, using your effectors properly, that's the combination of this massive amount of evolutionary time.
+When you look at that, it's like the 56 games of chess I played in chess club that doesn't look like a lot of training data.
+You work so hard to make a robot, do one particular thing or one class of task, and then seems like people must always come up to you and say, So, okay, but what about my other task? Okay. You can fold the sock or stack a cup.
+How about my dishes? Is that frustrating? Is that a challenge? Is it interesting? I think it's interesting. And also a huge challenge.
+I think that it's interesting that if a person sees a robot doing something that seems very capable, they assume that the robot can do all sorts of other capable things.
+It's a huge challenge, because that's actually not the case.
+When we think about babies on their social cognition, we actually start from the idea that they have a notion of what an agent is.
+An agent is something that's self-propelled, that has its own internal states, like goals and beliefs.
+And so, it's very natural to imagine that when you see a seemingly, they call it propulsive, action by a robot, you're thinking, Hey, this thing has a desire.
+It has a goal. It's accomplishing it with its.
+So what if I give it a different goal? Why couldn't it do that? They call it promiscuous generalization about agents, right? I think that the electrical outlet looks like a face.
+I think that my computer's mad at me.
+And so I think it, the challenge actually is to stop people from doing that, and to recognize limitations where there are some.
+Or we bring to bear our knowledge, sometimes incredibly quickly, to parse an uncertain image.
+So our experiences go all the way down to our very first impressions of the sensory signal.
+I like that description, because it conveys how much complexity there is to these really basic tasks that we're doing.
+Is there a definition for the simple tasks that we do versus things that are more complex, like playing chess? I guess I like to think about this hierarchical cascade, where, at first, vision starts with the sensory signal and parses it into gradually more complex units.
+I think it does make sense to talk about lower level, meaning closer to sensation and perception and action, and higher level meaning more deliberative, more mediated by memory and language and judgment.
+That notion of hierarchy is really interesting, because it is these higher level things, like playing chess, for example, that are easier for AI systems.
+And the reason why they're easier is that we're providing the abstraction for the system already, then when we give the game of chess to an AI system, we abstract away all the challenges of like picking up pieces and moving them, and we say, Okay, there's this board of however many boxes on it.
+And you just need to figure out within that very narrow, small world, what to do.
+But handling and learning what those abstractions should be and handling everything from low level sensory inputs to that higher level processing is really, really hard.
+Our impression that it's purely discrete and symbolic might be, just that might be an impression, because we talk about it in a language.
+And actually, the fact that it's connected up to all these perception and sensation and action systems means that it's probably grounded in a more continuous set of representations.
+I wonder, is there gonna be a point where what you really want to know is what are the experiences that a human has? [indistinct] human speech own project.
+His idea was, Well, I need the exact data that my son gets in order to train my robot to be like my son.
+Or do you think that we're gonna end up in a world that's more like the large language models and that'll have to do? I suspect that we'll start by doing whatever is most convenient, 'cause that's whatever we can get.
+But I think that for robots to be capable alongside humans, in a world with humans, I think that we may need to actually use human experience, human learning, to inform how robots learn, if we want them to follow the same kind of mistake pattern as humans, so that humans can interpret robots, and humans can understand what robots will and will not do.
+[upbeat music] The AI systems and robotics are starting to play a larger role in our everyday lives.
+Despite the fact that they're playing this larger role, many people don't have a full understanding of the limitations of these systems.
+And I hope that through these conversations, you gained a better understanding of where the limitations of these systems are and what the future might look like.
+Musician Explains One Concept in 5 Levels of Difficulty Expert Explains One Concept in 5 Levels of Difficulty - Blockchain Oculus' John Carmack Explains Virtual Reality in 5 Levels of Difficulty Biologist Explains One Concept in 5 Levels of Difficulty - CRISPR Neuroscientist Explains One Concept in 5 Levels of Difficulty Astronomer Explains One Concept in 5 Levels of Difficulty Laser Expert Explains One Concept in 5 Levels of Difficulty Sleep Scientist Explains One Concept in 5 Levels of Difficulty Physicist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains One Concept in 5 Levels of Difficulty Hacker Explains One Concept in 5 Levels of Difficulty Nanotechnology Expert Explains One Concept in 5 Levels of Difficulty Physicist Explains Origami in 5 Levels of Difficulty Computer Scientist Explains Machine Learning in 5 Levels of Difficulty Neuroscientist Explains Memory in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains Black Holes in 5 Levels of Difficulty Computer Scientist Explains Fractals in 5 Levels of Difficulty College Professor Explains One Concept in 5 Levels of Difficulty Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty UMass Professor Explains the Internet in 5 Levels of Difficulty Mathematician Explains Infinity in 5 Levels of Difficulty Theoretical Physicist Explains Time in 5 Levels of Difficulty MIT Professor Explains Nuclear Fusion in 5 Levels of Difficulty Harvard Professor Explains Algorithms in 5 Levels of Difficulty Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

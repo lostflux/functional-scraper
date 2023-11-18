@@ -1,0 +1,234 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons MIT Professor Explains Nuclear Fusion in 5 Levels of Difficulty About Released on 07/19/2023 My name is Anne White.
+I'm a professor of nuclear science and engineering at MIT.
+And I've been challenged today to explain nuclear fusion in five levels of increasing difficulty.
+Fusion is so exciting because it is extraordinarily beautiful physics which underpins some of the most basic processes in our universe.
+Nuclear processes has a tremendously valuable application for humankind, a virtually limitless, clean, safe, carbon-free form of energy.
+[dramatic music] What's your name, tell me a little bit about yourself.
+I'm Amelia, I'm nine years old.
+I'm in third grade, and my favorite subject at school is definitely science.
+So my son is five years old.
+And he asked me what kind of science I do.
+And I said fusion.
+And I said I put a star in a jar.
+Does that make sense? No.
+[Amy laughs] That's a good answer.
+Because it sounds a little ridiculous, right? How can we put a star in a jar? Well, we're not actually gonna put the sun, which is a star, inside a jar, but instead we're gonna take the same kind of material that the sun is made out of, and we're going to hold it for a really long time in some kind of container.
+So fusion is about bringing things together.
+That's what fusing means.
+When those fusion reactions occur, a new particle is created, and energy is also released.
+Do you know what an atom is? No. All right, so an atom is what everything in our world is made of.
+And at the very center of the atom is what we call a nucleus.
+And inside that nucleus is a proton.
+We want to take those protons and push them together to make them combine and release energy, fusion energy, that we can use to make electricity.
+And there's a lot of different energies and forces that we have to think about.
+Have you heard of gravity? Yes. Yes, okay.
+So that is a big important fundamental force.
+So another fun force to talk about that's important for fusion, you're familiar with electricity? Yes. Right, and so there's also electric forces, electrostatic forces, and you've heard of static electricity.
+So now let's see about static electricity lifting my hair up.
+We can move this white strand, it's like hanging down.
+The balloon took on the force from like your hair and put in here, and I'll just like move it.
+There you go, yeah! And so if we want to take those protons and push them together to make them combine and release energy, fusion energy, that we can use to make electricity, then we have to actually overcome that strong electrostatic force that just want to make those balls bounce off of each other.
+There's another force which you might be familiar with, which is like a magnetic force.
+We just learned about that.
+Our teacher showed us putting one magnet on, and then flipping the other one around, and it made it the top one kind of bounce.
+Yeah.
+And I was also thinking on how can it do that.
+You know, scientists are still studying exactly how magnetism works, right? It'll still be there for you to tackle when you become a scientist.
+Have you ever seen one of these games? Yes. With the iron filing.
+So if you take this and you take the magnetic end, and maybe you can show us what's gonna happen with it.
+While you move around those iron filings with the magnet, you're totally in control of that material.
+You're pushing, you're pulling it, you're moving it around.
+And so you're using this magnetic force to also do something useful for you.
+Have you learned about the states of matter? Yes. Tell me about that.
+So we were in second grade, and she put a picture on the board, three states of matter, she showed us a picture of ice, a picture of water, and a picture of gas.
+Did you learn that there's also a fourth state of matter? No. When you heat up a gas, you create a plasma.
+A plasma is the fourth state of matter.
+The plasma I study is actually invisible.
+That's gonna be hard science, you can't see it.
+And the plasmas I work with are so hot that I can't see with my eyes, but it's light that I can measure it with very, very special instruments.
+What kinda instruments? Because instruments we use play music.
+That's a really great point.
+How do you keep the invisible plasmas, because they're invisible? Do you keep 'em in one spot so you always know where they are.
+Yes, we absolutely do.
+We hold it inside the container with the magnetic fields.
+So you didn't have to actually touch the iron filings in the toy to move them around.
+You could pass the magnetic field through the plastic and control them with it.
+So it's the same thing.
+We don't have to touch this very, very hot plasma to control it and hold it in place because we use magnetic fields.
+You are so smart.
+I'm so glad that science is your favorite subject.
+[dramatic music] What is fusion energy? The way our sun generates energy is by fusion reactions.
+It fuses hydrogen, the lightest element we know about, into helium, and that gets fused into heavier and heavier elements.
+So here on earth we're going to take some special kinds of hydrogen, a special flavor of it if you will, which we call an isotope.
+And we're going to combine them to create new particles.
+And we can only get that combination of particles to happen if they are in a plasma.
+What's your favorite exhibit at the science museum? I love the lightning show, I think it's so cool.
+You probably have learned in school about three states of matter. Solid, liquid and gas.
+Absolutely, we take the gas, and we add heat, and we get a plasma.
+And a plasma is a state of matter where you have an ionized gas.
+If we break down that gas, if we add enough energy to ionize it, where you can take the electrons and the ions and the atom and separate them, and now there's this soup of charged particles that are moving around, that's the plasma.
+And it is what creates the beautiful light in lightning.
+So you've already seen a plasma in fact.
+So I'm gonna show you this fun demonstration.
+You've probably seen one of these before, right? That's so cool. Yeah.
+So the way this is happening is this glass ball here is a container for our plasma.
+And we've taken most of the air out of the container, so there's not a lot of particles inside the glass ball, and very, very low temperature plasma.
+So it's continuously ionizing and then recombining, and becoming neutral again.
+And we see those energy transitions as the visible light.
+So if we're gonna put this plasma to use and do something helpful with it, like maybe make some clean electricity, we would have to control it.
+And another word for controlling it is confining it.
+So let me turn this off and set it back down.
+You're probably wondering what is this thing on this table? It's a model of a tokamak, and that's the name of a device that I work on with the goal of creating clean energy.
+Have you played with magnets in school? Okay. We've learned about how it has to be a positive and negative charge.
+And we've done those things where you can like put 'em with something in between 'em, and just move one and the other will always follow.
+This is all very important to sort of understand how we would create a container that would let us hold a plasma in place and control it.
+Have you ever played around with an electromagnet in class? It's a coil of wire, much like this big red coil of wire right here.
+And when we push an electrical current through this wire, it creates a magnetic field that goes around the wire perpendicular.
+So if you want to know the direction of the magnetic field that's being created by pushing the current through the wire, put your thumb in the direction of the current and then curl your fingers like this.
+Yeah, and that's the right hand rule.
+So if we push the current this way we're creating a magnetic field in this perpendicular direction.
+So if I drive a current in this red wire like this, which direction will the magnetic field go? Yeah, exactly, perpendicular.
+And if I drive the current in this green wire, which direction will it go? Exactly, yeah, the long way, perpendicular.
+Now this is a bit of a trickier one.
+The blue wire is gonna act like a transformer action.
+And so by changing the current in the blue coil, we are going to be able to run a current in this direction around the tokamak.
+And now think back to how the wires worked.
+If I have a current going like this, where's the magnetic field? That way.
+Exactly, back this way, the short way around the tokamak.
+We can now put together the pieces and understand the three magnetic fields that we need to confine a plasma in our tokamak.
+So our plasma will be inside this vessel in the shape of a donut.
+What could the tokamak be used for in like real life? I'm so glad you asked.
+So what we want to use the tokamak for in real life is to confine a super hot plasma, and we're talking a hundred million, 150 million degrees.
+Because the plasma is so very hot, the particles have enough energy to interact with one another and fuse.
+When those fusion reactions occur, we are releasing energy that's inside the nucleus, and we can harness that energy to make clean electricity.
+[dramatic music] So what have you heard about fusion already before today? The impeding joke is that, you know, we've looked forward to fusion for a long time, but you're not exactly, you're not in there yet.
+But if we do ever get there, it would solve a lot of our energy problems in a dramatic way.
+Do you have any idea about any of the challenges? Like why has it taken us so long to get to fusion? Making a star on earth is not easy.
+So we are trying to bring a star to earth.
+We are not going to be using hydrogen the way our star in our solar system, our sun, uses hydrogen to make helium and generates fusion energy that way.
+Instead on earth we're gonna be using isotopes of hydrogen, deuterium and tritium.
+What do you know about charged particles? If I want to try and push two positively charged particles together, two protons together, what do you think is gonna happen? They repel each other and they don't like being close together, so they push back by that force.
+What we're gonna call the pushback is a Coulomb interaction, or a Coulomb collision.
+So you can sort of imagine if I were to take a deuteron and a triton, and so those are the positively charged ions of deuterium and tritium, and I try and combine them together, those two positively charged particles just sort of bounce off of each other.
+So we have to give them enormous amounts of energy, and it has to do with getting up to very high temperatures.
+So we're talking about over 100 million degrees Celsius.
+And we typically put that into a an energy unit that we use a lot in plasma physics called an electron vault.
+And so we describe being up at 100 million degrees that we're at sort of 15 kiloelectron volts.
+So that's very, very hot temperature.
+But the other thing we need is a lot of particles.
+That's the density.
+We are able to combine a deuteron and a triton in a fusion reaction at lower temperatures, at lower energies than other fuel.
+And this has to do with some very nice properties of the deuteron and the triton that when we get them close enough to one another to fuse, there's actually a resonance which is predicted by quantum mechanics, and that really helps have a little bump up in the cross section for the deuterium-tritium fusion reaction.
+Compared to just hydrogen. Yes, exactly, exactly.
+That little bump up is good for us.
+Because it means that we have a higher probability of getting the deuterium and the tritium to fuse than otherwise at those manageable temperatures.
+And when we say manageable, for fusion scientists, yeah, 50 million, a hundred million, 150 million Celsius.
+So the problem you described is that we get to those high temperatures, we have dense plasma, but the problem is the hotter the plasma is, the more likely it is the heat to get sucked out of it by.
+Absolutely, yeah, absolutely.
+So that the plasma itself is not staying hot enough for the time we need it to stay.
+We've come so far in the study of magnetically confined plasmas, which is what I work on, that we sort of tamed all the other types of major instabilities that would cause loss of the plasma.
+So you might be asking yourself what is the energy that's coming out of the fusion reaction? So we've got the deuteron and we've got the triton, and so they combine in a fusion reaction, and that produces a neutron and a helium nucleus.
+But the neutron doesn't have any charge.
+Yeah, it comes out. Exactly.
+So it comes right out.
+And it's the kinetic energy of the neutron.
+And we want it to interact with our overall energy system.
+And as it interacts with that material, it heats the material up.
+It transfers its kinetic energy to this material.
+Take that thermal energy and run a turbine, run a generator, and convert it into electricity.
+So once you get to that stage, it starts to look a lot like any other thermal power plant.
+Whether it's fission or natural gas.
+So a fusion plant could basically be the plasma core coming in, setting it in place, and driving your thermal system to make electricity.
+We often call it an alpha particle.
+And that is a charged particle, right.
+So it's actually going to stay in the plasma.
+It's an energetic particle compared to the fuel.
+So it actually is going to give its kinetic energy back to the fuel via Coulomb collisions.
+So now they're good, now we like them.
+So you get this kind of self-sustaining cycle.
+Yes, you you said exactly the right word, self-sustaining.
+[dramatic music] I am in soft condensed matter physics, and my research kind of dips into material science, but I feel like people are always asking me about fusion.
+What are they asking you about fusion? So usually people ask me like, do you think that we'll ever really replace all of our other energy sources with fusion? I think that it actually has a lot of mystery around it, because the fuel for fusion is a plasma, and we don't experience plasmas on earth in our everyday life.
+They exist in space, at the event horizon of a black hole, in the solar wind, in our sun, or very rapid events, like lightning is also sort of a very weakly ionized plasma.
+Even among plasmas there are so many different kinds of plasmas.
+There are low temperature, higher density plasmas.
+There are of course the astrophysical plasmas, and space plasmas, and then there are fusion plasmas.
+They are predominantly fully ionized plasmas.
+They are also plasmas where we have a certain ability to basically kick up micro-instabilities.
+So they're plasmas which are held in a stable enough state by strong external magnetic fields confining the plasma into a donut shape.
+And this has a lot of advantages for us, because charged particles want to follow the magnetic field lines.
+But things start to get really interesting when we're no longer thinking about individual particle motions in the plasma.
+And instead we start to think about collective effects.
+It's never occupied any space in my mind to think about what happens when you have something so high temperature and like precisely confined, and now you have to deal with presumably turbulence.
+Plus magnetic fields.
+When we start thinking about turbulence in the plasma, we can no longer even think about the plasma as a single fluid.
+Instead we have to consider electron fluid and ion fluid separately.
+We have to use a full blown kinetic equation to explain how this state of matter is behaving.
+Because we have collisions.
+So we have to add collisions back in to understand and track how all the particles are moving, and how these collective motions, this turbulence can get kicked up.
+So that's pretty intractable, right.
+I mean if people talk about simulating that system and following those particles, it's probably gonna take millions and millions of years on even the fastest supercomputer.
+So one really big advance in plasma theory over the last I'd say three or four decades has been the development of a gyrokinetic theory that we use to model the micro-turbulence in the plasma and get that under control.
+And the reason it's so important to get the turbulence under control and understand it is because turbulence is the primary heat loss mechanism.
+the primary way that heat is transported from hot to cold across confining field lines in a magnetic confinement system.
+Being able to study it, measure it and predict how it's going to behave is really one of the big hurdles to overcome.
+Could you say the name of the model again? Absolutely, so it's a gyrokinetic model.
+Gyrokinetic. And we talked about how challenging it would be to follow every particle in space and know its position, and know its velocity at all times.
+So what gyrokinetics actually does as a theory is it takes advantage of the fact that when we drop a charged particle into a strong external magnetic field, the Lorentz force bends that particle's trajectory into a helix.
+And so now if we know that wherever the field line is going that particle is following it in this helical, in this corkscrew trajectory, we can say aha, I no longer have to worry about following that particle's velocity around in a circle, 'cause at every point in time I know it's going in a circle.
+So we average that out, we do a gyro average, because the motion is typically called a gyro frequency.
+That's how fast it goes around the field line.
+And it has a particular radius of that helix called the gyro radius, because it's just gyrating.
+So what we know from studying the plasma and making direct measurements of the turbulence and also what comes from the simulations is the scale size of the turbulence is about five to 10 gyro radii.
+You said that density and temperature fluctuations are what drive these these turbulent flows that end up reducing your heat transport.
+Is there anything that can be done to minimize those density and heat fluctuations, or is that just like down to the statistics of things? I love the way you framed it, because originally like in the '60s and '70s, people did not think that micro-turbulence would even be a problem.
+But as we started to make more and more measurements and build higher and higher basically performing devices, we started to see nothing is matching the expected performance.
+And that's because people thought that Coulomb collisions between the particles, just interactions of charged particles, would dominate cross-field transport, right, what happens with turbulence is it in enhances the transport of particles, because now we're not just talking about this random walk of collisions, we're talking about conduction, convection, eddy, structures, microstructures, flow generation, very complex soup of activity.
+Turbulence for me like really hits on one of the most beautiful parts about physics.
+Like it's so complex.
+And that's what makes it like visually beautiful.
+That's what makes it mathematically interesting, and it's also what keeps us so puzzled about it.
+Yeah, turbulence is beautiful and so fun to study.
+[dramatic music] I'm a research scientist at MIT, and I work on computational plasma physics, basically doing simulations that can accurately describe what's going on inside these fusion reactors.
+Like tokamaks and accelerators, they have plasmas that are magnetically confined.
+So we're trying to predict how the plasma behaves, so that we can build in the future better reactors.
+What's one of the most exciting parts of your research right now? Something that we were not able to do until very recently was actually using first principle simulations to predict the performance and efficiency of reactors.
+The developments in plasma theory and computation and simulation, that has been thoroughly validated over the years, in many experiments, and now we're using those simulations to inform how to best operate our future reactors.
+It's very exciting because so far we've been getting great results.
+It's very, very promising.
+Where we're going with a lot of the experiments right now is trying to produce some maybe outside the box datasets that we haven't seen before, and then of course ultimately compare them to the simulations and do a bit of this validation maybe where we're not just looking under the lamppost, where we're going a little bit outside the comfort zone.
+That means going from measurements really sort of more in the middle of the plasma, at about mid-radius, pushing all the way out to the edge, where the turbulence starts to become very different in its nature, it becomes a lot more electromagnetic, it becomes sometimes larger in scale, just physical scale size.
+And some of the things we're starting to find was that turbulence features and turbulence characteristics in the edge of some of these high performance plasmas don't always behave the way we think they do.
+So as we think about pushing our measurements and our study of the turbulence from the core to the edge, how does that influence what you're working on now? So the edge of the plasma gives you the boundary condition really for the simulations that then we do in the core.
+You need to start somewhere determining what is the temperature very close to the wall, really, of the machine.
+And when when you get that temperature, then you can actually integrate inwards with the rest of core model.
+It's gonna be very exciting in the next years, when we can actually make some measurements in those devices and and compare them to simulations, so that we can have more trust in the predictions for the next step for the reactors, the power plants.
+Maybe both of us in our own way answer the question that we always get asked, when is fusion gonna happen? When are we gonna have fusion electricity on the grids? It's hard to say when it's gonna arrive.
+I think that with the arrival of private companies and then venture capital, that is accelerating things a lot.
+So I don't think fusion is 30 years away and it will always be, I don't think that's true anymore.
+So you're saying lots of private companies have entered.
+And that's injected a lot of private funding, not just government funding. Yeah.
+The nature of private ventures is, you know, you want to get commercial as soon as possible.
+So I think they're accelerating things.
+They're actually taking advantages of discoveries in other fields.
+Like in the case of High Field Fusion with Commonwealth Fusion Systems and Tokamak Energy, those companies, they're using a high temperature superconductor.
+It's an advancement that has come recently from material science, right.
+Or machine learning, artificial intelligence.
+Those breakthroughs in other fields I think can really accelerate fusion.
+So I think we're seeing, the next decades are gonna be very exciting.
+We have to the diversify the different research that we do so that at the end we come with the most optimum solution for our fusion power plant.
+I agree, yeah, I think having multiple stakeholders who are all driven by different missions and different purposes working synergistically is exciting.
+When I'm asked like, okay, what's the timeline for fusion and why is now any different than five years ago or 10 years ago, why is now that we want for fusion? My answer is it's finally, for the first time, all the pieces of the puzzle are here.
+We've advanced really the basic physics understanding so far that we have got the predictive capabilities, but we also have alignment with policy and science drivers that we didn't really have before.
+That's I think what can get us there.
+Maybe a demonstration of net electricity in a decade.
+Is that the thing folks are pushing for? We're pushing for it.
+Yeah, there are challenges still to overcome, as you know.
+And hopefully we find solutions to those when we have new experiments and when we actually push forward, yeah.
+The potential is huge.
+[dramatic music] Fusion energy research is an extraordinarily exciting field that is pushing the frontiers of what we can do experimentally, as well as what we can do computationally.
+Fusion might be closer than we think, and tremendous advances are being made every day.
+[dramatic music] Musician Explains One Concept in 5 Levels of Difficulty Expert Explains One Concept in 5 Levels of Difficulty - Blockchain Oculus' John Carmack Explains Virtual Reality in 5 Levels of Difficulty Biologist Explains One Concept in 5 Levels of Difficulty - CRISPR Neuroscientist Explains One Concept in 5 Levels of Difficulty Astronomer Explains One Concept in 5 Levels of Difficulty Laser Expert Explains One Concept in 5 Levels of Difficulty Sleep Scientist Explains One Concept in 5 Levels of Difficulty Physicist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains One Concept in 5 Levels of Difficulty Hacker Explains One Concept in 5 Levels of Difficulty Nanotechnology Expert Explains One Concept in 5 Levels of Difficulty Physicist Explains Origami in 5 Levels of Difficulty Computer Scientist Explains Machine Learning in 5 Levels of Difficulty Neuroscientist Explains Memory in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty Astrophysicist Explains Black Holes in 5 Levels of Difficulty Computer Scientist Explains Fractals in 5 Levels of Difficulty College Professor Explains One Concept in 5 Levels of Difficulty Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty Computer Scientist Explains One Concept in 5 Levels of Difficulty UMass Professor Explains the Internet in 5 Levels of Difficulty Mathematician Explains Infinity in 5 Levels of Difficulty Theoretical Physicist Explains Time in 5 Levels of Difficulty MIT Professor Explains Nuclear Fusion in 5 Levels of Difficulty Harvard Professor Explains Algorithms in 5 Levels of Difficulty Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

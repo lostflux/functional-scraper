@@ -1,0 +1,59 @@
+Open Navigation Menu To revisit this article, visit My Profile, then View saved stories.
+Close Alert Backchannel Business Culture Gear Ideas Science Security Merch To revisit this article, select My Account, then View saved stories Close Alert Search Backchannel Business Culture Gear Ideas Science Security Merch Podcasts Video Artificial Intelligence Climate Games Newsletters Magazine Events Wired Insider Jobs Coupons Robots & Us: A Brief History of Our Robotic Future About Released on 04/13/2017 (whirring) [Narrator] We live in an age of self-driving vehicles, robots that work alongside us, and we rely on seemingly omniscient digital systems.
+[Computer] Tomorrow in San Francisco it'll be sunny.
+[Narrator] Advances in algorithms, sensors and automation technology stand to upend nearly every aspect of modern life from work.
+Robots are coming out of their cages.
+[Narrator] To healthcare.
+[Computer] Pigmented lesion benign.
+[Narrator] And even how we think of ourselves.
+As a tool artificial intelligence might extend human skills or it might make them obsolete.
+Your kitchen knife can be used to make great dinners.
+It can be used to kill somebody.
+And it's up to you to make that choice.
+AI is a tool just like this except it's a mental tool.
+[Narrator] So, how did we get here and where are we going? (upbeat music) As early as the 1940s the first modern automation began to show up in factories.
+Computers were still decades away from becoming personal but by the late 50s and early 60s computer scientists were already trying to figure out the big question.
+Will robots make our lives better or will they replace us entirely? On one side was John McCarthy with artificial intelligence, or AI.
+You know, it was roughly the study of a set of technologies that would sort of mimic or replicate human capabilities, whether they were intellectual or physical.
+[Narrator] On the other side was Doug Engelbart's idea of intelligence augmentation, or IA.
+And that sort of led to the things that would become the internet and personal computing.
+So, you have these two philosophies and it's interesting they sort of form both a dichotomy in a paradox.
+If you extend the human in an IA sense of way, intelligence augmentation, you need fewer humans, or you can just replace them outright.
+[Narrator] Robots and thinking machines have long been a science fiction fantasy.
+But by the 1960s they were actually becoming a reality.
+[Narrator] At SRI we are experimenting with a mobile robot.
+We call him Shakey.
+[Narrator] A wobbly, incredibly slow reality.
+The first real effort to build an autonomous machine that could move and reason and act in its environment was Shakey which was a project proposed by a physicist whose name was Charlie Rosen at SRI in 1966.
+He persuaded the Pentagon by telling them that they could work on a prototype of something that might do reconnaissance or be a guard.
+At a certain point they asked him how many guns it might carry and he said well, two, three, how many do you need? [Narrator] While Shakey never carried guns it did mark the beginning of a new era of computer science.
+It was important because it was a platform on which some of the algorithms that would later be used by self-driving cars, the kinds of things that you use in your smartphone, there was an algorithm called A Star, that was a navigation algorithm, is the sort of granddaddy of the way we get around with our smartphones, and I think importantly too that the first work on speech recognition that was significant was done in Shakey because they were looking for some way to interact with the machine.
+[Narrator] Since the days of Shakey computers have advanced remarkably in their ability to think for themselves.
+Advanced AI has beaten humans at their own games, from chess to Jeopardy.
+(clapping) Perhaps most tangibly of all cars began driving themselves.
+12 years ago the idea that a computer could drive a car was completely unthinkable.
+People felt something as intuitive and as hard to even explain as driving a car was reserved for the human race.
+[Narrator] Then the Federal Defense Agency DARPA put on a self-driving car challenge.
+Stanford's team, led by Thrun, won by building Stanley, a robot car that drove itself 132 miles across the desert.
+Our secret ingredient was AI, it was machine learning.
+We actually trained the robot to do the right thing.
+Back in the day we trained it how to vary its speed, where to steer a steering wheel and so on.
+[Narrator] Since then AI and advanced automation have exploded.
+Dozens of companies are now testing self-driving vehicles, most of us carry around smartphones loaded with AI-powered tools, and last year Deep Mind's AlphaGo, a neural network beat us at our hardest game, Go.
+That kind of proves to me that basically everything can be done.
+Whatever you say can be done wait a little and it can be done.
+[Narrator] AI and automation promise faster and safer solutions to humanity's problems.
+I see this world where all these basic things are so affordable and so good to us that they can free our minds to develop a humanity that's completely unimaginable today.
+[Narrator] But others warn of a jobless future.
+It's not just about factories, and when it is factories, they're becoming far more advanced, but it's also, you know, white collar things, it's jobs dones by journalists and radiologists.
+[Narrator] While there have been advances there are still limitations.
+Some of the most cutting-edge autonomous robots can barely do what a human toddler can do.
+This is McCarthy's paradox, John McCarthy, who was the person who coined the terms AI noted this originally.
+He liked to put his hand into his pocket and pull out a dime, and you know, that's something we do without any thought.
+It defies the most sophisticated robotic arm to this day.
+[Narrator] But what AI and automation may do could forever change the world and our place in it.
+For the next five episodes of Robots and Us we'll be exploring how these technologies could impact everything, from how we work or get around, to how we take care of our bodies.
+[Computer] How did it go with your meds today? [Narrator] To how we think of ourselves as humans.
+(upbeat electronic music) President Barack Obama on How Artificial Intelligence Will Affect Jobs WIRED's Top Gadget Stories of 2016 President Barack Obama on the Future of AI President Barack Obama on Bureaucracy VS. Moonshots President Barack Obama on How We'll Embrace Self-Driving Cars President Barack Obama on What AI Means for National Security WIRED by Design WIRED25: Kai-Fu Lee and Fei Fei Li On What's Next for Artificial Intelligence WIRED25: Sebastian Thrun & Sam Altman Talk Flying Vehicles and Artificial Intelligence WIRED25: CEO Susan Wojcicki On Making YouTube A Better Place Facebook X Pinterest YouTube Instagram Tiktok More From WIRED Subscribe Newsletters Mattresses Reviews FAQ Wired Staff Coupons Black Friday Editorial Standards Archive Contact Advertise Contact Us Customer Care Jobs Press Center RSS Accessibility Help Condé Nast Store Do Not Sell My Personal Info © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights.
+WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices Select international site United States LargeChevron UK Italia Japón Czech Republic & Slovakia

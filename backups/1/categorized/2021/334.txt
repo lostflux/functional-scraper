@@ -1,0 +1,70 @@
+Sparsity provides a competitive advantage | Nature Machine Intelligence
+2021
+https://www.nature.com/articles/s42256-021-00387-y
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+Advertisement View all journals Search Log in Explore content About the journal Publish with us Sign up for alerts RSS feed nature nature machine intelligence news & views article Download PDF News & Views Published: 17 September 2021 SPIKING NEURAL NETWORKS Sparsity provides a competitive advantage Charlotte Frenkel ORCID: orcid.org/0000-0002-1879-0288 1 Nature Machine Intelligence volume 3 , pages 742–743 ( 2021 ) Cite this article 1166 Accesses 5 Citations 15 Altmetric Metrics details Subjects Electrical and electronic engineering Machine learning Mathematics and computing Neuroscience Neuromorphic chips that use spikes to encode information could provide fast and energy-efficient computing for ubiquitous embedded systems. A bio-plausible spike-timing solution for training spiking neural networks that makes the most of sparsity is implemented on the BrainScaleS-2 hardware platform.
+You have full access to this article via your institution.
+Download PDF Download PDF The field of neuromorphic engineering aims to replicate and leverage the organizing principles of the brain in circuit architecture and data representation, which could lead to order-of-magnitude energy savings compared with today’s state-of-the-art digital processors. Essential ingredients for neuromorphic approaches are bringing computation close to memory, as with the brain’s tightly interconnected neuron and synapse elements, and encoding information in the form of all-or-none binary events known as ‘spikes’ 1.
+ Wide adoption of neuromorphic processing devices is currently hindered by three main challenges. First, although neuromorphic hardware has been shown to outperform general-purpose digital processing devices such as CPUs and GPUs on specific tasks 2 , achieving power-performance-area trade-offs comparable to those of optimized machine-learning accelerator integrated circuits remains an open challenge 3.
+ Second, embedding intelligence on-chip requires the design of new algorithms for learning and autonomous adaptation within constrained power budgets 4.
+ Finally, although analogue circuit implementations of neuromorphic architectures provide accurate emulations of brain dynamics, new techniques are needed to shed light on the long-standing question of whether noise and mismatch are bugs or features 5.
+ Writing in Nature Machine Intelligence , Göltz, Kriener et al. propose a training algorithm that leverages the sparsity of single-spike timings 6 , which may help to solve these three challenges at once.
+For spiking neural networks (SNNs), as for conventional non-spiking artificial neural networks (ANNs), competitive accuracy results on standard benchmarks are usually achieved with the standard error backpropagation training algorithm. However, in contrast to ANNs, specific techniques are needed to backpropagate error gradients in SNNs, as the spiking neuron activation function is not differentiable. Solutions to this problem depend on how information is represented with spikes (Fig.
+1a ). In the rate code, neuron activations are encoded directly into spike firing rates, which leads to conceptually simple solutions such as the mapping of pre-trained ANNs to equivalent SNNs 7.
+ However, each spike encodes only a marginal amount of information, which implies redundant computation and low efficiency. Rate-coded SNNs are thus unlikely to achieve a competitive advantage against ANNs 8.
+On the other end of the spectrum, the time-to-first-spike (TTFS) code restricts the number of spikes per neuron to at most one: the lower the neuron activation, the higher the latency of its single output spike. The TTFS code thus maximizes sparsity and is a powerful encoding technique for static stimuli, such as images. Importantly, using the TTFS code allows sidestepping the activation function non-differentiability issue: derivatives can be applied directly to the spike times instead of to the neuron activation functions. So far, previous TTFS-based training algorithms were derived only for non-leaky integrate-and-fire neuron models 9 , 10.
+ However, neurons without leakage in their membrane potential have an infinite memory of past events, which is not biologically plausible. Moreover, leakage was shown to be useful for processing temporally changing signals by filtering out noise while emphasizing locality in time and coincidence of multiple stimuli 11.
+ Göltz, Kriener et al. propose an exact derivation of the error backpropagation algorithm for TTFS-encoded multi-layer SNNs of leaky integrate-and-fire neurons 6.
+a , The rate code and the TTFS code lie on two extreme levels of sparsity. Although it is a widespread choice for its simplicity, the rate code (left) encodes the neuron activations into spike rates. The most active neurons have the highest activity, which results in inefficient spike encoding. By contrast, with the TTFS code (right), the spiking activity of all neurons is kept to a minimum with at most a single spike per neuron. Only the latency is used to encode the activation.
+b , TTFS-based learning of static stimuli can be deployed in a straightforward way to neuromorphic hardware with a chip-in-the-loop setup, in which the computation of weight updates is offloaded to an external workstation. The proposed algorithm has the advantage that only the spike timing information is needed to compute the synaptic weight updates. A demonstration is proposed with the BrainScaleS-2 neuromorphic platform for the classification of TTFS-encoded handwritten digits.
+Full size image The algorithm is demonstrated in neuromorphic hardware following a ‘chip-in-the-loop’ setup based on the BrainScaleS-2 platform 12 , with synaptic weight updates being computed off-chip (Fig.
+1b ). Interestingly, the only information needed for the external workstation to compute the weight updates is the spike timings of the SNN deployed on BrainScaleS-2. This leads to a twofold advantage. First, as opposed to software implementations, weight updates can be carried out in an online manner as the activity-driven SNN dynamics unfold in hardware. Second, the algorithm does not depend on the exact values of internal network parameters, which are subject to mismatch in analogue hardware. Instead, by means of the spike timings actually generated by the hardware, robust performance can be achieved as the network learns to compensate for this variability, and even potentially to exploit it. These properties allow the proposed chip-in-the-loop setup to compare favourably, in terms of accuracy, latency and energy efficiency on the MNIST dataset of handwritten digits, to a GPU and to other silicon neuromorphic platforms.
+However, the proposed algorithm is still too complex to be amenable to a fully on-chip hardware implementation, without the help of an external workstation. To alleviate this issue, Göltz, Kriener et al. also propose a simplified version of the weight update equations 6.
+ With a low complexity suitable for on-chip online learning, applications can be envisioned in edge computing, such as in autonomous adaptive smart sensors. In addition, the biological plausibility of the learning rule is supported by two elements. First, it relies only on pre- and post-synaptic spike timings available locally at the synapse, together with an error-based modulation factor. Second, the TTFS encoding also comes in line with the fact that only sparse codes could explain the fast reaction times observed in the brain, such as for visual processing 13.
+Although the TTFS code recently enabled competitive power-performance-area trade-offs in neuromorphic hardware against optimized machine-learning accelerator integrated circuits 14 , its limitation to static stimuli shows that it is unlikely to be the best way to exploit the temporal nature of spikes. Indeed, just as for the brain, some of the most promising use cases for neuromorphic silicon devices involve spatiotemporally encoded stimuli, such as speech or biosignals 3 , 15.
+ Importantly, the theoretical framework proposed by Göltz, Kriener et al. is flexible and can be generalized to more-complex and richer spike-based encodings 6.
+ Therefore, combined with a hardware-algorithm co-design approach for sparse on-chip spatiotemporal learning, this framework may be an important stepping-stone for spiking neuromorphic hardware to finally demonstrate a competitive advantage over conventional neural network approaches.
+References Indiveri, G. & Liu, S.-C.
+Proc. IEEE 103 , 1379–1397 (2015).
+Article Google Scholar Davies, M. et al.
+Proc. IEEE 109 , 911–934 (2021).
+Article Google Scholar Frenkel, C., Bol, D. & Indiveri, G. Preprint at https://arxiv.org/abs/2106.01288 (2021).
+Murmann, B. & Höfflinger, B. (eds).
+NANO-CHIPS 2030: On-chip AI for an Efficient Data-driven World (Springer, 2020).
+Chicca, E., Stefanini, F., Bartolozzi, C. & Indiveri, G.
+Proc. IEEE 102 , 1367–1388 (2014).
+Article Google Scholar Göltz, J. et al.
+Nat. Mach. Intell.
+https://doi.org/10.1038/s42256-021-00388-x (2021).
+Rueckauer, B., Lungu, I.-A., Hu, Y., Pfeiffer, M. & Liu, S.-C.
+Front. Neurosci.
+11 , 682 (2017).
+Article Google Scholar Davidsol, S. & Furber, S. B.
+Front. Neurosci.
+15 , 651141 (2021).
+Article Google Scholar Mostafa, H.
+IEEE Trans. Neural Netw. Learn. Syst.
+29 , 3227–3235 (2017).
+Google Scholar Kheradpisheh, S. R. & Masquelier, T.
+Int. J. Neural Syst.
+30 , 2050027 (2020).
+Article Google Scholar Fourcaud-Trocmé, N., Hansel, D., Van Vreeswijk, C. & Brunel, N.
+J. Neurosci.
+23 , 11628–11640 (2003).
+Article Google Scholar Schemmel, J., Billaudelle, S., Dauer, P. & Weis, J. Preprint at https://arxiv.org/abs/2003.11996 (2020).
+Thorpe, S., Delorme, A. & Van Rullen, R.
+Neural Netw.
+14 , 715–725 (2001).
+Article Google Scholar Frenkel, C., Legat, J.-D. & Bol, D.
+IEEE International Symposium on Circuits and Systems (ISCAS, 2020).
+Indiveri, G. & Sandamirskaya, Y.
+IEEE Signal Process. Mag.
+36 , 16–28 (2019).
+Article Google Scholar Download references Author information Authors and Affiliations Institute of Neuroinformatics, University of Zurich and ETH Zurich, Zurich, Switzerland Charlotte Frenkel Authors Charlotte Frenkel View author publications You can also search for this author in PubMed Google Scholar Corresponding author Correspondence to Charlotte Frenkel.
+Ethics declarations Competing interests The author declares no competing interests.
+Rights and permissions Reprints and Permissions About this article Cite this article Frenkel, C. Sparsity provides a competitive advantage.
+Nat Mach Intell 3 , 742–743 (2021). https://doi.org/10.1038/s42256-021-00387-y Download citation Published : 17 September 2021 Issue Date : September 2021 DOI : https://doi.org/10.1038/s42256-021-00387-y Share this article Anyone you share the following link with will be able to read this content: Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiative You have full access to this article via your institution.
+Download PDF Download PDF Associated content Fast and energy-efficient neuromorphic deep learning with first-spike times J. Göltz L. Kriener M. A. Petrovici Nature Machine Intelligence Article Advertisement Explore content Research articles Reviews & Analysis News & Comment Videos Current issue Collections Follow us on Twitter Sign up for alerts RSS feed About the journal Aims & Scope Journal Information Journal Metrics About the Editors Our publishing models Editorial Values Statement Editorial Policies Content Types Contact Publish with us Submission Guidelines For Reviewers Language editing services Submit manuscript Search Quick links Explore articles by subject Find a job Guide to authors Editorial policies Nature Machine Intelligence ( Nat Mach Intell ) ISSN 2522-5839 (online) nature.com sitemap About Nature Portfolio About us Press releases Press office Contact us Discover content Journals A-Z Articles by subject Nano Protocol Exchange Nature Index Publishing policies Nature portfolio policies Open access Author & Researcher services Reprints & permissions Research data Language editing Scientific editing Nature Masterclasses Live Expert Trainer-led workshops Research Solutions Libraries & institutions Librarian service & tools Librarian portal Open research Recommend to library Advertising & partnerships Advertising Partnerships & Services Media kits Branded content Career development Nature Careers Nature Conferences Nature events Regional websites Nature Africa Nature China Nature India Nature Italy Nature Japan Nature Korea Nature Middle East Privacy Policy Use of cookies Your privacy choices/Manage cookies Legal notice Accessibility statement Terms & Conditions Your US state privacy rights © 2023 Springer Nature Limited Close Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+Close Get the most important science stories of the day, free in your inbox.

@@ -1,0 +1,14 @@
+Artificial Intelligence View All AI, ML and Deep Learning Auto ML Data Labelling Synthetic Data Conversational AI NLP Text-to-Speech Security View All Data Security and Privacy Network Security and Privacy Software Security Computer Hardware Security Cloud and Data Storage Security Data Infrastructure View All Data Science Data Management Data Storage and Cloud Big Data and Analytics Data Networks Automation View All Industrial Automation Business Process Automation Development Automation Robotic Process Automation Test Automation Enterprise Analytics View All Business Intelligence Disaster Recovery Business Continuity Statistical Analysis Predictive Analysis More Data Decision Makers Virtual Communication Team Collaboration UCaaS Virtual Reality Collaboration Virtual Employee Experience Programming & Development Product Development Application Development Test Management Development Languages Google’s OnHub router can now control Philips Hue lights Share on Facebook Share on X Share on LinkedIn The TP-LINK OnHub router.
+Google today said that its OnHub internet router can now connect to and allow users to control Philips Hue lights.
+They’re a common example of an Internet of Things (IoT) device, and now that OnHub can control it, the router is looking smarter.
+“Now anyone connected to your OnHub can type ‘On.Here’ in a computer, tablet, or mobile browser and control the most popular features of your Philips Hue lights from there,” Google product manager Ben Brown wrote in a blog post.
+Google first introduced the TP-LINK-made OnHub a year ago.
+ An OnHub from Asus appeared in October.
+ OnHub has since gotten support for the IFTTT app-connecting service. And Google has also enhanced it with the introduction of user-customizable shells for the router.
+Routers are not the sexiest hardware for the home. But now Google is pushing one with a simple onboarding experience, and startup Eero has also been getting attention for its network-connected routers that provide better connectivity by creating a mesh network.
+Meanwhile, Amazon’s Alexa voice assistant has been racking up IoT-related skills, and Apple’s upcoming iOS 10 operating system will enable iPhones and iPads to control IoT devices through the Home app.
+To celebrate the OnHub’s first birthday, Google is dropping the price of the TP-LINK OnHub from $199.99 to $179.99 on the Google Store and Amazon.
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact.
+Discover our Briefings.
+VentureBeat Homepage Follow us on Facebook Follow us on X Follow us on LinkedIn Follow us on RSS Press Releases Contact Us Advertise Share a News Tip Contribute to DataDecisionMakers Careers Privacy Policy Terms of Service Do Not Sell My Personal Information © 2023 VentureBeat.
+ All rights reserved.

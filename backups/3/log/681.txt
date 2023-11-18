@@ -1,0 +1,38 @@
+Toggle Navigation News Events TNW Conference 2024 June 20 & 21, 2024 TNW Vision: 2024 All events Spaces Programs Newsletters Partner with us Jobs Contact News news news news Latest Deep tech Sustainability Ecosystems Data and security Fintech and ecommerce Future of work More Startups and technology Investors and funding Government and policy Corporates and innovation Gadgets & apps Early bird Business passes are 90% SOLD OUT 🎟️ Buy now before they are gone → Deep tech DeepMind says its new AI system is the world’s most accurate 10-day weather forecaster Meteorologists believe their field is on the cusp of a revolution A new AI model from Google DeepMind is the world’s most accurate 10-day global weather forecasting system, according to the London-based lab.
+Named GraphCast, the model promises medium-range weather forecasts of “unprecedented accuracy.” In a study published today , GraphCast was shown to be more precise and faster than the industry gold standard for weather simulation, the High-Resolution Forecast (HRES).
+The system also predicted extreme weather further into the future than was previously possible.
+These insights were analysed by the European Centre for Medium-Range Weather Forecasts (ECMWF), an intergovernmental organisation that produces the HRES.
+A live version of GraphCast was deployed on the ECMWF website.
+In September, the system accurately predicted around nine days in advance that Hurricane Lee would make landfall in Nova Scotia.
+The <3 of EU tech The latest rumblings from the EU tech scene, a story from our wise ol' founder Boris, and some questionable AI art. It's free, every week, in your inbox. Sign up now! In contrast, traditional forecasting methods only spotlighted Nova Scotia about six days beforehand. They also provided less consistent predictions of the time and location of landfall.
+Intriguingly, GraphCast can identify dangerous weather events without being trained to find them. After integrating a simple cyclone tracker, the model predicted cyclone movements more accurately than the HRES method.
+Such data could save lives and livelihoods. As the climate becomes more extreme and unpredictable, fast and accurate forecasts will provide increasingly vital insights for disaster planning.
+Matthew Chantry, a machine learning coordinator at the ECMWF, believes his industry has reached an inflection point.
+“There’s probably more work to be done to create reliable operational products, but this is likely the beginning of a revolution,” Chantry said at a press briefing.
+Meteorological organisations, he added, had previously expected AI to be most useful when merged with physics. But recent breakthroughs show that machine learning can also directly forecast the weather.
+How GraphCast works Conventional weather forecasts are based on intricate physics equations.
+These are then adapted into algorithms that run on supercomputers.
+The process can be painstaking. It also requires specialist knowledge and vast computing resources.
+GraphCast harnesses a different technique. The model combines machine learning with Graph Neural Networks (GNNs), an architecture that’s adept at processing spatially structured data.
+To learn the causes and effects that determine weather changes, the system was trained on de cades of weather information.
+Traditional approaches are also incorporated.
+The ECMWF supplied GraphCast with training data from around 40 years of weather reanalysis, which encompassed monitoring from satellites, radars and weather stations.
+When there are gaps in the observations, physics-based prediction methods fill them in. The result is a detailed history of global weather.
+GraphCast uses these lessons from the past to predict the future.
+GraphCast makes predictions at a spatial resolution of 0.25-degrees latitude/longitude.
+To put that into perspective, imagine the Earth divided into a million grid points. At each point, the model predicts five Earth-surface variable and six atmospheric variables. Together, they cover the planet’s entire atmosphere in 3D over 37 levels.
+The variables encompass temperature, wind, humidity, precipitation, and sea-level pressure. They also incorporate geopotential — the gravitational potential energy of a unit mass, at a particular location, relative to mean sea level.
+In tests, the results were impressive. GraphCast significantly outperformed the most accurate operational deterministic systems on 90% of 1,380 test targets.
+The disparity was even starker in the troposphere — the lowest layer of Earth’s atmosphere and the location of most weather phenomena. In this region, GraphCast outperformed HRES on 99.7% of the test variables for future weather.
+GraphCast is also highly efficient. A 10-day forecast takes under a minute to complete on a single Google TPU v4 machine.
+A conventional approach, by comparison, can take hours of computation in a supercomputer with hundreds of machines.
+AI’s future in weather forecasting Despite the promising early results, GraphCast could still benefit from further refinement. In the cyclone predictions, for instance, the model proved accurate at tracking movements, but less effective at measuring intensity.
+Gentry is keen to see how much this can improve.
+“At the moment, that’s an area where GraphCast and machine learning models still lag a little bit behind physical models… I’m hopeful that this can be an area for further improvement, but this shows that it’s still a nascent technology,” he said.
+Those improvements could now come from anywhere, because DeepMind has open-sourced the model code.
+ Global organisations and individuals alike can now experiment with GraphCast and add their own improvements.
+The potential applications are, ironically, unpredictable. The forecasts could, for instance, inform renewable energy production and air traffic routing. But they could also be applied to tasks that haven’t even been imagined.
+“There’s a lot of downstream use cases for weather forecasts,” said Peter Battaglia, Google DeepMind’s research director. “And we’re not aware of all of those.” Story by Thomas Macaulay Senior reporter Thomas is a senior reporter at TNW. He covers European tech, with a focus on deeptech, startups, and government policy.
+Thomas is a senior reporter at TNW. He covers European tech, with a focus on deeptech, startups, and government policy.
+Get the TNW newsletter Get the most important tech news in your inbox each week.
+Also tagged with Artificial intelligence Machine learning data Story by Thomas Macaulay Popular articles 1 New erotic roleplaying chatbots promise to indulge your sexual fantasies 2 UK plan to lead in generative AI ‘unrealistic,’ say Cambridge researchers 3 New AI tool could make future vaccines ‘variant-proof,’ researchers say 4 3D-printed stem cells could help treat brain injuries 5 New technique makes AI hallucinations wake up and face reality Related Articles deep tech ‘We may irreversibly lose control of autonomous AI,’ warn top academics data security Netherlands building own version of ChatGPT amid quest for safer AI Join TNW All Access Watch videos of our inspiring talks for free → deep tech This smart ring claims to be the lightest ever — and the first with haptic navigation sustainability This AI can tell if your home is wasting energy — just by looking at it The heart of tech More TNW Media Events Programs Spaces Newsletters Jobs in tech About TNW Partner with us Jobs Terms & Conditions Cookie Statement Privacy Statement Editorial Policy Masthead Copyright © 2006—2023, The Next Web B.V. Made with <3 in Amsterdam.

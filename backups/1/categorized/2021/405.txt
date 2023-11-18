@@ -1,0 +1,230 @@
+An atomic Boltzmann machine capable of self-adaption | Nature Nanotechnology
+2021
+https://www.nature.com/articles/s41565-020-00838-4
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+Advertisement View all journals Search Log in Explore content About the journal Publish with us Sign up for alerts RSS feed nature nature nanotechnology letters article Download PDF Letter Published: 01 February 2021 An atomic Boltzmann machine capable of self-adaption Brian Kiraly 1 na1 , Elze J. Knol 1 na1 , Werner M. J. van Weerdenburg 1 , Hilbert J. Kappen 2 & … Alexander A. Khajetoorians ORCID: orcid.org/0000-0002-6685-9307 1 Show authors Nature Nanotechnology volume 16 , pages 414–420 ( 2021 ) Cite this article 6742 Accesses 18 Citations 357 Altmetric Metrics details Subjects Magnetic properties and materials Nanoscale devices Spintronics Abstract The quest to implement machine learning algorithms in hardware has focused on combining various materials, each mimicking a computational primitive, to create device functionality. Ultimately, these piecewise approaches limit functionality and efficiency, while complicating scaling and on-chip learning, necessitating new approaches linking physical phenomena to machine learning models. Here, we create an atomic spin system that emulates a Boltzmann machine directly in the orbital dynamics of one well-defined material system. Utilizing the concept of orbital memory based on individual cobalt atoms on black phosphorus, we fabricate the prerequisite tuneable multi-well energy landscape by gating patterned atomic ensembles using scanning tunnelling microscopy. Exploiting the anisotropic behaviour of black phosphorus, we realize plasticity with multi-valued and interlinking synapses that lead to tuneable probability distributions. Furthermore, we observe an autonomous reorganization of the synaptic weights in response to external electrical stimuli, which evolves at a different time scale compared to neural dynamics. This self-adaptive architecture paves the way for autonomous learning directly in atomic-scale machine learning hardware.
+You have full access to this article via your institution.
+Download PDF Download PDF Main There is a growing pursuit to create brain-inspired devices, or so-called neuromorphic architecture, to perform machine learning tasks directly in hardware. These approaches are largely based on using the complex electronic 1 , 2 , 3 , magnetic 4 , 5 , 6 and/or optical 7 responses of various solid-state materials to mimic a machine learning model. Most often, only particular aspects of these models can be captured in a given system, thus requiring hybrid schemes that couple different material units, circuitry and/or external computers in a serial-like fashion to solve a machine learning problem. In such systems, learning is often accomplished by combining the computational primitives of the materials with off-line computers to label data and implement learning algorithms 8 , 9 , 10.
+ Yet, one of the landmark goals of neuromorphic architecture is to create scalable parallel computing based on autonomous circuits capable of ‘on-chip’ learning 11 , 12 , 13 , eliminating the reliance on external computers. To this end, scalable constructions composed of a single material unit will require materials that exhibit dynamical behaviour in both neurons and synapses and self-adapt based on data. Addressing these challenges requires a fundamental understanding of how machine learning functionality, such as plasticity, can emerge from the complex dynamics of coupled stochastic ensembles. In this way, new materials, designed for machine learning can drastically improve energy efficiency and computational capabilities; furthermore, these platforms will also provide a vehicle for newly predicted functionality, such as quantum machine learning 14 , 15 , 16.
+Certain classes of machine learning models, such as the Boltzmann machine 17 (BM), are classified as energy-based models, which provide a natural link to physics-based phenomena in materials. The BM, as well as the Hopfield model, are formally equivalent to an interacting Ising spin system where fluctuating spins represent neurons that are linked by memory-bearing weighted interactions that serve as synapses 18.
+ The realization of the BM relies on the creation of a multi-modal energy landscape, strongly linked to the concept of spin glasses 19 , 20 , 21.
+ Yet, to date there are no well-known spin-based materials that exhibit a tuneable multi-well energy landscape, let alone the full functionality of a BM. Magnetic atoms on surfaces have emerged as a model platform to create tuneable networks of Ising spins 22 , 23 , 24 , 25 that can exhibit stochastic dynamics 26 , 27.
+ However, the main challenge towards creating magnetic materials that mimic a BM is related to the physical nature of the magnetic exchange interaction: often nearest-neighbour interactions dominate, resulting in robust, well-ordered, bistable ground states 26 , 27 and preventing the formation and adaption of a multi-well potential. Therefore, creating a fully atomic-scale platform in which the spin dynamics of coupled atoms represents a Boltzmann machine requires a new fundamental insight into how to realize (1) a multi-well energy landscape that is (2) tuneable via external synapses and (3) inherently self-adaptive based on a suitable learning protocol.
+Here, we create a model Boltzmann machine capable of self-adaption realized from the stochastic orbital dynamics of individually coupled Co atoms on the surface of black phosphorus (BP). Taking a bottom-up approach, we start by representing stochastic, binary neurons using the concept of orbital memory. In this representation, the bistable valency states of individual atoms can be locally gated into a stochastic regime by the tip of a scanning tunnelling microscope (STM) (Fig.
+1a ) 28.
+ Utilizing atomic fabrication, we effectuate long-range coupling between atoms to produce collective stochastic behaviour, which mimics the steady-state distributions resulting from a multi-well energy landscape for a BM. Additionally, the strongly anisotropic substrate-driven interactions arising from the dielectric behaviour of BP 29 , 30 allow us to build atomic-scale synapses yielding memory-bearing, multi-valued distributions. Exploiting the separation of time scales between neural and synaptic dynamics, we demonstrate that the synapses autonomously adapt in response to various input stimuli introduced by the external gating field. This result demonstrates a model material system in which a well-controlled multi-well potential can be tuned to mimic a BM scaled to the atomic limit, where the intrinsic dynamics of the dopants represent a viable route towards atomic-scale autonomous materials for on-chip learning.
+a , Schematic illustration of the experimental setup with STM tip gating the system above the switching threshold. Here, due to differences in local band bending (grey) s 1 and s 2 atoms switch stochastically, while k remains static.
+b , Isolated cobalt atom in two valency configurations ( s = 0 and 1) with armchair x = [100] and zig-zag y = [010] crystallographic directions defined ( V s = −400 mV, scale bar, 1 nm).
+c , d , Two cobalt atoms in state ( s 1 , s 2 ) = (0,0) ( c ) and three cobalt atoms in state ( s 1 , s 2 , s 3 ) = (0,0,0) ( d ) separated by approximately five to six unit cells along the armchair direction ( V s = −400 mV, scale bar, 1 nm).
+e , Two-state current signal I t ( t ) observed in constant height when gating the single cobalt atom at the red ‘x’ in a with V s = 550 mV.
+f , g , Multi-state current signal I t ( t ) measured at the red ‘x’ in c ( f ) and d ( g ) with V s = 550 mV.
+h , Time-integrated probability distribution ( P ( s )) for each valency ( s = 0 or 1) in the isolated Co atom.
+i , j , P ( s ) for dimer ( i ) and trimer ( j ) systems. Error bars show 95% confidence intervals.
+Full size image Orbital memory and the Boltzmann machine The BM is defined by the following energy equation: $$E\left( {{\mathbf{s}}|{\mathbf{b}},{\mathbf{w}}} \right) = - \mathop {\sum}\limits_{i > j} {w_{ij}s_is_j} - \mathop {\sum}\limits_i {b_is_i}$$ where s = ( s 1 ,..., s n ) represents binary and stochastic spin values and E ( s | b , w ) defines a steady-state probability distribution for finding the system in a particular state s conditioned on memory-bearing and multi-valued weights ( w ij ) and biases ( b i ) ( Supplementary Information ). A material representation of the BM requires (1) stochastic neural elements s i and (2) tuneable and memory-bearing interactions w ij , b i that are ideally self-adaptable in response to external stimuli. It was recently demonstrated that a single Co atom exhibits stable and electrically switchable binary states, based on the concept of orbital memory stemming from its bistable valency 28.
+ We used individual and identical Co atoms residing on the surface of semiconducting BP (Supplementary Fig.
+1 ) as building blocks for the BM.
+We denote the two orbital memory states of an individual Co atom as spin values s = 0 and 1 (Fig.
+1a,b ). The Co valency is extremely sensitive to its environment: when probed with STM at applied voltages V s < V th (where V th is the gate voltage threshold required to induce stochastic switching), it exhibits long lifetimes that epitomize its utility as a memory. However, when V s > V th the atomic valency switches stochastically between its two states (seen in I t ( t ) in Fig.
+1e with the tip position marked ‘x’ in the STM image in Fig.
+1b ) with a favourability governed by the local electrostatic environment (Supplementary Figs.
+2c and 6 ). In this gated regime ( V s > V th ), we identify the valency s = 0 or 1 of an individual Co atom as a neuron in the BM representation. To correlate the state of s with a discrete and distinct current level measured in the stochastic noise, we reduce the gate voltage below V th to freeze the given state before identifying it with constant-current STM (Fig.
+1b and Supplementary Fig.
+3 ). All subsequently displayed STM images were taken in this regime. To clearly distinguish different s configurations, we colour code each distinct level in I t ( t ) (Fig.
+1e ). As the substrate is semiconducting, an applied potential between tip and substrate leads to a local voltage drop within the volume of the semiconductor underneath the tip (shaded area in Fig.
+1a ), implying the possibility of non-locally gating multiple atoms simultaneously (such as s 1 and s 2 in Fig.
+1a ).
+A major step towards the realization of an atomic-scale BM was the effectuation of interatomic coupling facilitated by the controlled manipulation of Co atoms with the STM tip (see Supplementary Information for details). When positioning two atoms with interatomic separation less than 4 nm along the BP x direction (armchair x = [100], zig-zag y = [010]) (Fig.
+1c ), we simultaneously gate both atoms with V s > V th , observing the emergence of four distinct and discrete states with appreciable lifetimes in current traces ( I t ( t ) in the constant-height measurement shown in Fig.
+1f with the tip position marked ‘x’ in the STM image in Fig.
+1c ). Using constant-current STM to correlate I t ( t ) with the possible state configurations, we map the four possible static s configurations onto each of these current levels (Fig.
+1f colour coded in blue with s configurations shown in Supplementary Fig.
+3 ). Integrating over time, we can extract the steady-state probability distribution P ( s ) (Fig.
+1i ) from the measured multi-state current ( I t ( t )).
+The P ( s ) distribution shown in Fig.
+1i exhibits non-zero populations of all four configurations, indicating that all configurations have appreciable lifetimes. This distribution illustrates the presence of multiple low-lying energy minima, suggesting a multi-well energy landscape of the form in equation ( 1 ) with non-uniform couplings and biases. Moreover, the large difference of P ( s ) compared to the probability distribution of an isolated atom confirms substantial substrate-induced coupling between the atoms (Supplementary Fig.
+4 ). This behaviour scales as we place a third atom in the x direction (Fig.
+1d and Supplementary Fig.
+5 ). Above the gate threshold, we observe up to seven of eight possible s configurations (Fig.
+1g and Supplementary Fig.
+5 ) and a more complex probability distribution (Fig.
+1j ). This illustrates appreciable interactions between all atoms beyond nearest-neighbour coupling. Additionally, we find that multi-state noise emerges for many different atomic configurations of Co atoms, where the occupational probability of the various s configurations strongly depends on the interatomic coupling between individual Co atoms and the gating field (Supplementary Figs.
+4 and 5 ). These examples demonstrate that the number of local energy minima increases with atom number. Likewise, this also shows that there is a large phase space of coupling and gating field in which multi-well behaviour emerges, suggesting that precise positioning within a certain range may not be necessary.
+Tailoring synapses using anisotropic coupling While atoms coupled in the x direction illustrate a complex probability distribution, the weights w ij that define the probability distribution are fixed by the substrate-mediated interactions. For the BM, it is imperative to create memory-bearing and switchable synaptic weights w ij interlinking the various spins, to represent more than one distribution. To do this, we take advantage of the in-plane electronic anisotropy of BP 29 , 30 , which leads to a different coupling between atoms depending on their relative orientation with respect to the surface. In this way, we modify P ( s ) of chains of Co atoms formed along the x direction utilizing the memory of a coupled satellite Co atom separated in the y direction (Fig.
+2a,c,d ). We define the orbital memory states of multiple satellite atoms by k = ( k 1 ,...
+, k m ) (Fig.
+2a ), quantifying their influence by examining the conditional probability distributions, P ( s | k ).
+a , Schematic representation of the three-atom system in c and d , where the two atoms s 1 and s 2 are strongly coupled and the k atom is weakly coupled to s 1 and s 2.
+b , Factor-graph representation of the Boltzmann machine mapped to the experimental configuration depicted in a and shown in c and d.
+c , d , Constant-current STM topography with k = 0 ( c ) and k = 1 ( d ) ( V s = −400 mV, scale bar, 1 nm).
+e , f , I t ( t ) measured at the red ‘x’ in c ( e ) and d ( f ) with V s = 500 mV.
+g , h , Conditional, time-integrated probability distributions P ( s | k ) for k = 0 ( g ) and k = 1 ( h ). Error bars show 95% confidence intervals.
+Full size image To illustrate this synaptic concept, we show a configuration where a single Co atom (labelled by k ) is placed approximately 2 nm in the y direction from two coupled atoms, s 1 and s 2 (Fig.
+2c ). As seen in Fig.
+2e ( k = 0) and Fig.
+2f ( k = 1) for the two distinct states of the top Co atom, notable differences can be seen in the multi-state current ( I t ( t )) when switching is activated. This clearly demonstrates that the k atom valency has a substantial impact on the steady-state conditional probability distributions P ( s | k = 0) (Fig.
+2g ) and P ( s | k = 1) (Fig.
+2h ), mimicking an atomic-scale synapse. The distributions P ( s | k = 0) and P ( s | k = 1) can be modelled as distinct Boltzmann distributions (equations ( 1 )) using the factor-graph representation shown in Fig.
+2b.
+ We learn b , w for each value of k by minimizing the Kullback–Leibler (KL) divergence between the empirical probability distribution P ( s | k ) of the states and the BM distribution P ( s | b , w ). The results of this fitting for both k = 0 and k = 1 are shown in Table 1.
+ The conditions k = 0 or 1 result in substantial modifications to the synaptic coupling ( w 12 ) and the biases ( b 1 , b 2 ), directly influencing the BM energy landscape (equation ( 1 )). Thus, the valency of the satellite Co atom acts as discrete parametrization for b , w.
+ Therefore, this three-atom representation can be mapped to a BM (Fig.
+2b and Supplementary Fig.
+7 ) that contains two neurons and one binary synapse.
+Full size table To be able to represent and learn a larger set of distributions, we introduce four k atoms coupled to three s atoms (Fig.
+3a ). With two states associated with each k atom, there are 16 possible k configurations, so that we can represent 16 possible distributions P ( s | k ) over the spins s.
+ We show a subset of five possible k configurations in Fig.
+3.
+ Figure 3a shows constant-current STM images, below the gate threshold, identifying the valency of each k atom for the five illustrated configurations. We employ the same characterization as in Fig.
+2 , measuring I t ( t ) above the gate threshold (Fig.
+3b ) and extracting P ( s | k ), for each value of k.
+ These five distributions are plotted in Fig.
+3c , illustrating highly varying changes in the distributions, depending on k.
+ For nearly every studied k configuration, we observe significantly different distributions for P ( s ), as shown by analysing the KL divergence between all P ( s | k i ) distributions (Supplementary Fig.
+11 ; see also the corresponding analysis for Fig.
+4 in Supplementary Fig.
+12 ). Using the same modelling described above, for three spins with individual biases b , pairwise couplings w and a three spin coupling w 123 , we find different solutions P ( s | b , w , w 123 ) = P ( s | k ) for different values of k , indicating that different k configurations correspond to different synapse and bias values. As seen in Table 2 (and Supplementary Tables 1 – 3 ), the mapping of k onto b , w , w 123 is highly nonlinear, which is probably related to the complex electrostatic environment of the atomic ensemble.
+a , Constant-current STM images of a seven-atom cobalt ensemble with three s atoms and four k atoms ( V s = −400 mV, scale bar, 1 nm). The k configurations are: k = (0000) (i), k = (1000) (ii), k = (0001) (iii), k = (0110) (iv) and k = (1010) (v).
+b , I t ( t ) measured at the red ‘x’ positions in a with V s = 500 mV.
+c , Conditional probability distributions, P ( s | k ). Error bars show 80% confidence intervals.
+Full size image a , Constant-current STM image of a seven-atom cobalt ensemble with three s atoms and four k atoms ( V s = −400 mV, scale bar, 1 nm).
+b , Factor-graph representation of the Boltzmann machine used to model the atomic ensemble in a , with a diagram illustrating the influence of the environment on the BM.
+c , I t ( t ) taken at the red ‘x’ in a with V off = 160 mV showing a spontaneous modification of the system’s k (before in grey and after in blue), which is observed through the distinct current levels and stochastic dynamics.
+d – f , Probability distributions P ( s , k | ε ) shown in blues and s -integrated probability distribution P ( k | ε ) (grey histograms), given the environmental conditions ε 1 ≡ V off = 160 mV, ε 2 ≡ V off = 180 mV, ε 3 ≡ V off = 200 mV. Error bars show 95% confidence intervals.
+Full size image Full size table Separation of time scales and self-adaption In Figs.
+2 and 3 , we showed that each k configuration results in a different distribution P ( s | k ) of the s configurations, and thus emulates synapses and biases of the BM, scaled to the atomic limit. Hence, changes in k result in changes to the BM parameters (Tables 1 and 2 ) and thus could be used to implement a learning rule in a regime where the k -state lifetime is nearly infinite. One possibility to input complex signals into this system would be to impose multiplexed a.c. signals on the d.c. gate and implement an external computer to modify the values of k according to an alternative training algorithm, which still needs to be designed, specifically for discrete weights 31.
+ As a step towards autonomous behaviour, it has been shown that spike-timing dependent neural dynamics can be coupled to synapses and, as such, these synapses can evolve in response to neural stimulation 12 , 13.
+ Indeed, in biological systems, learning is a dynamical process identified with synaptic evolution, namely a distinct time scale in which synapses evolve based on exposure to stimuli. In this way, while neurons change their state on the order of milliseconds, learning, for example in the context of long-term potentiation, occurs over minutes to hours 32.
+ Therefore, it is essential to explore materials capable of hosting both neural and synaptic dynamics, which exhibit plasticity, and subsequently exploring new learning models that exploit their coupled network dynamics.
+As a step towards this end, we subsequently explore the separation of time scales in our system by quantifying the dynamics of the k configurations and their correlation with the steady-state neural distributions and environmental stimuli. We studied the k dynamics in a seven-atom BM (shown experimentally in Fig.
+4a and illustrated schematically in Fig.
+4b ) over sufficiently long time scales (300–2,000 min per distribution) to allow for the spontaneous evolution of k.
+ We probed the response of P ( k ) to changes in the environmental stimuli in the form of small changes in an applied offset voltage ( ε = V off = V s − V th , where V th ≈ 400 mV), in a regime where the total voltage is far above the stochastic switching threshold. We performed the measurements by initializing the ensemble into a random s and k configuration before measuring I t ( t ) (Fig.
+4c ) at a specified V off.
+ At each environmental condition, measurements were conducted until the P ( s , k ) converges to a representative and distinct steady-state distribution (Fig.
+4d–f , and Supplementary Figs.
+9 and 10 ). Generally, the time scale for convergence of P ( k | ε ) for given ε is approximately 1,000–4,000 times longer than for P ( s | k ) for given k.
+ As seen in Fig.
+4d–f , P ( k | ε ) reaches a steady state that is extremely sensitive to changes in the stimulus of the order of 10 mV. When V off = 200 mV, k = (0000) is the most favourable synaptic configuration ( P ( k = 0000| ε 3 ) = 0.43), while at V off = 160 mV the favourability moves to k = (0100) ( P (0100| ε 1 ) = 0.38). In other words, P ( k | ε ) autonomously adapts in response to small variations in the gate voltage. To demonstrate that this response is not random, we carried out the following control experiment. We measured at (1) ε 1 , (2) ε 3 and again at (1) ε 1 , while checking the conditional probability P ( k | ε ). The measurements confirm that the P ( k | ε 1 ) distribution remains the same before and after the intermediary stimulus ε 3.
+ Furthermore, it is clear that the evolution of P ( k | ε ) is nonlinear in V off ; this is nicely exemplified when examining the ε -dependent probability for k = (1000): P ( k = 1000| ε 1 ) = 0.09, P ( k = 1000| ε 2 ) = 0.33, P ( k = 1000| ε 3 ) = 0.20, which is maximum at V off = 180 mV ( ε 2 ). Visualizing such nonlinearity is aided by considering the additional complexity in the joint probability distribution P ( s , k | ε ) = P ( s | k , ε ) P ( k | ε ) (shown in blue in Fig.
+4d–f ). What is clearly evidenced in Fig.
+4d–f is that distinct steady-state P ( k | ε ) distributions are correlated with distinct environmental stimuli (also seen in Supplementary Fig.
+8 ). In other words, the k configurations self-adapt over a longer time scale, conditioning their state on the input stimulus according to a multi-modal energy landscape defined by the stimuli, analogous to the landscapes of the spins. While we only characterized the BM response to various d.c. stimuli, we observed a strong nonlinear frequency and amplitude dependence in the single neurons’ P ( s ) response (Supplementary Fig.
+2 ). This suggests that the neural and synaptic dynamics exhibit a complex, coupled and rich landscape. As such, multiplexing may potentially be used to encode complex signals in the spectral components of an a.c. signal 4 and introduced via the tunnelling barrier, if a sufficient learning algorithm is developed.
+In contrast to hybrid approaches, here both neurons and synapses are contained in a single material and the physics of the coupling separates the time scales of the s and k dynamics by multiple orders of magnitude. In this situation, we equate neural computation with the s variables that exhibit fast dynamics and learning with the slower environmentally dependent evolution of the synaptic distribution ( P ( k | ε )). In this picture, the neural and synaptic dynamics are coupled and therefore standard learning algorithms cannot be used. When the time scales are well separated, the neural activity equilibrates to a stationary distribution and one may be able to develop a learning algorithm that acts on this statistical distribution of neural activity 33.
+ Note that learning in this context implies non-trivial, coupled changes to both the synaptic and neural distributions. This is different from current hybrid approaches for on-chip learning where, for example, synaptic strength is conditioned by neural inputs 11 , 12 , 13.
+It remains to be seen if the complex dynamics demonstrated here can be scaled up to a larger number of atoms. The observation of multi-state noise rules out a description dominated by nearest-neighbour interactions and suggests the presence of a complex, spatially varying and time-dependent mean field (Supplementary Figs.
+2 , 4 , 5 and 6 ). To better understand the potential for scaling, it is essential to quantify the interplay between the substrate-mediated interactions, the role of dielectric screening and the external gating field, to clarify how each contributes to machine learning functionality. To probe this experimentally, larger scale cobalt ensembles need to be created, which may be possible with electronic mediated growth mechanisms 29.
+ It remains, however, an open challenge to fabricate precise atomic-scale gate structures, as is typically done for dopants in silicon-based devices 34 , to gate and read-out the BM state. Further work is needed to explore new material systems that might exhibit orbital memory behaviour 35 up to higher operating temperatures.
+Conclusion In conclusion, we have constructed a network of stochastic orbital memories derived from Co atoms on BP that emulates the behaviour of a Boltzmann machine scaled to the limit of individual atoms. When controllably coupling and gating individual Co atoms, we observed the onset of a tuneable multi-modal landscape that is largely unexpected in model Ising materials. Utilizing the anisotropic behaviour of BP, we were able to create atomic-scale synapses that tuned and stored the weights/biases. We have further shown a separation of neural and synaptic time scales, larger than three orders of magnitude. This allowed us to confirm that the synaptic, memory-bearing atoms autonomously reorganize in response to an input d.c. stimulus. In addition to this self-adaption, we showed that the neural dynamics exhibit rich and complex phase spaces in response to both d.c. and a.c. voltage signals. Using orbital memory is potentially much more energy efficient than approaches that rely on phase changes in materials ( Supplementary Information ). Furthermore, future developments of learning algorithms that consider the coupled dynamics of both neurons and synapses at their different time scales will allow this system to physically compute using the spins in materials, drastically reducing the computational costs associated with Monte Carlo sampling 6 , 36.
+Methods Scanning tunnelling microscopy STM measurements were performed under ultrahigh vacuum (<1 × 10 −10 mbar) conditions with an Omicron low-temperature STM at a base temperature of 4.4 K, with the voltage applied to the sample. The typical time resolution of these experiments was approximately 1 ms. All STM images were acquired by means of constant-current feedback. All I t ( t ) measurements were acquired with the tip at a constant height and the feedback loop turned off. For all measurements, the tip height was stabilized with constant-current feedback on the bare BP, at I t = 20 pA, V s = −400 mV. Electrochemically etched W tips were used for measurements; each tip was treated in situ by electron bombardment field emission, and was also dipped and characterized on a clean Au(111) surface. BP crystals were purchased from HQ graphene and subsequently stored in vacuum (<1 × 10 −8 mbar). The crystals were cleaved under ultrahigh vacuum conditions at pressures below 2 × 10 −10 mbar, and immediately transferred to the microscope for in situ characterization. Cobalt was evaporated directly into the STM chamber with T STM < 5 K for the entire duration of the dosing procedure. Atomic manipulation of the cobalt atoms was performed by dragging the atoms in constant-current feedback mode with −130 mV < V s < −100 mV and 6 nA < I t < 12 nA ( Supplementary Information ).
+Computing probability distributions To identify each s switching event in the I t ( t ) data, an algorithm was used that determines the locations of abrupt changes (steps) in data. The algorithm split the data into segments for which the difference between the residual error and the mean of the data in the segment is minimal 37 , 38.
+ Where necessary, the data was pre-processed by smoothing and corrected for the z -drift between tip and sample. After identifying all the switches in the data, the (local) mean of all the segments ( I mean, i ) was calculated between switching events. Discrete maxima in the histogram of the mean and/or raw current signal were used to identify a target current ( I s , i ) for each s configuration; individual segments in I t ( t ) were assigned to s configurations based on the smallest value for | I mean, i − I s , i |. To compute P ( s ), the histogram of the discretized data was computed and the total values for each s configuration were normalized to the total length of the measurement. To acquire distributions P ( k ), each k switch was identified manually. For both P ( s ) and P ( k ), all data was acquired with an acquisition time that was a minimum of two times longer than the convergence time.
+Data availability The data from this work can be obtained from the corresponding author upon reasonable request.
+References Strukov, D. B., Snider, G. S., Stewart, D. R. & Williams, R. S. The missing memristor found.
+Nature 453 , 80–83 (2008).
+Article CAS Google Scholar Chen, T. et al. Classification with a disordered dopant-atom network in silicon.
+Nature 577 , 341–345 (2020).
+Article CAS Google Scholar Bose, S. K. et al. Evolution of a designless nanoparticle network into reconfigurable Boolean logic.
+Nat. Nanotechnol.
+10 , 1048–1052 (2015).
+Article CAS Google Scholar Torrejon, J. et al. Neuromorphic computing with nanoscale spintronic oscillators.
+Nature 547 , 428–431 (2017).
+Article CAS Google Scholar Romera, M. et al. Vowel recognition with four coupled spin-torque nano-oscillators.
+Nature 563 , 230–234 (2018).
+Article CAS Google Scholar Grollier, J., Querlioz, D. & Stiles, M. D. Spintronic nanodevices for bioinspired computing. proceedings of the IEEE.
+Inst. Electr. Electron. Eng.
+104 , 2024–2039 (2016).
+Article Google Scholar McMahon, P. L. et al. A fully programmable 100-spin coherent ising machine with all-to-all connections.
+Science 354 , 614–617 (2016).
+Article CAS Google Scholar Prezioso, M. et al. Training and operation of an integrated neuromorphic network based on metal-oxide memristors.
+Nature 521 , 61–64 (2015).
+Article CAS Google Scholar Burr, G. W. et al. Neuromorphic computing using non-volatile memory.
+Adv. Phys. X 2 , 89–124 (2017).
+Google Scholar Borders, W. A. et al. Integer factorization using stochastic magnetic tunnel junctions.
+Nature 573 , 390–393 (2019).
+Article CAS Google Scholar Feldmann, J., Youngblood, N., Wright, C. D., Bhaskaran, H. & Pernice, W. H. P. All-optical spiking neurosynaptic networks with self-learning capabilities.
+Nature 569 , 208–214 (2019).
+Article CAS Google Scholar Wang, Z. et al. Fully memristive neural networks for pattern classification with unsupervised learning.
+Nat. Electron.
+1 , 137–145 (2018).
+Article Google Scholar Ishii, M. et al. On-Chip Trainable 1.4M 6T2R PCM Synaptic Array with 1.6K Stochastic LIF Neurons for Spiking RBM. In IEEE International Electron Devices Meeting (IEDM) 14.2.1–14.2.4 (IEEE, 2019).
+Kieferová, M. & Wiebe, N. Tomography and generative training with quantum boltzmann machines.
+Phys. Rev. A 96 , 062327 (2017).
+Article Google Scholar Amin, M. H., Andriyash, E., Rolfe, J., Kulchytskyy, B. & Melko, R. Quantum boltzmann Machine.
+Phys. Rev. X 8 , 021050 (2018).
+CAS Google Scholar Kappen, H. J. Learning quantum models from quantum or classical data.
+J. Phys. A: Math. Theor.
+53 , 214001 (2020).
+Article Google Scholar Hinton, G. & Sejnowski, T. Optimal perceptual inference. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 448–453 (IEEE, 1983).
+Hertz, J., Krough, A. & Palmer, R. G.
+Introduction to the Theory of Neural Computation (CRC Press, 1991).
+Edwards, S. F. & Anderson, P. W. Theory of spin glasses. II.
+J. Phys. F.
+6 , 1927 (1976).
+Article Google Scholar Edwards, S. F. & Anderson, P. W. Theory of spin glasses.
+J. Phys. F.
+5 , 965 (1975).
+Article Google Scholar Sherrington, D. & Kirkpatrick, S. Solvable model of a Spin-Glass.
+Phys. Rev. Lett.
+35 , 1792 (1975).
+Article Google Scholar Hirjibehedin, C. F., Lutz, C. P. & Heinrich, A. J. Spin coupling in engineered atomic structures.
+Science 312 , 1021–1024 (2006).
+Article CAS Google Scholar Khajetoorians, A. A., Wiebe, J., Chilian, B. & Wiesendanger, R. Realizing all-spin–based logic operations atom by atom.
+Science 332 , 1062–1064 (2011).
+Article CAS Google Scholar Khajetoorians, A. A. et al. Atom-by-atom engineering and magnetometry of tailored nanomagnets.
+Nat. Phys.
+8 , 497–503 (2012).
+Article CAS Google Scholar Toskovic, R. et al. Atomic spin-chain realization of a model for quantum criticality.
+Nat. Phys.
+12 , 656–660 (2016).
+Article CAS Google Scholar Loth, S., Baumann, S., Lutz, C. P., Eigler, D. M. & Heinrich, A. J. Bistability in atomic-scale antiferromagnets.
+Science 335 , 196–199 (2012).
+Article CAS Google Scholar Khajetoorians, A. A. et al. Current-Driven spin dynamics of artificially constructed quantum magnets.
+Science 339 , 55–59 (2013).
+Article CAS Google Scholar Kiraly, B. et al. An orbitally derived single-atom magnetic memory.
+Nat. Commun.
+9 , 3904 (2018).
+Article Google Scholar Kiraly, B. et al. Anisotropic Two-Dimensional screening at the surface of black phosphorus.
+Phys. Rev. Lett.
+123 , 216403 (2019).
+Article CAS Google Scholar Prishchenko, D. A., Mazurenko, V. G., Katsnelson, M. I. & Rudenko, A. N. Coulomb interactions and screening effects in few-layer black phosphorus: a tight-binding consideration beyond the long-wavelength limit.
+2D Mater.
+4 , 025064 (2017).
+Article Google Scholar Baldassi, C., Braunstein, A., Brunel, N. & Zecchina, R. Efficient supervised learning in networks with binary synapses.
+Proc. Natl Acad. Sci. USA 104 , 11079–11084 (2007).
+Article CAS Google Scholar Purves, D. et al.
+Neuroscience (Sinauer Associates, 2019).
+Heskes, T. M. & Kappen, B. Learning processes in neural networks.
+Phys. Rev. A 44 , 2718–2726 (1991).
+Article CAS Google Scholar Fuechsle, M. et al. A single-atom transistor.
+Nat. Nanotechnol.
+7 , 242–246 (2012).
+Article CAS Google Scholar Rudenko, A. N., Keil, F. J., Katsnelson, M. I. & Lichtenstein, A. I. Adsorption of cobalt on graphene: electron correlation effects from a quantum chemical perspective.
+Phys. Rev. B 86 , 075422 (2012).
+Article Google Scholar Kolmus, A., Katsnelson, M. I., Khajetoorians, A. A. & Kappen, H. J. Atom-by-atom construction of attractors in a tunable finite size spin array.
+New J. Phys.
+22 , 023038 (2020).
+Article CAS Google Scholar Lavielle, M. Using penalized contrasts for the change-point problem.
+Signal Process.
+85 , 1501–1510 (2005).
+Article Google Scholar Killick, R., Fearnhead, P. & Eckley, I. A. Optimal detection of changepoints with a linear computational cost.
+J. Am. Stat. Assoc.
+107 , 1590–1598 (2012).
+Article CAS Google Scholar Download references Acknowledgements This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant no. 818399). This research was funded in part by ONR grant no. N00014-17-1-2569. A.A.K. and E.J.K. acknowledge the NWO-VIDI project ‘Manipulating the interplay between superconductivity and chiral magnetism at the single-atom level’ with project no. 680-47-534. B.K. acknowledges NWO-VENI project ‘Controlling magnetism of single atoms on black phosphorus’ with project no. 016.Veni.192.168.
+Author information Author notes These authors contributed equally: Brian Kiraly, Elze J. Knol.
+Authors and Affiliations Institute for Molecules and Materials, Radboud University, Nijmegen, the Netherlands Brian Kiraly, Elze J. Knol, Werner M. J. van Weerdenburg & Alexander A. Khajetoorians Donders Institute for Neuroscience, Radboud University, Nijmegen, the Netherlands Hilbert J. Kappen Authors Brian Kiraly View author publications You can also search for this author in PubMed Google Scholar Elze J. Knol View author publications You can also search for this author in PubMed Google Scholar Werner M. J. van Weerdenburg View author publications You can also search for this author in PubMed Google Scholar Hilbert J. Kappen View author publications You can also search for this author in PubMed Google Scholar Alexander A. Khajetoorians View author publications You can also search for this author in PubMed Google Scholar Contributions B.K. and E.J.K. performed the experiments under the direction and supervision of A.A.K. B.K. and E.J.K. developed the data analysis, while B.K., E.J.K., H.J.K. and A.A.K. participated in the scientific analysis. W.M.J.v.W. developed the a.c. experimental setup. H.J.K. performed the Boltzmann machine modelling. A.A.K. and H.J.K. designed the experiments. The manuscript was written by B.K., E.J.K., H.J.K. and A.A.K.
+Corresponding author Correspondence to Alexander A. Khajetoorians.
+Ethics declarations Competing interests The authors declare no competing interests.
+Additional information Peer review information Nature Nanotechnology thanks Giuseppe Carleo, Matthew Ellis and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information Supplementary Information Supplementary Figs. 1–12, Discussion and Tables 1–3.
+Rights and permissions Reprints and Permissions About this article Cite this article Kiraly, B., Knol, E.J., van Weerdenburg, W.M.J.
+et al.
+An atomic Boltzmann machine capable of self-adaption.
+Nat. Nanotechnol.
+16 , 414–420 (2021). https://doi.org/10.1038/s41565-020-00838-4 Download citation Received : 04 May 2020 Accepted : 11 December 2020 Published : 01 February 2021 Issue Date : April 2021 DOI : https://doi.org/10.1038/s41565-020-00838-4 Share this article Anyone you share the following link with will be able to read this content: Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiative This article is cited by CMOS-compatible ising machines built using bistable latches coupled through ferroelectric transistor arrays Antik Mallick Zijian Zhao Nikhil Shukla Scientific Reports (2023) Multilayer spintronic neural networks with radiofrequency connections Andrew Ross Nathan Leroux Julie Grollier Nature Nanotechnology (2023) Recent progress on coherent computation based on quantum squeezing Bo Lu Lu Liu Chuan Wang AAPPS Bulletin (2023) Ising machines as hardware solvers of combinatorial optimization problems Naeimeh Mohseni Peter L. McMahon Tim Byrnes Nature Reviews Physics (2022) Precise atom manipulation through deep reinforcement learning I-Ju Chen Markus Aapro Adam S. Foster Nature Communications (2022) You have full access to this article via your institution.
+Download PDF Download PDF Advertisement Explore content Research articles Reviews & Analysis News & Comment Videos Current issue Collections Follow us on Twitter Sign up for alerts RSS feed About the journal Aims & Scope Journal Information Journal Metrics About the Editors Advisory Panel Our publishing models Editorial Values Statement Editorial Policies Content Types Web Feeds Contact Publish with us Submission Guidelines For Reviewers Language editing services Submit manuscript Search Quick links Explore articles by subject Find a job Guide to authors Editorial policies Nature Nanotechnology ( Nat. Nanotechnol.
+) ISSN 1748-3395 (online) ISSN 1748-3387 (print) nature.com sitemap About Nature Portfolio About us Press releases Press office Contact us Discover content Journals A-Z Articles by subject Nano Protocol Exchange Nature Index Publishing policies Nature portfolio policies Open access Author & Researcher services Reprints & permissions Research data Language editing Scientific editing Nature Masterclasses Live Expert Trainer-led workshops Research Solutions Libraries & institutions Librarian service & tools Librarian portal Open research Recommend to library Advertising & partnerships Advertising Partnerships & Services Media kits Branded content Career development Nature Careers Nature Conferences Nature events Regional websites Nature Africa Nature China Nature India Nature Italy Nature Japan Nature Korea Nature Middle East Privacy Policy Use of cookies Your privacy choices/Manage cookies Legal notice Accessibility statement Terms & Conditions Your US state privacy rights © 2023 Springer Nature Limited Find nanotechnology articles, nanomaterial data and patents all in one place.
+Close banner Close
