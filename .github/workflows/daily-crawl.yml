@@ -56,11 +56,10 @@ jobs:
           GH_TOKEN: ${{ secrets.ACTOR_TOKEN }}
         run: |
           echo "token belongs to: $(gh api user --jq .login 2>/dev/null || echo '<not a valid user token>')"
-          for r in lostflux/functional-scraper lostflux/ai-tech-articles; do
-            echo "$r: $(gh api repos/$r --jq '.permissions' 2>/dev/null || echo 'no access (404/403)')"
-          done
-          gh api repos/${{ github.repository }} --jq '.permissions.push' 2>/dev/null | grep -q true \
-            || { echo "::error::ACTOR_TOKEN cannot push to ${{ github.repository }}: for an org repo the fine-grained PAT needs resource owner 'lostflux', this repo in its repository list, Contents read+write, and org approval if required"; exit 1; }
+          # A dry-run push to a scratch ref exercises the write permission without changing anything.
+          git push --dry-run origin HEAD:refs/heads/_token-check 2>&1 | tail -3 \
+            || { echo "::error::ACTOR_TOKEN cannot push to ${{ github.repository }}: the fine-grained PAT needs Contents: Read and write on this repo (resource owner lostflux), and the org must allow its lifetime"; exit 1; }
+          echo "write access OK"
 
       - uses: dtolnay/rust-toolchain@stable
       - uses: Swatinem/rust-cache@v2
