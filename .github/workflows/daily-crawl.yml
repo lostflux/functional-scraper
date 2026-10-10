@@ -69,6 +69,7 @@ jobs:
           git add data/articles data/state/seen.bin data/state/next_id data/state/last_run.json
           if git diff --cached --quiet; then echo "nothing new"; echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
           git commit -m "(update): add crawl shards from $(date -u +%F)"
+          git pull --rebase origin main
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
