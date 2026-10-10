@@ -1,0 +1,91 @@
+# Incremental crawl, once a day. Commits the new shard + state back to this
+# repo, then tells lostflux/ai-tech-articles to rebuild and publish the
+# dataset (its workflow holds the HuggingFace token).
+#
+# Secrets (this repo):
+#   ACTOR_TOKEN  optional but recommended: a fine-grained PAT created by
+#                  the `evilalt` utility account with "Contents: read and
+#                  write" on lostflux/functional-scraper and
+#                  lostflux/ai-tech-articles. With it, the data commits are
+#                  authored *and pushed* by evilalt and the dataset rebuild
+#                  is triggered by evilalt, so nothing lands on the main
+#                  account's activity. Without it the push comes from
+#                  github-actions (author still evilalt) and the trigger
+#                  step is skipped; the dataset workflow then runs on its
+#                  weekly schedule or by hand.
+#
+# Caveat: GitHub runners use datacenter IPs that some publishers block or
+# rate-limit. The per-host table in the job log shows who answered. For
+# stubborn sources, run scripts/daily.sh from a residential machine
+# (see scripts/com.siavava.scraper.plist) instead.
+name: daily crawl
+
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+    inputs:
+      max_duration:
+        description: wall-clock budget for the crawl
+        default: 40m
+      max_pages:
+        description: fetch budget
+        default: "4000"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      HAS_ACTOR_TOKEN: ${{ secrets.ACTOR_TOKEN != '' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ACTOR_TOKEN || github.token }}
+
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: rust
+
+      - name: crawl
+        env:
+          MAX_DURATION: ${{ inputs.max_duration || '40m' }}
+          MAX_PAGES: ${{ inputs.max_pages || '4000' }}
+        run: scripts/daily.sh
+
+      - name: commit shards and state
+        id: commit
+        run: |
+          git config user.name evilalt
+          git config user.email amittaijoel@gmail.com
+          git add data/articles data/state/seen.bin data/state/next_id data/state/last_run.json
+          if git diff --cached --quiet; then echo "nothing new"; echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          git commit -m "data: crawl $(date -u +%F)"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: trigger dataset build
+        if: steps.commit.outputs.changed == 'true' && env.HAS_ACTOR_TOKEN == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.ACTOR_TOKEN }}
+        run: |
+          gh api repos/lostflux/ai-tech-articles/dispatches \
+            -f event_type=crawl-finished \
+            -F "client_payload[run_id]=$(python3 -c 'import json;print(json.load(open("data/state/last_run.json"))["run_id"])')" \
+            -F "client_payload[hits]=$(python3 -c 'import json;print(json.load(open("data/state/last_run.json"))["hits"])')"
+
+      - name: run summary
+        if: always()
+        run: |
+          echo '### crawl' >> "$GITHUB_STEP_SUMMARY"
+          echo '```json' >> "$GITHUB_STEP_SUMMARY"
+          cat data/state/last_run.json >> "$GITHUB_STEP_SUMMARY" || true
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
