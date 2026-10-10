@@ -42,3 +42,6 @@ data/state/crawl.log
 .env
 .env.*
 data/state/progress.json
+
+# editor/agent config
+.claude/
