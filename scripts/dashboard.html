@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crawl progress</title>
+<style>
+  :root {
+    color-scheme: light;
+    --surface: #fcfcfb; --panel: #ffffff; --border: #e6e5e1; --grid: #ecebe7;
+    --text: #0b0b0b; --text-2: #52514e; --muted: #8a8984;
+    --series: #2a78d6; --series-soft: #cde2fb; --critical: #d03b3b; --good: #0ca30c;
+    --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --surface: #1a1a19; --panel: #222221; --border: #343432; --grid: #2c2c2a;
+      --text: #ffffff; --text-2: #c3c2b7; --muted: #8e8d86;
+      --series: #3987e5; --series-soft: #184f95;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --surface: #1a1a19; --panel: #222221; --border: #343432; --grid: #2c2c2a;
+    --text: #ffffff; --text-2: #c3c2b7; --muted: #8e8d86;
+    --series: #3987e5; --series-soft: #184f95;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 16px; background: var(--surface); color: var(--text);
+         font: 14px/1.4 -apple-system, "Segoe UI", Inter, Roboto, sans-serif; }
+  header { display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: baseline; margin-bottom: 12px; }
+  header h1 { font-size: 16px; font-weight: 600; margin: 0; }
+  header .meta { color: var(--text-2); font-variant-numeric: tabular-nums; }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--good); margin-right: 6px; vertical-align: middle; }
+  .dot.done { background: var(--muted); }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px; margin-bottom: 12px; }
+  .tile { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; }
+  .tile .label { color: var(--text-2); font-size: 12px; }
+  .tile .value { font-size: 22px; font-weight: 600; font-variant-numeric: tabular-nums; margin-top: 2px; }
+  .tile.hero .value { font-size: 44px; line-height: 1.05; }
+  .tile .sub { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 12px; }
+  .card { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 12px; min-width: 0; }
+  .card h2 { font-size: 13px; font-weight: 600; margin: 0 0 8px; color: var(--text-2); }
+  .card.wide { grid-column: 1 / -1; }
+  svg { display: block; width: 100%; height: 180px; overflow: visible; }
+  svg.tall { height: 300px; }
+  .axis text { fill: var(--muted); font-size: 11px; }
+  .axis line, .grid-line { stroke: var(--grid); stroke-width: 1; }
+  .line { fill: none; stroke: var(--series); stroke-width: 2; stroke-linejoin: round; }
+  .area { fill: var(--series); opacity: .08; }
+  .bar { fill: var(--series); }
+  .bar:hover { opacity: .8; }
+  .barlabel { fill: var(--text-2); font-size: 11px; font-variant-numeric: tabular-nums; }
+  .catlabel { fill: var(--text); font-size: 12px; }
+  .crosshair { stroke: var(--text-2); stroke-width: 1; stroke-dasharray: 3 3; }
+  .marker { fill: var(--series); stroke: var(--panel); stroke-width: 2; }
+  #tip { position: fixed; pointer-events: none; background: var(--panel); color: var(--text); border: 1px solid var(--border);
+         border-radius: 6px; padding: 6px 8px; font-size: 12px; box-shadow: 0 2px 8px rgba(0,0,0,.15); display: none; z-index: 10;
+         font-variant-numeric: tabular-nums; white-space: nowrap; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  td, th { text-align: left; padding: 4px 6px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+  th { color: var(--text-2); font-weight: 500; font-size: 12px; }
+  th.num { text-align: right; } td.num { text-align: right; }
+  td.num { font-variant-numeric: tabular-nums; color: var(--text-2); white-space: nowrap; }
+  td a { color: var(--text); text-decoration: none; }
+  td a:hover { text-decoration: underline; }
+  .err { color: var(--critical); }
+  @media (max-width: 480px) { body { padding: 12px; } .tile.hero .value { font-size: 36px; } }
+</style>
+</head>
+<body>
+<div id="tip"></div>
+<header>
+  <h1><span class="dot" id="dot"></span>Crawl progress</h1>
+  <span class="meta" id="run">waiting for log…</span>
+  <span class="meta" id="clock"></span>
+</header>
+<div class="tiles">
+  <div class="tile hero"><div class="label">Articles stored this run</div><div class="value" id="hits">–</div><div class="sub" id="ids"></div></div>
+  <div class="tile"><div class="label">Pages fetched</div><div class="value" id="fetched">–</div><div class="sub" id="hitrate"></div></div>
+  <div class="tile"><div class="label">Throughput</div><div class="value" id="rate">–</div><div class="sub">pages / s (run average)</div></div>
+  <div class="tile"><div class="label">Last 10 min</div><div class="value" id="recentrate">–</div><div class="sub">articles / min</div></div>
+  <div class="tile"><div class="label">Queued</div><div class="value" id="queued">–</div><div class="sub" id="hosts"></div></div>
+  <div class="tile"><div class="label">Errors</div><div class="value" id="errors">–</div><div class="sub" id="throttled"></div></div>
+  <div class="tile"><div class="label">Time</div><div class="value" id="elapsed">–</div><div class="sub" id="eta"></div></div>
+</div>
+<div class="grid">
+  <div class="card"><h2>Articles stored, cumulative</h2><svg id="cum"></svg></div>
+  <div class="card"><h2>Articles stored per minute</h2><svg id="permin"></svg></div>
+  <div class="card"><h2>Queue size</h2><svg id="queue"></svg></div>
+  <div class="card"><h2>Fetch rate, pages / s (30-second window)</h2><svg id="rates"></svg></div>
+  <div class="card"><h2>Articles by domain, top 15</h2><svg id="domains" class="tall"></svg></div>
+  <div class="card"><h2>Articles by publication year</h2><svg id="years" class="tall"></svg></div>
+  <div class="card wide" id="hostcard" style="display:none"><h2>Hosts: queue, yield and scheduler weight</h2>
+    <table><thead><tr><th>host</th><th class="num">queued</th><th class="num">in flight</th><th class="num">fetched</th><th class="num">stored</th><th class="num">stored %</th><th class="num">recent yield</th><th>weight</th><th>status</th></tr></thead><tbody id="hosts"></tbody></table></div>
+  <div class="card wide"><h2>Most recent articles</h2><table><thead><tr><th>at</th><th>date</th><th>domain</th><th>title</th></tr></thead><tbody id="recent"></tbody></table></div>
+</div>
+<script>
+const $ = id => document.getElementById(id);
+const tip = $('tip');
+const fmt = n => n == null ? '–' : Number(n).toLocaleString('en-US');
+const hms = s => { s = Math.max(0, Math.round(s)); const h = Math.floor(s/3600), m = Math.floor(s%3600/60); return h ? `${h}h ${String(m).padStart(2,'0')}m` : `${m}m ${String(s%60).padStart(2,'0')}s`; };
+const budgetSec = (() => { const b = (new URLSearchParams(location.search).get('budget') || '').trim(); if (!b) return null;
+  let total = 0, ok = false; for (const m of b.matchAll(/(\d+(?:\.\d+)?)\s*(h|m|s)?/g)) { total += +m[1] * ({h:3600, m:60, s:1}[m[2] || 's']); ok = true; } return ok ? total : null; })();
+const NS = 'http://www.w3.org/2000/svg';
+const el = (tag, attrs = {}, text) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (text != null) e.textContent = text; return e; };
+const showTip = (ev, html) => { tip.innerHTML = html; tip.style.display = 'block'; tip.style.left = (ev.clientX + 12) + 'px'; tip.style.top = (ev.clientY + 12) + 'px'; };
+const hideTip = () => tip.style.display = 'none';
+const niceTicks = (max, n = 4) => { if (max <= 0) return [0]; const raw = max / n, p = 10 ** Math.floor(Math.log10(raw)); const step = [1, 2, 2.5, 5, 10].map(x => x * p).find(x => x >= raw); const out = []; for (let v = 0; v < max + step - 1e-9; v += step) out.push(+v.toFixed(6)); return out; };
+
+function lineChart(svg, points, {fmtY = fmt, area = true} = {}) {
+  svg.replaceChildren(); if (points.length < 2) return;
+  const W = svg.clientWidth || 400, H = svg.clientHeight || 180, L = 44, R = 8, T = 8, B = 22;
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  const xmax = points[points.length-1][0], ymax = Math.max(...points.map(p => p[1])) || 1;
+  const ticks = niceTicks(ymax); const yTop = ticks[ticks.length-1] || ymax;
+  const X = x => L + (x / (xmax || 1)) * (W - L - R), Y = y => T + (1 - y / yTop) * (H - T - B);
+  const axis = el('g', {class: 'axis'});
+  for (const t of ticks) { axis.append(el('line', {x1: L, x2: W - R, y1: Y(t), y2: Y(t), class: 'grid-line'}), el('text', {x: L - 6, y: Y(t) + 4, 'text-anchor': 'end'}, fmtY(t))); }
+  const xt = niceTicks(xmax / 60, 5);
+  for (const m of xt) if (m * 60 <= xmax + 1e-9) axis.append(el('text', {x: X(m * 60), y: H - 6, 'text-anchor': 'middle'}, m >= 120 ? `${(m/60).toFixed(m % 60 ? 1 : 0)}h` : `${m}m`));
+  svg.append(axis);
+  const d = points.map((p, i) => (i ? 'L' : 'M') + X(p[0]).toFixed(1) + ' ' + Y(p[1]).toFixed(1)).join(' ');
+  if (area) svg.append(el('path', {class: 'area', d: d + ` L${X(xmax).toFixed(1)} ${Y(0)} L${X(0)} ${Y(0)} Z`}));
+  svg.append(el('path', {class: 'line', d}));
+  const last = points[points.length-1];
+  svg.append(el('circle', {class: 'marker', cx: X(last[0]), cy: Y(last[1]), r: 4}));
+  svg.append(el('text', {class: 'barlabel', x: X(last[0]) - 6, y: Y(last[1]) - 8, 'text-anchor': 'end'}, fmtY(last[1])));
+  const cross = el('line', {class: 'crosshair', y1: T, y2: H - B, style: 'display:none'}), dot = el('circle', {class: 'marker', r: 4, style: 'display:none'});
+  svg.append(cross, dot);
+  const hit = el('rect', {x: L, y: T, width: W - L - R, height: H - T - B, fill: 'transparent'});
+  hit.addEventListener('mousemove', ev => {
+    const r = svg.getBoundingClientRect(), px = (ev.clientX - r.left) * (W / r.width), xs = (px - L) / (W - L - R) * xmax;
+    let lo = 0, hi = points.length - 1; while (lo < hi) { const mid = (lo + hi) >> 1; points[mid][0] < xs ? lo = mid + 1 : hi = mid; }
+    const p = points[lo]; cross.setAttribute('x1', X(p[0])); cross.setAttribute('x2', X(p[0])); cross.style.display = '';
+    dot.setAttribute('cx', X(p[0])); dot.setAttribute('cy', Y(p[1])); dot.style.display = '';
+    showTip(ev, `<b>${fmtY(p[1])}</b> at ${hms(p[0])}`);
+  });
+  hit.addEventListener('mouseleave', () => { cross.style.display = 'none'; dot.style.display = 'none'; hideTip(); });
+  svg.append(hit);
+}
+
+function columns(svg, values) {
+  svg.replaceChildren(); if (!values.length) return;
+  const W = svg.clientWidth || 400, H = svg.clientHeight || 180, L = 36, R = 8, T = 8, B = 22;
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  const ymax = Math.max(...values) || 1, ticks = niceTicks(ymax), yTop = ticks[ticks.length-1] || ymax;
+  const n = values.length, slot = (W - L - R) / n, bw = Math.max(1, slot - 2);
+  const Y = y => T + (1 - y / yTop) * (H - T - B);
+  const axis = el('g', {class: 'axis'});
+  for (const t of ticks) axis.append(el('line', {x1: L, x2: W - R, y1: Y(t), y2: Y(t), class: 'grid-line'}), el('text', {x: L - 6, y: Y(t) + 4, 'text-anchor': 'end'}, fmt(t)));
+  for (const m of niceTicks(n, 5)) if (m < n) axis.append(el('text', {x: L + m * slot, y: H - 6, 'text-anchor': 'middle'}, m >= 120 ? `${(m/60).toFixed(m % 60 ? 1 : 0)}h` : `${m}m`));
+  svg.append(axis);
+  values.forEach((v, i) => {
+    const r = el('rect', {class: 'bar', x: L + i * slot + 1, y: Y(v), width: bw, height: Math.max(0, Y(0) - Y(v)), rx: Math.min(2, bw / 2)});
+    r.addEventListener('mousemove', ev => showTip(ev, `<b>${fmt(v)}</b> articles in minute ${i + 1}`)); r.addEventListener('mouseleave', hideTip);
+    svg.append(r);
+  });
+}
+
+function hbars(svg, rows) {
+  svg.replaceChildren(); if (!rows.length) return;
+  const W = svg.clientWidth || 400, rowH = 20, L = 150, R = 56, T = 4;
+  const H = T + rows.length * rowH + 4; svg.style.height = H + 'px'; svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  const max = Math.max(...rows.map(r => r[1])) || 1;
+  rows.forEach(([label, v], i) => {
+    const y = T + i * rowH, w = Math.max(2, (v / max) * (W - L - R));
+    svg.append(el('text', {class: 'catlabel', x: L - 8, y: y + 14, 'text-anchor': 'end'}, String(label).length > 22 ? String(label).slice(0, 21) + '…' : label));
+    const r = el('rect', {class: 'bar', x: L, y: y + 3, width: w, height: rowH - 6, rx: 3});
+    r.addEventListener('mousemove', ev => showTip(ev, `<b>${label}</b>: ${fmt(v)} (${(100 * v / rows.reduce((a, b) => a + b[1], 0)).toFixed(1)}%)`)); r.addEventListener('mouseleave', hideTip);
+    svg.append(r, el('text', {class: 'barlabel', x: L + w + 6, y: y + 14}, fmt(v)));
+  });
+}
+
+let lastSnapshot = null;
+function render(s) {
+  lastSnapshot = s; const t = s.totals;
+  $('dot').className = 'dot' + (s.finished ? ' done' : '');
+  $('run').textContent = s.run_id ? `run ${s.run_id}${s.resumed ? ` · resumed ${fmt(s.resumed)} URLs` : ''}` : 'waiting for log…';
+  $('clock').textContent = s.finished ? `finished: ${s.done || ''}` : (s.last_ts ? `last update ${new Date(s.last_ts * 1000).toLocaleTimeString()}` : '');
+  $('hits').textContent = fmt(t.hits);
+  $('ids').textContent = t.first_id != null ? `ids ${fmt(t.first_id)} – ${fmt(t.last_id)}` : '';
+  $('fetched').textContent = fmt(t.fetched);
+  $('hitrate').textContent = t.fetched ? `${(100 * t.hits / t.fetched).toFixed(1)}% stored` : '';
+  $('rate').textContent = t.rate ? t.rate.toFixed(1) : '–';
+  const hpm = s.hits_per_min, win = hpm.slice(-11, -1); $('recentrate').textContent = win.length ? (win.reduce((a, b) => a + b, 0) / win.length).toFixed(0) : '–';
+  $('queued').textContent = fmt(t.queued); $('hosts').textContent = `${t.active} active · ${t.hosts} hosts`;
+  $('errors').textContent = fmt(t.errors); $('errors').className = 'value' + (t.errors > 0.05 * t.fetched ? ' err' : ''); $('throttled').textContent = `${fmt(t.throttled)} throttled`;
+  $('elapsed').textContent = hms(s.elapsed);
+  $('eta').textContent = s.finished ? 'done' : budgetSec ? `${hms(budgetSec - s.elapsed)} left of ${hms(budgetSec)}` : 'no budget given (?budget=5h)';
+  lineChart($('cum'), s.series.map(r => [r[0], r[2]]));
+  columns($('permin'), hpm);
+  lineChart($('queue'), s.series.map(r => [r[0], r[5]]));
+  const inst = s.series.slice(1).map((r, i) => { const p = s.series[i], dt = r[0] - p[0]; return [r[0], dt > 0 ? (r[1] - p[1]) / dt : 0]; });
+  const smooth = inst.map((p, i) => { const w = inst.slice(Math.max(0, i - 2), i + 1); return [p[0], w.reduce((a, b) => a + b[1], 0) / w.length]; });
+  lineChart($('rates'), smooth, {fmtY: v => Number(v).toFixed(1), area: false});
+  hbars($('domains'), s.domains);
+  hbars($('years'), s.years);
+  if (s.hosts && s.hosts.length) {
+    $('hostcard').style.display = '';
+    $('hosts').replaceChildren(...s.hosts.filter(h => h.fetched || h.queued || h.in_flight).map(h => { const tr = document.createElement('tr');
+      const pct = h.hit_ratio == null ? '–' : (100 * h.hit_ratio).toFixed(1) + '%';
+      const w = h.weight == null ? 1 : h.weight;
+      tr.innerHTML = `<td>${h.host}</td><td class="num">${fmt(h.queued)}</td><td class="num">${h.in_flight || 0}</td><td class="num">${fmt(h.fetched)}</td><td class="num">${fmt(h.hits)}</td><td class="num">${pct}</td><td class="num">${h.recent_hit_ratio == null ? '–' : (100 * h.recent_hit_ratio).toFixed(0) + '%'}</td>
+        <td><span style="display:inline-block;width:${Math.round(60 * w)}px;height:8px;border-radius:4px;background:var(--series);vertical-align:middle"></span> <span class="num" style="color:var(--text-2)">${w.toFixed(2)}</span></td><td class="${h.dropped ? 'err' : ''}">${h.dropped || ''}</td>`; return tr; }));
+  }
+  $('recent').replaceChildren(...s.recent.map(r => { const tr = document.createElement('tr');
+    tr.innerHTML = `<td class="num">${hms(r.t)}</td><td class="num">${r.date || '–'}</td><td class="num">${r.domain}</td><td><a href="${r.url}" target="_blank" rel="noopener">${r.title.replace(/</g, '&lt;')}</a></td>`; return tr; }));
+}
+async function poll() {
+  try { const r = await fetch('/api/progress', {cache: 'no-store'}); render(await r.json()); } catch (e) { $('run').textContent = 'dashboard server unreachable'; }
+  setTimeout(poll, lastSnapshot && lastSnapshot.finished ? 30000 : 3000);
+}
+window.addEventListener('resize', () => lastSnapshot && render(lastSnapshot));
+poll();
+</script>
+</body>
+</html>

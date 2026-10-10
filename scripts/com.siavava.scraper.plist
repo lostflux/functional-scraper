@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  launchd job for a daily local crawl at 06:30.
+
+  Install:
+    cp scripts/com.siavava.scraper.plist ~/Library/LaunchAgents/
+    launchctl load ~/Library/LaunchAgents/com.siavava.scraper.plist
+  Logs go to data/state/daily.log. Adjust the paths below to your checkout.
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.siavava.scraper</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>-lc</string>
+    <string>COMMIT=1 BUILD_DATASET=1 PUBLISH=1 /Users/siavava/workspace/statics/functional-scraper/scripts/daily.sh</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/siavava/workspace/statics/functional-scraper</string>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>6</integer>
+    <key>Minute</key>
+    <integer>30</integer>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>/Users/siavava/workspace/statics/functional-scraper/data/state/daily.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/siavava/workspace/statics/functional-scraper/data/state/daily.log</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/Users/siavava/.cargo/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+  </dict>
+</dict>
+</plist>
