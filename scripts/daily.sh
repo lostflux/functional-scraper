@@ -25,20 +25,20 @@ rust/target/release/scraper crawl \
 if [ "${COMMIT:-0}" = "1" ]; then
   git add data/articles data/state/seen.bin data/state/next_id data/state/last_run.json
   if ! git diff --cached --quiet; then
-    git alt commit -m "data: crawl $(date -u +%F)" 2>/dev/null \
+    git alt commit -m "(update): add crawl shards from $(date -u +%F)" 2>/dev/null \
       || git -c user.name=evilalt -c user.email=amittaijoel@gmail.com \
-           commit --no-gpg-sign -m "data: crawl $(date -u +%F)"
+           commit --no-gpg-sign -m "(update): add crawl shards from $(date -u +%F)"
   fi
 fi
 
 if [ "${BUILD_DATASET:-0}" = "1" ] && [ -d "$DATASET" ]; then
   uv run --project "$DATASET" ai-tech-articles-build --scraper-dir "$ROOT" --update-readme
   if [ "${PUBLISH:-0}" = "1" ]; then
-    uv run --project "$DATASET" ai-tech-articles-publish --message "daily crawl $(date -u +%F)"
+    uv run --project "$DATASET" ai-tech-articles-publish --message "(update): refresh dataset from crawl $(date -u +%F)"
   fi
   if [ "${COMMIT:-0}" = "1" ] && ! git -C "$DATASET" diff --quiet -- README.md; then
-    git -C "$DATASET" alt commit README.md -m "dataset card: $(date -u +%F)" 2>/dev/null \
+    git -C "$DATASET" alt commit README.md -m "(update): refresh dataset card for $(date -u +%F)" 2>/dev/null \
       || git -C "$DATASET" -c user.name=evilalt -c user.email=amittaijoel@gmail.com \
-           commit --no-gpg-sign README.md -m "dataset card: $(date -u +%F)"
+           commit --no-gpg-sign README.md -m "(update): refresh dataset card for $(date -u +%F)"
   fi
 fi
