@@ -8,7 +8,7 @@
 #   MAX_PAGES        fetch budget (default 4000)
 #   COMMIT=1         commit new shards + state in this repo
 #   BUILD_DATASET=1  also rebuild the parquet in ../ai-tech-articles
-#   PUBLISH=1        …and upload it to HuggingFace (token from its .env/HF_TOKEN)
+#   PUBLISH=1        …and publish it: commit + push to HuggingFace and GitHub (token from its .env/HF_TOKEN)
 #   DATASET_DIR      path to the ai-tech-articles checkout (default ../ai-tech-articles)
 set -euo pipefail
 
@@ -34,11 +34,8 @@ fi
 if [ "${BUILD_DATASET:-0}" = "1" ] && [ -d "$DATASET" ]; then
   uv run --project "$DATASET" ai-tech-articles-build --scraper-dir "$ROOT" --update-readme
   if [ "${PUBLISH:-0}" = "1" ]; then
-    uv run --project "$DATASET" ai-tech-articles-publish --message "(update): refresh dataset from crawl $(date -u +%F)"
-  fi
-  if [ "${COMMIT:-0}" = "1" ] && ! git -C "$DATASET" diff --quiet -- README.md; then
-    git -C "$DATASET" alt commit README.md -m "(update): refresh dataset card for $(date -u +%F)" 2>/dev/null \
-      || git -C "$DATASET" -c user.name=evilalt -c user.email=amittaijoel@gmail.com \
-           commit --no-gpg-sign README.md -m "(update): refresh dataset card for $(date -u +%F)"
+    # publish commits the parquet + card (as evilalt) and pushes to both remotes
+    uv run --project "$DATASET" ai-tech-articles-publish --as-bot \
+      --message "(update): refresh dataset from crawl $(date -u +%F)"
   fi
 fi

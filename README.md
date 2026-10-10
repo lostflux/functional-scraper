@@ -174,9 +174,10 @@ Two workflows, one per repo, so each repo holds only its own secret:
    hand.
 2. **Build and publish** (`.github/workflows/build-dataset.yml` in the
    dataset repo). Checks out both repos side by side, runs
-   `ai-tech-articles-build` and `ai-tech-articles-publish` with that repo's
-   `HF_TOKEN`, and commits the refreshed dataset card. The parquet itself
-   lives only on HuggingFace.
+   `ai-tech-articles-build`, then `ai-tech-articles-publish`, which commits
+   the parquet (LFS pointer) and the dataset card and pushes the same commit
+   to HuggingFace and GitHub: one history, two remotes; the parquet bytes
+   live only on HuggingFace.
 
 Free on public repos. Caveats: publishers that block or throttle datacenter
 IPs (Bloomberg, Axios, The Atlantic, VentureBeat's rate limiter) contribute
