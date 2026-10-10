@@ -1,4 +1,10 @@
+# Shared crawler configuration.
+#
+# The legacy Haskell crawler (haskell/) reads only `targets`, `domains`,
+# `limit` and `wordcount`. The Rust crawler (rust/) reads everything.
 
+# A page is a hit when at least `wordcount` distinct target words appear in
+# its text.
 targets:
   - machine
   - deep
@@ -34,23 +40,131 @@ targets:
   - gradient
   - descent
   - clustering
+  # added 2026 (phrases are allowed; matching ignores case and punctuation)
+  - artificial intelligence
+  - machine learning
+  - deep learning
+  - neural network
+  - neural networks
+  - language model
+  - language models
+  - generative ai
+  - agent
+  - agents
+  - agi
+  - model
+  - models
+  - neural
+  - training
+  - dataset
+  - datasets
+  - algorithm
+  - algorithms
+  - automation
+  - autonomous
+  - robot
+  - robots
+  - prompt
+  - prompts
+  - chatbots
+  - copilot
+  - nvidia
+  - gpu
+  - gpus
+  - llama
+  - deepseek
+  - mistral
+  - superintelligence
+  - llm
+  - llms
+  - gpt
+  - anthropic
+  - claude
+  - gemini
+  - transformer
+  - transformers
+  - diffusion
+  - multimodal
+  - agentic
+  - hallucination
+  - generative
 
+wordcount: 5
+
+# Terms only an AI story uses. On top of the `wordcount` rule a page must
+# mention these at least `crawl.min_strong_mentions` times and carry one in
+# its title or lede (or have a body dense with them); this keeps general
+# tech articles whose site chrome says "AI" out of the dataset. Matching
+# folds "A.I." to "ai".
+strong_targets:
+  - ai
+  - artificial intelligence
+  - machine learning
+  - deep learning
+  - neural network
+  - neural networks
+  - language model
+  - language models
+  - large language
+  - llm
+  - llms
+  - generative ai
+  - chatgpt
+  - openai
+  - anthropic
+  - claude
+  - gemini
+  - gpt
+  - transformer
+  - transformers
+  - agentic
+  - deepfake
+  - deepfakes
+  - chatbot
+  - chatbots
+  - robotics
+  - computer vision
+  - reinforcement learning
+  - backpropagation
+  - lstm
+  - tensorflow
+  - pytorch
+  - agi
+  - superintelligence
+  - hallucination
+  - hallucinations
+  - multimodal
+  - copilot
+  - llama
+  - deepseek
+  - mistral
+  - foundation model
+  - foundation models
+  - ai agent
+  - ai agents
+  - self driving
+  - autonomous vehicles
+  - nvidia
+
+# Sources. Each entry is a seed URL; its host (minus `www.`) and optional
+# path prefix also define what is in scope when `crawl.scope` is `domains`.
+# `www.` is ignored on both sides, so https://www.wired.com covers wired.com.
 domains:
   - https://www.technologyreview.com
   - https://deepmind.google
   - https://openai.com
   - https://www.anthropic.com
-  - https://txt.cohere.com
+  - https://cohere.com/blog
   - https://ai.meta.com
   - https://www.ibm.com/think
-  - https://www.singularityhub.com
+  - https://singularityhub.com
   - https://www.wired.com
   - https://www.vox.com
   - https://www.theverge.com
   - https://www.theguardian.com
   - https://www.theatlantic.com
   #  - https://www.washingtonpost.com
-  - https://www.techcrunch.com
+  - https://techcrunch.com
   - https://www.theinformation.com
   - https://www.axios.com
   - https://www.bloomberg.com
@@ -69,6 +183,182 @@ domains:
   - https://script-ed.org
   - https://deeplearningindaba.com
   - https://mashable.com
+  # Mainstream outlets that serve article text to a crawler (probed Oct 2026).
+  # Host roots so article URLs under any section are in scope; their AI /
+  # tech sections and feeds are listed under `seeds`. Walled off and
+  # therefore not listed: nytimes.com, apnews.com, reuters.com, wsj.com,
+  # washingtonpost.com, politico.com (401/403/timeouts).
+  - https://nypost.com
+  # BBC is scoped to its news and technology paths: the host root pulls in
+  # sport, weather and iPlayer (50k links, zero hits in testing).
+  - https://www.bbc.com/news
+  - https://www.bbc.com/technology
+  - https://www.bbc.co.uk/news
+  - https://www.bbc.co.uk/technology
+  - https://www.cnbc.com
+  - https://www.cnn.com
+  - https://www.nbcnews.com
+  - https://www.foxnews.com
+  - https://time.com
+  - https://www.semafor.com
+  - https://www.zdnet.com
+  - https://arstechnica.com
+  - https://www.engadget.com
+  - https://www.theregister.com
+  - https://www.quantamagazine.org
+  - https://theconversation.com
+  - https://www.scientificamerican.com
+  - https://www.404media.co
+  - https://restofworld.org
+  # AI labs and vendors
+  - https://blogs.nvidia.com
+  - https://www.microsoft.com/en-us/research
+  - https://aws.amazon.com/blogs/machine-learning
+  - https://huggingface.co/blog
+  - https://research.google/blog
+  - https://blog.google/technology/ai
+  - https://mistral.ai/news
 
+# Extra seeds: pages, RSS/Atom feeds or sitemaps. Feeds are the cheapest way
+# to discover new articles on a daily run, and cross-site feeds (news
+# aggregators) are how an `open`-scope crawl reaches sites not listed above.
+seeds:
+  - https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+  - https://www.technologyreview.com/topic/artificial-intelligence/feed
+  - https://www.wired.com/feed/tag/ai/latest/rss
+  - https://venturebeat.com/category/ai/feed/
+  - https://techcrunch.com/category/artificial-intelligence/feed/
+  - https://www.theguardian.com/technology/artificialintelligenceai/rss
+  - https://openai.com/news/rss.xml
+  - https://deepmind.google/blog/rss.xml
+  - https://singularityhub.com/feed/
+  - https://thenextweb.com/neural/feed
+  - https://www.anthropic.com/news
+  - https://www.anthropic.com/research
+  - https://www.anthropic.com/engineering
+  # mainstream sections and feeds
+  - https://nypost.com/tech/feed/
+  - https://feeds.bbci.co.uk/news/technology/rss.xml
+  - https://www.bbc.com/news/technology
+  - https://www.cnbc.com/id/19854910/device/rss/rss.html
+  - https://www.cnbc.com/technology/
+  - http://rss.cnn.com/rss/cnn_tech.rss
+  - https://www.cnn.com/business/tech
+  - https://feeds.nbcnews.com/nbcnews/public/tech
+  - https://moxie.foxnews.com/google-publisher/tech.xml
+  - https://time.com/section/tech/
+  - https://www.semafor.com/vertical/tech
+  - https://www.zdnet.com/news/rss.xml
+  - https://www.zdnet.com/topic/artificial-intelligence/
+  - https://feeds.arstechnica.com/arstechnica/technology-lab
+  - https://arstechnica.com/ai/
+  - https://www.engadget.com/rss.xml
+  - https://www.engadget.com/ai/
+  - https://www.theregister.com/software/ai_ml/headlines.atom
+  - https://api.quantamagazine.org/feed/
+  - https://www.quantamagazine.org/computer-science/
+  - https://theconversation.com/us/technology/articles.atom
+  - https://theconversation.com/us/topics/artificial-intelligence-90
+  - https://www.scientificamerican.com/platform/syndication/rss/
+  - https://www.scientificamerican.com/artificial-intelligence/
+  - https://www.404media.co/rss/
+  - https://restofworld.org/feed/latest/
+  # labs
+  - https://blogs.nvidia.com/feed/
+  - https://www.microsoft.com/en-us/research/feed/
+  - https://aws.amazon.com/blogs/machine-learning/feed/
+  - https://huggingface.co/blog/feed.xml
+  - https://research.google/blog/rss/
+  # Cross-site discovery: entries link straight to publishers, so this only
+  # yields anything with `crawl.scope: open` (in `domains` scope the links
+  # are filtered out). Google News RSS is not usable: its links are
+  # JavaScript redirects.
+  - https://hnrss.org/newest?q=LLM+OR+%22machine+learning%22+OR+%22artificial+intelligence%22&points=20
+
+# Legacy alias for crawl.max_pages.
 limit: 20000
-wordcount: 5
+
+crawl:
+  # `domains`: follow links only within the hosts above.
+  # `open`: follow links anywhere, but only from pages that were hits
+  # (topic locality); hosts that stop producing hits are dropped.
+  scope: domains
+  concurrency: 32
+  per_host_concurrency: 2
+  per_host_delay_ms: 750
+  max_depth: 4
+  # max_pages: 20000   # defaults to `limit` above
+  # max_hits: 2000
+  # max_duration_secs: 3600
+  # Non-hit pages (home, section, listing pages) are refetched after this
+  # many days so new links keep getting discovered. Hits are never refetched.
+  revisit_after_days: 7
+  max_queue_per_host: 50000
+  # Per run. Long runs need this high; scheduled runs are bounded by
+  # max_pages / max_duration anyway.
+  max_pages_per_host: 100000
+  # open scope only: a host outside `domains` needs at least
+  # host_min_hit_ratio hits per fetch after host_probation_pages fetches.
+  host_probation_pages: 40
+  host_min_hit_ratio: 0.05
+  follow_only_from_hits: true
+  follow_robots_sitemaps: true
+  # Fetch seeds (feeds, sitemaps, section pages) again this often during a
+  # run so long crawls keep finding fresh articles.
+  reseed_every_secs: 3600
+  # Give each host turns in proportion to its recent hit ratio (relative to
+  # the best host), after yield_warmup_pages fetches; never below
+  # min_host_weight of a full share.
+  yield_weighting: true
+  yield_warmup_pages: 30
+  min_host_weight: 0.03
+  # Sitemap / feed entries last modified before this date are ignored.
+  # The legacy crawl ends in 2023, so start there; `scraper crawl
+  # --min-lastmod auto` uses the previous run's date instead.
+  min_lastmod: "2023-06-01"
+  # Follow at most this many child sitemaps per index (newest lastmod first).
+  max_sitemaps_per_index: 50
+  respect_robots: true
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  timeout_secs: 20
+  max_body_bytes: 5242880
+  min_text_chars: 400
+  english_only: true
+  # Keep only pages with an article signal (og:type=article, dated metadata
+  # or a dated URL) whose text is mostly paragraph-length blocks. Listing
+  # pages are still crawled for links.
+  require_article_signal: true
+  min_prose_ratio: 0.55
+  # Strong-term rule (see strong_targets).
+  min_strong_mentions: 3
+  require_strong_in_lede: true
+  lede_chars: 600
+  dense_strong_mentions: 12
+  dense_strong_per_1000: 5.0
+  dense_strong_distinct: 2
+  # Pages older than min_lastmod are stored if relevant, but their links
+  # are not followed, so old archives do not pull the crawl into the past.
+  follow_links_from_old_pages: false
+
+# URLs matching any of these are never followed. A pattern ending in `/`
+# matches anywhere in the URL; any other pattern must be a whole path
+# segment (`/search` blocks `/search` and `/en/search/x`, not
+# `/searchgpt-review`).
+exclude_patterns:
+  - /author/
+  - /tag/
+  - /editor/
+  - /wp-json/
+  - /login
+  - /signin
+  - /sign-in
+  - /account
+  - /cart
+  - /checkout
+  - /newsletter
+  - /subscribe
+  - /search
+  - /videos/
+  - /video/
+  - /podcasts/
+  - /live/
