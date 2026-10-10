@@ -41,7 +41,7 @@ seedURLs = Parser.domains config
 {-# NOINLINE prevPages #-}
 prevPages :: [Link]
 prevPages = unsafePerformIO $ do
-  urls <- lines <$!> readFile "backups/3/metadata/urls"
+  urls <- lines <$!> readFile "../backups/3/metadata/urls"
   return $! filter isAllowed $ reverse urls
 
 
@@ -90,8 +90,8 @@ iter queue@(url:rest) seenURLs docID allWords = do
     if fst status then do
       printf "%sHit %5d : %s%s\n" blue docID url reset
       case docID of
-        0 -> writeFile "data/metadata/urls" $ url ++ "\n"
-        _ -> appendFile "data/metadata/urls" $ url ++ "\n"
+        0 -> writeFile "../data/metadata/urls" $ url ++ "\n"
+        _ -> appendFile "../data/metadata/urls" $ url ++ "\n"
       logR docID url page
       iter q s (docID + 1) words
     else iter q s docID words
@@ -119,8 +119,8 @@ hasKeyWords page =
 
 logR :: Int -> Link -> WebPage -> IO ()
 logR docID url page = do
-  let !file = printf "data/log/%d" docID
-  let !rawFile = printf "data/log/%d.txt" docID
+  let !file = printf "../data/log/%d" docID
+  let !rawFile = printf "../data/log/%d.txt" docID
   writeFile file $! printf "%s\n%s\n%s\n\n%s\n" ttl yr url $! show (text page)
   writeFile rawFile $! raw page
     where

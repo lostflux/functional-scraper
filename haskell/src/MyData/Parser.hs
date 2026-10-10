@@ -85,7 +85,7 @@ instance Show Config where
 {-# NOINLINE config #-}
 config :: Config
 config = unsafePerformIO $ do
-  raw <- B.readFile "config.yml"
+  raw <- B.readFile "../config.yml"
   let raw' = YAML.decodeThrow raw :: Maybe Config
   let config = fromMaybe (Config [] [] 0 0) raw'
   printf "CONFIG:\n %s\n" (show config)
@@ -94,7 +94,7 @@ config = unsafePerformIO $ do
 {-# NOINLINE dictionary #-}
 dictionary :: Trie
 dictionary =
-  let !dict = unsafePerformIO $! loadFile "data/metadata/dictionary"
+  let !dict = unsafePerformIO $! loadFile "../data/metadata/dictionary"
   in foldl' (flip Trie.insert) dict $ targets config
 
 checkDict :: String -> Bool
