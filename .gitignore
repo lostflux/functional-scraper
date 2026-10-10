@@ -30,3 +30,15 @@ cabal.project.local~
 
 ai-tech-articles
 
+
+# rust
+
+rust/target
+data/state/frontier.jsonl
+data/state/crawl.log
+
+# secrets
+
+.env
+.env.*
+data/state/progress.json
