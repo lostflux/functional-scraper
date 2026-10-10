@@ -57,9 +57,13 @@ jobs:
         run: |
           echo "token belongs to: $(gh api user --jq .login 2>/dev/null || echo '<not a valid user token>')"
           # A dry-run push to a scratch ref exercises the write permission without changing anything.
-          git push --dry-run origin HEAD:refs/heads/_token-check 2>&1 | tail -3 \
-            || { echo "::error::ACTOR_TOKEN cannot push to ${{ github.repository }}: the fine-grained PAT needs Contents: Read and write on this repo (resource owner lostflux), and the org must allow its lifetime"; exit 1; }
-          echo "write access OK"
+          if out=$(git push --dry-run origin HEAD:refs/heads/_token-check 2>&1); then
+            echo "write access OK"
+          else
+            echo "$out" | tail -3
+            echo "::error::ACTOR_TOKEN cannot push to ${{ github.repository }}: the fine-grained PAT must have resource owner 'lostflux' (not the evilalt user), this repo in its repository list, and Contents: Read and write"
+            exit 1
+          fi
 
       - uses: dtolnay/rust-toolchain@stable
       - uses: Swatinem/rust-cache@v2
