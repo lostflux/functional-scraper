@@ -1,0 +1,14 @@
+[package]
+name = "scraper-store"
+description = "On-disk state: hashed seen-set, compressed JSONL shards, run summaries"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+anyhow.workspace = true
+chrono.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+zstd.workspace = true

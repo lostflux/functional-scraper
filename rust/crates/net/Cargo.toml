@@ -1,0 +1,19 @@
+[package]
+name = "scraper-net"
+description = "HTTP fetching with robots.txt, size caps and charset handling"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+scraper-core.workspace = true
+scraper-extract.workspace = true
+anyhow.workspace = true
+encoding_rs.workspace = true
+flate2.workspace = true
+futures-util.workspace = true
+reqwest.workspace = true
+texting_robots.workspace = true
+tokio.workspace = true
+url.workspace = true

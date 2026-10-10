@@ -1,0 +1,19 @@
+[package]
+name = "scraper-crawl"
+description = "Frontier scheduling and the parallel crawl engine"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+scraper-core.workspace = true
+scraper-net.workspace = true
+scraper-extract.workspace = true
+scraper-store.workspace = true
+anyhow.workspace = true
+chrono.workspace = true
+futures-util.workspace = true
+tokio.workspace = true
+tracing.workspace = true
+url.workspace = true

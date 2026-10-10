@@ -1,0 +1,5 @@
+indent_style = "Block"
+imports_granularity = "Crate"
+reorder_imports = true
+tab_spaces = 2
+max_width = 80

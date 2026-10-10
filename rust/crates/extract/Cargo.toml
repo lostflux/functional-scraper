@@ -1,0 +1,18 @@
+[package]
+name = "scraper-extract"
+description = "HTML/XML content extraction, date parsing and keyword relevance"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+scraper-core.workspace = true
+chrono.workspace = true
+quick-xml.workspace = true
+regex.workspace = true
+scraper.workspace = true
+url.workspace = true
+
+[dependencies.ego-tree]
+version = "0.10"
