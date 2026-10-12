@@ -1,23 +1,23 @@
 {
-  "run_id": "20261011T131812Z",
-  "started_at": "2026-10-11T13:18:12Z",
-  "finished_at": "2026-10-11T13:20:44Z",
-  "duration_secs": 151,
+  "run_id": "20261012T155507Z",
+  "started_at": "2026-10-12T15:55:07Z",
+  "finished_at": "2026-10-12T15:57:24Z",
+  "duration_secs": 137,
   "dispatched": 4000,
-  "fetched_ok": 3853,
-  "hits": 93,
-  "errors": 128,
-  "throttled": 8,
-  "disallowed": 11,
-  "queued_left": 98043,
-  "shard": "data/articles/20261011T131812Z.jsonl.zst",
+  "fetched_ok": 3823,
+  "hits": 125,
+  "errors": 117,
+  "throttled": 5,
+  "disallowed": 55,
+  "queued_left": 94831,
+  "shard": "data/articles/20261012T155507Z.jsonl.zst",
   "hosts": {
     "404media.co": {
-      "fetched": 1,
-      "hits": 0,
+      "fetched": 3,
+      "hits": 1,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.45,
+      "recent_hit_ratio": 0.465,
       "weight": 1.0,
       "dropped": null
     },
@@ -40,20 +40,20 @@
       "dropped": null
     },
     "arstechnica.com": {
-      "fetched": 3,
-      "hits": 1,
+      "fetched": 39,
+      "hits": 6,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.465,
-      "weight": 1.0,
+      "recent_hit_ratio": 0.083,
+      "weight": 0.14,
       "dropped": null
     },
     "aws.amazon.com": {
-      "fetched": 1,
-      "hits": 0,
+      "fetched": 3,
+      "hits": 2,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.45,
+      "recent_hit_ratio": 0.555,
       "weight": 1.0,
       "dropped": null
     },
@@ -67,7 +67,7 @@
       "dropped": "too many consecutive errors"
     },
     "bbc.co.uk": {
-      "fetched": 160,
+      "fetched": 138,
       "hits": 1,
       "queued": 0,
       "in_flight": 0,
@@ -76,11 +76,11 @@
       "dropped": null
     },
     "bbc.com": {
-      "fetched": 6,
-      "hits": 0,
+      "fetched": 7,
+      "hits": 1,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.266,
+      "recent_hit_ratio": 0.339,
       "weight": 1.0,
       "dropped": null
     },
@@ -94,48 +94,48 @@
       "dropped": null
     },
     "blogs.nvidia.com": {
-      "fetched": 1,
-      "hits": 0,
+      "fetched": 2,
+      "hits": 1,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.45,
+      "recent_hit_ratio": 0.505,
       "weight": 1.0,
       "dropped": null
     },
     "bloomberg.com": {
-      "fetched": 28,
+      "fetched": 64,
       "hits": 0,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.026,
-      "weight": 1.0,
+      "recent_hit_ratio": 0.001,
+      "weight": 0.03,
       "dropped": "too many consecutive errors"
     },
     "cnbc.com": {
-      "fetched": 34,
-      "hits": 3,
+      "fetched": 32,
+      "hits": 5,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.083,
-      "weight": 0.12,
+      "recent_hit_ratio": 0.076,
+      "weight": 0.13,
       "dropped": null
     },
     "cnet.com": {
-      "fetched": 106,
-      "hits": 18,
+      "fetched": 88,
+      "hits": 3,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.505,
-      "weight": 0.73,
+      "recent_hit_ratio": 0.0,
+      "weight": 0.03,
       "dropped": null
     },
     "cnn.com": {
-      "fetched": 55,
-      "hits": 0,
+      "fetched": 63,
+      "hits": 8,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.002,
-      "weight": 0.03,
+      "recent_hit_ratio": 0.339,
+      "weight": 0.58,
       "dropped": null
     },
     "cohere.com": {
@@ -166,17 +166,17 @@
       "dropped": null
     },
     "engadget.com": {
-      "fetched": 38,
-      "hits": 4,
+      "fetched": 52,
+      "hits": 5,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.123,
-      "weight": 0.18,
+      "recent_hit_ratio": 0.029,
+      "weight": 0.05,
       "dropped": null
     },
     "foxnews.com": {
-      "fetched": 96,
-      "hits": 0,
+      "fetched": 80,
+      "hits": 2,
       "queued": 0,
       "in_flight": 0,
       "recent_hit_ratio": 0.0,
@@ -193,11 +193,11 @@
       "dropped": null
     },
     "huggingface.co": {
-      "fetched": 2,
-      "hits": 0,
+      "fetched": 4,
+      "hits": 1,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.405,
+      "recent_hit_ratio": 0.418,
       "weight": 1.0,
       "dropped": null
     },
@@ -211,7 +211,7 @@
       "dropped": null
     },
     "mashable.com": {
-      "fetched": 172,
+      "fetched": 155,
       "hits": 2,
       "queued": 0,
       "in_flight": 0,
@@ -220,11 +220,11 @@
       "dropped": null
     },
     "microsoft.com": {
-      "fetched": 19,
-      "hits": 3,
+      "fetched": 14,
+      "hits": 5,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.162,
+      "recent_hit_ratio": 0.445,
       "weight": 1.0,
       "dropped": null
     },
@@ -238,11 +238,11 @@
       "dropped": null
     },
     "nbcnews.com": {
-      "fetched": 56,
-      "hits": 0,
+      "fetched": 166,
+      "hits": 4,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.001,
+      "recent_hit_ratio": 0.0,
       "weight": 0.03,
       "dropped": null
     },
@@ -256,11 +256,11 @@
       "dropped": null
     },
     "newyorker.com": {
-      "fetched": 54,
-      "hits": 0,
+      "fetched": 78,
+      "hits": 2,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.002,
+      "recent_hit_ratio": 0.017,
       "weight": 0.03,
       "dropped": null
     },
@@ -274,12 +274,12 @@
       "dropped": null
     },
     "nypost.com": {
-      "fetched": 25,
+      "fetched": 54,
       "hits": 0,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.036,
-      "weight": 1.0,
+      "recent_hit_ratio": 0.002,
+      "weight": 0.03,
       "dropped": null
     },
     "openai.com": {
@@ -292,11 +292,11 @@
       "dropped": null
     },
     "quantamagazine.org": {
-      "fetched": 5,
-      "hits": 0,
+      "fetched": 3,
+      "hits": 1,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.295,
+      "recent_hit_ratio": 0.465,
       "weight": 1.0,
       "dropped": null
     },
@@ -337,6 +337,69 @@
       "dropped": null
     },
     "semafor.com": {
+      "fetched": 29,
+      "hits": 1,
+      "queued": 0,
+      "in_flight": 0,
+      "recent_hit_ratio": 0.089,
+      "weight": 1.0,
+      "dropped": null
+    },
+    "singularityhub.com": {
+      "fetched": 1,
+      "hits": 0,
+      "queued": 0,
+      "in_flight": 0,
+      "recent_hit_ratio": 0.45,
+      "weight": 1.0,
+      "dropped": null
+    },
+    "techcrunch.com": {
+      "fetched": 47,
+      "hits": 18,
+      "queued": 0,
+      "in_flight": 0,
+      "recent_hit_ratio": 0.221,
+      "weight": 0.38,
+      "dropped": null
+    },
+    "technologyreview.com": {
+      "fetched": 4,
+      "hits": 1,
+      "queued": 0,
+      "in_flight": 0,
+      "recent_hit_ratio": 0.409,
+      "weight": 1.0,
+      "dropped": null
+    },
+    "theatlantic.com": {
+      "fetched": 4,
+      "hits": 0,
+      "queued": 0,
+      "in_flight": 0,
+      "recent_hit_ratio": 0.328,
+      "weight": 1.0,
+      "dropped": null
+    },
+    "theconversation.com": {
+      "fetched": 53,
+      "hits": 2,
+      "queued": 0,
+      "in_flight": 0,
+      "recent_hit_ratio": 0.023,
+      "weight": 0.04,
+      "dropped": null
+    },
+    "theguardian.com": {
+      "fetched": 172,
+      "hits": 7,
+      "queued": 0,
+      "in_flight": 0,
+      "recent_hit_ratio": 0.087,
+      "weight": 0.15,
+      "dropped": null
+    },
+    "theinformation.com": {
       "fetched": 3,
       "hits": 0,
       "queued": 0,
@@ -345,99 +408,36 @@
       "weight": 1.0,
       "dropped": null
     },
-    "singularityhub.com": {
-      "fetched": 2,
-      "hits": 1,
-      "queued": 0,
-      "in_flight": 0,
-      "recent_hit_ratio": 0.505,
-      "weight": 1.0,
-      "dropped": null
-    },
-    "techcrunch.com": {
-      "fetched": 36,
-      "hits": 26,
-      "queued": 0,
-      "in_flight": 0,
-      "recent_hit_ratio": 0.692,
-      "weight": 1.0,
-      "dropped": null
-    },
-    "technologyreview.com": {
-      "fetched": 9,
-      "hits": 0,
-      "queued": 0,
-      "in_flight": 0,
-      "recent_hit_ratio": 0.194,
-      "weight": 1.0,
-      "dropped": null
-    },
-    "theatlantic.com": {
-      "fetched": 7,
-      "hits": 0,
-      "queued": 0,
-      "in_flight": 0,
-      "recent_hit_ratio": 0.239,
-      "weight": 1.0,
-      "dropped": null
-    },
-    "theconversation.com": {
-      "fetched": 15,
-      "hits": 0,
-      "queued": 0,
-      "in_flight": 0,
-      "recent_hit_ratio": 0.103,
-      "weight": 1.0,
-      "dropped": null
-    },
-    "theguardian.com": {
-      "fetched": 195,
-      "hits": 6,
-      "queued": 0,
-      "in_flight": 0,
-      "recent_hit_ratio": 0.002,
-      "weight": 0.03,
-      "dropped": null
-    },
-    "theinformation.com": {
-      "fetched": 5,
-      "hits": 0,
-      "queued": 0,
-      "in_flight": 0,
-      "recent_hit_ratio": 0.295,
-      "weight": 1.0,
-      "dropped": null
-    },
     "thenextweb.com": {
-      "fetched": 14,
-      "hits": 4,
+      "fetched": 28,
+      "hits": 9,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.323,
+      "recent_hit_ratio": 0.287,
       "weight": 1.0,
       "dropped": null
     },
     "theverge.com": {
-      "fetched": 165,
+      "fetched": 142,
       "hits": 5,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.035,
-      "weight": 0.05,
+      "recent_hit_ratio": 0.0,
+      "weight": 0.03,
       "dropped": null
     },
     "time.com": {
-      "fetched": 41,
+      "fetched": 35,
       "hits": 0,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.007,
+      "recent_hit_ratio": 0.013,
       "weight": 0.03,
       "dropped": null
     },
     "vox.com": {
-      "fetched": 184,
-      "hits": 3,
+      "fetched": 161,
+      "hits": 0,
       "queued": 0,
       "in_flight": 0,
       "recent_hit_ratio": 0.0,
@@ -445,21 +445,21 @@
       "dropped": null
     },
     "wired.com": {
-      "fetched": 9,
+      "fetched": 14,
       "hits": 1,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.242,
+      "recent_hit_ratio": 0.143,
       "weight": 1.0,
       "dropped": null
     },
     "zdnet.com": {
-      "fetched": 99,
-      "hits": 15,
+      "fetched": 80,
+      "hits": 31,
       "queued": 0,
       "in_flight": 0,
-      "recent_hit_ratio": 0.011,
-      "weight": 0.03,
+      "recent_hit_ratio": 0.585,
+      "weight": 1.0,
       "dropped": null
     }
   }
